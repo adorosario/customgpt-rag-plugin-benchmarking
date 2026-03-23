@@ -1,0 +1,16 @@
+{
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What is Project Nexus and which teams are involved?",
+  "method": "cc_rag",
+  "response": "---\n\n**Answer**\n\nProject Nexus is an active project focusing on four core areas: **Nexus core development**, **cross-platform functionality**, **synchronization**, and **conflict resolution**. The project has been delivering results across all these areas. Additional context from the emails includes:\n\n- A hiring pipeline with several qualified candidates in the final stage\n- A security audit that found no critical vulnerabilities\n- Coordination across travel arrangements, customer support, data migration, and follow-up meetings\n\n**Teams involved:** Product, Engineering, and Customer Support\n\n---\n\n**Sources**\n\n| # | Source |\n|---|--------|\n| 1 | email_0309.pdf |\n| 2 | email_0078.pdf |\n| 3 | email_0103.pdf |",
+  "time_seconds": 37.82,
+  "num_turns": 8,
+  "cost_usd": 0.1243542,
+  "total_tokens": 189595,
+  "timed_out": false,
+  "error": null,
+  "model": "claude-sonnet-4-6",
+  "permission_denials": 0
+}

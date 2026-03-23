@@ -1,0 +1,164 @@
+departments:
+  - name: Engineering
+    team_email: engineering@acmecorp.com
+    employees:
+      - first_name: Alex
+        last_name: Chen
+        email: alex.chen@acmecorp.com
+        role: Senior Backend Engineer
+      - first_name: Priya
+        last_name: Sharma
+        email: priya.sharma@acmecorp.com
+        role: Frontend Engineer
+      - first_name: Marcus
+        last_name: Thompson
+        email: marcus.thompson@acmecorp.com
+        role: DevOps Lead
+      - first_name: Wei
+        last_name: Zhang
+        email: wei.zhang@acmecorp.com
+        role: ML Engineer
+      - first_name: Elena
+        last_name: Vasquez
+        email: elena.vasquez@acmecorp.com
+        role: Staff Engineer
+      - first_name: Oluwaseun
+        last_name: Adeyemi
+        email: oluwaseun.adeyemi@acmecorp.com
+        role: Platform Engineer
+      - first_name: Tomoko
+        last_name: Nakamura
+        email: tomoko.nakamura@acmecorp.com
+        role: QA Lead
+      - first_name: Ravi
+        last_name: Patel
+        email: ravi.patel@acmecorp.com
+        role: Security Engineer
+
+  - name: Sales
+    team_email: sales@acmecorp.com
+    employees:
+      - first_name: Derek
+        last_name: Morrison
+        email: derek.morrison@acmecorp.com
+        role: VP Sales
+      - first_name: Aisha
+        last_name: Okafor
+        email: aisha.okafor@acmecorp.com
+        role: Account Executive
+      - first_name: Carlos
+        last_name: Rivera
+        email: carlos.rivera@acmecorp.com
+        role: Account Executive
+      - first_name: Hannah
+        last_name: Goldstein
+        email: hannah.goldstein@acmecorp.com
+        role: SDR
+      - first_name: Jun
+        last_name: Tanaka
+        email: jun.tanaka@acmecorp.com
+        role: SDR
+      - first_name: Dmitri
+        last_name: Volkov
+        email: dmitri.volkov@acmecorp.com
+        role: Sales Engineer
+
+  - name: Marketing
+    team_email: marketing@acmecorp.com
+    employees:
+      - first_name: Laura
+        last_name: Kim
+        email: laura.kim@acmecorp.com
+        role: Marketing Director
+      - first_name: James
+        last_name: Oduya
+        email: james.oduya@acmecorp.com
+        role: Content Manager
+      - first_name: Sofia
+        last_name: Martinez
+        email: sofia.martinez@acmecorp.com
+        role: Growth Lead
+      - first_name: Yuki
+        last_name: Sato
+        email: yuki.sato@acmecorp.com
+        role: Brand Designer
+
+  - name: HR
+    team_email: hr@acmecorp.com
+    employees:
+      - first_name: Rachel
+        last_name: Nguyen
+        email: rachel.nguyen@acmecorp.com
+        role: HR Director
+      - first_name: Kwame
+        last_name: Asante
+        email: kwame.asante@acmecorp.com
+        role: Recruiter
+      - first_name: Fatima
+        last_name: Al-Rashid
+        email: fatima.al-rashid@acmecorp.com
+        role: People Ops Manager
+      - first_name: Patrick
+        last_name: O'Brien
+        email: patrick.obrien@acmecorp.com
+        role: L&D Specialist
+
+  - name: Legal
+    team_email: legal@acmecorp.com
+    employees:
+      - first_name: Sarah
+        last_name: Chen
+        email: sarah.chen@acmecorp.com
+        role: General Counsel
+      - first_name: David
+        last_name: Okonkwo
+        email: david.okonkwo@acmecorp.com
+        role: IP Attorney
+      - first_name: Maria
+        last_name: Santos
+        email: maria.santos@acmecorp.com
+        role: Compliance Officer
+
+  - name: Finance
+    team_email: finance@acmecorp.com
+    employees:
+      - first_name: Robert
+        last_name: Kimura
+        email: robert.kimura@acmecorp.com
+        role: CFO
+      - first_name: Ananya
+        last_name: Desai
+        email: ananya.desai@acmecorp.com
+        role: Financial Analyst
+      - first_name: Michael
+        last_name: Brennan
+        email: michael.brennan@acmecorp.com
+        role: Controller
+      - first_name: Grace
+        last_name: Mwangi
+        email: grace.mwangi@acmecorp.com
+        role: AP/AR Manager
+
+  - name: Product
+    team_email: product@acmecorp.com
+    employees:
+      - first_name: Daniel
+        last_name: Park
+        email: daniel.park@acmecorp.com
+        role: VP Product
+      - first_name: Amara
+        last_name: Diallo
+        email: amara.diallo@acmecorp.com
+        role: Senior PM
+      - first_name: Liam
+        last_name: Foster
+        email: liam.foster@acmecorp.com
+        role: PM
+      - first_name: Mei
+        last_name: Lin
+        email: mei.lin@acmecorp.com
+        role: UX Researcher
+      - first_name: Sanjay
+        last_name: Krishnamurthy
+        email: sanjay.krishnamurthy@acmecorp.com
+        role: Product Analyst

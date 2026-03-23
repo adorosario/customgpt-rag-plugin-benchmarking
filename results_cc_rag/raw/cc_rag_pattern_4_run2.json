@@ -1,0 +1,16 @@
+{
+  "question_id": "pattern_4",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What are the plans for the annual company retreat?",
+  "method": "cc_rag",
+  "response": "**Answer**\n\nThe annual company retreat planning is progressing well. Key details from the indexed emails:\n\n- The retreat, venue, and related logistics are **on track**\n- The **marketing campaign** for the retreat is scheduled to launch at the **beginning of next quarter**\n- **Training materials** have been distributed to all new team members\n- An **updated spreadsheet** for retreat planning has been shared for review\n\n**Sources**\n\n| # | Source |\n|---|--------|\n| 1 | email_0405.pdf |\n| 2 | email_0295.pdf |",
+  "time_seconds": 36.92,
+  "num_turns": 7,
+  "cost_usd": 0.15226725,
+  "total_tokens": 157557,
+  "timed_out": false,
+  "error": null,
+  "model": "claude-sonnet-4-6",
+  "permission_denials": 0
+}

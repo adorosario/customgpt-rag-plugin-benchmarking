@@ -1,0 +1,21 @@
+{
+  "tier": 250,
+  "question_id": "pattern_5",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What's happening with the Series B fundraising?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about Series B fundraising in my memory or project context. My records are focused on the Claude Code benchmark study for the RAG plugin launch.\n\nDo you have context about a Series B raise you'd like to discuss, or were you testing what I know?",
+  "time_seconds": 22.22,
+  "num_turns": 2,
+  "cost_usd": 0.06885225,
+  "input_tokens": 4,
+  "cache_creation_tokens": 12373,
+  "cache_read_tokens": 65005,
+  "output_tokens": 196,
+  "total_tokens": 77578,
+  "duration_api_ms": 14117,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

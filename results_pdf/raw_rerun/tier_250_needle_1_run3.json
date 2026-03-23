@@ -1,0 +1,21 @@
+{
+  "tier": 250,
+  "question_id": "needle_1",
+  "question_type": "hard",
+  "run": 3,
+  "question": "When did Sarah from Legal say the patent filing deadline was moved to, and who did she tell?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on `email_0087.pdf`, Sarah Chen (Legal) does **not** mention a deadline being *moved*. The email is a status update on the Analytics Pro patent application, and she recommends **targeting Monday, August 6** as the internal target date to file the non-provisional application (to allow buffer before the statutory 12-month deadline from the provisional filing date).\n\nShe sent this to:\n- **To:** Tomoko Nakamura (tomoko.nakamura@acmecorp.com)\n- **CC:** legal@acmecorp.com\n\nNote: the PDF appears to contain corrupted/garbled values (e.g., \"130 months,\" \"429ms weeks,\" \"$478,743\" repeated for unrelated items), which are likely artifacts from how the benchmark data was generated. If you're looking for a specific email where a deadline was explicitly *moved/changed*, this may not be the right one \u00e2\u20ac\u201d or the relevant detail may have been corrupted in the PDF rendering.",
+  "time_seconds": 76.75,
+  "num_turns": 5,
+  "cost_usd": 0.21652905,
+  "input_tokens": 8,
+  "cache_creation_tokens": 18795,
+  "cache_read_tokens": 116955,
+  "output_tokens": 1418,
+  "total_tokens": 137176,
+  "duration_api_ms": 66791,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

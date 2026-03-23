@@ -1,0 +1,16 @@
+{
+  "question_id": "pattern_5",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What's happening with the Series B fundraising?",
+  "method": "cc_rag",
+  "response": "**Answer**\n\nThe Series B fundraising is progressing well. The team is focused on delivering results across several key areas including fundraising, valuation, and investor relations. The term sheet aspect is also advancing positively. Updates indicate that everyone is aligned on the current status, with an open invitation to discuss further if needed.\n\n**Sources**\n\n| # | Source |\n|---|--------|\n| 1 | email_0082.pdf |\n| 2 | email_0325.pdf |",
+  "time_seconds": 34.36,
+  "num_turns": 8,
+  "cost_usd": 0.12612315,
+  "total_tokens": 189768,
+  "timed_out": false,
+  "error": null,
+  "model": "claude-sonnet-4-6",
+  "permission_denials": 0
+}

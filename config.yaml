@@ -1,0 +1,57 @@
+project_name: "Claude Code Scaling Benchmark"
+version: "1.0"
+
+emails:
+  total_count: 10000
+  templates_per_department: 120
+  words_per_email:
+    min: 100
+    max: 300
+  company: "Acme Corp"
+  departments:
+    - name: Engineering
+      headcount: 8
+    - name: Sales
+      headcount: 6
+    - name: Marketing
+      headcount: 4
+    - name: HR
+      headcount: 4
+    - name: Legal
+      headcount: 3
+    - name: Finance
+      headcount: 4
+    - name: Product
+      headcount: 5
+  date_range:
+    start: "2025-06-01"
+    end: "2025-12-01"
+
+tiers: [5, 10, 30, 50, 100, 250, 500, 1000, 2500, 5000, 10000]
+
+benchmark:
+  command: "claude"
+  flags: "-p"
+  repetitions: 3
+  cwd_template: "emails/tier_{tier}/"
+  timeouts:
+    5: 180
+    10: 180
+    30: 180
+    50: 180
+    100: 180
+    250: 180
+    500: 180
+    1000: 300
+    2500: 600
+    5000: 600
+    10000: 900
+
+rag:
+  enabled: false
+
+report:
+  output_dir: "results/"
+  chart_dpi: 300
+  chart_formats: ["png", "svg"]
+  brand_color: "#6366F1"

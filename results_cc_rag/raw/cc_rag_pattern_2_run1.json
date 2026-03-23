@@ -1,0 +1,16 @@
+{
+  "question_id": "pattern_2",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What's the status of the Berlin office opening?",
+  "method": "cc_rag",
+  "response": "---\n\n**Answer**\n\nThe Berlin office opening is progressing well. Positive updates have been reported on several fronts \u00e2\u20ac\u201d office setup, lease, relocation, and compliance are all advancing as planned. The team is focused on delivering results and documentation has been updated to reflect recent changes. The team is open to further discussion if additional details are needed.\n\n**Sources**\n\n| # | Source |\n|---|--------|\n| 1 | email_0491.pdf |\n| 2 | email_0002.pdf |",
+  "time_seconds": 34.13,
+  "num_turns": 7,
+  "cost_usd": 0.11259359999999999,
+  "total_tokens": 157727,
+  "timed_out": false,
+  "error": null,
+  "model": "claude-sonnet-4-6",
+  "permission_denials": 0
+}

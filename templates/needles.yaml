@@ -1,0 +1,292 @@
+hard_needles:
+  - id: needle_1
+    email_number: 347
+    first_appears_at: 500
+    from: sarah.chen@acmecorp.com
+    to: david.okonkwo@acmecorp.com
+    cc: legal@acmecorp.com
+    subject: "Re: Patent Filing Deadline Update"
+    date: "2025-08-14"
+    body: |
+      Hi David,
+
+      Quick update on the Nexus patent filing timeline. After reviewing the prior art search
+      results with outside counsel, we need to adjust our schedule. The filing deadline has
+      been moved to April 15, pushing back from the original March 30 target.
+
+      The reason for the extension is that the prior art search uncovered three related filings
+      from Initech that we need to carefully distinguish in our claims. Their filings cover
+      some adjacent territory in the cross-platform synchronization space, but our novel
+      contribution around the conflict resolution algorithm remains clearly differentiable.
+
+      I've asked the patent drafting team to incorporate specific language addressing the
+      Initech prior art to strengthen our position. Please coordinate with Elena from
+      Engineering to make sure the technical descriptions in sections 4 through 7 accurately
+      reflect the latest implementation.
+
+      We should schedule a review meeting for the week of April 7 to do a final read-through
+      before submission. Can you check everyone's availability?
+
+      Thanks,
+      Sarah
+
+  - id: needle_2
+    email_number: 892
+    first_appears_at: 1000
+    from: ananya.desai@acmecorp.com
+    to: robert.kimura@acmecorp.com
+    cc: finance@acmecorp.com
+    subject: "Q3 Revenue Projection — Revised Figures"
+    date: "2025-09-02"
+    body: |
+      Hi Robert,
+
+      I've completed the revised Q3 revenue projection based on the latest pipeline data
+      from Sales and the updated expense forecasts. The new number comes in at $4.2M, which
+      is down from our original $4.8M target but still represents healthy year-over-year
+      growth.
+
+      Two main factors drove the revision. First, the Berlin office opening has been pushed
+      back by six weeks, which delays the European revenue ramp we had built into the
+      forecast. Second, the Initech deal that Sales flagged as likely-to-close in August is
+      now showing signs of slipping into Q4 due to their internal budget approval process.
+
+      On the positive side, the Finance team has identified cost savings in infrastructure
+      spending that partially offset the revenue shortfall. Our gross margin is actually
+      improving quarter over quarter.
+
+      I've attached the detailed breakdown by revenue stream and region. Let me know if
+      you'd like me to present this to the board or if you want to walk through the
+      numbers first.
+
+      Best,
+      Ananya
+
+  - id: needle_3
+    email_number: 1203
+    first_appears_at: 2500
+    from: marcus.thompson@acmecorp.com
+    to: engineering@acmecorp.com
+    subject: "Database Migration Approval — PostgreSQL 16"
+    date: "2025-09-18"
+    body: |
+      Team,
+
+      Good news — the database migration to PostgreSQL 16 has been formally approved. We
+      will begin the migration on September 3 during the scheduled maintenance window,
+      starting at 2:00 AM UTC.
+
+      Here's what the benchmarks showed during our proof-of-concept phase: query throughput
+      improved by 23% on our heaviest reporting workloads, and the new parallel vacuum
+      feature reduced our nightly maintenance window from 47 minutes down to 18 minutes.
+      The logical replication improvements also mean we can set up the read replicas with
+      significantly less operational overhead.
+
+      The migration timeline is structured in three phases. Phase one covers the staging
+      environment and runs through mid-September. Phase two handles the read replicas and
+      analytics databases in early October. Phase three is the primary production cutover,
+      currently targeted for October 20.
+
+      I've created a detailed runbook in Confluence. Please review the rollback procedures
+      for your service areas by end of week. If anyone has concerns or dependencies I
+      haven't accounted for, speak up now.
+
+      Thanks,
+      Marcus
+
+  - id: needle_4
+    email_number: 3421
+    first_appears_at: 5000
+    from: rachel.nguyen@acmecorp.com
+    to: all-staff@acmecorp.com
+    cc: hr@acmecorp.com
+    subject: "Remote Work Policy Update — Effective January 2026"
+    date: "2025-10-15"
+    body: |
+      Hi everyone,
+
+      After extensive consultation with department leads and the results of last month's
+      employee survey, I'm sharing the updated remote work policy that takes effect on
+      January 1, 2026.
+
+      The key change is a move to a structured hybrid model. Starting in 2026, all employees
+      will be expected to work from the office a minimum of 3 days per week, specifically
+      Tuesday through Thursday. Monday and Friday remain flexible remote days. This applies
+      to all locations — the main headquarters as well as the Berlin office once it opens.
+
+      We understand this is a shift from the current fully flexible arrangement. The decision
+      was driven by feedback from managers who reported that cross-team collaboration and
+      mentorship have suffered under the fully remote model. The survey data also showed
+      that 62% of employees preferred some guaranteed in-office overlap with their teams.
+
+      Exceptions for roles that are designated as fully remote will continue to be handled
+      on a case-by-case basis through your department head. If you have questions or
+      concerns, please reach out to your People Ops partner or attend the Q&A session
+      scheduled for October 28.
+
+      Best regards,
+      Rachel
+
+  - id: needle_5
+    email_number: 7890
+    first_appears_at: 10000
+    from: maria.santos@acmecorp.com
+    to: robert.kimura@acmecorp.com
+    cc: sarah.chen@acmecorp.com
+    subject: "CloudScale Contract Renewal — Final Terms"
+    date: "2025-11-20"
+    body: |
+      Hi Robert,
+
+      I'm pleased to confirm that we've finalized the CloudScale vendor contract renewal.
+      After three rounds of negotiation, we landed on terms that I think represent a solid
+      outcome for Acme Corp.
+
+      The final pricing is $85,000 per year, which is a 12% reduction from the original
+      renewal quote of $96,500. The contract is structured as a 2-year term running from
+      January 2026 through December 2027, with a rate lock guarantee for the full duration.
+
+      CloudScale will continue to provide our core infrastructure services including
+      managed Kubernetes clusters, object storage, and the CDN tier we rely on for the
+      customer-facing application. They've also agreed to include priority support at no
+      additional cost, which was previously a $6,000 annual add-on.
+
+      Sarah has reviewed the final redline and confirmed no outstanding legal concerns. I'll
+      need your signature on the execution copy by December 1 to lock in the January start
+      date. I'm sending the DocuSign package separately.
+
+      Let me know if you have any questions.
+
+      Best,
+      Maria
+
+easy_patterns:
+  - id: pattern_1
+    topic: "Project Nexus"
+    mention_count: 15
+    departments: ["Engineering", "Product"]
+    email_subjects:
+      - "Project Nexus sprint planning"
+      - "Re: Nexus architecture review"
+      - "Nexus API design — feedback needed"
+      - "Re: Project Nexus milestone update"
+      - "Nexus performance benchmarks — results"
+      - "Project Nexus cross-platform sync spec"
+      - "Re: Nexus code review — conflict resolution module"
+      - "Nexus launch timeline discussion"
+      - "Re: Project Nexus resource allocation"
+      - "Nexus user testing — round 2 findings"
+      - "Re: Nexus mobile client progress"
+      - "Project Nexus risk assessment"
+      - "Nexus data model changes — breaking change alert"
+      - "Re: Nexus integration testing plan"
+      - "Project Nexus — weekly status update"
+    body_keywords:
+      - "Nexus"
+      - "cross-platform"
+      - "synchronization"
+      - "conflict resolution"
+      - "milestone"
+      - "integration"
+      - "API"
+
+  - id: pattern_2
+    topic: "Berlin office opening"
+    mention_count: 12
+    departments: ["HR", "Finance", "Legal"]
+    email_subjects:
+      - "Berlin office — lease agreement status"
+      - "Re: Berlin office opening timeline"
+      - "Berlin office furniture and IT procurement"
+      - "Re: Berlin hiring plan — Q4 targets"
+      - "Berlin office — regulatory compliance checklist"
+      - "Re: Berlin relocation packages"
+      - "Berlin office budget — revised estimate"
+      - "Re: Berlin office launch event planning"
+      - "Berlin work permits — processing update"
+      - "Re: Berlin office — local legal entity setup"
+      - "Berlin office network infrastructure"
+      - "Re: Berlin office — employee handbook localization"
+    body_keywords:
+      - "Berlin"
+      - "office"
+      - "lease"
+      - "relocation"
+      - "European"
+      - "compliance"
+      - "hiring"
+      - "procurement"
+
+  - id: pattern_3
+    topic: "Initech API latency complaint"
+    mention_count: 10
+    departments: ["Sales", "Engineering"]
+    email_subjects:
+      - "Initech escalation — API latency issues"
+      - "Re: Initech performance SLA breach"
+      - "Initech API response times — investigation findings"
+      - "Re: Initech account — customer success check-in"
+      - "Initech latency fix — hotfix deployment plan"
+      - "Re: Initech — root cause analysis report"
+      - "Initech API — load testing results"
+      - "Re: Initech follow-up call summary"
+      - "Initech service degradation — postmortem"
+      - "Re: Initech account retention strategy"
+    body_keywords:
+      - "Initech"
+      - "API"
+      - "latency"
+      - "SLA"
+      - "response time"
+      - "performance"
+      - "escalation"
+
+  - id: pattern_4
+    topic: "Annual company retreat planning"
+    mention_count: 12
+    departments: ["HR", "Marketing"]
+    email_subjects:
+      - "Annual retreat — venue options"
+      - "Re: Company retreat dates — November poll results"
+      - "Retreat agenda — team building activities"
+      - "Re: Annual retreat — budget approval"
+      - "Retreat logistics — travel and accommodations"
+      - "Re: Company retreat — keynote speaker ideas"
+      - "Annual retreat — dietary restrictions survey"
+      - "Re: Retreat branding and swag"
+      - "Company retreat — breakout session topics"
+      - "Re: Annual retreat — AV and presentation setup"
+      - "Retreat photography and social media plan"
+      - "Re: Company retreat — final headcount"
+    body_keywords:
+      - "retreat"
+      - "annual"
+      - "venue"
+      - "team building"
+      - "agenda"
+      - "November"
+      - "logistics"
+
+  - id: pattern_5
+    topic: "Series B fundraising discussions"
+    mention_count: 10
+    departments: ["Finance", "Legal"]
+    email_subjects:
+      - "Series B — investor pitch deck review"
+      - "Re: Series B fundraising timeline"
+      - "Series B — term sheet comparison"
+      - "Re: Series B due diligence document prep"
+      - "Series B — valuation model update"
+      - "Re: Series B — lead investor negotiations"
+      - "Series B cap table — scenario modeling"
+      - "Re: Series B — board seat provisions"
+      - "Series B fundraising — legal structure options"
+      - "Re: Series B — data room organization"
+    body_keywords:
+      - "Series B"
+      - "fundraising"
+      - "valuation"
+      - "investor"
+      - "term sheet"
+      - "due diligence"
+      - "cap table"

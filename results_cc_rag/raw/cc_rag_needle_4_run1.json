@@ -1,0 +1,16 @@
+{
+  "question_id": "needle_4",
+  "question_type": "hard",
+  "run": 1,
+  "question": "When do the remote work policy changes take effect?",
+  "method": "cc_rag",
+  "response": "**Answer**\n\nThe agent could not find specific information about remote work policy changes in the indexed documents.\n\n**Sources**\n\nNo specific sources were found. The agent returned: \"I'm sorry, I don't know the answer.\"\n\nThe indexed knowledge base (500 PDF emails) may not contain emails discussing remote work policy changes, or the relevant emails may not have been processed yet. You can run `/check-status` to confirm indexing is complete.",
+  "time_seconds": 35.1,
+  "num_turns": 7,
+  "cost_usd": 0.1116534,
+  "total_tokens": 157550,
+  "timed_out": false,
+  "error": null,
+  "model": "claude-sonnet-4-6",
+  "permission_denials": 0
+}

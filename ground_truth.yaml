@@ -1,0 +1,103 @@
+hard_needles:
+  - id: needle_1
+    question: "When did Sarah from Legal say the patent filing deadline was moved to, and who did she tell?"
+    required_facts:
+      - "April 15"
+      - "Sarah"
+    partial_facts:
+      - "patent filing"
+      - "deadline"
+    first_appears_at: 500
+
+  - id: needle_2
+    question: "What was the revised Q3 revenue projection from Finance?"
+    required_facts:
+      - "4.2"
+      - "Finance"
+    partial_facts:
+      - "revenue"
+      - "Q3"
+    first_appears_at: 1000
+
+  - id: needle_3
+    question: "What database did Engineering approve migrating to, and on what date?"
+    required_facts:
+      - "PostgreSQL 16"
+      - "September 3"
+    partial_facts:
+      - "migration"
+      - "database"
+    first_appears_at: 2500
+
+  - id: needle_4
+    question: "When do the remote work policy changes take effect?"
+    required_facts:
+      - "January 1"
+      - "2026"
+    partial_facts:
+      - "remote work"
+      - "policy"
+    first_appears_at: 5000
+
+  - id: needle_5
+    question: "How much is the CloudScale vendor contract renewal per year?"
+    required_facts:
+      - "85,000"
+      - "CloudScale"
+    partial_facts:
+      - "vendor"
+      - "contract"
+    first_appears_at: 10000
+
+easy_patterns:
+  - id: pattern_1
+    question: "What is Project Nexus and which teams are involved?"
+    required_facts:
+      - "Nexus"
+    required_all_of:
+      - "Engineering"
+      - "Product"
+    partial_facts:
+      - "Nexus"
+    min_detail_sentences: 2
+
+  - id: pattern_2
+    question: "What's the status of the Berlin office opening?"
+    required_facts:
+      - "Berlin"
+    required_all_of:
+      - "office"
+    partial_facts:
+      - "Berlin"
+    min_detail_sentences: 2
+
+  - id: pattern_3
+    question: "What issues has Initech reported and how is the team responding?"
+    required_facts:
+      - "Initech"
+    required_all_of:
+      - "API"
+      - "latency"
+    partial_facts:
+      - "Initech"
+    min_detail_sentences: 2
+
+  - id: pattern_4
+    question: "What are the plans for the annual company retreat?"
+    required_facts:
+      - "retreat"
+    required_all_of:
+      - "annual"
+    partial_facts:
+      - "retreat"
+    min_detail_sentences: 2
+
+  - id: pattern_5
+    question: "What's happening with the Series B fundraising?"
+    required_facts:
+      - "Series B"
+    required_all_of:
+      - "fundraising"
+    partial_facts:
+      - "Series B"
+    min_detail_sentences: 2

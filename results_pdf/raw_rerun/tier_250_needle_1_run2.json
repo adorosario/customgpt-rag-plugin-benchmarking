@@ -1,0 +1,21 @@
+{
+  "tier": 250,
+  "question_id": "needle_1",
+  "question_type": "hard",
+  "run": 2,
+  "question": "When did Sarah from Legal say the patent filing deadline was moved to, and who did she tell?",
+  "model": "claude-sonnet-4-6",
+  "response": "No email matching that description exists in this dataset.\n\nAfter scanning all 250 PDF email files, there is no email from \"Sarah from Legal\" about a patent filing deadline being **moved**. The dataset contains two emails from a \"Sarah Chen\" related to patents (`email_0087.pdf` and `email_0090.pdf`), but both are routine IP filing status updates with no mention of a deadline change.\n\nThis question cannot be answered from the available files.",
+  "time_seconds": 179.18,
+  "num_turns": 5,
+  "cost_usd": 0.5482505999999999,
+  "input_tokens": 7,
+  "cache_creation_tokens": 15266,
+  "cache_read_tokens": 144806,
+  "output_tokens": 1287,
+  "total_tokens": 161366,
+  "duration_api_ms": 161775,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

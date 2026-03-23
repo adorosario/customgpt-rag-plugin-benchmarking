@@ -1,0 +1,16 @@
+{
+  "question_id": "pattern_3",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What issues has Initech reported and how is the team responding?",
+  "method": "cc_rag",
+  "response": "---\n\n**Answer**\n\nInitech has reported **API latency issues and a performance SLA breach**. The team is making good progress in addressing these concerns, with focus on delivery across several dimensions: API response times, latency reduction, SLA compliance, and overall performance improvements. The situation is being actively monitored, and updates are being shared to keep stakeholders aligned. The team plans to revisit the topic at the next all-hands meeting and welcomes further discussion on the Initech API latency complaint.\n\n**Sources**\n\n| # | Source |\n|---|--------|\n| 1 | email_0108.pdf |\n| 2 | email_0165.pdf |",
+  "time_seconds": 44.53,
+  "num_turns": 8,
+  "cost_usd": 0.1253787,
+  "total_tokens": 189896,
+  "timed_out": false,
+  "error": null,
+  "model": "claude-sonnet-4-6",
+  "permission_denials": 0
+}

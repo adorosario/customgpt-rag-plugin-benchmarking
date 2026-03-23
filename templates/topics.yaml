@@ -1,0 +1,2554 @@
+topics:
+  Engineering:
+    - subject_template: "Re: {component} performance regression in {version}"
+      body_template: |
+        {greeting},
+
+        I ran the benchmarks on {component} after the {version} release and we're seeing a
+        significant regression. Average response time has climbed from {threshold} to
+        {current_value}, which puts us well outside our target SLA for this service.
+
+        The profiling data points to the new serialization layer as the likely culprit. When
+        I disabled the feature flag and re-ran the suite, numbers returned to baseline. I've
+        opened a ticket and assigned it to {assignee} for deeper investigation.
+
+        We should decide whether to roll back {version} in production or push a targeted fix.
+        My recommendation is a hotfix — the regression is isolated to one code path and
+        shouldn't take more than a day to resolve. But I'd like the team's input before we
+        commit to a direction.
+
+        Can we get 30 minutes on the calendar today to discuss?
+
+        {sign_off}
+      tone: urgent
+      is_reply: true
+      tags: ["performance", "engineering", "incident"]
+
+    - subject_template: "Deploy plan for {component} {version}"
+      body_template: |
+        {greeting},
+
+        Here's the deployment plan for {component} {version}. I've coordinated with
+        {assignee} on the rollout sequence and we're targeting {date} for the production push.
+
+        Deployment order: staging first for smoke tests, then canary at 5%, ramp to 25%
+        after one hour of clean metrics, then full rollout. The estimated total deployment
+        window is two hours.
+
+        Key changes in this release include the refactored {subsystem} module, updated
+        dependency versions, and the new health check endpoint. All changes have been through
+        code review and the CI pipeline is green.
+
+        Rollback plan: if error rates exceed {threshold} at any stage, we revert to the
+        previous release using the blue-green swap. {assignee} will be on-call during the
+        window.
+
+        Please confirm you've reviewed the changelog and flag any concerns before {date}.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["deployment", "engineering", "release"]
+
+    - subject_template: "{component} code review — PR #{version}"
+      body_template: |
+        {greeting},
+
+        I've submitted a pull request for the {component} changes we discussed last sprint.
+        PR #{version} is ready for review and I've tagged {assignee} as the primary reviewer.
+
+        Summary of changes: refactored the {subsystem} to reduce coupling with the data
+        layer, added unit tests covering the edge cases we identified during the incident
+        last week, and updated the API documentation to reflect the new response format.
+
+        The test suite passes locally and in CI. Coverage for the affected files went from
+        {threshold} to {current_value}. I've also added integration tests for the two
+        most critical user flows.
+
+        One thing I'd like specific feedback on is the error handling approach in the
+        {subsystem} module — I went with explicit error types instead of generic exceptions.
+        Let me know if you think that's the right tradeoff for this codebase.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["code-review", "engineering"]
+
+    - subject_template: "Incident postmortem — {component} outage on {date}"
+      body_template: |
+        {greeting},
+
+        Attached is the postmortem for the {component} outage that occurred on {date}. The
+        incident lasted approximately 45 minutes and affected {metric} for a subset of users.
+
+        Root cause: a configuration change in the {subsystem} deployment introduced a race
+        condition under high load. The issue manifested when concurrent requests exceeded
+        {threshold}, causing connection pool exhaustion.
+
+        Timeline: the alert fired at 14:23 UTC, {assignee} acknowledged within 3 minutes,
+        and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+        rules, but resolution took longer than ideal because the runbook for this service
+        was outdated.
+
+        Action items: update the {component} runbook, add a circuit breaker for the
+        {subsystem} connection pool, and implement load shedding when concurrency exceeds
+        {threshold}. I've created tickets for all three.
+
+        Please review and add any corrections by end of week.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["incident", "postmortem", "engineering"]
+
+    - subject_template: "Architecture RFC — {component} redesign proposal"
+      body_template: |
+        {greeting},
+
+        I've drafted an RFC for redesigning the {component} architecture. The current
+        implementation has served us well but is hitting scaling limits — we're seeing
+        {metric} degrade as data volume grows past {threshold}.
+
+        The proposal introduces a new {subsystem} layer that decouples read and write paths.
+        Writes go through an event queue and are processed asynchronously, while reads hit a
+        materialized view that's optimized for our most common query patterns.
+
+        Estimated effort is 4-6 sprints for the core migration, with {assignee} leading the
+        implementation. I've outlined the phased rollout approach in the document — we can
+        run the old and new systems in parallel during the transition.
+
+        Tradeoffs: increased operational complexity and a new dependency on the message
+        broker, but we get horizontal scalability and the ability to support the load
+        projections for next year.
+
+        RFC is in Confluence. Please leave comments by {date} so we can discuss at the
+        next architecture review.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["architecture", "engineering", "rfc"]
+
+    - subject_template: "Re: {component} — tech debt prioritization"
+      body_template: |
+        {greeting},
+
+        Following up on the tech debt discussion from yesterday's sprint planning. I've
+        categorized the outstanding items for {component} into three tiers based on risk
+        and effort.
+
+        High priority: the deprecated {subsystem} dependency needs to be replaced before
+        {date} when upstream support ends. This is roughly a {metric} effort and {assignee}
+        has volunteered to own it.
+
+        Medium priority: the test coverage gap in the {component} integration layer. We're
+        at {current_value} coverage but our target is {threshold}. Filling this gap would
+        have caught the regression we saw last sprint.
+
+        Low priority: the logging format standardization. It's annoying but not blocking
+        anything. I'd suggest we tackle it opportunistically when someone is already
+        touching those files.
+
+        My proposal is to allocate {percent} of next sprint's capacity to the high-priority
+        item. Thoughts?
+
+        {sign_off}
+      tone: casual
+      is_reply: true
+      tags: ["tech-debt", "engineering", "planning"]
+
+    - subject_template: "Security audit findings — {component}"
+      body_template: |
+        {greeting},
+
+        The security audit for {component} is complete and I wanted to share the findings
+        before the full report goes out. Overall the results are positive but there are two
+        items that need immediate attention.
+
+        Finding 1: the {subsystem} endpoint accepts input without proper validation on the
+        length parameter. While the risk is mitigated by our WAF rules, we should add
+        server-side validation as defense in depth. {assignee} is already working on a fix.
+
+        Finding 2: API tokens for the {component} service are not being rotated on schedule.
+        Several tokens are over {threshold} days old. We need to implement automated rotation
+        and add alerting when tokens approach expiry.
+
+        No critical vulnerabilities were found, which is great. The audit also noted that our
+        dependency scanning is catching {percent} of known CVEs within 48 hours, which is
+        above industry average.
+
+        I'll schedule a review meeting for {date} to walk through the remediation plan.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["security", "engineering", "audit"]
+
+    - subject_template: "Sprint {version} retrospective notes"
+      body_template: |
+        {greeting},
+
+        Here are the retrospective notes from sprint {version}. Thanks to everyone who
+        participated — we had good engagement this time.
+
+        What went well: the {component} feature shipped on time, {assignee} did an excellent
+        job coordinating the cross-team dependency, and our CI pipeline reliability improved
+        to {current_value} from {threshold} last sprint.
+
+        What could improve: we underestimated the {subsystem} integration work by about
+        {percent}, which pushed two stories into the next sprint. We also had too many
+        context switches mid-sprint from unplanned support requests.
+
+        Action items: establish a support rotation so on-call duties don't fall on the same
+        people, and break down large stories into smaller increments to improve estimation
+        accuracy. {assignee} volunteered to draft the rotation schedule.
+
+        Sprint {version} velocity was {metric} points. Carrying over 8 points of unfinished
+        work to the next sprint.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["sprint", "retrospective", "engineering"]
+
+    - subject_template: "On-call handoff — week of {date}"
+      body_template: |
+        {greeting},
+
+        Handing off on-call duties for the week of {date}. Here's the status summary for
+        the incoming rotation.
+
+        Active issues: the {component} service has been showing elevated latency during peak
+        hours, averaging {current_value} against a target of {threshold}. We've identified
+        the root cause in the {subsystem} caching layer and a fix is in code review now.
+        Should be deployed by Tuesday.
+
+        Monitoring: keep an eye on the {component} dashboard. {assignee} added new alerts
+        last week but we haven't validated them under real load yet. If you get paged for
+        the {subsystem} alert, the runbook is updated and the escalation path is documented.
+
+        Scheduled maintenance: there's a planned database maintenance window on Thursday at
+        02:00 UTC. Expected duration is {metric} minutes. The procedure is automated but
+        someone needs to verify the health checks afterward.
+
+        Reach out if anything comes up that isn't covered in the runbook.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["on-call", "engineering", "operations"]
+
+    - subject_template: "Re: {component} migration to {subsystem} — status update"
+      body_template: |
+        {greeting},
+
+        Quick update on the {component} migration to {subsystem}. We're about {percent}
+        through the planned work and tracking to finish by {date}.
+
+        Completed this week: migrated the core data models, updated the connection pooling
+        configuration, and ran the first round of performance comparisons. The new setup is
+        showing {metric} improvement on read-heavy workloads.
+
+        Next steps: migrate the background job processing, update the monitoring dashboards,
+        and run the full integration test suite against the new backend. {assignee} is
+        handling the monitoring piece.
+
+        One blocker: we discovered that the {component} batch processing job uses a feature
+        that isn't supported in {subsystem} yet. I'm evaluating two workarounds and will
+        have a recommendation by tomorrow. This might add {current_value} days to the
+        timeline if we go with the rewrite approach.
+
+        Will send another update at end of week.
+
+        {sign_off}
+      tone: casual
+      is_reply: true
+      tags: ["migration", "engineering", "infrastructure"]
+
+    - subject_template: "CI/CD pipeline improvements — {component}"
+      body_template: |
+        {greeting},
+
+        I've finished the CI/CD pipeline improvements for {component} that we discussed
+        last month. Here's what changed and the impact so far.
+
+        Build time is down from {threshold} minutes to {current_value} minutes thanks to
+        better caching and parallelized test execution. The flaky test rate dropped from
+        {percent} to under 1% after I quarantined the known flaky tests and added retries
+        for the integration suite.
+
+        New additions: I've added a deployment preview environment that spins up automatically
+        on pull requests. Reviewers can now test changes in an isolated environment before
+        merging. {assignee} helped configure the infrastructure for this.
+
+        I also added security scanning to the pipeline. Every build now runs dependency
+        vulnerability checks and container image scanning. Results appear as PR comments so
+        developers see issues immediately.
+
+        The pipeline configuration is in the repo under the {subsystem} directory. Let me
+        know if you run into any issues.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["ci-cd", "engineering", "devops"]
+
+    - subject_template: "Load testing results — {component} {version}"
+      body_template: |
+        {greeting},
+
+        Sharing the load testing results for {component} {version} ahead of next week's
+        release. We tested at 2x and 5x current peak traffic levels.
+
+        At 2x load: all endpoints stayed within SLA. P99 latency for the {subsystem}
+        endpoint was {current_value}, well under our {threshold} target. No errors
+        observed across the full test duration.
+
+        At 5x load: the {component} service held up but the {subsystem} started showing
+        degradation at around 3.5x. Error rate climbed to {percent} and response times
+        increased significantly. The bottleneck appears to be the database connection pool
+        — we max out at the configured limit.
+
+        Recommendation: we're safe for the near-term growth projections. For the {metric}
+        milestone we're targeting in Q4, we'll need to increase the connection pool size
+        and potentially add a read replica. {assignee} is putting together a capacity
+        planning proposal.
+
+        Full report with graphs is attached.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["load-testing", "engineering", "performance"]
+
+    - subject_template: "Dependency upgrade — {component} to {version}"
+      body_template: |
+        {greeting},
+
+        Heads up that I'm planning to upgrade {component}'s core dependency to {version}
+        this sprint. The current version goes end-of-life on {date} and has two unpatched
+        CVEs that our security scanner is flagging.
+
+        I've tested the upgrade in a branch and the main changes that affect us are in the
+        {subsystem} module. There's one breaking change in the API — the response format for
+        batch operations now uses a different envelope structure. I've already updated our
+        client code to handle both formats during the transition.
+
+        The test suite passes with the new version. {assignee} did a review of the
+        changelog and confirmed no other breaking changes affect our usage patterns.
+
+        Rollout plan: merge to staging on {date}, run the full regression suite, and if
+        clean, deploy to production the following day. The change is behind a feature flag
+        so we can roll back quickly if needed.
+
+        Any objections to proceeding?
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["dependencies", "engineering", "security"]
+
+    - subject_template: "Re: API rate limiting design for {component}"
+      body_template: |
+        {greeting},
+
+        Thanks for the feedback on the rate limiting proposal. I've incorporated the
+        suggestions and here's the updated design for the {component} API.
+
+        We'll implement a token bucket algorithm at the {subsystem} gateway level. Default
+        limits are {threshold} requests per minute for standard tier and {current_value}
+        for premium tier. Burst allowance is set to {percent} above the sustained rate.
+
+        When a client hits the limit, they'll receive a 429 response with Retry-After
+        headers. The {component} SDK will handle automatic backoff on the client side.
+        {assignee} is updating the SDK to support this.
+
+        For internal services, we'll use a separate rate limit pool with higher thresholds
+        to prevent cascading failures. The {metric} dashboard will show real-time consumption
+        per client so we can proactively reach out before anyone hits their limits.
+
+        Implementation timeline is two sprints. I'd like to ship the server-side changes
+        first and give clients a 30-day grace period before enforcement begins.
+
+        {sign_off}
+      tone: formal
+      is_reply: true
+      tags: ["api-design", "engineering", "rate-limiting"]
+
+    - subject_template: "Monitoring alert tuning — {component}"
+      body_template: |
+        {greeting},
+
+        I've completed the monitoring alert tuning for {component} that we prioritized
+        after last month's false alarm fatigue. Here's what changed.
+
+        Removed: 4 alerts that hadn't produced a true positive in over 90 days. These
+        were legacy thresholds from before the {subsystem} migration.
+
+        Adjusted: the {component} latency alert threshold moved from {threshold} to
+        {current_value} based on the new baseline after the optimization work. The
+        error rate alert now uses a {metric}-minute sliding window instead of instantaneous
+        readings to reduce noise.
+
+        Added: a new composite alert that fires only when both latency and error rate
+        degrade simultaneously. This should catch real incidents while filtering out
+        transient spikes. {assignee} helped design the correlation logic.
+
+        Results so far: in the two weeks since these changes, alert volume is down {percent}
+        and the signal-to-noise ratio has improved significantly. No incidents were missed
+        during this period.
+
+        Let me know if your team is seeing similar alert fatigue — happy to help tune.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["monitoring", "engineering", "operations"]
+
+    - subject_template: "Feature flag cleanup — {component} {version}"
+      body_template: |
+        {greeting},
+
+        Time for our quarterly feature flag cleanup in {component}. We have {metric} flags
+        in the system and several of them are stale.
+
+        Flags to remove: the {subsystem} migration flag has been at 100% for over 60 days
+        with no issues — safe to remove the old code path. The {component} experiment flag
+        was concluded last sprint with a decision to ship — {assignee} will hardcode the
+        winning variant.
+
+        Flags to keep: the {version} rollout flag should stay until we've confirmed
+        stability at {current_value} traffic. The {subsystem} kill switch stays permanently
+        as our emergency fallback.
+
+        I've created tickets for each flag removal. The total code cleanup should eliminate
+        about {threshold} lines of dead code and simplify the conditional logic in
+        {percent} of the affected modules.
+
+        Please claim the tickets for flags in your area by {date}. Target completion is end
+        of sprint.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["feature-flags", "engineering", "cleanup"]
+
+  Sales:
+    - subject_template: "Pipeline update — {client} deal status"
+      body_template: |
+        {greeting},
+
+        Quick update on the {client} opportunity. Had a productive call with their
+        procurement team today and things are moving in the right direction.
+
+        They've confirmed budget allocation of {amount} for the {product} deployment. The
+        decision timeline is end of {quarter}. Their main concern remains the integration
+        with their existing {component} infrastructure, which is why I've looped in {assignee}
+        from Engineering for a technical deep-dive next week.
+
+        Competitive landscape: {client} is also evaluating one other vendor but our
+        {product} demo scored highest in their evaluation matrix. The differentiator they
+        keep coming back to is our {subsystem} capability.
+
+        Next steps: technical architecture session on {date}, followed by a commercial
+        proposal revision incorporating the volume discount they requested.
+
+        I'll update the CRM after the technical session. Confidence level is at {percent}.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["pipeline", "sales", "deal"]
+
+    - subject_template: "Re: {client} renewal — risk assessment"
+      body_template: |
+        {greeting},
+
+        Following up on the {client} renewal conversation. After my check-in call with
+        their VP of Engineering, I have some concerns we should discuss.
+
+        They've been experiencing {component} latency issues for the past {metric} weeks
+        and their satisfaction has dropped. While the Engineering team is working on a fix,
+        {client} has mentioned they're evaluating alternatives for their {subsystem} needs.
+
+        The renewal is worth {amount} annually and is up for renewal at the end of
+        {quarter}. I think we need a proactive retention strategy. My proposal:
+
+        First, get {assignee} from Engineering on a call with their technical team this
+        week to address the performance issues directly. Second, offer a {percent} discount
+        on the expanded {product} tier as an incentive to commit early. Third, set up
+        quarterly business reviews going forward.
+
+        Can we discuss this at tomorrow's pipeline review?
+
+        {sign_off}
+      tone: urgent
+      is_reply: true
+      tags: ["renewal", "sales", "risk"]
+
+    - subject_template: "Quarterly territory review — {quarter}"
+      body_template: |
+        {greeting},
+
+        Here's my territory review for {quarter}. Overall, the region is performing well
+        against targets.
+
+        Pipeline summary: {metric} qualified opportunities worth a combined {amount} in
+        ARR. The largest deal is {client} at {current_value}, which I expect to close by
+        {date}. Three other deals in the {threshold} range are progressing through
+        procurement.
+
+        Wins this quarter: closed {client} for {product} with a {percent} upsell from
+        their initial scope. The {subsystem} add-on is gaining traction — four clients
+        have expressed interest after seeing the demo at the industry conference.
+
+        Challenges: the mid-market segment is slower than expected. Prospects are taking
+        longer to move through evaluation due to budget constraints. I'm adjusting my
+        approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+        Request: I'd like approval to bring {assignee} to the {client} executive briefing
+        next month. Having a technical resource in the room would help close this deal faster.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["territory", "sales", "quarterly-review"]
+
+    - subject_template: "Competitive intel — {client} evaluation"
+      body_template: |
+        {greeting},
+
+        Got some useful competitive intelligence from the {client} account that I want to
+        share with the team.
+
+        {client} shared their evaluation criteria and mentioned they're also looking at
+        {component} as an alternative to our {product}. From what I gathered, {component}
+        is pitching a lower price point but doesn't have feature parity on the {subsystem}
+        side.
+
+        Key differentiators working in our favor: our {product} handles {metric} concurrent
+        connections versus their published limit of {threshold}. Our uptime SLA is also
+        stronger at {current_value} versus their {percent} guarantee.
+
+        Where they're competitive: their onboarding process is reportedly faster and they
+        offer a free tier that lets prospects evaluate without procurement involvement.
+
+        Recommendation: I think we should update our battle card for {component} and
+        consider a streamlined trial process for mid-market accounts. {assignee} from
+        Product might have insights on their latest feature releases.
+
+        I'll present the full analysis at the next sales team meeting on {date}.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["competitive", "sales", "intelligence"]
+
+    - subject_template: "Proposal submitted — {client} {product} deployment"
+      body_template: |
+        {greeting},
+
+        Just submitted the formal proposal to {client} for the {product} deployment. Here's
+        a summary of what we put in front of them.
+
+        Scope: enterprise-tier {product} with the {subsystem} add-on, covering {metric}
+        seats across their three offices. Implementation timeline is 8 weeks with dedicated
+        onboarding support from our team.
+
+        Pricing: {amount} annual contract with a {percent} multi-year discount if they
+        commit to a 2-year term. This is within the range they indicated during discovery.
+        {assignee} from Finance approved the discount structure.
+
+        Key differentiators highlighted in the proposal: our {component} integration
+        capability, the {current_value} uptime SLA, and the dedicated success manager
+        they'll receive at this tier level.
+
+        Expected timeline: they said they'll review internally over the next {metric}
+        business days and get back to us with any questions. Decision expected by {date}.
+
+        I feel good about this one. Will keep the team posted.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["proposal", "sales", "deal"]
+
+    - subject_template: "Re: {client} contract negotiation — pricing discussion"
+      body_template: |
+        {greeting},
+
+        Update on the {client} negotiation. Their procurement team came back with a
+        counteroffer and I want to make sure we're aligned before I respond.
+
+        They're asking for a {percent} reduction on the {product} license fee, bringing
+        the annual contract value from {amount} to {current_value}. Their rationale is
+        that they're committing to a larger seat count of {metric} users, which is above
+        our standard enterprise tier threshold of {threshold}.
+
+        My recommendation is to accept the volume-based discount but hold firm on the
+        {subsystem} add-on pricing. The add-on margins are already thin and it's the module
+        that delivers the most value in their use case. {assignee} from Finance can confirm
+        the margin impact.
+
+        I also want to push for a 2-year commitment if we offer the discounted rate. This
+        locks in the revenue and reduces churn risk.
+
+        Can we get a quick alignment call today before their deadline on {date}?
+
+        {sign_off}
+      tone: urgent
+      is_reply: true
+      tags: ["negotiation", "sales", "pricing"]
+
+    - subject_template: "Weekly pipeline review — {date}"
+      body_template: |
+        {greeting},
+
+        Here's the pipeline summary ahead of our weekly review meeting on {date}.
+
+        Total pipeline value: {amount}. Weighted pipeline: {current_value}. We need
+        {threshold} more in closed-won revenue to hit the {quarter} target.
+
+        Deals moving forward: {client} is in final contract review and should close this
+        week. Two mid-market opportunities in the {product} space progressed to technical
+        evaluation stage.
+
+        At risk: one enterprise deal has gone quiet after we submitted pricing. {assignee}
+        is trying to reconnect with the champion. Another account pushed their evaluation
+        to next {quarter} due to internal restructuring.
+
+        New leads: generated {metric} new qualified leads from the conference last week.
+        The {component} demo was particularly well received. I've started outreach and
+        have initial calls booked for {percent} of them.
+
+        Will walk through the details and forecasting adjustments in the meeting.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["pipeline", "sales", "weekly-review"]
+
+    - subject_template: "Re: Quota update — {quarter} adjustments"
+      body_template: |
+        {greeting},
+
+        Thanks for sharing the {quarter} quota adjustments. I've reviewed the numbers and
+        have a few questions before I sign off.
+
+        My revised target of {amount} reflects a {percent} increase over the previous
+        quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+        that {metric} of my projected deals depend on the {product} launch happening on
+        schedule. If that slips, I'll need the {component} backup deals to come through.
+
+        Territory changes: I see that the {city} accounts have been reassigned to
+        {assignee}. Can we discuss the transition plan for the two active opportunities
+        there? I don't want to lose momentum with {client} — we've been building that
+        relationship for {threshold} months.
+
+        Regarding the new {subsystem} incentive structure, I think it will help drive
+        adoption. Can you clarify whether renewals with {subsystem} upsells count toward
+        the accelerator?
+
+        Let's discuss at the next 1:1.
+
+        {sign_off}
+      tone: casual
+      is_reply: true
+      tags: ["quota", "sales", "territory"]
+
+    - subject_template: "Client meeting recap — {client} {date}"
+      body_template: |
+        {greeting},
+
+        Recapping today's meeting with {client}. Good progress overall — here are the
+        key takeaways.
+
+        Attendees from their side: VP Engineering, Head of IT, and their {component}
+        team lead. From ours: myself, {assignee} from Engineering, and the SE.
+
+        Key discussion points: they're looking to consolidate their {subsystem} vendors
+        from three down to one. Our {product} covers {percent} of their requirements
+        natively. The remaining gap is around {component} integrations, which {assignee}
+        confirmed we can address in the next release.
+
+        Their timeline: they want to make a vendor decision by {date} and begin
+        implementation in {quarter}. Budget has been pre-approved at {amount} for the
+        first year.
+
+        Action items: send the {product} technical architecture document by Thursday,
+        schedule a reference call with a similar-sized customer, and prepare a custom
+        demo focused on their {subsystem} workflow.
+
+        Confidence level: high. I'll update the forecast accordingly.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["meeting", "sales", "client"]
+
+    - subject_template: "New lead — {client} inbound request"
+      body_template: |
+        {greeting},
+
+        We received an inbound request from {client} through the website today. They're
+        a {metric}-employee company in the {component} space and are looking for a
+        {product} solution.
+
+        Initial qualification: they have budget allocated for {quarter}, their current
+        contract with their existing vendor expires on {date}, and the decision maker is
+        their VP of Operations. They found us through the {subsystem} whitepaper we
+        published last month.
+
+        The estimated deal size is {amount} based on their seat count and the use case
+        they described. They specifically mentioned needing the {component} integration
+        and {current_value} uptime guarantees.
+
+        I've scheduled a discovery call for this Thursday. {assignee} — would you be
+        available to join as the technical resource? Their questions seem to be focused
+        on {subsystem} scalability and they'd benefit from hearing directly from Engineering.
+
+        Will report back after the call.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["lead", "sales", "inbound"]
+
+    - subject_template: "Re: {product} demo feedback from {client}"
+      body_template: |
+        {greeting},
+
+        Great news from the {client} demo. Their team was clearly impressed, and I
+        wanted to share the feedback while it's fresh.
+
+        What resonated most: the {subsystem} dashboard got the biggest reaction. Their
+        current tool requires {metric} manual steps to accomplish what our {product} does
+        automatically. The {component} integration demo also went well — they could see
+        the direct time savings.
+
+        Questions they asked: pricing for the enterprise tier at {threshold} seats,
+        whether we support single sign-on through their identity provider, and the
+        timeline for the {version} release that includes the feature they need.
+
+        Concerns: they mentioned that their team has limited capacity for migration and
+        asked about professional services. {assignee}, can you put together a scoping
+        estimate for a guided migration?
+
+        Next step: they want a {product} trial environment set up for their team of
+        {metric} evaluators. I'll submit the trial request today. Target close date
+        remains {date}.
+
+        {sign_off}
+      tone: casual
+      is_reply: true
+      tags: ["demo", "sales", "feedback"]
+
+    - subject_template: "Sales engineering request — {client} POC"
+      body_template: |
+        {greeting},
+
+        Requesting SE support for a proof-of-concept with {client}. This is a {amount}
+        opportunity and the POC is the final gate before they commit.
+
+        POC requirements: they need to validate that {product} can handle {metric}
+        transactions per second with their {component} data format. The test needs to
+        run against their staging environment and demonstrate the {subsystem} capability
+        under realistic load.
+
+        Timeline: {client} wants the POC completed within {threshold} business days
+        starting {date}. Their technical team is available for the first three days to
+        assist with environment setup.
+
+        Resources needed: {assignee} for the technical configuration and someone from
+        the {component} team to help with the custom integration. I can handle the
+        project management and client communication.
+
+        This deal has executive sponsorship and is our best shot at landing the account
+        for {quarter}. Let me know if we can make this timeline work.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["poc", "sales", "sales-engineering"]
+
+  Marketing:
+    - subject_template: "{product} campaign launch — {quarter} plan"
+      body_template: |
+        {greeting},
+
+        Here's the campaign plan for the {product} launch in {quarter}. I've aligned the
+        messaging with the positioning we finalized last week and mapped out the channel
+        strategy.
+
+        Campaign theme: highlighting the {component} advantage and how {product} solves
+        the key pain point around {subsystem} complexity. Target audience is mid-market
+        and enterprise IT decision makers.
+
+        Channel breakdown: {percent} of budget to paid digital, {metric} to content
+        marketing, and the remainder to events and webinars. We're targeting a {amount}
+        total spend with a goal of {threshold} marketing qualified leads.
+
+        Content deliverables: landing page, solution brief, customer case study featuring
+        {client}, three blog posts, and a webinar co-hosted with {assignee} from Product.
+        All assets target completion by {date}.
+
+        The paid campaign goes live two weeks before the official launch to build awareness.
+        I'll share the creative brief for review tomorrow.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["campaign", "marketing", "launch"]
+
+    - subject_template: "Content calendar — {quarter} update"
+      body_template: |
+        {greeting},
+
+        Sharing the updated content calendar for {quarter}. We've added several new pieces
+        to support the {product} launch and the thought leadership series.
+
+        Blog schedule: two posts per week. Topics include {component} best practices,
+        customer success stories, and the technical deep-dive series that {assignee} from
+        Engineering is co-authoring. The {subsystem} comparison guide is our top-of-funnel
+        anchor piece.
+
+        Gated content: the {product} whitepaper goes live on {date}. We're expecting
+        {metric} downloads based on performance of similar assets. The ROI calculator tool
+        is in development and targeted for mid-{quarter}.
+
+        Social media: ramping up LinkedIn posting to {threshold} times per week. We'll
+        pull snippets from blog content and add {percent} original thought leadership posts.
+        The {product} launch will get a dedicated social campaign.
+
+        Newsletter: monthly send to our {current_value} subscribers. Open rates have been
+        holding steady at {metric} percent.
+
+        Please review the calendar doc and flag any conflicts or gaps by {date}.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["content", "marketing", "calendar"]
+
+    - subject_template: "Re: Brand guidelines update — {version}"
+      body_template: |
+        {greeting},
+
+        The updated brand guidelines {version} are ready for distribution. Here's a summary
+        of the key changes based on the feedback from the design review.
+
+        Color palette: we've added {component} as a secondary accent color for digital
+        assets. The primary palette remains unchanged. All new marketing materials should
+        use the updated color tokens starting {date}.
+
+        Typography: switching from the current body font to a more readable alternative
+        for long-form content. This applies to the blog, whitepapers, and email templates.
+        {assignee} has updated the design system with the new font files.
+
+        Logo usage: clarified the minimum size requirements and added guidance for dark
+        backgrounds. The {product} sub-brand lock-up is now finalized — please stop using
+        the interim version.
+
+        Templates: updated Google Slides, document, and email templates are in the shared
+        drive under the {subsystem} folder. The old templates will be archived on {date}.
+
+        Please update your bookmarks and flag any materials in production that need to be
+        refreshed. Target completion for legacy updates is end of {quarter}.
+
+        {sign_off}
+      tone: formal
+      is_reply: true
+      tags: ["brand", "marketing", "guidelines"]
+
+    - subject_template: "Analytics report — {product} campaign performance"
+      body_template: |
+        {greeting},
+
+        Here's the performance report for the {product} campaign through {date}.
+
+        Website traffic: up {percent} month over month, driven primarily by the {component}
+        comparison blog post which brought in {metric} unique visitors. Organic search is
+        growing steadily — the {subsystem} keyword cluster is now ranking on page one.
+
+        Lead generation: {current_value} marketing qualified leads this month against a
+        target of {threshold}. The whitepaper download page converted at {percent} which
+        is above our benchmark. The webinar registration page needs optimization — it's
+        converting at only {metric} percent.
+
+        Email campaigns: the {product} nurture sequence has a {percent} open rate and
+        {metric} percent click-through rate. The top-performing email was the {component}
+        case study with {client}. {assignee} suggested we A/B test the subject lines for
+        the next send.
+
+        Paid media: cost per lead is at {amount} which is {percent} below target. The
+        LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+        Will present the full dashboard at Friday's marketing review.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["analytics", "marketing", "performance"]
+
+    - subject_template: "Event planning — {product} webinar on {date}"
+      body_template: |
+        {greeting},
+
+        Finalizing details for the {product} webinar on {date}. Here's where we stand on
+        the logistics and promotion.
+
+        Content: {assignee} from Product will present the {component} roadmap segment.
+        I'll handle the intro and customer story. We're targeting a {metric}-minute
+        presentation followed by {threshold} minutes of live Q&A. The {subsystem} demo
+        segment should be the highlight.
+
+        Registration: we've had {current_value} sign-ups so far. Goal is {threshold} by
+        launch day. The promotional push starts this week — email to our list, LinkedIn
+        posts, and a paid boost targeting {product} keywords.
+
+        Tech setup: using the standard webinar platform. {assignee} will be the backup
+        presenter in case of connectivity issues. We'll do a dry run on {date} at 2 PM.
+
+        Post-event plan: recording goes up on the resource hub within 48 hours. The
+        follow-up email with the deck and recording goes to all registrants. Attendees
+        who asked questions get personal follow-ups from Sales within {metric} business
+        days.
+
+        Let me know if anything is missing from the plan.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["event", "marketing", "webinar"]
+
+    - subject_template: "Press release draft — {product} announcement"
+      body_template: |
+        {greeting},
+
+        The press release for the {product} announcement is ready for internal review. I've
+        incorporated feedback from {assignee} and the executive team. Here are the key
+        messaging points.
+
+        Headline focuses on the {component} capability and positions Acme Corp as a leader
+        in the {subsystem} space. We're leading with the {metric} performance improvement
+        stat and the {client} customer quote.
+
+        Distribution plan: wire service distribution on {date}, followed by targeted
+        outreach to our {threshold} media contacts in the industry. I've secured a briefing
+        with {component} Magazine for the week before the announcement.
+
+        Supporting assets: the blog post goes live simultaneously, the {product} landing
+        page will be updated with the new messaging, and we'll have social media posts
+        queued for a {metric}-hour cadence on launch day.
+
+        Embargo: the release is under embargo until {date} at 9 AM ET. Please don't share
+        details externally before then. {assignee} has the full distribution list.
+
+        Review deadline is {date}. Please send edits as comments in the doc.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["press-release", "marketing", "announcement"]
+
+    - subject_template: "Social media strategy — {quarter}"
+      body_template: |
+        {greeting},
+
+        Presenting the social media strategy refresh for {quarter}. Based on our {product}
+        analytics from last quarter, I'm proposing some shifts in our approach.
+
+        Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+        Our {component} posts are averaging {metric} impressions and {percent} engagement
+        rate. We'll reduce Twitter frequency and reallocate those resources.
+
+        Content mix: {percent} educational content about {subsystem} topics, {metric}
+        percent product highlights, and the rest for company culture and employee spotlights.
+        {assignee} will be our featured thought leader for the engineering series.
+
+        New initiative: launching a monthly LinkedIn Live series where team members discuss
+        {product} use cases and answer audience questions. First session on {date} featuring
+        {assignee}.
+
+        Budget: {amount} allocated for paid promotion, focused on boosting our highest-
+        performing organic content. Target is {threshold} new followers and {current_value}
+        website visits from social this quarter.
+
+        I'd love feedback before I finalize the editorial calendar.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["social-media", "marketing", "strategy"]
+
+    - subject_template: "Re: Customer story — {client} case study"
+      body_template: |
+        {greeting},
+
+        Great update on the {client} case study. I've finished the first draft and want
+        to share the results we're highlighting.
+
+        Headline stat: {client} saw a {percent} reduction in {subsystem} processing time
+        after deploying {product}. This translates to {amount} in annual cost savings
+        based on their team size of {metric} people.
+
+        Story arc: the narrative follows their journey from evaluating {component}
+        alternatives to full deployment. The strongest section is the quote from their CTO
+        about how {product} simplified their {subsystem} workflow.
+
+        Approval status: {client}'s marketing team has reviewed and approved the draft with
+        minor edits. They're comfortable with us publishing by {date}. {assignee} coordinated
+        the approval process.
+
+        Distribution plan: blog post with pull quotes, one-page PDF for Sales enablement,
+        and a {metric}-minute video summary. The video production is scheduled for next week.
+
+        Can you review the draft and send feedback by {date}? I want to finalize before
+        the {quarter} campaign kickoff.
+
+        {sign_off}
+      tone: casual
+      is_reply: true
+      tags: ["case-study", "marketing", "customer-story"]
+
+    - subject_template: "Email marketing performance — {quarter} review"
+      body_template: |
+        {greeting},
+
+        Here's the email marketing performance review for {quarter}. Overall we're trending
+        in the right direction but there are a few areas to optimize.
+
+        List health: our subscriber base grew {percent} to {current_value} contacts. Bounce
+        rate is at {metric} percent which is within healthy range. We ran a re-engagement
+        campaign that recovered {threshold} previously inactive subscribers.
+
+        Campaign performance: the {product} launch sequence was our top performer with a
+        {percent} open rate. The {component} technical series also did well, driving {metric}
+        clicks to the resource hub. Lower performers were the generic newsletter sends — we
+        should consider more targeted segmentation.
+
+        Revenue attribution: email-sourced pipeline totals {amount} this quarter, with
+        {current_value} in closed-won revenue. The {client} deal originated from a nurture
+        sequence touchpoint.
+
+        Plans for next quarter: implementing behavioral triggers for the {subsystem}
+        content, A/B testing send times for the {product} audience, and building a new
+        onboarding sequence for trial sign-ups. {assignee} will help with the automation
+        setup.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["email", "marketing", "performance"]
+
+    - subject_template: "SEO update — {component} keyword rankings"
+      body_template: |
+        {greeting},
+
+        Monthly SEO update for our {component} content cluster. We're seeing strong
+        improvements in several target keywords.
+
+        Top movers: the {product} comparison page climbed from position {threshold} to
+        position {current_value} for our primary keyword. The {subsystem} guide is now
+        ranking in the top {metric} for three long-tail variations.
+
+        Traffic impact: organic sessions are up {percent} month over month. The
+        {component} cluster is now driving {metric} unique sessions monthly, making it our
+        second-highest traffic source behind the {product} landing page.
+
+        Content gaps identified: we're missing content for {threshold} high-volume keywords
+        that competitors are ranking for. I've added these to the content calendar for
+        {quarter}. {assignee} from Product can help with the technical accuracy of the
+        deeper content.
+
+        Technical SEO: site speed improved to {current_value} on mobile after the image
+        optimization work. No crawl errors detected. The new {subsystem} documentation
+        section is being indexed properly.
+
+        Next priority is building backlinks to our top {metric} pages. I'll share the
+        outreach plan next week.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["seo", "marketing", "content"]
+
+    - subject_template: "Conference recap — {product} booth results"
+      body_template: |
+        {greeting},
+
+        Here's the recap from last week's conference. Strong showing for Acme Corp and the
+        {product} booth drew consistent traffic throughout.
+
+        Lead collection: {metric} badge scans at the booth, of which {current_value} are
+        qualified leads based on our initial review. The {component} live demo was the
+        biggest draw, and {assignee} from Engineering did an excellent job fielding
+        technical questions.
+
+        Key conversations: several enterprise prospects specifically asked about the
+        {subsystem} roadmap. Three attendees were from companies in our target account list.
+        I've already handed those contacts to Sales with notes.
+
+        Session attendance: our speaking session on {product} had {threshold} attendees
+        and generated strong social media engagement. The presentation deck has been
+        requested {metric} times since we posted it.
+
+        Budget: we came in at {amount}, which is {percent} under budget. The savings came
+        from sharing the booth infrastructure with the {component} partner showcase.
+
+        I'll prepare a full ROI analysis by {date} once we've completed lead follow-up.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["conference", "marketing", "event"]
+
+  HR:
+    - subject_template: "Hiring update — {team} open positions"
+      body_template: |
+        {greeting},
+
+        Here's the weekly hiring update for the {team} department. We're making progress
+        on several key roles.
+
+        Active searches: the {component} role has {metric} candidates in the pipeline with
+        {current_value} scheduled for final round interviews this week. The {subsystem}
+        position has been open for {threshold} days and we're seeing fewer qualified
+        applicants than expected — I'd like to discuss expanding our sourcing channels.
+
+        Offers: we extended an offer to a strong candidate for the {assignee} backfill
+        role. Their expected start date is {date} pending background check completion.
+        Compensation is at {amount} which is within the approved band.
+
+        Upcoming: the {product} team has submitted a headcount request for {metric} new
+        positions in {quarter}. I'm drafting the job descriptions and will share them for
+        review by {date}.
+
+        Interview load: we conducted {threshold} interviews last week across all open
+        roles. Please remind your team leads that timely interviewer feedback is critical —
+        we're losing candidates due to slow response times on {percent} of our processes.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["hiring", "hr", "recruiting"]
+
+    - subject_template: "Onboarding schedule — new hire starting {date}"
+      body_template: |
+        {greeting},
+
+        We have a new team member joining {team} on {date}. Here's the onboarding schedule
+        for their first two weeks.
+
+        Week 1: orientation sessions covering company culture, {component} systems access
+        setup, benefits enrollment, and introductory meetings with their team and key
+        stakeholders. {assignee} will serve as their onboarding buddy.
+
+        Week 2: deeper technical onboarding on {product} and the {subsystem} tooling,
+        shadowing sessions with team members, and a check-in with their manager to set
+        initial goals and expectations.
+
+        Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+        by {date}. All software licenses including {component} and {subsystem} access are
+        being provisioned by IT.
+
+        I need the following from the hiring manager by end of week: completed onboarding
+        checklist, list of {metric} people to schedule intro meetings with, and first
+        {threshold}-day goals. Please send these to {assignee} in People Ops.
+
+        Welcome email goes out {metric} days before start date.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["onboarding", "hr", "new-hire"]
+
+    - subject_template: "Re: Performance review cycle — {quarter}"
+      body_template: |
+        {greeting},
+
+        Quick reminder that the {quarter} performance review cycle kicks off on {date}.
+        Here's the timeline and what's expected from managers.
+
+        Self-reviews: employees complete self-assessments by {date}. The template has been
+        updated this cycle to include the new {component} competency framework. {assignee}
+        can walk managers through the changes.
+
+        Manager reviews: due two weeks after self-reviews close. Please aim for specific,
+        actionable feedback tied to the goals set in the previous cycle. Each review should
+        address performance against {metric} key objectives and include at least
+        {threshold} development recommendations.
+
+        Calibration sessions: department leads will participate in calibration meetings to
+        ensure consistency in ratings. The {team} calibration is scheduled for {date}.
+
+        Compensation: any merit adjustments recommended during reviews will be processed
+        in the following pay period. The total compensation adjustment budget is {percent}
+        of current payroll, allocated at the department level.
+
+        Training on the review tool is available through the {subsystem} learning portal.
+        Reach out to {assignee} if you have questions.
+
+        {sign_off}
+      tone: formal
+      is_reply: true
+      tags: ["performance-review", "hr", "cycle"]
+
+    - subject_template: "Benefits enrollment — open period starting {date}"
+      body_template: |
+        {greeting},
+
+        Open enrollment for our benefits package begins on {date} and runs through {deadline}.
+        Here's a summary of the key changes for the upcoming plan year.
+
+        Health insurance: we're introducing a new {component} plan option alongside the
+        existing choices. The premium increase this year is {percent}, which is below the
+        industry average. Acme Corp will continue covering {metric} percent of employee
+        premiums.
+
+        New benefit: we've partnered with {client} to offer a wellness stipend of {amount}
+        per year. This can be used for gym memberships, mental health services, or
+        ergonomic equipment. {assignee} worked with the vendor to negotiate this addition.
+
+        Retirement: the 401(k) match is increasing from {threshold} percent to
+        {current_value} percent of salary, effective next plan year. If you're not
+        currently contributing enough to get the full match, now is a great time to adjust.
+
+        Information sessions: we're hosting {metric} live Q&A sessions where employees can
+        ask questions about plan options. The {subsystem} portal will have a comparison
+        tool to help you evaluate plans.
+
+        Detailed plan documents are available in the HR portal. Please make your elections
+        before {deadline}.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["benefits", "hr", "enrollment"]
+
+    - subject_template: "Team event recap — {component} outing"
+      body_template: |
+        {greeting},
+
+        Thanks to everyone who joined the {component} team outing last week. We had great
+        turnout with {metric} employees attending.
+
+        Highlights: the team building exercise was a hit — the {subsystem} challenge had
+        teams competing in creative problem-solving rounds. The winning team led by
+        {assignee} finished in just {threshold} minutes. The group dinner afterward was a
+        great opportunity for cross-team connections.
+
+        Feedback: the post-event survey came back overwhelmingly positive with a {percent}
+        satisfaction rating. Most popular suggestion for next time: more outdoor activities.
+        Several people asked about doing quarterly events instead of {metric} per year.
+
+        Budget: total cost was {amount}, coming in at {current_value} per person including
+        venue, catering, and activities. This is within our social budget for {quarter}.
+
+        Photos are uploaded to the shared album in the {subsystem} drive. Please tag
+        yourselves and share appropriate photos on social media if you'd like — our
+        marketing team loves this content for the company page.
+
+        Planning for the next event starts in {quarter}. Ideas welcome.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["team-event", "hr", "culture"]
+
+    - subject_template: "D&I initiative update — {quarter}"
+      body_template: |
+        {greeting},
+
+        Here's the quarterly update on our Diversity and Inclusion initiatives. We're
+        making meaningful progress on the goals set at the beginning of the year.
+
+        Hiring diversity: {percent} of candidates in our pipeline this quarter came from
+        underrepresented backgrounds, up from {metric} percent last quarter. The
+        partnership with {client} job board has been a strong contributor. {assignee} has
+        been leading the sourcing strategy.
+
+        ERG activity: the {component} employee resource group hosted {metric} events
+        this quarter with an average attendance of {threshold} employees. The mentorship
+        circles launched in {quarter} have paired {current_value} mentors with mentees
+        across {team} departments.
+
+        Training: {percent} of managers have completed the inclusive leadership training
+        program. We're on track to reach {metric} percent completion by {date}. The
+        feedback ratings average {current_value} out of 5.
+
+        Compensation equity: the annual pay equity audit is scheduled for {date}. We'll
+        be reviewing compensation data across {metric} dimensions to identify and
+        address any gaps.
+
+        Full report will be shared at the next all-hands meeting.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["diversity", "hr", "inclusion"]
+
+    - subject_template: "Training program — {component} certification"
+      body_template: |
+        {greeting},
+
+        We're launching a new {component} certification training program for interested
+        employees. This is part of our learning and development investment for {quarter}.
+
+        Program details: the course runs for {metric} weeks and covers {subsystem}
+        fundamentals through advanced topics. Sessions are held twice a week for {threshold}
+        hours each. {assignee} from the {team} team will facilitate the hands-on labs.
+
+        Eligibility: open to all employees. Priority enrollment goes to the {team} and
+        Engineering teams since the certification is directly relevant to their roles. We
+        have {current_value} spots available for the first cohort.
+
+        Cost: Acme Corp covers {percent} of the certification exam fee upon course
+        completion. The total investment per employee is {amount} including materials and
+        exam vouchers.
+
+        Commitment: participants are expected to dedicate {metric} hours per week to
+        coursework outside of the live sessions. Managers must approve the time commitment
+        for their reports.
+
+        Registration opens on {date} and closes when spots are filled. Sign up through
+        the {subsystem} learning portal.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["training", "hr", "development"]
+
+    - subject_template: "Re: Employee survey results — {quarter}"
+      body_template: |
+        {greeting},
+
+        The {quarter} employee engagement survey results are in. Response rate was {percent},
+        up {metric} points from the last survey. Here are the key findings.
+
+        Overall satisfaction: {current_value} out of 5, which is consistent with the
+        previous quarter. The {team} department scored highest at {threshold} while the
+        {component} team showed the largest improvement at plus {metric} points.
+
+        Top strengths: colleagues and team culture scored {current_value}, manager
+        effectiveness scored {threshold}, and work-life balance scored {metric}. Employees
+        particularly appreciated the flexible {subsystem} policy and the recent team events.
+
+        Areas for improvement: career development pathways scored lowest at {metric} out of 5.
+        Employees want more clarity on promotion criteria and more frequent feedback.
+        Cross-department communication was another area flagged — {percent} of respondents
+        said they don't have enough visibility into what other teams are working on.
+
+        Action plan: {assignee} is leading a working group to address the career development
+        feedback. We'll publish a response with specific commitments by {date}.
+
+        Department-level reports will be shared with managers this week.
+
+        {sign_off}
+      tone: formal
+      is_reply: true
+      tags: ["survey", "hr", "engagement"]
+
+    - subject_template: "Policy update — {component} guidelines"
+      body_template: |
+        {greeting},
+
+        We've updated the {component} company policy based on feedback from employees and
+        recent changes in {city} labor regulations. The new policy takes effect on {date}.
+
+        Key changes: the {subsystem} allowance has been increased from {threshold} to
+        {current_value} per month. The eligibility window for {component} has been expanded
+        to include employees who've been with Acme Corp for {metric} months or more, down
+        from the previous requirement of {threshold} months.
+
+        New additions: a {product} reimbursement category has been added covering up to
+        {amount} annually. This addresses the top employee request from the last survey.
+        {assignee} negotiated favorable terms with the {subsystem} vendor.
+
+        Compliance note: all employees must acknowledge the updated policy through the HR
+        portal by {deadline}. Managers are responsible for ensuring their direct reports
+        complete the acknowledgment. {percent} of employees have completed similar
+        acknowledgments within the first week historically.
+
+        The full policy document is available in the employee handbook section. Reach out to
+        People Ops with questions.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["policy", "hr", "guidelines"]
+
+    - subject_template: "Intern program — {quarter} cohort planning"
+      body_template: |
+        {greeting},
+
+        Planning for the {quarter} intern cohort is underway. We're targeting {metric}
+        interns across {threshold} departments this cycle.
+
+        Department allocation: Engineering gets {current_value} interns, Product gets
+        {metric}, and {team} gets the remainder. Each intern will be assigned a mentor —
+        {assignee} is coordinating mentor assignments. Please nominate mentors from your
+        teams by {date}.
+
+        Program structure: {metric}-week program with structured rotations. Interns spend
+        {percent} of their time on project work and the rest on learning sessions, shadowing,
+        and a capstone presentation. The {component} workshop series from last cohort was
+        well received and will be repeated.
+
+        Compensation: hourly rate is {amount} for undergraduate interns and {current_value}
+        for graduate-level. Housing stipend of {threshold} per month for out-of-area interns.
+
+        Recruiting timeline: applications open on {date}. We'll be visiting {metric}
+        universities and posting on the standard job boards. Final offers go out by the
+        end of {quarter}.
+
+        Let me know if your team wants to adjust headcount or has specific project ideas
+        for interns.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["internship", "hr", "recruiting"]
+
+    - subject_template: "Re: Workplace safety update — {component}"
+      body_template: |
+        {greeting},
+
+        Following up on the workplace safety review. The {component} assessment is complete
+        and here are the findings and required actions.
+
+        Office inspections: all {metric} floor areas passed the basic safety checklist.
+        The {subsystem} room needs minor improvements — the emergency exit signage has
+        faded and one fire extinguisher is due for inspection by {date}. {assignee} from
+        facilities is handling these items.
+
+        Ergonomic assessments: {current_value} employees requested desk ergonomic reviews
+        this quarter. Common issues include monitor height and chair adjustments. We've
+        ordered {metric} standing desk converters and {threshold} ergonomic chairs based
+        on the assessments.
+
+        Emergency preparedness: the next fire drill is scheduled for {date}. All floor
+        wardens need to complete the refresher training before then. {percent} of wardens
+        are current on their certifications.
+
+        Incident report: {metric} minor incidents were reported this quarter, all resolved
+        without injury. The {component} area has been flagged for improved lighting, with
+        work scheduled for {date}.
+
+        Please remind your teams about the safety hotline and reporting procedures.
+
+        {sign_off}
+      tone: formal
+      is_reply: true
+      tags: ["safety", "hr", "workplace"]
+
+  Legal:
+    - subject_template: "Contract review — {client} agreement"
+      body_template: |
+        {greeting},
+
+        I've completed the review of the {client} agreement and have several items that
+        need attention before we can proceed to execution.
+
+        Liability cap: the current draft limits liability to {amount}, which is below our
+        standard threshold of {threshold} for deals of this size. I recommend pushing back
+        to at least {current_value}. {assignee} from Sales should be prepared for this
+        negotiation point.
+
+        IP assignment clause: section 7.3 includes an overly broad IP assignment that could
+        capture pre-existing work product. I've drafted narrower language that protects our
+        existing {component} IP while still meeting {client}'s requirements for the
+        {product} deliverables.
+
+        Data processing: the DPA needs to be updated to reflect the new {subsystem}
+        architecture. Since data will transit through the {city} data center, we need to
+        ensure compliance with local data residency requirements.
+
+        Indemnification: the mutual indemnification provisions are reasonable. I've accepted
+        them with minor clarifications on the notice period — changed from {metric} to
+        {threshold} business days.
+
+        I'll send the redlined version by {date}. Please review the business terms and
+        confirm the commercial intent before I finalize.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["contract", "legal", "review"]
+
+    - subject_template: "Re: Compliance update — {component} regulations"
+      body_template: |
+        {greeting},
+
+        Following up on the regulatory change we discussed. The new {component} compliance
+        requirements take effect on {date} and here's our readiness assessment.
+
+        Current status: we're {percent} compliant with the new requirements. The main gap
+        is in {subsystem} data handling procedures — the regulation requires documented
+        retention policies for customer data processed through the {product} platform.
+
+        Action items: first, update our data retention policy to align with the {threshold}-day
+        requirement specified in the regulation. Second, implement the technical controls
+        that {assignee} from Engineering has scoped — estimated at {metric} sprint points.
+        Third, conduct the required annual audit before {date}.
+
+        Risk assessment: non-compliance penalties are significant — up to {amount} per
+        violation. However, the regulatory body has indicated a {metric}-month grace period
+        for companies that demonstrate good faith compliance efforts. We should be well
+        within that window.
+
+        I've scheduled a cross-functional meeting for {date} to coordinate the implementation
+        plan. Please confirm attendance for your team.
+
+        {sign_off}
+      tone: formal
+      is_reply: true
+      tags: ["compliance", "legal", "regulatory"]
+
+    - subject_template: "IP filing status — {product} patent application"
+      body_template: |
+        {greeting},
+
+        Update on the {product} patent application. Here's where we stand with the filing
+        and the next steps.
+
+        Application status: the provisional application was filed on {date} covering the
+        {component} algorithm and the novel {subsystem} approach. Serial number has been
+        assigned and the filing fee of {amount} has been paid.
+
+        Prior art review: outside counsel completed the prior art search and identified
+        {metric} related filings. None appear to directly conflict with our claims, but
+        {threshold} of them require careful distinction in the non-provisional filing.
+        {assignee} is working with the patent drafting team on claim differentiation.
+
+        Timeline: we have {metric} months from the provisional filing date to file the
+        non-provisional application. I recommend targeting {date} to allow adequate review
+        time. This gives us {threshold} weeks of buffer.
+
+        International filing: based on our {city} expansion plans, we should consider PCT
+        filing for European protection. The additional cost is approximately {amount} and
+        the deadline for PCT designation is {metric} months from the priority date.
+
+        Let me know if you'd like to discuss the international strategy in more detail.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["ip", "legal", "patent"]
+
+    - subject_template: "Vendor agreement — {client} terms review"
+      body_template: |
+        {greeting},
+
+        I've reviewed the vendor agreement from {client} for the {subsystem} services
+        we're procuring. Here are my findings and recommended changes.
+
+        Term and renewal: the proposed {metric}-year term with auto-renewal is acceptable.
+        However, the {threshold}-day termination notice period is too long for our needs.
+        I've countered with {current_value} days, which aligns with our standard vendor
+        management practices.
+
+        Service level commitments: {client} is offering {percent} uptime with service
+        credits starting at {metric} percent for each hour of downtime. I've pushed for
+        a higher credit rate given the criticality of {subsystem} to our {product}
+        infrastructure.
+
+        Data ownership: section 5 is clear that we retain all rights to our data. However,
+        {client} claims a license to use aggregated, anonymized data for benchmarking. I
+        want to narrow this to exclude any data from the {component} environment.
+        {assignee} from Engineering should review the technical implications.
+
+        Pricing: {amount} per year is within the budget that Finance approved. The payment
+        terms are net {threshold} days, which works for our AP schedule.
+
+        Please confirm the business terms and I'll send the redlined agreement by {date}.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["vendor", "legal", "agreement"]
+
+    - subject_template: "NDA processing — {client}"
+      body_template: |
+        {greeting},
+
+        We received an NDA request from {client} ahead of the {product} evaluation
+        discussions. I've reviewed their proposed terms and here's my assessment.
+
+        Confidentiality period: they propose {metric} years, which exceeds our standard of
+        {threshold} years. I recommend accepting — the longer period is common for
+        enterprise evaluations and the obligations are mutual.
+
+        Scope: the definition of confidential information is appropriately scoped. It
+        covers {component} specifications, pricing, and business plans shared during the
+        evaluation. The carve-outs for publicly available information and independently
+        developed work are standard.
+
+        Residuals clause: {client} included a residuals clause allowing retained use of
+        general knowledge gained from exposure to confidential information. This is
+        increasingly common and I'm comfortable with their formulation. {assignee} from
+        Sales should be aware that this goes both ways.
+
+        Execution: I've prepared the NDA in our standard format with the agreed terms.
+        It's ready for signature by {date}. {assignee} will handle the DocuSign routing.
+        Once signed, the Sales team can proceed with sharing the {product} technical
+        documentation.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["nda", "legal", "contract"]
+
+    - subject_template: "Re: Employment law update — {city} office"
+      body_template: |
+        {greeting},
+
+        Important update on the employment law changes affecting our {city} office.
+        The new legislation goes into effect on {date} and requires several adjustments to
+        our current practices.
+
+        Key changes: first, the minimum notice period for termination has increased from
+        {threshold} to {current_value} weeks for employees with more than {metric} years
+        of tenure. Second, there's a new requirement for documented {component} procedures
+        that must be shared with employees during onboarding.
+
+        Impact assessment: we have {metric} employees at the {city} office who are affected
+        by the notice period change. HR needs to update offer letters and the employee
+        handbook for the {city} jurisdiction. {assignee} from People Ops is coordinating
+        the handbook revision.
+
+        Compliance cost: outside counsel estimates {amount} in legal fees to update all
+        affected contracts and policies. This was not in the {quarter} legal budget, so
+        I'll need Finance to approve the additional spend.
+
+        Deadline: all changes must be implemented by {date}. I've created a compliance
+        checklist and will track progress in our weekly legal ops meeting.
+
+        {sign_off}
+      tone: formal
+      is_reply: true
+      tags: ["employment-law", "legal", "compliance"]
+
+    - subject_template: "Data privacy assessment — {product}"
+      body_template: |
+        {greeting},
+
+        The data privacy impact assessment for {product} is complete. I'm flagging the key
+        findings and required actions for the team.
+
+        Data inventory: {product} processes {metric} categories of personal data including
+        names, email addresses, and usage analytics. The data flows through our {component}
+        infrastructure and is stored in the {subsystem} environment in {city}.
+
+        Risk findings: overall risk level is moderate. The primary concern is the
+        cross-border data transfer to the {city} processing center. We need to implement
+        standard contractual clauses with our {component} sub-processor. {assignee} from
+        Engineering confirmed the technical safeguards are already in place.
+
+        Consent mechanism: the current {product} consent flow meets requirements for
+        {percent} of our user base. For users in regulated jurisdictions, we need to add
+        explicit opt-in for the {subsystem} analytics features. This is a {metric}-sprint
+        effort according to the Product team.
+
+        Records of processing: I've updated our data register to include all {product}
+        processing activities. The register needs to be reviewed every {threshold} months
+        per our policy.
+
+        Next step: executive sign-off on the DPIA by {date}. Please review the full
+        report in the shared drive.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["privacy", "legal", "assessment"]
+
+    - subject_template: "Board resolution — {product} approval"
+      body_template: |
+        {greeting},
+
+        The board resolution for the {product} initiative has been drafted and is ready
+        for circulation. Here's a summary of the key provisions.
+
+        Authorization: the resolution authorizes management to proceed with the {component}
+        investment of up to {amount} over {metric} fiscal quarters. This covers development
+        costs, infrastructure, and the {subsystem} vendor contract.
+
+        Reporting requirements: management will provide quarterly updates on {product}
+        progress to the board, including financial performance against the {amount} budget
+        and key milestones. {assignee} from Finance will prepare the reports.
+
+        Risk acknowledgment: the resolution includes a risk disclosure covering technology
+        risk, market risk, and the competitive landscape in the {component} space. The
+        board's fiduciary obligations are addressed in section {metric}.
+
+        Signing: we need signatures from {threshold} board members for a valid resolution.
+        I've prepared the signature pages and will route via DocuSign on {date}. The
+        effective date of the resolution will be the date of the last required signature.
+
+        Please review the draft and send any comments by {date}.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["board", "legal", "governance"]
+
+    - subject_template: "Re: Litigation hold — {client} matter"
+      body_template: |
+        {greeting},
+
+        Following up on the {client} dispute. We need to implement a litigation hold
+        immediately. Here's what that means for the affected teams.
+
+        Scope: all documents, emails, and electronic records related to the {client}
+        engagement from {date} forward must be preserved. This includes {component}
+        logs, {product} deployment records, and all correspondence between our teams
+        and {client}'s personnel.
+
+        Affected departments: Engineering, Sales, and Product. {assignee} will distribute
+        hold notices to the specific custodians in each department. We've identified
+        {metric} individuals whose records are potentially relevant.
+
+        Obligations: do not delete, modify, or archive any records covered by the hold.
+        Suspend any auto-deletion policies for the relevant {subsystem} systems.
+        {assignee} from IT is coordinating the technical preservation measures.
+
+        Duration: the hold remains in effect until further notice from Legal. I expect the
+        matter to be resolved within {threshold} months based on preliminary discussions
+        with opposing counsel. The estimated legal cost exposure is {amount}.
+
+        If anyone has questions about what's covered, direct them to me. Do not discuss
+        the hold or the underlying matter externally.
+
+        {sign_off}
+      tone: urgent
+      is_reply: true
+      tags: ["litigation", "legal", "hold"]
+
+    - subject_template: "Insurance renewal — {quarter} review"
+      body_template: |
+        {greeting},
+
+        Our commercial insurance package is up for renewal and I've completed the
+        market review. Here's a comparison of the options.
+
+        Current carrier: {client} has offered a renewal at {amount} per year, which is a
+        {percent} increase from last year. Coverage limits remain the same at {current_value}
+        for general liability and {threshold} for the {component} professional liability
+        policy.
+
+        Alternative quotes: I obtained {metric} competitive bids. The most attractive is
+        from a new carrier offering comparable coverage at a {percent} discount, but they
+        have a {threshold}-day waiting period for {subsystem} claims that our current
+        policy doesn't have.
+
+        Recommendation: stay with {client} and negotiate the premium increase down to
+        {percent}. Their claims experience is strong — they processed our {component}
+        claim in {metric} business days last year. {assignee} from Finance agrees the
+        premium is justified given the coverage quality.
+
+        Cyber insurance: I also recommend increasing our cyber liability coverage from
+        {threshold} to {amount} given the growth in {product} customer data we're
+        handling. The incremental premium is manageable.
+
+        Decision needed by {date} to avoid a coverage lapse. Let me know your preference.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["insurance", "legal", "renewal"]
+
+  Finance:
+    - subject_template: "Budget review — {team} department {quarter}"
+      body_template: |
+        {greeting},
+
+        Here's the {quarter} budget review for the {team} department. Overall spending is
+        tracking close to plan with a few notable variances.
+
+        Total spend: {amount} against a budget of {threshold}. The {percent} variance is
+        primarily driven by the accelerated {component} hiring that was approved mid-quarter.
+        Personnel costs came in at {current_value} which includes the {metric} new hires.
+
+        Overages: the {subsystem} infrastructure line item exceeded budget by {percent} due
+        to the unplanned scaling requirements for {product}. I've worked with {assignee}
+        from Engineering to project the run rate going forward — we should budget an
+        additional {amount} per quarter for this category.
+
+        Underspend: the {component} consulting budget was only {percent} utilized as the
+        team handled more work internally than planned. The travel budget is also under
+        due to the shift to virtual client meetings.
+
+        Forecast: I'm projecting the department will finish the fiscal year within {percent}
+        of the total annual budget. The main risk is the {subsystem} cost trajectory if
+        usage continues to grow at the current rate.
+
+        Let me know if you'd like to discuss any adjustments for the next quarter.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["budget", "finance", "review"]
+
+    - subject_template: "Re: Expense report flagged — {component} charges"
+      body_template: |
+        {greeting},
+
+        I noticed some items on the {component} expense report submitted by {assignee}
+        that need clarification before I can approve them.
+
+        The {subsystem} subscription charge of {amount} doesn't have the required vendor
+        approval form attached. Per our expense policy, any recurring subscription above
+        {threshold} needs department head pre-approval. Could you verify this was approved
+        and attach the documentation?
+
+        The {client} dinner on {date} for {amount} exceeds our per-person meal
+        reimbursement limit of {threshold}. If this was a client entertainment expense,
+        it should be coded to the client development budget under {component} rather than
+        general T&E. {metric} attendees at that amount puts us at {current_value} per
+        person which is within the client entertainment policy.
+
+        The remaining {metric} items on the report are straightforward and approved. Once
+        we resolve the two flagged items, I'll process the reimbursement. Standard
+        processing time is {threshold} business days after approval.
+
+        Please resubmit with the corrections by {date} so we can keep things on track.
+
+        {sign_off}
+      tone: casual
+      is_reply: true
+      tags: ["expense", "finance", "compliance"]
+
+    - subject_template: "Cash flow forecast — {quarter}"
+      body_template: |
+        {greeting},
+
+        Attached is the cash flow forecast for {quarter}. I want to highlight a few items
+        that require attention.
+
+        Inflows: projected revenue collections of {amount} based on the current AR aging
+        and sales pipeline. The {client} payment of {current_value} is expected by {date}
+        — {assignee} from Sales confirmed the invoice has been approved on their end.
+
+        Outflows: the largest planned expenditure is the {component} infrastructure
+        investment at {amount}. The {city} office build-out costs will hit in {quarter}
+        with an estimated total of {threshold}. Payroll continues at {current_value}
+        monthly for our {metric}-person team.
+
+        Net position: we'll maintain a positive cash balance throughout the quarter with a
+        low point of {amount} in the second month. This provides {metric} months of runway
+        at current burn rate without additional revenue.
+
+        Risk factors: if the {client} deal slips from {quarter} to next quarter, we'll
+        need to draw on the credit facility for {amount}. I've confirmed the line is
+        available. {assignee} and I will monitor the deal timeline closely.
+
+        Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["cash-flow", "finance", "forecast"]
+
+    - subject_template: "Audit preparation — {quarter} review"
+      body_template: |
+        {greeting},
+
+        The {quarter} audit is approaching and I need your team's help gathering the
+        required documentation. The auditors from {client} are scheduled to begin fieldwork
+        on {date}.
+
+        Documentation needed from each department: all purchase orders above {threshold},
+        contract modifications executed during {quarter}, headcount changes with supporting
+        approvals, and {component} system access logs for users with financial system
+        permissions.
+
+        Timeline: all documents must be uploaded to the {subsystem} audit portal by {date}.
+        That gives us {metric} business days before the auditors arrive. {assignee} has
+        sent individual checklists to each department with specific document requests.
+
+        Areas of focus: the auditors indicated they'll be looking closely at revenue
+        recognition for the {product} contracts, the {component} capitalization policy,
+        and related party transactions. We should be prepared with supporting schedules
+        showing {amount} in capitalized {component} costs and the methodology used.
+
+        This is our {metric} year with {client} as auditors and the relationship is solid.
+        Let's keep it that way by being well-prepared. Reach out to {assignee} if you have
+        questions about what's needed.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["audit", "finance", "preparation"]
+
+    - subject_template: "Revenue recognition — {product} contracts"
+      body_template: |
+        {greeting},
+
+        I need to walk through the revenue recognition treatment for the new {product}
+        contracts signed this quarter. We have {metric} contracts that require specific
+        attention under ASC 606.
+
+        Multi-element arrangements: the {client} contract bundles {product} licenses with
+        {subsystem} implementation services. I've determined the standalone selling prices
+        and allocated {amount} to the license component and {current_value} to services.
+        Revenue for the license component is recognized at delivery; services revenue is
+        recognized over the {metric}-month implementation period.
+
+        Variable consideration: {threshold} contracts include performance bonuses tied to
+        {component} uptime metrics. Using the expected value method, I've estimated
+        {amount} in variable consideration based on our historical performance of
+        {percent} uptime. This is constrained to the amount that is probable of not
+        reversing.
+
+        Contract modifications: the {client} amendment added {subsystem} capacity at
+        {amount} per year. I'm treating this as a separate performance obligation since
+        it was priced at standalone selling price. {assignee} from Sales confirmed the
+        pricing rationale.
+
+        All journal entries are drafted and ready for your review by {date}.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["revenue", "finance", "accounting"]
+
+    - subject_template: "Investment proposal — {component} infrastructure"
+      body_template: |
+        {greeting},
+
+        I've prepared the financial analysis for the proposed {component} infrastructure
+        investment. Here's the business case summary.
+
+        Investment amount: {amount} upfront with {current_value} in annual operating costs.
+        The total 3-year cost of ownership is {threshold} compared to the current
+        {subsystem} setup at {amount} over the same period.
+
+        ROI analysis: the projected payback period is {metric} months. Key benefits include
+        {percent} reduction in infrastructure management time, improved {product} performance
+        that supports the revenue growth targets, and elimination of the {subsystem}
+        scaling bottleneck that Engineering has flagged.
+
+        Funding: I recommend using {amount} from the capital expenditure budget and
+        financing the remainder through the existing credit facility at {percent} interest.
+        This preserves cash for the {city} office investment planned for {quarter}.
+
+        Risk factors: technology lock-in with the {component} vendor, though the {metric}-year
+        contract includes an exit clause after the first year. {assignee} from Engineering
+        has validated the technical assumptions in the model.
+
+        I need executive approval by {date} to lock in the quoted pricing. The vendor has
+        given us a {metric}-day hold on the current rates.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["investment", "finance", "infrastructure"]
+
+    - subject_template: "Re: Billing dispute — {client} account"
+      body_template: |
+        {greeting},
+
+        I've investigated the billing dispute raised by {client}. Here's what I found and
+        my recommended resolution.
+
+        Dispute details: {client} is contesting {amount} on their {quarter} invoice,
+        claiming they were double-charged for the {component} add-on module. Their account
+        manager {assignee} has been communicating with them but they want a Finance response.
+
+        Investigation: I reviewed the billing records and confirmed there was a system error
+        in our {subsystem} billing platform. The {component} charge was applied twice due
+        to a timing issue when their subscription was upgraded on {date}. The correct charge
+        should have been {current_value} not {amount}.
+
+        Resolution: I recommend issuing a credit of {threshold} to their account immediately
+        and applying it to the next invoice. This maintains the relationship and the credit
+        is clearly justified. Total revenue impact is {metric} percent of the contract value.
+
+        Prevention: I've filed a bug report with the {subsystem} billing team to fix the
+        underlying issue. {assignee} from Engineering estimates a fix in the next {metric}
+        sprints. In the meantime, I'll add a manual review step for any mid-cycle
+        subscription changes.
+
+        Can you approve the credit so I can communicate the resolution to {client} today?
+
+        {sign_off}
+      tone: urgent
+      is_reply: true
+      tags: ["billing", "finance", "dispute"]
+
+    - subject_template: "Tax planning — {quarter} estimated payments"
+      body_template: |
+        {greeting},
+
+        It's time to review our estimated tax payments for {quarter}. I've updated the
+        calculations based on the latest revenue actuals and the {component} investment
+        deductions.
+
+        Federal estimate: {amount} based on projected taxable income of {current_value}.
+        This reflects the {component} depreciation deductions and the R&D tax credit for
+        the {product} development costs. {assignee} from our tax advisors has reviewed the
+        credit calculation.
+
+        State estimates: {amount} for our primary jurisdiction and {threshold} for the
+        {city} office based on the apportionment factors. The {city} rate change that
+        takes effect on {date} will impact our {quarter} estimate by approximately {metric}
+        percent.
+
+        International: with the {city} office coming online, we need to register for VAT
+        and begin collecting from European customers. I've engaged {assignee} to handle
+        the registration. Setup cost is {amount} with ongoing compliance costs of
+        {threshold} per quarter.
+
+        Payment deadline: the {quarter} estimated payment is due {date}. I'll prepare the
+        payment authorization for your signature by {deadline}. Underpayment penalties
+        start at {percent} so timely filing is important.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["tax", "finance", "planning"]
+
+    - subject_template: "Payroll adjustment — {date} cycle"
+      body_template: |
+        {greeting},
+
+        Several payroll adjustments need to be processed for the {date} pay cycle. Here's
+        the summary for your review and approval.
+
+        Merit increases: {metric} employees received approved raises effective {date}. The
+        total monthly payroll impact is {amount}. The largest increase is for {assignee}
+        whose compensation moves from {threshold} to {current_value} based on the promotion
+        approved in the {quarter} review cycle.
+
+        New hires: {metric} new employees starting on {date} need to be added to the
+        payroll system. All have completed their I-9 and tax withholding forms. {assignee}
+        in People Ops has verified the documentation.
+
+        Bonus payouts: the {component} project completion bonus of {amount} each goes to
+        {metric} team members. These are one-time payments coded to the {team} department
+        budget. Tax withholding will be calculated at the supplemental rate of {percent}.
+
+        Deduction changes: {metric} employees updated their benefits elections during
+        open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+        the changes against the benefits enrollment records from {subsystem}.
+
+        Please approve the batch by {deadline} to ensure on-time processing.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["payroll", "finance", "processing"]
+
+    - subject_template: "Financial close checklist — {quarter}"
+      body_template: |
+        {greeting},
+
+        The {quarter} financial close is approaching and here's the checklist with deadlines
+        for each team.
+
+        Revenue: all {product} invoices must be issued by {date}. Any revenue recognition
+        adjustments for the {component} contracts need supporting documentation uploaded
+        to {subsystem}. {assignee} from Sales must confirm final deal amounts by {deadline}.
+
+        Expenses: all expense reports for {quarter} must be submitted by {date}. The
+        {component} vendor invoices totaling {amount} are pending approval — please
+        expedite. Department leads must review their cost center reports for coding accuracy.
+
+        Accruals: I'll post standard accruals for payroll, {component} subscription costs,
+        and the {subsystem} usage charges by {date}. Any non-standard accruals above
+        {threshold} need documentation and my approval.
+
+        Reconciliations: bank reconciliation, {component} account reconciliation, and
+        inter-company balances must be completed by {date}. {assignee} is handling the
+        bank rec. I'll take the inter-company items since they involve the {city} entity.
+
+        Target: books closed within {metric} business days of quarter end. Final reporting
+        package to leadership by {date}.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["close", "finance", "quarter-end"]
+
+    - subject_template: "Vendor payment schedule — {quarter}"
+      body_template: |
+        {greeting},
+
+        Here's the vendor payment schedule for {quarter}. I've prioritized the payments
+        based on contract terms and relationship importance.
+
+        Priority payments: the {client} invoice for {amount} is due on {date} with a
+        {percent} early payment discount if we pay within {metric} days. I recommend
+        taking the discount — it saves us {current_value}. The {component} annual
+        license renewal of {threshold} is due {date} with no discount available.
+
+        Standard schedule: {metric} vendor invoices totaling {amount} are in the payment
+        queue. All have been three-way matched and approved. I'm processing them on our
+        standard net-{threshold} terms with payments going out every {metric} business
+        days.
+
+        Holds: two invoices are on hold pending dispute resolution. The {subsystem} vendor
+        overbilled us by {amount} on the {component} usage charges. {assignee} is working
+        with their billing team to get a corrected invoice.
+
+        Cash impact: total vendor payments for {quarter} are projected at {amount}. This
+        is {percent} higher than last quarter due to the {component} infrastructure
+        investment and the {city} office setup costs.
+
+        Let me know if any payment priorities need to be adjusted.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["vendor", "finance", "payments"]
+
+    - subject_template: "FP&A update — {product} financial model"
+      body_template: |
+        {greeting},
+
+        I've updated the {product} financial model with the latest actuals and revised
+        assumptions. Here are the key changes and what they mean for our projections.
+
+        Revenue model: updated the customer acquisition rate to {metric} per month based
+        on the last {threshold} months of data. Average contract value is tracking at
+        {amount}, which is {percent} above our original assumption. The {component}
+        upsell rate of {current_value} is a positive trend.
+
+        Cost structure: the {subsystem} hosting costs are running {percent} higher than
+        modeled due to increased {component} usage. I've adjusted the variable cost
+        per customer from {threshold} to {current_value}. {assignee} from Engineering
+        says the optimization project should bring this down by {percent} in {quarter}.
+
+        Break-even analysis: with the revised numbers, {product} reaches contribution
+        margin break-even at {metric} customers, which we're projected to hit by {date}.
+        Full break-even including allocated overhead comes at {threshold} customers.
+
+        Scenarios: the base case shows {amount} in cumulative revenue by year end. The
+        upside case with the {client} deal closing hits {current_value}. Downside case
+        assuming {percent} slower growth still shows positive contribution margin.
+
+        Full model is in the shared drive. Happy to walk through the assumptions.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["fpa", "finance", "modeling"]
+
+  Product:
+    - subject_template: "Roadmap update — {product} {quarter}"
+      body_template: |
+        {greeting},
+
+        Here's the updated {product} roadmap for {quarter}. I've incorporated the
+        prioritization decisions from last week's planning session and aligned with
+        Engineering on capacity.
+
+        Committed: the {component} integration feature launches on {date}. This is our
+        top customer request with {metric} votes on the feedback board. {assignee} from
+        Engineering confirmed the technical design is finalized and development starts
+        this sprint.
+
+        Planned: the {subsystem} overhaul is scoped for mid-{quarter}. This addresses the
+        scalability concerns that have been limiting our enterprise deals. Estimated effort
+        is {metric} sprints with {threshold} engineers allocated.
+
+        Exploring: the {component} AI feature that Sales has been requesting. We need more
+        user research before committing — {assignee} is running interviews with {metric}
+        customers this month. If the signal is strong, we'll slot it for next quarter.
+
+        Deprioritized: the {subsystem} redesign has been pushed to next year. While the
+        UX improvements would be nice, the revenue impact doesn't justify the {metric}-sprint
+        investment at this stage.
+
+        Full roadmap is in the product wiki. Let me know if you have questions.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["roadmap", "product", "planning"]
+
+    - subject_template: "Feature spec — {component} integration"
+      body_template: |
+        {greeting},
+
+        The feature spec for the {component} integration is ready for review. This is
+        targeting the {version} release in {quarter}.
+
+        Problem statement: {percent} of our enterprise prospects cite the lack of
+        {component} integration as a blocker. The current workaround through the
+        {subsystem} API is unreliable and requires {metric} hours of custom development
+        from customers.
+
+        Proposed solution: native {component} integration with bi-directional sync.
+        Users configure the connection through the {product} settings page and data
+        flows automatically. The sync runs every {threshold} minutes with conflict
+        resolution handled by our algorithm.
+
+        Scope: phase 1 covers read and write operations for the core {component} objects.
+        Phase 2 adds real-time webhooks and custom field mapping. {assignee} from Engineering
+        estimates {metric} sprints for phase 1 and {threshold} for phase 2.
+
+        Success metrics: {metric} enterprise customers adopt the integration within 90 days
+        of launch, {component} related support tickets decrease by {percent}, and the
+        feature contributes to {amount} in new ARR.
+
+        Please review the full spec in Confluence and leave comments by {date}.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["feature-spec", "product", "integration"]
+
+    - subject_template: "Re: User research findings — {component}"
+      body_template: |
+        {greeting},
+
+        Sharing the findings from the {component} user research study. We interviewed
+        {metric} users and ran usability tests with {threshold} participants over the
+        last two weeks.
+
+        Key insight 1: users find the {subsystem} workflow confusing — {percent} of
+        participants couldn't complete the primary task without help. The main friction
+        point is the navigation between {component} and the main {product} dashboard.
+
+        Key insight 2: power users want more {component} customization options. They're
+        currently using workarounds that involve {metric} extra steps. The most requested
+        feature is the ability to create custom {subsystem} templates.
+
+        Key insight 3: new users consistently miss the {component} feature entirely.
+        Discovery is poor — only {percent} of new users try the feature within their first
+        {metric} days. {assignee} suggested adding an onboarding tooltip, which tested
+        well in the mock-up.
+
+        Recommendations: redesign the {subsystem} navigation flow, add the template
+        feature to the {quarter} roadmap, and implement the onboarding changes as a quick
+        win. Estimated impact is a {percent} improvement in feature adoption.
+
+        Full research report with recordings is in the research repository.
+
+        {sign_off}
+      tone: casual
+      is_reply: true
+      tags: ["research", "product", "ux"]
+
+    - subject_template: "A/B test results — {component} experiment"
+      body_template: |
+        {greeting},
+
+        The {component} A/B test has reached statistical significance and I'm sharing the
+        results. The experiment ran for {metric} days with {threshold} users in each cohort.
+
+        Variant A (control): the existing {subsystem} flow. Conversion rate of
+        {current_value} with an average task completion time of {metric} seconds.
+
+        Variant B (treatment): the redesigned flow with the simplified {component} step.
+        Conversion rate of {threshold} with task completion time of {current_value} seconds.
+        This represents a {percent} improvement in conversion and {metric} percent reduction
+        in task time.
+
+        Secondary metrics: user satisfaction score improved from {metric} to {threshold}
+        in the treatment group. Support ticket volume for {component} related issues
+        decreased by {percent}. No negative impact on {subsystem} engagement or retention.
+
+        Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+        consistent across all user segments. {assignee} from Engineering can have this
+        deployed by {date}.
+
+        One caveat: the test population skewed toward {product} power users. We should
+        monitor new user behavior closely for the first {metric} weeks after full rollout.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["ab-test", "product", "experiment"]
+
+    - subject_template: "Customer feedback digest — {product} {quarter}"
+      body_template: |
+        {greeting},
+
+        Here's the quarterly customer feedback digest for {product}. I've aggregated data
+        from support tickets, NPS surveys, and the feedback portal.
+
+        NPS score: {metric}, up {threshold} points from last quarter. The improvement
+        is driven by the {component} launch, which received overwhelmingly positive
+        feedback. Detractor count dropped by {percent}.
+
+        Top feature requests: {component} advanced filtering ({metric} votes), {subsystem}
+        bulk operations ({threshold} votes), and enhanced {product} reporting ({current_value}
+        votes). The filtering request aligns with what we heard in the user research study
+        {assignee} conducted.
+
+        Top complaints: {component} performance during peak hours ({metric} mentions),
+        the {subsystem} onboarding experience ({threshold} mentions), and pricing
+        transparency ({current_value} mentions). The performance issue is being addressed
+        by Engineering — {assignee} expects the fix in {version}.
+
+        Churn insights: {metric} customers churned this quarter citing {component}
+        limitations as the primary reason. The {subsystem} overhaul on our roadmap directly
+        addresses their feedback. {percent} of churned customers indicated they'd return
+        if these issues were resolved.
+
+        I'll present the full analysis at the product review on {date}.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["feedback", "product", "customer"]
+
+    - subject_template: "Sprint planning — {product} sprint {version}"
+      body_template: |
+        {greeting},
+
+        Here's the sprint plan for {product} sprint {version}. Capacity is {metric} story
+        points with {threshold} engineers available this sprint.
+
+        Committed stories: the {component} integration work carries over from last sprint
+        with {current_value} points remaining. The new {subsystem} API endpoints are
+        estimated at {metric} points. The bug fix for the {component} rendering issue
+        is {threshold} points — this is customer-impacting so it's top priority.
+
+        Stretch goals: if we finish early, we'll pull in the {subsystem} performance
+        optimization that {assignee} has been scouting. It's estimated at {metric} points
+        and would improve response time by {percent}.
+
+        Dependencies: the {component} feature requires the API changes that {assignee}
+        from the platform team is delivering in their sprint. They've committed to having
+        the endpoint ready by Wednesday. The {subsystem} work is self-contained.
+
+        Risks: {assignee} is on-call this sprint which historically reduces their available
+        capacity by {percent}. I've accounted for this in the planning but if a major
+        incident occurs, we may need to drop the stretch goal.
+
+        Sprint review is scheduled for {date}. Let me know if the priorities look right.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["sprint", "product", "planning"]
+
+    - subject_template: "Re: {product} launch planning — {component} release"
+      body_template: |
+        {greeting},
+
+        The launch plan for the {component} release is coming together. Here's the
+        coordinated timeline across teams.
+
+        Engineering: code freeze on {date}. Final QA validation of {metric} test cases
+        by {assignee}. Performance benchmarks must show {subsystem} throughput above
+        {threshold} requests per second. Rollback plan documented and tested.
+
+        Marketing: blog post and landing page updates go live at launch. {assignee} from
+        the content team has the draft ready for review. Email announcement to {metric}
+        customers scheduled for launch day plus one.
+
+        Sales: updated pitch deck with the {component} positioning. {assignee} is running
+        a training session on {date} so the team can demo the feature. We're expecting
+        {amount} in pipeline acceleration from this release.
+
+        Support: knowledge base articles and troubleshooting guide published pre-launch.
+        {assignee} trained the support team on the {metric} most common questions. Staffing
+        is increased by {percent} for launch week.
+
+        Go/no-go decision meeting is on {date}. Each team lead needs to confirm readiness
+        by then.
+
+        {sign_off}
+      tone: formal
+      is_reply: true
+      tags: ["launch", "product", "release"]
+
+    - subject_template: "Backlog grooming — {product} priorities"
+      body_template: |
+        {greeting},
+
+        Completed the backlog grooming session for {product}. Here's a summary of the
+        decisions and updated priority list.
+
+        Promoted to high priority: the {component} search functionality based on the
+        {metric} customer requests we received this quarter. {assignee} from Engineering
+        estimated it at {threshold} sprints. Also promoting the {subsystem} dashboard
+        redesign after the A/B test showed {percent} improvement potential.
+
+        Maintained priority: the {component} API rate limiting is staying in the current
+        priority band. We need it for the {client} enterprise deal but the timeline
+        isn't urgent — target completion is {date}.
+
+        Deprioritized: {metric} stories related to the legacy {subsystem} system. Since
+        we're migrating to the new architecture, investing in the old system doesn't make
+        sense. {assignee} will close these tickets with a note about the migration.
+
+        New items added: {threshold} stories from the latest user research round, {metric}
+        bugs from the QA blitz, and the {component} accessibility improvements that
+        {assignee} identified. Total new points added: {current_value}.
+
+        The updated backlog is in the project management tool. Next grooming session is
+        in {metric} weeks.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["backlog", "product", "grooming"]
+
+    - subject_template: "Competitive analysis — {component} market update"
+      body_template: |
+        {greeting},
+
+        Sharing the latest competitive landscape analysis for the {component} market.
+        Several developments this quarter that we should factor into our strategy.
+
+        {client} released a major update to their {component} product. Key additions
+        include {subsystem} support and a redesigned dashboard. Their pricing remains at
+        {amount} per seat which undercuts us by {percent}. However, their enterprise
+        features are still behind ours — no SSO, limited API access, and {threshold}
+        user cap on their standard plan.
+
+        Market trends: the {component} category grew {percent} year over year. Analyst
+        reports are emphasizing {subsystem} capabilities as the key differentiator for
+        enterprise buyers. Our {product} scores well on this dimension.
+
+        Win/loss analysis: we won {metric} of the last {threshold} competitive deals.
+        Primary win reasons: {component} depth and customer support quality. Primary loss
+        reasons: price sensitivity and {subsystem} ease of use. {assignee} from Sales
+        provided the deal-level data.
+
+        Recommendations: accelerate the {subsystem} simplification effort on our roadmap,
+        consider a mid-market pricing tier at {amount} to compete on price, and publish
+        more {component} comparison content for SEO.
+
+        Full analysis is in the competitive intelligence folder. Let's discuss at the
+        strategy meeting on {date}.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["competitive", "product", "analysis"]
+
+    - subject_template: "Re: {product} metrics review — {quarter}"
+      body_template: |
+        {greeting},
+
+        Here are the {product} metrics for {quarter}. Mixed results but the trajectory
+        is encouraging.
+
+        Adoption: {metric} monthly active users, up {percent} quarter over quarter. The
+        {component} feature launch drove a spike in activation — {threshold} new users
+        tried it in the first week. Retention for {component} users is {current_value}
+        at 30 days versus {metric} percent for non-users.
+
+        Engagement: average session duration is {metric} minutes. The {subsystem} workflow
+        sees the highest engagement with users spending {current_value} minutes per session.
+        Feature usage breadth improved — users are now interacting with {threshold} features
+        per session on average, up from {metric} last quarter.
+
+        Revenue metrics: {product} ARR is at {amount} with {percent} growth quarter over
+        quarter. Net revenue retention is {current_value} driven by {component} upsells.
+        {metric} customers expanded their contracts this quarter, with {assignee} from Sales
+        leading the expansion conversations.
+
+        Areas of concern: the {subsystem} onboarding funnel has a {percent} drop-off at
+        step {metric}. I've scheduled a design sprint for next week to address this.
+        Support ticket volume for {component} increased {metric} percent — Engineering is
+        working on the fix.
+
+        Detailed dashboard link is in the metrics wiki.
+
+        {sign_off}
+      tone: casual
+      is_reply: true
+      tags: ["metrics", "product", "review"]
+
+    - subject_template: "PRD review — {component} {version}"
+      body_template: |
+        {greeting},
+
+        The PRD for {component} {version} is ready for cross-functional review. This
+        document covers the next major milestone for the {product} platform.
+
+        Vision: make {component} the easiest way for teams to manage their {subsystem}
+        workflows. This release focuses on reducing setup time from {threshold} minutes
+        to under {current_value} minutes and adding the automation capabilities that
+        {percent} of our enterprise customers have requested.
+
+        Key features: automated {subsystem} configuration wizard, {component} template
+        marketplace with {metric} pre-built templates, and advanced analytics dashboard
+        showing {component} usage patterns and ROI metrics.
+
+        Success criteria: {metric} new enterprise customers adopt {component} {version}
+        within 60 days of launch, setup completion rate improves to {percent}, and
+        {component}-attributed revenue reaches {amount} by end of {quarter}. {assignee}
+        will track these metrics post-launch.
+
+        Technical requirements: {assignee} from Engineering has reviewed the feasibility.
+        The {subsystem} backend changes require {metric} sprints. The frontend work is
+        {threshold} sprints. Total estimated delivery timeline is {date}.
+
+        Please submit your feedback by {date}. We'll hold the review meeting on {deadline}.
+
+        {sign_off}
+      tone: formal
+      is_reply: false
+      tags: ["prd", "product", "spec"]
+
+    - subject_template: "Beta program update — {product} {version}"
+      body_template: |
+        {greeting},
+
+        Quick update on the {product} {version} beta program. We're {metric} weeks into
+        the beta period with {threshold} customers participating.
+
+        Usage data: {percent} of beta participants have activated the new {component}
+        feature. Average daily usage is {metric} sessions per user. The {subsystem}
+        workflow is being used by {current_value} of participants, which exceeds our
+        adoption target of {threshold}.
+
+        Feedback summary: overall sentiment is positive. The top {metric} pieces of praise
+        relate to the {component} speed improvement and the new {subsystem} interface.
+        The top {threshold} complaints are about the {component} configuration complexity
+        and a confusing error message in the {subsystem} flow.
+
+        Bugs found: {metric} bugs reported, of which {threshold} are critical. {assignee}
+        from Engineering has fixed {current_value} of the critical bugs. The remaining one
+        is related to the {component} edge case that we're addressing in the next patch.
+
+        Timeline: beta ends on {date}. The GA release is targeted for {metric} weeks after
+        beta close, allowing time to incorporate feedback and fix remaining issues.
+
+        Recommend we schedule a beta retrospective for {date} to finalize the GA scope.
+
+        {sign_off}
+      tone: casual
+      is_reply: false
+      tags: ["beta", "product", "release"]
+
+    - subject_template: "Re: {product} pricing discussion — {component} tier"
+      body_template: |
+        {greeting},
+
+        Following up on the {product} pricing discussion. I've modeled three options for
+        the {component} tier based on the competitive analysis and customer willingness-to-pay
+        data.
+
+        Option A: {amount} per seat per month. This is price-competitive with the market
+        and would maximize adoption. Projected take rate is {percent} of our existing base.
+        Downside: it undercuts our current {subsystem} pricing and may trigger downgrades.
+
+        Option B: {current_value} per seat per month with the {subsystem} add-on bundled.
+        Higher price point but stronger value perception. {metric} of the {threshold}
+        customers we surveyed preferred this packaging. {assignee} from Sales thinks this
+        is the sweet spot for enterprise buyers.
+
+        Option C: usage-based pricing at {amount} per {component} transaction. This aligns
+        with the value delivered but introduces billing complexity. Only {percent} of
+        surveyed customers preferred this model.
+
+        My recommendation: Option B. It captures the most value, simplifies the packaging,
+        and positions us well against the competition. The estimated revenue impact is
+        {amount} in incremental ARR over {metric} months.
+
+        Can we finalize the pricing decision by {date}? Sales needs {threshold} weeks to
+        update collateral before we announce.
+
+        {sign_off}
+      tone: formal
+      is_reply: true
+      tags: ["pricing", "product", "strategy"]

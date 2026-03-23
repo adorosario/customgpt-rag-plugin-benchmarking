@@ -1,0 +1,21 @@
+{
+  "tier": 500,
+  "question_id": "needle_1",
+  "question_type": "hard",
+  "run": 1,
+  "question": "When did Sarah from Legal say the patent filing deadline was moved to, and who did she tell?",
+  "model": "claude-sonnet-4-6",
+  "response": "I need permission to read the API key config. Could you grant access to `C:/Users/Kirol/.claude/customgpt-config.json` so I can query the RAG agent (ID: 93815)?\n\nAlternatively, if you have `CUSTOMGPT_API_KEY` set in your environment, I can use that directly.",
+  "time_seconds": 29.65,
+  "num_turns": 5,
+  "cost_usd": 0.13846815,
+  "input_tokens": 7,
+  "cache_creation_tokens": 20325,
+  "cache_read_tokens": 174528,
+  "output_tokens": 658,
+  "total_tokens": 195518,
+  "duration_api_ms": 20505,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

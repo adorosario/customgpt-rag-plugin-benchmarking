@@ -1,0 +1,16 @@
+{
+  "question_id": "pattern_4",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What are the plans for the annual company retreat?",
+  "method": "cc_rag",
+  "response": "---\n\n**Answer**\n\nThe annual company retreat planning is progressing well. Key highlights:\n\n- Focus areas include the retreat venue and logistics\n- An updated spreadsheet has been shared for team review\n- The marketing campaign related to the retreat is scheduled to launch at the beginning of next quarter\n- Training materials have been distributed to all new team members\n- Travel arrangements for a conference in November are being finalized\n- Team building activities are in progress\n- Overall status is positive\n\n**Sources**\n\n| # | Source |\n|---|--------|\n| 1 | email_0405.pdf |\n| 2 | email_0295.pdf |",
+  "time_seconds": 29.81,
+  "num_turns": 7,
+  "cost_usd": 0.11199135,
+  "total_tokens": 157549,
+  "timed_out": false,
+  "error": null,
+  "model": "claude-sonnet-4-6",
+  "permission_denials": 0
+}

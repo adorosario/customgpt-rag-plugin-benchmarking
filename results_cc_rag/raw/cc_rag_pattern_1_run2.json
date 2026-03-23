@@ -1,0 +1,16 @@
+{
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What is Project Nexus and which teams are involved?",
+  "method": "cc_rag",
+  "response": "---\n\n**Answer**\n\n**Project Nexus** is an initiative focused on four core areas:\n- **Nexus core** development\n- **Cross-platform** functionality\n- **Synchronization**\n- **Conflict resolution**\n\nThe project is reported as progressing well, with teams delivering results across all these areas. Additional context includes a strong hiring pipeline and a recent security audit that found no critical vulnerabilities. Legal coordination is also ongoing for patent filings.\n\n**Teams involved** (referenced implicitly):\n- Engineering\n- Product\n- Support (coordination role)\n- Legal (patent filings)\n\n**Sources**\n\n| # | Source |\n|---|--------|\n| 1 | email_0309.pdf |\n| 2 | email_0078.pdf |\n| 3 | email_0103.pdf |",
+  "time_seconds": 36.36,
+  "num_turns": 8,
+  "cost_usd": 0.12838994999999997,
+  "total_tokens": 190089,
+  "timed_out": false,
+  "error": null,
+  "model": "claude-sonnet-4-6",
+  "permission_denials": 0
+}
