@@ -1,0 +1,33 @@
+From: david.okonkwo@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-07-19 10:14 AM
+Subject: Insurance renewal â€” Q3 review
+
+Hi all,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Wayne Enterprises has offered a renewal at $466,257 per year, which is a
+14% increase from last year. Coverage limits remain the same at 258ms
+for general liability and 61ms for the PaymentGateway professional liability
+policy.
+
+Alternative quotes: I obtained 179 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 14% discount, but they
+have a 61ms-day waiting period for service mesh claims that our current
+policy doesn't have.
+
+Recommendation: stay with Wayne Enterprises and negotiate the premium increase down to
+14%. Their claims experience is strong â€” they processed our PaymentGateway
+claim in 179 business days last year. David Okonkwo from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+61ms to $466,257 given the growth in Integration Hub customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Monday, August 27 to avoid a coverage lapse. Let me know your preference.
+
+Talk soon,
+David

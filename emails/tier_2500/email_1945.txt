@@ -1,0 +1,31 @@
+From: ravi.patel@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-08-07 02:25 PM
+Subject: Monitoring alert tuning â€” SchedulerService
+
+Hey,
+
+I've completed the monitoring alert tuning for SchedulerService that we prioritized
+after last month's false alarm fatigue. Here's what changed.
+
+Removed: 4 alerts that hadn't produced a true positive in over 90 days. These
+were legacy thresholds from before the rate limiter migration.
+
+Adjusted: the SchedulerService latency alert threshold moved from 268ms to
+460ms based on the new baseline after the optimization work. The
+error rate alert now uses a 194-minute sliding window instead of instantaneous
+readings to reduce noise.
+
+Added: a new composite alert that fires only when both latency and error rate
+degrade simultaneously. This should catch real incidents while filtering out
+transient spikes. Aisha Okafor helped design the correlation logic.
+
+Results so far: in the two weeks since these changes, alert volume is down 10%
+and the signal-to-noise ratio has improved significantly. No incidents were missed
+during this period.
+
+Let me know if your team is seeing similar alert fatigue â€” happy to help tune.
+
+Cheers,
+Ravi

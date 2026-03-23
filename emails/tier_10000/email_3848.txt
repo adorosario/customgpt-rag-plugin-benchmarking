@@ -1,0 +1,29 @@
+From: marcus.thompson@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-11-04 06:24 PM
+Subject: Re: UserProfileService â€” tech debt prioritization
+
+Good afternoon,
+
+Following up on the tech debt discussion from yesterday's sprint planning. I've
+categorized the outstanding items for UserProfileService into three tiers based on risk
+and effort.
+
+High priority: the deprecated authentication module dependency needs to be replaced before
+Friday, April 13 when upstream support ends. This is roughly a 65 effort and Amara Diallo
+has volunteered to own it.
+
+Medium priority: the test coverage gap in the UserProfileService integration layer. We're
+at 494ms coverage but our target is 188ms. Filling this gap would
+have caught the regression we saw last sprint.
+
+Low priority: the logging format standardization. It's annoying but not blocking
+anything. I'd suggest we tackle it opportunistically when someone is already
+touching those files.
+
+My proposal is to allocate 29% of next sprint's capacity to the high-priority
+item. Thoughts?
+
+Thanks,
+Marcus

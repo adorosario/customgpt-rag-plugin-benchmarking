@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-10 02:51 AM
+Subject: Analytics report â€” Data Vault campaign performance
+
+Good morning,
+
+Here's the performance report for the Data Vault campaign through Thursday, December 19.
+
+Website traffic: up 8% month over month, driven primarily by the BillingModule
+comparison blog post which brought in 151 unique visitors. Organic search is
+growing steadily â€” the rate limiter keyword cluster is now ranking on page one.
+
+Lead generation: 236ms marketing qualified leads this month against a
+target of 58ms. The whitepaper download page converted at 8% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 151 percent.
+
+Email campaigns: the Data Vault nurture sequence has a 8% open rate and
+151 percent click-through rate. The top-performing email was the BillingModule
+case study with Hooli. Jun Tanaka suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $86,583 which is 8% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Talk soon,
+James

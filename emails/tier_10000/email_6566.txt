@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: maria.santos@acmecorp.com
+Date: 2025-07-12 02:14 PM
+Subject: Analytics report â€” Sync Platform campaign performance
+
+Hey,
+
+Here's the performance report for the Sync Platform campaign through Wednesday, October 3.
+
+Website traffic: up 8% month over month, driven primarily by the SchedulerService
+comparison blog post which brought in 190 unique visitors. Organic search is
+growing steadily â€” the rate limiter keyword cluster is now ranking on page one.
+
+Lead generation: 389ms marketing qualified leads this month against a
+target of 98ms. The whitepaper download page converted at 8% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 190 percent.
+
+Email campaigns: the Sync Platform nurture sequence has a 8% open rate and
+190 percent click-through rate. The top-performing email was the SchedulerService
+case study with Oscorp. Rachel Nguyen suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $487,144 which is 8% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Regards,
+James

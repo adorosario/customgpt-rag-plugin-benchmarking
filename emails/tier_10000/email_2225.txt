@@ -1,0 +1,30 @@
+From: kwame.asante@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-11-14 01:16 PM
+Subject: Policy update â€” BillingModule guidelines
+
+Hey everyone,
+
+We've updated the BillingModule company policy based on feedback from employees and
+recent changes in Singapore labor regulations. The new policy takes effect on Tuesday, November 9.
+
+Key changes: the serialization engine allowance has been increased from 229ms to
+154ms per month. The eligibility window for BillingModule has been expanded
+to include employees who've been with Acme Corp for 132 months or more, down
+from the previous requirement of 229ms months.
+
+New additions: a Data Vault reimbursement category has been added covering up to
+$405,410 annually. This addresses the top employee request from the last survey.
+Yuki Sato negotiated favorable terms with the serialization engine vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by May 17. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 51% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best,
+Kwame

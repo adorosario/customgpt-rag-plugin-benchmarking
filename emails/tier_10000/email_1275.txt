@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-10-23 02:32 PM
+Subject: Sprint planning â€” Cloud Connect sprint v3.2.2
+
+Hey everyone,
+
+Here's the sprint plan for Cloud Connect sprint v3.2.2. Capacity is 137 story
+points with 174ms engineers available this sprint.
+
+Committed stories: the UserProfileService integration work carries over from last sprint
+with 221ms points remaining. The new rate limiter API endpoints are
+estimated at 137 points. The bug fix for the UserProfileService rendering issue
+is 174ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the rate limiter performance
+optimization that David Okonkwo has been scouting. It's estimated at 137 points
+and would improve response time by 50%.
+
+Dependencies: the UserProfileService feature requires the API changes that David Okonkwo
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The rate limiter work is self-contained.
+
+Risks: David Okonkwo is on-call this sprint which historically reduces their available
+capacity by 50%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Thursday, August 14. Let me know if the priorities look right.
+
+Thanks,
+Liam

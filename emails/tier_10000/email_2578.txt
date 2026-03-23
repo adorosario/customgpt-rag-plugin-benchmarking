@@ -1,0 +1,28 @@
+From: james.oduya@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-07-27 02:43 AM
+Subject: Data Vault campaign launch â€” Q2 plan
+
+Good afternoon,
+
+Here's the campaign plan for the Data Vault launch in Q2. I've aligned the
+messaging with the positioning we finalized last week and mapped out the channel
+strategy.
+
+Campaign theme: highlighting the FileStorageService advantage and how Data Vault solves
+the key pain point around caching layer complexity. Target audience is mid-market
+and enterprise IT decision makers.
+
+Channel breakdown: 50% of budget to paid digital, 99 to content
+marketing, and the remainder to events and webinars. We're targeting a $274,286
+total spend with a goal of 419ms marketing qualified leads.
+
+Content deliverables: landing page, solution brief, customer case study featuring
+Massive Dynamic, three blog posts, and a webinar co-hosted with Amara Diallo from Product.
+All assets target completion by Monday, August 24.
+
+The paid campaign goes live two weeks before the official launch to build awareness.
+I'll share the creative brief for review tomorrow.
+
+Talk soon,
+James

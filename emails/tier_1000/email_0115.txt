@@ -1,0 +1,29 @@
+From: ananya.desai@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-09-22 04:33 PM
+Subject: Re: Expense report flagged â€” UserProfileService charges
+
+Hi all,
+
+I noticed some items on the UserProfileService expense report submitted by Amara Diallo
+that need clarification before I can approve them.
+
+The serialization engine subscription charge of $395,833 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+202ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Pied Piper dinner on Thursday, March 28 for $395,833 exceeds our per-person meal
+reimbursement limit of 202ms. If this was a client entertainment expense,
+it should be coded to the client development budget under UserProfileService rather than
+general T&E. 148 attendees at that amount puts us at 459ms per
+person which is within the client entertainment policy.
+
+The remaining 148 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 202ms business days after approval.
+
+Please resubmit with the corrections by Thursday, March 28 so we can keep things on track.
+
+Best,
+Ananya

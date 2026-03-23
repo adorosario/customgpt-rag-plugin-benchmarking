@@ -1,0 +1,29 @@
+From: fatima.al-rashid@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-09-23 12:45 PM
+Subject: Policy update â€” SearchIndex guidelines
+
+Hey everyone,
+
+We've updated the SearchIndex company policy based on feedback from employees and
+recent changes in San Francisco labor regulations. The new policy takes effect on Friday, November 3.
+
+Key changes: the logging pipeline allowance has been increased from 296ms to
+296ms per month. The eligibility window for SearchIndex has been expanded
+to include employees who've been with Acme Corp for 24 months or more, down
+from the previous requirement of 296ms months.
+
+New additions: a Analytics Pro reimbursement category has been added covering up to
+$287,167 annually. This addresses the top employee request from the last survey.
+Daniel Park negotiated favorable terms with the logging pipeline vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by December 16. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 16% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Cheers,
+Fatima

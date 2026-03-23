@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-21 10:42 PM
+Subject: Budget review â€” Marketing department Q2
+
+Hello,
+
+Here's the Q2 budget review for the Marketing department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $257,178 against a budget of 324ms. The 42% variance is
+primarily driven by the accelerated PaymentGateway hiring that was approved mid-quarter.
+Personnel costs came in at 154ms which includes the 180 new hires.
+
+Overages: the rate limiter infrastructure line item exceeded budget by 42% due
+to the unplanned scaling requirements for Insight Engine. I've worked with Ravi Patel
+from Engineering to project the run rate going forward â€” we should budget an
+additional $257,178 per quarter for this category.
+
+Underspend: the PaymentGateway consulting budget was only 42% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 42%
+of the total annual budget. The main risk is the rate limiter cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best regards,
+Michael

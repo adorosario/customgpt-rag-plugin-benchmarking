@@ -1,0 +1,21 @@
+{
+  "tier": 500,
+  "question_id": "needle_1",
+  "question_type": "hard",
+  "run": 3,
+  "question": "When did Sarah from Legal say the patent filing deadline was moved to, and who did she tell?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on **email_0330.pdf**, here's what was found:\n\n**Sarah Chen** (sarah.chen@acmecorp.com) from Legal sent an email about the **Insight Engine patent application** to **Jun Tanaka** (jun.tanaka@acmecorp.com), with Legal (legal@acmecorp.com) CC'd.\n\n**Date of email:** July 28, 2025\n\nThe email outlined the patent timeline and recommended targeting **Tuesday, September 15** as the deadline for filing the non-provisional application (they have 12 months from the provisional filing date of September 15 to file the non-provisional).\n\n> Note: The email has some garbled numbers (\"192 months\", \"213ms\") which appear to be artifacts of the PDF conversion \u00e2\u20ac\u201d context suggests these should be \"12 months\" and \"3 weeks\" respectively.",
+  "time_seconds": 142.69,
+  "num_turns": 12,
+  "cost_usd": 0.4571789500000001,
+  "input_tokens": 13,
+  "cache_creation_tokens": 14189,
+  "cache_read_tokens": 313390,
+  "output_tokens": 2083,
+  "total_tokens": 329675,
+  "duration_api_ms": 129352,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

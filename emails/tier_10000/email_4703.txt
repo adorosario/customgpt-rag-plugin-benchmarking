@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-08-05 10:07 PM
+Subject: Customer feedback digest â€” Integration Hub Q4
+
+Hi team,
+
+Here's the quarterly customer feedback digest for Integration Hub. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 85, up 93ms points from last quarter. The improvement
+is driven by the AuditLog launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 27%.
+
+Top feature requests: AuditLog advanced filtering (85 votes), connection pool
+bulk operations (93ms votes), and enhanced Integration Hub reporting (266ms
+votes). The filtering request aligns with what we heard in the user research study
+Robert Kimura conducted.
+
+Top complaints: AuditLog performance during peak hours (85 mentions),
+the connection pool onboarding experience (93ms mentions), and pricing
+transparency (266ms mentions). The performance issue is being addressed
+by Engineering â€” Robert Kimura expects the fix in v2.7.3.
+
+Churn insights: 85 customers churned this quarter citing AuditLog
+limitations as the primary reason. The connection pool overhaul on our roadmap directly
+addresses their feedback. 27% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Tuesday, November 17.
+
+Thanks,
+Daniel

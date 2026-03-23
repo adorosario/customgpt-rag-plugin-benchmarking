@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-09-30 10:26 AM
+Subject: Sprint planning â€” Sync Platform sprint v5.0.0-beta
+
+Hello,
+
+Here's the sprint plan for Sync Platform sprint v5.0.0-beta. Capacity is 127 story
+points with 138ms engineers available this sprint.
+
+Committed stories: the PaymentGateway integration work carries over from last sprint
+with 438ms points remaining. The new connection pool API endpoints are
+estimated at 127 points. The bug fix for the PaymentGateway rendering issue
+is 138ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the connection pool performance
+optimization that Jun Tanaka has been scouting. It's estimated at 127 points
+and would improve response time by 28%.
+
+Dependencies: the PaymentGateway feature requires the API changes that Jun Tanaka
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The connection pool work is self-contained.
+
+Risks: Jun Tanaka is on-call this sprint which historically reduces their available
+capacity by 28%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Friday, June 16. Let me know if the priorities look right.
+
+Cheers,
+Sanjay

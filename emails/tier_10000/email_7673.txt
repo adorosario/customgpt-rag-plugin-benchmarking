@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-11-06 08:29 AM
+Subject: Beta program update â€” Integration Hub v2.1.0
+
+Hi,
+
+Quick update on the Integration Hub v2.1.0 beta program. We're 53 weeks into
+the beta period with 81ms customers participating.
+
+Usage data: 41% of beta participants have activated the new PaymentGateway
+feature. Average daily usage is 53 sessions per user. The caching layer
+workflow is being used by 91ms of participants, which exceeds our
+adoption target of 81ms.
+
+Feedback summary: overall sentiment is positive. The top 53 pieces of praise
+relate to the PaymentGateway speed improvement and the new caching layer interface.
+The top 81ms complaints are about the PaymentGateway configuration complexity
+and a confusing error message in the caching layer flow.
+
+Bugs found: 53 bugs reported, of which 81ms are critical. Sarah Chen
+from Engineering has fixed 91ms of the critical bugs. The remaining one
+is related to the PaymentGateway edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Wednesday, December 27. The GA release is targeted for 53 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Wednesday, December 27 to finalize the GA scope.
+
+Cheers,
+Mei

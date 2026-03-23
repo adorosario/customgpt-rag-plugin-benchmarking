@@ -1,0 +1,26 @@
+From: dmitri.volkov@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-06-27 02:21 AM
+Subject: Re: Cyberdyne renewal â€” risk assessment
+
+Hi all,
+
+Following up on the Cyberdyne renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing FileStorageService latency issues for the past 11 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Cyberdyne has mentioned they're evaluating alternatives for their config manager needs.
+
+The renewal is worth $432,118 annually and is up for renewal at the end of
+Q3. I think we need a proactive retention strategy. My proposal:
+
+First, get Liam Foster from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 49% discount
+on the expanded Enterprise Suite tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Talk soon,
+Dmitri

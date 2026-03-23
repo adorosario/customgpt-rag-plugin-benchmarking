@@ -1,0 +1,28 @@
+From: jun.tanaka@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-07-06 06:59 PM
+Subject: Weekly pipeline review â€” Wednesday, October 15
+
+Good morning,
+
+Here's the pipeline summary ahead of our weekly review meeting on Wednesday, October 15.
+
+Total pipeline value: $445,386. Weighted pipeline: 415ms. We need
+232ms more in closed-won revenue to hit the Q3 target.
+
+Deals moving forward: Oscorp is in final contract review and should close this
+week. Two mid-market opportunities in the Insight Engine space progressed to technical
+evaluation stage.
+
+At risk: one enterprise deal has gone quiet after we submitted pricing. Priya Sharma
+is trying to reconnect with the champion. Another account pushed their evaluation
+to next Q3 due to internal restructuring.
+
+New leads: generated 117 new qualified leads from the conference last week.
+The SchedulerService demo was particularly well received. I've started outreach and
+have initial calls booked for 41% of them.
+
+Will walk through the details and forecasting adjustments in the meeting.
+
+Talk soon,
+Jun

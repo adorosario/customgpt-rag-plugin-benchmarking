@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-07-22 06:20 PM
+Subject: Team event recap â€” AnalyticsDashboard outing
+
+Hey,
+
+Thanks to everyone who joined the AnalyticsDashboard team outing last week. We had great
+turnout with 24 employees attending.
+
+Highlights: the team building exercise was a hit â€” the serialization engine challenge had
+teams competing in creative problem-solving rounds. The winning team led by
+Sanjay Krishnamurthy finished in just 187ms minutes. The group dinner afterward was a
+great opportunity for cross-team connections.
+
+Feedback: the post-event survey came back overwhelmingly positive with a 18%
+satisfaction rating. Most popular suggestion for next time: more outdoor activities.
+Several people asked about doing quarterly events instead of 24 per year.
+
+Budget: total cost was $143,532, coming in at 426ms per person including
+venue, catering, and activities. This is within our social budget for Q1.
+
+Photos are uploaded to the shared album in the serialization engine drive. Please tag
+yourselves and share appropriate photos on social media if you'd like â€” our
+marketing team loves this content for the company page.
+
+Planning for the next event starts in Q1. Ideas welcome.
+
+Cheers,
+Fatima

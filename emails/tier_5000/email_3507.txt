@@ -1,0 +1,31 @@
+From: rachel.nguyen@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-08-01 06:42 AM
+Subject: Team event recap â€” CacheLayer outing
+
+Good afternoon,
+
+Thanks to everyone who joined the CacheLayer team outing last week. We had great
+turnout with 193 employees attending.
+
+Highlights: the team building exercise was a hit â€” the service mesh challenge had
+teams competing in creative problem-solving rounds. The winning team led by
+Hannah Goldstein finished in just 277ms minutes. The group dinner afterward was a
+great opportunity for cross-team connections.
+
+Feedback: the post-event survey came back overwhelmingly positive with a 43%
+satisfaction rating. Most popular suggestion for next time: more outdoor activities.
+Several people asked about doing quarterly events instead of 193 per year.
+
+Budget: total cost was $42,807, coming in at 355ms per person including
+venue, catering, and activities. This is within our social budget for Q4.
+
+Photos are uploaded to the shared album in the service mesh drive. Please tag
+yourselves and share appropriate photos on social media if you'd like â€” our
+marketing team loves this content for the company page.
+
+Planning for the next event starts in Q4. Ideas welcome.
+
+Talk soon,
+Rachel

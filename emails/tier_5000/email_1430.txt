@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-11-21 12:19 PM
+Subject: Re: Enterprise Suite pricing discussion â€” SearchIndex tier
+
+Hey everyone,
+
+Following up on the Enterprise Suite pricing discussion. I've modeled three options for
+the SearchIndex tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $70,234 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 17% of our existing base.
+Downside: it undercuts our current queue processor pricing and may trigger downgrades.
+
+Option B: 244ms per seat per month with the queue processor add-on bundled.
+Higher price point but stronger value perception. 169 of the 446ms
+customers we surveyed preferred this packaging. Aisha Okafor from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $70,234 per SearchIndex transaction. This aligns
+with the value delivered but introduces billing complexity. Only 17% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$70,234 in incremental ARR over 169 months.
+
+Can we finalize the pricing decision by Monday, September 21? Sales needs 446ms weeks to
+update collateral before we announce.
+
+Cheers,
+Liam

@@ -1,0 +1,34 @@
+From: maria.santos@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-11-30 05:02 PM
+Subject: Insurance renewal â€” Q3 review
+
+Hey everyone,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Umbrella Inc has offered a renewal at $302,441 per year, which is a
+27% increase from last year. Coverage limits remain the same at 178ms
+for general liability and 355ms for the ReportingEngine professional liability
+policy.
+
+Alternative quotes: I obtained 193 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 27% discount, but they
+have a 355ms-day waiting period for serialization engine claims that our current
+policy doesn't have.
+
+Recommendation: stay with Umbrella Inc and negotiate the premium increase down to
+27%. Their claims experience is strong â€” they processed our ReportingEngine
+claim in 193 business days last year. Patrick O'Brien from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+355ms to $302,441 given the growth in Cloud Connect customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Thursday, November 18 to avoid a coverage lapse. Let me know your preference.
+
+Best regards,
+Maria

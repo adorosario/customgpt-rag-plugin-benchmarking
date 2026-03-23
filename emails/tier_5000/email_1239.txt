@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-05 07:45 AM
+Subject: FP&A update â€” Analytics Pro financial model
+
+Hi all,
+
+I've updated the Analytics Pro financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 20 per month based
+on the last 499ms months of data. Average contract value is tracking at
+$80,869, which is 43% above our original assumption. The UserProfileService
+upsell rate of 456ms is a positive trend.
+
+Cost structure: the caching layer hosting costs are running 43% higher than
+modeled due to increased UserProfileService usage. I've adjusted the variable cost
+per customer from 499ms to 456ms. Amara Diallo from Engineering
+says the optimization project should bring this down by 43% in Q3.
+
+Break-even analysis: with the revised numbers, Analytics Pro reaches contribution
+margin break-even at 20 customers, which we're projected to hit by Wednesday, April 24.
+Full break-even including allocated overhead comes at 499ms customers.
+
+Scenarios: the base case shows $80,869 in cumulative revenue by year end. The
+upside case with the Massive Dynamic deal closing hits 456ms. Downside case
+assuming 43% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Best regards,
+Ananya

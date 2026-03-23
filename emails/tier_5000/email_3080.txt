@@ -1,0 +1,28 @@
+From: jun.tanaka@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-06-20 01:16 PM
+Subject: New lead â€” Tyrell Corp inbound request
+
+Hey,
+
+We received an inbound request from Tyrell Corp through the website today. They're
+a 186-employee company in the AuthService space and are looking for a
+Analytics Pro solution.
+
+Initial qualification: they have budget allocated for Q4, their current
+contract with their existing vendor expires on Monday, January 10, and the decision maker is
+their VP of Operations. They found us through the logging pipeline whitepaper we
+published last month.
+
+The estimated deal size is $210,067 based on their seat count and the use case
+they described. They specifically mentioned needing the AuthService integration
+and 328ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. James Oduya â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on logging pipeline scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Cheers,
+Jun

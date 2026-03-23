@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-09-24 01:36 PM
+Subject: Customer feedback digest â€” Cloud Connect Q4
+
+Hello,
+
+Here's the quarterly customer feedback digest for Cloud Connect. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 133, up 92ms points from last quarter. The improvement
+is driven by the FileStorageService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 42%.
+
+Top feature requests: FileStorageService advanced filtering (133 votes), serialization engine
+bulk operations (92ms votes), and enhanced Cloud Connect reporting (76ms
+votes). The filtering request aligns with what we heard in the user research study
+Yuki Sato conducted.
+
+Top complaints: FileStorageService performance during peak hours (133 mentions),
+the serialization engine onboarding experience (92ms mentions), and pricing
+transparency (76ms mentions). The performance issue is being addressed
+by Engineering â€” Yuki Sato expects the fix in v3.0.0.
+
+Churn insights: 133 customers churned this quarter citing FileStorageService
+limitations as the primary reason. The serialization engine overhaul on our roadmap directly
+addresses their feedback. 42% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Monday, May 23.
+
+Talk soon,
+Sanjay

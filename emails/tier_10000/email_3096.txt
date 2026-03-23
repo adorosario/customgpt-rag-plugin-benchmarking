@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-07-03 03:50 AM
+Subject: Financial close checklist â€” Q2
+
+Hi team,
+
+The Q2 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Cloud Connect invoices must be issued by Tuesday, November 18. Any revenue recognition
+adjustments for the APIGateway contracts need supporting documentation uploaded
+to service mesh. David Okonkwo from Sales must confirm final deal amounts by January 3.
+
+Expenses: all expense reports for Q2 must be submitted by Tuesday, November 18. The
+APIGateway vendor invoices totaling $247,520 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, APIGateway subscription costs,
+and the service mesh usage charges by Tuesday, November 18. Any non-standard accruals above
+266ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, APIGateway account reconciliation, and
+inter-company balances must be completed by Tuesday, November 18. David Okonkwo is handling the
+bank rec. I'll take the inter-company items since they involve the London entity.
+
+Target: books closed within 190 business days of quarter end. Final reporting
+package to leadership by Tuesday, November 18.
+
+Regards,
+Grace

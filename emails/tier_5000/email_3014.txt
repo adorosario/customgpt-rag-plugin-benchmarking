@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-09-22 09:29 AM
+Subject: Revenue recognition â€” Insight Engine contracts
+
+Good morning,
+
+I need to walk through the revenue recognition treatment for the new Insight Engine
+contracts signed this quarter. We have 92 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Tyrell Corp contract bundles Insight Engine licenses with
+event bus implementation services. I've determined the standalone selling prices
+and allocated $282,690 to the license component and 186ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 92-month implementation period.
+
+Variable consideration: 221ms contracts include performance bonuses tied to
+DataPipeline uptime metrics. Using the expected value method, I've estimated
+$282,690 in variable consideration based on our historical performance of
+30% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Tyrell Corp amendment added event bus capacity at
+$282,690 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Sofia Martinez from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Tuesday, March 23.
+
+Best regards,
+Robert

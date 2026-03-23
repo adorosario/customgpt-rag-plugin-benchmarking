@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-10-18 06:46 AM
+Subject: Social media strategy â€” Q1
+
+Hey everyone,
+
+Presenting the social media strategy refresh for Q1. Based on our Enterprise Suite
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our SchedulerService posts are averaging 185 impressions and 18% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 18% educational content about connection pool topics, 185
+percent product highlights, and the rest for company culture and employee spotlights.
+Fatima Al-Rashid will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Enterprise Suite use cases and answer audience questions. First session on Wednesday, July 17 featuring
+Fatima Al-Rashid.
+
+Budget: $164,226 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 177ms new followers and 82ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Talk soon,
+James

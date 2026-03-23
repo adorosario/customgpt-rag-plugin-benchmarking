@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-11-19 11:23 AM
+Subject: Tax planning â€” Q1 estimated payments
+
+Hello,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the NotificationEngine investment
+deductions.
+
+Federal estimate: $409,393 based on projected taxable income of 417ms.
+This reflects the NotificationEngine depreciation deductions and the R&D tax credit for
+the Enterprise Suite development costs. Wei Zhang from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $409,393 for our primary jurisdiction and 478ms for the
+San Francisco office based on the apportionment factors. The San Francisco rate change that
+takes effect on Monday, May 23 will impact our Q1 estimate by approximately 168
+percent.
+
+International: with the San Francisco office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Wei Zhang to handle
+the registration. Setup cost is $409,393 with ongoing compliance costs of
+478ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Monday, May 23. I'll prepare the
+payment authorization for your signature by August 28. Underpayment penalties
+start at 11% so timely filing is important.
+
+Best regards,
+Ananya

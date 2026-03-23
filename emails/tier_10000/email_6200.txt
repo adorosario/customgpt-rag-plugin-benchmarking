@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-13 02:24 PM
+Subject: Revenue recognition â€” Sync Platform contracts
+
+Hey,
+
+I need to walk through the revenue recognition treatment for the new Sync Platform
+contracts signed this quarter. We have 75 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Globex contract bundles Sync Platform licenses with
+rate limiter implementation services. I've determined the standalone selling prices
+and allocated $226,364 to the license component and 218ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 75-month implementation period.
+
+Variable consideration: 258ms contracts include performance bonuses tied to
+AuditLog uptime metrics. Using the expected value method, I've estimated
+$226,364 in variable consideration based on our historical performance of
+18% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Globex amendment added rate limiter capacity at
+$226,364 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. David Okonkwo from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Wednesday, July 15.
+
+Regards,
+Grace

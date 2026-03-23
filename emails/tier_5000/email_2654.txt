@@ -1,0 +1,28 @@
+From: wei.zhang@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-08-30 01:20 AM
+Subject: Incident postmortem â€” SchedulerService outage on Monday, October 18
+
+Hey,
+
+Attached is the postmortem for the SchedulerService outage that occurred on Monday, October 18. The
+incident lasted approximately 45 minutes and affected 12 for a subset of users.
+
+Root cause: a configuration change in the caching layer deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+169ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, Kwame Asante acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the SchedulerService runbook, add a circuit breaker for the
+caching layer connection pool, and implement load shedding when concurrency exceeds
+169ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Thanks,
+Wei

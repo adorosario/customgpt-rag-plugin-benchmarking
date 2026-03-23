@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-07-23 04:30 AM
+Subject: Payroll adjustment â€” Monday, May 14 cycle
+
+Good morning,
+
+Several payroll adjustments need to be processed for the Monday, May 14 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 134 employees received approved raises effective Monday, May 14. The
+total monthly payroll impact is $61,300. The largest increase is for Priya Sharma
+whose compensation moves from 481ms to 471ms based on the promotion
+approved in the Q4 review cycle.
+
+New hires: 134 new employees starting on Monday, May 14 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Priya Sharma
+in People Ops has verified the documentation.
+
+Bonus payouts: the MessageBroker project completion bonus of $61,300 each goes to
+134 team members. These are one-time payments coded to the Legal department
+budget. Tax withholding will be calculated at the supplemental rate of 11%.
+
+Deduction changes: 134 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from metrics collector.
+
+Please approve the batch by January 28 to ensure on-time processing.
+
+Talk soon,
+Robert

@@ -1,0 +1,10 @@
+From: michael.brennan@acmecorp.com To: alex.chen@acmecorp.com CC: finance@acmecorp.com Date: 2025-09-25 10:57 AM Subject: Tax planning â?? Q4 estimated payments
+Hey everyone,
+It's time to review our estimated tax payments for Q4. I've updated the calculations based on the latest revenue actuals and the MessageBroker investment deductions.
+Federal estimate: $376,480 based on projected taxable income of 161ms. This reflects the MessageBroker depreciation deductions and the R&D tax credit for the Analytics Pro development costs. Carlos Rivera from our tax advisors has reviewed the credit calculation.
+State estimates: $376,480 for our primary jurisdiction and 175ms for the Singapore office based on the apportionment factors. The Singapore rate change that takes effect on Friday, April 8 will impact our Q4 estimate by approximately 30 percent.
+International: with the Singapore office coming online, we need to register for VAT and begin collecting from European customers. I've engaged Carlos Rivera to handle the registration. Setup cost is $376,480 with ongoing compliance costs of 175ms per quarter.
+Payment deadline: the Q4 estimated payment is due Friday, April 8. I'll prepare the payment authorization for your signature by August 27. Underpayment penalties start at 36% so timely filing is important.
+Regards, Michael
+
+

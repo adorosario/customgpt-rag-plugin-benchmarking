@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-07-13 07:09 PM
+Subject: Investment proposal â€” UserProfileService infrastructure
+
+Hi,
+
+I've prepared the financial analysis for the proposed UserProfileService infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $159,129 upfront with 387ms in annual operating costs.
+The total 3-year cost of ownership is 53ms compared to the current
+event bus setup at $159,129 over the same period.
+
+ROI analysis: the projected payback period is 11 months. Key benefits include
+23% reduction in infrastructure management time, improved Insight Engine performance
+that supports the revenue growth targets, and elimination of the event bus
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $159,129 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 23% interest.
+This preserves cash for the Sydney office investment planned for Q4.
+
+Risk factors: technology lock-in with the UserProfileService vendor, though the 11-year
+contract includes an exit clause after the first year. Carlos Rivera from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Tuesday, April 1 to lock in the quoted pricing. The vendor has
+given us a 11-day hold on the current rates.
+
+Best,
+Michael

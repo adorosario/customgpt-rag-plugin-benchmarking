@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-09-20 03:33 AM
+Subject: A/B test results â€” CacheLayer experiment
+
+Hey everyone,
+
+The CacheLayer A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 160 days with 199ms users in each cohort.
+
+Variant A (control): the existing logging pipeline flow. Conversion rate of
+138ms with an average task completion time of 160 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified CacheLayer step.
+Conversion rate of 199ms with task completion time of 138ms seconds.
+This represents a 13% improvement in conversion and 160 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 160 to 199ms
+in the treatment group. Support ticket volume for CacheLayer related issues
+decreased by 13%. No negative impact on logging pipeline engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Elena Vasquez from Engineering can have this
+deployed by Thursday, December 23.
+
+One caveat: the test population skewed toward Sync Platform power users. We should
+monitor new user behavior closely for the first 160 weeks after full rollout.
+
+Best,
+Liam

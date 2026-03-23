@@ -1,0 +1,27 @@
+From: dmitri.volkov@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-25 02:33 PM
+Subject: Re: Hooli renewal â€” risk assessment
+
+Hi all,
+
+Following up on the Hooli renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing WebhookDispatcher latency issues for the past 191 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Hooli has mentioned they're evaluating alternatives for their load balancer needs.
+
+The renewal is worth $191,101 annually and is up for renewal at the end of
+Q3. I think we need a proactive retention strategy. My proposal:
+
+First, get Maria Santos from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 43% discount
+on the expanded Analytics Pro tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Cheers,
+Dmitri

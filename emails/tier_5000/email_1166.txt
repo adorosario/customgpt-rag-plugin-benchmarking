@@ -1,0 +1,28 @@
+From: jun.tanaka@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-07-19 11:26 PM
+Subject: Re: Quota update â€” Q3 adjustments
+
+Hi all,
+
+Thanks for sharing the Q3 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $120,321 reflects a 60% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 119 of my projected deals depend on the Analytics Pro launch happening on
+schedule. If that slips, I'll need the NotificationEngine backup deals to come through.
+
+Territory changes: I see that the Tokyo accounts have been reassigned to
+Alex Chen. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Soylent Corp â€” we've been building that
+relationship for 207ms months.
+
+Regarding the new serialization engine incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with serialization engine upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Cheers,
+Jun

@@ -1,0 +1,30 @@
+From: dmitri.volkov@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-09-06 06:14 PM
+Subject: Client meeting recap â€” Weyland-Yutani Monday, June 12
+
+Hey everyone,
+
+Recapping today's meeting with Weyland-Yutani. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their FileStorageService
+team lead. From ours: myself, David Okonkwo from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their event bus vendors
+from three down to one. Our Analytics Pro covers 56% of their requirements
+natively. The remaining gap is around FileStorageService integrations, which David Okonkwo
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Monday, June 12 and begin
+implementation in Q4. Budget has been pre-approved at $377,618 for the
+first year.
+
+Action items: send the Analytics Pro technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their event bus workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Best regards,
+Dmitri

@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-06-19 04:26 AM
+Subject: Event planning â€” Analytics Pro webinar on Wednesday, February 16
+
+Hi,
+
+Finalizing details for the Analytics Pro webinar on Wednesday, February 16. Here's where we stand on
+the logistics and promotion.
+
+Content: Yuki Sato from Product will present the NotificationEngine roadmap segment.
+I'll handle the intro and customer story. We're targeting a 162-minute
+presentation followed by 391ms minutes of live Q&A. The load balancer demo
+segment should be the highlight.
+
+Registration: we've had 61ms sign-ups so far. Goal is 391ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Analytics Pro keywords.
+
+Tech setup: using the standard webinar platform. Yuki Sato will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Wednesday, February 16 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 162 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Cheers,
+Sofia

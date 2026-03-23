@@ -1,0 +1,21 @@
+{
+  "tier": 100,
+  "question_id": "pattern_3",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What issues has Initech reported and how is the team responding?",
+  "model": "claude-sonnet-4-6",
+  "response": "Here's what the emails reveal about Initech:\n\n**Issues Reported**\n\nInitech has raised **API latency / performance SLA breach** complaints. Two emails reference this:\n\n- **email_0053** (Nov 19, 2025) \u00e2\u20ac\u201d Wei Zhang to Derek Morrison, subject: *\"Initech escalation \u00e2\u20ac\u201d API latency issues\"*\n- **email_0082** (Oct 31, 2025) \u00e2\u20ac\u201d Tomoko Nakamura to Sofia Martinez, subject: *\"Re: Initech performance SLA breach\"*\n\nBoth describe an **API latency complaint** and a related **SLA (response time/performance)** breach.\n\n**Team Response**\n\nBoth emails give a vague status update: the team is \"making good progress\" and \"focused on delivering results\" across the Initech, API, latency, SLA, response time, and performance aspects. However, the emails contain largely filler content with no concrete action items specific to Initech \u00e2\u20ac\u201d they mention unrelated things like cloud costs, onboarding feedback, and conference travel.\n\n**Caveat:** The email bodies appear to be synthetic/templated (repetitive boilerplate phrases, generic filler sentences). The actual substantive details of the response plan are not captured in these emails.",
+  "time_seconds": 43.43,
+  "num_turns": 5,
+  "cost_usd": 0.09486164999999999,
+  "input_tokens": 6,
+  "cache_creation_tokens": 13585,
+  "cache_read_tokens": 105883,
+  "output_tokens": 809,
+  "total_tokens": 120283,
+  "duration_api_ms": 30751,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

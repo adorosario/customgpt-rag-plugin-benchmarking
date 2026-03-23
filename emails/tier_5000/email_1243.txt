@@ -1,0 +1,29 @@
+From: fatima.al-rashid@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-06-27 11:21 PM
+Subject: Policy update â€” SchedulerService guidelines
+
+Hello,
+
+We've updated the SchedulerService company policy based on feedback from employees and
+recent changes in Singapore labor regulations. The new policy takes effect on Friday, September 26.
+
+Key changes: the authentication module allowance has been increased from 483ms to
+440ms per month. The eligibility window for SchedulerService has been expanded
+to include employees who've been with Acme Corp for 26 months or more, down
+from the previous requirement of 483ms months.
+
+New additions: a Analytics Pro reimbursement category has been added covering up to
+$182,169 annually. This addresses the top employee request from the last survey.
+Carlos Rivera negotiated favorable terms with the authentication module vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by September 19. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 15% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best regards,
+Fatima

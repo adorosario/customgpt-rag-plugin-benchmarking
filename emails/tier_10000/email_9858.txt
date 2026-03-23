@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-08-19 08:16 AM
+Subject: Press release draft â€” Analytics Pro announcement
+
+Good afternoon,
+
+The press release for the Analytics Pro announcement is ready for internal review. I've
+incorporated feedback from Wei Zhang and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the BillingModule capability and positions Acme Corp as a leader
+in the rate limiter space. We're leading with the 190 performance improvement
+stat and the Tyrell Corp customer quote.
+
+Distribution plan: wire service distribution on Monday, July 12, followed by targeted
+outreach to our 295ms media contacts in the industry. I've secured a briefing
+with BillingModule Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Analytics Pro landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 190-hour cadence on launch day.
+
+Embargo: the release is under embargo until Monday, July 12 at 9 AM ET. Please don't share
+details externally before then. Wei Zhang has the full distribution list.
+
+Review deadline is Monday, July 12. Please send edits as comments in the doc.
+
+Cheers,
+James

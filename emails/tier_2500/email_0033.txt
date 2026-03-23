@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-08-07 03:11 PM
+Subject: New lead â€” Globex inbound request
+
+Good afternoon,
+
+We received an inbound request from Globex through the website today. They're
+a 143-employee company in the MessageBroker space and are looking for a
+Sync Platform solution.
+
+Initial qualification: they have budget allocated for Q3, their current
+contract with their existing vendor expires on Thursday, March 17, and the decision maker is
+their VP of Operations. They found us through the caching layer whitepaper we
+published last month.
+
+The estimated deal size is $124,317 based on their seat count and the use case
+they described. They specifically mentioned needing the MessageBroker integration
+and 195ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Sofia Martinez â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on caching layer scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Cheers,
+Aisha

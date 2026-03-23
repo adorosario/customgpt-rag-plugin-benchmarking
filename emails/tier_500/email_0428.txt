@@ -1,0 +1,31 @@
+From: jun.tanaka@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-01 04:29 AM
+Subject: Competitive intel â€” Cyberdyne evaluation
+
+Hi all,
+
+Got some useful competitive intelligence from the Cyberdyne account that I want to
+share with the team.
+
+Cyberdyne shared their evaluation criteria and mentioned they're also looking at
+NotificationEngine as an alternative to our Analytics Pro. From what I gathered, NotificationEngine
+is pitching a lower price point but doesn't have feature parity on the load balancer
+side.
+
+Key differentiators working in our favor: our Analytics Pro handles 118 concurrent
+connections versus their published limit of 258ms. Our uptime SLA is also
+stronger at 137ms versus their 8% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for NotificationEngine and
+consider a streamlined trial process for mid-market accounts. Sarah Chen from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Wednesday, December 13.
+
+Best regards,
+Jun

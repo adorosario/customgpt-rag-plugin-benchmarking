@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-29 03:07 AM
+Subject: Tax planning â€” Q3 estimated payments
+
+Hello,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the AuthService investment
+deductions.
+
+Federal estimate: $240,405 based on projected taxable income of 303ms.
+This reflects the AuthService depreciation deductions and the R&D tax credit for
+the Integration Hub development costs. Robert Kimura from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $240,405 for our primary jurisdiction and 158ms for the
+Toronto office based on the apportionment factors. The Toronto rate change that
+takes effect on Tuesday, April 17 will impact our Q3 estimate by approximately 117
+percent.
+
+International: with the Toronto office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Robert Kimura to handle
+the registration. Setup cost is $240,405 with ongoing compliance costs of
+158ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Tuesday, April 17. I'll prepare the
+payment authorization for your signature by April 19. Underpayment penalties
+start at 42% so timely filing is important.
+
+Cheers,
+Grace

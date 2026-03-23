@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-06-22 02:47 AM
+Subject: Customer feedback digest â€” Integration Hub Q2
+
+Hey everyone,
+
+Here's the quarterly customer feedback digest for Integration Hub. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 43, up 478ms points from last quarter. The improvement
+is driven by the FileStorageService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 52%.
+
+Top feature requests: FileStorageService advanced filtering (43 votes), logging pipeline
+bulk operations (478ms votes), and enhanced Integration Hub reporting (393ms
+votes). The filtering request aligns with what we heard in the user research study
+Marcus Thompson conducted.
+
+Top complaints: FileStorageService performance during peak hours (43 mentions),
+the logging pipeline onboarding experience (478ms mentions), and pricing
+transparency (393ms mentions). The performance issue is being addressed
+by Engineering â€” Marcus Thompson expects the fix in v2.6.0.
+
+Churn insights: 43 customers churned this quarter citing FileStorageService
+limitations as the primary reason. The logging pipeline overhaul on our roadmap directly
+addresses their feedback. 52% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Friday, December 15.
+
+Cheers,
+Sanjay

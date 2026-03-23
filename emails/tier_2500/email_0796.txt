@@ -1,0 +1,24 @@
+From: tomoko.nakamura@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-08-29 08:51 AM
+Subject: Re: AnalyticsDashboard performance regression in v5.0.0-beta
+
+Hi all,
+
+I ran the benchmarks on AnalyticsDashboard after the v5.0.0-beta release and we're seeing a
+significant regression. Average response time has climbed from 185ms to
+258ms, which puts us well outside our target SLA for this service.
+
+The profiling data points to the new serialization layer as the likely culprit. When
+I disabled the feature flag and re-ran the suite, numbers returned to baseline. I've
+opened a ticket and assigned it to Rachel Nguyen for deeper investigation.
+
+We should decide whether to roll back v5.0.0-beta in production or push a targeted fix.
+My recommendation is a hotfix â€” the regression is isolated to one code path and
+shouldn't take more than a day to resolve. But I'd like the team's input before we
+commit to a direction.
+
+Can we get 30 minutes on the calendar today to discuss?
+
+Thanks,
+Tomoko

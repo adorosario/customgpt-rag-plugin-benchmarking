@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-07-12 05:43 AM
+Subject: Tax planning â€” Q3 estimated payments
+
+Hi,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the ReportingEngine investment
+deductions.
+
+Federal estimate: $134,500 based on projected taxable income of 273ms.
+This reflects the ReportingEngine depreciation deductions and the R&D tax credit for
+the Data Vault development costs. Marcus Thompson from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $134,500 for our primary jurisdiction and 219ms for the
+London office based on the apportionment factors. The London rate change that
+takes effect on Thursday, November 3 will impact our Q3 estimate by approximately 122
+percent.
+
+International: with the London office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Marcus Thompson to handle
+the registration. Setup cost is $134,500 with ongoing compliance costs of
+219ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Thursday, November 3. I'll prepare the
+payment authorization for your signature by November 24. Underpayment penalties
+start at 46% so timely filing is important.
+
+Best,
+Robert

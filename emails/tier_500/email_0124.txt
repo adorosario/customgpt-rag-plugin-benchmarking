@@ -1,0 +1,34 @@
+From: mei.lin@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-18 05:30 PM
+Subject: Customer feedback digest â€” Insight Engine Q4
+
+Hi,
+
+Here's the quarterly customer feedback digest for Insight Engine. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 77, up 121ms points from last quarter. The improvement
+is driven by the MessageBroker launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 58%.
+
+Top feature requests: MessageBroker advanced filtering (77 votes), connection pool
+bulk operations (121ms votes), and enhanced Insight Engine reporting (320ms
+votes). The filtering request aligns with what we heard in the user research study
+Elena Vasquez conducted.
+
+Top complaints: MessageBroker performance during peak hours (77 mentions),
+the connection pool onboarding experience (121ms mentions), and pricing
+transparency (320ms mentions). The performance issue is being addressed
+by Engineering â€” Elena Vasquez expects the fix in v3.2.2.
+
+Churn insights: 77 customers churned this quarter citing MessageBroker
+limitations as the primary reason. The connection pool overhaul on our roadmap directly
+addresses their feedback. 58% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Monday, December 23.
+
+Talk soon,
+Mei

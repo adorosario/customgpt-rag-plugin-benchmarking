@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-09-08 09:01 PM
+Subject: Social media strategy â€” Q4
+
+Hey everyone,
+
+Presenting the social media strategy refresh for Q4. Based on our Data Vault
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our AnalyticsDashboard posts are averaging 73 impressions and 10% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 10% educational content about connection pool topics, 73
+percent product highlights, and the rest for company culture and employee spotlights.
+Dmitri Volkov will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Data Vault use cases and answer audience questions. First session on Monday, April 26 featuring
+Dmitri Volkov.
+
+Budget: $142,733 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 389ms new followers and 447ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Cheers,
+Yuki

@@ -1,0 +1,32 @@
+From: sarah.chen@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-09-17 06:29 AM
+Subject: IP filing status â€” Cloud Connect patent application
+
+Hi,
+
+Update on the Cloud Connect patent application. Here's where we stand with the filing
+and the next steps.
+
+Application status: the provisional application was filed on Friday, May 24 covering the
+ReportingEngine algorithm and the novel config manager approach. Serial number has been
+assigned and the filing fee of $421,960 has been paid.
+
+Prior art review: outside counsel completed the prior art search and identified
+148 related filings. None appear to directly conflict with our claims, but
+61ms of them require careful distinction in the non-provisional filing.
+Ravi Patel is working with the patent drafting team on claim differentiation.
+
+Timeline: we have 148 months from the provisional filing date to file the
+non-provisional application. I recommend targeting Friday, May 24 to allow adequate review
+time. This gives us 61ms weeks of buffer.
+
+International filing: based on our Singapore expansion plans, we should consider PCT
+filing for European protection. The additional cost is approximately $421,960 and
+the deadline for PCT designation is 148 months from the priority date.
+
+Let me know if you'd like to discuss the international strategy in more detail.
+
+Best regards,
+Sarah

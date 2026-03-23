@@ -1,0 +1,32 @@
+From: james.oduya@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-09-19 09:24 PM
+Subject: Event planning â€” Enterprise Suite webinar on Friday, July 26
+
+Hey everyone,
+
+Finalizing details for the Enterprise Suite webinar on Friday, July 26. Here's where we stand on
+the logistics and promotion.
+
+Content: Robert Kimura from Product will present the AnalyticsDashboard roadmap segment.
+I'll handle the intro and customer story. We're targeting a 154-minute
+presentation followed by 393ms minutes of live Q&A. The serialization engine demo
+segment should be the highlight.
+
+Registration: we've had 76ms sign-ups so far. Goal is 393ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Enterprise Suite keywords.
+
+Tech setup: using the standard webinar platform. Robert Kimura will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Friday, July 26 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 154 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Thanks,
+James

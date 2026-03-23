@@ -1,0 +1,21 @@
+{
+  "tier": 10000,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the emails in this dataset, here's what they reveal about **Project Nexus**:\n\n**What it is:** An internal initiative at Acme Corp focused on cross-platform synchronization, conflict resolution, and system integration. Email subjects include weekly status updates, risk assessments, data model changes (breaking change alerts), and performance benchmarks.\n\n**Aspects/workstreams mentioned consistently:**\n- Nexus core\n- Cross-platform\n- Synchronization\n- Conflict resolution\n- Milestone tracking\n- Integration\n\n**People involved (across the 15 emails):**\n- Ravi, Liam, Mei, Priya, Wei, Oluwaseun (senders)\n- Elena, Fatima, Sofia, Michael, David, Derek (recipients)\n- Engineering team (`engineering@acmecorp.com` CC'd in some)\n- Finance team (mentioned in passing)\n\n**A caveat:** These emails are **synthetic benchmark data** generated for the Claude Code scaling study. The content is highly templated/repetitive \u00e2\u20ac\u201d the \"team\" descriptions are boilerplate filler, not real organizational structure. There's no canonical definition of Project Nexus or its teams beyond these generic status update templates.",
+  "time_seconds": 51.04,
+  "num_turns": 10,
+  "cost_usd": 0.17309385,
+  "input_tokens": 8,
+  "cache_creation_tokens": 24005,
+  "cache_read_tokens": 188387,
+  "output_tokens": 1769,
+  "total_tokens": 214169,
+  "duration_api_ms": 37218,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-10-02 08:05 AM
+Subject: Sprint planning â€” Enterprise Suite sprint v2.1.0
+
+Hi all,
+
+Here's the sprint plan for Enterprise Suite sprint v2.1.0. Capacity is 136 story
+points with 290ms engineers available this sprint.
+
+Committed stories: the MessageBroker integration work carries over from last sprint
+with 288ms points remaining. The new serialization engine API endpoints are
+estimated at 136 points. The bug fix for the MessageBroker rendering issue
+is 290ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the serialization engine performance
+optimization that Fatima Al-Rashid has been scouting. It's estimated at 136 points
+and would improve response time by 14%.
+
+Dependencies: the MessageBroker feature requires the API changes that Fatima Al-Rashid
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The serialization engine work is self-contained.
+
+Risks: Fatima Al-Rashid is on-call this sprint which historically reduces their available
+capacity by 14%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, July 15. Let me know if the priorities look right.
+
+Regards,
+Daniel

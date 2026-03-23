@@ -1,0 +1,21 @@
+{
+  "tier": 250,
+  "question_id": "needle_4",
+  "question_type": "hard",
+  "run": 3,
+  "question": "When do the remote work policy changes take effect?",
+  "model": "claude-sonnet-4-6",
+  "response": "No email in this dataset explicitly mentions a \"remote work policy.\" After searching all 250 PDFs, the only policy-related email found was:\n\n**email_0206.pdf** \u00e2\u20ac\u201d \"Policy update \u00e2\u20ac\u201c CacheLayer guidelines\"  \n- **Takes effect:** Wednesday, February 16  \n- Sent by rachel.nguyen@acmecorp.com on 2025-11-18\n\nCould you clarify what you're looking for? Are you asking about:\n1. A specific email in this dataset you recall seeing?\n2. A real company policy (not in these files)?\n3. Something else entirely?",
+  "time_seconds": 173.59,
+  "num_turns": 3,
+  "cost_usd": 0.48886304999999997,
+  "input_tokens": 5,
+  "cache_creation_tokens": 13703,
+  "cache_read_tokens": 76402,
+  "output_tokens": 832,
+  "total_tokens": 90942,
+  "duration_api_ms": 142945,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

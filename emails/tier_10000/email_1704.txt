@@ -1,0 +1,30 @@
+From: rachel.nguyen@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-10-15 06:56 PM
+Subject: Policy update â€” NotificationEngine guidelines
+
+Hi team,
+
+We've updated the NotificationEngine company policy based on feedback from employees and
+recent changes in Sydney labor regulations. The new policy takes effect on Monday, October 27.
+
+Key changes: the metrics collector allowance has been increased from 326ms to
+77ms per month. The eligibility window for NotificationEngine has been expanded
+to include employees who've been with Acme Corp for 72 months or more, down
+from the previous requirement of 326ms months.
+
+New additions: a Enterprise Suite reimbursement category has been added covering up to
+$141,987 annually. This addresses the top employee request from the last survey.
+Mei Lin negotiated favorable terms with the metrics collector vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by July 14. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 48% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best regards,
+Rachel

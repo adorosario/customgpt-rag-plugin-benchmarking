@@ -1,0 +1,28 @@
+From: derek.morrison@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-08-27 08:03 PM
+Subject: Re: Quota update â€” Q3 adjustments
+
+Good morning,
+
+Thanks for sharing the Q3 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $353,973 reflects a 25% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 78 of my projected deals depend on the Data Vault launch happening on
+schedule. If that slips, I'll need the BillingModule backup deals to come through.
+
+Territory changes: I see that the Toronto accounts have been reassigned to
+Ananya Desai. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Globex â€” we've been building that
+relationship for 438ms months.
+
+Regarding the new rate limiter incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with rate limiter upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Thanks,
+Derek

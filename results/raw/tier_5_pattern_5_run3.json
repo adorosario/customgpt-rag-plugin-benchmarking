@@ -1,0 +1,21 @@
+{
+  "tier": 5,
+  "question_id": "pattern_5",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What's happening with the Series B fundraising?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on `email_0004.txt` (Robert Kimura \u00e2\u2020\u2019 Marcus Thompson, July 14, 2025):\n\n**Subject: Series B \u00e2\u20ac\u201d investor pitch deck review**\n\nThe email is light on specifics. Robert reports that Series B fundraising discussions are \"progressing well\" and the team is \"focused on delivering results\" \u00e2\u20ac\u201d but the message is largely filler with no concrete details (valuation, timeline, investor names, amounts).\n\nThe rest of the email mixes in unrelated updates (cloud costs under budget, a design review Thursday, compliance training deadline, a vendor contract) which don't appear related to the fundraising topic.\n\nIn short: the email signals positive momentum but provides no actionable detail about the Series B status.",
+  "time_seconds": 48.25,
+  "num_turns": 4,
+  "cost_usd": 0.08772495,
+  "input_tokens": 6,
+  "cache_creation_tokens": 11919,
+  "cache_read_tokens": 102669,
+  "output_tokens": 814,
+  "total_tokens": 115408,
+  "duration_api_ms": 35578,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

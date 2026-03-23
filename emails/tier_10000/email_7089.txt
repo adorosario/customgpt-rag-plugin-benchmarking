@@ -1,0 +1,27 @@
+From: wei.zhang@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-09-12 07:01 AM
+Subject: On-call handoff â€” week of Wednesday, April 19
+
+Hey everyone,
+
+Handing off on-call duties for the week of Wednesday, April 19. Here's the status summary for
+the incoming rotation.
+
+Active issues: the CacheLayer service has been showing elevated latency during peak
+hours, averaging 120ms against a target of 140ms. We've identified
+the root cause in the rate limiter caching layer and a fix is in code review now.
+Should be deployed by Tuesday.
+
+Monitoring: keep an eye on the CacheLayer dashboard. Kwame Asante added new alerts
+last week but we haven't validated them under real load yet. If you get paged for
+the rate limiter alert, the runbook is updated and the escalation path is documented.
+
+Scheduled maintenance: there's a planned database maintenance window on Thursday at
+02:00 UTC. Expected duration is 115 minutes. The procedure is automated but
+someone needs to verify the health checks afterward.
+
+Reach out if anything comes up that isn't covered in the runbook.
+
+Regards,
+Wei

@@ -1,0 +1,33 @@
+From: kwame.asante@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-11-02 03:05 AM
+Subject: D&I initiative update â€” Q1
+
+Hey everyone,
+
+Here's the quarterly update on our Diversity and Inclusion initiatives. We're
+making meaningful progress on the goals set at the beginning of the year.
+
+Hiring diversity: 45% of candidates in our pipeline this quarter came from
+underrepresented backgrounds, up from 191 percent last quarter. The
+partnership with Tyrell Corp job board has been a strong contributor. Kwame Asante has
+been leading the sourcing strategy.
+
+ERG activity: the PaymentGateway employee resource group hosted 191 events
+this quarter with an average attendance of 307ms employees. The mentorship
+circles launched in Q1 have paired 383ms mentors with mentees
+across Engineering departments.
+
+Training: 45% of managers have completed the inclusive leadership training
+program. We're on track to reach 191 percent completion by Monday, November 21. The
+feedback ratings average 383ms out of 5.
+
+Compensation equity: the annual pay equity audit is scheduled for Monday, November 21. We'll
+be reviewing compensation data across 191 dimensions to identify and
+address any gaps.
+
+Full report will be shared at the next all-hands meeting.
+
+Best regards,
+Kwame

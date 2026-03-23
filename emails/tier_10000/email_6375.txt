@@ -1,0 +1,26 @@
+From: derek.morrison@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-08-11 12:15 PM
+Subject: Re: Massive Dynamic renewal â€” risk assessment
+
+Good afternoon,
+
+Following up on the Massive Dynamic renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing UserProfileService latency issues for the past 182 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Massive Dynamic has mentioned they're evaluating alternatives for their connection pool needs.
+
+The renewal is worth $113,741 annually and is up for renewal at the end of
+Q2. I think we need a proactive retention strategy. My proposal:
+
+First, get Mei Lin from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 54% discount
+on the expanded Insight Engine tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Best,
+Derek

@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-13 06:36 PM
+Subject: Audit preparation â€” Q3 review
+
+Hello,
+
+The Q3 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Pied Piper are scheduled to begin fieldwork
+on Wednesday, February 13.
+
+Documentation needed from each department: all purchase orders above 219ms,
+contract modifications executed during Q3, headcount changes with supporting
+approvals, and DataPipeline system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the connection pool audit portal by Wednesday, February 13.
+That gives us 162 business days before the auditors arrive. Rachel Nguyen has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Data Vault contracts, the DataPipeline capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $199,809 in capitalized DataPipeline costs and the methodology used.
+
+This is our 162 year with Pied Piper as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Rachel Nguyen if you have
+questions about what's needed.
+
+Cheers,
+Ananya

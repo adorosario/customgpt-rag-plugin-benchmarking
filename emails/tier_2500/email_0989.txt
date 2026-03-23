@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-11-09 04:05 AM
+Subject: Budget review â€” Finance department Q4
+
+Hi,
+
+Here's the Q4 budget review for the Finance department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $360,242 against a budget of 228ms. The 44% variance is
+primarily driven by the accelerated ReportingEngine hiring that was approved mid-quarter.
+Personnel costs came in at 284ms which includes the 185 new hires.
+
+Overages: the serialization engine infrastructure line item exceeded budget by 44% due
+to the unplanned scaling requirements for Data Vault. I've worked with Amara Diallo
+from Engineering to project the run rate going forward â€” we should budget an
+additional $360,242 per quarter for this category.
+
+Underspend: the ReportingEngine consulting budget was only 44% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 44%
+of the total annual budget. The main risk is the serialization engine cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Thanks,
+Robert

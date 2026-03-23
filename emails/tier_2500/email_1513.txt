@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-01 08:44 AM
+Subject: Financial close checklist â€” Q3
+
+Good morning,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Insight Engine invoices must be issued by Thursday, July 28. Any revenue recognition
+adjustments for the AuditLog contracts need supporting documentation uploaded
+to logging pipeline. Liam Foster from Sales must confirm final deal amounts by January 3.
+
+Expenses: all expense reports for Q3 must be submitted by Thursday, July 28. The
+AuditLog vendor invoices totaling $143,719 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, AuditLog subscription costs,
+and the logging pipeline usage charges by Thursday, July 28. Any non-standard accruals above
+362ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, AuditLog account reconciliation, and
+inter-company balances must be completed by Thursday, July 28. Liam Foster is handling the
+bank rec. I'll take the inter-company items since they involve the Sydney entity.
+
+Target: books closed within 101 business days of quarter end. Final reporting
+package to leadership by Thursday, July 28.
+
+Regards,
+Robert

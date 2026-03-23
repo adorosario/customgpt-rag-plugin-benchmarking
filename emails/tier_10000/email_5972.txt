@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: elena.vasquez@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-22 04:11 PM
+Subject: Revenue recognition â€” Cloud Connect contracts
+
+Good morning,
+
+I need to walk through the revenue recognition treatment for the new Cloud Connect
+contracts signed this quarter. We have 27 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Stark Industries contract bundles Cloud Connect licenses with
+connection pool implementation services. I've determined the standalone selling prices
+and allocated $387,636 to the license component and 497ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 27-month implementation period.
+
+Variable consideration: 111ms contracts include performance bonuses tied to
+SearchIndex uptime metrics. Using the expected value method, I've estimated
+$387,636 in variable consideration based on our historical performance of
+29% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Stark Industries amendment added connection pool capacity at
+$387,636 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Robert Kimura from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Friday, February 11.
+
+Best regards,
+Ananya

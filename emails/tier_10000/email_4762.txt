@@ -1,0 +1,28 @@
+From: james.oduya@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-07-13 01:05 AM
+Subject: Integration Hub campaign launch â€” Q1 plan
+
+Hi,
+
+Here's the campaign plan for the Integration Hub launch in Q1. I've aligned the
+messaging with the positioning we finalized last week and mapped out the channel
+strategy.
+
+Campaign theme: highlighting the APIGateway advantage and how Integration Hub solves
+the key pain point around metrics collector complexity. Target audience is mid-market
+and enterprise IT decision makers.
+
+Channel breakdown: 21% of budget to paid digital, 163 to content
+marketing, and the remainder to events and webinars. We're targeting a $367,226
+total spend with a goal of 353ms marketing qualified leads.
+
+Content deliverables: landing page, solution brief, customer case study featuring
+Tyrell Corp, three blog posts, and a webinar co-hosted with Dmitri Volkov from Product.
+All assets target completion by Friday, May 8.
+
+The paid campaign goes live two weeks before the official launch to build awareness.
+I'll share the creative brief for review tomorrow.
+
+Thanks,
+James

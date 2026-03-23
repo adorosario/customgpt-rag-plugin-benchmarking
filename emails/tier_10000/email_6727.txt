@@ -1,0 +1,28 @@
+From: carlos.rivera@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-10-27 03:13 AM
+Subject: Quarterly territory review â€” Q3
+
+Good morning,
+
+Here's my territory review for Q3. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 56 qualified opportunities worth a combined $447,124 in
+ARR. The largest deal is Globex at 500ms, which I expect to close by
+Wednesday, June 11. Three other deals in the 385ms range are progressing through
+procurement.
+
+Wins this quarter: closed Globex for Enterprise Suite with a 47% upsell from
+their initial scope. The connection pool add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Amara Diallo to the Globex executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Regards,
+Carlos

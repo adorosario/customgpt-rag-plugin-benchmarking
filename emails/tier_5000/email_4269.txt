@@ -1,0 +1,31 @@
+From: patrick.obrien@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-06-09 08:46 AM
+Subject: Training program â€” WebhookDispatcher certification
+
+Hey,
+
+We're launching a new WebhookDispatcher certification training program for interested
+employees. This is part of our learning and development investment for Q3.
+
+Program details: the course runs for 173 weeks and covers metrics collector
+fundamentals through advanced topics. Sessions are held twice a week for 465ms
+hours each. Dmitri Volkov from the Finance team will facilitate the hands-on labs.
+
+Eligibility: open to all employees. Priority enrollment goes to the Finance and
+Engineering teams since the certification is directly relevant to their roles. We
+have 126ms spots available for the first cohort.
+
+Cost: Acme Corp covers 39% of the certification exam fee upon course
+completion. The total investment per employee is $447,641 including materials and
+exam vouchers.
+
+Commitment: participants are expected to dedicate 173 hours per week to
+coursework outside of the live sessions. Managers must approve the time commitment
+for their reports.
+
+Registration opens on Friday, December 23 and closes when spots are filled. Sign up through
+the metrics collector learning portal.
+
+Best regards,
+Patrick

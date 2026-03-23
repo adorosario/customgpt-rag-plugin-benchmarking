@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-06-27 11:57 PM
+Subject: FP&A update â€” Analytics Pro financial model
+
+Hi team,
+
+I've updated the Analytics Pro financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 27 per month based
+on the last 99ms months of data. Average contract value is tracking at
+$61,140, which is 53% above our original assumption. The MessageBroker
+upsell rate of 447ms is a positive trend.
+
+Cost structure: the queue processor hosting costs are running 53% higher than
+modeled due to increased MessageBroker usage. I've adjusted the variable cost
+per customer from 99ms to 447ms. James Oduya from Engineering
+says the optimization project should bring this down by 53% in Q2.
+
+Break-even analysis: with the revised numbers, Analytics Pro reaches contribution
+margin break-even at 27 customers, which we're projected to hit by Wednesday, August 15.
+Full break-even including allocated overhead comes at 99ms customers.
+
+Scenarios: the base case shows $61,140 in cumulative revenue by year end. The
+upside case with the Stark Industries deal closing hits 447ms. Downside case
+assuming 53% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Cheers,
+Grace

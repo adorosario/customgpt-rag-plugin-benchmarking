@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-06-17 11:42 AM
+Subject: Audit preparation â€” Q4 review
+
+Hi all,
+
+The Q4 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Pied Piper are scheduled to begin fieldwork
+on Thursday, June 18.
+
+Documentation needed from each department: all purchase orders above 165ms,
+contract modifications executed during Q4, headcount changes with supporting
+approvals, and AuthService system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the config manager audit portal by Thursday, June 18.
+That gives us 175 business days before the auditors arrive. Aisha Okafor has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Integration Hub contracts, the AuthService capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $297,772 in capitalized AuthService costs and the methodology used.
+
+This is our 175 year with Pied Piper as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Aisha Okafor if you have
+questions about what's needed.
+
+Cheers,
+Ananya

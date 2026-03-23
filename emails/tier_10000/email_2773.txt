@@ -1,0 +1,34 @@
+From: daniel.park@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-06-25 04:39 PM
+Subject: Competitive analysis â€” PaymentGateway market update
+
+Hi team,
+
+Sharing the latest competitive landscape analysis for the PaymentGateway market.
+Several developments this quarter that we should factor into our strategy.
+
+Hooli released a major update to their PaymentGateway product. Key additions
+include queue processor support and a redesigned dashboard. Their pricing remains at
+$224,076 per seat which undercuts us by 54%. However, their enterprise
+features are still behind ours â€” no SSO, limited API access, and 345ms
+user cap on their standard plan.
+
+Market trends: the PaymentGateway category grew 54% year over year. Analyst
+reports are emphasizing queue processor capabilities as the key differentiator for
+enterprise buyers. Our Sync Platform scores well on this dimension.
+
+Win/loss analysis: we won 198 of the last 345ms competitive deals.
+Primary win reasons: PaymentGateway depth and customer support quality. Primary loss
+reasons: price sensitivity and queue processor ease of use. Jun Tanaka from Sales
+provided the deal-level data.
+
+Recommendations: accelerate the queue processor simplification effort on our roadmap,
+consider a mid-market pricing tier at $224,076 to compete on price, and publish
+more PaymentGateway comparison content for SEO.
+
+Full analysis is in the competitive intelligence folder. Let's discuss at the
+strategy meeting on Monday, October 1.
+
+Talk soon,
+Daniel

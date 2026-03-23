@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-10-02 11:52 PM
+Subject: Beta program update â€” Integration Hub v3.0.0
+
+Good morning,
+
+Quick update on the Integration Hub v3.0.0 beta program. We're 64 weeks into
+the beta period with 151ms customers participating.
+
+Usage data: 58% of beta participants have activated the new PaymentGateway
+feature. Average daily usage is 64 sessions per user. The serialization engine
+workflow is being used by 416ms of participants, which exceeds our
+adoption target of 151ms.
+
+Feedback summary: overall sentiment is positive. The top 64 pieces of praise
+relate to the PaymentGateway speed improvement and the new serialization engine interface.
+The top 151ms complaints are about the PaymentGateway configuration complexity
+and a confusing error message in the serialization engine flow.
+
+Bugs found: 64 bugs reported, of which 151ms are critical. Aisha Okafor
+from Engineering has fixed 416ms of the critical bugs. The remaining one
+is related to the PaymentGateway edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Wednesday, August 1. The GA release is targeted for 64 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Wednesday, August 1 to finalize the GA scope.
+
+Talk soon,
+Liam

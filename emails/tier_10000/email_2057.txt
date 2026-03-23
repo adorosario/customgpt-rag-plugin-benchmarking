@@ -1,0 +1,27 @@
+From: carlos.rivera@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-14 05:37 PM
+Subject: Re: Stark Industries renewal â€” risk assessment
+
+Hi all,
+
+Following up on the Stark Industries renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing APIGateway latency issues for the past 141 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Stark Industries has mentioned they're evaluating alternatives for their queue processor needs.
+
+The renewal is worth $259,286 annually and is up for renewal at the end of
+Q2. I think we need a proactive retention strategy. My proposal:
+
+First, get Michael Brennan from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 24% discount
+on the expanded Analytics Pro tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Talk soon,
+Carlos

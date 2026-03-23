@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-11-17 06:42 AM
+Subject: Social media strategy â€” Q2
+
+Hey everyone,
+
+Presenting the social media strategy refresh for Q2. Based on our Enterprise Suite
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our AuditLog posts are averaging 179 impressions and 48% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 48% educational content about metrics collector topics, 179
+percent product highlights, and the rest for company culture and employee spotlights.
+David Okonkwo will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Enterprise Suite use cases and answer audience questions. First session on Friday, March 15 featuring
+David Okonkwo.
+
+Budget: $398,747 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 304ms new followers and 360ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Thanks,
+Laura

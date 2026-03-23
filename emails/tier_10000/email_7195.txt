@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-06-18 01:43 AM
+Subject: Event planning â€” Sync Platform webinar on Friday, August 16
+
+Good afternoon,
+
+Finalizing details for the Sync Platform webinar on Friday, August 16. Here's where we stand on
+the logistics and promotion.
+
+Content: Priya Sharma from Product will present the BillingModule roadmap segment.
+I'll handle the intro and customer story. We're targeting a 59-minute
+presentation followed by 186ms minutes of live Q&A. The serialization engine demo
+segment should be the highlight.
+
+Registration: we've had 345ms sign-ups so far. Goal is 186ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Sync Platform keywords.
+
+Tech setup: using the standard webinar platform. Priya Sharma will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Friday, August 16 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 59 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Best regards,
+Laura

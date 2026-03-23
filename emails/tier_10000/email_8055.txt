@@ -1,0 +1,28 @@
+From: derek.morrison@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-08-02 02:41 PM
+Subject: Quarterly territory review â€” Q2
+
+Good morning,
+
+Here's my territory review for Q2. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 37 qualified opportunities worth a combined $230,836 in
+ARR. The largest deal is Massive Dynamic at 317ms, which I expect to close by
+Thursday, February 25. Three other deals in the 106ms range are progressing through
+procurement.
+
+Wins this quarter: closed Massive Dynamic for Insight Engine with a 26% upsell from
+their initial scope. The serialization engine add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Sanjay Krishnamurthy to the Massive Dynamic executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Thanks,
+Derek

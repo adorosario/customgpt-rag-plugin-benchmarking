@@ -1,0 +1,34 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-09 01:28 AM
+Subject: Customer feedback digest â€” Analytics Pro Q3
+
+Hi team,
+
+Here's the quarterly customer feedback digest for Analytics Pro. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 54, up 315ms points from last quarter. The improvement
+is driven by the FileStorageService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 47%.
+
+Top feature requests: FileStorageService advanced filtering (54 votes), service mesh
+bulk operations (315ms votes), and enhanced Analytics Pro reporting (365ms
+votes). The filtering request aligns with what we heard in the user research study
+Rachel Nguyen conducted.
+
+Top complaints: FileStorageService performance during peak hours (54 mentions),
+the service mesh onboarding experience (315ms mentions), and pricing
+transparency (365ms mentions). The performance issue is being addressed
+by Engineering â€” Rachel Nguyen expects the fix in v2.7.3.
+
+Churn insights: 54 customers churned this quarter citing FileStorageService
+limitations as the primary reason. The service mesh overhaul on our roadmap directly
+addresses their feedback. 47% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Tuesday, March 1.
+
+Best regards,
+Sanjay

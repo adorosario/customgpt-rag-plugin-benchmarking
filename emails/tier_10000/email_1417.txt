@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-08-15 06:23 AM
+Subject: Conference recap â€” Sync Platform booth results
+
+Hey everyone,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Sync Platform booth drew consistent traffic throughout.
+
+Lead collection: 179 badge scans at the booth, of which 440ms are
+qualified leads based on our initial review. The SearchIndex live demo was the
+biggest draw, and Ananya Desai from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+serialization engine roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Sync Platform had 149ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 179 times since we posted it.
+
+Budget: we came in at $348,513, which is 12% under budget. The savings came
+from sharing the booth infrastructure with the SearchIndex partner showcase.
+
+I'll prepare a full ROI analysis by Wednesday, November 5 once we've completed lead follow-up.
+
+Best,
+Yuki

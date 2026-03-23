@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-06-05 11:07 PM
+Subject: Financial close checklist â€” Q1
+
+Hi,
+
+The Q1 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Data Vault invoices must be issued by Wednesday, July 9. Any revenue recognition
+adjustments for the SchedulerService contracts need supporting documentation uploaded
+to metrics collector. Mei Lin from Sales must confirm final deal amounts by July 23.
+
+Expenses: all expense reports for Q1 must be submitted by Wednesday, July 9. The
+SchedulerService vendor invoices totaling $75,467 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, SchedulerService subscription costs,
+and the metrics collector usage charges by Wednesday, July 9. Any non-standard accruals above
+484ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, SchedulerService account reconciliation, and
+inter-company balances must be completed by Wednesday, July 9. Mei Lin is handling the
+bank rec. I'll take the inter-company items since they involve the San Francisco entity.
+
+Target: books closed within 183 business days of quarter end. Final reporting
+package to leadership by Wednesday, July 9.
+
+Cheers,
+Ananya

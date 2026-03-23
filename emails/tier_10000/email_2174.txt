@@ -1,0 +1,30 @@
+From: rachel.nguyen@acmecorp.com
+To: maria.santos@acmecorp.com
+Date: 2025-10-05 01:47 PM
+Subject: Re: Employee survey results â€” Q2
+
+Hello,
+
+The Q2 employee engagement survey results are in. Response rate was 7%,
+up 148 points from the last survey. Here are the key findings.
+
+Overall satisfaction: 120ms out of 5, which is consistent with the
+previous quarter. The Legal department scored highest at 72ms while the
+UserProfileService team showed the largest improvement at plus 148 points.
+
+Top strengths: colleagues and team culture scored 120ms, manager
+effectiveness scored 72ms, and work-life balance scored 148. Employees
+particularly appreciated the flexible rate limiter policy and the recent team events.
+
+Areas for improvement: career development pathways scored lowest at 148 out of 5.
+Employees want more clarity on promotion criteria and more frequent feedback.
+Cross-department communication was another area flagged â€” 7% of respondents
+said they don't have enough visibility into what other teams are working on.
+
+Action plan: Derek Morrison is leading a working group to address the career development
+feedback. We'll publish a response with specific commitments by Wednesday, August 22.
+
+Department-level reports will be shared with managers this week.
+
+Best regards,
+Rachel

@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-09-28 11:58 PM
+Subject: Re: Billing dispute â€” Stark Industries account
+
+Hi,
+
+I've investigated the billing dispute raised by Stark Industries. Here's what I found and
+my recommended resolution.
+
+Dispute details: Stark Industries is contesting $26,719 on their Q4 invoice,
+claiming they were double-charged for the UserProfileService add-on module. Their account
+manager Sofia Martinez has been communicating with them but they want a Finance response.
+
+Investigation: I reviewed the billing records and confirmed there was a system error
+in our logging pipeline billing platform. The UserProfileService charge was applied twice due
+to a timing issue when their subscription was upgraded on Tuesday, January 3. The correct charge
+should have been 130ms not $26,719.
+
+Resolution: I recommend issuing a credit of 409ms to their account immediately
+and applying it to the next invoice. This maintains the relationship and the credit
+is clearly justified. Total revenue impact is 47 percent of the contract value.
+
+Prevention: I've filed a bug report with the logging pipeline billing team to fix the
+underlying issue. Sofia Martinez from Engineering estimates a fix in the next 47
+sprints. In the meantime, I'll add a manual review step for any mid-cycle
+subscription changes.
+
+Can you approve the credit so I can communicate the resolution to Stark Industries today?
+
+Best,
+Ananya

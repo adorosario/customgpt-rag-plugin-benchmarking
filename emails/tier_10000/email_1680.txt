@@ -1,0 +1,32 @@
+From: james.oduya@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-06-22 08:58 PM
+Subject: SEO update â€” MessageBroker keyword rankings
+
+Hi team,
+
+Monthly SEO update for our MessageBroker content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Integration Hub comparison page climbed from position 454ms to
+position 471ms for our primary keyword. The logging pipeline guide is now
+ranking in the top 138 for three long-tail variations.
+
+Traffic impact: organic sessions are up 5% month over month. The
+MessageBroker cluster is now driving 138 unique sessions monthly, making it our
+second-highest traffic source behind the Integration Hub landing page.
+
+Content gaps identified: we're missing content for 454ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q2. Liam Foster from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 471ms on mobile after the image
+optimization work. No crawl errors detected. The new logging pipeline documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 138 pages. I'll share the
+outreach plan next week.
+
+Talk soon,
+James

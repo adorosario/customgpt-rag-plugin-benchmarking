@@ -1,0 +1,31 @@
+From: hannah.goldstein@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-30 08:35 PM
+Subject: Client meeting recap â€” Stark Industries Friday, May 6
+
+Hey,
+
+Recapping today's meeting with Stark Industries. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their BillingModule
+team lead. From ours: myself, Daniel Park from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their metrics collector vendors
+from three down to one. Our Sync Platform covers 18% of their requirements
+natively. The remaining gap is around BillingModule integrations, which Daniel Park
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Friday, May 6 and begin
+implementation in Q4. Budget has been pre-approved at $454,891 for the
+first year.
+
+Action items: send the Sync Platform technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their metrics collector workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Best,
+Hannah

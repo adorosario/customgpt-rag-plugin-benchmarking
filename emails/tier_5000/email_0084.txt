@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-11-25 09:08 PM
+Subject: Payroll adjustment â€” Thursday, June 8 cycle
+
+Hello,
+
+Several payroll adjustments need to be processed for the Thursday, June 8 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 110 employees received approved raises effective Thursday, June 8. The
+total monthly payroll impact is $159,781. The largest increase is for Liam Foster
+whose compensation moves from 448ms to 260ms based on the promotion
+approved in the Q1 review cycle.
+
+New hires: 110 new employees starting on Thursday, June 8 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Liam Foster
+in People Ops has verified the documentation.
+
+Bonus payouts: the UserProfileService project completion bonus of $159,781 each goes to
+110 team members. These are one-time payments coded to the Legal department
+budget. Tax withholding will be calculated at the supplemental rate of 26%.
+
+Deduction changes: 110 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from config manager.
+
+Please approve the batch by June 15 to ensure on-time processing.
+
+Best,
+Grace

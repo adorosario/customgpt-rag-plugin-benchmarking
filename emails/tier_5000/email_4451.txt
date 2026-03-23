@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-08-02 02:00 PM
+Subject: Quarterly territory review â€” Q4
+
+Hello,
+
+Here's my territory review for Q4. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 25 qualified opportunities worth a combined $369,021 in
+ARR. The largest deal is Globex at 274ms, which I expect to close by
+Thursday, February 9. Three other deals in the 154ms range are progressing through
+procurement.
+
+Wins this quarter: closed Globex for Insight Engine with a 10% upsell from
+their initial scope. The logging pipeline add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Daniel Park to the Globex executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Thanks,
+Dmitri

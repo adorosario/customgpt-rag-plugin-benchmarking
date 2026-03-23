@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-08-23 06:49 PM
+Subject: Tax planning â€” Q3 estimated payments
+
+Hi team,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the APIGateway investment
+deductions.
+
+Federal estimate: $80,635 based on projected taxable income of 101ms.
+This reflects the APIGateway depreciation deductions and the R&D tax credit for
+the Cloud Connect development costs. Sarah Chen from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $80,635 for our primary jurisdiction and 59ms for the
+London office based on the apportionment factors. The London rate change that
+takes effect on Friday, February 1 will impact our Q3 estimate by approximately 192
+percent.
+
+International: with the London office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Sarah Chen to handle
+the registration. Setup cost is $80,635 with ongoing compliance costs of
+59ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Friday, February 1. I'll prepare the
+payment authorization for your signature by March 3. Underpayment penalties
+start at 8% so timely filing is important.
+
+Best regards,
+Robert

@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-06-28 11:14 AM
+Subject: Budget review â€” Sales department Q1
+
+Hi all,
+
+Here's the Q1 budget review for the Sales department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $180,287 against a budget of 119ms. The 33% variance is
+primarily driven by the accelerated WebhookDispatcher hiring that was approved mid-quarter.
+Personnel costs came in at 297ms which includes the 132 new hires.
+
+Overages: the metrics collector infrastructure line item exceeded budget by 33% due
+to the unplanned scaling requirements for Analytics Pro. I've worked with James Oduya
+from Engineering to project the run rate going forward â€” we should budget an
+additional $180,287 per quarter for this category.
+
+Underspend: the WebhookDispatcher consulting budget was only 33% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 33%
+of the total annual budget. The main risk is the metrics collector cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Talk soon,
+Ananya

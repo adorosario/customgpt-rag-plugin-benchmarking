@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-16 06:04 PM
+Subject: Revenue recognition â€” Integration Hub contracts
+
+Hi all,
+
+I need to walk through the revenue recognition treatment for the new Integration Hub
+contracts signed this quarter. We have 150 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Cyberdyne contract bundles Integration Hub licenses with
+caching layer implementation services. I've determined the standalone selling prices
+and allocated $147,006 to the license component and 194ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 150-month implementation period.
+
+Variable consideration: 329ms contracts include performance bonuses tied to
+WebhookDispatcher uptime metrics. Using the expected value method, I've estimated
+$147,006 in variable consideration based on our historical performance of
+17% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Cyberdyne amendment added caching layer capacity at
+$147,006 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Jun Tanaka from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Thursday, November 11.
+
+Regards,
+Grace

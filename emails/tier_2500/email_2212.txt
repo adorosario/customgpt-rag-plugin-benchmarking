@@ -1,0 +1,27 @@
+From: elena.vasquez@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-08-15 06:57 PM
+Subject: Incident postmortem â€” MessageBroker outage on Wednesday, January 1
+
+Hey everyone,
+
+Attached is the postmortem for the MessageBroker outage that occurred on Wednesday, January 1. The
+incident lasted approximately 45 minutes and affected 177 for a subset of users.
+
+Root cause: a configuration change in the logging pipeline deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+430ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, Dmitri Volkov acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the MessageBroker runbook, add a circuit breaker for the
+logging pipeline connection pool, and implement load shedding when concurrency exceeds
+430ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Talk soon,
+Elena

@@ -1,0 +1,32 @@
+From: amara.diallo@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-05 04:08 PM
+Subject: Beta program update â€” Sync Platform v3.8.1
+
+Hi,
+
+Quick update on the Sync Platform v3.8.1 beta program. We're 58 weeks into
+the beta period with 68ms customers participating.
+
+Usage data: 38% of beta participants have activated the new NotificationEngine
+feature. Average daily usage is 58 sessions per user. The load balancer
+workflow is being used by 392ms of participants, which exceeds our
+adoption target of 68ms.
+
+Feedback summary: overall sentiment is positive. The top 58 pieces of praise
+relate to the NotificationEngine speed improvement and the new load balancer interface.
+The top 68ms complaints are about the NotificationEngine configuration complexity
+and a confusing error message in the load balancer flow.
+
+Bugs found: 58 bugs reported, of which 68ms are critical. Oluwaseun Adeyemi
+from Engineering has fixed 392ms of the critical bugs. The remaining one
+is related to the NotificationEngine edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Friday, November 23. The GA release is targeted for 58 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Friday, November 23 to finalize the GA scope.
+
+Talk soon,
+Amara

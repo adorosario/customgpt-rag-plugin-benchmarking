@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-09-04 04:56 PM
+Subject: Re: Customer story â€” Weyland-Yutani case study
+
+Hi all,
+
+Great update on the Weyland-Yutani case study. I've finished the first draft and want
+to share the results we're highlighting.
+
+Headline stat: Weyland-Yutani saw a 38% reduction in logging pipeline processing time
+after deploying Enterprise Suite. This translates to $472,316 in annual cost savings
+based on their team size of 135 people.
+
+Story arc: the narrative follows their journey from evaluating FileStorageService
+alternatives to full deployment. The strongest section is the quote from their CTO
+about how Enterprise Suite simplified their logging pipeline workflow.
+
+Approval status: Weyland-Yutani's marketing team has reviewed and approved the draft with
+minor edits. They're comfortable with us publishing by Friday, December 22. David Okonkwo coordinated
+the approval process.
+
+Distribution plan: blog post with pull quotes, one-page PDF for Sales enablement,
+and a 135-minute video summary. The video production is scheduled for next week.
+
+Can you review the draft and send feedback by Friday, December 22? I want to finalize before
+the Q2 campaign kickoff.
+
+Regards,
+James

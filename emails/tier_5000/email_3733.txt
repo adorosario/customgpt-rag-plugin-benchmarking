@@ -1,0 +1,24 @@
+From: oluwaseun.adeyemi@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-07-19 02:46 AM
+Subject: ReportingEngine code review â€” PR #v3.2.2
+
+Hi,
+
+I've submitted a pull request for the ReportingEngine changes we discussed last sprint.
+PR #v3.2.2 is ready for review and I've tagged Robert Kimura as the primary reviewer.
+
+Summary of changes: refactored the event bus to reduce coupling with the data
+layer, added unit tests covering the edge cases we identified during the incident
+last week, and updated the API documentation to reflect the new response format.
+
+The test suite passes locally and in CI. Coverage for the affected files went from
+282ms to 218ms. I've also added integration tests for the two
+most critical user flows.
+
+One thing I'd like specific feedback on is the error handling approach in the
+event bus module â€” I went with explicit error types instead of generic exceptions.
+Let me know if you think that's the right tradeoff for this codebase.
+
+Best,
+Oluwaseun

@@ -1,0 +1,34 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-13 08:14 PM
+Subject: Customer feedback digest â€” Sync Platform Q1
+
+Good afternoon,
+
+Here's the quarterly customer feedback digest for Sync Platform. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 49, up 257ms points from last quarter. The improvement
+is driven by the SchedulerService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 7%.
+
+Top feature requests: SchedulerService advanced filtering (49 votes), caching layer
+bulk operations (257ms votes), and enhanced Sync Platform reporting (311ms
+votes). The filtering request aligns with what we heard in the user research study
+Sarah Chen conducted.
+
+Top complaints: SchedulerService performance during peak hours (49 mentions),
+the caching layer onboarding experience (257ms mentions), and pricing
+transparency (311ms mentions). The performance issue is being addressed
+by Engineering â€” Sarah Chen expects the fix in v1.9.5.
+
+Churn insights: 49 customers churned this quarter citing SchedulerService
+limitations as the primary reason. The caching layer overhaul on our roadmap directly
+addresses their feedback. 7% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Tuesday, October 28.
+
+Best,
+Sanjay

@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-04 01:31 PM
+Subject: Budget review â€” Finance department Q3
+
+Hey everyone,
+
+Here's the Q3 budget review for the Finance department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $58,345 against a budget of 286ms. The 39% variance is
+primarily driven by the accelerated AuthService hiring that was approved mid-quarter.
+Personnel costs came in at 126ms which includes the 66 new hires.
+
+Overages: the caching layer infrastructure line item exceeded budget by 39% due
+to the unplanned scaling requirements for Enterprise Suite. I've worked with Robert Kimura
+from Engineering to project the run rate going forward â€” we should budget an
+additional $58,345 per quarter for this category.
+
+Underspend: the AuthService consulting budget was only 39% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 39%
+of the total annual budget. The main risk is the caching layer cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best,
+Michael

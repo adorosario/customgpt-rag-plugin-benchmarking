@@ -1,0 +1,30 @@
+From: hannah.goldstein@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-21 03:00 PM
+Subject: Re: Insight Engine demo feedback from Globex
+
+Good afternoon,
+
+Great news from the Globex demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the event bus dashboard got the biggest reaction. Their
+current tool requires 174 manual steps to accomplish what our Insight Engine does
+automatically. The AnalyticsDashboard integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 230ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v3.0.0 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Yuki Sato, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Insight Engine trial environment set up for their team of
+174 evaluators. I'll submit the trial request today. Target close date
+remains Thursday, February 26.
+
+Thanks,
+Hannah

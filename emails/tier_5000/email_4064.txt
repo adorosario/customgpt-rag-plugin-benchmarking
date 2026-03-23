@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-08-09 06:08 AM
+Subject: Customer feedback digest â€” Analytics Pro Q3
+
+Good morning,
+
+Here's the quarterly customer feedback digest for Analytics Pro. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 162, up 225ms points from last quarter. The improvement
+is driven by the AuthService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 50%.
+
+Top feature requests: AuthService advanced filtering (162 votes), event bus
+bulk operations (225ms votes), and enhanced Analytics Pro reporting (337ms
+votes). The filtering request aligns with what we heard in the user research study
+Robert Kimura conducted.
+
+Top complaints: AuthService performance during peak hours (162 mentions),
+the event bus onboarding experience (225ms mentions), and pricing
+transparency (337ms mentions). The performance issue is being addressed
+by Engineering â€” Robert Kimura expects the fix in v3.2.2.
+
+Churn insights: 162 customers churned this quarter citing AuthService
+limitations as the primary reason. The event bus overhaul on our roadmap directly
+addresses their feedback. 50% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Friday, June 4.
+
+Talk soon,
+Sanjay

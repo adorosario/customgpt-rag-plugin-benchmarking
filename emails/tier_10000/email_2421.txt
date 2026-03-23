@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-08-04 01:24 AM
+Subject: Financial close checklist â€” Q3
+
+Hey,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Sync Platform invoices must be issued by Friday, July 7. Any revenue recognition
+adjustments for the WebhookDispatcher contracts need supporting documentation uploaded
+to caching layer. Ananya Desai from Sales must confirm final deal amounts by February 11.
+
+Expenses: all expense reports for Q3 must be submitted by Friday, July 7. The
+WebhookDispatcher vendor invoices totaling $408,208 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, WebhookDispatcher subscription costs,
+and the caching layer usage charges by Friday, July 7. Any non-standard accruals above
+248ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, WebhookDispatcher account reconciliation, and
+inter-company balances must be completed by Friday, July 7. Ananya Desai is handling the
+bank rec. I'll take the inter-company items since they involve the Tokyo entity.
+
+Target: books closed within 155 business days of quarter end. Final reporting
+package to leadership by Friday, July 7.
+
+Thanks,
+Grace

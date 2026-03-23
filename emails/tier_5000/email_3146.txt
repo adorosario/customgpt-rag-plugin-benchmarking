@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-06-09 01:45 AM
+Subject: Vendor payment schedule â€” Q2
+
+Hi all,
+
+Here's the vendor payment schedule for Q2. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Globex invoice for $125,054 is due on Monday, August 27 with a
+35% early payment discount if we pay within 177 days. I recommend
+taking the discount â€” it saves us 197ms. The AuditLog annual
+license renewal of 136ms is due Monday, August 27 with no discount available.
+
+Standard schedule: 177 vendor invoices totaling $125,054 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-136ms terms with payments going out every 177 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The authentication module vendor
+overbilled us by $125,054 on the AuditLog usage charges. Maria Santos is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q2 are projected at $125,054. This
+is 35% higher than last quarter due to the AuditLog infrastructure
+investment and the New York office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Thanks,
+Grace

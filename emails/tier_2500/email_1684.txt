@@ -1,0 +1,30 @@
+From: derek.morrison@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-10-03 05:17 PM
+Subject: Client meeting recap â€” Tyrell Corp Tuesday, May 21
+
+Good morning,
+
+Recapping today's meeting with Tyrell Corp. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their BillingModule
+team lead. From ours: myself, Tomoko Nakamura from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their metrics collector vendors
+from three down to one. Our Insight Engine covers 36% of their requirements
+natively. The remaining gap is around BillingModule integrations, which Tomoko Nakamura
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Tuesday, May 21 and begin
+implementation in Q1. Budget has been pre-approved at $440,309 for the
+first year.
+
+Action items: send the Insight Engine technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their metrics collector workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Cheers,
+Derek

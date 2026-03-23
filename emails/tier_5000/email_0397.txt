@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-06-20 11:21 AM
+Subject: Conference recap â€” Integration Hub booth results
+
+Good afternoon,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Integration Hub booth drew consistent traffic throughout.
+
+Lead collection: 115 badge scans at the booth, of which 111ms are
+qualified leads based on our initial review. The BillingModule live demo was the
+biggest draw, and Grace Mwangi from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+authentication module roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Integration Hub had 212ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 115 times since we posted it.
+
+Budget: we came in at $96,296, which is 38% under budget. The savings came
+from sharing the booth infrastructure with the BillingModule partner showcase.
+
+I'll prepare a full ROI analysis by Friday, January 27 once we've completed lead follow-up.
+
+Best regards,
+Yuki

@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-03 08:56 AM
+Subject: A/B test results â€” SearchIndex experiment
+
+Hi team,
+
+The SearchIndex A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 179 days with 175ms users in each cohort.
+
+Variant A (control): the existing event bus flow. Conversion rate of
+436ms with an average task completion time of 179 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified SearchIndex step.
+Conversion rate of 175ms with task completion time of 436ms seconds.
+This represents a 35% improvement in conversion and 179 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 179 to 175ms
+in the treatment group. Support ticket volume for SearchIndex related issues
+decreased by 35%. No negative impact on event bus engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Elena Vasquez from Engineering can have this
+deployed by Friday, July 5.
+
+One caveat: the test population skewed toward Data Vault power users. We should
+monitor new user behavior closely for the first 179 weeks after full rollout.
+
+Thanks,
+Daniel

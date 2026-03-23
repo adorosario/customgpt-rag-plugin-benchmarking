@@ -1,0 +1,28 @@
+From: elena.vasquez@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-10-13 03:34 AM
+Subject: Feature flag cleanup â€” BillingModule v2.1.0
+
+Hey,
+
+Time for our quarterly feature flag cleanup in BillingModule. We have 110 flags
+in the system and several of them are stale.
+
+Flags to remove: the config manager migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The BillingModule experiment flag
+was concluded last sprint with a decision to ship â€” Michael Brennan will hardcode the
+winning variant.
+
+Flags to keep: the v2.1.0 rollout flag should stay until we've confirmed
+stability at 77ms traffic. The config manager kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 324ms lines of dead code and simplify the conditional logic in
+48% of the affected modules.
+
+Please claim the tickets for flags in your area by Wednesday, April 16. Target completion is end
+of sprint.
+
+Best,
+Elena

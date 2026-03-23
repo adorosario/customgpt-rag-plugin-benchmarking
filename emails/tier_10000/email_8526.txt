@@ -1,0 +1,31 @@
+From: jun.tanaka@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-23 07:46 AM
+Subject: Client meeting recap â€” Soylent Corp Monday, May 12
+
+Hi,
+
+Recapping today's meeting with Soylent Corp. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their FileStorageService
+team lead. From ours: myself, Sofia Martinez from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their service mesh vendors
+from three down to one. Our Integration Hub covers 59% of their requirements
+natively. The remaining gap is around FileStorageService integrations, which Sofia Martinez
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Monday, May 12 and begin
+implementation in Q1. Budget has been pre-approved at $415,874 for the
+first year.
+
+Action items: send the Integration Hub technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their service mesh workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Talk soon,
+Jun

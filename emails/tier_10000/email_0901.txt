@@ -1,0 +1,26 @@
+From: jun.tanaka@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-09-11 12:46 AM
+Subject: Re: Globex renewal â€” risk assessment
+
+Hi all,
+
+Following up on the Globex renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing ReportingEngine latency issues for the past 19 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Globex has mentioned they're evaluating alternatives for their event bus needs.
+
+The renewal is worth $384,667 annually and is up for renewal at the end of
+Q2. I think we need a proactive retention strategy. My proposal:
+
+First, get Amara Diallo from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 18% discount
+on the expanded Sync Platform tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Regards,
+Jun

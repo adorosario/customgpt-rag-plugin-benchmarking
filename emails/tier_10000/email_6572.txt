@@ -1,0 +1,30 @@
+From: derek.morrison@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-12 01:53 PM
+Subject: Re: Integration Hub demo feedback from Umbrella Inc
+
+Good morning,
+
+Great news from the Umbrella Inc demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the caching layer dashboard got the biggest reaction. Their
+current tool requires 136 manual steps to accomplish what our Integration Hub does
+automatically. The DataPipeline integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 324ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v5.0.0-beta release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Elena Vasquez, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Integration Hub trial environment set up for their team of
+136 evaluators. I'll submit the trial request today. Target close date
+remains Friday, December 7.
+
+Cheers,
+Derek

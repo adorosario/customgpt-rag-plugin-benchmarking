@@ -1,0 +1,33 @@
+From: maria.santos@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-11-25 12:07 PM
+Subject: Re: Litigation hold â€” Weyland-Yutani matter
+
+Good morning,
+
+Following up on the Weyland-Yutani dispute. We need to implement a litigation hold
+immediately. Here's what that means for the affected teams.
+
+Scope: all documents, emails, and electronic records related to the Weyland-Yutani
+engagement from Thursday, November 12 forward must be preserved. This includes WebhookDispatcher
+logs, Integration Hub deployment records, and all correspondence between our teams
+and Weyland-Yutani's personnel.
+
+Affected departments: Engineering, Sales, and Product. Marcus Thompson will distribute
+hold notices to the specific custodians in each department. We've identified
+127 individuals whose records are potentially relevant.
+
+Obligations: do not delete, modify, or archive any records covered by the hold.
+Suspend any auto-deletion policies for the relevant queue processor systems.
+Marcus Thompson from IT is coordinating the technical preservation measures.
+
+Duration: the hold remains in effect until further notice from Legal. I expect the
+matter to be resolved within 305ms months based on preliminary discussions
+with opposing counsel. The estimated legal cost exposure is $419,263.
+
+If anyone has questions about what's covered, direct them to me. Do not discuss
+the hold or the underlying matter externally.
+
+Best regards,
+Maria

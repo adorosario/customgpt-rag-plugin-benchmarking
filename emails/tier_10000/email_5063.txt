@@ -1,0 +1,29 @@
+From: hannah.goldstein@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-05 10:45 PM
+Subject: Quarterly territory review â€” Q2
+
+Hey everyone,
+
+Here's my territory review for Q2. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 156 qualified opportunities worth a combined $454,059 in
+ARR. The largest deal is Oscorp at 313ms, which I expect to close by
+Thursday, June 11. Three other deals in the 85ms range are progressing through
+procurement.
+
+Wins this quarter: closed Oscorp for Analytics Pro with a 58% upsell from
+their initial scope. The connection pool add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Tomoko Nakamura to the Oscorp executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Cheers,
+Hannah

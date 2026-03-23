@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-08-22 06:54 AM
+Subject: Payroll adjustment â€” Wednesday, July 11 cycle
+
+Good morning,
+
+Several payroll adjustments need to be processed for the Wednesday, July 11 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 187 employees received approved raises effective Wednesday, July 11. The
+total monthly payroll impact is $448,302. The largest increase is for James Oduya
+whose compensation moves from 463ms to 54ms based on the promotion
+approved in the Q3 review cycle.
+
+New hires: 187 new employees starting on Wednesday, July 11 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. James Oduya
+in People Ops has verified the documentation.
+
+Bonus payouts: the SearchIndex project completion bonus of $448,302 each goes to
+187 team members. These are one-time payments coded to the Legal department
+budget. Tax withholding will be calculated at the supplemental rate of 57%.
+
+Deduction changes: 187 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from event bus.
+
+Please approve the batch by December 8 to ensure on-time processing.
+
+Cheers,
+Ananya

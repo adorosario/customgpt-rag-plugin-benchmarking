@@ -1,0 +1,21 @@
+{
+  "tier": 10,
+  "question_id": "pattern_3",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What issues has Initech reported and how is the team responding?",
+  "model": "claude-sonnet-4-6",
+  "response": "Two emails across the 10 reference Initech:\n\n**Issues reported:**\n- **API latency** \u00e2\u20ac\u201d Initech filed a complaint about API response times (email_0005, Wei Zhang \u00e2\u2020\u2019 Derek Morrison, 2025-11-19)\n- **SLA breach** \u00e2\u20ac\u201d escalated to a performance SLA breach (email_0006, Tomoko Nakamura \u00e2\u2020\u2019 Sofia Martinez, 2025-10-31)\n\n**Team response:**\n- The issue is being tracked internally and discussed between multiple team members\n- Server performance metrics have been stable since the latest patch deployment (noted in email_0006)\n- The team plans to circle back at the next all-hands meeting\n- Hiring a contractor to help with the backlog was suggested (email_0005)\n\n**Caveat:** These emails appear to be synthetically generated benchmark data \u00e2\u20ac\u201d the body text is heavily templated/boilerplate and doesn't contain specific technical details about root causes, SLA thresholds, or concrete remediation steps beyond what's noted above.",
+  "time_seconds": 57.28,
+  "num_turns": 22,
+  "cost_usd": 0.1794087,
+  "input_tokens": 10,
+  "cache_creation_tokens": 31900,
+  "cache_read_tokens": 113629,
+  "output_tokens": 1711,
+  "total_tokens": 147250,
+  "duration_api_ms": 35625,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

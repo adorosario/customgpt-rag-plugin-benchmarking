@@ -1,0 +1,32 @@
+From: maria.santos@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-07-22 02:02 AM
+Subject: IP filing status â€” Integration Hub patent application
+
+Hello,
+
+Update on the Integration Hub patent application. Here's where we stand with the filing
+and the next steps.
+
+Application status: the provisional application was filed on Friday, December 20 covering the
+DataPipeline algorithm and the novel metrics collector approach. Serial number has been
+assigned and the filing fee of $103,115 has been paid.
+
+Prior art review: outside counsel completed the prior art search and identified
+98 related filings. None appear to directly conflict with our claims, but
+96ms of them require careful distinction in the non-provisional filing.
+Sofia Martinez is working with the patent drafting team on claim differentiation.
+
+Timeline: we have 98 months from the provisional filing date to file the
+non-provisional application. I recommend targeting Friday, December 20 to allow adequate review
+time. This gives us 96ms weeks of buffer.
+
+International filing: based on our San Francisco expansion plans, we should consider PCT
+filing for European protection. The additional cost is approximately $103,115 and
+the deadline for PCT designation is 98 months from the priority date.
+
+Let me know if you'd like to discuss the international strategy in more detail.
+
+Thanks,
+Maria

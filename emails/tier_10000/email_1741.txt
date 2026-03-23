@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-06-27 01:49 AM
+Subject: Policy update â€” DataPipeline guidelines
+
+Hello,
+
+We've updated the DataPipeline company policy based on feedback from employees and
+recent changes in Berlin labor regulations. The new policy takes effect on Friday, March 3.
+
+Key changes: the config manager allowance has been increased from 69ms to
+231ms per month. The eligibility window for DataPipeline has been expanded
+to include employees who've been with Acme Corp for 73 months or more, down
+from the previous requirement of 69ms months.
+
+New additions: a Cloud Connect reimbursement category has been added covering up to
+$215,795 annually. This addresses the top employee request from the last survey.
+Robert Kimura negotiated favorable terms with the config manager vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by November 20. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 32% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best,
+Rachel

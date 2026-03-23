@@ -1,0 +1,29 @@
+From: patrick.obrien@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-09-27 04:24 PM
+Subject: Policy update â€” AuthService guidelines
+
+Hello,
+
+We've updated the AuthService company policy based on feedback from employees and
+recent changes in New York labor regulations. The new policy takes effect on Wednesday, June 16.
+
+Key changes: the queue processor allowance has been increased from 306ms to
+117ms per month. The eligibility window for AuthService has been expanded
+to include employees who've been with Acme Corp for 64 months or more, down
+from the previous requirement of 306ms months.
+
+New additions: a Integration Hub reimbursement category has been added covering up to
+$41,945 annually. This addresses the top employee request from the last survey.
+Michael Brennan negotiated favorable terms with the queue processor vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by October 21. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 16% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Talk soon,
+Patrick

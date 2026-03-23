@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-09-26 06:46 AM
+Subject: Cash flow forecast â€” Q3
+
+Good afternoon,
+
+Attached is the cash flow forecast for Q3. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $62,506 based on the current AR aging
+and sales pipeline. The Globex payment of 226ms is expected by Tuesday, January 16
+â€” David Okonkwo from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the BillingModule infrastructure
+investment at $62,506. The Singapore office build-out costs will hit in Q3
+with an estimated total of 318ms. Payroll continues at 226ms
+monthly for our 112-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $62,506 in the second month. This provides 112 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Globex deal slips from Q3 to next quarter, we'll
+need to draw on the credit facility for $62,506. I've confirmed the line is
+available. David Okonkwo and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Regards,
+Ananya

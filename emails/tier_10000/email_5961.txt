@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-19 02:57 AM
+Subject: Payroll adjustment â€” Tuesday, September 10 cycle
+
+Hey everyone,
+
+Several payroll adjustments need to be processed for the Tuesday, September 10 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 103 employees received approved raises effective Tuesday, September 10. The
+total monthly payroll impact is $166,875. The largest increase is for Oluwaseun Adeyemi
+whose compensation moves from 221ms to 86ms based on the promotion
+approved in the Q3 review cycle.
+
+New hires: 103 new employees starting on Tuesday, September 10 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Oluwaseun Adeyemi
+in People Ops has verified the documentation.
+
+Bonus payouts: the PaymentGateway project completion bonus of $166,875 each goes to
+103 team members. These are one-time payments coded to the Sales department
+budget. Tax withholding will be calculated at the supplemental rate of 43%.
+
+Deduction changes: 103 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from load balancer.
+
+Please approve the batch by September 20 to ensure on-time processing.
+
+Talk soon,
+Robert

@@ -1,0 +1,30 @@
+From: rachel.nguyen@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-11-26 11:32 AM
+Subject: Re: Employee survey results â€” Q3
+
+Hi all,
+
+The Q3 employee engagement survey results are in. Response rate was 44%,
+up 92 points from the last survey. Here are the key findings.
+
+Overall satisfaction: 95ms out of 5, which is consistent with the
+previous quarter. The Sales department scored highest at 215ms while the
+WebhookDispatcher team showed the largest improvement at plus 92 points.
+
+Top strengths: colleagues and team culture scored 95ms, manager
+effectiveness scored 215ms, and work-life balance scored 92. Employees
+particularly appreciated the flexible connection pool policy and the recent team events.
+
+Areas for improvement: career development pathways scored lowest at 92 out of 5.
+Employees want more clarity on promotion criteria and more frequent feedback.
+Cross-department communication was another area flagged â€” 44% of respondents
+said they don't have enough visibility into what other teams are working on.
+
+Action plan: Dmitri Volkov is leading a working group to address the career development
+feedback. We'll publish a response with specific commitments by Wednesday, February 8.
+
+Department-level reports will be shared with managers this week.
+
+Best,
+Rachel

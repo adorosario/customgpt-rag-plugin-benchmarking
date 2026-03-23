@@ -1,0 +1,29 @@
+From: ananya.desai@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-07-19 01:02 AM
+Subject: Re: Expense report flagged â€” NotificationEngine charges
+
+Hi all,
+
+I noticed some items on the NotificationEngine expense report submitted by Robert Kimura
+that need clarification before I can approve them.
+
+The config manager subscription charge of $442,114 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+392ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Soylent Corp dinner on Thursday, May 20 for $442,114 exceeds our per-person meal
+reimbursement limit of 392ms. If this was a client entertainment expense,
+it should be coded to the client development budget under NotificationEngine rather than
+general T&E. 116 attendees at that amount puts us at 139ms per
+person which is within the client entertainment policy.
+
+The remaining 116 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 392ms business days after approval.
+
+Please resubmit with the corrections by Thursday, May 20 so we can keep things on track.
+
+Talk soon,
+Ananya

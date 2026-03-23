@@ -1,0 +1,28 @@
+From: jun.tanaka@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-08-08 08:08 AM
+Subject: Quarterly territory review â€” Q3
+
+Good morning,
+
+Here's my territory review for Q3. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 46 qualified opportunities worth a combined $320,571 in
+ARR. The largest deal is Cyberdyne at 450ms, which I expect to close by
+Thursday, February 8. Three other deals in the 283ms range are progressing through
+procurement.
+
+Wins this quarter: closed Cyberdyne for Integration Hub with a 29% upsell from
+their initial scope. The connection pool add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Robert Kimura to the Cyberdyne executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Cheers,
+Jun

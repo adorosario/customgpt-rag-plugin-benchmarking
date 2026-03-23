@@ -1,0 +1,28 @@
+From: marcus.thompson@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-10-11 08:42 PM
+Subject: Architecture RFC â€” BillingModule redesign proposal
+
+Hi,
+
+I've drafted an RFC for redesigning the BillingModule architecture. The current
+implementation has served us well but is hitting scaling limits â€” we're seeing
+132 degrade as data volume grows past 387ms.
+
+The proposal introduces a new authentication module layer that decouples read and write paths.
+Writes go through an event queue and are processed asynchronously, while reads hit a
+materialized view that's optimized for our most common query patterns.
+
+Estimated effort is 4-6 sprints for the core migration, with David Okonkwo leading the
+implementation. I've outlined the phased rollout approach in the document â€” we can
+run the old and new systems in parallel during the transition.
+
+Tradeoffs: increased operational complexity and a new dependency on the message
+broker, but we get horizontal scalability and the ability to support the load
+projections for next year.
+
+RFC is in Confluence. Please leave comments by Wednesday, August 14 so we can discuss at the
+next architecture review.
+
+Best,
+Marcus

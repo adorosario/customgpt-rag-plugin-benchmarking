@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-05 02:29 PM
+Subject: Budget review â€” Product department Q3
+
+Hey,
+
+Here's the Q3 budget review for the Product department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $462,445 against a budget of 76ms. The 5% variance is
+primarily driven by the accelerated APIGateway hiring that was approved mid-quarter.
+Personnel costs came in at 206ms which includes the 121 new hires.
+
+Overages: the authentication module infrastructure line item exceeded budget by 5% due
+to the unplanned scaling requirements for Sync Platform. I've worked with Sofia Martinez
+from Engineering to project the run rate going forward â€” we should budget an
+additional $462,445 per quarter for this category.
+
+Underspend: the APIGateway consulting budget was only 5% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 5%
+of the total annual budget. The main risk is the authentication module cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Cheers,
+Grace

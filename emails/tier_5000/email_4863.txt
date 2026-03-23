@@ -1,0 +1,34 @@
+From: mei.lin@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-10-10 02:07 AM
+Subject: Re: Insight Engine metrics review â€” Q2
+
+Hi all,
+
+Here are the Insight Engine metrics for Q2. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 72 monthly active users, up 39% quarter over quarter. The
+PaymentGateway feature launch drove a spike in activation â€” 261ms new users
+tried it in the first week. Retention for PaymentGateway users is 265ms
+at 30 days versus 72 percent for non-users.
+
+Engagement: average session duration is 72 minutes. The service mesh workflow
+sees the highest engagement with users spending 265ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 261ms features
+per session on average, up from 72 last quarter.
+
+Revenue metrics: Insight Engine ARR is at $213,386 with 39% growth quarter over
+quarter. Net revenue retention is 265ms driven by PaymentGateway upsells.
+72 customers expanded their contracts this quarter, with Fatima Al-Rashid from Sales
+leading the expansion conversations.
+
+Areas of concern: the service mesh onboarding funnel has a 39% drop-off at
+step 72. I've scheduled a design sprint for next week to address this.
+Support ticket volume for PaymentGateway increased 72 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Thanks,
+Mei

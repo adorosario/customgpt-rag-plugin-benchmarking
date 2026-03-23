@@ -1,0 +1,30 @@
+From: hannah.goldstein@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-07-20 08:30 PM
+Subject: Client meeting recap â€” Weyland-Yutani Monday, September 26
+
+Hi all,
+
+Recapping today's meeting with Weyland-Yutani. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their PaymentGateway
+team lead. From ours: myself, Daniel Park from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their connection pool vendors
+from three down to one. Our Analytics Pro covers 46% of their requirements
+natively. The remaining gap is around PaymentGateway integrations, which Daniel Park
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Monday, September 26 and begin
+implementation in Q3. Budget has been pre-approved at $342,375 for the
+first year.
+
+Action items: send the Analytics Pro technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their connection pool workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Best regards,
+Hannah

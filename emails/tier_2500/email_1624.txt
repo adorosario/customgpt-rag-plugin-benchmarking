@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-11-02 06:09 AM
+Subject: Cash flow forecast â€” Q4
+
+Hey everyone,
+
+Attached is the cash flow forecast for Q4. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $51,329 based on the current AR aging
+and sales pipeline. The Weyland-Yutani payment of 483ms is expected by Tuesday, October 28
+â€” Fatima Al-Rashid from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the APIGateway infrastructure
+investment at $51,329. The Sydney office build-out costs will hit in Q4
+with an estimated total of 154ms. Payroll continues at 483ms
+monthly for our 74-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $51,329 in the second month. This provides 74 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Weyland-Yutani deal slips from Q4 to next quarter, we'll
+need to draw on the credit facility for $51,329. I've confirmed the line is
+available. Fatima Al-Rashid and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Cheers,
+Grace

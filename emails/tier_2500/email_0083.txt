@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-08-27 01:50 AM
+Subject: New lead â€” Globex inbound request
+
+Hello,
+
+We received an inbound request from Globex through the website today. They're
+a 186-employee company in the UserProfileService space and are looking for a
+Insight Engine solution.
+
+Initial qualification: they have budget allocated for Q2, their current
+contract with their existing vendor expires on Tuesday, December 16, and the decision maker is
+their VP of Operations. They found us through the serialization engine whitepaper we
+published last month.
+
+The estimated deal size is $356,808 based on their seat count and the use case
+they described. They specifically mentioned needing the UserProfileService integration
+and 153ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Dmitri Volkov â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on serialization engine scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Cheers,
+Hannah

@@ -1,0 +1,31 @@
+From: michael.brennan@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-08-25 01:44 AM
+Subject: Budget review â€” Finance department Q2
+
+Hey everyone,
+
+Here's the Q2 budget review for the Finance department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $291,691 against a budget of 278ms. The 46% variance is
+primarily driven by the accelerated MessageBroker hiring that was approved mid-quarter.
+Personnel costs came in at 72ms which includes the 55 new hires.
+
+Overages: the authentication module infrastructure line item exceeded budget by 46% due
+to the unplanned scaling requirements for Data Vault. I've worked with Mei Lin
+from Engineering to project the run rate going forward â€” we should budget an
+additional $291,691 per quarter for this category.
+
+Underspend: the MessageBroker consulting budget was only 46% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 46%
+of the total annual budget. The main risk is the authentication module cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Thanks,
+Michael

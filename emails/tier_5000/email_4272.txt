@@ -1,0 +1,34 @@
+From: mei.lin@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-19 04:02 AM
+Subject: Customer feedback digest â€” Integration Hub Q1
+
+Hi,
+
+Here's the quarterly customer feedback digest for Integration Hub. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 44, up 165ms points from last quarter. The improvement
+is driven by the SchedulerService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 6%.
+
+Top feature requests: SchedulerService advanced filtering (44 votes), caching layer
+bulk operations (165ms votes), and enhanced Integration Hub reporting (151ms
+votes). The filtering request aligns with what we heard in the user research study
+Jun Tanaka conducted.
+
+Top complaints: SchedulerService performance during peak hours (44 mentions),
+the caching layer onboarding experience (165ms mentions), and pricing
+transparency (151ms mentions). The performance issue is being addressed
+by Engineering â€” Jun Tanaka expects the fix in v2.1.0.
+
+Churn insights: 44 customers churned this quarter citing SchedulerService
+limitations as the primary reason. The caching layer overhaul on our roadmap directly
+addresses their feedback. 6% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, February 16.
+
+Talk soon,
+Mei

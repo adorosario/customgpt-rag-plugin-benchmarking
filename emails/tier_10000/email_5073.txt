@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-25 09:45 PM
+Subject: Payroll adjustment â€” Friday, August 22 cycle
+
+Hi team,
+
+Several payroll adjustments need to be processed for the Friday, August 22 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 20 employees received approved raises effective Friday, August 22. The
+total monthly payroll impact is $66,816. The largest increase is for Amara Diallo
+whose compensation moves from 198ms to 121ms based on the promotion
+approved in the Q3 review cycle.
+
+New hires: 20 new employees starting on Friday, August 22 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Amara Diallo
+in People Ops has verified the documentation.
+
+Bonus payouts: the ReportingEngine project completion bonus of $66,816 each goes to
+20 team members. These are one-time payments coded to the Engineering department
+budget. Tax withholding will be calculated at the supplemental rate of 44%.
+
+Deduction changes: 20 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from queue processor.
+
+Please approve the batch by September 27 to ensure on-time processing.
+
+Best,
+Michael

@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-10-25 02:09 PM
+Subject: A/B test results â€” AnalyticsDashboard experiment
+
+Hi,
+
+The AnalyticsDashboard A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 93 days with 118ms users in each cohort.
+
+Variant A (control): the existing service mesh flow. Conversion rate of
+278ms with an average task completion time of 93 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified AnalyticsDashboard step.
+Conversion rate of 118ms with task completion time of 278ms seconds.
+This represents a 35% improvement in conversion and 93 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 93 to 118ms
+in the treatment group. Support ticket volume for AnalyticsDashboard related issues
+decreased by 35%. No negative impact on service mesh engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Oluwaseun Adeyemi from Engineering can have this
+deployed by Friday, April 25.
+
+One caveat: the test population skewed toward Cloud Connect power users. We should
+monitor new user behavior closely for the first 93 weeks after full rollout.
+
+Best,
+Liam

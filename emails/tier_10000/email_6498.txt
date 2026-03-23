@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-15 12:24 AM
+Subject: Budget review â€” Finance department Q1
+
+Hi,
+
+Here's the Q1 budget review for the Finance department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $261,112 against a budget of 83ms. The 59% variance is
+primarily driven by the accelerated AuditLog hiring that was approved mid-quarter.
+Personnel costs came in at 416ms which includes the 112 new hires.
+
+Overages: the authentication module infrastructure line item exceeded budget by 59% due
+to the unplanned scaling requirements for Enterprise Suite. I've worked with Elena Vasquez
+from Engineering to project the run rate going forward â€” we should budget an
+additional $261,112 per quarter for this category.
+
+Underspend: the AuditLog consulting budget was only 59% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 59%
+of the total annual budget. The main risk is the authentication module cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Cheers,
+Michael

@@ -1,0 +1,28 @@
+From: ravi.patel@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-07-21 03:46 PM
+Subject: Re: UserProfileService migration to authentication module â€” status update
+
+Good afternoon,
+
+Quick update on the UserProfileService migration to authentication module. We're about 37%
+through the planned work and tracking to finish by Wednesday, June 14.
+
+Completed this week: migrated the core data models, updated the connection pooling
+configuration, and ran the first round of performance comparisons. The new setup is
+showing 130 improvement on read-heavy workloads.
+
+Next steps: migrate the background job processing, update the monitoring dashboards,
+and run the full integration test suite against the new backend. Grace Mwangi is
+handling the monitoring piece.
+
+One blocker: we discovered that the UserProfileService batch processing job uses a feature
+that isn't supported in authentication module yet. I'm evaluating two workarounds and will
+have a recommendation by tomorrow. This might add 498ms days to the
+timeline if we go with the rewrite approach.
+
+Will send another update at end of week.
+
+Talk soon,
+Ravi

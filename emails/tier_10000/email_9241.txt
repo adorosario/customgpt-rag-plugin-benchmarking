@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-09-17 06:54 AM
+Subject: Sprint planning â€” Cloud Connect sprint v2.1.0
+
+Hi all,
+
+Here's the sprint plan for Cloud Connect sprint v2.1.0. Capacity is 31 story
+points with 466ms engineers available this sprint.
+
+Committed stories: the BillingModule integration work carries over from last sprint
+with 72ms points remaining. The new metrics collector API endpoints are
+estimated at 31 points. The bug fix for the BillingModule rendering issue
+is 466ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the metrics collector performance
+optimization that Rachel Nguyen has been scouting. It's estimated at 31 points
+and would improve response time by 46%.
+
+Dependencies: the BillingModule feature requires the API changes that Rachel Nguyen
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The metrics collector work is self-contained.
+
+Risks: Rachel Nguyen is on-call this sprint which historically reduces their available
+capacity by 46%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, August 23. Let me know if the priorities look right.
+
+Talk soon,
+Liam

@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-08-14 02:25 PM
+Subject: A/B test results â€” NotificationEngine experiment
+
+Hey everyone,
+
+The NotificationEngine A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 54 days with 50ms users in each cohort.
+
+Variant A (control): the existing logging pipeline flow. Conversion rate of
+337ms with an average task completion time of 54 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified NotificationEngine step.
+Conversion rate of 50ms with task completion time of 337ms seconds.
+This represents a 9% improvement in conversion and 54 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 54 to 50ms
+in the treatment group. Support ticket volume for NotificationEngine related issues
+decreased by 9%. No negative impact on logging pipeline engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Dmitri Volkov from Engineering can have this
+deployed by Wednesday, March 15.
+
+One caveat: the test population skewed toward Enterprise Suite power users. We should
+monitor new user behavior closely for the first 54 weeks after full rollout.
+
+Thanks,
+Daniel

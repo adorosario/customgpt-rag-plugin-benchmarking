@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-30 03:32 AM
+Subject: Budget review â€” Marketing department Q4
+
+Good afternoon,
+
+Here's the Q4 budget review for the Marketing department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $155,393 against a budget of 193ms. The 46% variance is
+primarily driven by the accelerated NotificationEngine hiring that was approved mid-quarter.
+Personnel costs came in at 334ms which includes the 76 new hires.
+
+Overages: the logging pipeline infrastructure line item exceeded budget by 46% due
+to the unplanned scaling requirements for Data Vault. I've worked with Wei Zhang
+from Engineering to project the run rate going forward â€” we should budget an
+additional $155,393 per quarter for this category.
+
+Underspend: the NotificationEngine consulting budget was only 46% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 46%
+of the total annual budget. The main risk is the logging pipeline cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best,
+Grace

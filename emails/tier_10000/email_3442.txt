@@ -1,0 +1,28 @@
+From: carlos.rivera@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-08-01 06:38 AM
+Subject: Sales engineering request â€” Weyland-Yutani POC
+
+Hey,
+
+Requesting SE support for a proof-of-concept with Weyland-Yutani. This is a $183,628
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Integration Hub can handle 86
+transactions per second with their UserProfileService data format. The test needs to
+run against their staging environment and demonstrate the connection pool capability
+under realistic load.
+
+Timeline: Weyland-Yutani wants the POC completed within 194ms business days
+starting Monday, August 22. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Ravi Patel for the technical configuration and someone from
+the UserProfileService team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q4. Let me know if we can make this timeline work.
+
+Best regards,
+Carlos

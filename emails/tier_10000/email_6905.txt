@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-10-04 07:05 AM
+Subject: Tax planning â€” Q2 estimated payments
+
+Hi team,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the AnalyticsDashboard investment
+deductions.
+
+Federal estimate: $217,491 based on projected taxable income of 66ms.
+This reflects the AnalyticsDashboard depreciation deductions and the R&D tax credit for
+the Data Vault development costs. Sanjay Krishnamurthy from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $217,491 for our primary jurisdiction and 406ms for the
+Sydney office based on the apportionment factors. The Sydney rate change that
+takes effect on Wednesday, February 26 will impact our Q2 estimate by approximately 77
+percent.
+
+International: with the Sydney office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Sanjay Krishnamurthy to handle
+the registration. Setup cost is $217,491 with ongoing compliance costs of
+406ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Wednesday, February 26. I'll prepare the
+payment authorization for your signature by January 5. Underpayment penalties
+start at 13% so timely filing is important.
+
+Talk soon,
+Grace

@@ -1,0 +1,32 @@
+From: patrick.obrien@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-07-10 02:52 PM
+Subject: Re: Workplace safety update â€” APIGateway
+
+Good morning,
+
+Following up on the workplace safety review. The APIGateway assessment is complete
+and here are the findings and required actions.
+
+Office inspections: all 59 floor areas passed the basic safety checklist.
+The caching layer room needs minor improvements â€” the emergency exit signage has
+faded and one fire extinguisher is due for inspection by Monday, May 6. Ananya Desai from
+facilities is handling these items.
+
+Ergonomic assessments: 159ms employees requested desk ergonomic reviews
+this quarter. Common issues include monitor height and chair adjustments. We've
+ordered 59 standing desk converters and 115ms ergonomic chairs based
+on the assessments.
+
+Emergency preparedness: the next fire drill is scheduled for Monday, May 6. All floor
+wardens need to complete the refresher training before then. 12% of wardens
+are current on their certifications.
+
+Incident report: 59 minor incidents were reported this quarter, all resolved
+without injury. The APIGateway area has been flagged for improved lighting, with
+work scheduled for Monday, May 6.
+
+Please remind your teams about the safety hotline and reporting procedures.
+
+Best regards,
+Patrick

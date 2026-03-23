@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-06-19 04:56 PM
+Subject: Sprint planning â€” Analytics Pro sprint v3.8.1
+
+Hi all,
+
+Here's the sprint plan for Analytics Pro sprint v3.8.1. Capacity is 183 story
+points with 128ms engineers available this sprint.
+
+Committed stories: the WebhookDispatcher integration work carries over from last sprint
+with 115ms points remaining. The new connection pool API endpoints are
+estimated at 183 points. The bug fix for the WebhookDispatcher rendering issue
+is 128ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the connection pool performance
+optimization that Grace Mwangi has been scouting. It's estimated at 183 points
+and would improve response time by 16%.
+
+Dependencies: the WebhookDispatcher feature requires the API changes that Grace Mwangi
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The connection pool work is self-contained.
+
+Risks: Grace Mwangi is on-call this sprint which historically reduces their available
+capacity by 16%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Thursday, June 5. Let me know if the priorities look right.
+
+Best,
+Sanjay

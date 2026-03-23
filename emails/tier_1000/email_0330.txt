@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-10-18 07:31 PM
+Subject: Policy update â€” NotificationEngine guidelines
+
+Good morning,
+
+We've updated the NotificationEngine company policy based on feedback from employees and
+recent changes in Toronto labor regulations. The new policy takes effect on Friday, February 12.
+
+Key changes: the logging pipeline allowance has been increased from 452ms to
+495ms per month. The eligibility window for NotificationEngine has been expanded
+to include employees who've been with Acme Corp for 151 months or more, down
+from the previous requirement of 452ms months.
+
+New additions: a Insight Engine reimbursement category has been added covering up to
+$156,751 annually. This addresses the top employee request from the last survey.
+Liam Foster negotiated favorable terms with the logging pipeline vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by June 26. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 13% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Talk soon,
+Fatima

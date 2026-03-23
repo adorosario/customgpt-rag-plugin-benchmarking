@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-10-16 05:12 PM
+Subject: Cash flow forecast â€” Q1
+
+Hi,
+
+Attached is the cash flow forecast for Q1. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $232,097 based on the current AR aging
+and sales pipeline. The Umbrella Inc payment of 462ms is expected by Friday, January 12
+â€” Hannah Goldstein from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the FileStorageService infrastructure
+investment at $232,097. The San Francisco office build-out costs will hit in Q1
+with an estimated total of 476ms. Payroll continues at 462ms
+monthly for our 58-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $232,097 in the second month. This provides 58 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Umbrella Inc deal slips from Q1 to next quarter, we'll
+need to draw on the credit facility for $232,097. I've confirmed the line is
+available. Hannah Goldstein and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Thanks,
+Ananya

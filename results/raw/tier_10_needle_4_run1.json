@@ -1,0 +1,21 @@
+{
+  "tier": 10,
+  "question_id": "needle_4",
+  "question_type": "hard",
+  "run": 1,
+  "question": "When do the remote work policy changes take effect?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about remote work policy changes in the available files. The emails in this directory don't contain any content related to remote work policies.\n\nCould you clarify what you're referring to? For example:\n- Are you asking about a specific company's policy mentioned in a document or email I should have access to?\n- Is this related to your own company's policy changes?",
+  "time_seconds": 35.41,
+  "num_turns": 4,
+  "cost_usd": 0.08383515,
+  "input_tokens": 6,
+  "cache_creation_tokens": 11779,
+  "cache_read_tokens": 103203,
+  "output_tokens": 579,
+  "total_tokens": 115567,
+  "duration_api_ms": 22739,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

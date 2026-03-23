@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-10-17 03:58 AM
+Subject: Customer feedback digest â€” Analytics Pro Q1
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Analytics Pro. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 10, up 387ms points from last quarter. The improvement
+is driven by the CacheLayer launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 40%.
+
+Top feature requests: CacheLayer advanced filtering (10 votes), config manager
+bulk operations (387ms votes), and enhanced Analytics Pro reporting (187ms
+votes). The filtering request aligns with what we heard in the user research study
+Yuki Sato conducted.
+
+Top complaints: CacheLayer performance during peak hours (10 mentions),
+the config manager onboarding experience (387ms mentions), and pricing
+transparency (187ms mentions). The performance issue is being addressed
+by Engineering â€” Yuki Sato expects the fix in v5.0.0-beta.
+
+Churn insights: 10 customers churned this quarter citing CacheLayer
+limitations as the primary reason. The config manager overhaul on our roadmap directly
+addresses their feedback. 40% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Thursday, March 19.
+
+Regards,
+Sanjay

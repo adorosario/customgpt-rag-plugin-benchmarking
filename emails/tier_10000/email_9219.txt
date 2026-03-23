@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-10-05 08:58 AM
+Subject: Policy update â€” UserProfileService guidelines
+
+Hello,
+
+We've updated the UserProfileService company policy based on feedback from employees and
+recent changes in Tokyo labor regulations. The new policy takes effect on Thursday, January 3.
+
+Key changes: the authentication module allowance has been increased from 57ms to
+259ms per month. The eligibility window for UserProfileService has been expanded
+to include employees who've been with Acme Corp for 54 months or more, down
+from the previous requirement of 57ms months.
+
+New additions: a Sync Platform reimbursement category has been added covering up to
+$32,627 annually. This addresses the top employee request from the last survey.
+Carlos Rivera negotiated favorable terms with the authentication module vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by April 12. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 17% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best,
+Fatima

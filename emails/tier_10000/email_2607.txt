@@ -1,0 +1,27 @@
+From: aisha.okafor@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-08 04:21 AM
+Subject: Pipeline update â€” Stark Industries deal status
+
+Good afternoon,
+
+Quick update on the Stark Industries opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $111,097 for the Insight Engine deployment. The
+decision timeline is end of Q3. Their main concern remains the integration
+with their existing MessageBroker infrastructure, which is why I've looped in Ananya Desai
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Stark Industries is also evaluating one other vendor but our
+Insight Engine demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our caching layer capability.
+
+Next steps: technical architecture session on Friday, May 17, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 41%.
+
+Talk soon,
+Aisha

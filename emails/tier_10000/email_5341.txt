@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-07-15 12:05 AM
+Subject: Sprint planning â€” Enterprise Suite sprint v5.0.0-beta
+
+Good morning,
+
+Here's the sprint plan for Enterprise Suite sprint v5.0.0-beta. Capacity is 151 story
+points with 154ms engineers available this sprint.
+
+Committed stories: the AuditLog integration work carries over from last sprint
+with 492ms points remaining. The new metrics collector API endpoints are
+estimated at 151 points. The bug fix for the AuditLog rendering issue
+is 154ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the metrics collector performance
+optimization that Amara Diallo has been scouting. It's estimated at 151 points
+and would improve response time by 17%.
+
+Dependencies: the AuditLog feature requires the API changes that Amara Diallo
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The metrics collector work is self-contained.
+
+Risks: Amara Diallo is on-call this sprint which historically reduces their available
+capacity by 17%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, October 27. Let me know if the priorities look right.
+
+Talk soon,
+Sanjay

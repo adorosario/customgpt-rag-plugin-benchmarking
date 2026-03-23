@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: derek.morrison@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-18 08:26 AM
+Subject: Financial close checklist â€” Q1
+
+Hello,
+
+The Q1 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Sync Platform invoices must be issued by Monday, March 9. Any revenue recognition
+adjustments for the ReportingEngine contracts need supporting documentation uploaded
+to service mesh. Sarah Chen from Sales must confirm final deal amounts by October 27.
+
+Expenses: all expense reports for Q1 must be submitted by Monday, March 9. The
+ReportingEngine vendor invoices totaling $273,287 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, ReportingEngine subscription costs,
+and the service mesh usage charges by Monday, March 9. Any non-standard accruals above
+267ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, ReportingEngine account reconciliation, and
+inter-company balances must be completed by Monday, March 9. Sarah Chen is handling the
+bank rec. I'll take the inter-company items since they involve the Sydney entity.
+
+Target: books closed within 177 business days of quarter end. Final reporting
+package to leadership by Monday, March 9.
+
+Regards,
+Grace

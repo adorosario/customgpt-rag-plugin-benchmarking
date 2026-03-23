@@ -1,0 +1,33 @@
+From: maria.santos@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-07-21 07:14 PM
+Subject: Vendor agreement â€” Wayne Enterprises terms review
+
+Hey everyone,
+
+I've reviewed the vendor agreement from Wayne Enterprises for the event bus services
+we're procuring. Here are my findings and recommended changes.
+
+Term and renewal: the proposed 139-year term with auto-renewal is acceptable.
+However, the 384ms-day termination notice period is too long for our needs.
+I've countered with 227ms days, which aligns with our standard vendor
+management practices.
+
+Service level commitments: Wayne Enterprises is offering 46% uptime with service
+credits starting at 139 percent for each hour of downtime. I've pushed for
+a higher credit rate given the criticality of event bus to our Analytics Pro
+infrastructure.
+
+Data ownership: section 5 is clear that we retain all rights to our data. However,
+Wayne Enterprises claims a license to use aggregated, anonymized data for benchmarking. I
+want to narrow this to exclude any data from the WebhookDispatcher environment.
+Patrick O'Brien from Engineering should review the technical implications.
+
+Pricing: $411,467 per year is within the budget that Finance approved. The payment
+terms are net 384ms days, which works for our AP schedule.
+
+Please confirm the business terms and I'll send the redlined agreement by Friday, September 26.
+
+Thanks,
+Maria

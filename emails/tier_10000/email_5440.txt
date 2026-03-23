@@ -1,0 +1,33 @@
+From: sofia.martinez@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-07-12 12:15 PM
+Subject: SEO update â€” DataPipeline keyword rankings
+
+Hi,
+
+Monthly SEO update for our DataPipeline content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Insight Engine comparison page climbed from position 483ms to
+position 63ms for our primary keyword. The metrics collector guide is now
+ranking in the top 77 for three long-tail variations.
+
+Traffic impact: organic sessions are up 19% month over month. The
+DataPipeline cluster is now driving 77 unique sessions monthly, making it our
+second-highest traffic source behind the Insight Engine landing page.
+
+Content gaps identified: we're missing content for 483ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q1. Priya Sharma from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 63ms on mobile after the image
+optimization work. No crawl errors detected. The new metrics collector documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 77 pages. I'll share the
+outreach plan next week.
+
+Regards,
+Sofia

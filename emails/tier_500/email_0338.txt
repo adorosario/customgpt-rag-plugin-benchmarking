@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-07-02 03:38 AM
+Subject: Customer feedback digest â€” Insight Engine Q4
+
+Hey everyone,
+
+Here's the quarterly customer feedback digest for Insight Engine. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 118, up 366ms points from last quarter. The improvement
+is driven by the PaymentGateway launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 30%.
+
+Top feature requests: PaymentGateway advanced filtering (118 votes), event bus
+bulk operations (366ms votes), and enhanced Insight Engine reporting (221ms
+votes). The filtering request aligns with what we heard in the user research study
+Liam Foster conducted.
+
+Top complaints: PaymentGateway performance during peak hours (118 mentions),
+the event bus onboarding experience (366ms mentions), and pricing
+transparency (221ms mentions). The performance issue is being addressed
+by Engineering â€” Liam Foster expects the fix in v5.0.0-beta.
+
+Churn insights: 118 customers churned this quarter citing PaymentGateway
+limitations as the primary reason. The event bus overhaul on our roadmap directly
+addresses their feedback. 30% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Tuesday, June 15.
+
+Thanks,
+Mei

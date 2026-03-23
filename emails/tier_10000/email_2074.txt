@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-08-23 10:20 PM
+Subject: Sales engineering request â€” Globex POC
+
+Hi all,
+
+Requesting SE support for a proof-of-concept with Globex. This is a $154,644
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Sync Platform can handle 160
+transactions per second with their CacheLayer data format. The test needs to
+run against their staging environment and demonstrate the caching layer capability
+under realistic load.
+
+Timeline: Globex wants the POC completed within 385ms business days
+starting Thursday, October 5. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Liam Foster for the technical configuration and someone from
+the CacheLayer team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q1. Let me know if we can make this timeline work.
+
+Thanks,
+Dmitri

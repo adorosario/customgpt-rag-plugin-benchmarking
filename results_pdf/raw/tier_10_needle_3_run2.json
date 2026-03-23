@@ -1,0 +1,21 @@
+{
+  "tier": 10,
+  "question_id": "needle_3",
+  "question_type": "hard",
+  "run": 2,
+  "question": "What database did Engineering approve migrating to, and on what date?",
+  "model": "claude-sonnet-4-6",
+  "response": "The PDF files in this directory don't contain information about a specific database migration approved by Engineering with a date. The emails only mention \"data migration is expected to complete within the next two weeks\" as status updates, without specifying which database or an approval date.\n\nCould you provide more context about where this information might be \u00e2\u20ac\u201d for example, a specific email, document, or another directory?",
+  "time_seconds": 74.4,
+  "num_turns": 3,
+  "cost_usd": 0.32827495,
+  "input_tokens": 5,
+  "cache_creation_tokens": 29247,
+  "cache_read_tokens": 57135,
+  "output_tokens": 468,
+  "total_tokens": 86855,
+  "duration_api_ms": 45982,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

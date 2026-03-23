@@ -1,0 +1,33 @@
+From: kwame.asante@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-08-30 08:03 PM
+Subject: D&I initiative update â€” Q1
+
+Hey,
+
+Here's the quarterly update on our Diversity and Inclusion initiatives. We're
+making meaningful progress on the goals set at the beginning of the year.
+
+Hiring diversity: 27% of candidates in our pipeline this quarter came from
+underrepresented backgrounds, up from 18 percent last quarter. The
+partnership with Soylent Corp job board has been a strong contributor. Kwame Asante has
+been leading the sourcing strategy.
+
+ERG activity: the SearchIndex employee resource group hosted 18 events
+this quarter with an average attendance of 326ms employees. The mentorship
+circles launched in Q1 have paired 251ms mentors with mentees
+across Product departments.
+
+Training: 27% of managers have completed the inclusive leadership training
+program. We're on track to reach 18 percent completion by Thursday, May 19. The
+feedback ratings average 251ms out of 5.
+
+Compensation equity: the annual pay equity audit is scheduled for Thursday, May 19. We'll
+be reviewing compensation data across 18 dimensions to identify and
+address any gaps.
+
+Full report will be shared at the next all-hands meeting.
+
+Cheers,
+Kwame

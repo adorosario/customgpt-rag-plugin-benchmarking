@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-11-08 09:31 PM
+Subject: Press release draft â€” Analytics Pro announcement
+
+Hi all,
+
+The press release for the Analytics Pro announcement is ready for internal review. I've
+incorporated feedback from Wei Zhang and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the AnalyticsDashboard capability and positions Acme Corp as a leader
+in the metrics collector space. We're leading with the 199 performance improvement
+stat and the Tyrell Corp customer quote.
+
+Distribution plan: wire service distribution on Friday, December 1, followed by targeted
+outreach to our 326ms media contacts in the industry. I've secured a briefing
+with AnalyticsDashboard Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Analytics Pro landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 199-hour cadence on launch day.
+
+Embargo: the release is under embargo until Friday, December 1 at 9 AM ET. Please don't share
+details externally before then. Wei Zhang has the full distribution list.
+
+Review deadline is Friday, December 1. Please send edits as comments in the doc.
+
+Regards,
+Sofia

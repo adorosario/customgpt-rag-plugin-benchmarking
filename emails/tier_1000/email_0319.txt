@@ -1,0 +1,33 @@
+From: michael.brennan@acmecorp.com
+To: elena.vasquez@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-21 07:21 AM
+Subject: Tax planning â€” Q2 estimated payments
+
+Good afternoon,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the BillingModule investment
+deductions.
+
+Federal estimate: $368,308 based on projected taxable income of 307ms.
+This reflects the BillingModule depreciation deductions and the R&D tax credit for
+the Enterprise Suite development costs. Grace Mwangi from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $368,308 for our primary jurisdiction and 368ms for the
+Toronto office based on the apportionment factors. The Toronto rate change that
+takes effect on Tuesday, March 2 will impact our Q2 estimate by approximately 17
+percent.
+
+International: with the Toronto office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Grace Mwangi to handle
+the registration. Setup cost is $368,308 with ongoing compliance costs of
+368ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Tuesday, March 2. I'll prepare the
+payment authorization for your signature by September 4. Underpayment penalties
+start at 25% so timely filing is important.
+
+Talk soon,
+Michael

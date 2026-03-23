@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-24 05:07 PM
+Subject: Re: User research findings â€” AnalyticsDashboard
+
+Hey everyone,
+
+Sharing the findings from the AnalyticsDashboard user research study. We interviewed
+48 users and ran usability tests with 287ms participants over the
+last two weeks.
+
+Key insight 1: users find the caching layer workflow confusing â€” 19% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between AnalyticsDashboard and the main Insight Engine dashboard.
+
+Key insight 2: power users want more AnalyticsDashboard customization options. They're
+currently using workarounds that involve 48 extra steps. The most requested
+feature is the ability to create custom caching layer templates.
+
+Key insight 3: new users consistently miss the AnalyticsDashboard feature entirely.
+Discovery is poor â€” only 19% of new users try the feature within their first
+48 days. Amara Diallo suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the caching layer navigation flow, add the template
+feature to the Q4 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 19% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Best,
+Liam

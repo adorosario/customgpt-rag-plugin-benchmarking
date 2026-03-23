@@ -1,0 +1,29 @@
+From: grace.mwangi@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-07-31 12:19 AM
+Subject: Re: Expense report flagged â€” WebhookDispatcher charges
+
+Hey everyone,
+
+I noticed some items on the WebhookDispatcher expense report submitted by Maria Santos
+that need clarification before I can approve them.
+
+The config manager subscription charge of $171,579 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+190ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Massive Dynamic dinner on Wednesday, May 27 for $171,579 exceeds our per-person meal
+reimbursement limit of 190ms. If this was a client entertainment expense,
+it should be coded to the client development budget under WebhookDispatcher rather than
+general T&E. 57 attendees at that amount puts us at 487ms per
+person which is within the client entertainment policy.
+
+The remaining 57 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 190ms business days after approval.
+
+Please resubmit with the corrections by Wednesday, May 27 so we can keep things on track.
+
+Regards,
+Grace

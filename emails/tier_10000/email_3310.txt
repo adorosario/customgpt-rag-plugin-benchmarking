@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-20 07:58 AM
+Subject: Cash flow forecast â€” Q2
+
+Hey everyone,
+
+Attached is the cash flow forecast for Q2. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $74,441 based on the current AR aging
+and sales pipeline. The Cyberdyne payment of 425ms is expected by Monday, March 28
+â€” Robert Kimura from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the BillingModule infrastructure
+investment at $74,441. The Sydney office build-out costs will hit in Q2
+with an estimated total of 489ms. Payroll continues at 425ms
+monthly for our 176-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $74,441 in the second month. This provides 176 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Cyberdyne deal slips from Q2 to next quarter, we'll
+need to draw on the credit facility for $74,441. I've confirmed the line is
+available. Robert Kimura and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Regards,
+Ananya

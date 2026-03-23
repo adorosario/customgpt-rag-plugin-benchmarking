@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-06-23 12:48 AM
+Subject: Email marketing performance â€” Q4 review
+
+Hey,
+
+Here's the email marketing performance review for Q4. Overall we're trending
+in the right direction but there are a few areas to optimize.
+
+List health: our subscriber base grew 57% to 211ms contacts. Bounce
+rate is at 59 percent which is within healthy range. We ran a re-engagement
+campaign that recovered 100ms previously inactive subscribers.
+
+Campaign performance: the Integration Hub launch sequence was our top performer with a
+57% open rate. The AnalyticsDashboard technical series also did well, driving 59
+clicks to the resource hub. Lower performers were the generic newsletter sends â€” we
+should consider more targeted segmentation.
+
+Revenue attribution: email-sourced pipeline totals $138,274 this quarter, with
+211ms in closed-won revenue. The Cyberdyne deal originated from a nurture
+sequence touchpoint.
+
+Plans for next quarter: implementing behavioral triggers for the connection pool
+content, A/B testing send times for the Integration Hub audience, and building a new
+onboarding sequence for trial sign-ups. Jun Tanaka will help with the automation
+setup.
+
+Regards,
+James

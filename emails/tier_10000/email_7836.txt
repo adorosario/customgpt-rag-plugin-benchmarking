@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-09-17 08:29 PM
+Subject: Revenue recognition â€” Enterprise Suite contracts
+
+Hi team,
+
+I need to walk through the revenue recognition treatment for the new Enterprise Suite
+contracts signed this quarter. We have 148 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Cyberdyne contract bundles Enterprise Suite licenses with
+connection pool implementation services. I've determined the standalone selling prices
+and allocated $253,774 to the license component and 209ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 148-month implementation period.
+
+Variable consideration: 129ms contracts include performance bonuses tied to
+MessageBroker uptime metrics. Using the expected value method, I've estimated
+$253,774 in variable consideration based on our historical performance of
+48% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Cyberdyne amendment added connection pool capacity at
+$253,774 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Daniel Park from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Wednesday, March 19.
+
+Regards,
+Grace

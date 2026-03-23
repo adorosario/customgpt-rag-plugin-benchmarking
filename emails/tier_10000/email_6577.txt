@@ -1,0 +1,28 @@
+From: carlos.rivera@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-07-19 09:49 PM
+Subject: New lead â€” Soylent Corp inbound request
+
+Hey everyone,
+
+We received an inbound request from Soylent Corp through the website today. They're
+a 141-employee company in the NotificationEngine space and are looking for a
+Analytics Pro solution.
+
+Initial qualification: they have budget allocated for Q1, their current
+contract with their existing vendor expires on Monday, March 23, and the decision maker is
+their VP of Operations. They found us through the connection pool whitepaper we
+published last month.
+
+The estimated deal size is $269,888 based on their seat count and the use case
+they described. They specifically mentioned needing the NotificationEngine integration
+and 261ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Dmitri Volkov â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on connection pool scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Thanks,
+Carlos

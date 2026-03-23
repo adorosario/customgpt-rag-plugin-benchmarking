@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: maria.santos@acmecorp.com
+Date: 2025-07-20 01:42 AM
+Subject: Financial close checklist â€” Q4
+
+Hi,
+
+The Q4 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Cloud Connect invoices must be issued by Thursday, May 7. Any revenue recognition
+adjustments for the MessageBroker contracts need supporting documentation uploaded
+to service mesh. Sanjay Krishnamurthy from Sales must confirm final deal amounts by March 12.
+
+Expenses: all expense reports for Q4 must be submitted by Thursday, May 7. The
+MessageBroker vendor invoices totaling $375,034 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, MessageBroker subscription costs,
+and the service mesh usage charges by Thursday, May 7. Any non-standard accruals above
+221ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, MessageBroker account reconciliation, and
+inter-company balances must be completed by Thursday, May 7. Sanjay Krishnamurthy is handling the
+bank rec. I'll take the inter-company items since they involve the San Francisco entity.
+
+Target: books closed within 32 business days of quarter end. Final reporting
+package to leadership by Thursday, May 7.
+
+Best regards,
+Grace

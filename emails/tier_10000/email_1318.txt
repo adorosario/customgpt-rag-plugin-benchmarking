@@ -1,0 +1,30 @@
+From: rachel.nguyen@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-08-16 07:48 AM
+Subject: Hiring update â€” Engineering open positions
+
+Hi,
+
+Here's the weekly hiring update for the Engineering department. We're making progress
+on several key roles.
+
+Active searches: the SchedulerService role has 87 candidates in the pipeline with
+356ms scheduled for final round interviews this week. The load balancer
+position has been open for 155ms days and we're seeing fewer qualified
+applicants than expected â€” I'd like to discuss expanding our sourcing channels.
+
+Offers: we extended an offer to a strong candidate for the Priya Sharma backfill
+role. Their expected start date is Thursday, July 16 pending background check completion.
+Compensation is at $109,055 which is within the approved band.
+
+Upcoming: the Data Vault team has submitted a headcount request for 87 new
+positions in Q1. I'm drafting the job descriptions and will share them for
+review by Thursday, July 16.
+
+Interview load: we conducted 155ms interviews last week across all open
+roles. Please remind your team leads that timely interviewer feedback is critical â€”
+we're losing candidates due to slow response times on 57% of our processes.
+
+Regards,
+Rachel

@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-24 05:47 AM
+Subject: Feature spec â€” MessageBroker integration
+
+Hi all,
+
+The feature spec for the MessageBroker integration is ready for review. This is
+targeting the v2.7.3 release in Q1.
+
+Problem statement: 36% of our enterprise prospects cite the lack of
+MessageBroker integration as a blocker. The current workaround through the
+service mesh API is unreliable and requires 87 hours of custom development
+from customers.
+
+Proposed solution: native MessageBroker integration with bi-directional sync.
+Users configure the connection through the Insight Engine settings page and data
+flows automatically. The sync runs every 427ms minutes with conflict
+resolution handled by our algorithm.
+
+Scope: phase 1 covers read and write operations for the core MessageBroker objects.
+Phase 2 adds real-time webhooks and custom field mapping. Grace Mwangi from Engineering
+estimates 87 sprints for phase 1 and 427ms for phase 2.
+
+Success metrics: 87 enterprise customers adopt the integration within 90 days
+of launch, MessageBroker related support tickets decrease by 36%, and the
+feature contributes to $272,141 in new ARR.
+
+Please review the full spec in Confluence and leave comments by Thursday, July 18.
+
+Thanks,
+Mei

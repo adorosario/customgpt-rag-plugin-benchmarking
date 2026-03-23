@@ -1,0 +1,29 @@
+From: grace.mwangi@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-11-04 01:23 PM
+Subject: Re: Expense report flagged â€” NotificationEngine charges
+
+Hi,
+
+I noticed some items on the NotificationEngine expense report submitted by Patrick O'Brien
+that need clarification before I can approve them.
+
+The connection pool subscription charge of $365,490 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+303ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Weyland-Yutani dinner on Tuesday, September 6 for $365,490 exceeds our per-person meal
+reimbursement limit of 303ms. If this was a client entertainment expense,
+it should be coded to the client development budget under NotificationEngine rather than
+general T&E. 132 attendees at that amount puts us at 226ms per
+person which is within the client entertainment policy.
+
+The remaining 132 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 303ms business days after approval.
+
+Please resubmit with the corrections by Tuesday, September 6 so we can keep things on track.
+
+Talk soon,
+Grace

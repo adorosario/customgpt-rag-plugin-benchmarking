@@ -1,0 +1,30 @@
+From: robert.kimura@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-27 12:44 AM
+Subject: Re: Expense report flagged â€” NotificationEngine charges
+
+Good afternoon,
+
+I noticed some items on the NotificationEngine expense report submitted by Priya Sharma
+that need clarification before I can approve them.
+
+The metrics collector subscription charge of $143,159 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+98ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Hooli dinner on Thursday, March 10 for $143,159 exceeds our per-person meal
+reimbursement limit of 98ms. If this was a client entertainment expense,
+it should be coded to the client development budget under NotificationEngine rather than
+general T&E. 161 attendees at that amount puts us at 395ms per
+person which is within the client entertainment policy.
+
+The remaining 161 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 98ms business days after approval.
+
+Please resubmit with the corrections by Thursday, March 10 so we can keep things on track.
+
+Regards,
+Robert

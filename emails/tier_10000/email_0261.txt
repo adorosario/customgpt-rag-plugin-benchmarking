@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-07-23 03:01 AM
+Subject: Sprint planning â€” Data Vault sprint v5.0.0-beta
+
+Good afternoon,
+
+Here's the sprint plan for Data Vault sprint v5.0.0-beta. Capacity is 106 story
+points with 216ms engineers available this sprint.
+
+Committed stories: the AuditLog integration work carries over from last sprint
+with 398ms points remaining. The new serialization engine API endpoints are
+estimated at 106 points. The bug fix for the AuditLog rendering issue
+is 216ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the serialization engine performance
+optimization that Fatima Al-Rashid has been scouting. It's estimated at 106 points
+and would improve response time by 46%.
+
+Dependencies: the AuditLog feature requires the API changes that Fatima Al-Rashid
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The serialization engine work is self-contained.
+
+Risks: Fatima Al-Rashid is on-call this sprint which historically reduces their available
+capacity by 46%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Thursday, May 8. Let me know if the priorities look right.
+
+Cheers,
+Daniel

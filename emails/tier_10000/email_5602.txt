@@ -1,0 +1,35 @@
+From: mei.lin@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-14 05:24 AM
+Subject: Re: Cloud Connect metrics review â€” Q1
+
+Hey everyone,
+
+Here are the Cloud Connect metrics for Q1. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 125 monthly active users, up 28% quarter over quarter. The
+DataPipeline feature launch drove a spike in activation â€” 377ms new users
+tried it in the first week. Retention for DataPipeline users is 82ms
+at 30 days versus 125 percent for non-users.
+
+Engagement: average session duration is 125 minutes. The load balancer workflow
+sees the highest engagement with users spending 82ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 377ms features
+per session on average, up from 125 last quarter.
+
+Revenue metrics: Cloud Connect ARR is at $442,757 with 28% growth quarter over
+quarter. Net revenue retention is 82ms driven by DataPipeline upsells.
+125 customers expanded their contracts this quarter, with Oluwaseun Adeyemi from Sales
+leading the expansion conversations.
+
+Areas of concern: the load balancer onboarding funnel has a 28% drop-off at
+step 125. I've scheduled a design sprint for next week to address this.
+Support ticket volume for DataPipeline increased 125 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Best regards,
+Mei

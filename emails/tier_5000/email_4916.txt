@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-08-13 08:18 PM
+Subject: Social media strategy â€” Q2
+
+Hey everyone,
+
+Presenting the social media strategy refresh for Q2. Based on our Enterprise Suite
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our WebhookDispatcher posts are averaging 103 impressions and 5% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 5% educational content about load balancer topics, 103
+percent product highlights, and the rest for company culture and employee spotlights.
+Marcus Thompson will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Enterprise Suite use cases and answer audience questions. First session on Friday, January 16 featuring
+Marcus Thompson.
+
+Budget: $448,566 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 281ms new followers and 129ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Talk soon,
+Laura

@@ -1,0 +1,34 @@
+From: daniel.park@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-18 11:53 AM
+Subject: Customer feedback digest â€” Integration Hub Q2
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Integration Hub. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 200, up 316ms points from last quarter. The improvement
+is driven by the ReportingEngine launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 14%.
+
+Top feature requests: ReportingEngine advanced filtering (200 votes), logging pipeline
+bulk operations (316ms votes), and enhanced Integration Hub reporting (182ms
+votes). The filtering request aligns with what we heard in the user research study
+Yuki Sato conducted.
+
+Top complaints: ReportingEngine performance during peak hours (200 mentions),
+the logging pipeline onboarding experience (316ms mentions), and pricing
+transparency (182ms mentions). The performance issue is being addressed
+by Engineering â€” Yuki Sato expects the fix in v3.8.1.
+
+Churn insights: 200 customers churned this quarter citing ReportingEngine
+limitations as the primary reason. The logging pipeline overhaul on our roadmap directly
+addresses their feedback. 14% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Thursday, March 22.
+
+Thanks,
+Daniel

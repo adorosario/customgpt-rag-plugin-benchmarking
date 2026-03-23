@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-09-11 09:32 AM
+Subject: Policy update â€” AnalyticsDashboard guidelines
+
+Hello,
+
+We've updated the AnalyticsDashboard company policy based on feedback from employees and
+recent changes in London labor regulations. The new policy takes effect on Thursday, May 20.
+
+Key changes: the caching layer allowance has been increased from 211ms to
+185ms per month. The eligibility window for AnalyticsDashboard has been expanded
+to include employees who've been with Acme Corp for 45 months or more, down
+from the previous requirement of 211ms months.
+
+New additions: a Data Vault reimbursement category has been added covering up to
+$133,346 annually. This addresses the top employee request from the last survey.
+Patrick O'Brien negotiated favorable terms with the caching layer vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by August 20. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 14% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Talk soon,
+Rachel

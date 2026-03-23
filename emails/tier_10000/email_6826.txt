@@ -1,0 +1,32 @@
+From: patrick.obrien@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-08-21 01:01 AM
+Subject: Training program â€” SearchIndex certification
+
+Hi all,
+
+We're launching a new SearchIndex certification training program for interested
+employees. This is part of our learning and development investment for Q2.
+
+Program details: the course runs for 39 weeks and covers logging pipeline
+fundamentals through advanced topics. Sessions are held twice a week for 467ms
+hours each. Dmitri Volkov from the Marketing team will facilitate the hands-on labs.
+
+Eligibility: open to all employees. Priority enrollment goes to the Marketing and
+Engineering teams since the certification is directly relevant to their roles. We
+have 229ms spots available for the first cohort.
+
+Cost: Acme Corp covers 17% of the certification exam fee upon course
+completion. The total investment per employee is $308,250 including materials and
+exam vouchers.
+
+Commitment: participants are expected to dedicate 39 hours per week to
+coursework outside of the live sessions. Managers must approve the time commitment
+for their reports.
+
+Registration opens on Thursday, September 4 and closes when spots are filled. Sign up through
+the logging pipeline learning portal.
+
+Best,
+Patrick

@@ -1,0 +1,27 @@
+From: hannah.goldstein@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-06 04:08 PM
+Subject: Pipeline update â€” Massive Dynamic deal status
+
+Hello,
+
+Quick update on the Massive Dynamic opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $487,008 for the Cloud Connect deployment. The
+decision timeline is end of Q1. Their main concern remains the integration
+with their existing CacheLayer infrastructure, which is why I've looped in Mei Lin
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Massive Dynamic is also evaluating one other vendor but our
+Cloud Connect demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our queue processor capability.
+
+Next steps: technical architecture session on Thursday, January 28, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 33%.
+
+Thanks,
+Hannah

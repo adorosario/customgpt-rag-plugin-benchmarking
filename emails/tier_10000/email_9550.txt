@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-09-05 07:25 PM
+Subject: Vendor payment schedule â€” Q1
+
+Hi team,
+
+Here's the vendor payment schedule for Q1. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Stark Industries invoice for $259,993 is due on Tuesday, September 7 with a
+37% early payment discount if we pay within 171 days. I recommend
+taking the discount â€” it saves us 421ms. The AuthService annual
+license renewal of 361ms is due Tuesday, September 7 with no discount available.
+
+Standard schedule: 171 vendor invoices totaling $259,993 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-361ms terms with payments going out every 171 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The event bus vendor
+overbilled us by $259,993 on the AuthService usage charges. James Oduya is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q1 are projected at $259,993. This
+is 37% higher than last quarter due to the AuthService infrastructure
+investment and the Tokyo office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Regards,
+Ananya

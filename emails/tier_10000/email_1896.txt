@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-10-26 10:02 AM
+Subject: Beta program update â€” Analytics Pro v3.2.2
+
+Good morning,
+
+Quick update on the Analytics Pro v3.2.2 beta program. We're 150 weeks into
+the beta period with 323ms customers participating.
+
+Usage data: 15% of beta participants have activated the new BillingModule
+feature. Average daily usage is 150 sessions per user. The event bus
+workflow is being used by 396ms of participants, which exceeds our
+adoption target of 323ms.
+
+Feedback summary: overall sentiment is positive. The top 150 pieces of praise
+relate to the BillingModule speed improvement and the new event bus interface.
+The top 323ms complaints are about the BillingModule configuration complexity
+and a confusing error message in the event bus flow.
+
+Bugs found: 150 bugs reported, of which 323ms are critical. Yuki Sato
+from Engineering has fixed 396ms of the critical bugs. The remaining one
+is related to the BillingModule edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Thursday, April 11. The GA release is targeted for 150 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Thursday, April 11 to finalize the GA scope.
+
+Best regards,
+Mei

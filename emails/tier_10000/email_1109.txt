@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-06-07 04:10 PM
+Subject: Policy update â€” AnalyticsDashboard guidelines
+
+Hi all,
+
+We've updated the AnalyticsDashboard company policy based on feedback from employees and
+recent changes in Tokyo labor regulations. The new policy takes effect on Thursday, April 27.
+
+Key changes: the connection pool allowance has been increased from 127ms to
+85ms per month. The eligibility window for AnalyticsDashboard has been expanded
+to include employees who've been with Acme Corp for 16 months or more, down
+from the previous requirement of 127ms months.
+
+New additions: a Integration Hub reimbursement category has been added covering up to
+$170,192 annually. This addresses the top employee request from the last survey.
+Sanjay Krishnamurthy negotiated favorable terms with the connection pool vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by December 5. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 11% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best regards,
+Fatima

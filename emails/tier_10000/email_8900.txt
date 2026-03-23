@@ -1,0 +1,29 @@
+From: robert.kimura@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-09-12 10:43 PM
+Subject: Re: Expense report flagged â€” AuditLog charges
+
+Hi,
+
+I noticed some items on the AuditLog expense report submitted by Alex Chen
+that need clarification before I can approve them.
+
+The event bus subscription charge of $290,419 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+228ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Wayne Enterprises dinner on Friday, June 14 for $290,419 exceeds our per-person meal
+reimbursement limit of 228ms. If this was a client entertainment expense,
+it should be coded to the client development budget under AuditLog rather than
+general T&E. 131 attendees at that amount puts us at 365ms per
+person which is within the client entertainment policy.
+
+The remaining 131 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 228ms business days after approval.
+
+Please resubmit with the corrections by Friday, June 14 so we can keep things on track.
+
+Best regards,
+Robert

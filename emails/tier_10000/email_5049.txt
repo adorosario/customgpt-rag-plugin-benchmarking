@@ -1,0 +1,29 @@
+From: fatima.al-rashid@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-10-29 06:49 PM
+Subject: Policy update â€” NotificationEngine guidelines
+
+Good afternoon,
+
+We've updated the NotificationEngine company policy based on feedback from employees and
+recent changes in Sydney labor regulations. The new policy takes effect on Monday, May 7.
+
+Key changes: the service mesh allowance has been increased from 450ms to
+227ms per month. The eligibility window for NotificationEngine has been expanded
+to include employees who've been with Acme Corp for 12 months or more, down
+from the previous requirement of 450ms months.
+
+New additions: a Analytics Pro reimbursement category has been added covering up to
+$413,375 annually. This addresses the top employee request from the last survey.
+Oluwaseun Adeyemi negotiated favorable terms with the service mesh vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by August 17. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 49% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Thanks,
+Fatima

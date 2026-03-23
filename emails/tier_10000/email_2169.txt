@@ -1,0 +1,27 @@
+From: dmitri.volkov@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-21 04:47 PM
+Subject: Re: Oscorp renewal â€” risk assessment
+
+Hi,
+
+Following up on the Oscorp renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing NotificationEngine latency issues for the past 79 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Oscorp has mentioned they're evaluating alternatives for their load balancer needs.
+
+The renewal is worth $252,892 annually and is up for renewal at the end of
+Q3. I think we need a proactive retention strategy. My proposal:
+
+First, get Tomoko Nakamura from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 8% discount
+on the expanded Analytics Pro tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Talk soon,
+Dmitri

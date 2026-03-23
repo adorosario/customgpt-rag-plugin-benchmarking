@@ -1,0 +1,28 @@
+From: marcus.thompson@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-08-03 05:32 AM
+Subject: Load testing results â€” WebhookDispatcher v5.0.0-beta
+
+Good morning,
+
+Sharing the load testing results for WebhookDispatcher v5.0.0-beta ahead of next week's
+release. We tested at 2x and 5x current peak traffic levels.
+
+At 2x load: all endpoints stayed within SLA. P99 latency for the logging pipeline
+endpoint was 227ms, well under our 379ms target. No errors
+observed across the full test duration.
+
+At 5x load: the WebhookDispatcher service held up but the logging pipeline started showing
+degradation at around 3.5x. Error rate climbed to 6% and response times
+increased significantly. The bottleneck appears to be the database connection pool
+â€” we max out at the configured limit.
+
+Recommendation: we're safe for the near-term growth projections. For the 144
+milestone we're targeting in Q4, we'll need to increase the connection pool size
+and potentially add a read replica. Alex Chen is putting together a capacity
+planning proposal.
+
+Full report with graphs is attached.
+
+Cheers,
+Marcus

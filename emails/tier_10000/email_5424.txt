@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-11-22 11:38 PM
+Subject: Press release draft â€” Analytics Pro announcement
+
+Hey everyone,
+
+The press release for the Analytics Pro announcement is ready for internal review. I've
+incorporated feedback from Jun Tanaka and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the MessageBroker capability and positions Acme Corp as a leader
+in the config manager space. We're leading with the 20 performance improvement
+stat and the Stark Industries customer quote.
+
+Distribution plan: wire service distribution on Wednesday, February 23, followed by targeted
+outreach to our 199ms media contacts in the industry. I've secured a briefing
+with MessageBroker Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Analytics Pro landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 20-hour cadence on launch day.
+
+Embargo: the release is under embargo until Wednesday, February 23 at 9 AM ET. Please don't share
+details externally before then. Jun Tanaka has the full distribution list.
+
+Review deadline is Wednesday, February 23. Please send edits as comments in the doc.
+
+Thanks,
+James

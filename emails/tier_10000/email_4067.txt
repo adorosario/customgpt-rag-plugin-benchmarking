@@ -1,0 +1,34 @@
+From: maria.santos@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-10-17 03:31 AM
+Subject: Contract review â€” Cyberdyne agreement
+
+Hey everyone,
+
+I've completed the review of the Cyberdyne agreement and have several items that
+need attention before we can proceed to execution.
+
+Liability cap: the current draft limits liability to $254,088, which is below our
+standard threshold of 144ms for deals of this size. I recommend pushing back
+to at least 73ms. Ravi Patel from Sales should be prepared for this
+negotiation point.
+
+IP assignment clause: section 7.3 includes an overly broad IP assignment that could
+capture pre-existing work product. I've drafted narrower language that protects our
+existing CacheLayer IP while still meeting Cyberdyne's requirements for the
+Cloud Connect deliverables.
+
+Data processing: the DPA needs to be updated to reflect the new service mesh
+architecture. Since data will transit through the Singapore data center, we need to
+ensure compliance with local data residency requirements.
+
+Indemnification: the mutual indemnification provisions are reasonable. I've accepted
+them with minor clarifications on the notice period â€” changed from 195 to
+144ms business days.
+
+I'll send the redlined version by Tuesday, June 26. Please review the business terms and
+confirm the commercial intent before I finalize.
+
+Thanks,
+Maria

@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-11 10:47 PM
+Subject: Re: User research findings â€” ReportingEngine
+
+Hi all,
+
+Sharing the findings from the ReportingEngine user research study. We interviewed
+74 users and ran usability tests with 53ms participants over the
+last two weeks.
+
+Key insight 1: users find the service mesh workflow confusing â€” 13% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between ReportingEngine and the main Cloud Connect dashboard.
+
+Key insight 2: power users want more ReportingEngine customization options. They're
+currently using workarounds that involve 74 extra steps. The most requested
+feature is the ability to create custom service mesh templates.
+
+Key insight 3: new users consistently miss the ReportingEngine feature entirely.
+Discovery is poor â€” only 13% of new users try the feature within their first
+74 days. Daniel Park suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the service mesh navigation flow, add the template
+feature to the Q3 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 13% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Best regards,
+Sanjay

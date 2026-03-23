@@ -1,0 +1,33 @@
+From: michael.brennan@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-24 11:53 AM
+Subject: Tax planning â€” Q1 estimated payments
+
+Hey everyone,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the APIGateway investment
+deductions.
+
+Federal estimate: $122,741 based on projected taxable income of 132ms.
+This reflects the APIGateway depreciation deductions and the R&D tax credit for
+the Enterprise Suite development costs. Oluwaseun Adeyemi from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $122,741 for our primary jurisdiction and 390ms for the
+Berlin office based on the apportionment factors. The Berlin rate change that
+takes effect on Thursday, August 27 will impact our Q1 estimate by approximately 29
+percent.
+
+International: with the Berlin office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Oluwaseun Adeyemi to handle
+the registration. Setup cost is $122,741 with ongoing compliance costs of
+390ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Thursday, August 27. I'll prepare the
+payment authorization for your signature by September 6. Underpayment penalties
+start at 60% so timely filing is important.
+
+Talk soon,
+Michael

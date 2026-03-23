@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-06-19 05:54 PM
+Subject: Financial close checklist â€” Q2
+
+Hi all,
+
+The Q2 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Insight Engine invoices must be issued by Monday, November 23. Any revenue recognition
+adjustments for the AuthService contracts need supporting documentation uploaded
+to caching layer. Fatima Al-Rashid from Sales must confirm final deal amounts by June 14.
+
+Expenses: all expense reports for Q2 must be submitted by Monday, November 23. The
+AuthService vendor invoices totaling $391,654 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, AuthService subscription costs,
+and the caching layer usage charges by Monday, November 23. Any non-standard accruals above
+245ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, AuthService account reconciliation, and
+inter-company balances must be completed by Monday, November 23. Fatima Al-Rashid is handling the
+bank rec. I'll take the inter-company items since they involve the Sydney entity.
+
+Target: books closed within 118 business days of quarter end. Final reporting
+package to leadership by Monday, November 23.
+
+Regards,
+Robert

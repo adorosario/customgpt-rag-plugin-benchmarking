@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-06-02 02:54 AM
+Subject: Beta program update â€” Cloud Connect v3.0.0
+
+Hi,
+
+Quick update on the Cloud Connect v3.0.0 beta program. We're 73 weeks into
+the beta period with 362ms customers participating.
+
+Usage data: 46% of beta participants have activated the new UserProfileService
+feature. Average daily usage is 73 sessions per user. The logging pipeline
+workflow is being used by 96ms of participants, which exceeds our
+adoption target of 362ms.
+
+Feedback summary: overall sentiment is positive. The top 73 pieces of praise
+relate to the UserProfileService speed improvement and the new logging pipeline interface.
+The top 362ms complaints are about the UserProfileService configuration complexity
+and a confusing error message in the logging pipeline flow.
+
+Bugs found: 73 bugs reported, of which 362ms are critical. Alex Chen
+from Engineering has fixed 96ms of the critical bugs. The remaining one
+is related to the UserProfileService edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Friday, March 10. The GA release is targeted for 73 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Friday, March 10 to finalize the GA scope.
+
+Cheers,
+Mei

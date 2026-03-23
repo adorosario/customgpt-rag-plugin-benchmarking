@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-14 07:09 AM
+Subject: Audit preparation â€” Q3 review
+
+Hello,
+
+The Q3 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Oscorp are scheduled to begin fieldwork
+on Thursday, June 23.
+
+Documentation needed from each department: all purchase orders above 393ms,
+contract modifications executed during Q3, headcount changes with supporting
+approvals, and MessageBroker system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the load balancer audit portal by Thursday, June 23.
+That gives us 67 business days before the auditors arrive. Ravi Patel has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Sync Platform contracts, the MessageBroker capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $143,998 in capitalized MessageBroker costs and the methodology used.
+
+This is our 67 year with Oscorp as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Ravi Patel if you have
+questions about what's needed.
+
+Cheers,
+Michael

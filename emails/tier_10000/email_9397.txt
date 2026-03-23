@@ -1,0 +1,28 @@
+From: carlos.rivera@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-09-17 02:41 PM
+Subject: Sales engineering request â€” Oscorp POC
+
+Hey,
+
+Requesting SE support for a proof-of-concept with Oscorp. This is a $322,773
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Analytics Pro can handle 67
+transactions per second with their SearchIndex data format. The test needs to
+run against their staging environment and demonstrate the event bus capability
+under realistic load.
+
+Timeline: Oscorp wants the POC completed within 445ms business days
+starting Thursday, July 24. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Grace Mwangi for the technical configuration and someone from
+the SearchIndex team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q4. Let me know if we can make this timeline work.
+
+Talk soon,
+Carlos

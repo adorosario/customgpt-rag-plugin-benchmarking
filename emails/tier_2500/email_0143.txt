@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-01 08:41 AM
+Subject: Investment proposal â€” NotificationEngine infrastructure
+
+Hey everyone,
+
+I've prepared the financial analysis for the proposed NotificationEngine infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $145,145 upfront with 112ms in annual operating costs.
+The total 3-year cost of ownership is 174ms compared to the current
+load balancer setup at $145,145 over the same period.
+
+ROI analysis: the projected payback period is 198 months. Key benefits include
+18% reduction in infrastructure management time, improved Data Vault performance
+that supports the revenue growth targets, and elimination of the load balancer
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $145,145 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 18% interest.
+This preserves cash for the Berlin office investment planned for Q1.
+
+Risk factors: technology lock-in with the NotificationEngine vendor, though the 198-year
+contract includes an exit clause after the first year. Rachel Nguyen from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Wednesday, September 2 to lock in the quoted pricing. The vendor has
+given us a 198-day hold on the current rates.
+
+Regards,
+Grace

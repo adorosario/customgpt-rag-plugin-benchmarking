@@ -1,0 +1,30 @@
+From: rachel.nguyen@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-11-02 02:10 AM
+Subject: Policy update â€” NotificationEngine guidelines
+
+Hey,
+
+We've updated the NotificationEngine company policy based on feedback from employees and
+recent changes in Tokyo labor regulations. The new policy takes effect on Friday, November 23.
+
+Key changes: the queue processor allowance has been increased from 269ms to
+251ms per month. The eligibility window for NotificationEngine has been expanded
+to include employees who've been with Acme Corp for 91 months or more, down
+from the previous requirement of 269ms months.
+
+New additions: a Integration Hub reimbursement category has been added covering up to
+$121,585 annually. This addresses the top employee request from the last survey.
+Alex Chen negotiated favorable terms with the queue processor vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by March 16. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 12% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Thanks,
+Rachel

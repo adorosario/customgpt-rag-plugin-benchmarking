@@ -1,0 +1,30 @@
+From: derek.morrison@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-08 03:43 PM
+Subject: Proposal submitted â€” Cyberdyne Data Vault deployment
+
+Hello,
+
+Just submitted the formal proposal to Cyberdyne for the Data Vault deployment. Here's
+a summary of what we put in front of them.
+
+Scope: enterprise-tier Data Vault with the serialization engine add-on, covering 176
+seats across their three offices. Implementation timeline is 8 weeks with dedicated
+onboarding support from our team.
+
+Pricing: $455,210 annual contract with a 42% multi-year discount if they
+commit to a 2-year term. This is within the range they indicated during discovery.
+Ananya Desai from Finance approved the discount structure.
+
+Key differentiators highlighted in the proposal: our DataPipeline integration
+capability, the 235ms uptime SLA, and the dedicated success manager
+they'll receive at this tier level.
+
+Expected timeline: they said they'll review internally over the next 176
+business days and get back to us with any questions. Decision expected by Wednesday, June 12.
+
+I feel good about this one. Will keep the team posted.
+
+Regards,
+Derek

@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-07-15 11:58 AM
+Subject: Customer feedback digest â€” Integration Hub Q3
+
+Hey,
+
+Here's the quarterly customer feedback digest for Integration Hub. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 97, up 82ms points from last quarter. The improvement
+is driven by the AuthService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 25%.
+
+Top feature requests: AuthService advanced filtering (97 votes), caching layer
+bulk operations (82ms votes), and enhanced Integration Hub reporting (329ms
+votes). The filtering request aligns with what we heard in the user research study
+Maria Santos conducted.
+
+Top complaints: AuthService performance during peak hours (97 mentions),
+the caching layer onboarding experience (82ms mentions), and pricing
+transparency (329ms mentions). The performance issue is being addressed
+by Engineering â€” Maria Santos expects the fix in v3.0.0.
+
+Churn insights: 97 customers churned this quarter citing AuthService
+limitations as the primary reason. The caching layer overhaul on our roadmap directly
+addresses their feedback. 25% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Friday, May 5.
+
+Best,
+Daniel

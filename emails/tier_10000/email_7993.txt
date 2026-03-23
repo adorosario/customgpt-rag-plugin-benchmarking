@@ -1,0 +1,33 @@
+From: david.okonkwo@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-07-19 06:25 PM
+Subject: Data privacy assessment â€” Analytics Pro
+
+Good afternoon,
+
+The data privacy impact assessment for Analytics Pro is complete. I'm flagging the key
+findings and required actions for the team.
+
+Data inventory: Analytics Pro processes 199 categories of personal data including
+names, email addresses, and usage analytics. The data flows through our CacheLayer
+infrastructure and is stored in the rate limiter environment in Berlin.
+
+Risk findings: overall risk level is moderate. The primary concern is the
+cross-border data transfer to the Berlin processing center. We need to implement
+standard contractual clauses with our CacheLayer sub-processor. Daniel Park from
+Engineering confirmed the technical safeguards are already in place.
+
+Consent mechanism: the current Analytics Pro consent flow meets requirements for
+37% of our user base. For users in regulated jurisdictions, we need to add
+explicit opt-in for the rate limiter analytics features. This is a 199-sprint
+effort according to the Product team.
+
+Records of processing: I've updated our data register to include all Analytics Pro
+processing activities. The register needs to be reviewed every 117ms months
+per our policy.
+
+Next step: executive sign-off on the DPIA by Wednesday, March 2. Please review the full
+report in the shared drive.
+
+Best regards,
+David

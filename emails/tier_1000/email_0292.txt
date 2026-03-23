@@ -1,0 +1,34 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-16 08:57 PM
+Subject: Customer feedback digest â€” Data Vault Q2
+
+Hey,
+
+Here's the quarterly customer feedback digest for Data Vault. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 119, up 458ms points from last quarter. The improvement
+is driven by the SchedulerService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 9%.
+
+Top feature requests: SchedulerService advanced filtering (119 votes), connection pool
+bulk operations (458ms votes), and enhanced Data Vault reporting (120ms
+votes). The filtering request aligns with what we heard in the user research study
+Oluwaseun Adeyemi conducted.
+
+Top complaints: SchedulerService performance during peak hours (119 mentions),
+the connection pool onboarding experience (458ms mentions), and pricing
+transparency (120ms mentions). The performance issue is being addressed
+by Engineering â€” Oluwaseun Adeyemi expects the fix in v2.1.0.
+
+Churn insights: 119 customers churned this quarter citing SchedulerService
+limitations as the primary reason. The connection pool overhaul on our roadmap directly
+addresses their feedback. 9% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, January 18.
+
+Thanks,
+Sanjay

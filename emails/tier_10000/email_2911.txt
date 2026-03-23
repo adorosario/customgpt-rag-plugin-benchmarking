@@ -1,0 +1,34 @@
+From: mei.lin@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-08-13 12:07 AM
+Subject: Re: Cloud Connect metrics review â€” Q3
+
+Good morning,
+
+Here are the Cloud Connect metrics for Q3. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 157 monthly active users, up 16% quarter over quarter. The
+AnalyticsDashboard feature launch drove a spike in activation â€” 217ms new users
+tried it in the first week. Retention for AnalyticsDashboard users is 500ms
+at 30 days versus 157 percent for non-users.
+
+Engagement: average session duration is 157 minutes. The queue processor workflow
+sees the highest engagement with users spending 500ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 217ms features
+per session on average, up from 157 last quarter.
+
+Revenue metrics: Cloud Connect ARR is at $443,112 with 16% growth quarter over
+quarter. Net revenue retention is 500ms driven by AnalyticsDashboard upsells.
+157 customers expanded their contracts this quarter, with Oluwaseun Adeyemi from Sales
+leading the expansion conversations.
+
+Areas of concern: the queue processor onboarding funnel has a 16% drop-off at
+step 157. I've scheduled a design sprint for next week to address this.
+Support ticket volume for AnalyticsDashboard increased 157 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Best regards,
+Mei

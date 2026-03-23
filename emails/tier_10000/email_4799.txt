@@ -1,0 +1,28 @@
+From: marcus.thompson@acmecorp.com
+To: engineering@acmecorp.com
+Date: 2025-09-18
+Subject: Database Migration Approval â€” PostgreSQL 16
+
+Team,
+
+Good news â€” the database migration to PostgreSQL 16 has been formally approved. We
+will begin the migration on September 3 during the scheduled maintenance window,
+starting at 2:00 AM UTC.
+
+Here's what the benchmarks showed during our proof-of-concept phase: query throughput
+improved by 23% on our heaviest reporting workloads, and the new parallel vacuum
+feature reduced our nightly maintenance window from 47 minutes down to 18 minutes.
+The logical replication improvements also mean we can set up the read replicas with
+significantly less operational overhead.
+
+The migration timeline is structured in three phases. Phase one covers the staging
+environment and runs through mid-September. Phase two handles the read replicas and
+analytics databases in early October. Phase three is the primary production cutover,
+currently targeted for October 20.
+
+I've created a detailed runbook in Confluence. Please review the rollback procedures
+for your service areas by end of week. If anyone has concerns or dependencies I
+haven't accounted for, speak up now.
+
+Thanks,
+Marcus

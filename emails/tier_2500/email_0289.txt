@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-08-11 08:02 AM
+Subject: Payroll adjustment â€” Thursday, June 7 cycle
+
+Hey,
+
+Several payroll adjustments need to be processed for the Thursday, June 7 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 39 employees received approved raises effective Thursday, June 7. The
+total monthly payroll impact is $481,038. The largest increase is for Mei Lin
+whose compensation moves from 373ms to 346ms based on the promotion
+approved in the Q4 review cycle.
+
+New hires: 39 new employees starting on Thursday, June 7 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Mei Lin
+in People Ops has verified the documentation.
+
+Bonus payouts: the MessageBroker project completion bonus of $481,038 each goes to
+39 team members. These are one-time payments coded to the Sales department
+budget. Tax withholding will be calculated at the supplemental rate of 59%.
+
+Deduction changes: 39 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from service mesh.
+
+Please approve the batch by October 15 to ensure on-time processing.
+
+Talk soon,
+Grace

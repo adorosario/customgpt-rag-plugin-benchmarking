@@ -1,0 +1,21 @@
+{
+  "tier": 30,
+  "question_id": "needle_4",
+  "question_type": "hard",
+  "run": 1,
+  "question": "When do the remote work policy changes take effect?",
+  "model": "claude-sonnet-4-6",
+  "response": "None of the 30 emails in this directory contain information about remote work policy changes. The emails don't appear to cover that topic.\n\nIs it possible you're thinking of a different set of emails or a specific document?",
+  "time_seconds": 35.03,
+  "num_turns": 5,
+  "cost_usd": 0.09682815,
+  "input_tokens": 7,
+  "cache_creation_tokens": 12187,
+  "cache_read_tokens": 131903,
+  "output_tokens": 769,
+  "total_tokens": 144866,
+  "duration_api_ms": 20897,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

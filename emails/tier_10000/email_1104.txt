@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-09-25 08:10 AM
+Subject: Financial close checklist â€” Q1
+
+Hi all,
+
+The Q1 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Analytics Pro invoices must be issued by Wednesday, August 28. Any revenue recognition
+adjustments for the AuditLog contracts need supporting documentation uploaded
+to caching layer. James Oduya from Sales must confirm final deal amounts by May 20.
+
+Expenses: all expense reports for Q1 must be submitted by Wednesday, August 28. The
+AuditLog vendor invoices totaling $398,119 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, AuditLog subscription costs,
+and the caching layer usage charges by Wednesday, August 28. Any non-standard accruals above
+338ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, AuditLog account reconciliation, and
+inter-company balances must be completed by Wednesday, August 28. James Oduya is handling the
+bank rec. I'll take the inter-company items since they involve the San Francisco entity.
+
+Target: books closed within 81 business days of quarter end. Final reporting
+package to leadership by Wednesday, August 28.
+
+Thanks,
+Grace

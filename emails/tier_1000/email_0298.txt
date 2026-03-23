@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-24 12:46 PM
+Subject: Backlog grooming â€” Integration Hub priorities
+
+Hello,
+
+Completed the backlog grooming session for Integration Hub. Here's a summary of the
+decisions and updated priority list.
+
+Promoted to high priority: the AuditLog search functionality based on the
+35 customer requests we received this quarter. Laura Kim from Engineering
+estimated it at 353ms sprints. Also promoting the event bus dashboard
+redesign after the A/B test showed 30% improvement potential.
+
+Maintained priority: the AuditLog API rate limiting is staying in the current
+priority band. We need it for the Hooli enterprise deal but the timeline
+isn't urgent â€” target completion is Wednesday, September 21.
+
+Deprioritized: 35 stories related to the legacy event bus system. Since
+we're migrating to the new architecture, investing in the old system doesn't make
+sense. Laura Kim will close these tickets with a note about the migration.
+
+New items added: 353ms stories from the latest user research round, 35
+bugs from the QA blitz, and the AuditLog accessibility improvements that
+Laura Kim identified. Total new points added: 344ms.
+
+The updated backlog is in the project management tool. Next grooming session is
+in 35 weeks.
+
+Best regards,
+Sanjay

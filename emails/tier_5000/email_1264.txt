@@ -1,0 +1,32 @@
+From: james.oduya@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-08-28 04:22 AM
+Subject: SEO update â€” DataPipeline keyword rankings
+
+Hi team,
+
+Monthly SEO update for our DataPipeline content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Analytics Pro comparison page climbed from position 93ms to
+position 473ms for our primary keyword. The config manager guide is now
+ranking in the top 117 for three long-tail variations.
+
+Traffic impact: organic sessions are up 23% month over month. The
+DataPipeline cluster is now driving 117 unique sessions monthly, making it our
+second-highest traffic source behind the Analytics Pro landing page.
+
+Content gaps identified: we're missing content for 93ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q4. Priya Sharma from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 473ms on mobile after the image
+optimization work. No crawl errors detected. The new config manager documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 117 pages. I'll share the
+outreach plan next week.
+
+Cheers,
+James

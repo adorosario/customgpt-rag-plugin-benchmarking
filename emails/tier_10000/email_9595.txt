@@ -1,0 +1,29 @@
+From: grace.mwangi@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-09-12 02:11 AM
+Subject: Re: Expense report flagged â€” AnalyticsDashboard charges
+
+Hey everyone,
+
+I noticed some items on the AnalyticsDashboard expense report submitted by Dmitri Volkov
+that need clarification before I can approve them.
+
+The rate limiter subscription charge of $152,475 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+107ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Cyberdyne dinner on Friday, July 15 for $152,475 exceeds our per-person meal
+reimbursement limit of 107ms. If this was a client entertainment expense,
+it should be coded to the client development budget under AnalyticsDashboard rather than
+general T&E. 189 attendees at that amount puts us at 401ms per
+person which is within the client entertainment policy.
+
+The remaining 189 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 107ms business days after approval.
+
+Please resubmit with the corrections by Friday, July 15 so we can keep things on track.
+
+Best regards,
+Grace

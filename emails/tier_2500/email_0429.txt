@@ -1,0 +1,30 @@
+From: aisha.okafor@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-11 11:26 PM
+Subject: Re: Insight Engine demo feedback from Globex
+
+Hey,
+
+Great news from the Globex demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the service mesh dashboard got the biggest reaction. Their
+current tool requires 84 manual steps to accomplish what our Insight Engine does
+automatically. The NotificationEngine integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 476ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v1.9.5 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Aisha Okafor, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Insight Engine trial environment set up for their team of
+84 evaluators. I'll submit the trial request today. Target close date
+remains Thursday, May 7.
+
+Best,
+Aisha

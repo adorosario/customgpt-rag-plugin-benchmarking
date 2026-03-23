@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-08-20 08:49 AM
+Subject: Social media strategy â€” Q3
+
+Hi team,
+
+Presenting the social media strategy refresh for Q3. Based on our Enterprise Suite
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our DataPipeline posts are averaging 122 impressions and 43% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 43% educational content about config manager topics, 122
+percent product highlights, and the rest for company culture and employee spotlights.
+Aisha Okafor will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Enterprise Suite use cases and answer audience questions. First session on Thursday, April 12 featuring
+Aisha Okafor.
+
+Budget: $178,444 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 245ms new followers and 102ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Best regards,
+Yuki

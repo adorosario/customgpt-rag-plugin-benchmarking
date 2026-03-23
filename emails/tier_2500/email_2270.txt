@@ -1,0 +1,29 @@
+From: kwame.asante@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-11-21 01:02 PM
+Subject: Policy update â€” DataPipeline guidelines
+
+Hey,
+
+We've updated the DataPipeline company policy based on feedback from employees and
+recent changes in London labor regulations. The new policy takes effect on Friday, November 2.
+
+Key changes: the load balancer allowance has been increased from 176ms to
+156ms per month. The eligibility window for DataPipeline has been expanded
+to include employees who've been with Acme Corp for 60 months or more, down
+from the previous requirement of 176ms months.
+
+New additions: a Cloud Connect reimbursement category has been added covering up to
+$248,274 annually. This addresses the top employee request from the last survey.
+Kwame Asante negotiated favorable terms with the load balancer vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by March 16. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 38% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Kwame

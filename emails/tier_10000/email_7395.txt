@@ -1,0 +1,32 @@
+From: sofia.martinez@acmecorp.com
+To: aisha.okafor@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-06-23 07:22 PM
+Subject: Event planning â€” Insight Engine webinar on Wednesday, December 19
+
+Hey everyone,
+
+Finalizing details for the Insight Engine webinar on Wednesday, December 19. Here's where we stand on
+the logistics and promotion.
+
+Content: Kwame Asante from Product will present the BillingModule roadmap segment.
+I'll handle the intro and customer story. We're targeting a 159-minute
+presentation followed by 217ms minutes of live Q&A. The connection pool demo
+segment should be the highlight.
+
+Registration: we've had 473ms sign-ups so far. Goal is 217ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Insight Engine keywords.
+
+Tech setup: using the standard webinar platform. Kwame Asante will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Wednesday, December 19 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 159 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Talk soon,
+Sofia

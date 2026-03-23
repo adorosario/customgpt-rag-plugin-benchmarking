@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-08-01 06:54 PM
+Subject: Budget review â€” Sales department Q3
+
+Hey everyone,
+
+Here's the Q3 budget review for the Sales department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $480,888 against a budget of 355ms. The 11% variance is
+primarily driven by the accelerated AuditLog hiring that was approved mid-quarter.
+Personnel costs came in at 142ms which includes the 54 new hires.
+
+Overages: the queue processor infrastructure line item exceeded budget by 11% due
+to the unplanned scaling requirements for Sync Platform. I've worked with Ravi Patel
+from Engineering to project the run rate going forward â€” we should budget an
+additional $480,888 per quarter for this category.
+
+Underspend: the AuditLog consulting budget was only 11% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 11%
+of the total annual budget. The main risk is the queue processor cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Talk soon,
+Grace

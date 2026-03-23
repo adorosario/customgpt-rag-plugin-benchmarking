@@ -1,0 +1,21 @@
+{
+  "tier": 250,
+  "question_id": "pattern_2",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What's the status of the Berlin office opening?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about a Berlin office opening. This doesn't appear in your project memory, CLAUDE.md files, or any context I have access to.\n\nCould you point me to where this information lives? For example, is it in a Notion page, a Google Doc, or a Slack channel I could check?",
+  "time_seconds": 17.8,
+  "num_turns": 1,
+  "cost_usd": 0.0490938,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10874,
+  "cache_read_tokens": 17541,
+  "output_tokens": 203,
+  "total_tokens": 28621,
+  "duration_api_ms": 5980,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

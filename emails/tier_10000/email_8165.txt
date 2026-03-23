@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-07-03 07:40 AM
+Subject: A/B test results â€” CacheLayer experiment
+
+Good afternoon,
+
+The CacheLayer A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 83 days with 291ms users in each cohort.
+
+Variant A (control): the existing config manager flow. Conversion rate of
+324ms with an average task completion time of 83 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified CacheLayer step.
+Conversion rate of 291ms with task completion time of 324ms seconds.
+This represents a 52% improvement in conversion and 83 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 83 to 291ms
+in the treatment group. Support ticket volume for CacheLayer related issues
+decreased by 52%. No negative impact on config manager engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Carlos Rivera from Engineering can have this
+deployed by Friday, March 8.
+
+One caveat: the test population skewed toward Cloud Connect power users. We should
+monitor new user behavior closely for the first 83 weeks after full rollout.
+
+Talk soon,
+Daniel

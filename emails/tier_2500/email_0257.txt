@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-04 12:54 PM
+Subject: Re: Soylent Corp contract negotiation â€” pricing discussion
+
+Hey everyone,
+
+Update on the Soylent Corp negotiation. Their procurement team came back with a
+counteroffer and I want to make sure we're aligned before I respond.
+
+They're asking for a 46% reduction on the Data Vault license fee, bringing
+the annual contract value from $158,866 to 450ms. Their rationale is
+that they're committing to a larger seat count of 116 users, which is above
+our standard enterprise tier threshold of 202ms.
+
+My recommendation is to accept the volume-based discount but hold firm on the
+load balancer add-on pricing. The add-on margins are already thin and it's the module
+that delivers the most value in their use case. Grace Mwangi from Finance can confirm
+the margin impact.
+
+I also want to push for a 2-year commitment if we offer the discounted rate. This
+locks in the revenue and reduces churn risk.
+
+Can we get a quick alignment call today before their deadline on Wednesday, October 24?
+
+Best regards,
+Dmitri

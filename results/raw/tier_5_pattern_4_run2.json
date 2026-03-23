@@ -1,0 +1,21 @@
+{
+  "tier": 5,
+  "question_id": "pattern_4",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What are the plans for the annual company retreat?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about your company's annual retreat plans. I only have access to the files and context in your current working directory and memory.\n\nTo find retreat plans, you might check:\n- Your company's shared drive or Google Workspace docs\n- Slack/email announcements\n- Your calendar for any scheduled events\n\nWould you like me to search your Google Workspace or emails for retreat-related documents?",
+  "time_seconds": 18.1,
+  "num_turns": 1,
+  "cost_usd": 0.0490338,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10872,
+  "cache_read_tokens": 17316,
+  "output_tokens": 204,
+  "total_tokens": 28395,
+  "duration_api_ms": 6053,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

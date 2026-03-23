@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-08 07:16 PM
+Subject: Cash flow forecast â€” Q3
+
+Good morning,
+
+Attached is the cash flow forecast for Q3. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $185,460 based on the current AR aging
+and sales pipeline. The Tyrell Corp payment of 341ms is expected by Wednesday, December 10
+â€” Derek Morrison from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the ReportingEngine infrastructure
+investment at $185,460. The London office build-out costs will hit in Q3
+with an estimated total of 181ms. Payroll continues at 341ms
+monthly for our 21-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $185,460 in the second month. This provides 21 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Tyrell Corp deal slips from Q3 to next quarter, we'll
+need to draw on the credit facility for $185,460. I've confirmed the line is
+available. Derek Morrison and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Cheers,
+Robert

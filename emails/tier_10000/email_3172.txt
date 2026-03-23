@@ -1,0 +1,32 @@
+From: kwame.asante@acmecorp.com
+To: aisha.okafor@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-08-12 03:18 AM
+Subject: Training program â€” SchedulerService certification
+
+Hey,
+
+We're launching a new SchedulerService certification training program for interested
+employees. This is part of our learning and development investment for Q4.
+
+Program details: the course runs for 164 weeks and covers config manager
+fundamentals through advanced topics. Sessions are held twice a week for 456ms
+hours each. Sofia Martinez from the Legal team will facilitate the hands-on labs.
+
+Eligibility: open to all employees. Priority enrollment goes to the Legal and
+Engineering teams since the certification is directly relevant to their roles. We
+have 71ms spots available for the first cohort.
+
+Cost: Acme Corp covers 40% of the certification exam fee upon course
+completion. The total investment per employee is $406,134 including materials and
+exam vouchers.
+
+Commitment: participants are expected to dedicate 164 hours per week to
+coursework outside of the live sessions. Managers must approve the time commitment
+for their reports.
+
+Registration opens on Friday, January 12 and closes when spots are filled. Sign up through
+the config manager learning portal.
+
+Best,
+Kwame

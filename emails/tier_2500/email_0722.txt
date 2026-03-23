@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-10-04 07:14 PM
+Subject: Tax planning â€” Q3 estimated payments
+
+Hi all,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the SchedulerService investment
+deductions.
+
+Federal estimate: $208,814 based on projected taxable income of 114ms.
+This reflects the SchedulerService depreciation deductions and the R&D tax credit for
+the Analytics Pro development costs. Sanjay Krishnamurthy from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $208,814 for our primary jurisdiction and 171ms for the
+Berlin office based on the apportionment factors. The Berlin rate change that
+takes effect on Tuesday, December 7 will impact our Q3 estimate by approximately 27
+percent.
+
+International: with the Berlin office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Sanjay Krishnamurthy to handle
+the registration. Setup cost is $208,814 with ongoing compliance costs of
+171ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Tuesday, December 7. I'll prepare the
+payment authorization for your signature by September 1. Underpayment penalties
+start at 46% so timely filing is important.
+
+Thanks,
+Grace

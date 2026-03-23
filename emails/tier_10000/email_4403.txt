@@ -1,0 +1,31 @@
+From: fatima.al-rashid@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-07-13 02:10 AM
+Subject: Onboarding schedule â€” new hire starting Thursday, June 8
+
+Hello,
+
+We have a new team member joining Engineering on Thursday, June 8. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, AuditLog systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Yuki Sato will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Analytics Pro and the config manager tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Thursday, June 8. All software licenses including AuditLog and config manager access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 17 people to schedule intro meetings with, and first
+104ms-day goals. Please send these to Yuki Sato in People Ops.
+
+Welcome email goes out 17 days before start date.
+
+Talk soon,
+Fatima

@@ -1,0 +1,30 @@
+From: dmitri.volkov@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-24 03:41 AM
+Subject: Re: Insight Engine demo feedback from Cyberdyne
+
+Hey,
+
+Great news from the Cyberdyne demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the caching layer dashboard got the biggest reaction. Their
+current tool requires 170 manual steps to accomplish what our Insight Engine does
+automatically. The PaymentGateway integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 79ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v2.4.1 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Fatima Al-Rashid, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Insight Engine trial environment set up for their team of
+170 evaluators. I'll submit the trial request today. Target close date
+remains Wednesday, November 26.
+
+Cheers,
+Dmitri

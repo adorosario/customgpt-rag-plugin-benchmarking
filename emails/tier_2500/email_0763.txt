@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-06-01 06:14 PM
+Subject: Vendor payment schedule â€” Q3
+
+Hey everyone,
+
+Here's the vendor payment schedule for Q3. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Cyberdyne invoice for $199,572 is due on Tuesday, March 27 with a
+60% early payment discount if we pay within 105 days. I recommend
+taking the discount â€” it saves us 167ms. The MessageBroker annual
+license renewal of 295ms is due Tuesday, March 27 with no discount available.
+
+Standard schedule: 105 vendor invoices totaling $199,572 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-295ms terms with payments going out every 105 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The metrics collector vendor
+overbilled us by $199,572 on the MessageBroker usage charges. Tomoko Nakamura is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q3 are projected at $199,572. This
+is 60% higher than last quarter due to the MessageBroker infrastructure
+investment and the Tokyo office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Talk soon,
+Michael

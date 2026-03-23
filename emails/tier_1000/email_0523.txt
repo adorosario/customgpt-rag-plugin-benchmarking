@@ -1,0 +1,31 @@
+From: fatima.al-rashid@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-11-24 06:42 AM
+Subject: Re: Performance review cycle â€” Q1
+
+Good afternoon,
+
+Quick reminder that the Q1 performance review cycle kicks off on Wednesday, January 6.
+Here's the timeline and what's expected from managers.
+
+Self-reviews: employees complete self-assessments by Wednesday, January 6. The template has been
+updated this cycle to include the new BillingModule competency framework. Mei Lin
+can walk managers through the changes.
+
+Manager reviews: due two weeks after self-reviews close. Please aim for specific,
+actionable feedback tied to the goals set in the previous cycle. Each review should
+address performance against 167 key objectives and include at least
+442ms development recommendations.
+
+Calibration sessions: department leads will participate in calibration meetings to
+ensure consistency in ratings. The Product calibration is scheduled for Wednesday, January 6.
+
+Compensation: any merit adjustments recommended during reviews will be processed
+in the following pay period. The total compensation adjustment budget is 56%
+of current payroll, allocated at the department level.
+
+Training on the review tool is available through the metrics collector learning portal.
+Reach out to Mei Lin if you have questions.
+
+Best,
+Fatima

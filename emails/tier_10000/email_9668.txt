@@ -1,0 +1,30 @@
+From: ananya.desai@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-07 10:09 AM
+Subject: Re: Expense report flagged â€” BillingModule charges
+
+Hi team,
+
+I noticed some items on the BillingModule expense report submitted by Ananya Desai
+that need clarification before I can approve them.
+
+The queue processor subscription charge of $98,593 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+147ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Cyberdyne dinner on Thursday, May 24 for $98,593 exceeds our per-person meal
+reimbursement limit of 147ms. If this was a client entertainment expense,
+it should be coded to the client development budget under BillingModule rather than
+general T&E. 87 attendees at that amount puts us at 111ms per
+person which is within the client entertainment policy.
+
+The remaining 87 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 147ms business days after approval.
+
+Please resubmit with the corrections by Thursday, May 24 so we can keep things on track.
+
+Thanks,
+Ananya

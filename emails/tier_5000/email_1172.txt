@@ -1,0 +1,26 @@
+From: dmitri.volkov@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-06-04 04:59 AM
+Subject: Pipeline update â€” Oscorp deal status
+
+Hi all,
+
+Quick update on the Oscorp opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $258,430 for the Data Vault deployment. The
+decision timeline is end of Q3. Their main concern remains the integration
+with their existing ReportingEngine infrastructure, which is why I've looped in Patrick O'Brien
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Oscorp is also evaluating one other vendor but our
+Data Vault demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our authentication module capability.
+
+Next steps: technical architecture session on Monday, March 21, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 22%.
+
+Thanks,
+Dmitri

@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-09-10 06:15 PM
+Subject: Revenue recognition â€” Integration Hub contracts
+
+Hey everyone,
+
+I need to walk through the revenue recognition treatment for the new Integration Hub
+contracts signed this quarter. We have 43 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Wayne Enterprises contract bundles Integration Hub licenses with
+rate limiter implementation services. I've determined the standalone selling prices
+and allocated $482,558 to the license component and 65ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 43-month implementation period.
+
+Variable consideration: 484ms contracts include performance bonuses tied to
+AnalyticsDashboard uptime metrics. Using the expected value method, I've estimated
+$482,558 in variable consideration based on our historical performance of
+54% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Wayne Enterprises amendment added rate limiter capacity at
+$482,558 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Liam Foster from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Thursday, June 16.
+
+Best regards,
+Michael

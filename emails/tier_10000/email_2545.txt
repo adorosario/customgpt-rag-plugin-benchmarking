@@ -1,0 +1,35 @@
+From: mei.lin@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-04 01:09 PM
+Subject: Competitive analysis â€” MessageBroker market update
+
+Hey everyone,
+
+Sharing the latest competitive landscape analysis for the MessageBroker market.
+Several developments this quarter that we should factor into our strategy.
+
+Tyrell Corp released a major update to their MessageBroker product. Key additions
+include rate limiter support and a redesigned dashboard. Their pricing remains at
+$228,691 per seat which undercuts us by 27%. However, their enterprise
+features are still behind ours â€” no SSO, limited API access, and 267ms
+user cap on their standard plan.
+
+Market trends: the MessageBroker category grew 27% year over year. Analyst
+reports are emphasizing rate limiter capabilities as the key differentiator for
+enterprise buyers. Our Analytics Pro scores well on this dimension.
+
+Win/loss analysis: we won 34 of the last 267ms competitive deals.
+Primary win reasons: MessageBroker depth and customer support quality. Primary loss
+reasons: price sensitivity and rate limiter ease of use. Sanjay Krishnamurthy from Sales
+provided the deal-level data.
+
+Recommendations: accelerate the rate limiter simplification effort on our roadmap,
+consider a mid-market pricing tier at $228,691 to compete on price, and publish
+more MessageBroker comparison content for SEO.
+
+Full analysis is in the competitive intelligence folder. Let's discuss at the
+strategy meeting on Friday, January 8.
+
+Best regards,
+Mei

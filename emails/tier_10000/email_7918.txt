@@ -1,0 +1,28 @@
+From: priya.sharma@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-06-27 07:18 PM
+Subject: Load testing results â€” DataPipeline v2.7.3
+
+Hi,
+
+Sharing the load testing results for DataPipeline v2.7.3 ahead of next week's
+release. We tested at 2x and 5x current peak traffic levels.
+
+At 2x load: all endpoints stayed within SLA. P99 latency for the service mesh
+endpoint was 367ms, well under our 161ms target. No errors
+observed across the full test duration.
+
+At 5x load: the DataPipeline service held up but the service mesh started showing
+degradation at around 3.5x. Error rate climbed to 37% and response times
+increased significantly. The bottleneck appears to be the database connection pool
+â€” we max out at the configured limit.
+
+Recommendation: we're safe for the near-term growth projections. For the 77
+milestone we're targeting in Q4, we'll need to increase the connection pool size
+and potentially add a read replica. Tomoko Nakamura is putting together a capacity
+planning proposal.
+
+Full report with graphs is attached.
+
+Thanks,
+Priya

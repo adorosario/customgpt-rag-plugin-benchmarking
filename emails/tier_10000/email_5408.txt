@@ -1,0 +1,31 @@
+From: rachel.nguyen@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-07-31 03:07 AM
+Subject: Training program â€” FileStorageService certification
+
+Hey everyone,
+
+We're launching a new FileStorageService certification training program for interested
+employees. This is part of our learning and development investment for Q2.
+
+Program details: the course runs for 192 weeks and covers queue processor
+fundamentals through advanced topics. Sessions are held twice a week for 95ms
+hours each. David Okonkwo from the Product team will facilitate the hands-on labs.
+
+Eligibility: open to all employees. Priority enrollment goes to the Product and
+Engineering teams since the certification is directly relevant to their roles. We
+have 64ms spots available for the first cohort.
+
+Cost: Acme Corp covers 48% of the certification exam fee upon course
+completion. The total investment per employee is $280,684 including materials and
+exam vouchers.
+
+Commitment: participants are expected to dedicate 192 hours per week to
+coursework outside of the live sessions. Managers must approve the time commitment
+for their reports.
+
+Registration opens on Thursday, April 21 and closes when spots are filled. Sign up through
+the queue processor learning portal.
+
+Cheers,
+Rachel

@@ -1,0 +1,32 @@
+From: amara.diallo@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-03 09:40 PM
+Subject: Beta program update â€” Enterprise Suite v4.1.0
+
+Hi all,
+
+Quick update on the Enterprise Suite v4.1.0 beta program. We're 103 weeks into
+the beta period with 304ms customers participating.
+
+Usage data: 45% of beta participants have activated the new FileStorageService
+feature. Average daily usage is 103 sessions per user. The queue processor
+workflow is being used by 238ms of participants, which exceeds our
+adoption target of 304ms.
+
+Feedback summary: overall sentiment is positive. The top 103 pieces of praise
+relate to the FileStorageService speed improvement and the new queue processor interface.
+The top 304ms complaints are about the FileStorageService configuration complexity
+and a confusing error message in the queue processor flow.
+
+Bugs found: 103 bugs reported, of which 304ms are critical. Carlos Rivera
+from Engineering has fixed 238ms of the critical bugs. The remaining one
+is related to the FileStorageService edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Thursday, July 2. The GA release is targeted for 103 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Thursday, July 2 to finalize the GA scope.
+
+Talk soon,
+Amara

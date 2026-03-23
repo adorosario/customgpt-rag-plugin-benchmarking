@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-03 06:40 AM
+Subject: Audit preparation â€” Q4 review
+
+Good morning,
+
+The Q4 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Weyland-Yutani are scheduled to begin fieldwork
+on Tuesday, January 24.
+
+Documentation needed from each department: all purchase orders above 294ms,
+contract modifications executed during Q4, headcount changes with supporting
+approvals, and APIGateway system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the serialization engine audit portal by Tuesday, January 24.
+That gives us 149 business days before the auditors arrive. Derek Morrison has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Data Vault contracts, the APIGateway capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $69,734 in capitalized APIGateway costs and the methodology used.
+
+This is our 149 year with Weyland-Yutani as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Derek Morrison if you have
+questions about what's needed.
+
+Cheers,
+Robert

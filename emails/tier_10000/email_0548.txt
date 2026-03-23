@@ -1,0 +1,32 @@
+From: sarah.chen@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-06-11 05:36 AM
+Subject: Vendor agreement â€” Pied Piper terms review
+
+Hey everyone,
+
+I've reviewed the vendor agreement from Pied Piper for the rate limiter services
+we're procuring. Here are my findings and recommended changes.
+
+Term and renewal: the proposed 100-year term with auto-renewal is acceptable.
+However, the 332ms-day termination notice period is too long for our needs.
+I've countered with 243ms days, which aligns with our standard vendor
+management practices.
+
+Service level commitments: Pied Piper is offering 20% uptime with service
+credits starting at 100 percent for each hour of downtime. I've pushed for
+a higher credit rate given the criticality of rate limiter to our Analytics Pro
+infrastructure.
+
+Data ownership: section 5 is clear that we retain all rights to our data. However,
+Pied Piper claims a license to use aggregated, anonymized data for benchmarking. I
+want to narrow this to exclude any data from the AuthService environment.
+Sofia Martinez from Engineering should review the technical implications.
+
+Pricing: $44,547 per year is within the budget that Finance approved. The payment
+terms are net 332ms days, which works for our AP schedule.
+
+Please confirm the business terms and I'll send the redlined agreement by Wednesday, February 19.
+
+Talk soon,
+Sarah

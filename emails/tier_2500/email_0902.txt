@@ -1,0 +1,33 @@
+From: maria.santos@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-07-03 09:54 PM
+Subject: Insurance renewal â€” Q4 review
+
+Good morning,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Tyrell Corp has offered a renewal at $60,150 per year, which is a
+48% increase from last year. Coverage limits remain the same at 130ms
+for general liability and 340ms for the SchedulerService professional liability
+policy.
+
+Alternative quotes: I obtained 152 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 48% discount, but they
+have a 340ms-day waiting period for authentication module claims that our current
+policy doesn't have.
+
+Recommendation: stay with Tyrell Corp and negotiate the premium increase down to
+48%. Their claims experience is strong â€” they processed our SchedulerService
+claim in 152 business days last year. Daniel Park from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+340ms to $60,150 given the growth in Cloud Connect customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Tuesday, July 10 to avoid a coverage lapse. Let me know your preference.
+
+Best regards,
+Maria

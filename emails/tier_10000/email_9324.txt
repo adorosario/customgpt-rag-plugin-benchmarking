@@ -1,0 +1,32 @@
+From: patrick.obrien@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-06-06 03:15 AM
+Subject: Re: Workplace safety update â€” UserProfileService
+
+Hello,
+
+Following up on the workplace safety review. The UserProfileService assessment is complete
+and here are the findings and required actions.
+
+Office inspections: all 169 floor areas passed the basic safety checklist.
+The metrics collector room needs minor improvements â€” the emergency exit signage has
+faded and one fire extinguisher is due for inspection by Friday, December 10. Dmitri Volkov from
+facilities is handling these items.
+
+Ergonomic assessments: 348ms employees requested desk ergonomic reviews
+this quarter. Common issues include monitor height and chair adjustments. We've
+ordered 169 standing desk converters and 297ms ergonomic chairs based
+on the assessments.
+
+Emergency preparedness: the next fire drill is scheduled for Friday, December 10. All floor
+wardens need to complete the refresher training before then. 14% of wardens
+are current on their certifications.
+
+Incident report: 169 minor incidents were reported this quarter, all resolved
+without injury. The UserProfileService area has been flagged for improved lighting, with
+work scheduled for Friday, December 10.
+
+Please remind your teams about the safety hotline and reporting procedures.
+
+Best,
+Patrick

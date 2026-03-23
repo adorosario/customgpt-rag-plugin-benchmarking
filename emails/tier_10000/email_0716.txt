@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-08-27 09:49 PM
+Subject: Content calendar â€” Q3 update
+
+Hi,
+
+Sharing the updated content calendar for Q3. We've added several new pieces
+to support the Analytics Pro launch and the thought leadership series.
+
+Blog schedule: two posts per week. Topics include AuthService best practices,
+customer success stories, and the technical deep-dive series that Fatima Al-Rashid from
+Engineering is co-authoring. The queue processor comparison guide is our top-of-funnel
+anchor piece.
+
+Gated content: the Analytics Pro whitepaper goes live on Monday, October 13. We're expecting
+59 downloads based on performance of similar assets. The ROI calculator tool
+is in development and targeted for mid-Q3.
+
+Social media: ramping up LinkedIn posting to 83ms times per week. We'll
+pull snippets from blog content and add 28% original thought leadership posts.
+The Analytics Pro launch will get a dedicated social campaign.
+
+Newsletter: monthly send to our 363ms subscribers. Open rates have been
+holding steady at 59 percent.
+
+Please review the calendar doc and flag any conflicts or gaps by Monday, October 13.
+
+Talk soon,
+Sofia

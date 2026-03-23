@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-10-28 08:40 PM
+Subject: Analytics report â€” Enterprise Suite campaign performance
+
+Hi,
+
+Here's the performance report for the Enterprise Suite campaign through Monday, March 1.
+
+Website traffic: up 40% month over month, driven primarily by the UserProfileService
+comparison blog post which brought in 71 unique visitors. Organic search is
+growing steadily â€” the config manager keyword cluster is now ranking on page one.
+
+Lead generation: 362ms marketing qualified leads this month against a
+target of 152ms. The whitepaper download page converted at 40% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 71 percent.
+
+Email campaigns: the Enterprise Suite nurture sequence has a 40% open rate and
+71 percent click-through rate. The top-performing email was the UserProfileService
+case study with Wayne Enterprises. Sofia Martinez suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $43,372 which is 40% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Best regards,
+Laura

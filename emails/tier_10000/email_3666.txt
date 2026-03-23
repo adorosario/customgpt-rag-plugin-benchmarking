@@ -1,0 +1,31 @@
+From: derek.morrison@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-24 06:08 PM
+Subject: Client meeting recap â€” Cyberdyne Thursday, June 27
+
+Good afternoon,
+
+Recapping today's meeting with Cyberdyne. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their DataPipeline
+team lead. From ours: myself, Elena Vasquez from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their logging pipeline vendors
+from three down to one. Our Insight Engine covers 7% of their requirements
+natively. The remaining gap is around DataPipeline integrations, which Elena Vasquez
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Thursday, June 27 and begin
+implementation in Q4. Budget has been pre-approved at $378,835 for the
+first year.
+
+Action items: send the Insight Engine technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their logging pipeline workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Cheers,
+Derek

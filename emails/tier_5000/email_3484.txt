@@ -1,0 +1,28 @@
+From: jun.tanaka@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-10-31 05:07 AM
+Subject: Sales engineering request â€” Hooli POC
+
+Good afternoon,
+
+Requesting SE support for a proof-of-concept with Hooli. This is a $294,786
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Cloud Connect can handle 101
+transactions per second with their FileStorageService data format. The test needs to
+run against their staging environment and demonstrate the connection pool capability
+under realistic load.
+
+Timeline: Hooli wants the POC completed within 335ms business days
+starting Monday, February 4. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Derek Morrison for the technical configuration and someone from
+the FileStorageService team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q1. Let me know if we can make this timeline work.
+
+Best regards,
+Jun

@@ -1,0 +1,30 @@
+From: jun.tanaka@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-11-07 08:00 PM
+Subject: Client meeting recap â€” Hooli Wednesday, September 16
+
+Hi team,
+
+Recapping today's meeting with Hooli. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their AuditLog
+team lead. From ours: myself, Daniel Park from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their serialization engine vendors
+from three down to one. Our Sync Platform covers 29% of their requirements
+natively. The remaining gap is around AuditLog integrations, which Daniel Park
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Wednesday, September 16 and begin
+implementation in Q4. Budget has been pre-approved at $29,562 for the
+first year.
+
+Action items: send the Sync Platform technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their serialization engine workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Talk soon,
+Jun

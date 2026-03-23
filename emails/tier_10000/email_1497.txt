@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-21 06:07 AM
+Subject: A/B test results â€” CacheLayer experiment
+
+Hey,
+
+The CacheLayer A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 168 days with 245ms users in each cohort.
+
+Variant A (control): the existing queue processor flow. Conversion rate of
+180ms with an average task completion time of 168 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified CacheLayer step.
+Conversion rate of 245ms with task completion time of 180ms seconds.
+This represents a 10% improvement in conversion and 168 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 168 to 245ms
+in the treatment group. Support ticket volume for CacheLayer related issues
+decreased by 10%. No negative impact on queue processor engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Patrick O'Brien from Engineering can have this
+deployed by Wednesday, June 3.
+
+One caveat: the test population skewed toward Sync Platform power users. We should
+monitor new user behavior closely for the first 168 weeks after full rollout.
+
+Talk soon,
+Mei

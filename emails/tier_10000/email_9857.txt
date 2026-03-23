@@ -1,0 +1,29 @@
+From: robert.kimura@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-09-10 11:30 AM
+Subject: Re: Expense report flagged â€” AuthService charges
+
+Hi team,
+
+I noticed some items on the AuthService expense report submitted by Amara Diallo
+that need clarification before I can approve them.
+
+The rate limiter subscription charge of $155,448 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+118ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Stark Industries dinner on Thursday, December 12 for $155,448 exceeds our per-person meal
+reimbursement limit of 118ms. If this was a client entertainment expense,
+it should be coded to the client development budget under AuthService rather than
+general T&E. 41 attendees at that amount puts us at 230ms per
+person which is within the client entertainment policy.
+
+The remaining 41 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 118ms business days after approval.
+
+Please resubmit with the corrections by Thursday, December 12 so we can keep things on track.
+
+Best regards,
+Robert

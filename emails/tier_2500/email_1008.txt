@@ -1,0 +1,33 @@
+From: maria.santos@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-11-27 10:10 AM
+Subject: Data privacy assessment â€” Insight Engine
+
+Hey,
+
+The data privacy impact assessment for Insight Engine is complete. I'm flagging the key
+findings and required actions for the team.
+
+Data inventory: Insight Engine processes 113 categories of personal data including
+names, email addresses, and usage analytics. The data flows through our MessageBroker
+infrastructure and is stored in the logging pipeline environment in Sydney.
+
+Risk findings: overall risk level is moderate. The primary concern is the
+cross-border data transfer to the Sydney processing center. We need to implement
+standard contractual clauses with our MessageBroker sub-processor. Liam Foster from
+Engineering confirmed the technical safeguards are already in place.
+
+Consent mechanism: the current Insight Engine consent flow meets requirements for
+43% of our user base. For users in regulated jurisdictions, we need to add
+explicit opt-in for the logging pipeline analytics features. This is a 113-sprint
+effort according to the Product team.
+
+Records of processing: I've updated our data register to include all Insight Engine
+processing activities. The register needs to be reviewed every 468ms months
+per our policy.
+
+Next step: executive sign-off on the DPIA by Tuesday, March 2. Please review the full
+report in the shared drive.
+
+Best regards,
+Maria

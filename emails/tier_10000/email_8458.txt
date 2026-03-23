@@ -1,0 +1,32 @@
+From: yuki.sato@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-10-24 11:21 AM
+Subject: SEO update â€” WebhookDispatcher keyword rankings
+
+Hi,
+
+Monthly SEO update for our WebhookDispatcher content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Insight Engine comparison page climbed from position 277ms to
+position 422ms for our primary keyword. The caching layer guide is now
+ranking in the top 150 for three long-tail variations.
+
+Traffic impact: organic sessions are up 6% month over month. The
+WebhookDispatcher cluster is now driving 150 unique sessions monthly, making it our
+second-highest traffic source behind the Insight Engine landing page.
+
+Content gaps identified: we're missing content for 277ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q1. Patrick O'Brien from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 422ms on mobile after the image
+optimization work. No crawl errors detected. The new caching layer documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 150 pages. I'll share the
+outreach plan next week.
+
+Cheers,
+Yuki

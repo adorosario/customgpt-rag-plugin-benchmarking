@@ -1,0 +1,29 @@
+From: carlos.rivera@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-08-09 12:08 PM
+Subject: Re: Analytics Pro demo feedback from Hooli
+
+Good morning,
+
+Great news from the Hooli demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the authentication module dashboard got the biggest reaction. Their
+current tool requires 107 manual steps to accomplish what our Analytics Pro does
+automatically. The AnalyticsDashboard integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 459ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v3.0.0 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Daniel Park, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Analytics Pro trial environment set up for their team of
+107 evaluators. I'll submit the trial request today. Target close date
+remains Monday, February 15.
+
+Thanks,
+Carlos

@@ -1,0 +1,28 @@
+From: wei.zhang@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-08-12 05:08 AM
+Subject: Load testing results â€” MessageBroker v4.1.0
+
+Hi all,
+
+Sharing the load testing results for MessageBroker v4.1.0 ahead of next week's
+release. We tested at 2x and 5x current peak traffic levels.
+
+At 2x load: all endpoints stayed within SLA. P99 latency for the queue processor
+endpoint was 320ms, well under our 241ms target. No errors
+observed across the full test duration.
+
+At 5x load: the MessageBroker service held up but the queue processor started showing
+degradation at around 3.5x. Error rate climbed to 17% and response times
+increased significantly. The bottleneck appears to be the database connection pool
+â€” we max out at the configured limit.
+
+Recommendation: we're safe for the near-term growth projections. For the 104
+milestone we're targeting in Q4, we'll need to increase the connection pool size
+and potentially add a read replica. Rachel Nguyen is putting together a capacity
+planning proposal.
+
+Full report with graphs is attached.
+
+Talk soon,
+Wei

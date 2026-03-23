@@ -1,0 +1,35 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: aisha.okafor@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-24 12:03 AM
+Subject: Re: Analytics Pro metrics review â€” Q2
+
+Hi,
+
+Here are the Analytics Pro metrics for Q2. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 194 monthly active users, up 14% quarter over quarter. The
+UserProfileService feature launch drove a spike in activation â€” 449ms new users
+tried it in the first week. Retention for UserProfileService users is 65ms
+at 30 days versus 194 percent for non-users.
+
+Engagement: average session duration is 194 minutes. The metrics collector workflow
+sees the highest engagement with users spending 65ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 449ms features
+per session on average, up from 194 last quarter.
+
+Revenue metrics: Analytics Pro ARR is at $42,202 with 14% growth quarter over
+quarter. Net revenue retention is 65ms driven by UserProfileService upsells.
+194 customers expanded their contracts this quarter, with Ravi Patel from Sales
+leading the expansion conversations.
+
+Areas of concern: the metrics collector onboarding funnel has a 14% drop-off at
+step 194. I've scheduled a design sprint for next week to address this.
+Support ticket volume for UserProfileService increased 194 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Best regards,
+Sanjay

@@ -1,0 +1,21 @@
+{
+  "tier": 30,
+  "question_id": "pattern_3",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What issues has Initech reported and how is the team responding?",
+  "model": "claude-sonnet-4-6",
+  "response": "Here's what I found across the 30 emails:\n\n**Issue Reported**\nInitech filed a complaint about **API latency**, specifically a breach of SLA response time/performance standards.\n\n**Team Response**\nTwo emails reference this:\n\n- **Email 0016** (Tomoko Nakamura, Oct 31): Reports \"good progress\" on the complaint, noting multiple aspects (API, latency, SLA, response time, performance) are progressing well. Suggests circling back at the next all-hands meeting.\n- **Email 0030** (Wei Zhang, Nov 19): Echoes the same \"good progress\" messaging. Broader context notes support tickets are down 15% since the last release and cloud costs are under budget for three consecutive months.\n\n**Status**\nAs of late November 2025, the issue is **in progress** \u00e2\u20ac\u201d no confirmed resolution, no specific timelines mentioned. Follow-up is planned for an all-hands meeting.",
+  "time_seconds": 46.98,
+  "num_turns": 3,
+  "cost_usd": 0.1307951,
+  "input_tokens": 5,
+  "cache_creation_tokens": 12120,
+  "cache_read_tokens": 74121,
+  "output_tokens": 621,
+  "total_tokens": 86867,
+  "duration_api_ms": 34162,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

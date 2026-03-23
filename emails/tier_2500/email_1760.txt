@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-08-30 01:38 PM
+Subject: Press release draft â€” Cloud Connect announcement
+
+Hi team,
+
+The press release for the Cloud Connect announcement is ready for internal review. I've
+incorporated feedback from Marcus Thompson and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the DataPipeline capability and positions Acme Corp as a leader
+in the authentication module space. We're leading with the 51 performance improvement
+stat and the Pied Piper customer quote.
+
+Distribution plan: wire service distribution on Friday, September 1, followed by targeted
+outreach to our 189ms media contacts in the industry. I've secured a briefing
+with DataPipeline Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Cloud Connect landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 51-hour cadence on launch day.
+
+Embargo: the release is under embargo until Friday, September 1 at 9 AM ET. Please don't share
+details externally before then. Marcus Thompson has the full distribution list.
+
+Review deadline is Friday, September 1. Please send edits as comments in the doc.
+
+Best regards,
+James

@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-09-24 03:05 AM
+Subject: Analytics report â€” Insight Engine campaign performance
+
+Good afternoon,
+
+Here's the performance report for the Insight Engine campaign through Tuesday, December 9.
+
+Website traffic: up 42% month over month, driven primarily by the NotificationEngine
+comparison blog post which brought in 161 unique visitors. Organic search is
+growing steadily â€” the logging pipeline keyword cluster is now ranking on page one.
+
+Lead generation: 163ms marketing qualified leads this month against a
+target of 322ms. The whitepaper download page converted at 42% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 161 percent.
+
+Email campaigns: the Insight Engine nurture sequence has a 42% open rate and
+161 percent click-through rate. The top-performing email was the NotificationEngine
+case study with Globex. Mei Lin suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $153,793 which is 42% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Talk soon,
+Laura

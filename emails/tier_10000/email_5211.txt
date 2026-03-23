@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-10-29 06:39 AM
+Subject: Sprint planning â€” Sync Platform sprint v2.4.1
+
+Hey,
+
+Here's the sprint plan for Sync Platform sprint v2.4.1. Capacity is 84 story
+points with 349ms engineers available this sprint.
+
+Committed stories: the AnalyticsDashboard integration work carries over from last sprint
+with 196ms points remaining. The new config manager API endpoints are
+estimated at 84 points. The bug fix for the AnalyticsDashboard rendering issue
+is 349ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the config manager performance
+optimization that Mei Lin has been scouting. It's estimated at 84 points
+and would improve response time by 6%.
+
+Dependencies: the AnalyticsDashboard feature requires the API changes that Mei Lin
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The config manager work is self-contained.
+
+Risks: Mei Lin is on-call this sprint which historically reduces their available
+capacity by 6%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, March 15. Let me know if the priorities look right.
+
+Talk soon,
+Liam

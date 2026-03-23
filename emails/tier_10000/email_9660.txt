@@ -1,0 +1,29 @@
+From: carlos.rivera@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-20 09:40 PM
+Subject: Sales engineering request â€” Pied Piper POC
+
+Hey everyone,
+
+Requesting SE support for a proof-of-concept with Pied Piper. This is a $99,929
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Cloud Connect can handle 135
+transactions per second with their APIGateway data format. The test needs to
+run against their staging environment and demonstrate the event bus capability
+under realistic load.
+
+Timeline: Pied Piper wants the POC completed within 203ms business days
+starting Thursday, October 15. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Alex Chen for the technical configuration and someone from
+the APIGateway team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q1. Let me know if we can make this timeline work.
+
+Thanks,
+Carlos

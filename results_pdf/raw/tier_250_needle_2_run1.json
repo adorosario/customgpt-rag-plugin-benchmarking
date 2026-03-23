@@ -1,0 +1,21 @@
+{
+  "tier": 250,
+  "question_id": "needle_2",
+  "question_type": "hard",
+  "run": 1,
+  "question": "What was the revised Q3 revenue projection from Finance?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have access to any Q3 revenue projections. This information isn't in my context, memory, or any files I've read.\n\nIf this is a question meant to test the benchmark system (given the `emails_pdf/tier_250` working directory), you may need to query the indexed email PDFs through the CustomGPT RAG agent rather than asking me directly.",
+  "time_seconds": 24.64,
+  "num_turns": 1,
+  "cost_usd": 0.11279775,
+  "input_tokens": 3,
+  "cache_creation_tokens": 28417,
+  "cache_read_tokens": 0,
+  "output_tokens": 415,
+  "total_tokens": 28835,
+  "duration_api_ms": 12468,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

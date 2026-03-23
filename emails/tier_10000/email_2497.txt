@@ -1,0 +1,30 @@
+From: robert.kimura@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-24 09:25 AM
+Subject: Re: Expense report flagged â€” WebhookDispatcher charges
+
+Good afternoon,
+
+I noticed some items on the WebhookDispatcher expense report submitted by Aisha Okafor
+that need clarification before I can approve them.
+
+The load balancer subscription charge of $405,379 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+58ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Weyland-Yutani dinner on Monday, August 1 for $405,379 exceeds our per-person meal
+reimbursement limit of 58ms. If this was a client entertainment expense,
+it should be coded to the client development budget under WebhookDispatcher rather than
+general T&E. 50 attendees at that amount puts us at 153ms per
+person which is within the client entertainment policy.
+
+The remaining 50 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 58ms business days after approval.
+
+Please resubmit with the corrections by Monday, August 1 so we can keep things on track.
+
+Thanks,
+Robert

@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-07-08 12:44 PM
+Subject: Beta program update â€” Enterprise Suite v3.0.0
+
+Hi team,
+
+Quick update on the Enterprise Suite v3.0.0 beta program. We're 101 weeks into
+the beta period with 136ms customers participating.
+
+Usage data: 43% of beta participants have activated the new AnalyticsDashboard
+feature. Average daily usage is 101 sessions per user. The caching layer
+workflow is being used by 464ms of participants, which exceeds our
+adoption target of 136ms.
+
+Feedback summary: overall sentiment is positive. The top 101 pieces of praise
+relate to the AnalyticsDashboard speed improvement and the new caching layer interface.
+The top 136ms complaints are about the AnalyticsDashboard configuration complexity
+and a confusing error message in the caching layer flow.
+
+Bugs found: 101 bugs reported, of which 136ms are critical. Robert Kimura
+from Engineering has fixed 464ms of the critical bugs. The remaining one
+is related to the AnalyticsDashboard edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Friday, February 21. The GA release is targeted for 101 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Friday, February 21 to finalize the GA scope.
+
+Best,
+Daniel

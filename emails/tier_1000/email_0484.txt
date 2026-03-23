@@ -1,0 +1,28 @@
+From: alex.chen@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-06-16 01:24 AM
+Subject: Feature flag cleanup â€” AuditLog v5.0.0-beta
+
+Hi all,
+
+Time for our quarterly feature flag cleanup in AuditLog. We have 28 flags
+in the system and several of them are stale.
+
+Flags to remove: the metrics collector migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The AuditLog experiment flag
+was concluded last sprint with a decision to ship â€” Amara Diallo will hardcode the
+winning variant.
+
+Flags to keep: the v5.0.0-beta rollout flag should stay until we've confirmed
+stability at 145ms traffic. The metrics collector kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 390ms lines of dead code and simplify the conditional logic in
+15% of the affected modules.
+
+Please claim the tickets for flags in your area by Friday, January 5. Target completion is end
+of sprint.
+
+Regards,
+Alex

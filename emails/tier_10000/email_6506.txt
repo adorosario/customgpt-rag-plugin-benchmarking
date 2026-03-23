@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-07 04:23 AM
+Subject: Tax planning â€” Q2 estimated payments
+
+Hi team,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the SearchIndex investment
+deductions.
+
+Federal estimate: $315,822 based on projected taxable income of 218ms.
+This reflects the SearchIndex depreciation deductions and the R&D tax credit for
+the Data Vault development costs. Rachel Nguyen from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $315,822 for our primary jurisdiction and 138ms for the
+Berlin office based on the apportionment factors. The Berlin rate change that
+takes effect on Wednesday, February 12 will impact our Q2 estimate by approximately 129
+percent.
+
+International: with the Berlin office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Rachel Nguyen to handle
+the registration. Setup cost is $315,822 with ongoing compliance costs of
+138ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Wednesday, February 12. I'll prepare the
+payment authorization for your signature by April 22. Underpayment penalties
+start at 35% so timely filing is important.
+
+Best,
+Robert

@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-09-30 12:15 AM
+Subject: Audit preparation â€” Q3 review
+
+Hey everyone,
+
+The Q3 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Wayne Enterprises are scheduled to begin fieldwork
+on Monday, May 17.
+
+Documentation needed from each department: all purchase orders above 176ms,
+contract modifications executed during Q3, headcount changes with supporting
+approvals, and BillingModule system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the metrics collector audit portal by Monday, May 17.
+That gives us 114 business days before the auditors arrive. Daniel Park has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Sync Platform contracts, the BillingModule capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $45,757 in capitalized BillingModule costs and the methodology used.
+
+This is our 114 year with Wayne Enterprises as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Daniel Park if you have
+questions about what's needed.
+
+Cheers,
+Ananya

@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-19 06:52 PM
+Subject: Budget review â€” Engineering department Q4
+
+Hello,
+
+Here's the Q4 budget review for the Engineering department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $482,940 against a budget of 140ms. The 13% variance is
+primarily driven by the accelerated APIGateway hiring that was approved mid-quarter.
+Personnel costs came in at 382ms which includes the 127 new hires.
+
+Overages: the connection pool infrastructure line item exceeded budget by 13% due
+to the unplanned scaling requirements for Data Vault. I've worked with Sofia Martinez
+from Engineering to project the run rate going forward â€” we should budget an
+additional $482,940 per quarter for this category.
+
+Underspend: the APIGateway consulting budget was only 13% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 13%
+of the total annual budget. The main risk is the connection pool cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best,
+Ananya

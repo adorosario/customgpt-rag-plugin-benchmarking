@@ -1,0 +1,26 @@
+From: hannah.goldstein@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-06-24 10:26 PM
+Subject: Pipeline update â€” Soylent Corp deal status
+
+Hello,
+
+Quick update on the Soylent Corp opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $50,764 for the Cloud Connect deployment. The
+decision timeline is end of Q3. Their main concern remains the integration
+with their existing WebhookDispatcher infrastructure, which is why I've looped in Patrick O'Brien
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Soylent Corp is also evaluating one other vendor but our
+Cloud Connect demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our serialization engine capability.
+
+Next steps: technical architecture session on Monday, March 11, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 33%.
+
+Regards,
+Hannah

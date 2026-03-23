@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-09-16 07:52 AM
+Subject: Tax planning â€” Q4 estimated payments
+
+Hi all,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the SchedulerService investment
+deductions.
+
+Federal estimate: $332,377 based on projected taxable income of 189ms.
+This reflects the SchedulerService depreciation deductions and the R&D tax credit for
+the Enterprise Suite development costs. Amara Diallo from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $332,377 for our primary jurisdiction and 462ms for the
+Singapore office based on the apportionment factors. The Singapore rate change that
+takes effect on Tuesday, September 13 will impact our Q4 estimate by approximately 48
+percent.
+
+International: with the Singapore office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Amara Diallo to handle
+the registration. Setup cost is $332,377 with ongoing compliance costs of
+462ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Tuesday, September 13. I'll prepare the
+payment authorization for your signature by September 23. Underpayment penalties
+start at 27% so timely filing is important.
+
+Best regards,
+Robert

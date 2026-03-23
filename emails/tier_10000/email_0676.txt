@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-10-20 07:18 PM
+Subject: Investment proposal â€” AuditLog infrastructure
+
+Good morning,
+
+I've prepared the financial analysis for the proposed AuditLog infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $42,022 upfront with 195ms in annual operating costs.
+The total 3-year cost of ownership is 391ms compared to the current
+load balancer setup at $42,022 over the same period.
+
+ROI analysis: the projected payback period is 82 months. Key benefits include
+26% reduction in infrastructure management time, improved Analytics Pro performance
+that supports the revenue growth targets, and elimination of the load balancer
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $42,022 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 26% interest.
+This preserves cash for the San Francisco office investment planned for Q1.
+
+Risk factors: technology lock-in with the AuditLog vendor, though the 82-year
+contract includes an exit clause after the first year. James Oduya from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Thursday, October 13 to lock in the quoted pricing. The vendor has
+given us a 82-day hold on the current rates.
+
+Talk soon,
+Grace

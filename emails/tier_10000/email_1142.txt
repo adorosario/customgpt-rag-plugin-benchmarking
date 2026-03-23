@@ -1,0 +1,28 @@
+From: tomoko.nakamura@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-06-09 03:20 PM
+Subject: CI/CD pipeline improvements â€” APIGateway
+
+Hello,
+
+I've finished the CI/CD pipeline improvements for APIGateway that we discussed
+last month. Here's what changed and the impact so far.
+
+Build time is down from 113ms minutes to 334ms minutes thanks to
+better caching and parallelized test execution. The flaky test rate dropped from
+25% to under 1% after I quarantined the known flaky tests and added retries
+for the integration suite.
+
+New additions: I've added a deployment preview environment that spins up automatically
+on pull requests. Reviewers can now test changes in an isolated environment before
+merging. Kwame Asante helped configure the infrastructure for this.
+
+I also added security scanning to the pipeline. Every build now runs dependency
+vulnerability checks and container image scanning. Results appear as PR comments so
+developers see issues immediately.
+
+The pipeline configuration is in the repo under the service mesh directory. Let me
+know if you run into any issues.
+
+Best,
+Tomoko

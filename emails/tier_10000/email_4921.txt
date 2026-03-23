@@ -1,0 +1,29 @@
+From: aisha.okafor@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-09-09 04:53 AM
+Subject: Re: Enterprise Suite demo feedback from Weyland-Yutani
+
+Hi team,
+
+Great news from the Weyland-Yutani demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the config manager dashboard got the biggest reaction. Their
+current tool requires 49 manual steps to accomplish what our Enterprise Suite does
+automatically. The SchedulerService integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 169ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v3.8.1 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Derek Morrison, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Enterprise Suite trial environment set up for their team of
+49 evaluators. I'll submit the trial request today. Target close date
+remains Thursday, May 24.
+
+Best,
+Aisha

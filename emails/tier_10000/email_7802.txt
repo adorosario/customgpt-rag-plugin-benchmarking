@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-08-09 11:52 AM
+Subject: Vendor payment schedule â€” Q4
+
+Hey everyone,
+
+Here's the vendor payment schedule for Q4. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Soylent Corp invoice for $133,601 is due on Monday, November 1 with a
+6% early payment discount if we pay within 11 days. I recommend
+taking the discount â€” it saves us 377ms. The AuthService annual
+license renewal of 180ms is due Monday, November 1 with no discount available.
+
+Standard schedule: 11 vendor invoices totaling $133,601 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-180ms terms with payments going out every 11 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The event bus vendor
+overbilled us by $133,601 on the AuthService usage charges. Patrick O'Brien is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q4 are projected at $133,601. This
+is 6% higher than last quarter due to the AuthService infrastructure
+investment and the Sydney office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Thanks,
+Grace

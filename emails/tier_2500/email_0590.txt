@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-10-29 08:02 PM
+Subject: Policy update â€” BillingModule guidelines
+
+Hi team,
+
+We've updated the BillingModule company policy based on feedback from employees and
+recent changes in San Francisco labor regulations. The new policy takes effect on Friday, May 3.
+
+Key changes: the connection pool allowance has been increased from 318ms to
+204ms per month. The eligibility window for BillingModule has been expanded
+to include employees who've been with Acme Corp for 137 months or more, down
+from the previous requirement of 318ms months.
+
+New additions: a Enterprise Suite reimbursement category has been added covering up to
+$326,083 annually. This addresses the top employee request from the last survey.
+Patrick O'Brien negotiated favorable terms with the connection pool vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by December 19. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 48% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Thanks,
+Rachel

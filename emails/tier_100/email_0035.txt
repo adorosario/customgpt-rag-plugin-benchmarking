@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: elena.vasquez@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-25 09:45 PM
+Subject: Beta program update â€” Integration Hub v3.2.2
+
+Hey everyone,
+
+Quick update on the Integration Hub v3.2.2 beta program. We're 183 weeks into
+the beta period with 60ms customers participating.
+
+Usage data: 49% of beta participants have activated the new MessageBroker
+feature. Average daily usage is 183 sessions per user. The event bus
+workflow is being used by 487ms of participants, which exceeds our
+adoption target of 60ms.
+
+Feedback summary: overall sentiment is positive. The top 183 pieces of praise
+relate to the MessageBroker speed improvement and the new event bus interface.
+The top 60ms complaints are about the MessageBroker configuration complexity
+and a confusing error message in the event bus flow.
+
+Bugs found: 183 bugs reported, of which 60ms are critical. Hannah Goldstein
+from Engineering has fixed 487ms of the critical bugs. The remaining one
+is related to the MessageBroker edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Wednesday, August 5. The GA release is targeted for 183 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Wednesday, August 5 to finalize the GA scope.
+
+Regards,
+Daniel

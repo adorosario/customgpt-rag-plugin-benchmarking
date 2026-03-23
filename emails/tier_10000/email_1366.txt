@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-08-12 07:46 AM
+Subject: Tax planning â€” Q2 estimated payments
+
+Good afternoon,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the BillingModule investment
+deductions.
+
+Federal estimate: $226,776 based on projected taxable income of 366ms.
+This reflects the BillingModule depreciation deductions and the R&D tax credit for
+the Data Vault development costs. Mei Lin from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $226,776 for our primary jurisdiction and 317ms for the
+Tokyo office based on the apportionment factors. The Tokyo rate change that
+takes effect on Wednesday, May 14 will impact our Q2 estimate by approximately 24
+percent.
+
+International: with the Tokyo office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Mei Lin to handle
+the registration. Setup cost is $226,776 with ongoing compliance costs of
+317ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Wednesday, May 14. I'll prepare the
+payment authorization for your signature by June 18. Underpayment penalties
+start at 37% so timely filing is important.
+
+Talk soon,
+Ananya

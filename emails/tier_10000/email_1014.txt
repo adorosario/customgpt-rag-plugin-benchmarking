@@ -1,0 +1,27 @@
+From: derek.morrison@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-10 11:28 AM
+Subject: Re: Stark Industries renewal â€” risk assessment
+
+Hey,
+
+Following up on the Stark Industries renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing PaymentGateway latency issues for the past 60 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Stark Industries has mentioned they're evaluating alternatives for their event bus needs.
+
+The renewal is worth $475,724 annually and is up for renewal at the end of
+Q3. I think we need a proactive retention strategy. My proposal:
+
+First, get Robert Kimura from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 23% discount
+on the expanded Integration Hub tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Best regards,
+Derek

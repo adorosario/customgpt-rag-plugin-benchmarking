@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-07-31 09:31 AM
+Subject: Social media strategy â€” Q2
+
+Hey,
+
+Presenting the social media strategy refresh for Q2. Based on our Insight Engine
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our AuthService posts are averaging 161 impressions and 25% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 25% educational content about logging pipeline topics, 161
+percent product highlights, and the rest for company culture and employee spotlights.
+Michael Brennan will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Insight Engine use cases and answer audience questions. First session on Thursday, March 18 featuring
+Michael Brennan.
+
+Budget: $335,785 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 396ms new followers and 150ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Talk soon,
+Laura

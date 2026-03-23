@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-08 12:00 AM
+Subject: Re: Hooli contract negotiation â€” pricing discussion
+
+Hello,
+
+Update on the Hooli negotiation. Their procurement team came back with a
+counteroffer and I want to make sure we're aligned before I respond.
+
+They're asking for a 50% reduction on the Sync Platform license fee, bringing
+the annual contract value from $325,321 to 385ms. Their rationale is
+that they're committing to a larger seat count of 167 users, which is above
+our standard enterprise tier threshold of 201ms.
+
+My recommendation is to accept the volume-based discount but hold firm on the
+service mesh add-on pricing. The add-on margins are already thin and it's the module
+that delivers the most value in their use case. Aisha Okafor from Finance can confirm
+the margin impact.
+
+I also want to push for a 2-year commitment if we offer the discounted rate. This
+locks in the revenue and reduces churn risk.
+
+Can we get a quick alignment call today before their deadline on Wednesday, July 23?
+
+Talk soon,
+Dmitri

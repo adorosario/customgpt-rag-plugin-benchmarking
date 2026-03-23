@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-28 03:53 PM
+Subject: FP&A update â€” Cloud Connect financial model
+
+Good morning,
+
+I've updated the Cloud Connect financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 75 per month based
+on the last 199ms months of data. Average contract value is tracking at
+$95,735, which is 34% above our original assumption. The CacheLayer
+upsell rate of 119ms is a positive trend.
+
+Cost structure: the rate limiter hosting costs are running 34% higher than
+modeled due to increased CacheLayer usage. I've adjusted the variable cost
+per customer from 199ms to 119ms. Wei Zhang from Engineering
+says the optimization project should bring this down by 34% in Q2.
+
+Break-even analysis: with the revised numbers, Cloud Connect reaches contribution
+margin break-even at 75 customers, which we're projected to hit by Friday, February 23.
+Full break-even including allocated overhead comes at 199ms customers.
+
+Scenarios: the base case shows $95,735 in cumulative revenue by year end. The
+upside case with the Umbrella Inc deal closing hits 119ms. Downside case
+assuming 34% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Talk soon,
+Robert

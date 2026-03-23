@@ -1,0 +1,29 @@
+From: ravi.patel@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-08-16 06:09 AM
+Subject: Feature flag cleanup â€” WebhookDispatcher v5.0.0-beta
+
+Hey everyone,
+
+Time for our quarterly feature flag cleanup in WebhookDispatcher. We have 93 flags
+in the system and several of them are stale.
+
+Flags to remove: the caching layer migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The WebhookDispatcher experiment flag
+was concluded last sprint with a decision to ship â€” Dmitri Volkov will hardcode the
+winning variant.
+
+Flags to keep: the v5.0.0-beta rollout flag should stay until we've confirmed
+stability at 159ms traffic. The caching layer kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 152ms lines of dead code and simplify the conditional logic in
+41% of the affected modules.
+
+Please claim the tickets for flags in your area by Monday, February 17. Target completion is end
+of sprint.
+
+Thanks,
+Ravi

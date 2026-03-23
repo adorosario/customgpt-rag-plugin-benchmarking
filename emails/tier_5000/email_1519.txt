@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-09-10 02:28 AM
+Subject: Content calendar â€” Q4 update
+
+Hi,
+
+Sharing the updated content calendar for Q4. We've added several new pieces
+to support the Cloud Connect launch and the thought leadership series.
+
+Blog schedule: two posts per week. Topics include AuthService best practices,
+customer success stories, and the technical deep-dive series that Daniel Park from
+Engineering is co-authoring. The authentication module comparison guide is our top-of-funnel
+anchor piece.
+
+Gated content: the Cloud Connect whitepaper goes live on Monday, August 1. We're expecting
+20 downloads based on performance of similar assets. The ROI calculator tool
+is in development and targeted for mid-Q4.
+
+Social media: ramping up LinkedIn posting to 494ms times per week. We'll
+pull snippets from blog content and add 58% original thought leadership posts.
+The Cloud Connect launch will get a dedicated social campaign.
+
+Newsletter: monthly send to our 168ms subscribers. Open rates have been
+holding steady at 20 percent.
+
+Please review the calendar doc and flag any conflicts or gaps by Monday, August 1.
+
+Best,
+Yuki

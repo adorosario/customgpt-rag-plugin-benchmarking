@@ -1,0 +1,30 @@
+From: hannah.goldstein@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-05 06:30 PM
+Subject: Proposal submitted â€” Pied Piper Enterprise Suite deployment
+
+Good morning,
+
+Just submitted the formal proposal to Pied Piper for the Enterprise Suite deployment. Here's
+a summary of what we put in front of them.
+
+Scope: enterprise-tier Enterprise Suite with the queue processor add-on, covering 108
+seats across their three offices. Implementation timeline is 8 weeks with dedicated
+onboarding support from our team.
+
+Pricing: $384,404 annual contract with a 9% multi-year discount if they
+commit to a 2-year term. This is within the range they indicated during discovery.
+Dmitri Volkov from Finance approved the discount structure.
+
+Key differentiators highlighted in the proposal: our FileStorageService integration
+capability, the 336ms uptime SLA, and the dedicated success manager
+they'll receive at this tier level.
+
+Expected timeline: they said they'll review internally over the next 108
+business days and get back to us with any questions. Decision expected by Friday, October 7.
+
+I feel good about this one. Will keep the team posted.
+
+Thanks,
+Hannah

@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-08-14 12:48 AM
+Subject: Sales engineering request â€” Hooli POC
+
+Hey everyone,
+
+Requesting SE support for a proof-of-concept with Hooli. This is a $473,545
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Analytics Pro can handle 138
+transactions per second with their AnalyticsDashboard data format. The test needs to
+run against their staging environment and demonstrate the authentication module capability
+under realistic load.
+
+Timeline: Hooli wants the POC completed within 347ms business days
+starting Monday, August 9. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Robert Kimura for the technical configuration and someone from
+the AnalyticsDashboard team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q1. Let me know if we can make this timeline work.
+
+Best regards,
+Aisha

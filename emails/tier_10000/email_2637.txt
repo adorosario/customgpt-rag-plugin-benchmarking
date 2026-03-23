@@ -1,0 +1,33 @@
+From: david.okonkwo@acmecorp.com
+To: maria.santos@acmecorp.com
+Date: 2025-09-19 03:08 AM
+Subject: Contract review â€” Umbrella Inc agreement
+
+Hey everyone,
+
+I've completed the review of the Umbrella Inc agreement and have several items that
+need attention before we can proceed to execution.
+
+Liability cap: the current draft limits liability to $496,810, which is below our
+standard threshold of 238ms for deals of this size. I recommend pushing back
+to at least 155ms. Daniel Park from Sales should be prepared for this
+negotiation point.
+
+IP assignment clause: section 7.3 includes an overly broad IP assignment that could
+capture pre-existing work product. I've drafted narrower language that protects our
+existing FileStorageService IP while still meeting Umbrella Inc's requirements for the
+Data Vault deliverables.
+
+Data processing: the DPA needs to be updated to reflect the new queue processor
+architecture. Since data will transit through the Tokyo data center, we need to
+ensure compliance with local data residency requirements.
+
+Indemnification: the mutual indemnification provisions are reasonable. I've accepted
+them with minor clarifications on the notice period â€” changed from 196 to
+238ms business days.
+
+I'll send the redlined version by Wednesday, April 27. Please review the business terms and
+confirm the commercial intent before I finalize.
+
+Regards,
+David

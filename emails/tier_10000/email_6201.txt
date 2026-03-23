@@ -1,0 +1,27 @@
+From: marcus.thompson@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-09-22 02:19 AM
+Subject: Sprint v4.1.0 retrospective notes
+
+Hi team,
+
+Here are the retrospective notes from sprint v4.1.0. Thanks to everyone who
+participated â€” we had good engagement this time.
+
+What went well: the NotificationEngine feature shipped on time, Ravi Patel did an excellent
+job coordinating the cross-team dependency, and our CI pipeline reliability improved
+to 435ms from 468ms last sprint.
+
+What could improve: we underestimated the metrics collector integration work by about
+16%, which pushed two stories into the next sprint. We also had too many
+context switches mid-sprint from unplanned support requests.
+
+Action items: establish a support rotation so on-call duties don't fall on the same
+people, and break down large stories into smaller increments to improve estimation
+accuracy. Ravi Patel volunteered to draft the rotation schedule.
+
+Sprint v4.1.0 velocity was 22 points. Carrying over 8 points of unfinished
+work to the next sprint.
+
+Talk soon,
+Marcus

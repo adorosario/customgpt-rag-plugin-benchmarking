@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-22 02:10 PM
+Subject: Re: User research findings â€” APIGateway
+
+Hello,
+
+Sharing the findings from the APIGateway user research study. We interviewed
+59 users and ran usability tests with 372ms participants over the
+last two weeks.
+
+Key insight 1: users find the metrics collector workflow confusing â€” 58% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between APIGateway and the main Insight Engine dashboard.
+
+Key insight 2: power users want more APIGateway customization options. They're
+currently using workarounds that involve 59 extra steps. The most requested
+feature is the ability to create custom metrics collector templates.
+
+Key insight 3: new users consistently miss the APIGateway feature entirely.
+Discovery is poor â€” only 58% of new users try the feature within their first
+59 days. Fatima Al-Rashid suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the metrics collector navigation flow, add the template
+feature to the Q2 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 58% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Cheers,
+Sanjay

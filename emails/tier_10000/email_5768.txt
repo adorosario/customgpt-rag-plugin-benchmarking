@@ -1,0 +1,31 @@
+From: patrick.obrien@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-09-03 02:16 AM
+Subject: Training program â€” ReportingEngine certification
+
+Hey everyone,
+
+We're launching a new ReportingEngine certification training program for interested
+employees. This is part of our learning and development investment for Q2.
+
+Program details: the course runs for 153 weeks and covers caching layer
+fundamentals through advanced topics. Sessions are held twice a week for 106ms
+hours each. Carlos Rivera from the HR team will facilitate the hands-on labs.
+
+Eligibility: open to all employees. Priority enrollment goes to the HR and
+Engineering teams since the certification is directly relevant to their roles. We
+have 190ms spots available for the first cohort.
+
+Cost: Acme Corp covers 60% of the certification exam fee upon course
+completion. The total investment per employee is $463,657 including materials and
+exam vouchers.
+
+Commitment: participants are expected to dedicate 153 hours per week to
+coursework outside of the live sessions. Managers must approve the time commitment
+for their reports.
+
+Registration opens on Monday, September 7 and closes when spots are filled. Sign up through
+the caching layer learning portal.
+
+Best,
+Patrick

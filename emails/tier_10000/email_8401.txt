@@ -1,0 +1,27 @@
+From: jun.tanaka@acmecorp.com
+To: derek.morrison@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-01 10:55 AM
+Subject: Re: Cyberdyne renewal â€” risk assessment
+
+Hello,
+
+Following up on the Cyberdyne renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing ReportingEngine latency issues for the past 108 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Cyberdyne has mentioned they're evaluating alternatives for their config manager needs.
+
+The renewal is worth $283,324 annually and is up for renewal at the end of
+Q3. I think we need a proactive retention strategy. My proposal:
+
+First, get Tomoko Nakamura from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 9% discount
+on the expanded Insight Engine tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Best regards,
+Jun

@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-09-27 10:01 AM
+Subject: A/B test results â€” NotificationEngine experiment
+
+Hi,
+
+The NotificationEngine A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 186 days with 488ms users in each cohort.
+
+Variant A (control): the existing connection pool flow. Conversion rate of
+467ms with an average task completion time of 186 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified NotificationEngine step.
+Conversion rate of 488ms with task completion time of 467ms seconds.
+This represents a 53% improvement in conversion and 186 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 186 to 488ms
+in the treatment group. Support ticket volume for NotificationEngine related issues
+decreased by 53%. No negative impact on connection pool engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Amara Diallo from Engineering can have this
+deployed by Wednesday, December 2.
+
+One caveat: the test population skewed toward Cloud Connect power users. We should
+monitor new user behavior closely for the first 186 weeks after full rollout.
+
+Best,
+Mei

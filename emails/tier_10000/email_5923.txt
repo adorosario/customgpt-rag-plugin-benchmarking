@@ -1,0 +1,33 @@
+From: sarah.chen@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-09-20 08:55 PM
+Subject: Insurance renewal â€” Q2 review
+
+Hey,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Wayne Enterprises has offered a renewal at $432,464 per year, which is a
+30% increase from last year. Coverage limits remain the same at 334ms
+for general liability and 331ms for the NotificationEngine professional liability
+policy.
+
+Alternative quotes: I obtained 47 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 30% discount, but they
+have a 331ms-day waiting period for service mesh claims that our current
+policy doesn't have.
+
+Recommendation: stay with Wayne Enterprises and negotiate the premium increase down to
+30%. Their claims experience is strong â€” they processed our NotificationEngine
+claim in 47 business days last year. Kwame Asante from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+331ms to $432,464 given the growth in Sync Platform customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Thursday, July 27 to avoid a coverage lapse. Let me know your preference.
+
+Thanks,
+Sarah

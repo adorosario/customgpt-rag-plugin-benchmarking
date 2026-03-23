@@ -1,0 +1,27 @@
+From: ravi.patel@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-07-23 07:05 PM
+Subject: Deploy plan for UserProfileService v3.2.2
+
+Good morning,
+
+Here's the deployment plan for UserProfileService v3.2.2. I've coordinated with
+Ananya Desai on the rollout sequence and we're targeting Monday, March 16 for the production push.
+
+Deployment order: staging first for smoke tests, then canary at 5%, ramp to 25%
+after one hour of clean metrics, then full rollout. The estimated total deployment
+window is two hours.
+
+Key changes in this release include the refactored authentication module module, updated
+dependency versions, and the new health check endpoint. All changes have been through
+code review and the CI pipeline is green.
+
+Rollback plan: if error rates exceed 499ms at any stage, we revert to the
+previous release using the blue-green swap. Ananya Desai will be on-call during the
+window.
+
+Please confirm you've reviewed the changelog and flag any concerns before Monday, March 16.
+
+Best,
+Ravi

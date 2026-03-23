@@ -1,0 +1,29 @@
+From: fatima.al-rashid@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-07-09 01:57 PM
+Subject: Policy update â€” DataPipeline guidelines
+
+Hello,
+
+We've updated the DataPipeline company policy based on feedback from employees and
+recent changes in London labor regulations. The new policy takes effect on Wednesday, June 5.
+
+Key changes: the config manager allowance has been increased from 387ms to
+140ms per month. The eligibility window for DataPipeline has been expanded
+to include employees who've been with Acme Corp for 182 months or more, down
+from the previous requirement of 387ms months.
+
+New additions: a Insight Engine reimbursement category has been added covering up to
+$331,647 annually. This addresses the top employee request from the last survey.
+Wei Zhang negotiated favorable terms with the config manager vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by May 16. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 26% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Fatima

@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-09-26 05:25 PM
+Subject: Social media strategy â€” Q2
+
+Good afternoon,
+
+Presenting the social media strategy refresh for Q2. Based on our Integration Hub
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our DataPipeline posts are averaging 198 impressions and 25% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 25% educational content about config manager topics, 198
+percent product highlights, and the rest for company culture and employee spotlights.
+Michael Brennan will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Integration Hub use cases and answer audience questions. First session on Thursday, May 6 featuring
+Michael Brennan.
+
+Budget: $89,968 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 145ms new followers and 229ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Thanks,
+Laura

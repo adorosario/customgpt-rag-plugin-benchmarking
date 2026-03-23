@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-07-08 08:03 AM
+Subject: Analytics report â€” Cloud Connect campaign performance
+
+Good morning,
+
+Here's the performance report for the Cloud Connect campaign through Friday, July 21.
+
+Website traffic: up 49% month over month, driven primarily by the NotificationEngine
+comparison blog post which brought in 92 unique visitors. Organic search is
+growing steadily â€” the rate limiter keyword cluster is now ranking on page one.
+
+Lead generation: 460ms marketing qualified leads this month against a
+target of 145ms. The whitepaper download page converted at 49% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 92 percent.
+
+Email campaigns: the Cloud Connect nurture sequence has a 49% open rate and
+92 percent click-through rate. The top-performing email was the NotificationEngine
+case study with Soylent Corp. Laura Kim suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $433,316 which is 49% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Talk soon,
+Yuki

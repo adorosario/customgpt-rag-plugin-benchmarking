@@ -1,0 +1,21 @@
+{
+  "tier": 100,
+  "question_id": "pattern_4",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What are the plans for the annual company retreat?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have access to any company retreat plans. I'm a software engineering assistant \u00e2\u20ac\u201d I don't have visibility into company HR or operations documents.\n\nIf you're looking for this information, some options:\n- Check with HR or your manager directly\n- Look in your company's internal docs (Notion, Google Drive, etc.)\n- I could search your CustomGPT knowledge base if retreat plans are indexed there \u00e2\u20ac\u201d just say \"query agent: annual company retreat\"",
+  "time_seconds": 25.42,
+  "num_turns": 1,
+  "cost_usd": 0.052033800000000005,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10874,
+  "cache_read_tokens": 17541,
+  "output_tokens": 399,
+  "total_tokens": 28817,
+  "duration_api_ms": 13116,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

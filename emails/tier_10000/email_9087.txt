@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-11-14 03:37 AM
+Subject: Audit preparation â€” Q1 review
+
+Hi team,
+
+The Q1 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Pied Piper are scheduled to begin fieldwork
+on Tuesday, March 12.
+
+Documentation needed from each department: all purchase orders above 339ms,
+contract modifications executed during Q1, headcount changes with supporting
+approvals, and UserProfileService system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the load balancer audit portal by Tuesday, March 12.
+That gives us 42 business days before the auditors arrive. Rachel Nguyen has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Cloud Connect contracts, the UserProfileService capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $183,323 in capitalized UserProfileService costs and the methodology used.
+
+This is our 42 year with Pied Piper as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Rachel Nguyen if you have
+questions about what's needed.
+
+Talk soon,
+Robert

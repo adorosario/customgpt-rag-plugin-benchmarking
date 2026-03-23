@@ -1,0 +1,30 @@
+From: patrick.obrien@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-11-09 11:51 AM
+Subject: Policy update â€” SearchIndex guidelines
+
+Good afternoon,
+
+We've updated the SearchIndex company policy based on feedback from employees and
+recent changes in Singapore labor regulations. The new policy takes effect on Thursday, May 12.
+
+Key changes: the queue processor allowance has been increased from 284ms to
+69ms per month. The eligibility window for SearchIndex has been expanded
+to include employees who've been with Acme Corp for 191 months or more, down
+from the previous requirement of 284ms months.
+
+New additions: a Sync Platform reimbursement category has been added covering up to
+$209,043 annually. This addresses the top employee request from the last survey.
+Kwame Asante negotiated favorable terms with the queue processor vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by February 22. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 56% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Patrick

@@ -1,0 +1,33 @@
+From: sofia.martinez@acmecorp.com
+To: elena.vasquez@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-18 12:09 AM
+Subject: SEO update â€” SearchIndex keyword rankings
+
+Hi,
+
+Monthly SEO update for our SearchIndex content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Insight Engine comparison page climbed from position 98ms to
+position 75ms for our primary keyword. The rate limiter guide is now
+ranking in the top 55 for three long-tail variations.
+
+Traffic impact: organic sessions are up 43% month over month. The
+SearchIndex cluster is now driving 55 unique sessions monthly, making it our
+second-highest traffic source behind the Insight Engine landing page.
+
+Content gaps identified: we're missing content for 98ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q4. David Okonkwo from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 75ms on mobile after the image
+optimization work. No crawl errors detected. The new rate limiter documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 55 pages. I'll share the
+outreach plan next week.
+
+Cheers,
+Sofia

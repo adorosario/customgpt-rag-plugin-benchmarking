@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-08-03 09:22 AM
+Subject: Beta program update â€” Integration Hub v3.0.0
+
+Hi,
+
+Quick update on the Integration Hub v3.0.0 beta program. We're 195 weeks into
+the beta period with 299ms customers participating.
+
+Usage data: 31% of beta participants have activated the new WebhookDispatcher
+feature. Average daily usage is 195 sessions per user. The authentication module
+workflow is being used by 126ms of participants, which exceeds our
+adoption target of 299ms.
+
+Feedback summary: overall sentiment is positive. The top 195 pieces of praise
+relate to the WebhookDispatcher speed improvement and the new authentication module interface.
+The top 299ms complaints are about the WebhookDispatcher configuration complexity
+and a confusing error message in the authentication module flow.
+
+Bugs found: 195 bugs reported, of which 299ms are critical. James Oduya
+from Engineering has fixed 126ms of the critical bugs. The remaining one
+is related to the WebhookDispatcher edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Tuesday, April 23. The GA release is targeted for 195 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Tuesday, April 23 to finalize the GA scope.
+
+Best regards,
+Sanjay

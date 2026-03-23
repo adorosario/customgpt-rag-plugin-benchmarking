@@ -1,0 +1,32 @@
+From: patrick.obrien@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-11-03 07:37 PM
+Subject: Benefits enrollment â€” open period starting Wednesday, March 2
+
+Hi,
+
+Open enrollment for our benefits package begins on Wednesday, March 2 and runs through February 6.
+Here's a summary of the key changes for the upcoming plan year.
+
+Health insurance: we're introducing a new FileStorageService plan option alongside the
+existing choices. The premium increase this year is 46%, which is below the
+industry average. Acme Corp will continue covering 104 percent of employee
+premiums.
+
+New benefit: we've partnered with Oscorp to offer a wellness stipend of $446,358
+per year. This can be used for gym memberships, mental health services, or
+ergonomic equipment. Carlos Rivera worked with the vendor to negotiate this addition.
+
+Retirement: the 401(k) match is increasing from 214ms percent to
+82ms percent of salary, effective next plan year. If you're not
+currently contributing enough to get the full match, now is a great time to adjust.
+
+Information sessions: we're hosting 104 live Q&A sessions where employees can
+ask questions about plan options. The service mesh portal will have a comparison
+tool to help you evaluate plans.
+
+Detailed plan documents are available in the HR portal. Please make your elections
+before February 6.
+
+Best regards,
+Patrick

@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-08-25 10:39 PM
+Subject: Re: Cloud Connect pricing discussion â€” UserProfileService tier
+
+Hello,
+
+Following up on the Cloud Connect pricing discussion. I've modeled three options for
+the UserProfileService tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $333,474 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 28% of our existing base.
+Downside: it undercuts our current logging pipeline pricing and may trigger downgrades.
+
+Option B: 294ms per seat per month with the logging pipeline add-on bundled.
+Higher price point but stronger value perception. 13 of the 280ms
+customers we surveyed preferred this packaging. Maria Santos from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $333,474 per UserProfileService transaction. This aligns
+with the value delivered but introduces billing complexity. Only 28% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$333,474 in incremental ARR over 13 months.
+
+Can we finalize the pricing decision by Thursday, March 25? Sales needs 280ms weeks to
+update collateral before we announce.
+
+Best,
+Liam

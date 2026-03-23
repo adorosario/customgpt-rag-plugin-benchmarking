@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-07-15 11:41 PM
+Subject: Tax planning â€” Q1 estimated payments
+
+Good morning,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the AnalyticsDashboard investment
+deductions.
+
+Federal estimate: $158,758 based on projected taxable income of 455ms.
+This reflects the AnalyticsDashboard depreciation deductions and the R&D tax credit for
+the Integration Hub development costs. Amara Diallo from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $158,758 for our primary jurisdiction and 438ms for the
+Sydney office based on the apportionment factors. The Sydney rate change that
+takes effect on Tuesday, October 21 will impact our Q1 estimate by approximately 165
+percent.
+
+International: with the Sydney office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Amara Diallo to handle
+the registration. Setup cost is $158,758 with ongoing compliance costs of
+438ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Tuesday, October 21. I'll prepare the
+payment authorization for your signature by January 25. Underpayment penalties
+start at 54% so timely filing is important.
+
+Thanks,
+Ananya

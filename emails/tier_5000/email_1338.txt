@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-09-20 03:24 PM
+Subject: FP&A update â€” Analytics Pro financial model
+
+Hello,
+
+I've updated the Analytics Pro financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 161 per month based
+on the last 90ms months of data. Average contract value is tracking at
+$37,167, which is 30% above our original assumption. The AuditLog
+upsell rate of 98ms is a positive trend.
+
+Cost structure: the queue processor hosting costs are running 30% higher than
+modeled due to increased AuditLog usage. I've adjusted the variable cost
+per customer from 90ms to 98ms. Maria Santos from Engineering
+says the optimization project should bring this down by 30% in Q2.
+
+Break-even analysis: with the revised numbers, Analytics Pro reaches contribution
+margin break-even at 161 customers, which we're projected to hit by Thursday, June 13.
+Full break-even including allocated overhead comes at 90ms customers.
+
+Scenarios: the base case shows $37,167 in cumulative revenue by year end. The
+upside case with the Wayne Enterprises deal closing hits 98ms. Downside case
+assuming 30% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Best regards,
+Ananya

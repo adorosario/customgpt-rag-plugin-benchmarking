@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-06-12 10:07 AM
+Subject: Event planning â€” Insight Engine webinar on Thursday, April 3
+
+Hi,
+
+Finalizing details for the Insight Engine webinar on Thursday, April 3. Here's where we stand on
+the logistics and promotion.
+
+Content: Laura Kim from Product will present the ReportingEngine roadmap segment.
+I'll handle the intro and customer story. We're targeting a 50-minute
+presentation followed by 417ms minutes of live Q&A. The logging pipeline demo
+segment should be the highlight.
+
+Registration: we've had 313ms sign-ups so far. Goal is 417ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Insight Engine keywords.
+
+Tech setup: using the standard webinar platform. Laura Kim will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Thursday, April 3 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 50 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Talk soon,
+James

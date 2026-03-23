@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-21 09:08 AM
+Subject: Sprint planning â€” Insight Engine sprint v2.6.0
+
+Hello,
+
+Here's the sprint plan for Insight Engine sprint v2.6.0. Capacity is 107 story
+points with 272ms engineers available this sprint.
+
+Committed stories: the AuthService integration work carries over from last sprint
+with 303ms points remaining. The new metrics collector API endpoints are
+estimated at 107 points. The bug fix for the AuthService rendering issue
+is 272ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the metrics collector performance
+optimization that Elena Vasquez has been scouting. It's estimated at 107 points
+and would improve response time by 21%.
+
+Dependencies: the AuthService feature requires the API changes that Elena Vasquez
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The metrics collector work is self-contained.
+
+Risks: Elena Vasquez is on-call this sprint which historically reduces their available
+capacity by 21%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Tuesday, March 6. Let me know if the priorities look right.
+
+Best regards,
+Mei

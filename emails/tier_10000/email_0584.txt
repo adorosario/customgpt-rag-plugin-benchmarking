@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-09-07 06:38 PM
+Subject: Re: Customer story â€” Soylent Corp case study
+
+Good afternoon,
+
+Great update on the Soylent Corp case study. I've finished the first draft and want
+to share the results we're highlighting.
+
+Headline stat: Soylent Corp saw a 52% reduction in service mesh processing time
+after deploying Enterprise Suite. This translates to $234,198 in annual cost savings
+based on their team size of 127 people.
+
+Story arc: the narrative follows their journey from evaluating AuditLog
+alternatives to full deployment. The strongest section is the quote from their CTO
+about how Enterprise Suite simplified their service mesh workflow.
+
+Approval status: Soylent Corp's marketing team has reviewed and approved the draft with
+minor edits. They're comfortable with us publishing by Thursday, July 8. Ravi Patel coordinated
+the approval process.
+
+Distribution plan: blog post with pull quotes, one-page PDF for Sales enablement,
+and a 127-minute video summary. The video production is scheduled for next week.
+
+Can you review the draft and send feedback by Thursday, July 8? I want to finalize before
+the Q3 campaign kickoff.
+
+Best regards,
+Laura

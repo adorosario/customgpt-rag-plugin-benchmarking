@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-30 09:56 PM
+Subject: Tax planning â€” Q1 estimated payments
+
+Hi all,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the ReportingEngine investment
+deductions.
+
+Federal estimate: $271,650 based on projected taxable income of 78ms.
+This reflects the ReportingEngine depreciation deductions and the R&D tax credit for
+the Data Vault development costs. Sarah Chen from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $271,650 for our primary jurisdiction and 368ms for the
+San Francisco office based on the apportionment factors. The San Francisco rate change that
+takes effect on Friday, May 27 will impact our Q1 estimate by approximately 71
+percent.
+
+International: with the San Francisco office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Sarah Chen to handle
+the registration. Setup cost is $271,650 with ongoing compliance costs of
+368ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Friday, May 27. I'll prepare the
+payment authorization for your signature by April 28. Underpayment penalties
+start at 54% so timely filing is important.
+
+Best regards,
+Robert

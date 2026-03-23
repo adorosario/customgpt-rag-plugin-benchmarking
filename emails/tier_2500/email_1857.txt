@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-23 08:48 AM
+Subject: Vendor payment schedule â€” Q4
+
+Hello,
+
+Here's the vendor payment schedule for Q4. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Oscorp invoice for $434,092 is due on Thursday, January 14 with a
+51% early payment discount if we pay within 134 days. I recommend
+taking the discount â€” it saves us 428ms. The NotificationEngine annual
+license renewal of 464ms is due Thursday, January 14 with no discount available.
+
+Standard schedule: 134 vendor invoices totaling $434,092 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-464ms terms with payments going out every 134 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The service mesh vendor
+overbilled us by $434,092 on the NotificationEngine usage charges. Maria Santos is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q4 are projected at $434,092. This
+is 51% higher than last quarter due to the NotificationEngine infrastructure
+investment and the New York office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Thanks,
+Robert

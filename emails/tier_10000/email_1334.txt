@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-07-18 02:30 PM
+Subject: Financial close checklist â€” Q3
+
+Hello,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Analytics Pro invoices must be issued by Thursday, July 12. Any revenue recognition
+adjustments for the NotificationEngine contracts need supporting documentation uploaded
+to logging pipeline. Rachel Nguyen from Sales must confirm final deal amounts by September 6.
+
+Expenses: all expense reports for Q3 must be submitted by Thursday, July 12. The
+NotificationEngine vendor invoices totaling $79,623 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, NotificationEngine subscription costs,
+and the logging pipeline usage charges by Thursday, July 12. Any non-standard accruals above
+298ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, NotificationEngine account reconciliation, and
+inter-company balances must be completed by Thursday, July 12. Rachel Nguyen is handling the
+bank rec. I'll take the inter-company items since they involve the San Francisco entity.
+
+Target: books closed within 155 business days of quarter end. Final reporting
+package to leadership by Thursday, July 12.
+
+Talk soon,
+Grace

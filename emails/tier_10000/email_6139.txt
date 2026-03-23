@@ -1,0 +1,31 @@
+From: oluwaseun.adeyemi@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-10-31 03:10 AM
+Subject: Monitoring alert tuning â€” CacheLayer
+
+Hey everyone,
+
+I've completed the monitoring alert tuning for CacheLayer that we prioritized
+after last month's false alarm fatigue. Here's what changed.
+
+Removed: 4 alerts that hadn't produced a true positive in over 90 days. These
+were legacy thresholds from before the config manager migration.
+
+Adjusted: the CacheLayer latency alert threshold moved from 311ms to
+445ms based on the new baseline after the optimization work. The
+error rate alert now uses a 105-minute sliding window instead of instantaneous
+readings to reduce noise.
+
+Added: a new composite alert that fires only when both latency and error rate
+degrade simultaneously. This should catch real incidents while filtering out
+transient spikes. Priya Sharma helped design the correlation logic.
+
+Results so far: in the two weeks since these changes, alert volume is down 18%
+and the signal-to-noise ratio has improved significantly. No incidents were missed
+during this period.
+
+Let me know if your team is seeing similar alert fatigue â€” happy to help tune.
+
+Cheers,
+Oluwaseun

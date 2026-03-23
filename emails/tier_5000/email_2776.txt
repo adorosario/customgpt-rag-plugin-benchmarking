@@ -1,0 +1,27 @@
+From: elena.vasquez@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-06-14 11:00 PM
+Subject: Incident postmortem â€” PaymentGateway outage on Tuesday, December 9
+
+Hello,
+
+Attached is the postmortem for the PaymentGateway outage that occurred on Tuesday, December 9. The
+incident lasted approximately 45 minutes and affected 184 for a subset of users.
+
+Root cause: a configuration change in the rate limiter deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+231ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, Aisha Okafor acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the PaymentGateway runbook, add a circuit breaker for the
+rate limiter connection pool, and implement load shedding when concurrency exceeds
+231ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Cheers,
+Elena

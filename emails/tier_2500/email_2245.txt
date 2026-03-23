@@ -1,0 +1,30 @@
+From: patrick.obrien@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-07-22 07:19 AM
+Subject: Policy update â€” MessageBroker guidelines
+
+Hi all,
+
+We've updated the MessageBroker company policy based on feedback from employees and
+recent changes in Toronto labor regulations. The new policy takes effect on Friday, January 27.
+
+Key changes: the service mesh allowance has been increased from 177ms to
+211ms per month. The eligibility window for MessageBroker has been expanded
+to include employees who've been with Acme Corp for 143 months or more, down
+from the previous requirement of 177ms months.
+
+New additions: a Cloud Connect reimbursement category has been added covering up to
+$258,208 annually. This addresses the top employee request from the last survey.
+Marcus Thompson negotiated favorable terms with the service mesh vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by October 21. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 43% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Thanks,
+Patrick

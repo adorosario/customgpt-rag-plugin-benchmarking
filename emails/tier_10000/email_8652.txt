@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-11-01 04:46 AM
+Subject: Event planning â€” Integration Hub webinar on Thursday, December 26
+
+Hey,
+
+Finalizing details for the Integration Hub webinar on Thursday, December 26. Here's where we stand on
+the logistics and promotion.
+
+Content: Grace Mwangi from Product will present the AnalyticsDashboard roadmap segment.
+I'll handle the intro and customer story. We're targeting a 40-minute
+presentation followed by 344ms minutes of live Q&A. The serialization engine demo
+segment should be the highlight.
+
+Registration: we've had 200ms sign-ups so far. Goal is 344ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Integration Hub keywords.
+
+Tech setup: using the standard webinar platform. Grace Mwangi will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Thursday, December 26 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 40 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Best regards,
+James

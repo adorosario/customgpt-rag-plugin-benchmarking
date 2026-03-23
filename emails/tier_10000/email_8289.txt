@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-09 06:33 PM
+Subject: Revenue recognition â€” Cloud Connect contracts
+
+Good morning,
+
+I need to walk through the revenue recognition treatment for the new Cloud Connect
+contracts signed this quarter. We have 119 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Tyrell Corp contract bundles Cloud Connect licenses with
+service mesh implementation services. I've determined the standalone selling prices
+and allocated $104,886 to the license component and 113ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 119-month implementation period.
+
+Variable consideration: 233ms contracts include performance bonuses tied to
+NotificationEngine uptime metrics. Using the expected value method, I've estimated
+$104,886 in variable consideration based on our historical performance of
+13% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Tyrell Corp amendment added service mesh capacity at
+$104,886 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Mei Lin from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Friday, June 28.
+
+Talk soon,
+Grace

@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-06-21 07:42 AM
+Subject: Event planning â€” Analytics Pro webinar on Thursday, November 24
+
+Good afternoon,
+
+Finalizing details for the Analytics Pro webinar on Thursday, November 24. Here's where we stand on
+the logistics and promotion.
+
+Content: Fatima Al-Rashid from Product will present the SchedulerService roadmap segment.
+I'll handle the intro and customer story. We're targeting a 31-minute
+presentation followed by 123ms minutes of live Q&A. The authentication module demo
+segment should be the highlight.
+
+Registration: we've had 68ms sign-ups so far. Goal is 123ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Analytics Pro keywords.
+
+Tech setup: using the standard webinar platform. Fatima Al-Rashid will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Thursday, November 24 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 31 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Cheers,
+Laura

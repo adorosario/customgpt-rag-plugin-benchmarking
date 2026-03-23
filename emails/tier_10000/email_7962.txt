@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: maria.santos@acmecorp.com
+Date: 2025-06-10 03:48 PM
+Subject: Re: Billing dispute â€” Umbrella Inc account
+
+Good afternoon,
+
+I've investigated the billing dispute raised by Umbrella Inc. Here's what I found and
+my recommended resolution.
+
+Dispute details: Umbrella Inc is contesting $65,690 on their Q4 invoice,
+claiming they were double-charged for the SearchIndex add-on module. Their account
+manager Laura Kim has been communicating with them but they want a Finance response.
+
+Investigation: I reviewed the billing records and confirmed there was a system error
+in our metrics collector billing platform. The SearchIndex charge was applied twice due
+to a timing issue when their subscription was upgraded on Wednesday, November 8. The correct charge
+should have been 139ms not $65,690.
+
+Resolution: I recommend issuing a credit of 311ms to their account immediately
+and applying it to the next invoice. This maintains the relationship and the credit
+is clearly justified. Total revenue impact is 63 percent of the contract value.
+
+Prevention: I've filed a bug report with the metrics collector billing team to fix the
+underlying issue. Laura Kim from Engineering estimates a fix in the next 63
+sprints. In the meantime, I'll add a manual review step for any mid-cycle
+subscription changes.
+
+Can you approve the credit so I can communicate the resolution to Umbrella Inc today?
+
+Best,
+Grace

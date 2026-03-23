@@ -1,0 +1,29 @@
+From: wei.zhang@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-08-20 11:48 AM
+Subject: Re: SearchIndex â€” tech debt prioritization
+
+Hi all,
+
+Following up on the tech debt discussion from yesterday's sprint planning. I've
+categorized the outstanding items for SearchIndex into three tiers based on risk
+and effort.
+
+High priority: the deprecated load balancer dependency needs to be replaced before
+Thursday, July 6 when upstream support ends. This is roughly a 116 effort and Sofia Martinez
+has volunteered to own it.
+
+Medium priority: the test coverage gap in the SearchIndex integration layer. We're
+at 349ms coverage but our target is 381ms. Filling this gap would
+have caught the regression we saw last sprint.
+
+Low priority: the logging format standardization. It's annoying but not blocking
+anything. I'd suggest we tackle it opportunistically when someone is already
+touching those files.
+
+My proposal is to allocate 7% of next sprint's capacity to the high-priority
+item. Thoughts?
+
+Talk soon,
+Wei

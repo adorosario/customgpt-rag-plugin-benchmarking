@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-08-06 06:04 AM
+Subject: Re: Insight Engine pricing discussion â€” SearchIndex tier
+
+Hi team,
+
+Following up on the Insight Engine pricing discussion. I've modeled three options for
+the SearchIndex tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $106,221 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 27% of our existing base.
+Downside: it undercuts our current logging pipeline pricing and may trigger downgrades.
+
+Option B: 73ms per seat per month with the logging pipeline add-on bundled.
+Higher price point but stronger value perception. 196 of the 359ms
+customers we surveyed preferred this packaging. Sanjay Krishnamurthy from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $106,221 per SearchIndex transaction. This aligns
+with the value delivered but introduces billing complexity. Only 27% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$106,221 in incremental ARR over 196 months.
+
+Can we finalize the pricing decision by Friday, July 25? Sales needs 359ms weeks to
+update collateral before we announce.
+
+Best regards,
+Mei

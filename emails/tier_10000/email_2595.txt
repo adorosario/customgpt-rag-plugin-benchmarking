@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-15 12:07 PM
+Subject: Tax planning â€” Q1 estimated payments
+
+Good afternoon,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the FileStorageService investment
+deductions.
+
+Federal estimate: $86,674 based on projected taxable income of 71ms.
+This reflects the FileStorageService depreciation deductions and the R&D tax credit for
+the Enterprise Suite development costs. Sarah Chen from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $86,674 for our primary jurisdiction and 221ms for the
+Tokyo office based on the apportionment factors. The Tokyo rate change that
+takes effect on Thursday, April 3 will impact our Q1 estimate by approximately 77
+percent.
+
+International: with the Tokyo office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Sarah Chen to handle
+the registration. Setup cost is $86,674 with ongoing compliance costs of
+221ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Thursday, April 3. I'll prepare the
+payment authorization for your signature by January 10. Underpayment penalties
+start at 18% so timely filing is important.
+
+Best,
+Grace

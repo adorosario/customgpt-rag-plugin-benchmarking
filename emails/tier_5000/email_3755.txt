@@ -1,0 +1,35 @@
+From: amara.diallo@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-16 10:37 AM
+Subject: Competitive analysis â€” FileStorageService market update
+
+Hi team,
+
+Sharing the latest competitive landscape analysis for the FileStorageService market.
+Several developments this quarter that we should factor into our strategy.
+
+Pied Piper released a major update to their FileStorageService product. Key additions
+include connection pool support and a redesigned dashboard. Their pricing remains at
+$26,350 per seat which undercuts us by 35%. However, their enterprise
+features are still behind ours â€” no SSO, limited API access, and 140ms
+user cap on their standard plan.
+
+Market trends: the FileStorageService category grew 35% year over year. Analyst
+reports are emphasizing connection pool capabilities as the key differentiator for
+enterprise buyers. Our Sync Platform scores well on this dimension.
+
+Win/loss analysis: we won 142 of the last 140ms competitive deals.
+Primary win reasons: FileStorageService depth and customer support quality. Primary loss
+reasons: price sensitivity and connection pool ease of use. Aisha Okafor from Sales
+provided the deal-level data.
+
+Recommendations: accelerate the connection pool simplification effort on our roadmap,
+consider a mid-market pricing tier at $26,350 to compete on price, and publish
+more FileStorageService comparison content for SEO.
+
+Full analysis is in the competitive intelligence folder. Let's discuss at the
+strategy meeting on Friday, September 4.
+
+Regards,
+Amara

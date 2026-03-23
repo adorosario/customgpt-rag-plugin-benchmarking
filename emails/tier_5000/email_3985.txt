@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-11-20 03:56 AM
+Subject: New lead â€” Globex inbound request
+
+Good afternoon,
+
+We received an inbound request from Globex through the website today. They're
+a 152-employee company in the NotificationEngine space and are looking for a
+Analytics Pro solution.
+
+Initial qualification: they have budget allocated for Q3, their current
+contract with their existing vendor expires on Tuesday, March 10, and the decision maker is
+their VP of Operations. They found us through the config manager whitepaper we
+published last month.
+
+The estimated deal size is $106,641 based on their seat count and the use case
+they described. They specifically mentioned needing the NotificationEngine integration
+and 176ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Sarah Chen â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on config manager scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Best,
+Hannah

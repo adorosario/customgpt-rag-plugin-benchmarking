@@ -1,0 +1,29 @@
+From: grace.mwangi@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-10-22 06:02 PM
+Subject: Re: Expense report flagged â€” FileStorageService charges
+
+Good afternoon,
+
+I noticed some items on the FileStorageService expense report submitted by Fatima Al-Rashid
+that need clarification before I can approve them.
+
+The authentication module subscription charge of $223,235 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+487ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Stark Industries dinner on Wednesday, October 18 for $223,235 exceeds our per-person meal
+reimbursement limit of 487ms. If this was a client entertainment expense,
+it should be coded to the client development budget under FileStorageService rather than
+general T&E. 15 attendees at that amount puts us at 469ms per
+person which is within the client entertainment policy.
+
+The remaining 15 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 487ms business days after approval.
+
+Please resubmit with the corrections by Wednesday, October 18 so we can keep things on track.
+
+Best regards,
+Grace

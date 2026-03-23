@@ -1,0 +1,31 @@
+From: patrick.obrien@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-09-14 11:33 AM
+Subject: Onboarding schedule â€” new hire starting Friday, November 4
+
+Hey everyone,
+
+We have a new team member joining Product on Friday, November 4. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, MessageBroker systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Derek Morrison will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Sync Platform and the load balancer tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Friday, November 4. All software licenses including MessageBroker and load balancer access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 133 people to schedule intro meetings with, and first
+234ms-day goals. Please send these to Derek Morrison in People Ops.
+
+Welcome email goes out 133 days before start date.
+
+Regards,
+Patrick

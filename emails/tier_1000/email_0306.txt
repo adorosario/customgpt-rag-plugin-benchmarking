@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-06-12 02:51 AM
+Subject: Social media strategy â€” Q2
+
+Hey everyone,
+
+Presenting the social media strategy refresh for Q2. Based on our Sync Platform
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our AuthService posts are averaging 111 impressions and 50% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 50% educational content about load balancer topics, 111
+percent product highlights, and the rest for company culture and employee spotlights.
+Alex Chen will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Sync Platform use cases and answer audience questions. First session on Friday, October 28 featuring
+Alex Chen.
+
+Budget: $436,376 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 471ms new followers and 364ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Thanks,
+Yuki

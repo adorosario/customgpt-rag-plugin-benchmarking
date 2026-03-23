@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-06-30 06:29 AM
+Subject: Re: Cloud Connect launch planning â€” ReportingEngine release
+
+Hi all,
+
+The launch plan for the ReportingEngine release is coming together. Here's the
+coordinated timeline across teams.
+
+Engineering: code freeze on Tuesday, June 1. Final QA validation of 172 test cases
+by Kwame Asante. Performance benchmarks must show queue processor throughput above
+482ms requests per second. Rollback plan documented and tested.
+
+Marketing: blog post and landing page updates go live at launch. Kwame Asante from
+the content team has the draft ready for review. Email announcement to 172
+customers scheduled for launch day plus one.
+
+Sales: updated pitch deck with the ReportingEngine positioning. Kwame Asante is running
+a training session on Tuesday, June 1 so the team can demo the feature. We're expecting
+$386,045 in pipeline acceleration from this release.
+
+Support: knowledge base articles and troubleshooting guide published pre-launch.
+Kwame Asante trained the support team on the 172 most common questions. Staffing
+is increased by 51% for launch week.
+
+Go/no-go decision meeting is on Tuesday, June 1. Each team lead needs to confirm readiness
+by then.
+
+Best regards,
+Amara

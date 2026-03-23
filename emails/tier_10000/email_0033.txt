@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-10-24 10:03 AM
+Subject: Quarterly territory review â€” Q4
+
+Hi all,
+
+Here's my territory review for Q4. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 186 qualified opportunities worth a combined $35,332 in
+ARR. The largest deal is Massive Dynamic at 411ms, which I expect to close by
+Wednesday, November 19. Three other deals in the 236ms range are progressing through
+procurement.
+
+Wins this quarter: closed Massive Dynamic for Data Vault with a 13% upsell from
+their initial scope. The rate limiter add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Fatima Al-Rashid to the Massive Dynamic executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Cheers,
+Hannah

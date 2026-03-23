@@ -1,0 +1,27 @@
+From: dmitri.volkov@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-24 09:44 AM
+Subject: Pipeline update â€” Umbrella Inc deal status
+
+Hi all,
+
+Quick update on the Umbrella Inc opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $198,437 for the Sync Platform deployment. The
+decision timeline is end of Q1. Their main concern remains the integration
+with their existing DataPipeline infrastructure, which is why I've looped in James Oduya
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Umbrella Inc is also evaluating one other vendor but our
+Sync Platform demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our service mesh capability.
+
+Next steps: technical architecture session on Thursday, September 18, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 31%.
+
+Best,
+Dmitri

@@ -1,0 +1,30 @@
+From: rachel.nguyen@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-07-18 01:25 AM
+Subject: Onboarding schedule â€” new hire starting Tuesday, March 24
+
+Hi,
+
+We have a new team member joining Legal on Tuesday, March 24. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, AnalyticsDashboard systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Daniel Park will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Integration Hub and the serialization engine tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Tuesday, March 24. All software licenses including AnalyticsDashboard and serialization engine access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 177 people to schedule intro meetings with, and first
+201ms-day goals. Please send these to Daniel Park in People Ops.
+
+Welcome email goes out 177 days before start date.
+
+Best regards,
+Rachel

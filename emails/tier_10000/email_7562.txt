@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-19 07:12 AM
+Subject: Investment proposal â€” UserProfileService infrastructure
+
+Hey,
+
+I've prepared the financial analysis for the proposed UserProfileService infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $309,903 upfront with 140ms in annual operating costs.
+The total 3-year cost of ownership is 355ms compared to the current
+metrics collector setup at $309,903 over the same period.
+
+ROI analysis: the projected payback period is 173 months. Key benefits include
+43% reduction in infrastructure management time, improved Insight Engine performance
+that supports the revenue growth targets, and elimination of the metrics collector
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $309,903 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 43% interest.
+This preserves cash for the Toronto office investment planned for Q2.
+
+Risk factors: technology lock-in with the UserProfileService vendor, though the 173-year
+contract includes an exit clause after the first year. Michael Brennan from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Wednesday, May 25 to lock in the quoted pricing. The vendor has
+given us a 173-day hold on the current rates.
+
+Cheers,
+Robert

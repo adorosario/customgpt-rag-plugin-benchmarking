@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-09-24 08:23 PM
+Subject: Press release draft â€” Analytics Pro announcement
+
+Hi team,
+
+The press release for the Analytics Pro announcement is ready for internal review. I've
+incorporated feedback from Sofia Martinez and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the FileStorageService capability and positions Acme Corp as a leader
+in the connection pool space. We're leading with the 164 performance improvement
+stat and the Oscorp customer quote.
+
+Distribution plan: wire service distribution on Wednesday, August 3, followed by targeted
+outreach to our 177ms media contacts in the industry. I've secured a briefing
+with FileStorageService Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Analytics Pro landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 164-hour cadence on launch day.
+
+Embargo: the release is under embargo until Wednesday, August 3 at 9 AM ET. Please don't share
+details externally before then. Sofia Martinez has the full distribution list.
+
+Review deadline is Wednesday, August 3. Please send edits as comments in the doc.
+
+Cheers,
+Laura

@@ -1,0 +1,29 @@
+From: michael.brennan@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-07-13 03:30 AM
+Subject: Re: Expense report flagged â€” APIGateway charges
+
+Good afternoon,
+
+I noticed some items on the APIGateway expense report submitted by Yuki Sato
+that need clarification before I can approve them.
+
+The metrics collector subscription charge of $483,458 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+273ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Wayne Enterprises dinner on Thursday, April 28 for $483,458 exceeds our per-person meal
+reimbursement limit of 273ms. If this was a client entertainment expense,
+it should be coded to the client development budget under APIGateway rather than
+general T&E. 83 attendees at that amount puts us at 415ms per
+person which is within the client entertainment policy.
+
+The remaining 83 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 273ms business days after approval.
+
+Please resubmit with the corrections by Thursday, April 28 so we can keep things on track.
+
+Best regards,
+Michael

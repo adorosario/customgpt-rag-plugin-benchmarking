@@ -1,0 +1,28 @@
+From: yuki.sato@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-07-09 11:48 PM
+Subject: Sync Platform campaign launch â€” Q4 plan
+
+Hi,
+
+Here's the campaign plan for the Sync Platform launch in Q4. I've aligned the
+messaging with the positioning we finalized last week and mapped out the channel
+strategy.
+
+Campaign theme: highlighting the FileStorageService advantage and how Sync Platform solves
+the key pain point around service mesh complexity. Target audience is mid-market
+and enterprise IT decision makers.
+
+Channel breakdown: 40% of budget to paid digital, 142 to content
+marketing, and the remainder to events and webinars. We're targeting a $290,542
+total spend with a goal of 148ms marketing qualified leads.
+
+Content deliverables: landing page, solution brief, customer case study featuring
+Wayne Enterprises, three blog posts, and a webinar co-hosted with Yuki Sato from Product.
+All assets target completion by Wednesday, August 18.
+
+The paid campaign goes live two weeks before the official launch to build awareness.
+I'll share the creative brief for review tomorrow.
+
+Thanks,
+Yuki

@@ -1,0 +1,29 @@
+From: dmitri.volkov@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-16 06:49 AM
+Subject: Quarterly territory review â€” Q3
+
+Hi all,
+
+Here's my territory review for Q3. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 146 qualified opportunities worth a combined $303,879 in
+ARR. The largest deal is Wayne Enterprises at 145ms, which I expect to close by
+Thursday, May 13. Three other deals in the 307ms range are progressing through
+procurement.
+
+Wins this quarter: closed Wayne Enterprises for Cloud Connect with a 43% upsell from
+their initial scope. The config manager add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Sarah Chen to the Wayne Enterprises executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Cheers,
+Dmitri

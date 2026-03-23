@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-14 12:59 PM
+Subject: Budget review â€” Engineering department Q2
+
+Good afternoon,
+
+Here's the Q2 budget review for the Engineering department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $321,642 against a budget of 110ms. The 19% variance is
+primarily driven by the accelerated DataPipeline hiring that was approved mid-quarter.
+Personnel costs came in at 500ms which includes the 95 new hires.
+
+Overages: the logging pipeline infrastructure line item exceeded budget by 19% due
+to the unplanned scaling requirements for Insight Engine. I've worked with Marcus Thompson
+from Engineering to project the run rate going forward â€” we should budget an
+additional $321,642 per quarter for this category.
+
+Underspend: the DataPipeline consulting budget was only 19% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 19%
+of the total annual budget. The main risk is the logging pipeline cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Talk soon,
+Robert

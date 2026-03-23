@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-11-15 09:25 PM
+Subject: Tax planning â€” Q1 estimated payments
+
+Hey,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the NotificationEngine investment
+deductions.
+
+Federal estimate: $423,621 based on projected taxable income of 456ms.
+This reflects the NotificationEngine depreciation deductions and the R&D tax credit for
+the Sync Platform development costs. Dmitri Volkov from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $423,621 for our primary jurisdiction and 370ms for the
+Tokyo office based on the apportionment factors. The Tokyo rate change that
+takes effect on Thursday, September 12 will impact our Q1 estimate by approximately 48
+percent.
+
+International: with the Tokyo office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Dmitri Volkov to handle
+the registration. Setup cost is $423,621 with ongoing compliance costs of
+370ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Thursday, September 12. I'll prepare the
+payment authorization for your signature by February 26. Underpayment penalties
+start at 9% so timely filing is important.
+
+Cheers,
+Ananya

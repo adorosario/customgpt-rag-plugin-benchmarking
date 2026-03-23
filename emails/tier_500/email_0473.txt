@@ -1,0 +1,29 @@
+From: jun.tanaka@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-20 12:07 AM
+Subject: New lead â€” Massive Dynamic inbound request
+
+Hello,
+
+We received an inbound request from Massive Dynamic through the website today. They're
+a 167-employee company in the BillingModule space and are looking for a
+Cloud Connect solution.
+
+Initial qualification: they have budget allocated for Q3, their current
+contract with their existing vendor expires on Tuesday, January 10, and the decision maker is
+their VP of Operations. They found us through the metrics collector whitepaper we
+published last month.
+
+The estimated deal size is $136,331 based on their seat count and the use case
+they described. They specifically mentioned needing the BillingModule integration
+and 371ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Sanjay Krishnamurthy â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on metrics collector scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Best,
+Jun

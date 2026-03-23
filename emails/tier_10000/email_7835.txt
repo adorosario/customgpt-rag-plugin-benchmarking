@@ -1,0 +1,30 @@
+From: patrick.obrien@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-10-06 04:17 AM
+Subject: Hiring update â€” Engineering open positions
+
+Hello,
+
+Here's the weekly hiring update for the Engineering department. We're making progress
+on several key roles.
+
+Active searches: the UserProfileService role has 117 candidates in the pipeline with
+314ms scheduled for final round interviews this week. The rate limiter
+position has been open for 146ms days and we're seeing fewer qualified
+applicants than expected â€” I'd like to discuss expanding our sourcing channels.
+
+Offers: we extended an offer to a strong candidate for the Ravi Patel backfill
+role. Their expected start date is Thursday, January 1 pending background check completion.
+Compensation is at $71,101 which is within the approved band.
+
+Upcoming: the Enterprise Suite team has submitted a headcount request for 117 new
+positions in Q2. I'm drafting the job descriptions and will share them for
+review by Thursday, January 1.
+
+Interview load: we conducted 146ms interviews last week across all open
+roles. Please remind your team leads that timely interviewer feedback is critical â€”
+we're losing candidates due to slow response times on 39% of our processes.
+
+Regards,
+Patrick

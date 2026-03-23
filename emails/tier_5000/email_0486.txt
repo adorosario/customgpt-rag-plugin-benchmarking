@@ -1,0 +1,29 @@
+From: fatima.al-rashid@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-09-07 10:55 AM
+Subject: Policy update â€” NotificationEngine guidelines
+
+Good afternoon,
+
+We've updated the NotificationEngine company policy based on feedback from employees and
+recent changes in Tokyo labor regulations. The new policy takes effect on Wednesday, October 28.
+
+Key changes: the metrics collector allowance has been increased from 386ms to
+116ms per month. The eligibility window for NotificationEngine has been expanded
+to include employees who've been with Acme Corp for 31 months or more, down
+from the previous requirement of 386ms months.
+
+New additions: a Sync Platform reimbursement category has been added covering up to
+$111,801 annually. This addresses the top employee request from the last survey.
+Jun Tanaka negotiated favorable terms with the metrics collector vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by January 22. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 8% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Cheers,
+Fatima

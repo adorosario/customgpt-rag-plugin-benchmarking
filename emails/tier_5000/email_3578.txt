@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-27 07:53 PM
+Subject: Financial close checklist â€” Q2
+
+Hello,
+
+The Q2 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Analytics Pro invoices must be issued by Thursday, December 15. Any revenue recognition
+adjustments for the NotificationEngine contracts need supporting documentation uploaded
+to config manager. Michael Brennan from Sales must confirm final deal amounts by January 21.
+
+Expenses: all expense reports for Q2 must be submitted by Thursday, December 15. The
+NotificationEngine vendor invoices totaling $102,842 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, NotificationEngine subscription costs,
+and the config manager usage charges by Thursday, December 15. Any non-standard accruals above
+162ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, NotificationEngine account reconciliation, and
+inter-company balances must be completed by Thursday, December 15. Michael Brennan is handling the
+bank rec. I'll take the inter-company items since they involve the San Francisco entity.
+
+Target: books closed within 47 business days of quarter end. Final reporting
+package to leadership by Thursday, December 15.
+
+Regards,
+Grace

@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-10-20 08:11 AM
+Subject: Re: Billing dispute â€” Soylent Corp account
+
+Good morning,
+
+I've investigated the billing dispute raised by Soylent Corp. Here's what I found and
+my recommended resolution.
+
+Dispute details: Soylent Corp is contesting $406,274 on their Q1 invoice,
+claiming they were double-charged for the AuthService add-on module. Their account
+manager Fatima Al-Rashid has been communicating with them but they want a Finance response.
+
+Investigation: I reviewed the billing records and confirmed there was a system error
+in our service mesh billing platform. The AuthService charge was applied twice due
+to a timing issue when their subscription was upgraded on Monday, September 1. The correct charge
+should have been 435ms not $406,274.
+
+Resolution: I recommend issuing a credit of 176ms to their account immediately
+and applying it to the next invoice. This maintains the relationship and the credit
+is clearly justified. Total revenue impact is 182 percent of the contract value.
+
+Prevention: I've filed a bug report with the service mesh billing team to fix the
+underlying issue. Fatima Al-Rashid from Engineering estimates a fix in the next 182
+sprints. In the meantime, I'll add a manual review step for any mid-cycle
+subscription changes.
+
+Can you approve the credit so I can communicate the resolution to Soylent Corp today?
+
+Thanks,
+Ananya

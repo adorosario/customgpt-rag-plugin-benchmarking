@@ -1,0 +1,29 @@
+From: jun.tanaka@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-09-14 08:24 AM
+Subject: Re: Insight Engine demo feedback from Oscorp
+
+Hi team,
+
+Great news from the Oscorp demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the authentication module dashboard got the biggest reaction. Their
+current tool requires 46 manual steps to accomplish what our Insight Engine does
+automatically. The CacheLayer integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 58ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v1.9.5 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Mei Lin, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Insight Engine trial environment set up for their team of
+46 evaluators. I'll submit the trial request today. Target close date
+remains Friday, July 19.
+
+Cheers,
+Jun

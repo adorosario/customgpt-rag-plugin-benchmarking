@@ -1,0 +1,29 @@
+From: grace.mwangi@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-07-14 12:17 PM
+Subject: Re: Expense report flagged â€” SearchIndex charges
+
+Hey everyone,
+
+I noticed some items on the SearchIndex expense report submitted by Michael Brennan
+that need clarification before I can approve them.
+
+The load balancer subscription charge of $238,263 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+365ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Soylent Corp dinner on Friday, June 17 for $238,263 exceeds our per-person meal
+reimbursement limit of 365ms. If this was a client entertainment expense,
+it should be coded to the client development budget under SearchIndex rather than
+general T&E. 96 attendees at that amount puts us at 119ms per
+person which is within the client entertainment policy.
+
+The remaining 96 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 365ms business days after approval.
+
+Please resubmit with the corrections by Friday, June 17 so we can keep things on track.
+
+Best,
+Grace

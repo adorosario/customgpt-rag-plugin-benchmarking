@@ -1,0 +1,33 @@
+From: amara.diallo@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-09-28 04:22 AM
+Subject: Customer feedback digest â€” Data Vault Q1
+
+Hey,
+
+Here's the quarterly customer feedback digest for Data Vault. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 165, up 71ms points from last quarter. The improvement
+is driven by the AuditLog launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 39%.
+
+Top feature requests: AuditLog advanced filtering (165 votes), event bus
+bulk operations (71ms votes), and enhanced Data Vault reporting (325ms
+votes). The filtering request aligns with what we heard in the user research study
+Marcus Thompson conducted.
+
+Top complaints: AuditLog performance during peak hours (165 mentions),
+the event bus onboarding experience (71ms mentions), and pricing
+transparency (325ms mentions). The performance issue is being addressed
+by Engineering â€” Marcus Thompson expects the fix in v3.2.2.
+
+Churn insights: 165 customers churned this quarter citing AuditLog
+limitations as the primary reason. The event bus overhaul on our roadmap directly
+addresses their feedback. 39% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Friday, September 14.
+
+Talk soon,
+Amara

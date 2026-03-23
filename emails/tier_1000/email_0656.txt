@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-14 01:18 PM
+Subject: Email marketing performance â€” Q3 review
+
+Hey everyone,
+
+Here's the email marketing performance review for Q3. Overall we're trending
+in the right direction but there are a few areas to optimize.
+
+List health: our subscriber base grew 49% to 69ms contacts. Bounce
+rate is at 59 percent which is within healthy range. We ran a re-engagement
+campaign that recovered 169ms previously inactive subscribers.
+
+Campaign performance: the Enterprise Suite launch sequence was our top performer with a
+49% open rate. The SearchIndex technical series also did well, driving 59
+clicks to the resource hub. Lower performers were the generic newsletter sends â€” we
+should consider more targeted segmentation.
+
+Revenue attribution: email-sourced pipeline totals $442,263 this quarter, with
+69ms in closed-won revenue. The Wayne Enterprises deal originated from a nurture
+sequence touchpoint.
+
+Plans for next quarter: implementing behavioral triggers for the connection pool
+content, A/B testing send times for the Enterprise Suite audience, and building a new
+onboarding sequence for trial sign-ups. Tomoko Nakamura will help with the automation
+setup.
+
+Regards,
+Sofia

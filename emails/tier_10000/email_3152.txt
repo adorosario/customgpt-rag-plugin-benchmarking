@@ -1,0 +1,34 @@
+From: amara.diallo@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-05 12:38 AM
+Subject: Customer feedback digest â€” Insight Engine Q1
+
+Hi,
+
+Here's the quarterly customer feedback digest for Insight Engine. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 78, up 300ms points from last quarter. The improvement
+is driven by the AnalyticsDashboard launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 13%.
+
+Top feature requests: AnalyticsDashboard advanced filtering (78 votes), metrics collector
+bulk operations (300ms votes), and enhanced Insight Engine reporting (428ms
+votes). The filtering request aligns with what we heard in the user research study
+Rachel Nguyen conducted.
+
+Top complaints: AnalyticsDashboard performance during peak hours (78 mentions),
+the metrics collector onboarding experience (300ms mentions), and pricing
+transparency (428ms mentions). The performance issue is being addressed
+by Engineering â€” Rachel Nguyen expects the fix in v2.7.3.
+
+Churn insights: 78 customers churned this quarter citing AnalyticsDashboard
+limitations as the primary reason. The metrics collector overhaul on our roadmap directly
+addresses their feedback. 13% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, April 5.
+
+Best,
+Amara

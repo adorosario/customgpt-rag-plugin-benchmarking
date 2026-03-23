@@ -1,0 +1,26 @@
+From: wei.zhang@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-09-06 09:58 PM
+Subject: Deploy plan for FileStorageService v2.1.0
+
+Hey,
+
+Here's the deployment plan for FileStorageService v2.1.0. I've coordinated with
+Grace Mwangi on the rollout sequence and we're targeting Thursday, July 25 for the production push.
+
+Deployment order: staging first for smoke tests, then canary at 5%, ramp to 25%
+after one hour of clean metrics, then full rollout. The estimated total deployment
+window is two hours.
+
+Key changes in this release include the refactored event bus module, updated
+dependency versions, and the new health check endpoint. All changes have been through
+code review and the CI pipeline is green.
+
+Rollback plan: if error rates exceed 395ms at any stage, we revert to the
+previous release using the blue-green swap. Grace Mwangi will be on-call during the
+window.
+
+Please confirm you've reviewed the changelog and flag any concerns before Thursday, July 25.
+
+Best regards,
+Wei

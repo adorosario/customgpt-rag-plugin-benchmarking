@@ -1,0 +1,32 @@
+From: david.okonkwo@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-09-25 05:59 PM
+Subject: Vendor agreement â€” Soylent Corp terms review
+
+Hey everyone,
+
+I've reviewed the vendor agreement from Soylent Corp for the service mesh services
+we're procuring. Here are my findings and recommended changes.
+
+Term and renewal: the proposed 166-year term with auto-renewal is acceptable.
+However, the 102ms-day termination notice period is too long for our needs.
+I've countered with 160ms days, which aligns with our standard vendor
+management practices.
+
+Service level commitments: Soylent Corp is offering 23% uptime with service
+credits starting at 166 percent for each hour of downtime. I've pushed for
+a higher credit rate given the criticality of service mesh to our Insight Engine
+infrastructure.
+
+Data ownership: section 5 is clear that we retain all rights to our data. However,
+Soylent Corp claims a license to use aggregated, anonymized data for benchmarking. I
+want to narrow this to exclude any data from the NotificationEngine environment.
+Marcus Thompson from Engineering should review the technical implications.
+
+Pricing: $266,144 per year is within the budget that Finance approved. The payment
+terms are net 102ms days, which works for our AP schedule.
+
+Please confirm the business terms and I'll send the redlined agreement by Thursday, January 28.
+
+Best,
+David

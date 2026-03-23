@@ -1,0 +1,32 @@
+From: rachel.nguyen@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-09-29 04:49 AM
+Subject: Re: Workplace safety update â€” MessageBroker
+
+Hi team,
+
+Following up on the workplace safety review. The MessageBroker assessment is complete
+and here are the findings and required actions.
+
+Office inspections: all 190 floor areas passed the basic safety checklist.
+The serialization engine room needs minor improvements â€” the emergency exit signage has
+faded and one fire extinguisher is due for inspection by Wednesday, February 8. Carlos Rivera from
+facilities is handling these items.
+
+Ergonomic assessments: 310ms employees requested desk ergonomic reviews
+this quarter. Common issues include monitor height and chair adjustments. We've
+ordered 190 standing desk converters and 89ms ergonomic chairs based
+on the assessments.
+
+Emergency preparedness: the next fire drill is scheduled for Wednesday, February 8. All floor
+wardens need to complete the refresher training before then. 26% of wardens
+are current on their certifications.
+
+Incident report: 190 minor incidents were reported this quarter, all resolved
+without injury. The MessageBroker area has been flagged for improved lighting, with
+work scheduled for Wednesday, February 8.
+
+Please remind your teams about the safety hotline and reporting procedures.
+
+Thanks,
+Rachel

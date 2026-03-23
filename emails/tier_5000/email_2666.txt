@@ -1,0 +1,28 @@
+From: wei.zhang@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-09-23 11:55 PM
+Subject: Sprint v3.2.2 retrospective notes
+
+Hello,
+
+Here are the retrospective notes from sprint v3.2.2. Thanks to everyone who
+participated â€” we had good engagement this time.
+
+What went well: the SearchIndex feature shipped on time, Ravi Patel did an excellent
+job coordinating the cross-team dependency, and our CI pipeline reliability improved
+to 260ms from 493ms last sprint.
+
+What could improve: we underestimated the rate limiter integration work by about
+21%, which pushed two stories into the next sprint. We also had too many
+context switches mid-sprint from unplanned support requests.
+
+Action items: establish a support rotation so on-call duties don't fall on the same
+people, and break down large stories into smaller increments to improve estimation
+accuracy. Ravi Patel volunteered to draft the rotation schedule.
+
+Sprint v3.2.2 velocity was 47 points. Carrying over 8 points of unfinished
+work to the next sprint.
+
+Cheers,
+Wei

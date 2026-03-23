@@ -1,0 +1,28 @@
+From: carlos.rivera@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-11-13 09:58 PM
+Subject: Weekly pipeline review â€” Thursday, March 5
+
+Good morning,
+
+Here's the pipeline summary ahead of our weekly review meeting on Thursday, March 5.
+
+Total pipeline value: $337,993. Weighted pipeline: 304ms. We need
+416ms more in closed-won revenue to hit the Q3 target.
+
+Deals moving forward: Tyrell Corp is in final contract review and should close this
+week. Two mid-market opportunities in the Sync Platform space progressed to technical
+evaluation stage.
+
+At risk: one enterprise deal has gone quiet after we submitted pricing. Daniel Park
+is trying to reconnect with the champion. Another account pushed their evaluation
+to next Q3 due to internal restructuring.
+
+New leads: generated 175 new qualified leads from the conference last week.
+The DataPipeline demo was particularly well received. I've started outreach and
+have initial calls booked for 54% of them.
+
+Will walk through the details and forecasting adjustments in the meeting.
+
+Best,
+Carlos

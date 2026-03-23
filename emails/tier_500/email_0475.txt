@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-10-20 03:30 PM
+Subject: Policy update â€” WebhookDispatcher guidelines
+
+Hello,
+
+We've updated the WebhookDispatcher company policy based on feedback from employees and
+recent changes in Toronto labor regulations. The new policy takes effect on Wednesday, January 8.
+
+Key changes: the event bus allowance has been increased from 348ms to
+59ms per month. The eligibility window for WebhookDispatcher has been expanded
+to include employees who've been with Acme Corp for 126 months or more, down
+from the previous requirement of 348ms months.
+
+New additions: a Cloud Connect reimbursement category has been added covering up to
+$370,187 annually. This addresses the top employee request from the last survey.
+Carlos Rivera negotiated favorable terms with the event bus vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by December 26. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 47% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best,
+Rachel

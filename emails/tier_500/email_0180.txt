@@ -1,0 +1,26 @@
+From: derek.morrison@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-07-28 02:23 AM
+Subject: Pipeline update â€” Globex deal status
+
+Hi all,
+
+Quick update on the Globex opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $395,782 for the Insight Engine deployment. The
+decision timeline is end of Q1. Their main concern remains the integration
+with their existing DataPipeline infrastructure, which is why I've looped in Oluwaseun Adeyemi
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Globex is also evaluating one other vendor but our
+Insight Engine demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our load balancer capability.
+
+Next steps: technical architecture session on Friday, December 26, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 48%.
+
+Regards,
+Derek

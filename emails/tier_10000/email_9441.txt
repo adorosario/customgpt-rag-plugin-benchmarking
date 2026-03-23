@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-06-11 02:29 AM
+Subject: Re: User research findings â€” ReportingEngine
+
+Hey,
+
+Sharing the findings from the ReportingEngine user research study. We interviewed
+166 users and ran usability tests with 213ms participants over the
+last two weeks.
+
+Key insight 1: users find the queue processor workflow confusing â€” 6% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between ReportingEngine and the main Analytics Pro dashboard.
+
+Key insight 2: power users want more ReportingEngine customization options. They're
+currently using workarounds that involve 166 extra steps. The most requested
+feature is the ability to create custom queue processor templates.
+
+Key insight 3: new users consistently miss the ReportingEngine feature entirely.
+Discovery is poor â€” only 6% of new users try the feature within their first
+166 days. Rachel Nguyen suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the queue processor navigation flow, add the template
+feature to the Q3 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 6% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Regards,
+Mei

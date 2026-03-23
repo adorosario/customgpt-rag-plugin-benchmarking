@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-11-04 11:15 PM
+Subject: Customer feedback digest â€” Integration Hub Q4
+
+Hello,
+
+Here's the quarterly customer feedback digest for Integration Hub. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 134, up 113ms points from last quarter. The improvement
+is driven by the MessageBroker launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 56%.
+
+Top feature requests: MessageBroker advanced filtering (134 votes), logging pipeline
+bulk operations (113ms votes), and enhanced Integration Hub reporting (169ms
+votes). The filtering request aligns with what we heard in the user research study
+Carlos Rivera conducted.
+
+Top complaints: MessageBroker performance during peak hours (134 mentions),
+the logging pipeline onboarding experience (113ms mentions), and pricing
+transparency (169ms mentions). The performance issue is being addressed
+by Engineering â€” Carlos Rivera expects the fix in v2.6.0.
+
+Churn insights: 134 customers churned this quarter citing MessageBroker
+limitations as the primary reason. The logging pipeline overhaul on our roadmap directly
+addresses their feedback. 56% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, August 10.
+
+Talk soon,
+Mei

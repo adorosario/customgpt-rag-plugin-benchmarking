@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-16 08:20 AM
+Subject: FP&A update â€” Analytics Pro financial model
+
+Good afternoon,
+
+I've updated the Analytics Pro financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 194 per month based
+on the last 202ms months of data. Average contract value is tracking at
+$279,456, which is 26% above our original assumption. The BillingModule
+upsell rate of 287ms is a positive trend.
+
+Cost structure: the authentication module hosting costs are running 26% higher than
+modeled due to increased BillingModule usage. I've adjusted the variable cost
+per customer from 202ms to 287ms. Patrick O'Brien from Engineering
+says the optimization project should bring this down by 26% in Q3.
+
+Break-even analysis: with the revised numbers, Analytics Pro reaches contribution
+margin break-even at 194 customers, which we're projected to hit by Monday, October 11.
+Full break-even including allocated overhead comes at 202ms customers.
+
+Scenarios: the base case shows $279,456 in cumulative revenue by year end. The
+upside case with the Weyland-Yutani deal closing hits 287ms. Downside case
+assuming 26% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Thanks,
+Robert

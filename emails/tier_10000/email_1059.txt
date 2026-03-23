@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-06-23 04:30 AM
+Subject: Re: User research findings â€” AuthService
+
+Hi all,
+
+Sharing the findings from the AuthService user research study. We interviewed
+184 users and ran usability tests with 205ms participants over the
+last two weeks.
+
+Key insight 1: users find the event bus workflow confusing â€” 44% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between AuthService and the main Enterprise Suite dashboard.
+
+Key insight 2: power users want more AuthService customization options. They're
+currently using workarounds that involve 184 extra steps. The most requested
+feature is the ability to create custom event bus templates.
+
+Key insight 3: new users consistently miss the AuthService feature entirely.
+Discovery is poor â€” only 44% of new users try the feature within their first
+184 days. Sofia Martinez suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the event bus navigation flow, add the template
+feature to the Q3 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 44% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Best,
+Mei

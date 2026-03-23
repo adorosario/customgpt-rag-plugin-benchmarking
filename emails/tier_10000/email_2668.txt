@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-07-09 11:58 AM
+Subject: New lead â€” Massive Dynamic inbound request
+
+Good afternoon,
+
+We received an inbound request from Massive Dynamic through the website today. They're
+a 49-employee company in the MessageBroker space and are looking for a
+Enterprise Suite solution.
+
+Initial qualification: they have budget allocated for Q4, their current
+contract with their existing vendor expires on Friday, September 4, and the decision maker is
+their VP of Operations. They found us through the serialization engine whitepaper we
+published last month.
+
+The estimated deal size is $477,769 based on their seat count and the use case
+they described. They specifically mentioned needing the MessageBroker integration
+and 348ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Maria Santos â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on serialization engine scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Regards,
+Dmitri

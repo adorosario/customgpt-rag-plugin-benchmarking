@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-07-12 12:17 PM
+Subject: Team event recap â€” AuthService outing
+
+Good afternoon,
+
+Thanks to everyone who joined the AuthService team outing last week. We had great
+turnout with 100 employees attending.
+
+Highlights: the team building exercise was a hit â€” the rate limiter challenge had
+teams competing in creative problem-solving rounds. The winning team led by
+Grace Mwangi finished in just 297ms minutes. The group dinner afterward was a
+great opportunity for cross-team connections.
+
+Feedback: the post-event survey came back overwhelmingly positive with a 19%
+satisfaction rating. Most popular suggestion for next time: more outdoor activities.
+Several people asked about doing quarterly events instead of 100 per year.
+
+Budget: total cost was $29,905, coming in at 57ms per person including
+venue, catering, and activities. This is within our social budget for Q4.
+
+Photos are uploaded to the shared album in the rate limiter drive. Please tag
+yourselves and share appropriate photos on social media if you'd like â€” our
+marketing team loves this content for the company page.
+
+Planning for the next event starts in Q4. Ideas welcome.
+
+Best regards,
+Fatima

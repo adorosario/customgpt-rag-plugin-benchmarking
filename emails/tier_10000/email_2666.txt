@@ -1,0 +1,28 @@
+From: jun.tanaka@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-11-03 04:22 PM
+Subject: New lead â€” Pied Piper inbound request
+
+Hey everyone,
+
+We received an inbound request from Pied Piper through the website today. They're
+a 65-employee company in the SearchIndex space and are looking for a
+Sync Platform solution.
+
+Initial qualification: they have budget allocated for Q3, their current
+contract with their existing vendor expires on Monday, March 10, and the decision maker is
+their VP of Operations. They found us through the rate limiter whitepaper we
+published last month.
+
+The estimated deal size is $128,040 based on their seat count and the use case
+they described. They specifically mentioned needing the SearchIndex integration
+and 402ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Yuki Sato â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on rate limiter scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Talk soon,
+Jun

@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-29 10:09 AM
+Subject: Tax planning â€” Q3 estimated payments
+
+Good morning,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the PaymentGateway investment
+deductions.
+
+Federal estimate: $57,521 based on projected taxable income of 214ms.
+This reflects the PaymentGateway depreciation deductions and the R&D tax credit for
+the Data Vault development costs. Derek Morrison from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $57,521 for our primary jurisdiction and 299ms for the
+Toronto office based on the apportionment factors. The Toronto rate change that
+takes effect on Wednesday, July 15 will impact our Q3 estimate by approximately 32
+percent.
+
+International: with the Toronto office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Derek Morrison to handle
+the registration. Setup cost is $57,521 with ongoing compliance costs of
+299ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Wednesday, July 15. I'll prepare the
+payment authorization for your signature by October 8. Underpayment penalties
+start at 24% so timely filing is important.
+
+Best,
+Robert

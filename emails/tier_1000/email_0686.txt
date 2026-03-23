@@ -1,0 +1,29 @@
+From: derek.morrison@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-11 12:56 AM
+Subject: Quarterly territory review â€” Q3
+
+Good afternoon,
+
+Here's my territory review for Q3. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 87 qualified opportunities worth a combined $460,037 in
+ARR. The largest deal is Wayne Enterprises at 216ms, which I expect to close by
+Wednesday, February 19. Three other deals in the 345ms range are progressing through
+procurement.
+
+Wins this quarter: closed Wayne Enterprises for Enterprise Suite with a 19% upsell from
+their initial scope. The rate limiter add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Ravi Patel to the Wayne Enterprises executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Thanks,
+Derek

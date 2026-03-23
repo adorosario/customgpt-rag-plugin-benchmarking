@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-09-06 07:10 PM
+Subject: Analytics report â€” Cloud Connect campaign performance
+
+Good morning,
+
+Here's the performance report for the Cloud Connect campaign through Wednesday, November 23.
+
+Website traffic: up 8% month over month, driven primarily by the FileStorageService
+comparison blog post which brought in 121 unique visitors. Organic search is
+growing steadily â€” the event bus keyword cluster is now ranking on page one.
+
+Lead generation: 340ms marketing qualified leads this month against a
+target of 429ms. The whitepaper download page converted at 8% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 121 percent.
+
+Email campaigns: the Cloud Connect nurture sequence has a 8% open rate and
+121 percent click-through rate. The top-performing email was the FileStorageService
+case study with Tyrell Corp. Aisha Okafor suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $215,709 which is 8% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Regards,
+Laura

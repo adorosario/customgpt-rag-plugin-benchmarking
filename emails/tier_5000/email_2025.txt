@@ -1,0 +1,30 @@
+From: michael.brennan@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-24 07:54 AM
+Subject: Re: Expense report flagged â€” NotificationEngine charges
+
+Hey,
+
+I noticed some items on the NotificationEngine expense report submitted by Tomoko Nakamura
+that need clarification before I can approve them.
+
+The logging pipeline subscription charge of $292,409 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+330ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Wayne Enterprises dinner on Thursday, July 10 for $292,409 exceeds our per-person meal
+reimbursement limit of 330ms. If this was a client entertainment expense,
+it should be coded to the client development budget under NotificationEngine rather than
+general T&E. 38 attendees at that amount puts us at 214ms per
+person which is within the client entertainment policy.
+
+The remaining 38 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 330ms business days after approval.
+
+Please resubmit with the corrections by Thursday, July 10 so we can keep things on track.
+
+Thanks,
+Michael

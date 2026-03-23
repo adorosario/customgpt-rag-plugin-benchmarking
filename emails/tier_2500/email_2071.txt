@@ -1,0 +1,31 @@
+From: fatima.al-rashid@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-07-21 03:13 AM
+Subject: Training program â€” APIGateway certification
+
+Good afternoon,
+
+We're launching a new APIGateway certification training program for interested
+employees. This is part of our learning and development investment for Q2.
+
+Program details: the course runs for 126 weeks and covers serialization engine
+fundamentals through advanced topics. Sessions are held twice a week for 394ms
+hours each. Grace Mwangi from the Engineering team will facilitate the hands-on labs.
+
+Eligibility: open to all employees. Priority enrollment goes to the Engineering and
+Engineering teams since the certification is directly relevant to their roles. We
+have 232ms spots available for the first cohort.
+
+Cost: Acme Corp covers 37% of the certification exam fee upon course
+completion. The total investment per employee is $74,623 including materials and
+exam vouchers.
+
+Commitment: participants are expected to dedicate 126 hours per week to
+coursework outside of the live sessions. Managers must approve the time commitment
+for their reports.
+
+Registration opens on Wednesday, January 17 and closes when spots are filled. Sign up through
+the serialization engine learning portal.
+
+Best,
+Fatima

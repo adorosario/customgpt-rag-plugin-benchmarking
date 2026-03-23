@@ -1,0 +1,30 @@
+From: kwame.asante@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-06-07 09:55 AM
+Subject: Policy update â€” NotificationEngine guidelines
+
+Hi all,
+
+We've updated the NotificationEngine company policy based on feedback from employees and
+recent changes in San Francisco labor regulations. The new policy takes effect on Monday, September 5.
+
+Key changes: the authentication module allowance has been increased from 233ms to
+405ms per month. The eligibility window for NotificationEngine has been expanded
+to include employees who've been with Acme Corp for 132 months or more, down
+from the previous requirement of 233ms months.
+
+New additions: a Cloud Connect reimbursement category has been added covering up to
+$283,439 annually. This addresses the top employee request from the last survey.
+Michael Brennan negotiated favorable terms with the authentication module vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by June 10. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 40% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Cheers,
+Kwame

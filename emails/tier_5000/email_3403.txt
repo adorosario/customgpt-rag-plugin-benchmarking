@@ -1,0 +1,29 @@
+From: derek.morrison@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-07-20 01:10 AM
+Subject: Re: Sync Platform demo feedback from Hooli
+
+Hi all,
+
+Great news from the Hooli demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the event bus dashboard got the biggest reaction. Their
+current tool requires 172 manual steps to accomplish what our Sync Platform does
+automatically. The NotificationEngine integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 419ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v1.9.5 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Sarah Chen, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Sync Platform trial environment set up for their team of
+172 evaluators. I'll submit the trial request today. Target close date
+remains Wednesday, September 8.
+
+Thanks,
+Derek

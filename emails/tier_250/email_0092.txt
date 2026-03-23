@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-29 08:13 AM
+Subject: Budget review â€” Product department Q3
+
+Good morning,
+
+Here's the Q3 budget review for the Product department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $274,706 against a budget of 182ms. The 59% variance is
+primarily driven by the accelerated SearchIndex hiring that was approved mid-quarter.
+Personnel costs came in at 441ms which includes the 168 new hires.
+
+Overages: the serialization engine infrastructure line item exceeded budget by 59% due
+to the unplanned scaling requirements for Insight Engine. I've worked with Maria Santos
+from Engineering to project the run rate going forward â€” we should budget an
+additional $274,706 per quarter for this category.
+
+Underspend: the SearchIndex consulting budget was only 59% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 59%
+of the total annual budget. The main risk is the serialization engine cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Regards,
+Ananya

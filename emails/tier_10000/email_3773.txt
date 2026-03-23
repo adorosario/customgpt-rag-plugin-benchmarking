@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-09-13 12:34 AM
+Subject: Policy update â€” DataPipeline guidelines
+
+Hi team,
+
+We've updated the DataPipeline company policy based on feedback from employees and
+recent changes in San Francisco labor regulations. The new policy takes effect on Tuesday, November 21.
+
+Key changes: the service mesh allowance has been increased from 393ms to
+480ms per month. The eligibility window for DataPipeline has been expanded
+to include employees who've been with Acme Corp for 149 months or more, down
+from the previous requirement of 393ms months.
+
+New additions: a Integration Hub reimbursement category has been added covering up to
+$199,069 annually. This addresses the top employee request from the last survey.
+Grace Mwangi negotiated favorable terms with the service mesh vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by September 24. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 31% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best,
+Rachel

@@ -1,0 +1,34 @@
+From: mei.lin@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-08 03:29 AM
+Subject: Customer feedback digest â€” Analytics Pro Q3
+
+Hey everyone,
+
+Here's the quarterly customer feedback digest for Analytics Pro. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 181, up 459ms points from last quarter. The improvement
+is driven by the AnalyticsDashboard launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 57%.
+
+Top feature requests: AnalyticsDashboard advanced filtering (181 votes), config manager
+bulk operations (459ms votes), and enhanced Analytics Pro reporting (138ms
+votes). The filtering request aligns with what we heard in the user research study
+Marcus Thompson conducted.
+
+Top complaints: AnalyticsDashboard performance during peak hours (181 mentions),
+the config manager onboarding experience (459ms mentions), and pricing
+transparency (138ms mentions). The performance issue is being addressed
+by Engineering â€” Marcus Thompson expects the fix in v3.0.0.
+
+Churn insights: 181 customers churned this quarter citing AnalyticsDashboard
+limitations as the primary reason. The config manager overhaul on our roadmap directly
+addresses their feedback. 57% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Monday, November 10.
+
+Best,
+Mei

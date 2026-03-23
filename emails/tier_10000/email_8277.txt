@@ -1,0 +1,34 @@
+From: amara.diallo@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-07-15 07:49 AM
+Subject: Competitive analysis â€” PaymentGateway market update
+
+Hey,
+
+Sharing the latest competitive landscape analysis for the PaymentGateway market.
+Several developments this quarter that we should factor into our strategy.
+
+Cyberdyne released a major update to their PaymentGateway product. Key additions
+include connection pool support and a redesigned dashboard. Their pricing remains at
+$420,674 per seat which undercuts us by 37%. However, their enterprise
+features are still behind ours â€” no SSO, limited API access, and 493ms
+user cap on their standard plan.
+
+Market trends: the PaymentGateway category grew 37% year over year. Analyst
+reports are emphasizing connection pool capabilities as the key differentiator for
+enterprise buyers. Our Analytics Pro scores well on this dimension.
+
+Win/loss analysis: we won 170 of the last 493ms competitive deals.
+Primary win reasons: PaymentGateway depth and customer support quality. Primary loss
+reasons: price sensitivity and connection pool ease of use. Elena Vasquez from Sales
+provided the deal-level data.
+
+Recommendations: accelerate the connection pool simplification effort on our roadmap,
+consider a mid-market pricing tier at $420,674 to compete on price, and publish
+more PaymentGateway comparison content for SEO.
+
+Full analysis is in the competitive intelligence folder. Let's discuss at the
+strategy meeting on Thursday, July 10.
+
+Regards,
+Amara

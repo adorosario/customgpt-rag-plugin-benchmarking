@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-21 07:51 PM
+Subject: Vendor payment schedule â€” Q3
+
+Hi team,
+
+Here's the vendor payment schedule for Q3. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Soylent Corp invoice for $154,985 is due on Monday, April 2 with a
+26% early payment discount if we pay within 138 days. I recommend
+taking the discount â€” it saves us 282ms. The PaymentGateway annual
+license renewal of 373ms is due Monday, April 2 with no discount available.
+
+Standard schedule: 138 vendor invoices totaling $154,985 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-373ms terms with payments going out every 138 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The serialization engine vendor
+overbilled us by $154,985 on the PaymentGateway usage charges. Maria Santos is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q3 are projected at $154,985. This
+is 26% higher than last quarter due to the PaymentGateway infrastructure
+investment and the New York office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Regards,
+Grace

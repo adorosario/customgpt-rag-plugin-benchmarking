@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-10-10 07:53 AM
+Subject: Customer feedback digest â€” Analytics Pro Q3
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Analytics Pro. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 29, up 419ms points from last quarter. The improvement
+is driven by the MessageBroker launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 26%.
+
+Top feature requests: MessageBroker advanced filtering (29 votes), queue processor
+bulk operations (419ms votes), and enhanced Analytics Pro reporting (263ms
+votes). The filtering request aligns with what we heard in the user research study
+Carlos Rivera conducted.
+
+Top complaints: MessageBroker performance during peak hours (29 mentions),
+the queue processor onboarding experience (419ms mentions), and pricing
+transparency (263ms mentions). The performance issue is being addressed
+by Engineering â€” Carlos Rivera expects the fix in v4.1.0.
+
+Churn insights: 29 customers churned this quarter citing MessageBroker
+limitations as the primary reason. The queue processor overhaul on our roadmap directly
+addresses their feedback. 26% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Friday, April 10.
+
+Talk soon,
+Liam

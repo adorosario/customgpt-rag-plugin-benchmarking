@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-17 10:36 PM
+Subject: Budget review â€” Sales department Q1
+
+Hi,
+
+Here's the Q1 budget review for the Sales department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $186,103 against a budget of 335ms. The 48% variance is
+primarily driven by the accelerated AuditLog hiring that was approved mid-quarter.
+Personnel costs came in at 330ms which includes the 82 new hires.
+
+Overages: the caching layer infrastructure line item exceeded budget by 48% due
+to the unplanned scaling requirements for Sync Platform. I've worked with Grace Mwangi
+from Engineering to project the run rate going forward â€” we should budget an
+additional $186,103 per quarter for this category.
+
+Underspend: the AuditLog consulting budget was only 48% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 48%
+of the total annual budget. The main risk is the caching layer cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Talk soon,
+Michael

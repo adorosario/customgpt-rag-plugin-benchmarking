@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-09-26 04:52 AM
+Subject: Onboarding schedule â€” new hire starting Friday, March 14
+
+Hello,
+
+We have a new team member joining Legal on Friday, March 14. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, FileStorageService systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Mei Lin will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Integration Hub and the serialization engine tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Friday, March 14. All software licenses including FileStorageService and serialization engine access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 182 people to schedule intro meetings with, and first
+204ms-day goals. Please send these to Mei Lin in People Ops.
+
+Welcome email goes out 182 days before start date.
+
+Best,
+Fatima

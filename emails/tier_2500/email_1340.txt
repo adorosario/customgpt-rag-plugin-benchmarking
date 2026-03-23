@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-07-03 04:28 PM
+Subject: Beta program update â€” Data Vault v3.8.1
+
+Hey,
+
+Quick update on the Data Vault v3.8.1 beta program. We're 24 weeks into
+the beta period with 244ms customers participating.
+
+Usage data: 28% of beta participants have activated the new AnalyticsDashboard
+feature. Average daily usage is 24 sessions per user. The connection pool
+workflow is being used by 71ms of participants, which exceeds our
+adoption target of 244ms.
+
+Feedback summary: overall sentiment is positive. The top 24 pieces of praise
+relate to the AnalyticsDashboard speed improvement and the new connection pool interface.
+The top 244ms complaints are about the AnalyticsDashboard configuration complexity
+and a confusing error message in the connection pool flow.
+
+Bugs found: 24 bugs reported, of which 244ms are critical. Mei Lin
+from Engineering has fixed 71ms of the critical bugs. The remaining one
+is related to the AnalyticsDashboard edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Monday, May 22. The GA release is targeted for 24 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Monday, May 22 to finalize the GA scope.
+
+Best,
+Sanjay

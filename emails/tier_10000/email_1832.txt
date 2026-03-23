@@ -1,0 +1,26 @@
+From: jun.tanaka@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-11-28 03:34 AM
+Subject: Pipeline update â€” Stark Industries deal status
+
+Hello,
+
+Quick update on the Stark Industries opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $459,911 for the Analytics Pro deployment. The
+decision timeline is end of Q2. Their main concern remains the integration
+with their existing AuthService infrastructure, which is why I've looped in Priya Sharma
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Stark Industries is also evaluating one other vendor but our
+Analytics Pro demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our authentication module capability.
+
+Next steps: technical architecture session on Thursday, December 18, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 28%.
+
+Thanks,
+Jun

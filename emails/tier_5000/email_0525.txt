@@ -1,0 +1,33 @@
+From: sarah.chen@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-11-04 11:47 AM
+Subject: Data privacy assessment â€” Data Vault
+
+Hi all,
+
+The data privacy impact assessment for Data Vault is complete. I'm flagging the key
+findings and required actions for the team.
+
+Data inventory: Data Vault processes 49 categories of personal data including
+names, email addresses, and usage analytics. The data flows through our DataPipeline
+infrastructure and is stored in the caching layer environment in San Francisco.
+
+Risk findings: overall risk level is moderate. The primary concern is the
+cross-border data transfer to the San Francisco processing center. We need to implement
+standard contractual clauses with our DataPipeline sub-processor. Carlos Rivera from
+Engineering confirmed the technical safeguards are already in place.
+
+Consent mechanism: the current Data Vault consent flow meets requirements for
+32% of our user base. For users in regulated jurisdictions, we need to add
+explicit opt-in for the caching layer analytics features. This is a 49-sprint
+effort according to the Product team.
+
+Records of processing: I've updated our data register to include all Data Vault
+processing activities. The register needs to be reviewed every 367ms months
+per our policy.
+
+Next step: executive sign-off on the DPIA by Tuesday, June 21. Please review the full
+report in the shared drive.
+
+Best,
+Sarah

@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-06-28 08:33 AM
+Subject: Conference recap â€” Analytics Pro booth results
+
+Hi all,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Analytics Pro booth drew consistent traffic throughout.
+
+Lead collection: 123 badge scans at the booth, of which 145ms are
+qualified leads based on our initial review. The DataPipeline live demo was the
+biggest draw, and Michael Brennan from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+metrics collector roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Analytics Pro had 462ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 123 times since we posted it.
+
+Budget: we came in at $283,990, which is 9% under budget. The savings came
+from sharing the booth infrastructure with the DataPipeline partner showcase.
+
+I'll prepare a full ROI analysis by Thursday, January 8 once we've completed lead follow-up.
+
+Best,
+Laura

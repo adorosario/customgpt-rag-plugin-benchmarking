@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-02 10:30 AM
+Subject: Tax planning â€” Q3 estimated payments
+
+Hi,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the MessageBroker investment
+deductions.
+
+Federal estimate: $372,518 based on projected taxable income of 58ms.
+This reflects the MessageBroker depreciation deductions and the R&D tax credit for
+the Enterprise Suite development costs. Ravi Patel from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $372,518 for our primary jurisdiction and 166ms for the
+New York office based on the apportionment factors. The New York rate change that
+takes effect on Wednesday, October 27 will impact our Q3 estimate by approximately 80
+percent.
+
+International: with the New York office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Ravi Patel to handle
+the registration. Setup cost is $372,518 with ongoing compliance costs of
+166ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Wednesday, October 27. I'll prepare the
+payment authorization for your signature by October 6. Underpayment penalties
+start at 15% so timely filing is important.
+
+Regards,
+Grace

@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-06-15 03:20 AM
+Subject: Press release draft â€” Data Vault announcement
+
+Good morning,
+
+The press release for the Data Vault announcement is ready for internal review. I've
+incorporated feedback from Kwame Asante and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the AuditLog capability and positions Acme Corp as a leader
+in the rate limiter space. We're leading with the 68 performance improvement
+stat and the Tyrell Corp customer quote.
+
+Distribution plan: wire service distribution on Tuesday, April 15, followed by targeted
+outreach to our 395ms media contacts in the industry. I've secured a briefing
+with AuditLog Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Data Vault landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 68-hour cadence on launch day.
+
+Embargo: the release is under embargo until Tuesday, April 15 at 9 AM ET. Please don't share
+details externally before then. Kwame Asante has the full distribution list.
+
+Review deadline is Tuesday, April 15. Please send edits as comments in the doc.
+
+Cheers,
+James

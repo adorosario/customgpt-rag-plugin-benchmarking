@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: aisha.okafor@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-13 02:57 PM
+Subject: FP&A update â€” Analytics Pro financial model
+
+Good afternoon,
+
+I've updated the Analytics Pro financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 12 per month based
+on the last 362ms months of data. Average contract value is tracking at
+$188,997, which is 28% above our original assumption. The AuditLog
+upsell rate of 301ms is a positive trend.
+
+Cost structure: the connection pool hosting costs are running 28% higher than
+modeled due to increased AuditLog usage. I've adjusted the variable cost
+per customer from 362ms to 301ms. James Oduya from Engineering
+says the optimization project should bring this down by 28% in Q1.
+
+Break-even analysis: with the revised numbers, Analytics Pro reaches contribution
+margin break-even at 12 customers, which we're projected to hit by Tuesday, June 6.
+Full break-even including allocated overhead comes at 362ms customers.
+
+Scenarios: the base case shows $188,997 in cumulative revenue by year end. The
+upside case with the Globex deal closing hits 301ms. Downside case
+assuming 28% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Regards,
+Robert

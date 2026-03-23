@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-06-06 03:22 PM
+Subject: Social media strategy â€” Q3
+
+Hi all,
+
+Presenting the social media strategy refresh for Q3. Based on our Sync Platform
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our AnalyticsDashboard posts are averaging 35 impressions and 7% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 7% educational content about logging pipeline topics, 35
+percent product highlights, and the rest for company culture and employee spotlights.
+Aisha Okafor will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Sync Platform use cases and answer audience questions. First session on Thursday, February 13 featuring
+Aisha Okafor.
+
+Budget: $41,823 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 205ms new followers and 446ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Talk soon,
+Laura

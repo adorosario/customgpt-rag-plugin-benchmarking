@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-30 07:04 AM
+Subject: Cash flow forecast â€” Q3
+
+Good morning,
+
+Attached is the cash flow forecast for Q3. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $163,901 based on the current AR aging
+and sales pipeline. The Oscorp payment of 441ms is expected by Friday, October 19
+â€” Derek Morrison from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the CacheLayer infrastructure
+investment at $163,901. The Sydney office build-out costs will hit in Q3
+with an estimated total of 240ms. Payroll continues at 441ms
+monthly for our 107-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $163,901 in the second month. This provides 107 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Oscorp deal slips from Q3 to next quarter, we'll
+need to draw on the credit facility for $163,901. I've confirmed the line is
+available. Derek Morrison and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Best regards,
+Ananya

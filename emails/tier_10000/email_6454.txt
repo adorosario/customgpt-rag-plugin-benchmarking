@@ -1,0 +1,33 @@
+From: amara.diallo@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-09-20 07:10 AM
+Subject: Customer feedback digest â€” Analytics Pro Q2
+
+Hi team,
+
+Here's the quarterly customer feedback digest for Analytics Pro. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 19, up 166ms points from last quarter. The improvement
+is driven by the WebhookDispatcher launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 60%.
+
+Top feature requests: WebhookDispatcher advanced filtering (19 votes), config manager
+bulk operations (166ms votes), and enhanced Analytics Pro reporting (339ms
+votes). The filtering request aligns with what we heard in the user research study
+Sanjay Krishnamurthy conducted.
+
+Top complaints: WebhookDispatcher performance during peak hours (19 mentions),
+the config manager onboarding experience (166ms mentions), and pricing
+transparency (339ms mentions). The performance issue is being addressed
+by Engineering â€” Sanjay Krishnamurthy expects the fix in v1.9.5.
+
+Churn insights: 19 customers churned this quarter citing WebhookDispatcher
+limitations as the primary reason. The config manager overhaul on our roadmap directly
+addresses their feedback. 60% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Friday, June 22.
+
+Talk soon,
+Amara

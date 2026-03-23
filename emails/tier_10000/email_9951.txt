@@ -1,0 +1,33 @@
+From: david.okonkwo@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-10-11 01:16 AM
+Subject: Contract review â€” Tyrell Corp agreement
+
+Hello,
+
+I've completed the review of the Tyrell Corp agreement and have several items that
+need attention before we can proceed to execution.
+
+Liability cap: the current draft limits liability to $272,741, which is below our
+standard threshold of 356ms for deals of this size. I recommend pushing back
+to at least 363ms. Marcus Thompson from Sales should be prepared for this
+negotiation point.
+
+IP assignment clause: section 7.3 includes an overly broad IP assignment that could
+capture pre-existing work product. I've drafted narrower language that protects our
+existing SearchIndex IP while still meeting Tyrell Corp's requirements for the
+Sync Platform deliverables.
+
+Data processing: the DPA needs to be updated to reflect the new config manager
+architecture. Since data will transit through the London data center, we need to
+ensure compliance with local data residency requirements.
+
+Indemnification: the mutual indemnification provisions are reasonable. I've accepted
+them with minor clarifications on the notice period â€” changed from 43 to
+356ms business days.
+
+I'll send the redlined version by Wednesday, September 10. Please review the business terms and
+confirm the commercial intent before I finalize.
+
+Cheers,
+David

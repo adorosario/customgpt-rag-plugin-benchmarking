@@ -1,0 +1,28 @@
+From: marcus.thompson@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-08-29 11:35 PM
+Subject: Re: AuditLog â€” tech debt prioritization
+
+Hi team,
+
+Following up on the tech debt discussion from yesterday's sprint planning. I've
+categorized the outstanding items for AuditLog into three tiers based on risk
+and effort.
+
+High priority: the deprecated queue processor dependency needs to be replaced before
+Tuesday, December 10 when upstream support ends. This is roughly a 158 effort and Alex Chen
+has volunteered to own it.
+
+Medium priority: the test coverage gap in the AuditLog integration layer. We're
+at 141ms coverage but our target is 183ms. Filling this gap would
+have caught the regression we saw last sprint.
+
+Low priority: the logging format standardization. It's annoying but not blocking
+anything. I'd suggest we tackle it opportunistically when someone is already
+touching those files.
+
+My proposal is to allocate 52% of next sprint's capacity to the high-priority
+item. Thoughts?
+
+Cheers,
+Marcus

@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-07-07 07:12 PM
+Subject: Financial close checklist â€” Q2
+
+Good afternoon,
+
+The Q2 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Sync Platform invoices must be issued by Friday, April 17. Any revenue recognition
+adjustments for the NotificationEngine contracts need supporting documentation uploaded
+to rate limiter. Alex Chen from Sales must confirm final deal amounts by January 23.
+
+Expenses: all expense reports for Q2 must be submitted by Friday, April 17. The
+NotificationEngine vendor invoices totaling $175,597 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, NotificationEngine subscription costs,
+and the rate limiter usage charges by Friday, April 17. Any non-standard accruals above
+115ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, NotificationEngine account reconciliation, and
+inter-company balances must be completed by Friday, April 17. Alex Chen is handling the
+bank rec. I'll take the inter-company items since they involve the Berlin entity.
+
+Target: books closed within 48 business days of quarter end. Final reporting
+package to leadership by Friday, April 17.
+
+Best,
+Grace

@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-06-15 03:33 AM
+Subject: Payroll adjustment â€” Monday, June 24 cycle
+
+Hi team,
+
+Several payroll adjustments need to be processed for the Monday, June 24 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 69 employees received approved raises effective Monday, June 24. The
+total monthly payroll impact is $181,128. The largest increase is for Priya Sharma
+whose compensation moves from 122ms to 413ms based on the promotion
+approved in the Q3 review cycle.
+
+New hires: 69 new employees starting on Monday, June 24 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Priya Sharma
+in People Ops has verified the documentation.
+
+Bonus payouts: the NotificationEngine project completion bonus of $181,128 each goes to
+69 team members. These are one-time payments coded to the Marketing department
+budget. Tax withholding will be calculated at the supplemental rate of 11%.
+
+Deduction changes: 69 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from caching layer.
+
+Please approve the batch by July 25 to ensure on-time processing.
+
+Cheers,
+Grace

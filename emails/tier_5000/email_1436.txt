@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-10-21 12:26 PM
+Subject: Beta program update â€” Enterprise Suite v2.4.1
+
+Good morning,
+
+Quick update on the Enterprise Suite v2.4.1 beta program. We're 109 weeks into
+the beta period with 149ms customers participating.
+
+Usage data: 43% of beta participants have activated the new BillingModule
+feature. Average daily usage is 109 sessions per user. The config manager
+workflow is being used by 295ms of participants, which exceeds our
+adoption target of 149ms.
+
+Feedback summary: overall sentiment is positive. The top 109 pieces of praise
+relate to the BillingModule speed improvement and the new config manager interface.
+The top 149ms complaints are about the BillingModule configuration complexity
+and a confusing error message in the config manager flow.
+
+Bugs found: 109 bugs reported, of which 149ms are critical. Oluwaseun Adeyemi
+from Engineering has fixed 295ms of the critical bugs. The remaining one
+is related to the BillingModule edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Tuesday, November 18. The GA release is targeted for 109 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Tuesday, November 18 to finalize the GA scope.
+
+Thanks,
+Sanjay

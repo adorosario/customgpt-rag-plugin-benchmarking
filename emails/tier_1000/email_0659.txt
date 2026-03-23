@@ -1,0 +1,26 @@
+From: carlos.rivera@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-07-14 12:24 AM
+Subject: Pipeline update â€” Massive Dynamic deal status
+
+Hi,
+
+Quick update on the Massive Dynamic opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $475,221 for the Integration Hub deployment. The
+decision timeline is end of Q3. Their main concern remains the integration
+with their existing APIGateway infrastructure, which is why I've looped in David Okonkwo
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Massive Dynamic is also evaluating one other vendor but our
+Integration Hub demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our service mesh capability.
+
+Next steps: technical architecture session on Monday, March 27, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 28%.
+
+Regards,
+Carlos

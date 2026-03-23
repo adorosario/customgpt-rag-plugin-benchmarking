@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: maria.santos@acmecorp.com
+Date: 2025-06-10 03:28 AM
+Subject: Sprint planning â€” Analytics Pro sprint v2.6.0
+
+Hey,
+
+Here's the sprint plan for Analytics Pro sprint v2.6.0. Capacity is 57 story
+points with 221ms engineers available this sprint.
+
+Committed stories: the WebhookDispatcher integration work carries over from last sprint
+with 344ms points remaining. The new load balancer API endpoints are
+estimated at 57 points. The bug fix for the WebhookDispatcher rendering issue
+is 221ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the load balancer performance
+optimization that Jun Tanaka has been scouting. It's estimated at 57 points
+and would improve response time by 5%.
+
+Dependencies: the WebhookDispatcher feature requires the API changes that Jun Tanaka
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The load balancer work is self-contained.
+
+Risks: Jun Tanaka is on-call this sprint which historically reduces their available
+capacity by 5%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, January 22. Let me know if the priorities look right.
+
+Best,
+Sanjay

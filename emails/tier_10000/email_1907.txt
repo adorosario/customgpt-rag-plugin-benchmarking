@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-06-14 09:37 PM
+Subject: Budget review â€” Marketing department Q1
+
+Hi,
+
+Here's the Q1 budget review for the Marketing department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $367,430 against a budget of 102ms. The 36% variance is
+primarily driven by the accelerated MessageBroker hiring that was approved mid-quarter.
+Personnel costs came in at 67ms which includes the 38 new hires.
+
+Overages: the rate limiter infrastructure line item exceeded budget by 36% due
+to the unplanned scaling requirements for Data Vault. I've worked with Ananya Desai
+from Engineering to project the run rate going forward â€” we should budget an
+additional $367,430 per quarter for this category.
+
+Underspend: the MessageBroker consulting budget was only 36% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 36%
+of the total annual budget. The main risk is the rate limiter cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Thanks,
+Grace

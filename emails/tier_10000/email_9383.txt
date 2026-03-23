@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-14 03:47 AM
+Subject: Budget review â€” Finance department Q4
+
+Hi team,
+
+Here's the Q4 budget review for the Finance department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $331,460 against a budget of 201ms. The 39% variance is
+primarily driven by the accelerated WebhookDispatcher hiring that was approved mid-quarter.
+Personnel costs came in at 258ms which includes the 81 new hires.
+
+Overages: the load balancer infrastructure line item exceeded budget by 39% due
+to the unplanned scaling requirements for Cloud Connect. I've worked with Hannah Goldstein
+from Engineering to project the run rate going forward â€” we should budget an
+additional $331,460 per quarter for this category.
+
+Underspend: the WebhookDispatcher consulting budget was only 39% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 39%
+of the total annual budget. The main risk is the load balancer cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Cheers,
+Robert

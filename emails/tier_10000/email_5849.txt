@@ -1,0 +1,34 @@
+From: amara.diallo@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-27 05:06 PM
+Subject: Customer feedback digest â€” Cloud Connect Q3
+
+Good morning,
+
+Here's the quarterly customer feedback digest for Cloud Connect. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 143, up 207ms points from last quarter. The improvement
+is driven by the CacheLayer launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 37%.
+
+Top feature requests: CacheLayer advanced filtering (143 votes), connection pool
+bulk operations (207ms votes), and enhanced Cloud Connect reporting (60ms
+votes). The filtering request aligns with what we heard in the user research study
+Sanjay Krishnamurthy conducted.
+
+Top complaints: CacheLayer performance during peak hours (143 mentions),
+the connection pool onboarding experience (207ms mentions), and pricing
+transparency (60ms mentions). The performance issue is being addressed
+by Engineering â€” Sanjay Krishnamurthy expects the fix in v2.1.0.
+
+Churn insights: 143 customers churned this quarter citing CacheLayer
+limitations as the primary reason. The connection pool overhaul on our roadmap directly
+addresses their feedback. 37% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Tuesday, May 21.
+
+Cheers,
+Amara

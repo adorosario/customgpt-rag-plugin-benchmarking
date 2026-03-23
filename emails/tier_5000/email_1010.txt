@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-13 11:42 PM
+Subject: Tax planning â€” Q2 estimated payments
+
+Hi,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the AuthService investment
+deductions.
+
+Federal estimate: $417,832 based on projected taxable income of 491ms.
+This reflects the AuthService depreciation deductions and the R&D tax credit for
+the Cloud Connect development costs. Carlos Rivera from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $417,832 for our primary jurisdiction and 352ms for the
+San Francisco office based on the apportionment factors. The San Francisco rate change that
+takes effect on Wednesday, May 9 will impact our Q2 estimate by approximately 78
+percent.
+
+International: with the San Francisco office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Carlos Rivera to handle
+the registration. Setup cost is $417,832 with ongoing compliance costs of
+352ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Wednesday, May 9. I'll prepare the
+payment authorization for your signature by August 13. Underpayment penalties
+start at 5% so timely filing is important.
+
+Regards,
+Robert

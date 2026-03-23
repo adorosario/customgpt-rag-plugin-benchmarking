@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-15 10:46 PM
+Subject: Vendor payment schedule â€” Q3
+
+Good afternoon,
+
+Here's the vendor payment schedule for Q3. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Tyrell Corp invoice for $156,518 is due on Tuesday, October 5 with a
+52% early payment discount if we pay within 21 days. I recommend
+taking the discount â€” it saves us 61ms. The MessageBroker annual
+license renewal of 325ms is due Tuesday, October 5 with no discount available.
+
+Standard schedule: 21 vendor invoices totaling $156,518 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-325ms terms with payments going out every 21 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The queue processor vendor
+overbilled us by $156,518 on the MessageBroker usage charges. Carlos Rivera is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q3 are projected at $156,518. This
+is 52% higher than last quarter due to the MessageBroker infrastructure
+investment and the Toronto office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Thanks,
+Ananya

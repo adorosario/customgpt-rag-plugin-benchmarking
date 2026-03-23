@@ -1,0 +1,27 @@
+From: dmitri.volkov@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-08-29 03:21 AM
+Subject: Re: Globex contract negotiation â€” pricing discussion
+
+Good afternoon,
+
+Update on the Globex negotiation. Their procurement team came back with a
+counteroffer and I want to make sure we're aligned before I respond.
+
+They're asking for a 9% reduction on the Sync Platform license fee, bringing
+the annual contract value from $313,115 to 368ms. Their rationale is
+that they're committing to a larger seat count of 169 users, which is above
+our standard enterprise tier threshold of 163ms.
+
+My recommendation is to accept the volume-based discount but hold firm on the
+event bus add-on pricing. The add-on margins are already thin and it's the module
+that delivers the most value in their use case. Amara Diallo from Finance can confirm
+the margin impact.
+
+I also want to push for a 2-year commitment if we offer the discounted rate. This
+locks in the revenue and reduces churn risk.
+
+Can we get a quick alignment call today before their deadline on Wednesday, October 2?
+
+Regards,
+Dmitri

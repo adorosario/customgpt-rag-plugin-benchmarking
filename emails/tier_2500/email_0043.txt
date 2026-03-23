@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-10-24 09:28 PM
+Subject: Re: Integration Hub launch planning â€” ReportingEngine release
+
+Good morning,
+
+The launch plan for the ReportingEngine release is coming together. Here's the
+coordinated timeline across teams.
+
+Engineering: code freeze on Friday, January 16. Final QA validation of 109 test cases
+by Michael Brennan. Performance benchmarks must show serialization engine throughput above
+148ms requests per second. Rollback plan documented and tested.
+
+Marketing: blog post and landing page updates go live at launch. Michael Brennan from
+the content team has the draft ready for review. Email announcement to 109
+customers scheduled for launch day plus one.
+
+Sales: updated pitch deck with the ReportingEngine positioning. Michael Brennan is running
+a training session on Friday, January 16 so the team can demo the feature. We're expecting
+$327,303 in pipeline acceleration from this release.
+
+Support: knowledge base articles and troubleshooting guide published pre-launch.
+Michael Brennan trained the support team on the 109 most common questions. Staffing
+is increased by 43% for launch week.
+
+Go/no-go decision meeting is on Friday, January 16. Each team lead needs to confirm readiness
+by then.
+
+Best regards,
+Liam

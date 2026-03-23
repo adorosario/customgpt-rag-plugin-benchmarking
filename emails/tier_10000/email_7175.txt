@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-07-05 10:54 PM
+Subject: Analytics report â€” Insight Engine campaign performance
+
+Good afternoon,
+
+Here's the performance report for the Insight Engine campaign through Wednesday, May 4.
+
+Website traffic: up 35% month over month, driven primarily by the SearchIndex
+comparison blog post which brought in 85 unique visitors. Organic search is
+growing steadily â€” the serialization engine keyword cluster is now ranking on page one.
+
+Lead generation: 131ms marketing qualified leads this month against a
+target of 358ms. The whitepaper download page converted at 35% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 85 percent.
+
+Email campaigns: the Insight Engine nurture sequence has a 35% open rate and
+85 percent click-through rate. The top-performing email was the SearchIndex
+case study with Umbrella Inc. Marcus Thompson suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $79,528 which is 35% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Regards,
+Laura

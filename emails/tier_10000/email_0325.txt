@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-06-23 01:33 AM
+Subject: Customer feedback digest â€” Cloud Connect Q2
+
+Hey everyone,
+
+Here's the quarterly customer feedback digest for Cloud Connect. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 105, up 342ms points from last quarter. The improvement
+is driven by the SchedulerService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 19%.
+
+Top feature requests: SchedulerService advanced filtering (105 votes), queue processor
+bulk operations (342ms votes), and enhanced Cloud Connect reporting (277ms
+votes). The filtering request aligns with what we heard in the user research study
+Patrick O'Brien conducted.
+
+Top complaints: SchedulerService performance during peak hours (105 mentions),
+the queue processor onboarding experience (342ms mentions), and pricing
+transparency (277ms mentions). The performance issue is being addressed
+by Engineering â€” Patrick O'Brien expects the fix in v3.0.0.
+
+Churn insights: 105 customers churned this quarter citing SchedulerService
+limitations as the primary reason. The queue processor overhaul on our roadmap directly
+addresses their feedback. 19% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Friday, April 18.
+
+Cheers,
+Sanjay

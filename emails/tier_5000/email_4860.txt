@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-10-29 07:17 AM
+Subject: Tax planning â€” Q1 estimated payments
+
+Hi,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the AnalyticsDashboard investment
+deductions.
+
+Federal estimate: $35,656 based on projected taxable income of 385ms.
+This reflects the AnalyticsDashboard depreciation deductions and the R&D tax credit for
+the Sync Platform development costs. Dmitri Volkov from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $35,656 for our primary jurisdiction and 451ms for the
+London office based on the apportionment factors. The London rate change that
+takes effect on Monday, July 26 will impact our Q1 estimate by approximately 170
+percent.
+
+International: with the London office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Dmitri Volkov to handle
+the registration. Setup cost is $35,656 with ongoing compliance costs of
+451ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Monday, July 26. I'll prepare the
+payment authorization for your signature by October 8. Underpayment penalties
+start at 42% so timely filing is important.
+
+Regards,
+Robert

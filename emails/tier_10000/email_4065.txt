@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-07-26 05:48 PM
+Subject: Email marketing performance â€” Q1 review
+
+Hi all,
+
+Here's the email marketing performance review for Q1. Overall we're trending
+in the right direction but there are a few areas to optimize.
+
+List health: our subscriber base grew 46% to 144ms contacts. Bounce
+rate is at 137 percent which is within healthy range. We ran a re-engagement
+campaign that recovered 382ms previously inactive subscribers.
+
+Campaign performance: the Enterprise Suite launch sequence was our top performer with a
+46% open rate. The CacheLayer technical series also did well, driving 137
+clicks to the resource hub. Lower performers were the generic newsletter sends â€” we
+should consider more targeted segmentation.
+
+Revenue attribution: email-sourced pipeline totals $468,845 this quarter, with
+144ms in closed-won revenue. The Weyland-Yutani deal originated from a nurture
+sequence touchpoint.
+
+Plans for next quarter: implementing behavioral triggers for the config manager
+content, A/B testing send times for the Enterprise Suite audience, and building a new
+onboarding sequence for trial sign-ups. Rachel Nguyen will help with the automation
+setup.
+
+Thanks,
+Yuki

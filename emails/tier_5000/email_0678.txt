@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-08-23 09:46 PM
+Subject: Re: Quota update â€” Q4 adjustments
+
+Hi,
+
+Thanks for sharing the Q4 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $399,535 reflects a 46% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 156 of my projected deals depend on the Enterprise Suite launch happening on
+schedule. If that slips, I'll need the NotificationEngine backup deals to come through.
+
+Territory changes: I see that the Toronto accounts have been reassigned to
+Robert Kimura. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Soylent Corp â€” we've been building that
+relationship for 147ms months.
+
+Regarding the new service mesh incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with service mesh upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Regards,
+Aisha

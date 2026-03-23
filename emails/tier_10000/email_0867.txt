@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-18 01:05 AM
+Subject: A/B test results â€” AuthService experiment
+
+Good afternoon,
+
+The AuthService A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 103 days with 137ms users in each cohort.
+
+Variant A (control): the existing event bus flow. Conversion rate of
+128ms with an average task completion time of 103 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified AuthService step.
+Conversion rate of 137ms with task completion time of 128ms seconds.
+This represents a 23% improvement in conversion and 103 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 103 to 137ms
+in the treatment group. Support ticket volume for AuthService related issues
+decreased by 23%. No negative impact on event bus engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Derek Morrison from Engineering can have this
+deployed by Monday, January 12.
+
+One caveat: the test population skewed toward Enterprise Suite power users. We should
+monitor new user behavior closely for the first 103 weeks after full rollout.
+
+Talk soon,
+Liam

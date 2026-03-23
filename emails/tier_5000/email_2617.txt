@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-18 04:52 PM
+Subject: Re: Wayne Enterprises contract negotiation â€” pricing discussion
+
+Good morning,
+
+Update on the Wayne Enterprises negotiation. Their procurement team came back with a
+counteroffer and I want to make sure we're aligned before I respond.
+
+They're asking for a 56% reduction on the Insight Engine license fee, bringing
+the annual contract value from $295,938 to 161ms. Their rationale is
+that they're committing to a larger seat count of 178 users, which is above
+our standard enterprise tier threshold of 352ms.
+
+My recommendation is to accept the volume-based discount but hold firm on the
+logging pipeline add-on pricing. The add-on margins are already thin and it's the module
+that delivers the most value in their use case. Fatima Al-Rashid from Finance can confirm
+the margin impact.
+
+I also want to push for a 2-year commitment if we offer the discounted rate. This
+locks in the revenue and reduces churn risk.
+
+Can we get a quick alignment call today before their deadline on Wednesday, November 15?
+
+Talk soon,
+Hannah

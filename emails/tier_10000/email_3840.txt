@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-06-02 12:40 PM
+Subject: Budget review â€” Sales department Q1
+
+Hey,
+
+Here's the Q1 budget review for the Sales department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $193,686 against a budget of 107ms. The 59% variance is
+primarily driven by the accelerated FileStorageService hiring that was approved mid-quarter.
+Personnel costs came in at 371ms which includes the 56 new hires.
+
+Overages: the service mesh infrastructure line item exceeded budget by 59% due
+to the unplanned scaling requirements for Enterprise Suite. I've worked with James Oduya
+from Engineering to project the run rate going forward â€” we should budget an
+additional $193,686 per quarter for this category.
+
+Underspend: the FileStorageService consulting budget was only 59% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 59%
+of the total annual budget. The main risk is the service mesh cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Thanks,
+Grace

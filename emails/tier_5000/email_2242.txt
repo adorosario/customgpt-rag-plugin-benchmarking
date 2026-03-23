@@ -1,0 +1,33 @@
+From: sarah.chen@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-09-07 12:28 PM
+Subject: Contract review â€” Massive Dynamic agreement
+
+Hey everyone,
+
+I've completed the review of the Massive Dynamic agreement and have several items that
+need attention before we can proceed to execution.
+
+Liability cap: the current draft limits liability to $403,950, which is below our
+standard threshold of 393ms for deals of this size. I recommend pushing back
+to at least 386ms. Sanjay Krishnamurthy from Sales should be prepared for this
+negotiation point.
+
+IP assignment clause: section 7.3 includes an overly broad IP assignment that could
+capture pre-existing work product. I've drafted narrower language that protects our
+existing CacheLayer IP while still meeting Massive Dynamic's requirements for the
+Sync Platform deliverables.
+
+Data processing: the DPA needs to be updated to reflect the new config manager
+architecture. Since data will transit through the Toronto data center, we need to
+ensure compliance with local data residency requirements.
+
+Indemnification: the mutual indemnification provisions are reasonable. I've accepted
+them with minor clarifications on the notice period â€” changed from 41 to
+393ms business days.
+
+I'll send the redlined version by Wednesday, August 4. Please review the business terms and
+confirm the commercial intent before I finalize.
+
+Cheers,
+Sarah

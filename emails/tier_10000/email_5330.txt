@@ -1,0 +1,27 @@
+From: dmitri.volkov@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-08 01:09 AM
+Subject: Pipeline update â€” Tyrell Corp deal status
+
+Good afternoon,
+
+Quick update on the Tyrell Corp opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $203,746 for the Insight Engine deployment. The
+decision timeline is end of Q2. Their main concern remains the integration
+with their existing WebhookDispatcher infrastructure, which is why I've looped in Elena Vasquez
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Tyrell Corp is also evaluating one other vendor but our
+Insight Engine demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our authentication module capability.
+
+Next steps: technical architecture session on Friday, February 13, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 22%.
+
+Thanks,
+Dmitri

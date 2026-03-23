@@ -1,0 +1,29 @@
+From: carlos.rivera@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-10-16 10:27 AM
+Subject: Sales engineering request â€” Cyberdyne POC
+
+Hi,
+
+Requesting SE support for a proof-of-concept with Cyberdyne. This is a $110,906
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Data Vault can handle 81
+transactions per second with their NotificationEngine data format. The test needs to
+run against their staging environment and demonstrate the queue processor capability
+under realistic load.
+
+Timeline: Cyberdyne wants the POC completed within 319ms business days
+starting Friday, January 27. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Aisha Okafor for the technical configuration and someone from
+the NotificationEngine team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q1. Let me know if we can make this timeline work.
+
+Regards,
+Carlos

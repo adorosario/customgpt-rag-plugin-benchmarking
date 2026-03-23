@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-11-13 09:19 PM
+Subject: Investment proposal â€” MessageBroker infrastructure
+
+Hey everyone,
+
+I've prepared the financial analysis for the proposed MessageBroker infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $457,477 upfront with 202ms in annual operating costs.
+The total 3-year cost of ownership is 85ms compared to the current
+metrics collector setup at $457,477 over the same period.
+
+ROI analysis: the projected payback period is 124 months. Key benefits include
+43% reduction in infrastructure management time, improved Enterprise Suite performance
+that supports the revenue growth targets, and elimination of the metrics collector
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $457,477 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 43% interest.
+This preserves cash for the Sydney office investment planned for Q3.
+
+Risk factors: technology lock-in with the MessageBroker vendor, though the 124-year
+contract includes an exit clause after the first year. David Okonkwo from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Tuesday, April 23 to lock in the quoted pricing. The vendor has
+given us a 124-day hold on the current rates.
+
+Best regards,
+Grace

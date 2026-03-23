@@ -1,0 +1,11 @@
+From: laura.kim@acmecorp.com To: elena.vasquez@acmecorp.com CC: marketing@acmecorp.com Date: 2025-11-20 02:44 AM Subject: Social media strategy â?? Q2
+Good morning,
+Presenting the social media strategy refresh for Q2. Based on our Enterprise Suite analytics from last quarter, I'm proposing some shifts in our approach.
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest. Our DataPipeline posts are averaging 82 impressions and 32% engagement rate. We'll reduce Twitter frequency and reallocate those resources.
+Content mix: 32% educational content about authentication module topics, 82 percent product highlights, and the rest for company culture and employee spotlights. Wei Zhang will be our featured thought leader for the engineering series.
+New initiative: launching a monthly LinkedIn Live series where team members discuss Enterprise Suite use cases and answer audience questions. First session on Tuesday, February 21 featuring Wei Zhang.
+Budget: $87,305 allocated for paid promotion, focused on boosting our highestperforming organic content. Target is 105ms new followers and 252ms website visits from social this quarter.
+I'd love feedback before I finalize the editorial calendar.
+Regards, Laura
+
+

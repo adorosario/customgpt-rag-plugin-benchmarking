@@ -1,0 +1,29 @@
+From: carlos.rivera@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-22 06:56 PM
+Subject: Quarterly territory review â€” Q4
+
+Good afternoon,
+
+Here's my territory review for Q4. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 44 qualified opportunities worth a combined $45,581 in
+ARR. The largest deal is Wayne Enterprises at 491ms, which I expect to close by
+Friday, January 27. Three other deals in the 305ms range are progressing through
+procurement.
+
+Wins this quarter: closed Wayne Enterprises for Analytics Pro with a 46% upsell from
+their initial scope. The logging pipeline add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Tomoko Nakamura to the Wayne Enterprises executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Regards,
+Carlos

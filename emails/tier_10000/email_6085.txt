@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-07-14 09:18 PM
+Subject: Customer feedback digest â€” Integration Hub Q2
+
+Hi team,
+
+Here's the quarterly customer feedback digest for Integration Hub. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 36, up 155ms points from last quarter. The improvement
+is driven by the SearchIndex launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 54%.
+
+Top feature requests: SearchIndex advanced filtering (36 votes), logging pipeline
+bulk operations (155ms votes), and enhanced Integration Hub reporting (312ms
+votes). The filtering request aligns with what we heard in the user research study
+Hannah Goldstein conducted.
+
+Top complaints: SearchIndex performance during peak hours (36 mentions),
+the logging pipeline onboarding experience (155ms mentions), and pricing
+transparency (312ms mentions). The performance issue is being addressed
+by Engineering â€” Hannah Goldstein expects the fix in v4.1.0.
+
+Churn insights: 36 customers churned this quarter citing SearchIndex
+limitations as the primary reason. The logging pipeline overhaul on our roadmap directly
+addresses their feedback. 54% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Thursday, September 21.
+
+Thanks,
+Daniel

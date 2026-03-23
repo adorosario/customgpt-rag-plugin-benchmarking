@@ -1,0 +1,21 @@
+{
+  "tier": 10000,
+  "question_id": "needle_5",
+  "question_type": "hard",
+  "run": 2,
+  "question": "How much is the CloudScale vendor contract renewal per year?",
+  "model": "claude-sonnet-4-6",
+  "response": "The CloudScale vendor contract renewal is **$85,000 per year** \u00e2\u20ac\u201d a 12% reduction from the original quote of $96,500. It's a 2-year term (January 2026 \u00e2\u20ac\u201c December 2027) with a rate lock, and includes priority support (previously a $6,000/year add-on) at no extra cost.",
+  "time_seconds": 28.13,
+  "num_turns": 4,
+  "cost_usd": 0.08741895000000001,
+  "input_tokens": 6,
+  "cache_creation_tokens": 12885,
+  "cache_read_tokens": 104624,
+  "output_tokens": 513,
+  "total_tokens": 118028,
+  "duration_api_ms": 15057,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

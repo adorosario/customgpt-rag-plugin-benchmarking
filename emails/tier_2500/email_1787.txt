@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-10 11:17 PM
+Subject: FP&A update â€” Enterprise Suite financial model
+
+Hi all,
+
+I've updated the Enterprise Suite financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 24 per month based
+on the last 160ms months of data. Average contract value is tracking at
+$472,888, which is 24% above our original assumption. The ReportingEngine
+upsell rate of 334ms is a positive trend.
+
+Cost structure: the metrics collector hosting costs are running 24% higher than
+modeled due to increased ReportingEngine usage. I've adjusted the variable cost
+per customer from 160ms to 334ms. Patrick O'Brien from Engineering
+says the optimization project should bring this down by 24% in Q4.
+
+Break-even analysis: with the revised numbers, Enterprise Suite reaches contribution
+margin break-even at 24 customers, which we're projected to hit by Thursday, September 23.
+Full break-even including allocated overhead comes at 160ms customers.
+
+Scenarios: the base case shows $472,888 in cumulative revenue by year end. The
+upside case with the Cyberdyne deal closing hits 334ms. Downside case
+assuming 24% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Regards,
+Ananya

@@ -1,0 +1,21 @@
+{
+  "tier": 500,
+  "question_id": "pattern_3",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What issues has Initech reported and how is the team responding?",
+  "model": "claude-sonnet-4-6",
+  "response": "Across the 500 emails, **2 emails mention Initech** (note: the 0126\u00e2\u20ac\u201c0250 range was only partially sampled, so there may be additional references there):\n\n---\n\n### Issue 1: API Latency Complaint \u00e2\u20ac\u201d `email_0118.pdf`\n**From:** wei.zhang@acmecorp.com \u00e2\u2020\u2019 derek.morrison@acmecorp.com\n**Subject:** *Initech escalation \u00e2\u20ac\u201c API latency issues*\n\nInitech filed a complaint about **API latency and SLA response times**. Wei Zhang reported the team is making progress on it. One concrete metric mentioned: **customer support tickets decreased 15%** since the last release. No specific resolution timeline or root cause was described in this email.\n\n---\n\n### Issue 2: Patent Prior Art \u00e2\u20ac\u201d `email_0103.pdf`\n**From:** sarah.chen@acmecorp.com \u00e2\u2020\u2019 david.okonkwo@acmecorp.com\n**Subject:** *Re: Patent Filing Deadline Update*\n\nInitech is not a customer here but a **competitor**. A prior art search for AcmeCorp's \"Nexus\" patent uncovered **3 related Initech filings** in the cross-platform synchronization space. The patent deadline was pushed from March 30 \u00e2\u2020\u2019 April 15 to allow time to distinguish AcmeCorp's claims (specifically around the conflict resolution algorithm). Sarah Chen asked the drafting team to add language addressing the Initech prior art and scheduled a review for the week of April 7.\n\n---\n\n**Summary:** Initech appears in two separate contexts \u00e2\u20ac\u201d as a **customer with an active API latency escalation**, and as a **patent competitor** whose prior art filings are complicating AcmeCorp's Nexus patent application. The team response to both is in progress.",
+  "time_seconds": 288.62,
+  "num_turns": 18,
+  "cost_usd": 3.1428264999999986,
+  "input_tokens": 19,
+  "cache_creation_tokens": 22670,
+  "cache_read_tokens": 359467,
+  "output_tokens": 5145,
+  "total_tokens": 387301,
+  "duration_api_ms": 628899,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

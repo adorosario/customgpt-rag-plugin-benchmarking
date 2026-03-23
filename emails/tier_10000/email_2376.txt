@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-08-08 11:27 AM
+Subject: Audit preparation â€” Q3 review
+
+Good afternoon,
+
+The Q3 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Oscorp are scheduled to begin fieldwork
+on Monday, December 19.
+
+Documentation needed from each department: all purchase orders above 55ms,
+contract modifications executed during Q3, headcount changes with supporting
+approvals, and DataPipeline system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the authentication module audit portal by Monday, December 19.
+That gives us 53 business days before the auditors arrive. Dmitri Volkov has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Cloud Connect contracts, the DataPipeline capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $78,090 in capitalized DataPipeline costs and the methodology used.
+
+This is our 53 year with Oscorp as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Dmitri Volkov if you have
+questions about what's needed.
+
+Best,
+Robert

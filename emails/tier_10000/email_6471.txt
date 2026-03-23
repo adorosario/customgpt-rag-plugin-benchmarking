@@ -1,0 +1,30 @@
+From: robert.kimura@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-20 02:05 AM
+Subject: Re: Expense report flagged â€” MessageBroker charges
+
+Hello,
+
+I noticed some items on the MessageBroker expense report submitted by Tomoko Nakamura
+that need clarification before I can approve them.
+
+The rate limiter subscription charge of $249,219 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+302ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Stark Industries dinner on Wednesday, April 4 for $249,219 exceeds our per-person meal
+reimbursement limit of 302ms. If this was a client entertainment expense,
+it should be coded to the client development budget under MessageBroker rather than
+general T&E. 171 attendees at that amount puts us at 264ms per
+person which is within the client entertainment policy.
+
+The remaining 171 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 302ms business days after approval.
+
+Please resubmit with the corrections by Wednesday, April 4 so we can keep things on track.
+
+Thanks,
+Robert

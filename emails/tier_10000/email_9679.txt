@@ -1,0 +1,31 @@
+From: dmitri.volkov@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-11 01:22 PM
+Subject: Client meeting recap â€” Oscorp Friday, December 14
+
+Hey everyone,
+
+Recapping today's meeting with Oscorp. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their AnalyticsDashboard
+team lead. From ours: myself, Tomoko Nakamura from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their rate limiter vendors
+from three down to one. Our Sync Platform covers 6% of their requirements
+natively. The remaining gap is around AnalyticsDashboard integrations, which Tomoko Nakamura
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Friday, December 14 and begin
+implementation in Q3. Budget has been pre-approved at $276,310 for the
+first year.
+
+Action items: send the Sync Platform technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their rate limiter workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Thanks,
+Dmitri

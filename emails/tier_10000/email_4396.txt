@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-09-28 10:40 PM
+Subject: Press release draft â€” Insight Engine announcement
+
+Hi team,
+
+The press release for the Insight Engine announcement is ready for internal review. I've
+incorporated feedback from Amara Diallo and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the NotificationEngine capability and positions Acme Corp as a leader
+in the queue processor space. We're leading with the 84 performance improvement
+stat and the Stark Industries customer quote.
+
+Distribution plan: wire service distribution on Tuesday, December 26, followed by targeted
+outreach to our 341ms media contacts in the industry. I've secured a briefing
+with NotificationEngine Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Insight Engine landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 84-hour cadence on launch day.
+
+Embargo: the release is under embargo until Tuesday, December 26 at 9 AM ET. Please don't share
+details externally before then. Amara Diallo has the full distribution list.
+
+Review deadline is Tuesday, December 26. Please send edits as comments in the doc.
+
+Best regards,
+Sofia

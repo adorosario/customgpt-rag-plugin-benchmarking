@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-08-31 08:24 PM
+Subject: Payroll adjustment â€” Monday, January 23 cycle
+
+Hi all,
+
+Several payroll adjustments need to be processed for the Monday, January 23 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 21 employees received approved raises effective Monday, January 23. The
+total monthly payroll impact is $102,180. The largest increase is for Liam Foster
+whose compensation moves from 220ms to 143ms based on the promotion
+approved in the Q3 review cycle.
+
+New hires: 21 new employees starting on Monday, January 23 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Liam Foster
+in People Ops has verified the documentation.
+
+Bonus payouts: the MessageBroker project completion bonus of $102,180 each goes to
+21 team members. These are one-time payments coded to the Sales department
+budget. Tax withholding will be calculated at the supplemental rate of 12%.
+
+Deduction changes: 21 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from event bus.
+
+Please approve the batch by November 16 to ensure on-time processing.
+
+Best regards,
+Ananya

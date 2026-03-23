@@ -1,0 +1,30 @@
+From: michael.brennan@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-17 05:24 AM
+Subject: Re: Expense report flagged â€” DataPipeline charges
+
+Hey,
+
+I noticed some items on the DataPipeline expense report submitted by Grace Mwangi
+that need clarification before I can approve them.
+
+The authentication module subscription charge of $375,332 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+482ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Soylent Corp dinner on Wednesday, April 24 for $375,332 exceeds our per-person meal
+reimbursement limit of 482ms. If this was a client entertainment expense,
+it should be coded to the client development budget under DataPipeline rather than
+general T&E. 149 attendees at that amount puts us at 332ms per
+person which is within the client entertainment policy.
+
+The remaining 149 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 482ms business days after approval.
+
+Please resubmit with the corrections by Wednesday, April 24 so we can keep things on track.
+
+Talk soon,
+Michael

@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-06-01 11:33 AM
+Subject: Budget review â€” Finance department Q1
+
+Good morning,
+
+Here's the Q1 budget review for the Finance department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $454,314 against a budget of 419ms. The 24% variance is
+primarily driven by the accelerated DataPipeline hiring that was approved mid-quarter.
+Personnel costs came in at 349ms which includes the 173 new hires.
+
+Overages: the load balancer infrastructure line item exceeded budget by 24% due
+to the unplanned scaling requirements for Sync Platform. I've worked with Jun Tanaka
+from Engineering to project the run rate going forward â€” we should budget an
+additional $454,314 per quarter for this category.
+
+Underspend: the DataPipeline consulting budget was only 24% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 24%
+of the total annual budget. The main risk is the load balancer cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Regards,
+Grace

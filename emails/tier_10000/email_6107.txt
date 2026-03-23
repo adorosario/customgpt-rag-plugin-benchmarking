@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-08 07:56 PM
+Subject: Financial close checklist â€” Q1
+
+Hi team,
+
+The Q1 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Cloud Connect invoices must be issued by Monday, May 27. Any revenue recognition
+adjustments for the UserProfileService contracts need supporting documentation uploaded
+to config manager. Yuki Sato from Sales must confirm final deal amounts by April 10.
+
+Expenses: all expense reports for Q1 must be submitted by Monday, May 27. The
+UserProfileService vendor invoices totaling $295,135 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, UserProfileService subscription costs,
+and the config manager usage charges by Monday, May 27. Any non-standard accruals above
+170ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, UserProfileService account reconciliation, and
+inter-company balances must be completed by Monday, May 27. Yuki Sato is handling the
+bank rec. I'll take the inter-company items since they involve the Berlin entity.
+
+Target: books closed within 43 business days of quarter end. Final reporting
+package to leadership by Monday, May 27.
+
+Best regards,
+Michael

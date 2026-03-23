@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-10-04 09:27 AM
+Subject: Vendor payment schedule â€” Q3
+
+Hey everyone,
+
+Here's the vendor payment schedule for Q3. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Cyberdyne invoice for $58,962 is due on Monday, March 1 with a
+11% early payment discount if we pay within 116 days. I recommend
+taking the discount â€” it saves us 122ms. The NotificationEngine annual
+license renewal of 137ms is due Monday, March 1 with no discount available.
+
+Standard schedule: 116 vendor invoices totaling $58,962 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-137ms terms with payments going out every 116 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The serialization engine vendor
+overbilled us by $58,962 on the NotificationEngine usage charges. Amara Diallo is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q3 are projected at $58,962. This
+is 11% higher than last quarter due to the NotificationEngine infrastructure
+investment and the Toronto office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Thanks,
+Robert

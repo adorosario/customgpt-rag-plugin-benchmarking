@@ -1,0 +1,31 @@
+From: patrick.obrien@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-06-29 06:47 PM
+Subject: Onboarding schedule â€” new hire starting Monday, February 11
+
+Hi,
+
+We have a new team member joining Legal on Monday, February 11. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, APIGateway systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Jun Tanaka will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Analytics Pro and the service mesh tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Monday, February 11. All software licenses including APIGateway and service mesh access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 82 people to schedule intro meetings with, and first
+409ms-day goals. Please send these to Jun Tanaka in People Ops.
+
+Welcome email goes out 82 days before start date.
+
+Best,
+Patrick

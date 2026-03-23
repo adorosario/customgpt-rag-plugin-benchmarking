@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-11-11 02:56 PM
+Subject: Re: Cloud Connect pricing discussion â€” SearchIndex tier
+
+Hey everyone,
+
+Following up on the Cloud Connect pricing discussion. I've modeled three options for
+the SearchIndex tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $277,537 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 35% of our existing base.
+Downside: it undercuts our current authentication module pricing and may trigger downgrades.
+
+Option B: 250ms per seat per month with the authentication module add-on bundled.
+Higher price point but stronger value perception. 98 of the 329ms
+customers we surveyed preferred this packaging. Carlos Rivera from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $277,537 per SearchIndex transaction. This aligns
+with the value delivered but introduces billing complexity. Only 35% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$277,537 in incremental ARR over 98 months.
+
+Can we finalize the pricing decision by Monday, November 10? Sales needs 329ms weeks to
+update collateral before we announce.
+
+Regards,
+Daniel

@@ -1,0 +1,34 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-01 09:11 PM
+Subject: Customer feedback digest â€” Data Vault Q4
+
+Hi team,
+
+Here's the quarterly customer feedback digest for Data Vault. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 52, up 373ms points from last quarter. The improvement
+is driven by the SearchIndex launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 52%.
+
+Top feature requests: SearchIndex advanced filtering (52 votes), connection pool
+bulk operations (373ms votes), and enhanced Data Vault reporting (164ms
+votes). The filtering request aligns with what we heard in the user research study
+Jun Tanaka conducted.
+
+Top complaints: SearchIndex performance during peak hours (52 mentions),
+the connection pool onboarding experience (373ms mentions), and pricing
+transparency (164ms mentions). The performance issue is being addressed
+by Engineering â€” Jun Tanaka expects the fix in v4.1.0.
+
+Churn insights: 52 customers churned this quarter citing SearchIndex
+limitations as the primary reason. The connection pool overhaul on our roadmap directly
+addresses their feedback. 52% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Friday, May 9.
+
+Best,
+Sanjay

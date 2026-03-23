@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-11-07 12:02 AM
+Subject: Tax planning â€” Q4 estimated payments
+
+Good morning,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the BillingModule investment
+deductions.
+
+Federal estimate: $367,300 based on projected taxable income of 91ms.
+This reflects the BillingModule depreciation deductions and the R&D tax credit for
+the Data Vault development costs. Ananya Desai from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $367,300 for our primary jurisdiction and 187ms for the
+Toronto office based on the apportionment factors. The Toronto rate change that
+takes effect on Friday, April 26 will impact our Q4 estimate by approximately 39
+percent.
+
+International: with the Toronto office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Ananya Desai to handle
+the registration. Setup cost is $367,300 with ongoing compliance costs of
+187ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Friday, April 26. I'll prepare the
+payment authorization for your signature by February 5. Underpayment penalties
+start at 16% so timely filing is important.
+
+Regards,
+Ananya

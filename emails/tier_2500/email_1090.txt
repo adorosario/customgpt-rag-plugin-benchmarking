@@ -1,0 +1,29 @@
+From: michael.brennan@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-07-17 11:47 PM
+Subject: Re: Expense report flagged â€” SearchIndex charges
+
+Hello,
+
+I noticed some items on the SearchIndex expense report submitted by Marcus Thompson
+that need clarification before I can approve them.
+
+The serialization engine subscription charge of $221,884 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+353ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Massive Dynamic dinner on Monday, October 26 for $221,884 exceeds our per-person meal
+reimbursement limit of 353ms. If this was a client entertainment expense,
+it should be coded to the client development budget under SearchIndex rather than
+general T&E. 139 attendees at that amount puts us at 476ms per
+person which is within the client entertainment policy.
+
+The remaining 139 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 353ms business days after approval.
+
+Please resubmit with the corrections by Monday, October 26 so we can keep things on track.
+
+Talk soon,
+Michael

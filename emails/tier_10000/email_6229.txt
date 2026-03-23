@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-07-25 10:36 PM
+Subject: Budget review â€” HR department Q1
+
+Good afternoon,
+
+Here's the Q1 budget review for the HR department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $458,822 against a budget of 417ms. The 31% variance is
+primarily driven by the accelerated AuditLog hiring that was approved mid-quarter.
+Personnel costs came in at 264ms which includes the 114 new hires.
+
+Overages: the logging pipeline infrastructure line item exceeded budget by 31% due
+to the unplanned scaling requirements for Analytics Pro. I've worked with Marcus Thompson
+from Engineering to project the run rate going forward â€” we should budget an
+additional $458,822 per quarter for this category.
+
+Underspend: the AuditLog consulting budget was only 31% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 31%
+of the total annual budget. The main risk is the logging pipeline cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Thanks,
+Robert

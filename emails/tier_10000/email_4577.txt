@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-06 01:52 AM
+Subject: Tax planning â€” Q4 estimated payments
+
+Hey,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the CacheLayer investment
+deductions.
+
+Federal estimate: $347,426 based on projected taxable income of 405ms.
+This reflects the CacheLayer depreciation deductions and the R&D tax credit for
+the Integration Hub development costs. Rachel Nguyen from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $347,426 for our primary jurisdiction and 120ms for the
+New York office based on the apportionment factors. The New York rate change that
+takes effect on Monday, October 6 will impact our Q4 estimate by approximately 114
+percent.
+
+International: with the New York office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Rachel Nguyen to handle
+the registration. Setup cost is $347,426 with ongoing compliance costs of
+120ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Monday, October 6. I'll prepare the
+payment authorization for your signature by September 12. Underpayment penalties
+start at 10% so timely filing is important.
+
+Talk soon,
+Grace

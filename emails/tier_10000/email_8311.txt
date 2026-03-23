@@ -1,0 +1,32 @@
+From: amara.diallo@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-22 05:14 PM
+Subject: A/B test results â€” PaymentGateway experiment
+
+Hey,
+
+The PaymentGateway A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 74 days with 104ms users in each cohort.
+
+Variant A (control): the existing load balancer flow. Conversion rate of
+340ms with an average task completion time of 74 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified PaymentGateway step.
+Conversion rate of 104ms with task completion time of 340ms seconds.
+This represents a 33% improvement in conversion and 74 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 74 to 104ms
+in the treatment group. Support ticket volume for PaymentGateway related issues
+decreased by 33%. No negative impact on load balancer engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Sanjay Krishnamurthy from Engineering can have this
+deployed by Tuesday, May 2.
+
+One caveat: the test population skewed toward Sync Platform power users. We should
+monitor new user behavior closely for the first 74 weeks after full rollout.
+
+Talk soon,
+Amara

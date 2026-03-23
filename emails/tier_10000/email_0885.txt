@@ -1,0 +1,29 @@
+From: james.oduya@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-06-08 03:56 AM
+Subject: Enterprise Suite campaign launch â€” Q1 plan
+
+Hey everyone,
+
+Here's the campaign plan for the Enterprise Suite launch in Q1. I've aligned the
+messaging with the positioning we finalized last week and mapped out the channel
+strategy.
+
+Campaign theme: highlighting the AuthService advantage and how Enterprise Suite solves
+the key pain point around service mesh complexity. Target audience is mid-market
+and enterprise IT decision makers.
+
+Channel breakdown: 19% of budget to paid digital, 107 to content
+marketing, and the remainder to events and webinars. We're targeting a $233,456
+total spend with a goal of 150ms marketing qualified leads.
+
+Content deliverables: landing page, solution brief, customer case study featuring
+Cyberdyne, three blog posts, and a webinar co-hosted with Sarah Chen from Product.
+All assets target completion by Monday, July 19.
+
+The paid campaign goes live two weeks before the official launch to build awareness.
+I'll share the creative brief for review tomorrow.
+
+Cheers,
+James

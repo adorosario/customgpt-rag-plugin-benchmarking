@@ -1,0 +1,32 @@
+From: rachel.nguyen@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-08-30 01:44 AM
+Subject: Training program â€” APIGateway certification
+
+Hi team,
+
+We're launching a new APIGateway certification training program for interested
+employees. This is part of our learning and development investment for Q3.
+
+Program details: the course runs for 59 weeks and covers caching layer
+fundamentals through advanced topics. Sessions are held twice a week for 314ms
+hours each. Sarah Chen from the Product team will facilitate the hands-on labs.
+
+Eligibility: open to all employees. Priority enrollment goes to the Product and
+Engineering teams since the certification is directly relevant to their roles. We
+have 357ms spots available for the first cohort.
+
+Cost: Acme Corp covers 38% of the certification exam fee upon course
+completion. The total investment per employee is $110,583 including materials and
+exam vouchers.
+
+Commitment: participants are expected to dedicate 59 hours per week to
+coursework outside of the live sessions. Managers must approve the time commitment
+for their reports.
+
+Registration opens on Tuesday, October 15 and closes when spots are filled. Sign up through
+the caching layer learning portal.
+
+Thanks,
+Rachel

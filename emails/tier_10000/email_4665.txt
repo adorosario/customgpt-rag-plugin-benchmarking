@@ -1,0 +1,33 @@
+From: michael.brennan@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-08 04:14 AM
+Subject: Revenue recognition â€” Insight Engine contracts
+
+Hey everyone,
+
+I need to walk through the revenue recognition treatment for the new Insight Engine
+contracts signed this quarter. We have 138 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Wayne Enterprises contract bundles Insight Engine licenses with
+metrics collector implementation services. I've determined the standalone selling prices
+and allocated $228,114 to the license component and 392ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 138-month implementation period.
+
+Variable consideration: 137ms contracts include performance bonuses tied to
+CacheLayer uptime metrics. Using the expected value method, I've estimated
+$228,114 in variable consideration based on our historical performance of
+21% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Wayne Enterprises amendment added metrics collector capacity at
+$228,114 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Laura Kim from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Friday, February 5.
+
+Best,
+Michael

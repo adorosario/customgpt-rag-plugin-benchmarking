@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-10-15 05:50 PM
+Subject: Financial close checklist â€” Q1
+
+Good morning,
+
+The Q1 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Integration Hub invoices must be issued by Wednesday, June 11. Any revenue recognition
+adjustments for the AnalyticsDashboard contracts need supporting documentation uploaded
+to rate limiter. Laura Kim from Sales must confirm final deal amounts by January 17.
+
+Expenses: all expense reports for Q1 must be submitted by Wednesday, June 11. The
+AnalyticsDashboard vendor invoices totaling $491,566 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, AnalyticsDashboard subscription costs,
+and the rate limiter usage charges by Wednesday, June 11. Any non-standard accruals above
+122ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, AnalyticsDashboard account reconciliation, and
+inter-company balances must be completed by Wednesday, June 11. Laura Kim is handling the
+bank rec. I'll take the inter-company items since they involve the Toronto entity.
+
+Target: books closed within 38 business days of quarter end. Final reporting
+package to leadership by Wednesday, June 11.
+
+Talk soon,
+Robert

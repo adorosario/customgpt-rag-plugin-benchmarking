@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-10-05 12:41 AM
+Subject: Customer feedback digest â€” Cloud Connect Q3
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Cloud Connect. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 111, up 153ms points from last quarter. The improvement
+is driven by the APIGateway launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 18%.
+
+Top feature requests: APIGateway advanced filtering (111 votes), caching layer
+bulk operations (153ms votes), and enhanced Cloud Connect reporting (302ms
+votes). The filtering request aligns with what we heard in the user research study
+Wei Zhang conducted.
+
+Top complaints: APIGateway performance during peak hours (111 mentions),
+the caching layer onboarding experience (153ms mentions), and pricing
+transparency (302ms mentions). The performance issue is being addressed
+by Engineering â€” Wei Zhang expects the fix in v2.6.0.
+
+Churn insights: 111 customers churned this quarter citing APIGateway
+limitations as the primary reason. The caching layer overhaul on our roadmap directly
+addresses their feedback. 18% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, November 16.
+
+Talk soon,
+Daniel

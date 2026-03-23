@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-10-13 12:22 AM
+Subject: Analytics report â€” Enterprise Suite campaign performance
+
+Hello,
+
+Here's the performance report for the Enterprise Suite campaign through Tuesday, November 7.
+
+Website traffic: up 8% month over month, driven primarily by the ReportingEngine
+comparison blog post which brought in 76 unique visitors. Organic search is
+growing steadily â€” the load balancer keyword cluster is now ranking on page one.
+
+Lead generation: 129ms marketing qualified leads this month against a
+target of 140ms. The whitepaper download page converted at 8% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 76 percent.
+
+Email campaigns: the Enterprise Suite nurture sequence has a 8% open rate and
+76 percent click-through rate. The top-performing email was the ReportingEngine
+case study with Wayne Enterprises. Daniel Park suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $376,723 which is 8% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Regards,
+Sofia

@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-31 09:25 PM
+Subject: Payroll adjustment â€” Friday, August 8 cycle
+
+Hi team,
+
+Several payroll adjustments need to be processed for the Friday, August 8 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 43 employees received approved raises effective Friday, August 8. The
+total monthly payroll impact is $241,800. The largest increase is for Laura Kim
+whose compensation moves from 365ms to 236ms based on the promotion
+approved in the Q1 review cycle.
+
+New hires: 43 new employees starting on Friday, August 8 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Laura Kim
+in People Ops has verified the documentation.
+
+Bonus payouts: the MessageBroker project completion bonus of $241,800 each goes to
+43 team members. These are one-time payments coded to the HR department
+budget. Tax withholding will be calculated at the supplemental rate of 19%.
+
+Deduction changes: 43 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from logging pipeline.
+
+Please approve the batch by June 16 to ensure on-time processing.
+
+Cheers,
+Robert

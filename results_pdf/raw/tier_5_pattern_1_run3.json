@@ -1,0 +1,21 @@
+{
+  "tier": 5,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the emails, Project Nexus is covered in **email_0001.pdf** (dated 2025-07-24), sent by **Liam Foster** to **Ravi Patel**.\n\n**What it is:** A sprint-planning effort at Acme Corp focused on four areas:\n- Cross-platform\n- Synchronization\n- Conflict resolution\n- The \"Nexus\" core aspect\n\n**Teams/people involved:**\n- **Liam Foster** \u00e2\u20ac\u201d sender, appears to be the project lead\n- **Ravi Patel** \u00e2\u20ac\u201d recipient\n- **Product team** \u00e2\u20ac\u201d CC'd via `product@acmecorp.com`\n\nNo other emails in this set mention Project Nexus. The email is light on specifics \u00e2\u20ac\u201d it describes all aspects as \"progressing well\" without providing concrete details on team structure or scope.",
+  "time_seconds": 48.45,
+  "num_turns": 13,
+  "cost_usd": 0.14416815,
+  "input_tokens": 11,
+  "cache_creation_tokens": 21841,
+  "cache_read_tokens": 138338,
+  "output_tokens": 1382,
+  "total_tokens": 161572,
+  "duration_api_ms": 35952,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

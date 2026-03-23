@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-08-31 12:00 AM
+Subject: Tax planning â€” Q1 estimated payments
+
+Hey,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the ReportingEngine investment
+deductions.
+
+Federal estimate: $367,024 based on projected taxable income of 345ms.
+This reflects the ReportingEngine depreciation deductions and the R&D tax credit for
+the Analytics Pro development costs. Michael Brennan from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $367,024 for our primary jurisdiction and 116ms for the
+London office based on the apportionment factors. The London rate change that
+takes effect on Thursday, August 14 will impact our Q1 estimate by approximately 150
+percent.
+
+International: with the London office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Michael Brennan to handle
+the registration. Setup cost is $367,024 with ongoing compliance costs of
+116ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Thursday, August 14. I'll prepare the
+payment authorization for your signature by April 20. Underpayment penalties
+start at 57% so timely filing is important.
+
+Best regards,
+Ananya

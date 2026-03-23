@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-06-23 02:09 PM
+Subject: Policy update â€” DataPipeline guidelines
+
+Hi team,
+
+We've updated the DataPipeline company policy based on feedback from employees and
+recent changes in Toronto labor regulations. The new policy takes effect on Monday, July 27.
+
+Key changes: the connection pool allowance has been increased from 108ms to
+361ms per month. The eligibility window for DataPipeline has been expanded
+to include employees who've been with Acme Corp for 165 months or more, down
+from the previous requirement of 108ms months.
+
+New additions: a Data Vault reimbursement category has been added covering up to
+$49,127 annually. This addresses the top employee request from the last survey.
+Rachel Nguyen negotiated favorable terms with the connection pool vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by February 26. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 17% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Talk soon,
+Rachel

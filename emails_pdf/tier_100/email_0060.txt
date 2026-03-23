@@ -1,0 +1,11 @@
+From: patrick.obrien@acmecorp.com To: robert.kimura@acmecorp.com CC: hr@acmecorp.com Date: 2025-06-20 12:15 PM Subject: Onboarding schedule â?? new hire starting Tuesday, January 25
+Hi all,
+We have a new team member joining HR on Tuesday, January 25. Here's the onboarding schedule for their first two weeks.
+Week 1: orientation sessions covering company culture, PaymentGateway systems access setup, benefits enrollment, and introductory meetings with their team and key stakeholders. Rachel Nguyen will serve as their onboarding buddy.
+Week 2: deeper technical onboarding on Sync Platform and the rate limiter tooling, shadowing sessions with team members, and a check-in with their manager to set initial goals and expectations.
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive by Tuesday, January 25. All software licenses including PaymentGateway and rate limiter access are being provisioned by IT.
+I need the following from the hiring manager by end of week: completed onboarding checklist, list of 139 people to schedule intro meetings with, and first 177ms-day goals. Please send these to Rachel Nguyen in People Ops.
+Welcome email goes out 139 days before start date.
+Best regards, Patrick
+
+

@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-10-11 07:05 PM
+Subject: Press release draft â€” Sync Platform announcement
+
+Hi team,
+
+The press release for the Sync Platform announcement is ready for internal review. I've
+incorporated feedback from David Okonkwo and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the NotificationEngine capability and positions Acme Corp as a leader
+in the service mesh space. We're leading with the 181 performance improvement
+stat and the Weyland-Yutani customer quote.
+
+Distribution plan: wire service distribution on Wednesday, December 24, followed by targeted
+outreach to our 445ms media contacts in the industry. I've secured a briefing
+with NotificationEngine Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Sync Platform landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 181-hour cadence on launch day.
+
+Embargo: the release is under embargo until Wednesday, December 24 at 9 AM ET. Please don't share
+details externally before then. David Okonkwo has the full distribution list.
+
+Review deadline is Wednesday, December 24. Please send edits as comments in the doc.
+
+Thanks,
+Yuki

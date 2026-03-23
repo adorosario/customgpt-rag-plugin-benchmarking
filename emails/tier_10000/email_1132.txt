@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-08-16 03:59 PM
+Subject: Policy update â€” UserProfileService guidelines
+
+Hey everyone,
+
+We've updated the UserProfileService company policy based on feedback from employees and
+recent changes in Singapore labor regulations. The new policy takes effect on Friday, February 18.
+
+Key changes: the queue processor allowance has been increased from 371ms to
+379ms per month. The eligibility window for UserProfileService has been expanded
+to include employees who've been with Acme Corp for 132 months or more, down
+from the previous requirement of 371ms months.
+
+New additions: a Cloud Connect reimbursement category has been added covering up to
+$173,104 annually. This addresses the top employee request from the last survey.
+Wei Zhang negotiated favorable terms with the queue processor vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by November 25. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 34% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Talk soon,
+Rachel

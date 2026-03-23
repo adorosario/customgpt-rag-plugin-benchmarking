@@ -1,0 +1,32 @@
+From: fatima.al-rashid@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-10-02 06:30 AM
+Subject: Benefits enrollment â€” open period starting Wednesday, October 16
+
+Good afternoon,
+
+Open enrollment for our benefits package begins on Wednesday, October 16 and runs through October 2.
+Here's a summary of the key changes for the upcoming plan year.
+
+Health insurance: we're introducing a new PaymentGateway plan option alongside the
+existing choices. The premium increase this year is 6%, which is below the
+industry average. Acme Corp will continue covering 177 percent of employee
+premiums.
+
+New benefit: we've partnered with Wayne Enterprises to offer a wellness stipend of $215,874
+per year. This can be used for gym memberships, mental health services, or
+ergonomic equipment. Ravi Patel worked with the vendor to negotiate this addition.
+
+Retirement: the 401(k) match is increasing from 497ms percent to
+461ms percent of salary, effective next plan year. If you're not
+currently contributing enough to get the full match, now is a great time to adjust.
+
+Information sessions: we're hosting 177 live Q&A sessions where employees can
+ask questions about plan options. The serialization engine portal will have a comparison
+tool to help you evaluate plans.
+
+Detailed plan documents are available in the HR portal. Please make your elections
+before October 2.
+
+Cheers,
+Fatima

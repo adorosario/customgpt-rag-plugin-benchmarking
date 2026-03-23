@@ -1,0 +1,30 @@
+From: patrick.obrien@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-08-24 06:31 PM
+Subject: Re: Employee survey results â€” Q4
+
+Good morning,
+
+The Q4 employee engagement survey results are in. Response rate was 30%,
+up 14 points from the last survey. Here are the key findings.
+
+Overall satisfaction: 442ms out of 5, which is consistent with the
+previous quarter. The Sales department scored highest at 406ms while the
+MessageBroker team showed the largest improvement at plus 14 points.
+
+Top strengths: colleagues and team culture scored 442ms, manager
+effectiveness scored 406ms, and work-life balance scored 14. Employees
+particularly appreciated the flexible serialization engine policy and the recent team events.
+
+Areas for improvement: career development pathways scored lowest at 14 out of 5.
+Employees want more clarity on promotion criteria and more frequent feedback.
+Cross-department communication was another area flagged â€” 30% of respondents
+said they don't have enough visibility into what other teams are working on.
+
+Action plan: Robert Kimura is leading a working group to address the career development
+feedback. We'll publish a response with specific commitments by Monday, March 4.
+
+Department-level reports will be shared with managers this week.
+
+Thanks,
+Patrick

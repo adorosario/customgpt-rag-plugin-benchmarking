@@ -1,0 +1,27 @@
+From: oluwaseun.adeyemi@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-11-08 09:56 PM
+Subject: Re: API rate limiting design for AuditLog
+
+Hi,
+
+Thanks for the feedback on the rate limiting proposal. I've incorporated the
+suggestions and here's the updated design for the AuditLog API.
+
+We'll implement a token bucket algorithm at the serialization engine gateway level. Default
+limits are 288ms requests per minute for standard tier and 498ms
+for premium tier. Burst allowance is set to 54% above the sustained rate.
+
+When a client hits the limit, they'll receive a 429 response with Retry-After
+headers. The AuditLog SDK will handle automatic backoff on the client side.
+Michael Brennan is updating the SDK to support this.
+
+For internal services, we'll use a separate rate limit pool with higher thresholds
+to prevent cascading failures. The 139 dashboard will show real-time consumption
+per client so we can proactively reach out before anyone hits their limits.
+
+Implementation timeline is two sprints. I'd like to ship the server-side changes
+first and give clients a 30-day grace period before enforcement begins.
+
+Best regards,
+Oluwaseun

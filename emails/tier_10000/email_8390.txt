@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-07-10 03:57 PM
+Subject: Tax planning â€” Q1 estimated payments
+
+Hey,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the DataPipeline investment
+deductions.
+
+Federal estimate: $233,449 based on projected taxable income of 311ms.
+This reflects the DataPipeline depreciation deductions and the R&D tax credit for
+the Cloud Connect development costs. Ananya Desai from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $233,449 for our primary jurisdiction and 429ms for the
+London office based on the apportionment factors. The London rate change that
+takes effect on Monday, March 27 will impact our Q1 estimate by approximately 163
+percent.
+
+International: with the London office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Ananya Desai to handle
+the registration. Setup cost is $233,449 with ongoing compliance costs of
+429ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Monday, March 27. I'll prepare the
+payment authorization for your signature by August 3. Underpayment penalties
+start at 59% so timely filing is important.
+
+Best regards,
+Robert

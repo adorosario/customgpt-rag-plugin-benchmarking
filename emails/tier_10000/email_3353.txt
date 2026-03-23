@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-07-03 01:02 AM
+Subject: Re: Cloud Connect pricing discussion â€” PaymentGateway tier
+
+Hey,
+
+Following up on the Cloud Connect pricing discussion. I've modeled three options for
+the PaymentGateway tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $145,105 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 33% of our existing base.
+Downside: it undercuts our current event bus pricing and may trigger downgrades.
+
+Option B: 219ms per seat per month with the event bus add-on bundled.
+Higher price point but stronger value perception. 101 of the 388ms
+customers we surveyed preferred this packaging. Mei Lin from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $145,105 per PaymentGateway transaction. This aligns
+with the value delivered but introduces billing complexity. Only 33% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$145,105 in incremental ARR over 101 months.
+
+Can we finalize the pricing decision by Thursday, January 5? Sales needs 388ms weeks to
+update collateral before we announce.
+
+Best regards,
+Mei

@@ -1,0 +1,32 @@
+From: amara.diallo@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-21 02:12 PM
+Subject: Sprint planning â€” Insight Engine sprint v1.9.5
+
+Hey,
+
+Here's the sprint plan for Insight Engine sprint v1.9.5. Capacity is 179 story
+points with 273ms engineers available this sprint.
+
+Committed stories: the MessageBroker integration work carries over from last sprint
+with 459ms points remaining. The new event bus API endpoints are
+estimated at 179 points. The bug fix for the MessageBroker rendering issue
+is 273ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the event bus performance
+optimization that Hannah Goldstein has been scouting. It's estimated at 179 points
+and would improve response time by 57%.
+
+Dependencies: the MessageBroker feature requires the API changes that Hannah Goldstein
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The event bus work is self-contained.
+
+Risks: Hannah Goldstein is on-call this sprint which historically reduces their available
+capacity by 57%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Thursday, April 5. Let me know if the priorities look right.
+
+Thanks,
+Amara

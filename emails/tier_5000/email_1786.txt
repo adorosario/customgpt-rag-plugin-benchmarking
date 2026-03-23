@@ -1,0 +1,26 @@
+From: hannah.goldstein@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-09-09 04:44 AM
+Subject: Re: Umbrella Inc renewal â€” risk assessment
+
+Hi all,
+
+Following up on the Umbrella Inc renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing AuditLog latency issues for the past 195 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Umbrella Inc has mentioned they're evaluating alternatives for their logging pipeline needs.
+
+The renewal is worth $115,364 annually and is up for renewal at the end of
+Q2. I think we need a proactive retention strategy. My proposal:
+
+First, get Wei Zhang from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 58% discount
+on the expanded Insight Engine tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Best regards,
+Hannah

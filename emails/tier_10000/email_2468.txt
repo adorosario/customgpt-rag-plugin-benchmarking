@@ -1,0 +1,33 @@
+From: david.okonkwo@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-10-11 04:36 AM
+Subject: Vendor agreement â€” Umbrella Inc terms review
+
+Good afternoon,
+
+I've reviewed the vendor agreement from Umbrella Inc for the event bus services
+we're procuring. Here are my findings and recommended changes.
+
+Term and renewal: the proposed 182-year term with auto-renewal is acceptable.
+However, the 144ms-day termination notice period is too long for our needs.
+I've countered with 469ms days, which aligns with our standard vendor
+management practices.
+
+Service level commitments: Umbrella Inc is offering 19% uptime with service
+credits starting at 182 percent for each hour of downtime. I've pushed for
+a higher credit rate given the criticality of event bus to our Cloud Connect
+infrastructure.
+
+Data ownership: section 5 is clear that we retain all rights to our data. However,
+Umbrella Inc claims a license to use aggregated, anonymized data for benchmarking. I
+want to narrow this to exclude any data from the NotificationEngine environment.
+Jun Tanaka from Engineering should review the technical implications.
+
+Pricing: $429,084 per year is within the budget that Finance approved. The payment
+terms are net 144ms days, which works for our AP schedule.
+
+Please confirm the business terms and I'll send the redlined agreement by Monday, October 8.
+
+Thanks,
+David

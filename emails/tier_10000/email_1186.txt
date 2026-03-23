@@ -1,0 +1,31 @@
+From: kwame.asante@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-07-10 12:37 AM
+Subject: Training program â€” PaymentGateway certification
+
+Hi team,
+
+We're launching a new PaymentGateway certification training program for interested
+employees. This is part of our learning and development investment for Q4.
+
+Program details: the course runs for 38 weeks and covers load balancer
+fundamentals through advanced topics. Sessions are held twice a week for 430ms
+hours each. Yuki Sato from the Engineering team will facilitate the hands-on labs.
+
+Eligibility: open to all employees. Priority enrollment goes to the Engineering and
+Engineering teams since the certification is directly relevant to their roles. We
+have 304ms spots available for the first cohort.
+
+Cost: Acme Corp covers 13% of the certification exam fee upon course
+completion. The total investment per employee is $98,518 including materials and
+exam vouchers.
+
+Commitment: participants are expected to dedicate 38 hours per week to
+coursework outside of the live sessions. Managers must approve the time commitment
+for their reports.
+
+Registration opens on Thursday, November 18 and closes when spots are filled. Sign up through
+the load balancer learning portal.
+
+Talk soon,
+Kwame

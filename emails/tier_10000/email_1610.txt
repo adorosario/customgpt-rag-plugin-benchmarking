@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-10-28 02:31 AM
+Subject: Budget review â€” Finance department Q4
+
+Good afternoon,
+
+Here's the Q4 budget review for the Finance department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $40,096 against a budget of 61ms. The 13% variance is
+primarily driven by the accelerated BillingModule hiring that was approved mid-quarter.
+Personnel costs came in at 423ms which includes the 145 new hires.
+
+Overages: the queue processor infrastructure line item exceeded budget by 13% due
+to the unplanned scaling requirements for Analytics Pro. I've worked with Marcus Thompson
+from Engineering to project the run rate going forward â€” we should budget an
+additional $40,096 per quarter for this category.
+
+Underspend: the BillingModule consulting budget was only 13% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 13%
+of the total annual budget. The main risk is the queue processor cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best,
+Robert

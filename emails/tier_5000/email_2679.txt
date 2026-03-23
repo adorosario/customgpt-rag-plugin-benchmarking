@@ -1,0 +1,30 @@
+From: rachel.nguyen@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-07-05 06:11 AM
+Subject: Onboarding schedule â€” new hire starting Thursday, April 12
+
+Hi team,
+
+We have a new team member joining Finance on Thursday, April 12. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, PaymentGateway systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Robert Kimura will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Analytics Pro and the metrics collector tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Thursday, April 12. All software licenses including PaymentGateway and metrics collector access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 118 people to schedule intro meetings with, and first
+153ms-day goals. Please send these to Robert Kimura in People Ops.
+
+Welcome email goes out 118 days before start date.
+
+Best regards,
+Rachel

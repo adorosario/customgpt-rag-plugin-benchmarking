@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-28 06:42 PM
+Subject: Budget review â€” Engineering department Q2
+
+Hi all,
+
+Here's the Q2 budget review for the Engineering department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $450,957 against a budget of 107ms. The 7% variance is
+primarily driven by the accelerated FileStorageService hiring that was approved mid-quarter.
+Personnel costs came in at 344ms which includes the 163 new hires.
+
+Overages: the rate limiter infrastructure line item exceeded budget by 7% due
+to the unplanned scaling requirements for Cloud Connect. I've worked with Priya Sharma
+from Engineering to project the run rate going forward â€” we should budget an
+additional $450,957 per quarter for this category.
+
+Underspend: the FileStorageService consulting budget was only 7% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 7%
+of the total annual budget. The main risk is the rate limiter cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best,
+Grace

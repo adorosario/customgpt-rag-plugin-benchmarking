@@ -1,0 +1,26 @@
+From: hannah.goldstein@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-08-09 09:35 AM
+Subject: Re: Wayne Enterprises renewal â€” risk assessment
+
+Hello,
+
+Following up on the Wayne Enterprises renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing CacheLayer latency issues for the past 30 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Wayne Enterprises has mentioned they're evaluating alternatives for their service mesh needs.
+
+The renewal is worth $284,921 annually and is up for renewal at the end of
+Q1. I think we need a proactive retention strategy. My proposal:
+
+First, get Jun Tanaka from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 55% discount
+on the expanded Integration Hub tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Talk soon,
+Hannah

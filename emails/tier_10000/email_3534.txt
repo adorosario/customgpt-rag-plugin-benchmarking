@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-06-05 12:15 AM
+Subject: Beta program update â€” Data Vault v3.2.2
+
+Hey,
+
+Quick update on the Data Vault v3.2.2 beta program. We're 129 weeks into
+the beta period with 316ms customers participating.
+
+Usage data: 40% of beta participants have activated the new CacheLayer
+feature. Average daily usage is 129 sessions per user. The authentication module
+workflow is being used by 285ms of participants, which exceeds our
+adoption target of 316ms.
+
+Feedback summary: overall sentiment is positive. The top 129 pieces of praise
+relate to the CacheLayer speed improvement and the new authentication module interface.
+The top 316ms complaints are about the CacheLayer configuration complexity
+and a confusing error message in the authentication module flow.
+
+Bugs found: 129 bugs reported, of which 316ms are critical. David Okonkwo
+from Engineering has fixed 285ms of the critical bugs. The remaining one
+is related to the CacheLayer edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Monday, November 17. The GA release is targeted for 129 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Monday, November 17 to finalize the GA scope.
+
+Thanks,
+Mei

@@ -1,0 +1,29 @@
+From: aisha.okafor@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-10 06:46 PM
+Subject: New lead â€” Stark Industries inbound request
+
+Hi team,
+
+We received an inbound request from Stark Industries through the website today. They're
+a 105-employee company in the BillingModule space and are looking for a
+Integration Hub solution.
+
+Initial qualification: they have budget allocated for Q2, their current
+contract with their existing vendor expires on Monday, January 11, and the decision maker is
+their VP of Operations. They found us through the logging pipeline whitepaper we
+published last month.
+
+The estimated deal size is $417,473 based on their seat count and the use case
+they described. They specifically mentioned needing the BillingModule integration
+and 323ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Dmitri Volkov â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on logging pipeline scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Thanks,
+Aisha

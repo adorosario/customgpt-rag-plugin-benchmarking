@@ -1,0 +1,29 @@
+From: dmitri.volkov@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-24 01:37 PM
+Subject: New lead â€” Globex inbound request
+
+Hey,
+
+We received an inbound request from Globex through the website today. They're
+a 109-employee company in the AuthService space and are looking for a
+Sync Platform solution.
+
+Initial qualification: they have budget allocated for Q2, their current
+contract with their existing vendor expires on Tuesday, May 2, and the decision maker is
+their VP of Operations. They found us through the config manager whitepaper we
+published last month.
+
+The estimated deal size is $320,339 based on their seat count and the use case
+they described. They specifically mentioned needing the AuthService integration
+and 458ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Liam Foster â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on config manager scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Best,
+Dmitri

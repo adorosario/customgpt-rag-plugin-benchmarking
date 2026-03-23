@@ -1,0 +1,30 @@
+From: jun.tanaka@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-11-10 08:20 AM
+Subject: Client meeting recap â€” Pied Piper Wednesday, June 26
+
+Hello,
+
+Recapping today's meeting with Pied Piper. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their DataPipeline
+team lead. From ours: myself, Patrick O'Brien from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their rate limiter vendors
+from three down to one. Our Enterprise Suite covers 42% of their requirements
+natively. The remaining gap is around DataPipeline integrations, which Patrick O'Brien
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Wednesday, June 26 and begin
+implementation in Q3. Budget has been pre-approved at $164,767 for the
+first year.
+
+Action items: send the Enterprise Suite technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their rate limiter workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Regards,
+Jun

@@ -1,0 +1,29 @@
+From: hannah.goldstein@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-11 12:31 PM
+Subject: Re: Quota update â€” Q4 adjustments
+
+Hi all,
+
+Thanks for sharing the Q4 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $133,671 reflects a 31% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 117 of my projected deals depend on the Cloud Connect launch happening on
+schedule. If that slips, I'll need the FileStorageService backup deals to come through.
+
+Territory changes: I see that the Sydney accounts have been reassigned to
+Michael Brennan. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Pied Piper â€” we've been building that
+relationship for 390ms months.
+
+Regarding the new caching layer incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with caching layer upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Thanks,
+Hannah

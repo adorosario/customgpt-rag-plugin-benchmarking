@@ -1,0 +1,28 @@
+From: tomoko.nakamura@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-09-20 11:27 PM
+Subject: On-call handoff â€” week of Thursday, March 13
+
+Hi all,
+
+Handing off on-call duties for the week of Thursday, March 13. Here's the status summary for
+the incoming rotation.
+
+Active issues: the BillingModule service has been showing elevated latency during peak
+hours, averaging 55ms against a target of 337ms. We've identified
+the root cause in the caching layer caching layer and a fix is in code review now.
+Should be deployed by Tuesday.
+
+Monitoring: keep an eye on the BillingModule dashboard. Patrick O'Brien added new alerts
+last week but we haven't validated them under real load yet. If you get paged for
+the caching layer alert, the runbook is updated and the escalation path is documented.
+
+Scheduled maintenance: there's a planned database maintenance window on Thursday at
+02:00 UTC. Expected duration is 73 minutes. The procedure is automated but
+someone needs to verify the health checks afterward.
+
+Reach out if anything comes up that isn't covered in the runbook.
+
+Thanks,
+Tomoko

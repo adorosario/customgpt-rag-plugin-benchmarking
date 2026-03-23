@@ -1,0 +1,32 @@
+From: amara.diallo@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-04 10:30 PM
+Subject: A/B test results â€” ReportingEngine experiment
+
+Good morning,
+
+The ReportingEngine A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 163 days with 210ms users in each cohort.
+
+Variant A (control): the existing service mesh flow. Conversion rate of
+137ms with an average task completion time of 163 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified ReportingEngine step.
+Conversion rate of 210ms with task completion time of 137ms seconds.
+This represents a 13% improvement in conversion and 163 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 163 to 210ms
+in the treatment group. Support ticket volume for ReportingEngine related issues
+decreased by 13%. No negative impact on service mesh engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. James Oduya from Engineering can have this
+deployed by Monday, November 20.
+
+One caveat: the test population skewed toward Integration Hub power users. We should
+monitor new user behavior closely for the first 163 weeks after full rollout.
+
+Regards,
+Amara

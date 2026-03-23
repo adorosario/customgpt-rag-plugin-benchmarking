@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-06-24 06:48 AM
+Subject: Social media strategy â€” Q3
+
+Good afternoon,
+
+Presenting the social media strategy refresh for Q3. Based on our Data Vault
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our AuditLog posts are averaging 129 impressions and 25% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 25% educational content about service mesh topics, 129
+percent product highlights, and the rest for company culture and employee spotlights.
+Kwame Asante will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Data Vault use cases and answer audience questions. First session on Thursday, February 15 featuring
+Kwame Asante.
+
+Budget: $205,759 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 386ms new followers and 401ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Cheers,
+Sofia

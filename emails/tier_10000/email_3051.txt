@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-06-06 04:36 AM
+Subject: A/B test results â€” FileStorageService experiment
+
+Good afternoon,
+
+The FileStorageService A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 199 days with 419ms users in each cohort.
+
+Variant A (control): the existing service mesh flow. Conversion rate of
+499ms with an average task completion time of 199 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified FileStorageService step.
+Conversion rate of 419ms with task completion time of 499ms seconds.
+This represents a 15% improvement in conversion and 199 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 199 to 419ms
+in the treatment group. Support ticket volume for FileStorageService related issues
+decreased by 15%. No negative impact on service mesh engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Amara Diallo from Engineering can have this
+deployed by Friday, April 2.
+
+One caveat: the test population skewed toward Analytics Pro power users. We should
+monitor new user behavior closely for the first 199 weeks after full rollout.
+
+Talk soon,
+Daniel

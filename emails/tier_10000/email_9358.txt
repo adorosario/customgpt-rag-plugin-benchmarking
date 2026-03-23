@@ -1,0 +1,27 @@
+From: derek.morrison@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-31 05:02 AM
+Subject: Pipeline update â€” Massive Dynamic deal status
+
+Hey,
+
+Quick update on the Massive Dynamic opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $145,062 for the Sync Platform deployment. The
+decision timeline is end of Q3. Their main concern remains the integration
+with their existing FileStorageService infrastructure, which is why I've looped in Aisha Okafor
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Massive Dynamic is also evaluating one other vendor but our
+Sync Platform demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our logging pipeline capability.
+
+Next steps: technical architecture session on Friday, March 17, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 32%.
+
+Talk soon,
+Derek

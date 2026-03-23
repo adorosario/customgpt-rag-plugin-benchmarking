@@ -1,0 +1,31 @@
+From: maria.santos@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-07-26 07:50 AM
+Subject: Re: Employment law update â€” Toronto office
+
+Hi,
+
+Important update on the employment law changes affecting our Toronto office.
+The new legislation goes into effect on Monday, April 12 and requires several adjustments to
+our current practices.
+
+Key changes: first, the minimum notice period for termination has increased from
+378ms to 297ms weeks for employees with more than 109 years
+of tenure. Second, there's a new requirement for documented WebhookDispatcher procedures
+that must be shared with employees during onboarding.
+
+Impact assessment: we have 109 employees at the Toronto office who are affected
+by the notice period change. HR needs to update offer letters and the employee
+handbook for the Toronto jurisdiction. Elena Vasquez from People Ops is coordinating
+the handbook revision.
+
+Compliance cost: outside counsel estimates $94,301 in legal fees to update all
+affected contracts and policies. This was not in the Q3 legal budget, so
+I'll need Finance to approve the additional spend.
+
+Deadline: all changes must be implemented by Monday, April 12. I've created a compliance
+checklist and will track progress in our weekly legal ops meeting.
+
+Best regards,
+Maria

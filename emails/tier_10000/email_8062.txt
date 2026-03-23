@@ -1,0 +1,33 @@
+From: maria.santos@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-09-04 08:47 PM
+Subject: Contract review â€” Soylent Corp agreement
+
+Hello,
+
+I've completed the review of the Soylent Corp agreement and have several items that
+need attention before we can proceed to execution.
+
+Liability cap: the current draft limits liability to $148,886, which is below our
+standard threshold of 386ms for deals of this size. I recommend pushing back
+to at least 368ms. Laura Kim from Sales should be prepared for this
+negotiation point.
+
+IP assignment clause: section 7.3 includes an overly broad IP assignment that could
+capture pre-existing work product. I've drafted narrower language that protects our
+existing UserProfileService IP while still meeting Soylent Corp's requirements for the
+Integration Hub deliverables.
+
+Data processing: the DPA needs to be updated to reflect the new connection pool
+architecture. Since data will transit through the Sydney data center, we need to
+ensure compliance with local data residency requirements.
+
+Indemnification: the mutual indemnification provisions are reasonable. I've accepted
+them with minor clarifications on the notice period â€” changed from 100 to
+386ms business days.
+
+I'll send the redlined version by Monday, January 26. Please review the business terms and
+confirm the commercial intent before I finalize.
+
+Thanks,
+Maria

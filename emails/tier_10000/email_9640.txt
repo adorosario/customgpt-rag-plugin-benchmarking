@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-07-11 01:25 AM
+Subject: Hiring update â€” Product open positions
+
+Hey everyone,
+
+Here's the weekly hiring update for the Product department. We're making progress
+on several key roles.
+
+Active searches: the MessageBroker role has 130 candidates in the pipeline with
+482ms scheduled for final round interviews this week. The caching layer
+position has been open for 396ms days and we're seeing fewer qualified
+applicants than expected â€” I'd like to discuss expanding our sourcing channels.
+
+Offers: we extended an offer to a strong candidate for the Dmitri Volkov backfill
+role. Their expected start date is Friday, December 10 pending background check completion.
+Compensation is at $120,510 which is within the approved band.
+
+Upcoming: the Integration Hub team has submitted a headcount request for 130 new
+positions in Q3. I'm drafting the job descriptions and will share them for
+review by Friday, December 10.
+
+Interview load: we conducted 396ms interviews last week across all open
+roles. Please remind your team leads that timely interviewer feedback is critical â€”
+we're losing candidates due to slow response times on 22% of our processes.
+
+Best,
+Fatima

@@ -1,0 +1,27 @@
+From: hannah.goldstein@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-07 10:02 PM
+Subject: Pipeline update â€” Wayne Enterprises deal status
+
+Good morning,
+
+Quick update on the Wayne Enterprises opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $286,925 for the Insight Engine deployment. The
+decision timeline is end of Q3. Their main concern remains the integration
+with their existing WebhookDispatcher infrastructure, which is why I've looped in Jun Tanaka
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Wayne Enterprises is also evaluating one other vendor but our
+Insight Engine demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our config manager capability.
+
+Next steps: technical architecture session on Monday, March 15, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 23%.
+
+Cheers,
+Hannah

@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-12 09:15 AM
+Subject: Revenue recognition â€” Sync Platform contracts
+
+Hey everyone,
+
+I need to walk through the revenue recognition treatment for the new Sync Platform
+contracts signed this quarter. We have 28 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Pied Piper contract bundles Sync Platform licenses with
+event bus implementation services. I've determined the standalone selling prices
+and allocated $485,623 to the license component and 220ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 28-month implementation period.
+
+Variable consideration: 371ms contracts include performance bonuses tied to
+PaymentGateway uptime metrics. Using the expected value method, I've estimated
+$485,623 in variable consideration based on our historical performance of
+6% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Pied Piper amendment added event bus capacity at
+$485,623 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Sanjay Krishnamurthy from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Monday, August 14.
+
+Cheers,
+Robert

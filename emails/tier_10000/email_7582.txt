@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: maria.santos@acmecorp.com
+Date: 2025-10-25 09:09 PM
+Subject: Budget review â€” Finance department Q4
+
+Good morning,
+
+Here's the Q4 budget review for the Finance department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $395,623 against a budget of 189ms. The 23% variance is
+primarily driven by the accelerated SearchIndex hiring that was approved mid-quarter.
+Personnel costs came in at 466ms which includes the 95 new hires.
+
+Overages: the event bus infrastructure line item exceeded budget by 23% due
+to the unplanned scaling requirements for Insight Engine. I've worked with Aisha Okafor
+from Engineering to project the run rate going forward â€” we should budget an
+additional $395,623 per quarter for this category.
+
+Underspend: the SearchIndex consulting budget was only 23% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 23%
+of the total annual budget. The main risk is the event bus cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best regards,
+Robert

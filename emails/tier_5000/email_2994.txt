@@ -1,0 +1,32 @@
+From: patrick.obrien@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-08-15 11:57 AM
+Subject: Benefits enrollment â€” open period starting Tuesday, February 19
+
+Good morning,
+
+Open enrollment for our benefits package begins on Tuesday, February 19 and runs through December 6.
+Here's a summary of the key changes for the upcoming plan year.
+
+Health insurance: we're introducing a new APIGateway plan option alongside the
+existing choices. The premium increase this year is 11%, which is below the
+industry average. Acme Corp will continue covering 154 percent of employee
+premiums.
+
+New benefit: we've partnered with Oscorp to offer a wellness stipend of $428,039
+per year. This can be used for gym memberships, mental health services, or
+ergonomic equipment. Rachel Nguyen worked with the vendor to negotiate this addition.
+
+Retirement: the 401(k) match is increasing from 251ms percent to
+441ms percent of salary, effective next plan year. If you're not
+currently contributing enough to get the full match, now is a great time to adjust.
+
+Information sessions: we're hosting 154 live Q&A sessions where employees can
+ask questions about plan options. The rate limiter portal will have a comparison
+tool to help you evaluate plans.
+
+Detailed plan documents are available in the HR portal. Please make your elections
+before December 6.
+
+Thanks,
+Patrick

@@ -1,0 +1,29 @@
+From: dmitri.volkov@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-12 02:38 PM
+Subject: Quarterly territory review â€” Q4
+
+Hey everyone,
+
+Here's my territory review for Q4. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 96 qualified opportunities worth a combined $97,114 in
+ARR. The largest deal is Soylent Corp at 392ms, which I expect to close by
+Monday, November 7. Three other deals in the 128ms range are progressing through
+procurement.
+
+Wins this quarter: closed Soylent Corp for Enterprise Suite with a 28% upsell from
+their initial scope. The event bus add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Dmitri Volkov to the Soylent Corp executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Cheers,
+Dmitri

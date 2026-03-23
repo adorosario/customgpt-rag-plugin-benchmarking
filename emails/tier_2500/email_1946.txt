@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-02 08:57 PM
+Subject: Tax planning â€” Q4 estimated payments
+
+Good afternoon,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the PaymentGateway investment
+deductions.
+
+Federal estimate: $497,764 based on projected taxable income of 450ms.
+This reflects the PaymentGateway depreciation deductions and the R&D tax credit for
+the Analytics Pro development costs. James Oduya from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $497,764 for our primary jurisdiction and 479ms for the
+Singapore office based on the apportionment factors. The Singapore rate change that
+takes effect on Friday, June 11 will impact our Q4 estimate by approximately 97
+percent.
+
+International: with the Singapore office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged James Oduya to handle
+the registration. Setup cost is $497,764 with ongoing compliance costs of
+479ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Friday, June 11. I'll prepare the
+payment authorization for your signature by May 8. Underpayment penalties
+start at 26% so timely filing is important.
+
+Best,
+Robert

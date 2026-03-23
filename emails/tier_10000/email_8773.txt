@@ -1,0 +1,30 @@
+From: derek.morrison@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-26 06:12 AM
+Subject: Re: Insight Engine demo feedback from Soylent Corp
+
+Hello,
+
+Great news from the Soylent Corp demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the serialization engine dashboard got the biggest reaction. Their
+current tool requires 92 manual steps to accomplish what our Insight Engine does
+automatically. The MessageBroker integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 209ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v5.0.0-beta release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Hannah Goldstein, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Insight Engine trial environment set up for their team of
+92 evaluators. I'll submit the trial request today. Target close date
+remains Friday, August 6.
+
+Best,
+Derek

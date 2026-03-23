@@ -1,0 +1,31 @@
+From: kwame.asante@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-10-20 05:51 AM
+Subject: Onboarding schedule â€” new hire starting Monday, February 12
+
+Good morning,
+
+We have a new team member joining Engineering on Monday, February 12. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, WebhookDispatcher systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Grace Mwangi will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Enterprise Suite and the metrics collector tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Monday, February 12. All software licenses including WebhookDispatcher and metrics collector access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 181 people to schedule intro meetings with, and first
+269ms-day goals. Please send these to Grace Mwangi in People Ops.
+
+Welcome email goes out 181 days before start date.
+
+Regards,
+Kwame

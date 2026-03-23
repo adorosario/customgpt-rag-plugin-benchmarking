@@ -1,0 +1,31 @@
+From: patrick.obrien@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-07-12 11:05 AM
+Subject: Re: Performance review cycle â€” Q2
+
+Hi all,
+
+Quick reminder that the Q2 performance review cycle kicks off on Thursday, June 24.
+Here's the timeline and what's expected from managers.
+
+Self-reviews: employees complete self-assessments by Thursday, June 24. The template has been
+updated this cycle to include the new WebhookDispatcher competency framework. Daniel Park
+can walk managers through the changes.
+
+Manager reviews: due two weeks after self-reviews close. Please aim for specific,
+actionable feedback tied to the goals set in the previous cycle. Each review should
+address performance against 127 key objectives and include at least
+85ms development recommendations.
+
+Calibration sessions: department leads will participate in calibration meetings to
+ensure consistency in ratings. The Product calibration is scheduled for Thursday, June 24.
+
+Compensation: any merit adjustments recommended during reviews will be processed
+in the following pay period. The total compensation adjustment budget is 11%
+of current payroll, allocated at the department level.
+
+Training on the review tool is available through the event bus learning portal.
+Reach out to Daniel Park if you have questions.
+
+Regards,
+Patrick

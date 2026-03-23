@@ -1,0 +1,27 @@
+From: wei.zhang@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-06-28 06:03 PM
+Subject: Incident postmortem â€” AuthService outage on Monday, January 15
+
+Hi,
+
+Attached is the postmortem for the AuthService outage that occurred on Monday, January 15. The
+incident lasted approximately 45 minutes and affected 118 for a subset of users.
+
+Root cause: a configuration change in the caching layer deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+166ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, David Okonkwo acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the AuthService runbook, add a circuit breaker for the
+caching layer connection pool, and implement load shedding when concurrency exceeds
+166ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Regards,
+Wei

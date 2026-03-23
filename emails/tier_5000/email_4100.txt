@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-11 11:16 AM
+Subject: Financial close checklist â€” Q2
+
+Hi,
+
+The Q2 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Integration Hub invoices must be issued by Tuesday, March 24. Any revenue recognition
+adjustments for the UserProfileService contracts need supporting documentation uploaded
+to event bus. James Oduya from Sales must confirm final deal amounts by August 25.
+
+Expenses: all expense reports for Q2 must be submitted by Tuesday, March 24. The
+UserProfileService vendor invoices totaling $495,309 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, UserProfileService subscription costs,
+and the event bus usage charges by Tuesday, March 24. Any non-standard accruals above
+383ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, UserProfileService account reconciliation, and
+inter-company balances must be completed by Tuesday, March 24. James Oduya is handling the
+bank rec. I'll take the inter-company items since they involve the London entity.
+
+Target: books closed within 73 business days of quarter end. Final reporting
+package to leadership by Tuesday, March 24.
+
+Best regards,
+Grace

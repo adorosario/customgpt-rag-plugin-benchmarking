@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-11-24 07:36 AM
+Subject: Audit preparation â€” Q4 review
+
+Good morning,
+
+The Q4 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Pied Piper are scheduled to begin fieldwork
+on Thursday, June 15.
+
+Documentation needed from each department: all purchase orders above 409ms,
+contract modifications executed during Q4, headcount changes with supporting
+approvals, and CacheLayer system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the authentication module audit portal by Thursday, June 15.
+That gives us 192 business days before the auditors arrive. Carlos Rivera has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Enterprise Suite contracts, the CacheLayer capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $316,025 in capitalized CacheLayer costs and the methodology used.
+
+This is our 192 year with Pied Piper as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Carlos Rivera if you have
+questions about what's needed.
+
+Cheers,
+Grace

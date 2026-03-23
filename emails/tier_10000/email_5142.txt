@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-07-25 10:37 PM
+Subject: Customer feedback digest â€” Data Vault Q4
+
+Hi team,
+
+Here's the quarterly customer feedback digest for Data Vault. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 30, up 453ms points from last quarter. The improvement
+is driven by the AnalyticsDashboard launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 15%.
+
+Top feature requests: AnalyticsDashboard advanced filtering (30 votes), logging pipeline
+bulk operations (453ms votes), and enhanced Data Vault reporting (243ms
+votes). The filtering request aligns with what we heard in the user research study
+Amara Diallo conducted.
+
+Top complaints: AnalyticsDashboard performance during peak hours (30 mentions),
+the logging pipeline onboarding experience (453ms mentions), and pricing
+transparency (243ms mentions). The performance issue is being addressed
+by Engineering â€” Amara Diallo expects the fix in v3.2.2.
+
+Churn insights: 30 customers churned this quarter citing AnalyticsDashboard
+limitations as the primary reason. The logging pipeline overhaul on our roadmap directly
+addresses their feedback. 15% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Thursday, March 3.
+
+Thanks,
+Mei

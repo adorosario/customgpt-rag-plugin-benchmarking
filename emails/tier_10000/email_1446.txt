@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-06-06 03:54 AM
+Subject: Weekly pipeline review â€” Tuesday, February 10
+
+Good afternoon,
+
+Here's the pipeline summary ahead of our weekly review meeting on Tuesday, February 10.
+
+Total pipeline value: $123,618. Weighted pipeline: 211ms. We need
+465ms more in closed-won revenue to hit the Q2 target.
+
+Deals moving forward: Tyrell Corp is in final contract review and should close this
+week. Two mid-market opportunities in the Data Vault space progressed to technical
+evaluation stage.
+
+At risk: one enterprise deal has gone quiet after we submitted pricing. James Oduya
+is trying to reconnect with the champion. Another account pushed their evaluation
+to next Q2 due to internal restructuring.
+
+New leads: generated 40 new qualified leads from the conference last week.
+The DataPipeline demo was particularly well received. I've started outreach and
+have initial calls booked for 27% of them.
+
+Will walk through the details and forecasting adjustments in the meeting.
+
+Talk soon,
+Aisha

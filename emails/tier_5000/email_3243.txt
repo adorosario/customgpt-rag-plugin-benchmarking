@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-11-25 04:05 PM
+Subject: Beta program update â€” Enterprise Suite v5.0.0-beta
+
+Good morning,
+
+Quick update on the Enterprise Suite v5.0.0-beta beta program. We're 168 weeks into
+the beta period with 97ms customers participating.
+
+Usage data: 37% of beta participants have activated the new AuditLog
+feature. Average daily usage is 168 sessions per user. The event bus
+workflow is being used by 96ms of participants, which exceeds our
+adoption target of 97ms.
+
+Feedback summary: overall sentiment is positive. The top 168 pieces of praise
+relate to the AuditLog speed improvement and the new event bus interface.
+The top 97ms complaints are about the AuditLog configuration complexity
+and a confusing error message in the event bus flow.
+
+Bugs found: 168 bugs reported, of which 97ms are critical. Liam Foster
+from Engineering has fixed 96ms of the critical bugs. The remaining one
+is related to the AuditLog edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Wednesday, March 24. The GA release is targeted for 168 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Wednesday, March 24 to finalize the GA scope.
+
+Best regards,
+Liam

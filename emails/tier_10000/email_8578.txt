@@ -1,0 +1,32 @@
+From: amara.diallo@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-07-03 12:57 AM
+Subject: Re: User research findings â€” BillingModule
+
+Hello,
+
+Sharing the findings from the BillingModule user research study. We interviewed
+29 users and ran usability tests with 259ms participants over the
+last two weeks.
+
+Key insight 1: users find the service mesh workflow confusing â€” 31% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between BillingModule and the main Analytics Pro dashboard.
+
+Key insight 2: power users want more BillingModule customization options. They're
+currently using workarounds that involve 29 extra steps. The most requested
+feature is the ability to create custom service mesh templates.
+
+Key insight 3: new users consistently miss the BillingModule feature entirely.
+Discovery is poor â€” only 31% of new users try the feature within their first
+29 days. Aisha Okafor suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the service mesh navigation flow, add the template
+feature to the Q1 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 31% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Cheers,
+Amara

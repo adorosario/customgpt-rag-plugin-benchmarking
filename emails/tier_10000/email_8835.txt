@@ -1,0 +1,32 @@
+From: sofia.martinez@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-23 04:30 PM
+Subject: Event planning â€” Analytics Pro webinar on Monday, November 8
+
+Hi team,
+
+Finalizing details for the Analytics Pro webinar on Monday, November 8. Here's where we stand on
+the logistics and promotion.
+
+Content: Sofia Martinez from Product will present the DataPipeline roadmap segment.
+I'll handle the intro and customer story. We're targeting a 66-minute
+presentation followed by 467ms minutes of live Q&A. The caching layer demo
+segment should be the highlight.
+
+Registration: we've had 340ms sign-ups so far. Goal is 467ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Analytics Pro keywords.
+
+Tech setup: using the standard webinar platform. Sofia Martinez will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Monday, November 8 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 66 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Talk soon,
+Sofia

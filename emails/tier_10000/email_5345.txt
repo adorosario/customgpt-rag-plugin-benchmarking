@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-09-02 09:38 AM
+Subject: Analytics report â€” Integration Hub campaign performance
+
+Good morning,
+
+Here's the performance report for the Integration Hub campaign through Monday, November 14.
+
+Website traffic: up 30% month over month, driven primarily by the ReportingEngine
+comparison blog post which brought in 48 unique visitors. Organic search is
+growing steadily â€” the config manager keyword cluster is now ranking on page one.
+
+Lead generation: 97ms marketing qualified leads this month against a
+target of 316ms. The whitepaper download page converted at 30% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 48 percent.
+
+Email campaigns: the Integration Hub nurture sequence has a 30% open rate and
+48 percent click-through rate. The top-performing email was the ReportingEngine
+case study with Pied Piper. Oluwaseun Adeyemi suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $65,679 which is 30% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Best regards,
+Sofia

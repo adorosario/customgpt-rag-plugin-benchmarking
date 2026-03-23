@@ -1,0 +1,28 @@
+From: marcus.thompson@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-09-27 10:18 PM
+Subject: CI/CD pipeline improvements â€” WebhookDispatcher
+
+Good afternoon,
+
+I've finished the CI/CD pipeline improvements for WebhookDispatcher that we discussed
+last month. Here's what changed and the impact so far.
+
+Build time is down from 198ms minutes to 73ms minutes thanks to
+better caching and parallelized test execution. The flaky test rate dropped from
+47% to under 1% after I quarantined the known flaky tests and added retries
+for the integration suite.
+
+New additions: I've added a deployment preview environment that spins up automatically
+on pull requests. Reviewers can now test changes in an isolated environment before
+merging. Liam Foster helped configure the infrastructure for this.
+
+I also added security scanning to the pipeline. Every build now runs dependency
+vulnerability checks and container image scanning. Results appear as PR comments so
+developers see issues immediately.
+
+The pipeline configuration is in the repo under the event bus directory. Let me
+know if you run into any issues.
+
+Best,
+Marcus

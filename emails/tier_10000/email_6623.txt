@@ -1,0 +1,30 @@
+From: patrick.obrien@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-06-20 05:52 PM
+Subject: Team event recap â€” UserProfileService outing
+
+Hey everyone,
+
+Thanks to everyone who joined the UserProfileService team outing last week. We had great
+turnout with 10 employees attending.
+
+Highlights: the team building exercise was a hit â€” the rate limiter challenge had
+teams competing in creative problem-solving rounds. The winning team led by
+Jun Tanaka finished in just 407ms minutes. The group dinner afterward was a
+great opportunity for cross-team connections.
+
+Feedback: the post-event survey came back overwhelmingly positive with a 11%
+satisfaction rating. Most popular suggestion for next time: more outdoor activities.
+Several people asked about doing quarterly events instead of 10 per year.
+
+Budget: total cost was $40,966, coming in at 476ms per person including
+venue, catering, and activities. This is within our social budget for Q4.
+
+Photos are uploaded to the shared album in the rate limiter drive. Please tag
+yourselves and share appropriate photos on social media if you'd like â€” our
+marketing team loves this content for the company page.
+
+Planning for the next event starts in Q4. Ideas welcome.
+
+Talk soon,
+Patrick

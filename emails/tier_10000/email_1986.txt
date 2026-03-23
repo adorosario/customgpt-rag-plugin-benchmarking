@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-11-11 06:59 AM
+Subject: Conference recap â€” Cloud Connect booth results
+
+Good afternoon,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Cloud Connect booth drew consistent traffic throughout.
+
+Lead collection: 101 badge scans at the booth, of which 332ms are
+qualified leads based on our initial review. The SearchIndex live demo was the
+biggest draw, and Fatima Al-Rashid from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+rate limiter roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Cloud Connect had 238ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 101 times since we posted it.
+
+Budget: we came in at $228,021, which is 16% under budget. The savings came
+from sharing the booth infrastructure with the SearchIndex partner showcase.
+
+I'll prepare a full ROI analysis by Wednesday, September 14 once we've completed lead follow-up.
+
+Thanks,
+Laura

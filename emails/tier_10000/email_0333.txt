@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-06-27 12:07 PM
+Subject: Hiring update â€” Finance open positions
+
+Hi,
+
+Here's the weekly hiring update for the Finance department. We're making progress
+on several key roles.
+
+Active searches: the NotificationEngine role has 79 candidates in the pipeline with
+434ms scheduled for final round interviews this week. The logging pipeline
+position has been open for 63ms days and we're seeing fewer qualified
+applicants than expected â€” I'd like to discuss expanding our sourcing channels.
+
+Offers: we extended an offer to a strong candidate for the Tomoko Nakamura backfill
+role. Their expected start date is Wednesday, March 8 pending background check completion.
+Compensation is at $76,472 which is within the approved band.
+
+Upcoming: the Integration Hub team has submitted a headcount request for 79 new
+positions in Q3. I'm drafting the job descriptions and will share them for
+review by Wednesday, March 8.
+
+Interview load: we conducted 63ms interviews last week across all open
+roles. Please remind your team leads that timely interviewer feedback is critical â€”
+we're losing candidates due to slow response times on 53% of our processes.
+
+Regards,
+Rachel

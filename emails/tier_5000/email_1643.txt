@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-09-08 06:01 AM
+Subject: Conference recap â€” Analytics Pro booth results
+
+Hi all,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Analytics Pro booth drew consistent traffic throughout.
+
+Lead collection: 195 badge scans at the booth, of which 446ms are
+qualified leads based on our initial review. The CacheLayer live demo was the
+biggest draw, and Derek Morrison from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+load balancer roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Analytics Pro had 362ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 195 times since we posted it.
+
+Budget: we came in at $282,750, which is 33% under budget. The savings came
+from sharing the booth infrastructure with the CacheLayer partner showcase.
+
+I'll prepare a full ROI analysis by Wednesday, January 13 once we've completed lead follow-up.
+
+Cheers,
+Sofia

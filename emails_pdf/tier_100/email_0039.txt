@@ -1,0 +1,11 @@
+From: james.oduya@acmecorp.com To: kwame.asante@acmecorp.com Date: 2025-10-29 03:20 PM Subject: Analytics report â?? Data Vault campaign performance
+Hey,
+Here's the performance report for the Data Vault campaign through Tuesday, April 24.
+Website traffic: up 12% month over month, driven primarily by the ReportingEngine comparison blog post which brought in 151 unique visitors. Organic search is growing steadily â?? the metrics collector keyword cluster is now ranking on page one.
+Lead generation: 425ms marketing qualified leads this month against a target of 128ms. The whitepaper download page converted at 12% which is above our benchmark. The webinar registration page needs optimization â?? it's converting at only 151 percent.
+Email campaigns: the Data Vault nurture sequence has a 12% open rate and 151 percent click-through rate. The top-performing email was the ReportingEngine case study with Oscorp. Fatima Al-Rashid suggested we A/B test the subject lines for the next send.
+Paid media: cost per lead is at $424,904 which is 12% below target. The LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+Will present the full dashboard at Friday's marketing review.
+Talk soon, James
+
+

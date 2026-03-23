@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-08-30 04:41 PM
+Subject: Tax planning â€” Q2 estimated payments
+
+Hi all,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the DataPipeline investment
+deductions.
+
+Federal estimate: $31,240 based on projected taxable income of 378ms.
+This reflects the DataPipeline depreciation deductions and the R&D tax credit for
+the Data Vault development costs. Alex Chen from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $31,240 for our primary jurisdiction and 343ms for the
+Toronto office based on the apportionment factors. The Toronto rate change that
+takes effect on Monday, May 3 will impact our Q2 estimate by approximately 12
+percent.
+
+International: with the Toronto office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Alex Chen to handle
+the registration. Setup cost is $31,240 with ongoing compliance costs of
+343ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Monday, May 3. I'll prepare the
+payment authorization for your signature by May 22. Underpayment penalties
+start at 7% so timely filing is important.
+
+Talk soon,
+Grace

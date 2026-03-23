@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-29 11:47 PM
+Subject: Vendor payment schedule â€” Q1
+
+Hi team,
+
+Here's the vendor payment schedule for Q1. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Globex invoice for $493,732 is due on Thursday, June 16 with a
+9% early payment discount if we pay within 83 days. I recommend
+taking the discount â€” it saves us 381ms. The FileStorageService annual
+license renewal of 371ms is due Thursday, June 16 with no discount available.
+
+Standard schedule: 83 vendor invoices totaling $493,732 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-371ms terms with payments going out every 83 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The service mesh vendor
+overbilled us by $493,732 on the FileStorageService usage charges. Liam Foster is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q1 are projected at $493,732. This
+is 9% higher than last quarter due to the FileStorageService infrastructure
+investment and the New York office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Regards,
+Ananya

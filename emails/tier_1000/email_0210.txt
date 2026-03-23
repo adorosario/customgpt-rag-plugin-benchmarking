@@ -1,0 +1,30 @@
+From: carlos.rivera@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-10-15 01:19 PM
+Subject: Client meeting recap â€” Hooli Tuesday, January 28
+
+Hey everyone,
+
+Recapping today's meeting with Hooli. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their AuditLog
+team lead. From ours: myself, Elena Vasquez from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their queue processor vendors
+from three down to one. Our Cloud Connect covers 50% of their requirements
+natively. The remaining gap is around AuditLog integrations, which Elena Vasquez
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Tuesday, January 28 and begin
+implementation in Q1. Budget has been pre-approved at $188,752 for the
+first year.
+
+Action items: send the Cloud Connect technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their queue processor workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Regards,
+Carlos

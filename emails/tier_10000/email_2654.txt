@@ -1,0 +1,28 @@
+From: carlos.rivera@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-10-05 02:59 PM
+Subject: Quarterly territory review â€” Q3
+
+Good morning,
+
+Here's my territory review for Q3. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 197 qualified opportunities worth a combined $430,007 in
+ARR. The largest deal is Stark Industries at 284ms, which I expect to close by
+Monday, August 3. Three other deals in the 233ms range are progressing through
+procurement.
+
+Wins this quarter: closed Stark Industries for Insight Engine with a 23% upsell from
+their initial scope. The event bus add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring James Oduya to the Stark Industries executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Regards,
+Carlos

@@ -1,0 +1,33 @@
+From: david.okonkwo@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-07-11 01:31 PM
+Subject: Insurance renewal â€” Q3 review
+
+Hey everyone,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Oscorp has offered a renewal at $425,819 per year, which is a
+27% increase from last year. Coverage limits remain the same at 457ms
+for general liability and 339ms for the DataPipeline professional liability
+policy.
+
+Alternative quotes: I obtained 180 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 27% discount, but they
+have a 339ms-day waiting period for authentication module claims that our current
+policy doesn't have.
+
+Recommendation: stay with Oscorp and negotiate the premium increase down to
+27%. Their claims experience is strong â€” they processed our DataPipeline
+claim in 180 business days last year. Rachel Nguyen from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+339ms to $425,819 given the growth in Integration Hub customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Thursday, June 2 to avoid a coverage lapse. Let me know your preference.
+
+Cheers,
+David

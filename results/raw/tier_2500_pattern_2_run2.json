@@ -1,0 +1,21 @@
+{
+  "tier": 2500,
+  "question_id": "pattern_2",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What's the status of the Berlin office opening?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the emails in this dataset, here's a summary of the Berlin office opening status:\n\n**As of September 2025** (email_0019.txt): The opening was **pushed back by 6 weeks** from the original timeline, which delayed the European revenue ramp built into the Q3 forecast ($4.8M \u00e2\u2020\u2019 $4.2M revised projection).\n\n**As of October\u00e2\u20ac\u201cNovember 2025** (emails 0700, 1421, 1865, 2436): Various updates show:\n- Lease, furniture/IT procurement, and compliance aspects described as \"progressing well\"\n- Tax planning underway \u00e2\u20ac\u201d VAT registration being handled for European customers (email_2436.txt mentions the Berlin office \"coming online\")\n- Fatima Al-Rashid leading furniture/IT procurement (email_1421.txt, Nov 28)\n- Patrick O'Brien tracking lease agreement status (email_0700.txt, Nov 19)\n\n**Summary**: The opening was delayed by ~6 weeks from the original plan. By late November 2025, it was still in active setup \u00e2\u20ac\u201d lease, furniture/IT, and VAT registration were all in progress, with the office treated as imminent in the Q4 timeframe.\n\nNote: several of these emails use very generic boilerplate (\"progressing well, the team has been focused on delivering results\"), so the most substantive data point is the confirmed 6-week delay from the Q3 revenue email.",
+  "time_seconds": 86.49,
+  "num_turns": 10,
+  "cost_usd": 0.16619414999999998,
+  "input_tokens": 9,
+  "cache_creation_tokens": 19417,
+  "cache_read_tokens": 205078,
+  "output_tokens": 2122,
+  "total_tokens": 226626,
+  "duration_api_ms": 65820,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

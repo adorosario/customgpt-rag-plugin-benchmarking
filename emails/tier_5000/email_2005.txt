@@ -1,0 +1,30 @@
+From: kwame.asante@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-10-23 09:13 PM
+Subject: Policy update â€” ReportingEngine guidelines
+
+Hey,
+
+We've updated the ReportingEngine company policy based on feedback from employees and
+recent changes in Berlin labor regulations. The new policy takes effect on Tuesday, April 27.
+
+Key changes: the queue processor allowance has been increased from 322ms to
+203ms per month. The eligibility window for ReportingEngine has been expanded
+to include employees who've been with Acme Corp for 61 months or more, down
+from the previous requirement of 322ms months.
+
+New additions: a Integration Hub reimbursement category has been added covering up to
+$328,416 annually. This addresses the top employee request from the last survey.
+Carlos Rivera negotiated favorable terms with the queue processor vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by April 6. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 51% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Kwame

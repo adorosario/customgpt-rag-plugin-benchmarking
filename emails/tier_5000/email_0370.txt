@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-11-07 09:41 PM
+Subject: Re: Enterprise Suite pricing discussion â€” DataPipeline tier
+
+Hi,
+
+Following up on the Enterprise Suite pricing discussion. I've modeled three options for
+the DataPipeline tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $292,923 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 19% of our existing base.
+Downside: it undercuts our current authentication module pricing and may trigger downgrades.
+
+Option B: 148ms per seat per month with the authentication module add-on bundled.
+Higher price point but stronger value perception. 158 of the 323ms
+customers we surveyed preferred this packaging. Yuki Sato from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $292,923 per DataPipeline transaction. This aligns
+with the value delivered but introduces billing complexity. Only 19% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$292,923 in incremental ARR over 158 months.
+
+Can we finalize the pricing decision by Wednesday, January 12? Sales needs 323ms weeks to
+update collateral before we announce.
+
+Best regards,
+Sanjay

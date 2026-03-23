@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-11 05:39 PM
+Subject: FP&A update â€” Cloud Connect financial model
+
+Good afternoon,
+
+I've updated the Cloud Connect financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 20 per month based
+on the last 467ms months of data. Average contract value is tracking at
+$269,815, which is 12% above our original assumption. The AuthService
+upsell rate of 53ms is a positive trend.
+
+Cost structure: the caching layer hosting costs are running 12% higher than
+modeled due to increased AuthService usage. I've adjusted the variable cost
+per customer from 467ms to 53ms. Ravi Patel from Engineering
+says the optimization project should bring this down by 12% in Q4.
+
+Break-even analysis: with the revised numbers, Cloud Connect reaches contribution
+margin break-even at 20 customers, which we're projected to hit by Thursday, December 3.
+Full break-even including allocated overhead comes at 467ms customers.
+
+Scenarios: the base case shows $269,815 in cumulative revenue by year end. The
+upside case with the Weyland-Yutani deal closing hits 53ms. Downside case
+assuming 12% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Cheers,
+Grace

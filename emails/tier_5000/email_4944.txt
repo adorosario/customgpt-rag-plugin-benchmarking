@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-08-06 08:05 PM
+Subject: Re: Billing dispute â€” Pied Piper account
+
+Hi,
+
+I've investigated the billing dispute raised by Pied Piper. Here's what I found and
+my recommended resolution.
+
+Dispute details: Pied Piper is contesting $166,093 on their Q2 invoice,
+claiming they were double-charged for the PaymentGateway add-on module. Their account
+manager Kwame Asante has been communicating with them but they want a Finance response.
+
+Investigation: I reviewed the billing records and confirmed there was a system error
+in our caching layer billing platform. The PaymentGateway charge was applied twice due
+to a timing issue when their subscription was upgraded on Wednesday, January 3. The correct charge
+should have been 55ms not $166,093.
+
+Resolution: I recommend issuing a credit of 97ms to their account immediately
+and applying it to the next invoice. This maintains the relationship and the credit
+is clearly justified. Total revenue impact is 90 percent of the contract value.
+
+Prevention: I've filed a bug report with the caching layer billing team to fix the
+underlying issue. Kwame Asante from Engineering estimates a fix in the next 90
+sprints. In the meantime, I'll add a manual review step for any mid-cycle
+subscription changes.
+
+Can you approve the credit so I can communicate the resolution to Pied Piper today?
+
+Best,
+Grace

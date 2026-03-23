@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-29 06:56 AM
+Subject: Payroll adjustment â€” Friday, October 8 cycle
+
+Good morning,
+
+Several payroll adjustments need to be processed for the Friday, October 8 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 25 employees received approved raises effective Friday, October 8. The
+total monthly payroll impact is $469,407. The largest increase is for Oluwaseun Adeyemi
+whose compensation moves from 330ms to 391ms based on the promotion
+approved in the Q1 review cycle.
+
+New hires: 25 new employees starting on Friday, October 8 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Oluwaseun Adeyemi
+in People Ops has verified the documentation.
+
+Bonus payouts: the MessageBroker project completion bonus of $469,407 each goes to
+25 team members. These are one-time payments coded to the Engineering department
+budget. Tax withholding will be calculated at the supplemental rate of 40%.
+
+Deduction changes: 25 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from caching layer.
+
+Please approve the batch by April 4 to ensure on-time processing.
+
+Cheers,
+Michael

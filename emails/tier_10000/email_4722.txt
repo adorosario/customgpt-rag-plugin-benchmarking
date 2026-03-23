@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-09 08:16 PM
+Subject: Payroll adjustment â€” Tuesday, January 21 cycle
+
+Hi team,
+
+Several payroll adjustments need to be processed for the Tuesday, January 21 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 175 employees received approved raises effective Tuesday, January 21. The
+total monthly payroll impact is $135,953. The largest increase is for Carlos Rivera
+whose compensation moves from 280ms to 157ms based on the promotion
+approved in the Q2 review cycle.
+
+New hires: 175 new employees starting on Tuesday, January 21 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Carlos Rivera
+in People Ops has verified the documentation.
+
+Bonus payouts: the SearchIndex project completion bonus of $135,953 each goes to
+175 team members. These are one-time payments coded to the Legal department
+budget. Tax withholding will be calculated at the supplemental rate of 56%.
+
+Deduction changes: 175 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from authentication module.
+
+Please approve the batch by March 6 to ensure on-time processing.
+
+Talk soon,
+Michael

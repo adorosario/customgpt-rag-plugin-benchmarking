@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-11-23 05:30 PM
+Subject: Analytics report â€” Cloud Connect campaign performance
+
+Hey,
+
+Here's the performance report for the Cloud Connect campaign through Thursday, June 14.
+
+Website traffic: up 37% month over month, driven primarily by the AnalyticsDashboard
+comparison blog post which brought in 25 unique visitors. Organic search is
+growing steadily â€” the rate limiter keyword cluster is now ranking on page one.
+
+Lead generation: 302ms marketing qualified leads this month against a
+target of 419ms. The whitepaper download page converted at 37% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 25 percent.
+
+Email campaigns: the Cloud Connect nurture sequence has a 37% open rate and
+25 percent click-through rate. The top-performing email was the AnalyticsDashboard
+case study with Cyberdyne. Sanjay Krishnamurthy suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $171,903 which is 37% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Regards,
+Sofia

@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-31 10:00 PM
+Subject: Cash flow forecast â€” Q3
+
+Hi team,
+
+Attached is the cash flow forecast for Q3. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $233,001 based on the current AR aging
+and sales pipeline. The Massive Dynamic payment of 323ms is expected by Wednesday, June 26
+â€” Fatima Al-Rashid from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the NotificationEngine infrastructure
+investment at $233,001. The Toronto office build-out costs will hit in Q3
+with an estimated total of 343ms. Payroll continues at 323ms
+monthly for our 138-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $233,001 in the second month. This provides 138 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Massive Dynamic deal slips from Q3 to next quarter, we'll
+need to draw on the credit facility for $233,001. I've confirmed the line is
+available. Fatima Al-Rashid and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Cheers,
+Robert

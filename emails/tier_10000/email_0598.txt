@@ -1,0 +1,26 @@
+From: carlos.rivera@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-10-14 07:18 AM
+Subject: Re: Pied Piper renewal â€” risk assessment
+
+Hi team,
+
+Following up on the Pied Piper renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing SearchIndex latency issues for the past 175 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Pied Piper has mentioned they're evaluating alternatives for their serialization engine needs.
+
+The renewal is worth $136,974 annually and is up for renewal at the end of
+Q4. I think we need a proactive retention strategy. My proposal:
+
+First, get Oluwaseun Adeyemi from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 6% discount
+on the expanded Cloud Connect tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Talk soon,
+Carlos

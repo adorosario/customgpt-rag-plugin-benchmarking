@@ -1,0 +1,26 @@
+From: derek.morrison@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-10-06 10:01 PM
+Subject: Pipeline update â€” Globex deal status
+
+Hey everyone,
+
+Quick update on the Globex opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $373,187 for the Cloud Connect deployment. The
+decision timeline is end of Q2. Their main concern remains the integration
+with their existing WebhookDispatcher infrastructure, which is why I've looped in Amara Diallo
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Globex is also evaluating one other vendor but our
+Cloud Connect demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our rate limiter capability.
+
+Next steps: technical architecture session on Wednesday, August 28, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 44%.
+
+Talk soon,
+Derek

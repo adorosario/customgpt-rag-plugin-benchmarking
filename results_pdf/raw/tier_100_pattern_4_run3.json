@@ -1,0 +1,21 @@
+{
+  "tier": 100,
+  "question_id": "pattern_4",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What are the plans for the annual company retreat?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about company retreat plans. I'm a coding assistant \u00e2\u20ac\u201d I only have access to your codebase and project files, not internal company communications or planning documents.\n\nYou'd need to check with your team directly, or perhaps look in your company's communication channels (Slack, email, etc.).",
+  "time_seconds": 18.25,
+  "num_turns": 1,
+  "cost_usd": 0.0479688,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10874,
+  "cache_read_tokens": 17541,
+  "output_tokens": 128,
+  "total_tokens": 28546,
+  "duration_api_ms": 5829,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-11-27 06:57 PM
+Subject: Press release draft â€” Cloud Connect announcement
+
+Hi,
+
+The press release for the Cloud Connect announcement is ready for internal review. I've
+incorporated feedback from Grace Mwangi and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the SchedulerService capability and positions Acme Corp as a leader
+in the load balancer space. We're leading with the 140 performance improvement
+stat and the Globex customer quote.
+
+Distribution plan: wire service distribution on Monday, June 2, followed by targeted
+outreach to our 123ms media contacts in the industry. I've secured a briefing
+with SchedulerService Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Cloud Connect landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 140-hour cadence on launch day.
+
+Embargo: the release is under embargo until Monday, June 2 at 9 AM ET. Please don't share
+details externally before then. Grace Mwangi has the full distribution list.
+
+Review deadline is Monday, June 2. Please send edits as comments in the doc.
+
+Best,
+James

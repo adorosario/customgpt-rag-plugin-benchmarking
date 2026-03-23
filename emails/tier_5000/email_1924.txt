@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-11-21 07:41 AM
+Subject: Customer feedback digest â€” Sync Platform Q2
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Sync Platform. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 105, up 84ms points from last quarter. The improvement
+is driven by the BillingModule launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 58%.
+
+Top feature requests: BillingModule advanced filtering (105 votes), event bus
+bulk operations (84ms votes), and enhanced Sync Platform reporting (387ms
+votes). The filtering request aligns with what we heard in the user research study
+Maria Santos conducted.
+
+Top complaints: BillingModule performance during peak hours (105 mentions),
+the event bus onboarding experience (84ms mentions), and pricing
+transparency (387ms mentions). The performance issue is being addressed
+by Engineering â€” Maria Santos expects the fix in v2.1.0.
+
+Churn insights: 105 customers churned this quarter citing BillingModule
+limitations as the primary reason. The event bus overhaul on our roadmap directly
+addresses their feedback. 58% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, August 28.
+
+Thanks,
+Daniel

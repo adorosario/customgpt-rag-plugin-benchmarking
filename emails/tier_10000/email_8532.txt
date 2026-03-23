@@ -1,0 +1,30 @@
+From: derek.morrison@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-06-08 02:32 PM
+Subject: Competitive intel â€” Tyrell Corp evaluation
+
+Hi,
+
+Got some useful competitive intelligence from the Tyrell Corp account that I want to
+share with the team.
+
+Tyrell Corp shared their evaluation criteria and mentioned they're also looking at
+MessageBroker as an alternative to our Analytics Pro. From what I gathered, MessageBroker
+is pitching a lower price point but doesn't have feature parity on the queue processor
+side.
+
+Key differentiators working in our favor: our Analytics Pro handles 197 concurrent
+connections versus their published limit of 78ms. Our uptime SLA is also
+stronger at 267ms versus their 33% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for MessageBroker and
+consider a streamlined trial process for mid-market accounts. Patrick O'Brien from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Friday, June 2.
+
+Cheers,
+Derek

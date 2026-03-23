@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-07-05 09:31 PM
+Subject: Analytics report â€” Analytics Pro campaign performance
+
+Good morning,
+
+Here's the performance report for the Analytics Pro campaign through Friday, February 28.
+
+Website traffic: up 21% month over month, driven primarily by the CacheLayer
+comparison blog post which brought in 20 unique visitors. Organic search is
+growing steadily â€” the connection pool keyword cluster is now ranking on page one.
+
+Lead generation: 361ms marketing qualified leads this month against a
+target of 172ms. The whitepaper download page converted at 21% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 20 percent.
+
+Email campaigns: the Analytics Pro nurture sequence has a 21% open rate and
+20 percent click-through rate. The top-performing email was the CacheLayer
+case study with Weyland-Yutani. Liam Foster suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $231,497 which is 21% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Regards,
+James

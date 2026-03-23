@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-07-03 06:24 PM
+Subject: Budget review â€” Legal department Q1
+
+Hi,
+
+Here's the Q1 budget review for the Legal department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $221,547 against a budget of 249ms. The 8% variance is
+primarily driven by the accelerated DataPipeline hiring that was approved mid-quarter.
+Personnel costs came in at 205ms which includes the 81 new hires.
+
+Overages: the event bus infrastructure line item exceeded budget by 8% due
+to the unplanned scaling requirements for Analytics Pro. I've worked with Sarah Chen
+from Engineering to project the run rate going forward â€” we should budget an
+additional $221,547 per quarter for this category.
+
+Underspend: the DataPipeline consulting budget was only 8% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 8%
+of the total annual budget. The main risk is the event bus cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Regards,
+Ananya

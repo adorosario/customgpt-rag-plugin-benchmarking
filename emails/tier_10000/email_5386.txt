@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-09-02 07:44 PM
+Subject: Revenue recognition â€” Analytics Pro contracts
+
+Hey everyone,
+
+I need to walk through the revenue recognition treatment for the new Analytics Pro
+contracts signed this quarter. We have 143 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Globex contract bundles Analytics Pro licenses with
+serialization engine implementation services. I've determined the standalone selling prices
+and allocated $108,659 to the license component and 426ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 143-month implementation period.
+
+Variable consideration: 227ms contracts include performance bonuses tied to
+APIGateway uptime metrics. Using the expected value method, I've estimated
+$108,659 in variable consideration based on our historical performance of
+44% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Globex amendment added serialization engine capacity at
+$108,659 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Daniel Park from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Tuesday, October 14.
+
+Regards,
+Michael

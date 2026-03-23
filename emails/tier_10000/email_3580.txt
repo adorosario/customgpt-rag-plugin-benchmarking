@@ -1,0 +1,29 @@
+From: aisha.okafor@acmecorp.com
+To: derek.morrison@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-11 06:01 PM
+Subject: Re: Quota update â€” Q4 adjustments
+
+Hey everyone,
+
+Thanks for sharing the Q4 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $49,181 reflects a 18% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 134 of my projected deals depend on the Data Vault launch happening on
+schedule. If that slips, I'll need the WebhookDispatcher backup deals to come through.
+
+Territory changes: I see that the New York accounts have been reassigned to
+Kwame Asante. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Tyrell Corp â€” we've been building that
+relationship for 67ms months.
+
+Regarding the new queue processor incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with queue processor upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Cheers,
+Aisha

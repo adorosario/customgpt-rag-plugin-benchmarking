@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-10-03 10:31 PM
+Subject: Investment proposal â€” BillingModule infrastructure
+
+Good afternoon,
+
+I've prepared the financial analysis for the proposed BillingModule infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $464,593 upfront with 70ms in annual operating costs.
+The total 3-year cost of ownership is 431ms compared to the current
+load balancer setup at $464,593 over the same period.
+
+ROI analysis: the projected payback period is 87 months. Key benefits include
+44% reduction in infrastructure management time, improved Analytics Pro performance
+that supports the revenue growth targets, and elimination of the load balancer
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $464,593 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 44% interest.
+This preserves cash for the San Francisco office investment planned for Q1.
+
+Risk factors: technology lock-in with the BillingModule vendor, though the 87-year
+contract includes an exit clause after the first year. Mei Lin from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Monday, May 24 to lock in the quoted pricing. The vendor has
+given us a 87-day hold on the current rates.
+
+Talk soon,
+Michael

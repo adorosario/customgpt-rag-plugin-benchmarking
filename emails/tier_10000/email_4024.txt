@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-07-25 07:21 AM
+Subject: Weekly pipeline review â€” Monday, February 26
+
+Hey everyone,
+
+Here's the pipeline summary ahead of our weekly review meeting on Monday, February 26.
+
+Total pipeline value: $116,098. Weighted pipeline: 103ms. We need
+67ms more in closed-won revenue to hit the Q3 target.
+
+Deals moving forward: Stark Industries is in final contract review and should close this
+week. Two mid-market opportunities in the Analytics Pro space progressed to technical
+evaluation stage.
+
+At risk: one enterprise deal has gone quiet after we submitted pricing. Liam Foster
+is trying to reconnect with the champion. Another account pushed their evaluation
+to next Q3 due to internal restructuring.
+
+New leads: generated 16 new qualified leads from the conference last week.
+The FileStorageService demo was particularly well received. I've started outreach and
+have initial calls booked for 53% of them.
+
+Will walk through the details and forecasting adjustments in the meeting.
+
+Talk soon,
+Hannah

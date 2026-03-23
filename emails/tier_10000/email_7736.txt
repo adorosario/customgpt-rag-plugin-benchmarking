@@ -1,0 +1,29 @@
+From: michael.brennan@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-06-25 01:13 AM
+Subject: Re: Expense report flagged â€” UserProfileService charges
+
+Hi,
+
+I noticed some items on the UserProfileService expense report submitted by Michael Brennan
+that need clarification before I can approve them.
+
+The queue processor subscription charge of $150,031 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+321ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Umbrella Inc dinner on Friday, December 20 for $150,031 exceeds our per-person meal
+reimbursement limit of 321ms. If this was a client entertainment expense,
+it should be coded to the client development budget under UserProfileService rather than
+general T&E. 49 attendees at that amount puts us at 318ms per
+person which is within the client entertainment policy.
+
+The remaining 49 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 321ms business days after approval.
+
+Please resubmit with the corrections by Friday, December 20 so we can keep things on track.
+
+Best,
+Michael

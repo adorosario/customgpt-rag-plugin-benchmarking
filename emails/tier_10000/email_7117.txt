@@ -1,0 +1,30 @@
+From: dmitri.volkov@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-09-25 12:43 PM
+Subject: Client meeting recap â€” Hooli Monday, January 22
+
+Hi,
+
+Recapping today's meeting with Hooli. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their AuditLog
+team lead. From ours: myself, James Oduya from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their service mesh vendors
+from three down to one. Our Sync Platform covers 30% of their requirements
+natively. The remaining gap is around AuditLog integrations, which James Oduya
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Monday, January 22 and begin
+implementation in Q3. Budget has been pre-approved at $330,472 for the
+first year.
+
+Action items: send the Sync Platform technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their service mesh workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Best,
+Dmitri

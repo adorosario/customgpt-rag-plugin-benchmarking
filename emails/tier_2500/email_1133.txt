@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-06-10 04:40 PM
+Subject: Policy update â€” PaymentGateway guidelines
+
+Hello,
+
+We've updated the PaymentGateway company policy based on feedback from employees and
+recent changes in San Francisco labor regulations. The new policy takes effect on Monday, March 19.
+
+Key changes: the authentication module allowance has been increased from 419ms to
+496ms per month. The eligibility window for PaymentGateway has been expanded
+to include employees who've been with Acme Corp for 20 months or more, down
+from the previous requirement of 419ms months.
+
+New additions: a Data Vault reimbursement category has been added covering up to
+$441,325 annually. This addresses the top employee request from the last survey.
+Tomoko Nakamura negotiated favorable terms with the authentication module vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by April 13. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 30% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Talk soon,
+Fatima

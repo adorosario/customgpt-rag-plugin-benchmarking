@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-25 08:02 PM
+Subject: Investment proposal â€” AnalyticsDashboard infrastructure
+
+Hi all,
+
+I've prepared the financial analysis for the proposed AnalyticsDashboard infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $71,744 upfront with 330ms in annual operating costs.
+The total 3-year cost of ownership is 204ms compared to the current
+authentication module setup at $71,744 over the same period.
+
+ROI analysis: the projected payback period is 180 months. Key benefits include
+56% reduction in infrastructure management time, improved Integration Hub performance
+that supports the revenue growth targets, and elimination of the authentication module
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $71,744 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 56% interest.
+This preserves cash for the San Francisco office investment planned for Q3.
+
+Risk factors: technology lock-in with the AnalyticsDashboard vendor, though the 180-year
+contract includes an exit clause after the first year. Elena Vasquez from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Wednesday, February 14 to lock in the quoted pricing. The vendor has
+given us a 180-day hold on the current rates.
+
+Cheers,
+Ananya

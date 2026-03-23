@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-09-15 03:03 PM
+Subject: Onboarding schedule â€” new hire starting Tuesday, March 15
+
+Hi,
+
+We have a new team member joining Product on Tuesday, March 15. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, BillingModule systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Ananya Desai will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Cloud Connect and the config manager tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Tuesday, March 15. All software licenses including BillingModule and config manager access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 13 people to schedule intro meetings with, and first
+291ms-day goals. Please send these to Ananya Desai in People Ops.
+
+Welcome email goes out 13 days before start date.
+
+Regards,
+Fatima

@@ -1,0 +1,26 @@
+From: hannah.goldstein@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-07-24 11:54 PM
+Subject: Re: Oscorp renewal â€” risk assessment
+
+Hello,
+
+Following up on the Oscorp renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing UserProfileService latency issues for the past 92 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Oscorp has mentioned they're evaluating alternatives for their config manager needs.
+
+The renewal is worth $209,913 annually and is up for renewal at the end of
+Q2. I think we need a proactive retention strategy. My proposal:
+
+First, get Maria Santos from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 31% discount
+on the expanded Cloud Connect tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Thanks,
+Hannah

@@ -1,0 +1,29 @@
+From: patrick.obrien@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-06-26 09:54 PM
+Subject: Policy update â€” UserProfileService guidelines
+
+Hi all,
+
+We've updated the UserProfileService company policy based on feedback from employees and
+recent changes in Berlin labor regulations. The new policy takes effect on Monday, March 12.
+
+Key changes: the service mesh allowance has been increased from 234ms to
+422ms per month. The eligibility window for UserProfileService has been expanded
+to include employees who've been with Acme Corp for 17 months or more, down
+from the previous requirement of 234ms months.
+
+New additions: a Data Vault reimbursement category has been added covering up to
+$117,143 annually. This addresses the top employee request from the last survey.
+Elena Vasquez negotiated favorable terms with the service mesh vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by June 25. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 20% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Patrick

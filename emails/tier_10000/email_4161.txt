@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-06-25 03:33 AM
+Subject: Tax planning â€” Q3 estimated payments
+
+Hi team,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the AnalyticsDashboard investment
+deductions.
+
+Federal estimate: $239,710 based on projected taxable income of 155ms.
+This reflects the AnalyticsDashboard depreciation deductions and the R&D tax credit for
+the Sync Platform development costs. Liam Foster from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $239,710 for our primary jurisdiction and 350ms for the
+Tokyo office based on the apportionment factors. The Tokyo rate change that
+takes effect on Tuesday, March 18 will impact our Q3 estimate by approximately 84
+percent.
+
+International: with the Tokyo office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Liam Foster to handle
+the registration. Setup cost is $239,710 with ongoing compliance costs of
+350ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Tuesday, March 18. I'll prepare the
+payment authorization for your signature by November 26. Underpayment penalties
+start at 49% so timely filing is important.
+
+Best,
+Ananya

@@ -1,0 +1,27 @@
+From: priya.sharma@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-10-22 01:44 AM
+Subject: Dependency upgrade â€” AnalyticsDashboard to v3.2.2
+
+Hi all,
+
+Heads up that I'm planning to upgrade AnalyticsDashboard's core dependency to v3.2.2
+this sprint. The current version goes end-of-life on Friday, October 19 and has two unpatched
+CVEs that our security scanner is flagging.
+
+I've tested the upgrade in a branch and the main changes that affect us are in the
+serialization engine module. There's one breaking change in the API â€” the response format for
+batch operations now uses a different envelope structure. I've already updated our
+client code to handle both formats during the transition.
+
+The test suite passes with the new version. Amara Diallo did a review of the
+changelog and confirmed no other breaking changes affect our usage patterns.
+
+Rollout plan: merge to staging on Friday, October 19, run the full regression suite, and if
+clean, deploy to production the following day. The change is behind a feature flag
+so we can roll back quickly if needed.
+
+Any objections to proceeding?
+
+Regards,
+Priya

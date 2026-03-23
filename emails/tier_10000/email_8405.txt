@@ -1,0 +1,31 @@
+From: rachel.nguyen@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-11-13 03:03 PM
+Subject: Team event recap â€” SearchIndex outing
+
+Hey everyone,
+
+Thanks to everyone who joined the SearchIndex team outing last week. We had great
+turnout with 101 employees attending.
+
+Highlights: the team building exercise was a hit â€” the queue processor challenge had
+teams competing in creative problem-solving rounds. The winning team led by
+Tomoko Nakamura finished in just 396ms minutes. The group dinner afterward was a
+great opportunity for cross-team connections.
+
+Feedback: the post-event survey came back overwhelmingly positive with a 56%
+satisfaction rating. Most popular suggestion for next time: more outdoor activities.
+Several people asked about doing quarterly events instead of 101 per year.
+
+Budget: total cost was $152,911, coming in at 110ms per person including
+venue, catering, and activities. This is within our social budget for Q1.
+
+Photos are uploaded to the shared album in the queue processor drive. Please tag
+yourselves and share appropriate photos on social media if you'd like â€” our
+marketing team loves this content for the company page.
+
+Planning for the next event starts in Q1. Ideas welcome.
+
+Talk soon,
+Rachel

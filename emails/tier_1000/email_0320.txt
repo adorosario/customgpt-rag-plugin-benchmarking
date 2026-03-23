@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-10-06 01:30 PM
+Subject: Weekly pipeline review â€” Tuesday, June 2
+
+Hi,
+
+Here's the pipeline summary ahead of our weekly review meeting on Tuesday, June 2.
+
+Total pipeline value: $237,675. Weighted pipeline: 127ms. We need
+432ms more in closed-won revenue to hit the Q1 target.
+
+Deals moving forward: Massive Dynamic is in final contract review and should close this
+week. Two mid-market opportunities in the Enterprise Suite space progressed to technical
+evaluation stage.
+
+At risk: one enterprise deal has gone quiet after we submitted pricing. Sarah Chen
+is trying to reconnect with the champion. Another account pushed their evaluation
+to next Q1 due to internal restructuring.
+
+New leads: generated 186 new qualified leads from the conference last week.
+The UserProfileService demo was particularly well received. I've started outreach and
+have initial calls booked for 24% of them.
+
+Will walk through the details and forecasting adjustments in the meeting.
+
+Regards,
+Aisha

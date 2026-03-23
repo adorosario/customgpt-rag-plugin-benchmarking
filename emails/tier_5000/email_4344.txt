@@ -1,0 +1,31 @@
+From: dmitri.volkov@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-20 06:51 AM
+Subject: Client meeting recap â€” Soylent Corp Thursday, February 27
+
+Hello,
+
+Recapping today's meeting with Soylent Corp. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their APIGateway
+team lead. From ours: myself, Robert Kimura from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their rate limiter vendors
+from three down to one. Our Cloud Connect covers 19% of their requirements
+natively. The remaining gap is around APIGateway integrations, which Robert Kimura
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Thursday, February 27 and begin
+implementation in Q4. Budget has been pre-approved at $297,037 for the
+first year.
+
+Action items: send the Cloud Connect technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their rate limiter workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Best,
+Dmitri

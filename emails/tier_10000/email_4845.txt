@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-12 06:44 AM
+Subject: Payroll adjustment â€” Tuesday, January 24 cycle
+
+Hi,
+
+Several payroll adjustments need to be processed for the Tuesday, January 24 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 66 employees received approved raises effective Tuesday, January 24. The
+total monthly payroll impact is $162,302. The largest increase is for Wei Zhang
+whose compensation moves from 64ms to 148ms based on the promotion
+approved in the Q4 review cycle.
+
+New hires: 66 new employees starting on Tuesday, January 24 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Wei Zhang
+in People Ops has verified the documentation.
+
+Bonus payouts: the UserProfileService project completion bonus of $162,302 each goes to
+66 team members. These are one-time payments coded to the Product department
+budget. Tax withholding will be calculated at the supplemental rate of 7%.
+
+Deduction changes: 66 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from caching layer.
+
+Please approve the batch by January 20 to ensure on-time processing.
+
+Regards,
+Michael

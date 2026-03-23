@@ -1,0 +1,30 @@
+From: sarah.chen@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-06-20 03:27 PM
+Subject: Re: Employment law update â€” London office
+
+Good afternoon,
+
+Important update on the employment law changes affecting our London office.
+The new legislation goes into effect on Thursday, July 10 and requires several adjustments to
+our current practices.
+
+Key changes: first, the minimum notice period for termination has increased from
+75ms to 343ms weeks for employees with more than 31 years
+of tenure. Second, there's a new requirement for documented WebhookDispatcher procedures
+that must be shared with employees during onboarding.
+
+Impact assessment: we have 31 employees at the London office who are affected
+by the notice period change. HR needs to update offer letters and the employee
+handbook for the London jurisdiction. Ravi Patel from People Ops is coordinating
+the handbook revision.
+
+Compliance cost: outside counsel estimates $42,497 in legal fees to update all
+affected contracts and policies. This was not in the Q1 legal budget, so
+I'll need Finance to approve the additional spend.
+
+Deadline: all changes must be implemented by Thursday, July 10. I've created a compliance
+checklist and will track progress in our weekly legal ops meeting.
+
+Regards,
+Sarah

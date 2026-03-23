@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-07-12 01:37 PM
+Subject: Conference recap â€” Data Vault booth results
+
+Hey everyone,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Data Vault booth drew consistent traffic throughout.
+
+Lead collection: 103 badge scans at the booth, of which 240ms are
+qualified leads based on our initial review. The SchedulerService live demo was the
+biggest draw, and Yuki Sato from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+config manager roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Data Vault had 480ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 103 times since we posted it.
+
+Budget: we came in at $310,884, which is 11% under budget. The savings came
+from sharing the booth infrastructure with the SchedulerService partner showcase.
+
+I'll prepare a full ROI analysis by Friday, February 7 once we've completed lead follow-up.
+
+Regards,
+Laura

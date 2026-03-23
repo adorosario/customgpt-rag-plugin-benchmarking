@@ -1,0 +1,27 @@
+From: dmitri.volkov@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-16 06:27 AM
+Subject: Pipeline update â€” Pied Piper deal status
+
+Hi all,
+
+Quick update on the Pied Piper opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $138,086 for the Data Vault deployment. The
+decision timeline is end of Q3. Their main concern remains the integration
+with their existing AnalyticsDashboard infrastructure, which is why I've looped in Derek Morrison
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Pied Piper is also evaluating one other vendor but our
+Data Vault demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our connection pool capability.
+
+Next steps: technical architecture session on Tuesday, March 14, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 50%.
+
+Talk soon,
+Dmitri

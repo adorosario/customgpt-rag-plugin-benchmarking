@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-09 12:40 PM
+Subject: Payroll adjustment â€” Thursday, December 19 cycle
+
+Hi all,
+
+Several payroll adjustments need to be processed for the Thursday, December 19 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 12 employees received approved raises effective Thursday, December 19. The
+total monthly payroll impact is $249,089. The largest increase is for Ananya Desai
+whose compensation moves from 100ms to 362ms based on the promotion
+approved in the Q4 review cycle.
+
+New hires: 12 new employees starting on Thursday, December 19 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Ananya Desai
+in People Ops has verified the documentation.
+
+Bonus payouts: the ReportingEngine project completion bonus of $249,089 each goes to
+12 team members. These are one-time payments coded to the Product department
+budget. Tax withholding will be calculated at the supplemental rate of 44%.
+
+Deduction changes: 12 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from queue processor.
+
+Please approve the batch by October 26 to ensure on-time processing.
+
+Regards,
+Robert

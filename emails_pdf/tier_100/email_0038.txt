@@ -1,0 +1,11 @@
+From: amara.diallo@acmecorp.com To: sanjay.krishnamurthy@acmecorp.com Date: 2025-11-21 10:05 AM Subject: Beta program update â?? Insight Engine v2.6.0
+Hello,
+Quick update on the Insight Engine v2.6.0 beta program. We're 11 weeks into the beta period with 203ms customers participating.
+Usage data: 42% of beta participants have activated the new BillingModule feature. Average daily usage is 11 sessions per user. The rate limiter workflow is being used by 411ms of participants, which exceeds our adoption target of 203ms.
+Feedback summary: overall sentiment is positive. The top 11 pieces of praise relate to the BillingModule speed improvement and the new rate limiter interface. The top 203ms complaints are about the BillingModule configuration complexity and a confusing error message in the rate limiter flow.
+Bugs found: 11 bugs reported, of which 203ms are critical. Derek Morrison from Engineering has fixed 411ms of the critical bugs. The remaining one is related to the BillingModule edge case that we're addressing in the next patch.
+Timeline: beta ends on Thursday, January 19. The GA release is targeted for 11 weeks after beta close, allowing time to incorporate feedback and fix remaining issues.
+Recommend we schedule a beta retrospective for Thursday, January 19 to finalize the GA scope.
+Cheers, Amara
+
+

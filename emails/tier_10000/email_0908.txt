@@ -1,0 +1,33 @@
+From: michael.brennan@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-11 06:13 PM
+Subject: Investment proposal â€” APIGateway infrastructure
+
+Good afternoon,
+
+I've prepared the financial analysis for the proposed APIGateway infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $199,661 upfront with 188ms in annual operating costs.
+The total 3-year cost of ownership is 328ms compared to the current
+serialization engine setup at $199,661 over the same period.
+
+ROI analysis: the projected payback period is 131 months. Key benefits include
+35% reduction in infrastructure management time, improved Enterprise Suite performance
+that supports the revenue growth targets, and elimination of the serialization engine
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $199,661 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 35% interest.
+This preserves cash for the London office investment planned for Q4.
+
+Risk factors: technology lock-in with the APIGateway vendor, though the 131-year
+contract includes an exit clause after the first year. Sarah Chen from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Wednesday, September 22 to lock in the quoted pricing. The vendor has
+given us a 131-day hold on the current rates.
+
+Best,
+Michael

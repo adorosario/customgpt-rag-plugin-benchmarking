@@ -1,0 +1,33 @@
+From: maria.santos@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-10-25 02:28 PM
+Subject: Insurance renewal â€” Q2 review
+
+Hi team,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Wayne Enterprises has offered a renewal at $180,789 per year, which is a
+25% increase from last year. Coverage limits remain the same at 173ms
+for general liability and 286ms for the BillingModule professional liability
+policy.
+
+Alternative quotes: I obtained 137 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 25% discount, but they
+have a 286ms-day waiting period for logging pipeline claims that our current
+policy doesn't have.
+
+Recommendation: stay with Wayne Enterprises and negotiate the premium increase down to
+25%. Their claims experience is strong â€” they processed our BillingModule
+claim in 137 business days last year. Liam Foster from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+286ms to $180,789 given the growth in Enterprise Suite customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Friday, May 3 to avoid a coverage lapse. Let me know your preference.
+
+Best,
+Maria

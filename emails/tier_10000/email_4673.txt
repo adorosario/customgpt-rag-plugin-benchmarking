@@ -1,0 +1,32 @@
+From: patrick.obrien@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-11-30 02:38 AM
+Subject: Benefits enrollment â€” open period starting Thursday, June 1
+
+Good morning,
+
+Open enrollment for our benefits package begins on Thursday, June 1 and runs through June 1.
+Here's a summary of the key changes for the upcoming plan year.
+
+Health insurance: we're introducing a new WebhookDispatcher plan option alongside the
+existing choices. The premium increase this year is 29%, which is below the
+industry average. Acme Corp will continue covering 190 percent of employee
+premiums.
+
+New benefit: we've partnered with Cyberdyne to offer a wellness stipend of $229,284
+per year. This can be used for gym memberships, mental health services, or
+ergonomic equipment. Yuki Sato worked with the vendor to negotiate this addition.
+
+Retirement: the 401(k) match is increasing from 89ms percent to
+134ms percent of salary, effective next plan year. If you're not
+currently contributing enough to get the full match, now is a great time to adjust.
+
+Information sessions: we're hosting 190 live Q&A sessions where employees can
+ask questions about plan options. The rate limiter portal will have a comparison
+tool to help you evaluate plans.
+
+Detailed plan documents are available in the HR portal. Please make your elections
+before June 1.
+
+Thanks,
+Patrick

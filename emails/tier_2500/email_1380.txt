@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-09-28 12:27 AM
+Subject: Quarterly territory review â€” Q3
+
+Hi all,
+
+Here's my territory review for Q3. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 187 qualified opportunities worth a combined $212,513 in
+ARR. The largest deal is Hooli at 492ms, which I expect to close by
+Tuesday, October 21. Three other deals in the 279ms range are progressing through
+procurement.
+
+Wins this quarter: closed Hooli for Integration Hub with a 15% upsell from
+their initial scope. The event bus add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Laura Kim to the Hooli executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Talk soon,
+Aisha

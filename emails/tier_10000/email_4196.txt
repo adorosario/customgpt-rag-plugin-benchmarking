@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-09-21 12:58 AM
+Subject: Quarterly territory review â€” Q4
+
+Good afternoon,
+
+Here's my territory review for Q4. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 76 qualified opportunities worth a combined $173,594 in
+ARR. The largest deal is Stark Industries at 326ms, which I expect to close by
+Wednesday, May 27. Three other deals in the 159ms range are progressing through
+procurement.
+
+Wins this quarter: closed Stark Industries for Integration Hub with a 47% upsell from
+their initial scope. The serialization engine add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Maria Santos to the Stark Industries executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Thanks,
+Aisha

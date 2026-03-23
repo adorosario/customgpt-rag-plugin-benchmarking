@@ -1,0 +1,29 @@
+From: michael.brennan@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-10-11 11:07 AM
+Subject: Re: Expense report flagged â€” NotificationEngine charges
+
+Good morning,
+
+I noticed some items on the NotificationEngine expense report submitted by Ananya Desai
+that need clarification before I can approve them.
+
+The authentication module subscription charge of $190,991 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+309ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Tyrell Corp dinner on Monday, March 6 for $190,991 exceeds our per-person meal
+reimbursement limit of 309ms. If this was a client entertainment expense,
+it should be coded to the client development budget under NotificationEngine rather than
+general T&E. 36 attendees at that amount puts us at 499ms per
+person which is within the client entertainment policy.
+
+The remaining 36 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 309ms business days after approval.
+
+Please resubmit with the corrections by Monday, March 6 so we can keep things on track.
+
+Thanks,
+Michael

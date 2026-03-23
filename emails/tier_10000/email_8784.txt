@@ -1,0 +1,28 @@
+From: wei.zhang@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-06-06 08:40 AM
+Subject: Re: DataPipeline â€” tech debt prioritization
+
+Good afternoon,
+
+Following up on the tech debt discussion from yesterday's sprint planning. I've
+categorized the outstanding items for DataPipeline into three tiers based on risk
+and effort.
+
+High priority: the deprecated logging pipeline dependency needs to be replaced before
+Monday, November 28 when upstream support ends. This is roughly a 47 effort and Daniel Park
+has volunteered to own it.
+
+Medium priority: the test coverage gap in the DataPipeline integration layer. We're
+at 312ms coverage but our target is 365ms. Filling this gap would
+have caught the regression we saw last sprint.
+
+Low priority: the logging format standardization. It's annoying but not blocking
+anything. I'd suggest we tackle it opportunistically when someone is already
+touching those files.
+
+My proposal is to allocate 48% of next sprint's capacity to the high-priority
+item. Thoughts?
+
+Cheers,
+Wei

@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-06-27 03:38 PM
+Subject: Event planning â€” Sync Platform webinar on Thursday, June 1
+
+Hello,
+
+Finalizing details for the Sync Platform webinar on Thursday, June 1. Here's where we stand on
+the logistics and promotion.
+
+Content: Laura Kim from Product will present the WebhookDispatcher roadmap segment.
+I'll handle the intro and customer story. We're targeting a 18-minute
+presentation followed by 302ms minutes of live Q&A. The load balancer demo
+segment should be the highlight.
+
+Registration: we've had 377ms sign-ups so far. Goal is 302ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Sync Platform keywords.
+
+Tech setup: using the standard webinar platform. Laura Kim will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Thursday, June 1 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 18 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Thanks,
+James

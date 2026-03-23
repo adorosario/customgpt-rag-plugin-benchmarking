@@ -1,0 +1,27 @@
+From: priya.sharma@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-08-12 04:58 PM
+Subject: Incident postmortem â€” APIGateway outage on Monday, March 15
+
+Hey everyone,
+
+Attached is the postmortem for the APIGateway outage that occurred on Monday, March 15. The
+incident lasted approximately 45 minutes and affected 36 for a subset of users.
+
+Root cause: a configuration change in the load balancer deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+163ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, Grace Mwangi acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the APIGateway runbook, add a circuit breaker for the
+load balancer connection pool, and implement load shedding when concurrency exceeds
+163ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Talk soon,
+Priya

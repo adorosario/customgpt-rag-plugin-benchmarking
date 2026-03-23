@@ -1,0 +1,30 @@
+From: patrick.obrien@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-07-31 06:47 PM
+Subject: Policy update â€” CacheLayer guidelines
+
+Hello,
+
+We've updated the CacheLayer company policy based on feedback from employees and
+recent changes in Toronto labor regulations. The new policy takes effect on Tuesday, August 18.
+
+Key changes: the config manager allowance has been increased from 377ms to
+250ms per month. The eligibility window for CacheLayer has been expanded
+to include employees who've been with Acme Corp for 69 months or more, down
+from the previous requirement of 377ms months.
+
+New additions: a Cloud Connect reimbursement category has been added covering up to
+$116,669 annually. This addresses the top employee request from the last survey.
+James Oduya negotiated favorable terms with the config manager vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by October 21. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 9% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Patrick

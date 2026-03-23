@@ -1,0 +1,32 @@
+From: amara.diallo@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-25 03:45 AM
+Subject: A/B test results â€” DataPipeline experiment
+
+Hey,
+
+The DataPipeline A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 94 days with 276ms users in each cohort.
+
+Variant A (control): the existing authentication module flow. Conversion rate of
+412ms with an average task completion time of 94 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified DataPipeline step.
+Conversion rate of 276ms with task completion time of 412ms seconds.
+This represents a 59% improvement in conversion and 94 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 94 to 276ms
+in the treatment group. Support ticket volume for DataPipeline related issues
+decreased by 59%. No negative impact on authentication module engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Fatima Al-Rashid from Engineering can have this
+deployed by Wednesday, February 25.
+
+One caveat: the test population skewed toward Enterprise Suite power users. We should
+monitor new user behavior closely for the first 94 weeks after full rollout.
+
+Best regards,
+Amara

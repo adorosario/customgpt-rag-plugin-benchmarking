@@ -1,0 +1,35 @@
+From: mei.lin@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-25 11:12 PM
+Subject: Re: Sync Platform metrics review â€” Q1
+
+Hi team,
+
+Here are the Sync Platform metrics for Q1. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 104 monthly active users, up 52% quarter over quarter. The
+MessageBroker feature launch drove a spike in activation â€” 480ms new users
+tried it in the first week. Retention for MessageBroker users is 149ms
+at 30 days versus 104 percent for non-users.
+
+Engagement: average session duration is 104 minutes. The logging pipeline workflow
+sees the highest engagement with users spending 149ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 480ms features
+per session on average, up from 104 last quarter.
+
+Revenue metrics: Sync Platform ARR is at $321,687 with 52% growth quarter over
+quarter. Net revenue retention is 149ms driven by MessageBroker upsells.
+104 customers expanded their contracts this quarter, with Patrick O'Brien from Sales
+leading the expansion conversations.
+
+Areas of concern: the logging pipeline onboarding funnel has a 52% drop-off at
+step 104. I've scheduled a design sprint for next week to address this.
+Support ticket volume for MessageBroker increased 104 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Regards,
+Mei

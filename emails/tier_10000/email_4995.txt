@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-09-11 09:43 AM
+Subject: Beta program update â€” Enterprise Suite v2.6.0
+
+Hi,
+
+Quick update on the Enterprise Suite v2.6.0 beta program. We're 104 weeks into
+the beta period with 334ms customers participating.
+
+Usage data: 60% of beta participants have activated the new APIGateway
+feature. Average daily usage is 104 sessions per user. The config manager
+workflow is being used by 161ms of participants, which exceeds our
+adoption target of 334ms.
+
+Feedback summary: overall sentiment is positive. The top 104 pieces of praise
+relate to the APIGateway speed improvement and the new config manager interface.
+The top 334ms complaints are about the APIGateway configuration complexity
+and a confusing error message in the config manager flow.
+
+Bugs found: 104 bugs reported, of which 334ms are critical. Amara Diallo
+from Engineering has fixed 161ms of the critical bugs. The remaining one
+is related to the APIGateway edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Tuesday, July 14. The GA release is targeted for 104 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Tuesday, July 14 to finalize the GA scope.
+
+Best regards,
+Sanjay

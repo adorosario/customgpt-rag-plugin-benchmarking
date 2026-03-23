@@ -1,0 +1,29 @@
+From: yuki.sato@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-07-24 11:17 AM
+Subject: Analytics Pro campaign launch â€” Q3 plan
+
+Hi team,
+
+Here's the campaign plan for the Analytics Pro launch in Q3. I've aligned the
+messaging with the positioning we finalized last week and mapped out the channel
+strategy.
+
+Campaign theme: highlighting the DataPipeline advantage and how Analytics Pro solves
+the key pain point around event bus complexity. Target audience is mid-market
+and enterprise IT decision makers.
+
+Channel breakdown: 42% of budget to paid digital, 90 to content
+marketing, and the remainder to events and webinars. We're targeting a $187,329
+total spend with a goal of 60ms marketing qualified leads.
+
+Content deliverables: landing page, solution brief, customer case study featuring
+Soylent Corp, three blog posts, and a webinar co-hosted with Sofia Martinez from Product.
+All assets target completion by Tuesday, February 1.
+
+The paid campaign goes live two weeks before the official launch to build awareness.
+I'll share the creative brief for review tomorrow.
+
+Regards,
+Yuki

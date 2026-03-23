@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-07-19 02:32 AM
+Subject: A/B test results â€” MessageBroker experiment
+
+Hi team,
+
+The MessageBroker A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 181 days with 224ms users in each cohort.
+
+Variant A (control): the existing event bus flow. Conversion rate of
+460ms with an average task completion time of 181 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified MessageBroker step.
+Conversion rate of 224ms with task completion time of 460ms seconds.
+This represents a 43% improvement in conversion and 181 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 181 to 224ms
+in the treatment group. Support ticket volume for MessageBroker related issues
+decreased by 43%. No negative impact on event bus engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Laura Kim from Engineering can have this
+deployed by Thursday, August 5.
+
+One caveat: the test population skewed toward Sync Platform power users. We should
+monitor new user behavior closely for the first 181 weeks after full rollout.
+
+Regards,
+Amara

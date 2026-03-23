@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-09-03 07:32 AM
+Subject: Vendor payment schedule â€” Q2
+
+Hello,
+
+Here's the vendor payment schedule for Q2. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Pied Piper invoice for $130,026 is due on Wednesday, March 18 with a
+26% early payment discount if we pay within 158 days. I recommend
+taking the discount â€” it saves us 317ms. The NotificationEngine annual
+license renewal of 387ms is due Wednesday, March 18 with no discount available.
+
+Standard schedule: 158 vendor invoices totaling $130,026 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-387ms terms with payments going out every 158 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The config manager vendor
+overbilled us by $130,026 on the NotificationEngine usage charges. Ananya Desai is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q2 are projected at $130,026. This
+is 26% higher than last quarter due to the NotificationEngine infrastructure
+investment and the Singapore office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Best regards,
+Ananya

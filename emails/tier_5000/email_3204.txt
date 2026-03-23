@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-07-03 07:58 AM
+Subject: Payroll adjustment â€” Thursday, March 8 cycle
+
+Hi,
+
+Several payroll adjustments need to be processed for the Thursday, March 8 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 171 employees received approved raises effective Thursday, March 8. The
+total monthly payroll impact is $68,842. The largest increase is for Yuki Sato
+whose compensation moves from 336ms to 224ms based on the promotion
+approved in the Q2 review cycle.
+
+New hires: 171 new employees starting on Thursday, March 8 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Yuki Sato
+in People Ops has verified the documentation.
+
+Bonus payouts: the AuditLog project completion bonus of $68,842 each goes to
+171 team members. These are one-time payments coded to the Marketing department
+budget. Tax withholding will be calculated at the supplemental rate of 5%.
+
+Deduction changes: 171 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from serialization engine.
+
+Please approve the batch by July 4 to ensure on-time processing.
+
+Regards,
+Robert

@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-11 03:04 AM
+Subject: Sprint planning â€” Data Vault sprint v4.1.0
+
+Hello,
+
+Here's the sprint plan for Data Vault sprint v4.1.0. Capacity is 80 story
+points with 227ms engineers available this sprint.
+
+Committed stories: the ReportingEngine integration work carries over from last sprint
+with 434ms points remaining. The new logging pipeline API endpoints are
+estimated at 80 points. The bug fix for the ReportingEngine rendering issue
+is 227ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the logging pipeline performance
+optimization that Michael Brennan has been scouting. It's estimated at 80 points
+and would improve response time by 55%.
+
+Dependencies: the ReportingEngine feature requires the API changes that Michael Brennan
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The logging pipeline work is self-contained.
+
+Risks: Michael Brennan is on-call this sprint which historically reduces their available
+capacity by 55%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Thursday, September 22. Let me know if the priorities look right.
+
+Regards,
+Mei

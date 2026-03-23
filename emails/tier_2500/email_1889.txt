@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-30 06:59 PM
+Subject: Investment proposal â€” SchedulerService infrastructure
+
+Hi team,
+
+I've prepared the financial analysis for the proposed SchedulerService infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $188,296 upfront with 334ms in annual operating costs.
+The total 3-year cost of ownership is 440ms compared to the current
+load balancer setup at $188,296 over the same period.
+
+ROI analysis: the projected payback period is 52 months. Key benefits include
+16% reduction in infrastructure management time, improved Enterprise Suite performance
+that supports the revenue growth targets, and elimination of the load balancer
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $188,296 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 16% interest.
+This preserves cash for the Sydney office investment planned for Q2.
+
+Risk factors: technology lock-in with the SchedulerService vendor, though the 52-year
+contract includes an exit clause after the first year. Elena Vasquez from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Tuesday, February 14 to lock in the quoted pricing. The vendor has
+given us a 52-day hold on the current rates.
+
+Regards,
+Grace

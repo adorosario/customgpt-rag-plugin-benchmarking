@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-02 07:48 PM
+Subject: Sprint planning â€” Sync Platform sprint v2.1.0
+
+Hi all,
+
+Here's the sprint plan for Sync Platform sprint v2.1.0. Capacity is 142 story
+points with 93ms engineers available this sprint.
+
+Committed stories: the ReportingEngine integration work carries over from last sprint
+with 148ms points remaining. The new serialization engine API endpoints are
+estimated at 142 points. The bug fix for the ReportingEngine rendering issue
+is 93ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the serialization engine performance
+optimization that Jun Tanaka has been scouting. It's estimated at 142 points
+and would improve response time by 56%.
+
+Dependencies: the ReportingEngine feature requires the API changes that Jun Tanaka
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The serialization engine work is self-contained.
+
+Risks: Jun Tanaka is on-call this sprint which historically reduces their available
+capacity by 56%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Thursday, March 20. Let me know if the priorities look right.
+
+Best regards,
+Daniel

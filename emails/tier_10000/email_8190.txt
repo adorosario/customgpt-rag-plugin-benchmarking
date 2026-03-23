@@ -1,0 +1,29 @@
+From: derek.morrison@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-09-20 07:01 PM
+Subject: Re: Cloud Connect demo feedback from Weyland-Yutani
+
+Hi all,
+
+Great news from the Weyland-Yutani demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the queue processor dashboard got the biggest reaction. Their
+current tool requires 117 manual steps to accomplish what our Cloud Connect does
+automatically. The NotificationEngine integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 178ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v1.9.5 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Mei Lin, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Cloud Connect trial environment set up for their team of
+117 evaluators. I'll submit the trial request today. Target close date
+remains Monday, November 19.
+
+Best regards,
+Derek

@@ -1,0 +1,34 @@
+From: sarah.chen@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-06-27 10:18 AM
+Subject: Insurance renewal â€” Q4 review
+
+Hi all,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Globex has offered a renewal at $349,454 per year, which is a
+26% increase from last year. Coverage limits remain the same at 437ms
+for general liability and 447ms for the FileStorageService professional liability
+policy.
+
+Alternative quotes: I obtained 167 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 26% discount, but they
+have a 447ms-day waiting period for rate limiter claims that our current
+policy doesn't have.
+
+Recommendation: stay with Globex and negotiate the premium increase down to
+26%. Their claims experience is strong â€” they processed our FileStorageService
+claim in 167 business days last year. Wei Zhang from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+447ms to $349,454 given the growth in Data Vault customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Tuesday, January 4 to avoid a coverage lapse. Let me know your preference.
+
+Talk soon,
+Sarah

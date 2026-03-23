@@ -1,0 +1,26 @@
+From: aisha.okafor@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-07-29 05:33 AM
+Subject: Pipeline update â€” Stark Industries deal status
+
+Hi all,
+
+Quick update on the Stark Industries opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $271,582 for the Integration Hub deployment. The
+decision timeline is end of Q2. Their main concern remains the integration
+with their existing MessageBroker infrastructure, which is why I've looped in Fatima Al-Rashid
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Stark Industries is also evaluating one other vendor but our
+Integration Hub demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our queue processor capability.
+
+Next steps: technical architecture session on Friday, August 23, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 52%.
+
+Thanks,
+Aisha

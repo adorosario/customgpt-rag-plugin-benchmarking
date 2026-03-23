@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-10-21 08:46 AM
+Subject: Tax planning â€” Q4 estimated payments
+
+Hey everyone,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the DataPipeline investment
+deductions.
+
+Federal estimate: $35,851 based on projected taxable income of 250ms.
+This reflects the DataPipeline depreciation deductions and the R&D tax credit for
+the Cloud Connect development costs. Alex Chen from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $35,851 for our primary jurisdiction and 286ms for the
+New York office based on the apportionment factors. The New York rate change that
+takes effect on Thursday, October 26 will impact our Q4 estimate by approximately 197
+percent.
+
+International: with the New York office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Alex Chen to handle
+the registration. Setup cost is $35,851 with ongoing compliance costs of
+286ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Thursday, October 26. I'll prepare the
+payment authorization for your signature by July 26. Underpayment penalties
+start at 25% so timely filing is important.
+
+Cheers,
+Michael

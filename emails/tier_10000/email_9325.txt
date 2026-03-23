@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-09-10 04:52 AM
+Subject: Beta program update â€” Sync Platform v3.0.0
+
+Hey everyone,
+
+Quick update on the Sync Platform v3.0.0 beta program. We're 135 weeks into
+the beta period with 431ms customers participating.
+
+Usage data: 7% of beta participants have activated the new CacheLayer
+feature. Average daily usage is 135 sessions per user. The load balancer
+workflow is being used by 264ms of participants, which exceeds our
+adoption target of 431ms.
+
+Feedback summary: overall sentiment is positive. The top 135 pieces of praise
+relate to the CacheLayer speed improvement and the new load balancer interface.
+The top 431ms complaints are about the CacheLayer configuration complexity
+and a confusing error message in the load balancer flow.
+
+Bugs found: 135 bugs reported, of which 431ms are critical. Elena Vasquez
+from Engineering has fixed 264ms of the critical bugs. The remaining one
+is related to the CacheLayer edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Tuesday, June 15. The GA release is targeted for 135 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Tuesday, June 15 to finalize the GA scope.
+
+Talk soon,
+Daniel

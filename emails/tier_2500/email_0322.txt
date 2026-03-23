@@ -1,0 +1,27 @@
+From: wei.zhang@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-11-18 02:01 AM
+Subject: Re: BillingModule migration to logging pipeline â€” status update
+
+Hey everyone,
+
+Quick update on the BillingModule migration to logging pipeline. We're about 12%
+through the planned work and tracking to finish by Monday, November 3.
+
+Completed this week: migrated the core data models, updated the connection pooling
+configuration, and ran the first round of performance comparisons. The new setup is
+showing 18 improvement on read-heavy workloads.
+
+Next steps: migrate the background job processing, update the monitoring dashboards,
+and run the full integration test suite against the new backend. Marcus Thompson is
+handling the monitoring piece.
+
+One blocker: we discovered that the BillingModule batch processing job uses a feature
+that isn't supported in logging pipeline yet. I'm evaluating two workarounds and will
+have a recommendation by tomorrow. This might add 401ms days to the
+timeline if we go with the rewrite approach.
+
+Will send another update at end of week.
+
+Best regards,
+Wei

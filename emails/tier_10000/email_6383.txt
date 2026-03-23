@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-09-20 11:07 PM
+Subject: Re: Data Vault pricing discussion â€” NotificationEngine tier
+
+Hey,
+
+Following up on the Data Vault pricing discussion. I've modeled three options for
+the NotificationEngine tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $179,731 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 44% of our existing base.
+Downside: it undercuts our current event bus pricing and may trigger downgrades.
+
+Option B: 320ms per seat per month with the event bus add-on bundled.
+Higher price point but stronger value perception. 66 of the 173ms
+customers we surveyed preferred this packaging. Yuki Sato from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $179,731 per NotificationEngine transaction. This aligns
+with the value delivered but introduces billing complexity. Only 44% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$179,731 in incremental ARR over 66 months.
+
+Can we finalize the pricing decision by Friday, May 11? Sales needs 173ms weeks to
+update collateral before we announce.
+
+Best,
+Daniel

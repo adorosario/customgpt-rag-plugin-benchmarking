@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-06-21 08:42 AM
+Subject: Sprint planning â€” Sync Platform sprint v1.9.5
+
+Hey,
+
+Here's the sprint plan for Sync Platform sprint v1.9.5. Capacity is 163 story
+points with 453ms engineers available this sprint.
+
+Committed stories: the FileStorageService integration work carries over from last sprint
+with 329ms points remaining. The new connection pool API endpoints are
+estimated at 163 points. The bug fix for the FileStorageService rendering issue
+is 453ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the connection pool performance
+optimization that Oluwaseun Adeyemi has been scouting. It's estimated at 163 points
+and would improve response time by 8%.
+
+Dependencies: the FileStorageService feature requires the API changes that Oluwaseun Adeyemi
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The connection pool work is self-contained.
+
+Risks: Oluwaseun Adeyemi is on-call this sprint which historically reduces their available
+capacity by 8%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Tuesday, January 23. Let me know if the priorities look right.
+
+Thanks,
+Amara

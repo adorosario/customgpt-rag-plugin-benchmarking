@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-20 08:41 PM
+Subject: Sprint planning â€” Analytics Pro sprint v3.2.2
+
+Hi,
+
+Here's the sprint plan for Analytics Pro sprint v3.2.2. Capacity is 13 story
+points with 89ms engineers available this sprint.
+
+Committed stories: the APIGateway integration work carries over from last sprint
+with 193ms points remaining. The new rate limiter API endpoints are
+estimated at 13 points. The bug fix for the APIGateway rendering issue
+is 89ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the rate limiter performance
+optimization that David Okonkwo has been scouting. It's estimated at 13 points
+and would improve response time by 60%.
+
+Dependencies: the APIGateway feature requires the API changes that David Okonkwo
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The rate limiter work is self-contained.
+
+Risks: David Okonkwo is on-call this sprint which historically reduces their available
+capacity by 60%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, March 12. Let me know if the priorities look right.
+
+Talk soon,
+Daniel

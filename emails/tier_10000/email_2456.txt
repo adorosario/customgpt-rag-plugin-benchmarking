@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-14 08:07 AM
+Subject: Financial close checklist â€” Q2
+
+Hello,
+
+The Q2 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Enterprise Suite invoices must be issued by Wednesday, January 5. Any revenue recognition
+adjustments for the WebhookDispatcher contracts need supporting documentation uploaded
+to queue processor. James Oduya from Sales must confirm final deal amounts by November 14.
+
+Expenses: all expense reports for Q2 must be submitted by Wednesday, January 5. The
+WebhookDispatcher vendor invoices totaling $494,943 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, WebhookDispatcher subscription costs,
+and the queue processor usage charges by Wednesday, January 5. Any non-standard accruals above
+157ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, WebhookDispatcher account reconciliation, and
+inter-company balances must be completed by Wednesday, January 5. James Oduya is handling the
+bank rec. I'll take the inter-company items since they involve the Singapore entity.
+
+Target: books closed within 50 business days of quarter end. Final reporting
+package to leadership by Wednesday, January 5.
+
+Thanks,
+Robert

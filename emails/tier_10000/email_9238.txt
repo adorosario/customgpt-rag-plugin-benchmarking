@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-07-19 11:42 AM
+Subject: Audit preparation â€” Q4 review
+
+Hi,
+
+The Q4 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Weyland-Yutani are scheduled to begin fieldwork
+on Monday, January 16.
+
+Documentation needed from each department: all purchase orders above 225ms,
+contract modifications executed during Q4, headcount changes with supporting
+approvals, and WebhookDispatcher system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the event bus audit portal by Monday, January 16.
+That gives us 139 business days before the auditors arrive. Elena Vasquez has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Cloud Connect contracts, the WebhookDispatcher capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $249,236 in capitalized WebhookDispatcher costs and the methodology used.
+
+This is our 139 year with Weyland-Yutani as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Elena Vasquez if you have
+questions about what's needed.
+
+Regards,
+Ananya

@@ -1,0 +1,21 @@
+{
+  "tier": 30,
+  "question_id": "pattern_3",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What issues has Initech reported and how is the team responding?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the two emails in the dataset that mention Initech:\n\n**Issue Reported:** Initech filed an **API latency complaint** constituting an **SLA breach** \u00e2\u20ac\u201d specifically citing slow response times and performance concerns.\n\n**Team Response:** Both emails (from Tomoko Nakamura and Wei Zhang at Acme Corp) indicate the team is \"making progress,\" but the content is largely vague/boilerplate. The emails state that:\n- The Initech API latency/SLA/response time issue is being actively worked on\n- The team is \"focused on delivering results\"\n\n**Caveats:** The email content appears to be synthetic/benchmark data \u00e2\u20ac\u201d the bodies are noticeably repetitive (\"The X aspect is progressing well and the team has been focused on delivering results\") and padded with unrelated filler sentences. There's no concrete detail about root cause, specific remediation steps, or timelines in the available emails.\n\nIf you need deeper context, there may be additional relevant emails \u00e2\u20ac\u201d do you want me to search other fields (e.g., \"SLA\", \"latency\", \"API\") across all 30 emails?",
+  "time_seconds": 36.64,
+  "num_turns": 5,
+  "cost_usd": 0.08941934999999998,
+  "input_tokens": 6,
+  "cache_creation_tokens": 12611,
+  "cache_read_tokens": 102917,
+  "output_tokens": 749,
+  "total_tokens": 116283,
+  "duration_api_ms": 24264,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

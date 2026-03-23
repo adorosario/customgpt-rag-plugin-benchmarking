@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-11-05 05:42 PM
+Subject: Feature spec â€” AnalyticsDashboard integration
+
+Hi team,
+
+The feature spec for the AnalyticsDashboard integration is ready for review. This is
+targeting the v2.6.0 release in Q4.
+
+Problem statement: 6% of our enterprise prospects cite the lack of
+AnalyticsDashboard integration as a blocker. The current workaround through the
+event bus API is unreliable and requires 169 hours of custom development
+from customers.
+
+Proposed solution: native AnalyticsDashboard integration with bi-directional sync.
+Users configure the connection through the Cloud Connect settings page and data
+flows automatically. The sync runs every 270ms minutes with conflict
+resolution handled by our algorithm.
+
+Scope: phase 1 covers read and write operations for the core AnalyticsDashboard objects.
+Phase 2 adds real-time webhooks and custom field mapping. Carlos Rivera from Engineering
+estimates 169 sprints for phase 1 and 270ms for phase 2.
+
+Success metrics: 169 enterprise customers adopt the integration within 90 days
+of launch, AnalyticsDashboard related support tickets decrease by 6%, and the
+feature contributes to $155,346 in new ARR.
+
+Please review the full spec in Confluence and leave comments by Friday, November 5.
+
+Talk soon,
+Mei

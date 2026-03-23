@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-06-18 12:59 PM
+Subject: Quarterly territory review â€” Q3
+
+Hello,
+
+Here's my territory review for Q3. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 173 qualified opportunities worth a combined $299,514 in
+ARR. The largest deal is Weyland-Yutani at 180ms, which I expect to close by
+Friday, November 11. Three other deals in the 179ms range are progressing through
+procurement.
+
+Wins this quarter: closed Weyland-Yutani for Enterprise Suite with a 32% upsell from
+their initial scope. The serialization engine add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Rachel Nguyen to the Weyland-Yutani executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Thanks,
+Dmitri

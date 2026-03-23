@@ -1,0 +1,21 @@
+{
+  "tier": 10,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the emails in this dataset, here's what's known about **Project Nexus**:\n\n**What it is:** A project at Acme Corp with a focus on cross-platform, synchronization, and conflict resolution aspects. The emails reference it in the context of sprint planning and architecture reviews.\n\n**People/Teams involved:**\n- **Liam Foster** (`liam.foster@acmecorp.com`) \u00e2\u20ac\u201d primary communicator/lead on the project\n- **Ravi Patel** (`ravi.patel@acmecorp.com`) \u00e2\u20ac\u201d recipient of sprint planning updates; `product@acmecorp.com` CC'd (product team)\n- **David Okonkwo** (`david.okonkwo@acmecorp.com`) \u00e2\u20ac\u201d involved in architecture review\n\n**Key themes mentioned:**\n- Cross-platform work\n- Data synchronization\n- Conflict resolution\n- Architecture review\n\nThe emails are fairly brief and templated, so they don't provide deep detail beyond these participants and the project's technical focus areas.",
+  "time_seconds": 95.14,
+  "num_turns": 5,
+  "cost_usd": 0.0911298,
+  "input_tokens": 6,
+  "cache_creation_tokens": 12880,
+  "cache_read_tokens": 103156,
+  "output_tokens": 791,
+  "total_tokens": 116833,
+  "duration_api_ms": 83789,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

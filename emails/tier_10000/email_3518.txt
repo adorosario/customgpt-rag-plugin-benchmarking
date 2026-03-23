@@ -1,0 +1,30 @@
+From: hannah.goldstein@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-09-09 12:27 PM
+Subject: Client meeting recap â€” Cyberdyne Thursday, April 14
+
+Hey everyone,
+
+Recapping today's meeting with Cyberdyne. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their AnalyticsDashboard
+team lead. From ours: myself, Rachel Nguyen from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their serialization engine vendors
+from three down to one. Our Cloud Connect covers 20% of their requirements
+natively. The remaining gap is around AnalyticsDashboard integrations, which Rachel Nguyen
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Thursday, April 14 and begin
+implementation in Q1. Budget has been pre-approved at $418,681 for the
+first year.
+
+Action items: send the Cloud Connect technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their serialization engine workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Best regards,
+Hannah

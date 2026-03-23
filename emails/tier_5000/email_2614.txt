@@ -1,0 +1,30 @@
+From: patrick.obrien@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-06-01 11:46 PM
+Subject: Onboarding schedule â€” new hire starting Thursday, April 2
+
+Hello,
+
+We have a new team member joining HR on Thursday, April 2. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, AuthService systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Robert Kimura will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Data Vault and the config manager tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Thursday, April 2. All software licenses including AuthService and config manager access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 134 people to schedule intro meetings with, and first
+390ms-day goals. Please send these to Robert Kimura in People Ops.
+
+Welcome email goes out 134 days before start date.
+
+Best,
+Patrick

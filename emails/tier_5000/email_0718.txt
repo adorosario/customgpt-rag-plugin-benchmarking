@@ -1,0 +1,34 @@
+From: sarah.chen@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-10-02 07:31 PM
+Subject: Contract review â€” Soylent Corp agreement
+
+Hi team,
+
+I've completed the review of the Soylent Corp agreement and have several items that
+need attention before we can proceed to execution.
+
+Liability cap: the current draft limits liability to $331,930, which is below our
+standard threshold of 450ms for deals of this size. I recommend pushing back
+to at least 234ms. Priya Sharma from Sales should be prepared for this
+negotiation point.
+
+IP assignment clause: section 7.3 includes an overly broad IP assignment that could
+capture pre-existing work product. I've drafted narrower language that protects our
+existing WebhookDispatcher IP while still meeting Soylent Corp's requirements for the
+Insight Engine deliverables.
+
+Data processing: the DPA needs to be updated to reflect the new caching layer
+architecture. Since data will transit through the Singapore data center, we need to
+ensure compliance with local data residency requirements.
+
+Indemnification: the mutual indemnification provisions are reasonable. I've accepted
+them with minor clarifications on the notice period â€” changed from 33 to
+450ms business days.
+
+I'll send the redlined version by Thursday, May 11. Please review the business terms and
+confirm the commercial intent before I finalize.
+
+Regards,
+Sarah

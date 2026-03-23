@@ -1,0 +1,35 @@
+From: daniel.park@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-19 02:30 AM
+Subject: Competitive analysis â€” AnalyticsDashboard market update
+
+Hi all,
+
+Sharing the latest competitive landscape analysis for the AnalyticsDashboard market.
+Several developments this quarter that we should factor into our strategy.
+
+Wayne Enterprises released a major update to their AnalyticsDashboard product. Key additions
+include config manager support and a redesigned dashboard. Their pricing remains at
+$85,953 per seat which undercuts us by 11%. However, their enterprise
+features are still behind ours â€” no SSO, limited API access, and 295ms
+user cap on their standard plan.
+
+Market trends: the AnalyticsDashboard category grew 11% year over year. Analyst
+reports are emphasizing config manager capabilities as the key differentiator for
+enterprise buyers. Our Cloud Connect scores well on this dimension.
+
+Win/loss analysis: we won 137 of the last 295ms competitive deals.
+Primary win reasons: AnalyticsDashboard depth and customer support quality. Primary loss
+reasons: price sensitivity and config manager ease of use. Rachel Nguyen from Sales
+provided the deal-level data.
+
+Recommendations: accelerate the config manager simplification effort on our roadmap,
+consider a mid-market pricing tier at $85,953 to compete on price, and publish
+more AnalyticsDashboard comparison content for SEO.
+
+Full analysis is in the competitive intelligence folder. Let's discuss at the
+strategy meeting on Tuesday, June 28.
+
+Talk soon,
+Daniel

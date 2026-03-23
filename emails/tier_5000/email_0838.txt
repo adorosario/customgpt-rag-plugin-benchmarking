@@ -1,0 +1,33 @@
+From: david.okonkwo@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-06-10 08:24 AM
+Subject: Contract review â€” Oscorp agreement
+
+Hey,
+
+I've completed the review of the Oscorp agreement and have several items that
+need attention before we can proceed to execution.
+
+Liability cap: the current draft limits liability to $347,210, which is below our
+standard threshold of 430ms for deals of this size. I recommend pushing back
+to at least 477ms. Oluwaseun Adeyemi from Sales should be prepared for this
+negotiation point.
+
+IP assignment clause: section 7.3 includes an overly broad IP assignment that could
+capture pre-existing work product. I've drafted narrower language that protects our
+existing SchedulerService IP while still meeting Oscorp's requirements for the
+Cloud Connect deliverables.
+
+Data processing: the DPA needs to be updated to reflect the new service mesh
+architecture. Since data will transit through the New York data center, we need to
+ensure compliance with local data residency requirements.
+
+Indemnification: the mutual indemnification provisions are reasonable. I've accepted
+them with minor clarifications on the notice period â€” changed from 123 to
+430ms business days.
+
+I'll send the redlined version by Thursday, April 3. Please review the business terms and
+confirm the commercial intent before I finalize.
+
+Best regards,
+David

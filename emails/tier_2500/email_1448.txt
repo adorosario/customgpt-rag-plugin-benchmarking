@@ -1,0 +1,31 @@
+From: carlos.rivera@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-27 03:09 AM
+Subject: Client meeting recap â€” Hooli Wednesday, April 13
+
+Hey,
+
+Recapping today's meeting with Hooli. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their AnalyticsDashboard
+team lead. From ours: myself, Hannah Goldstein from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their load balancer vendors
+from three down to one. Our Sync Platform covers 5% of their requirements
+natively. The remaining gap is around AnalyticsDashboard integrations, which Hannah Goldstein
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Wednesday, April 13 and begin
+implementation in Q1. Budget has been pre-approved at $46,107 for the
+first year.
+
+Action items: send the Sync Platform technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their load balancer workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Talk soon,
+Carlos

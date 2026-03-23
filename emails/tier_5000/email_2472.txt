@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-05 05:51 PM
+Subject: Payroll adjustment â€” Friday, October 4 cycle
+
+Good morning,
+
+Several payroll adjustments need to be processed for the Friday, October 4 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 64 employees received approved raises effective Friday, October 4. The
+total monthly payroll impact is $311,699. The largest increase is for Sarah Chen
+whose compensation moves from 231ms to 274ms based on the promotion
+approved in the Q4 review cycle.
+
+New hires: 64 new employees starting on Friday, October 4 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Sarah Chen
+in People Ops has verified the documentation.
+
+Bonus payouts: the ReportingEngine project completion bonus of $311,699 each goes to
+64 team members. These are one-time payments coded to the Legal department
+budget. Tax withholding will be calculated at the supplemental rate of 59%.
+
+Deduction changes: 64 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from rate limiter.
+
+Please approve the batch by September 8 to ensure on-time processing.
+
+Best regards,
+Ananya

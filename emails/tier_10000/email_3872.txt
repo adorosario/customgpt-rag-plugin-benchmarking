@@ -1,0 +1,28 @@
+From: derek.morrison@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-07-10 03:16 PM
+Subject: Quarterly territory review â€” Q1
+
+Good afternoon,
+
+Here's my territory review for Q1. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 189 qualified opportunities worth a combined $267,935 in
+ARR. The largest deal is Soylent Corp at 356ms, which I expect to close by
+Wednesday, May 14. Three other deals in the 117ms range are progressing through
+procurement.
+
+Wins this quarter: closed Soylent Corp for Sync Platform with a 10% upsell from
+their initial scope. The rate limiter add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Fatima Al-Rashid to the Soylent Corp executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Best,
+Derek

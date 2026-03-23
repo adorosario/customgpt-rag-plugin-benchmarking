@@ -1,0 +1,30 @@
+From: maria.santos@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-06-27 09:09 PM
+Subject: Re: Employment law update â€” Singapore office
+
+Hey,
+
+Important update on the employment law changes affecting our Singapore office.
+The new legislation goes into effect on Thursday, August 17 and requires several adjustments to
+our current practices.
+
+Key changes: first, the minimum notice period for termination has increased from
+328ms to 136ms weeks for employees with more than 42 years
+of tenure. Second, there's a new requirement for documented SearchIndex procedures
+that must be shared with employees during onboarding.
+
+Impact assessment: we have 42 employees at the Singapore office who are affected
+by the notice period change. HR needs to update offer letters and the employee
+handbook for the Singapore jurisdiction. Alex Chen from People Ops is coordinating
+the handbook revision.
+
+Compliance cost: outside counsel estimates $27,848 in legal fees to update all
+affected contracts and policies. This was not in the Q2 legal budget, so
+I'll need Finance to approve the additional spend.
+
+Deadline: all changes must be implemented by Thursday, August 17. I've created a compliance
+checklist and will track progress in our weekly legal ops meeting.
+
+Regards,
+Maria

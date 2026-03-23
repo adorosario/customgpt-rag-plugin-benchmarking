@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-07-03 03:07 AM
+Subject: Financial close checklist â€” Q3
+
+Good afternoon,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Integration Hub invoices must be issued by Thursday, May 2. Any revenue recognition
+adjustments for the BillingModule contracts need supporting documentation uploaded
+to logging pipeline. Jun Tanaka from Sales must confirm final deal amounts by November 20.
+
+Expenses: all expense reports for Q3 must be submitted by Thursday, May 2. The
+BillingModule vendor invoices totaling $362,742 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, BillingModule subscription costs,
+and the logging pipeline usage charges by Thursday, May 2. Any non-standard accruals above
+439ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, BillingModule account reconciliation, and
+inter-company balances must be completed by Thursday, May 2. Jun Tanaka is handling the
+bank rec. I'll take the inter-company items since they involve the New York entity.
+
+Target: books closed within 122 business days of quarter end. Final reporting
+package to leadership by Thursday, May 2.
+
+Best,
+Ananya

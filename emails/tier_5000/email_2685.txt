@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-14 09:50 AM
+Subject: A/B test results â€” FileStorageService experiment
+
+Hello,
+
+The FileStorageService A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 129 days with 476ms users in each cohort.
+
+Variant A (control): the existing caching layer flow. Conversion rate of
+112ms with an average task completion time of 129 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified FileStorageService step.
+Conversion rate of 476ms with task completion time of 112ms seconds.
+This represents a 27% improvement in conversion and 129 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 129 to 476ms
+in the treatment group. Support ticket volume for FileStorageService related issues
+decreased by 27%. No negative impact on caching layer engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Laura Kim from Engineering can have this
+deployed by Tuesday, February 27.
+
+One caveat: the test population skewed toward Insight Engine power users. We should
+monitor new user behavior closely for the first 129 weeks after full rollout.
+
+Best,
+Daniel

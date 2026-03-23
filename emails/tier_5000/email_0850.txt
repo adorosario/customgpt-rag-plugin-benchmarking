@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-09 07:46 AM
+Subject: Payroll adjustment â€” Monday, July 5 cycle
+
+Hi all,
+
+Several payroll adjustments need to be processed for the Monday, July 5 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 20 employees received approved raises effective Monday, July 5. The
+total monthly payroll impact is $102,672. The largest increase is for Alex Chen
+whose compensation moves from 483ms to 367ms based on the promotion
+approved in the Q4 review cycle.
+
+New hires: 20 new employees starting on Monday, July 5 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Alex Chen
+in People Ops has verified the documentation.
+
+Bonus payouts: the WebhookDispatcher project completion bonus of $102,672 each goes to
+20 team members. These are one-time payments coded to the Finance department
+budget. Tax withholding will be calculated at the supplemental rate of 15%.
+
+Deduction changes: 20 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from config manager.
+
+Please approve the batch by January 26 to ensure on-time processing.
+
+Best regards,
+Michael

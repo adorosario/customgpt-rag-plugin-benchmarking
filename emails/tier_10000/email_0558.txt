@@ -1,0 +1,28 @@
+From: carlos.rivera@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-09-26 10:36 PM
+Subject: Sales engineering request â€” Wayne Enterprises POC
+
+Hi all,
+
+Requesting SE support for a proof-of-concept with Wayne Enterprises. This is a $226,619
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Insight Engine can handle 151
+transactions per second with their PaymentGateway data format. The test needs to
+run against their staging environment and demonstrate the service mesh capability
+under realistic load.
+
+Timeline: Wayne Enterprises wants the POC completed within 70ms business days
+starting Friday, March 9. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Maria Santos for the technical configuration and someone from
+the PaymentGateway team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q2. Let me know if we can make this timeline work.
+
+Thanks,
+Carlos

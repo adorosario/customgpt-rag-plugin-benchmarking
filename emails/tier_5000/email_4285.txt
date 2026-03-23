@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-11-27 03:10 AM
+Subject: Re: Quota update â€” Q1 adjustments
+
+Hello,
+
+Thanks for sharing the Q1 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $167,314 reflects a 36% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 60 of my projected deals depend on the Sync Platform launch happening on
+schedule. If that slips, I'll need the AnalyticsDashboard backup deals to come through.
+
+Territory changes: I see that the London accounts have been reassigned to
+Rachel Nguyen. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Weyland-Yutani â€” we've been building that
+relationship for 152ms months.
+
+Regarding the new authentication module incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with authentication module upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Best,
+Dmitri

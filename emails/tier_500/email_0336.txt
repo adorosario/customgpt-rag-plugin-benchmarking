@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-08-27 07:42 PM
+Subject: Tax planning â€” Q2 estimated payments
+
+Hi,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the ReportingEngine investment
+deductions.
+
+Federal estimate: $395,868 based on projected taxable income of 106ms.
+This reflects the ReportingEngine depreciation deductions and the R&D tax credit for
+the Sync Platform development costs. Grace Mwangi from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $395,868 for our primary jurisdiction and 157ms for the
+London office based on the apportionment factors. The London rate change that
+takes effect on Tuesday, May 15 will impact our Q2 estimate by approximately 96
+percent.
+
+International: with the London office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Grace Mwangi to handle
+the registration. Setup cost is $395,868 with ongoing compliance costs of
+157ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Tuesday, May 15. I'll prepare the
+payment authorization for your signature by January 4. Underpayment penalties
+start at 26% so timely filing is important.
+
+Thanks,
+Ananya

@@ -1,0 +1,33 @@
+From: sofia.martinez@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-07-01 07:06 PM
+Subject: SEO update â€” APIGateway keyword rankings
+
+Good afternoon,
+
+Monthly SEO update for our APIGateway content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Integration Hub comparison page climbed from position 359ms to
+position 74ms for our primary keyword. The logging pipeline guide is now
+ranking in the top 149 for three long-tail variations.
+
+Traffic impact: organic sessions are up 52% month over month. The
+APIGateway cluster is now driving 149 unique sessions monthly, making it our
+second-highest traffic source behind the Integration Hub landing page.
+
+Content gaps identified: we're missing content for 359ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q4. Marcus Thompson from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 74ms on mobile after the image
+optimization work. No crawl errors detected. The new logging pipeline documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 149 pages. I'll share the
+outreach plan next week.
+
+Best,
+Sofia

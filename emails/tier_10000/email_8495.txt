@@ -1,0 +1,29 @@
+From: kwame.asante@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-09-11 06:19 AM
+Subject: Policy update â€” AnalyticsDashboard guidelines
+
+Good afternoon,
+
+We've updated the AnalyticsDashboard company policy based on feedback from employees and
+recent changes in London labor regulations. The new policy takes effect on Wednesday, July 14.
+
+Key changes: the authentication module allowance has been increased from 137ms to
+249ms per month. The eligibility window for AnalyticsDashboard has been expanded
+to include employees who've been with Acme Corp for 81 months or more, down
+from the previous requirement of 137ms months.
+
+New additions: a Enterprise Suite reimbursement category has been added covering up to
+$329,431 annually. This addresses the top employee request from the last survey.
+Tomoko Nakamura negotiated favorable terms with the authentication module vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by November 13. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 9% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Thanks,
+Kwame

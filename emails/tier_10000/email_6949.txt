@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-28 03:22 AM
+Subject: Payroll adjustment â€” Thursday, October 10 cycle
+
+Good morning,
+
+Several payroll adjustments need to be processed for the Thursday, October 10 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 194 employees received approved raises effective Thursday, October 10. The
+total monthly payroll impact is $89,121. The largest increase is for Hannah Goldstein
+whose compensation moves from 58ms to 328ms based on the promotion
+approved in the Q4 review cycle.
+
+New hires: 194 new employees starting on Thursday, October 10 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Hannah Goldstein
+in People Ops has verified the documentation.
+
+Bonus payouts: the CacheLayer project completion bonus of $89,121 each goes to
+194 team members. These are one-time payments coded to the Engineering department
+budget. Tax withholding will be calculated at the supplemental rate of 14%.
+
+Deduction changes: 194 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from queue processor.
+
+Please approve the batch by January 11 to ensure on-time processing.
+
+Cheers,
+Robert

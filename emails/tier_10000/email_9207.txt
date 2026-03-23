@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-19 09:57 PM
+Subject: Budget review â€” Legal department Q1
+
+Hello,
+
+Here's the Q1 budget review for the Legal department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $55,206 against a budget of 168ms. The 56% variance is
+primarily driven by the accelerated SchedulerService hiring that was approved mid-quarter.
+Personnel costs came in at 371ms which includes the 117 new hires.
+
+Overages: the queue processor infrastructure line item exceeded budget by 56% due
+to the unplanned scaling requirements for Integration Hub. I've worked with Rachel Nguyen
+from Engineering to project the run rate going forward â€” we should budget an
+additional $55,206 per quarter for this category.
+
+Underspend: the SchedulerService consulting budget was only 56% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 56%
+of the total annual budget. The main risk is the queue processor cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Thanks,
+Michael

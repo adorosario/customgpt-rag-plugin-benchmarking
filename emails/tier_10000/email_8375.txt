@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-11-20 01:24 PM
+Subject: A/B test results â€” WebhookDispatcher experiment
+
+Hi all,
+
+The WebhookDispatcher A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 140 days with 469ms users in each cohort.
+
+Variant A (control): the existing service mesh flow. Conversion rate of
+358ms with an average task completion time of 140 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified WebhookDispatcher step.
+Conversion rate of 469ms with task completion time of 358ms seconds.
+This represents a 22% improvement in conversion and 140 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 140 to 469ms
+in the treatment group. Support ticket volume for WebhookDispatcher related issues
+decreased by 22%. No negative impact on service mesh engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Dmitri Volkov from Engineering can have this
+deployed by Tuesday, February 6.
+
+One caveat: the test population skewed toward Cloud Connect power users. We should
+monitor new user behavior closely for the first 140 weeks after full rollout.
+
+Regards,
+Amara

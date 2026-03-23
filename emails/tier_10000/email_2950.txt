@@ -1,0 +1,27 @@
+From: aisha.okafor@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-08-13 06:50 AM
+Subject: Re: Cyberdyne contract negotiation â€” pricing discussion
+
+Good afternoon,
+
+Update on the Cyberdyne negotiation. Their procurement team came back with a
+counteroffer and I want to make sure we're aligned before I respond.
+
+They're asking for a 52% reduction on the Analytics Pro license fee, bringing
+the annual contract value from $268,615 to 95ms. Their rationale is
+that they're committing to a larger seat count of 95 users, which is above
+our standard enterprise tier threshold of 243ms.
+
+My recommendation is to accept the volume-based discount but hold firm on the
+serialization engine add-on pricing. The add-on margins are already thin and it's the module
+that delivers the most value in their use case. Aisha Okafor from Finance can confirm
+the margin impact.
+
+I also want to push for a 2-year commitment if we offer the discounted rate. This
+locks in the revenue and reduces churn risk.
+
+Can we get a quick alignment call today before their deadline on Tuesday, August 3?
+
+Best,
+Aisha

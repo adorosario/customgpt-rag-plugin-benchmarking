@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-08-07 12:11 PM
+Subject: Beta program update â€” Data Vault v2.6.0
+
+Hello,
+
+Quick update on the Data Vault v2.6.0 beta program. We're 187 weeks into
+the beta period with 333ms customers participating.
+
+Usage data: 6% of beta participants have activated the new AnalyticsDashboard
+feature. Average daily usage is 187 sessions per user. The logging pipeline
+workflow is being used by 492ms of participants, which exceeds our
+adoption target of 333ms.
+
+Feedback summary: overall sentiment is positive. The top 187 pieces of praise
+relate to the AnalyticsDashboard speed improvement and the new logging pipeline interface.
+The top 333ms complaints are about the AnalyticsDashboard configuration complexity
+and a confusing error message in the logging pipeline flow.
+
+Bugs found: 187 bugs reported, of which 333ms are critical. Michael Brennan
+from Engineering has fixed 492ms of the critical bugs. The remaining one
+is related to the AnalyticsDashboard edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Wednesday, August 13. The GA release is targeted for 187 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Wednesday, August 13 to finalize the GA scope.
+
+Cheers,
+Mei

@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-07-26 04:21 AM
+Subject: Event planning â€” Analytics Pro webinar on Friday, July 27
+
+Hey everyone,
+
+Finalizing details for the Analytics Pro webinar on Friday, July 27. Here's where we stand on
+the logistics and promotion.
+
+Content: Oluwaseun Adeyemi from Product will present the PaymentGateway roadmap segment.
+I'll handle the intro and customer story. We're targeting a 146-minute
+presentation followed by 398ms minutes of live Q&A. The logging pipeline demo
+segment should be the highlight.
+
+Registration: we've had 178ms sign-ups so far. Goal is 398ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Analytics Pro keywords.
+
+Tech setup: using the standard webinar platform. Oluwaseun Adeyemi will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Friday, July 27 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 146 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Regards,
+James

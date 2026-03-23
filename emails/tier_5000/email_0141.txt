@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-08-22 03:37 AM
+Subject: Beta program update â€” Analytics Pro v2.7.3
+
+Hey everyone,
+
+Quick update on the Analytics Pro v2.7.3 beta program. We're 194 weeks into
+the beta period with 386ms customers participating.
+
+Usage data: 44% of beta participants have activated the new AuthService
+feature. Average daily usage is 194 sessions per user. The queue processor
+workflow is being used by 294ms of participants, which exceeds our
+adoption target of 386ms.
+
+Feedback summary: overall sentiment is positive. The top 194 pieces of praise
+relate to the AuthService speed improvement and the new queue processor interface.
+The top 386ms complaints are about the AuthService configuration complexity
+and a confusing error message in the queue processor flow.
+
+Bugs found: 194 bugs reported, of which 386ms are critical. Michael Brennan
+from Engineering has fixed 294ms of the critical bugs. The remaining one
+is related to the AuthService edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Thursday, May 4. The GA release is targeted for 194 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Thursday, May 4 to finalize the GA scope.
+
+Talk soon,
+Amara

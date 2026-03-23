@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-11-26 06:07 PM
+Subject: Conference recap â€” Integration Hub booth results
+
+Hey,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Integration Hub booth drew consistent traffic throughout.
+
+Lead collection: 170 badge scans at the booth, of which 86ms are
+qualified leads based on our initial review. The DataPipeline live demo was the
+biggest draw, and Ravi Patel from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+authentication module roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Integration Hub had 347ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 170 times since we posted it.
+
+Budget: we came in at $163,080, which is 50% under budget. The savings came
+from sharing the booth infrastructure with the DataPipeline partner showcase.
+
+I'll prepare a full ROI analysis by Tuesday, August 9 once we've completed lead follow-up.
+
+Regards,
+Laura

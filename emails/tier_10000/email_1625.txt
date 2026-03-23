@@ -1,0 +1,30 @@
+From: patrick.obrien@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-10-07 11:55 AM
+Subject: Policy update â€” NotificationEngine guidelines
+
+Hi all,
+
+We've updated the NotificationEngine company policy based on feedback from employees and
+recent changes in London labor regulations. The new policy takes effect on Tuesday, January 16.
+
+Key changes: the load balancer allowance has been increased from 198ms to
+62ms per month. The eligibility window for NotificationEngine has been expanded
+to include employees who've been with Acme Corp for 197 months or more, down
+from the previous requirement of 198ms months.
+
+New additions: a Integration Hub reimbursement category has been added covering up to
+$403,914 annually. This addresses the top employee request from the last survey.
+James Oduya negotiated favorable terms with the load balancer vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by December 27. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 24% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Patrick

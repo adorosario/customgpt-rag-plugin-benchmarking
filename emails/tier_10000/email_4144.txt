@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-09-23 01:08 AM
+Subject: Re: Sync Platform pricing discussion â€” SearchIndex tier
+
+Hi,
+
+Following up on the Sync Platform pricing discussion. I've modeled three options for
+the SearchIndex tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $370,061 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 23% of our existing base.
+Downside: it undercuts our current service mesh pricing and may trigger downgrades.
+
+Option B: 178ms per seat per month with the service mesh add-on bundled.
+Higher price point but stronger value perception. 168 of the 151ms
+customers we surveyed preferred this packaging. Sofia Martinez from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $370,061 per SearchIndex transaction. This aligns
+with the value delivered but introduces billing complexity. Only 23% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$370,061 in incremental ARR over 168 months.
+
+Can we finalize the pricing decision by Tuesday, April 26? Sales needs 151ms weeks to
+update collateral before we announce.
+
+Best regards,
+Mei

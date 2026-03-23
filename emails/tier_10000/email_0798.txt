@@ -1,0 +1,29 @@
+From: robert.kimura@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-08-06 03:27 AM
+Subject: Re: Expense report flagged â€” UserProfileService charges
+
+Hi team,
+
+I noticed some items on the UserProfileService expense report submitted by Priya Sharma
+that need clarification before I can approve them.
+
+The rate limiter subscription charge of $146,018 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+165ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Tyrell Corp dinner on Wednesday, February 20 for $146,018 exceeds our per-person meal
+reimbursement limit of 165ms. If this was a client entertainment expense,
+it should be coded to the client development budget under UserProfileService rather than
+general T&E. 198 attendees at that amount puts us at 356ms per
+person which is within the client entertainment policy.
+
+The remaining 198 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 165ms business days after approval.
+
+Please resubmit with the corrections by Wednesday, February 20 so we can keep things on track.
+
+Best regards,
+Robert

@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-11-21 12:30 AM
+Subject: Tax planning â€” Q1 estimated payments
+
+Hey,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the CacheLayer investment
+deductions.
+
+Federal estimate: $85,226 based on projected taxable income of 121ms.
+This reflects the CacheLayer depreciation deductions and the R&D tax credit for
+the Integration Hub development costs. Robert Kimura from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $85,226 for our primary jurisdiction and 119ms for the
+Berlin office based on the apportionment factors. The Berlin rate change that
+takes effect on Friday, April 14 will impact our Q1 estimate by approximately 162
+percent.
+
+International: with the Berlin office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Robert Kimura to handle
+the registration. Setup cost is $85,226 with ongoing compliance costs of
+119ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Friday, April 14. I'll prepare the
+payment authorization for your signature by January 1. Underpayment penalties
+start at 27% so timely filing is important.
+
+Best regards,
+Grace

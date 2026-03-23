@@ -1,0 +1,30 @@
+From: hannah.goldstein@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-09-25 08:27 PM
+Subject: Competitive intel â€” Wayne Enterprises evaluation
+
+Hi team,
+
+Got some useful competitive intelligence from the Wayne Enterprises account that I want to
+share with the team.
+
+Wayne Enterprises shared their evaluation criteria and mentioned they're also looking at
+CacheLayer as an alternative to our Sync Platform. From what I gathered, CacheLayer
+is pitching a lower price point but doesn't have feature parity on the event bus
+side.
+
+Key differentiators working in our favor: our Sync Platform handles 18 concurrent
+connections versus their published limit of 199ms. Our uptime SLA is also
+stronger at 59ms versus their 5% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for CacheLayer and
+consider a streamlined trial process for mid-market accounts. Fatima Al-Rashid from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Friday, December 24.
+
+Best,
+Hannah

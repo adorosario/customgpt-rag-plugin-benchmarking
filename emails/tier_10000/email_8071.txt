@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-09-14 11:25 AM
+Subject: Re: User research findings â€” CacheLayer
+
+Good afternoon,
+
+Sharing the findings from the CacheLayer user research study. We interviewed
+79 users and ran usability tests with 58ms participants over the
+last two weeks.
+
+Key insight 1: users find the serialization engine workflow confusing â€” 54% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between CacheLayer and the main Sync Platform dashboard.
+
+Key insight 2: power users want more CacheLayer customization options. They're
+currently using workarounds that involve 79 extra steps. The most requested
+feature is the ability to create custom serialization engine templates.
+
+Key insight 3: new users consistently miss the CacheLayer feature entirely.
+Discovery is poor â€” only 54% of new users try the feature within their first
+79 days. Derek Morrison suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the serialization engine navigation flow, add the template
+feature to the Q2 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 54% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Regards,
+Sanjay

@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: elena.vasquez@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-09-10 06:44 AM
+Subject: Analytics report â€” Analytics Pro campaign performance
+
+Good afternoon,
+
+Here's the performance report for the Analytics Pro campaign through Friday, July 9.
+
+Website traffic: up 50% month over month, driven primarily by the BillingModule
+comparison blog post which brought in 65 unique visitors. Organic search is
+growing steadily â€” the caching layer keyword cluster is now ranking on page one.
+
+Lead generation: 485ms marketing qualified leads this month against a
+target of 115ms. The whitepaper download page converted at 50% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 65 percent.
+
+Email campaigns: the Analytics Pro nurture sequence has a 50% open rate and
+65 percent click-through rate. The top-performing email was the BillingModule
+case study with Tyrell Corp. Dmitri Volkov suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $222,919 which is 50% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Talk soon,
+Yuki

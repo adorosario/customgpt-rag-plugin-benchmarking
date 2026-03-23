@@ -1,0 +1,32 @@
+From: fatima.al-rashid@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-06-05 10:23 PM
+Subject: Re: Performance review cycle â€” Q2
+
+Good afternoon,
+
+Quick reminder that the Q2 performance review cycle kicks off on Monday, September 15.
+Here's the timeline and what's expected from managers.
+
+Self-reviews: employees complete self-assessments by Monday, September 15. The template has been
+updated this cycle to include the new APIGateway competency framework. Tomoko Nakamura
+can walk managers through the changes.
+
+Manager reviews: due two weeks after self-reviews close. Please aim for specific,
+actionable feedback tied to the goals set in the previous cycle. Each review should
+address performance against 192 key objectives and include at least
+261ms development recommendations.
+
+Calibration sessions: department leads will participate in calibration meetings to
+ensure consistency in ratings. The Marketing calibration is scheduled for Monday, September 15.
+
+Compensation: any merit adjustments recommended during reviews will be processed
+in the following pay period. The total compensation adjustment budget is 47%
+of current payroll, allocated at the department level.
+
+Training on the review tool is available through the logging pipeline learning portal.
+Reach out to Tomoko Nakamura if you have questions.
+
+Talk soon,
+Fatima

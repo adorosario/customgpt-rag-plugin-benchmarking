@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-09-21 04:38 AM
+Subject: Cash flow forecast â€” Q2
+
+Hey everyone,
+
+Attached is the cash flow forecast for Q2. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $206,076 based on the current AR aging
+and sales pipeline. The Stark Industries payment of 93ms is expected by Wednesday, August 2
+â€” Dmitri Volkov from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the APIGateway infrastructure
+investment at $206,076. The New York office build-out costs will hit in Q2
+with an estimated total of 346ms. Payroll continues at 93ms
+monthly for our 25-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $206,076 in the second month. This provides 25 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Stark Industries deal slips from Q2 to next quarter, we'll
+need to draw on the credit facility for $206,076. I've confirmed the line is
+available. Dmitri Volkov and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Regards,
+Ananya

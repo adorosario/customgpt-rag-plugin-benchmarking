@@ -1,0 +1,31 @@
+From: carlos.rivera@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-10-15 12:47 AM
+Subject: Client meeting recap â€” Massive Dynamic Tuesday, August 13
+
+Good afternoon,
+
+Recapping today's meeting with Massive Dynamic. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their PaymentGateway
+team lead. From ours: myself, Yuki Sato from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their config manager vendors
+from three down to one. Our Insight Engine covers 28% of their requirements
+natively. The remaining gap is around PaymentGateway integrations, which Yuki Sato
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Tuesday, August 13 and begin
+implementation in Q3. Budget has been pre-approved at $463,646 for the
+first year.
+
+Action items: send the Insight Engine technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their config manager workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Regards,
+Carlos

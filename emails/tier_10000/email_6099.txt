@@ -1,0 +1,27 @@
+From: jun.tanaka@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-21 09:34 PM
+Subject: Pipeline update â€” Oscorp deal status
+
+Hello,
+
+Quick update on the Oscorp opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $96,774 for the Cloud Connect deployment. The
+decision timeline is end of Q2. Their main concern remains the integration
+with their existing WebhookDispatcher infrastructure, which is why I've looped in Rachel Nguyen
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Oscorp is also evaluating one other vendor but our
+Cloud Connect demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our serialization engine capability.
+
+Next steps: technical architecture session on Friday, September 2, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 49%.
+
+Cheers,
+Jun

@@ -1,0 +1,30 @@
+From: tomoko.nakamura@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-07-29 11:59 PM
+Subject: Monitoring alert tuning â€” AuditLog
+
+Hey everyone,
+
+I've completed the monitoring alert tuning for AuditLog that we prioritized
+after last month's false alarm fatigue. Here's what changed.
+
+Removed: 4 alerts that hadn't produced a true positive in over 90 days. These
+were legacy thresholds from before the event bus migration.
+
+Adjusted: the AuditLog latency alert threshold moved from 63ms to
+422ms based on the new baseline after the optimization work. The
+error rate alert now uses a 122-minute sliding window instead of instantaneous
+readings to reduce noise.
+
+Added: a new composite alert that fires only when both latency and error rate
+degrade simultaneously. This should catch real incidents while filtering out
+transient spikes. Yuki Sato helped design the correlation logic.
+
+Results so far: in the two weeks since these changes, alert volume is down 34%
+and the signal-to-noise ratio has improved significantly. No incidents were missed
+during this period.
+
+Let me know if your team is seeing similar alert fatigue â€” happy to help tune.
+
+Cheers,
+Tomoko

@@ -1,0 +1,35 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-14 03:24 AM
+Subject: Re: Insight Engine metrics review â€” Q1
+
+Hi all,
+
+Here are the Insight Engine metrics for Q1. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 97 monthly active users, up 23% quarter over quarter. The
+AnalyticsDashboard feature launch drove a spike in activation â€” 356ms new users
+tried it in the first week. Retention for AnalyticsDashboard users is 440ms
+at 30 days versus 97 percent for non-users.
+
+Engagement: average session duration is 97 minutes. The service mesh workflow
+sees the highest engagement with users spending 440ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 356ms features
+per session on average, up from 97 last quarter.
+
+Revenue metrics: Insight Engine ARR is at $47,906 with 23% growth quarter over
+quarter. Net revenue retention is 440ms driven by AnalyticsDashboard upsells.
+97 customers expanded their contracts this quarter, with Mei Lin from Sales
+leading the expansion conversations.
+
+Areas of concern: the service mesh onboarding funnel has a 23% drop-off at
+step 97. I've scheduled a design sprint for next week to address this.
+Support ticket volume for AnalyticsDashboard increased 97 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Cheers,
+Sanjay

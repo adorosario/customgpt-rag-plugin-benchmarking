@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-08-10 06:58 PM
+Subject: Customer feedback digest â€” Data Vault Q1
+
+Hey everyone,
+
+Here's the quarterly customer feedback digest for Data Vault. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 59, up 434ms points from last quarter. The improvement
+is driven by the APIGateway launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 55%.
+
+Top feature requests: APIGateway advanced filtering (59 votes), serialization engine
+bulk operations (434ms votes), and enhanced Data Vault reporting (58ms
+votes). The filtering request aligns with what we heard in the user research study
+David Okonkwo conducted.
+
+Top complaints: APIGateway performance during peak hours (59 mentions),
+the serialization engine onboarding experience (434ms mentions), and pricing
+transparency (58ms mentions). The performance issue is being addressed
+by Engineering â€” David Okonkwo expects the fix in v3.8.1.
+
+Churn insights: 59 customers churned this quarter citing APIGateway
+limitations as the primary reason. The serialization engine overhaul on our roadmap directly
+addresses their feedback. 55% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, July 22.
+
+Regards,
+Daniel

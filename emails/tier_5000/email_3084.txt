@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-06-07 12:37 PM
+Subject: Revenue recognition â€” Cloud Connect contracts
+
+Good afternoon,
+
+I need to walk through the revenue recognition treatment for the new Cloud Connect
+contracts signed this quarter. We have 52 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Hooli contract bundles Cloud Connect licenses with
+event bus implementation services. I've determined the standalone selling prices
+and allocated $138,771 to the license component and 171ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 52-month implementation period.
+
+Variable consideration: 154ms contracts include performance bonuses tied to
+CacheLayer uptime metrics. Using the expected value method, I've estimated
+$138,771 in variable consideration based on our historical performance of
+55% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Hooli amendment added event bus capacity at
+$138,771 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Tomoko Nakamura from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Thursday, February 22.
+
+Best regards,
+Robert

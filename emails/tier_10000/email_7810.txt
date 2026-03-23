@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-06-10 06:27 PM
+Subject: Email marketing performance â€” Q3 review
+
+Good morning,
+
+Here's the email marketing performance review for Q3. Overall we're trending
+in the right direction but there are a few areas to optimize.
+
+List health: our subscriber base grew 54% to 495ms contacts. Bounce
+rate is at 148 percent which is within healthy range. We ran a re-engagement
+campaign that recovered 302ms previously inactive subscribers.
+
+Campaign performance: the Insight Engine launch sequence was our top performer with a
+54% open rate. The AuditLog technical series also did well, driving 148
+clicks to the resource hub. Lower performers were the generic newsletter sends â€” we
+should consider more targeted segmentation.
+
+Revenue attribution: email-sourced pipeline totals $345,698 this quarter, with
+495ms in closed-won revenue. The Globex deal originated from a nurture
+sequence touchpoint.
+
+Plans for next quarter: implementing behavioral triggers for the logging pipeline
+content, A/B testing send times for the Insight Engine audience, and building a new
+onboarding sequence for trial sign-ups. Michael Brennan will help with the automation
+setup.
+
+Best,
+Laura

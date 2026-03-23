@@ -1,0 +1,28 @@
+From: jun.tanaka@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-08-25 09:59 PM
+Subject: New lead â€” Hooli inbound request
+
+Hey everyone,
+
+We received an inbound request from Hooli through the website today. They're
+a 159-employee company in the CacheLayer space and are looking for a
+Cloud Connect solution.
+
+Initial qualification: they have budget allocated for Q2, their current
+contract with their existing vendor expires on Wednesday, February 28, and the decision maker is
+their VP of Operations. They found us through the rate limiter whitepaper we
+published last month.
+
+The estimated deal size is $396,115 based on their seat count and the use case
+they described. They specifically mentioned needing the CacheLayer integration
+and 452ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Liam Foster â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on rate limiter scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Best regards,
+Jun

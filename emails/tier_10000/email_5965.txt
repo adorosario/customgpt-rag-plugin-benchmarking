@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-06-04 11:36 AM
+Subject: Beta program update â€” Insight Engine v2.7.3
+
+Hey,
+
+Quick update on the Insight Engine v2.7.3 beta program. We're 92 weeks into
+the beta period with 135ms customers participating.
+
+Usage data: 6% of beta participants have activated the new BillingModule
+feature. Average daily usage is 92 sessions per user. The service mesh
+workflow is being used by 80ms of participants, which exceeds our
+adoption target of 135ms.
+
+Feedback summary: overall sentiment is positive. The top 92 pieces of praise
+relate to the BillingModule speed improvement and the new service mesh interface.
+The top 135ms complaints are about the BillingModule configuration complexity
+and a confusing error message in the service mesh flow.
+
+Bugs found: 92 bugs reported, of which 135ms are critical. Robert Kimura
+from Engineering has fixed 80ms of the critical bugs. The remaining one
+is related to the BillingModule edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Monday, November 9. The GA release is targeted for 92 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Monday, November 9 to finalize the GA scope.
+
+Best,
+Liam

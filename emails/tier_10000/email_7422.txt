@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-08-08 11:02 AM
+Subject: Conference recap â€” Analytics Pro booth results
+
+Hey,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Analytics Pro booth drew consistent traffic throughout.
+
+Lead collection: 181 badge scans at the booth, of which 391ms are
+qualified leads based on our initial review. The BillingModule live demo was the
+biggest draw, and Michael Brennan from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+authentication module roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Analytics Pro had 352ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 181 times since we posted it.
+
+Budget: we came in at $30,533, which is 12% under budget. The savings came
+from sharing the booth infrastructure with the BillingModule partner showcase.
+
+I'll prepare a full ROI analysis by Tuesday, August 1 once we've completed lead follow-up.
+
+Talk soon,
+Laura

@@ -1,0 +1,31 @@
+From: david.okonkwo@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-09-13 12:55 AM
+Subject: Board resolution â€” Analytics Pro approval
+
+Hey,
+
+The board resolution for the Analytics Pro initiative has been drafted and is ready
+for circulation. Here's a summary of the key provisions.
+
+Authorization: the resolution authorizes management to proceed with the MessageBroker
+investment of up to $361,934 over 69 fiscal quarters. This covers development
+costs, infrastructure, and the connection pool vendor contract.
+
+Reporting requirements: management will provide quarterly updates on Analytics Pro
+progress to the board, including financial performance against the $361,934 budget
+and key milestones. Liam Foster from Finance will prepare the reports.
+
+Risk acknowledgment: the resolution includes a risk disclosure covering technology
+risk, market risk, and the competitive landscape in the MessageBroker space. The
+board's fiduciary obligations are addressed in section 69.
+
+Signing: we need signatures from 340ms board members for a valid resolution.
+I've prepared the signature pages and will route via DocuSign on Wednesday, August 27. The
+effective date of the resolution will be the date of the last required signature.
+
+Please review the draft and send any comments by Wednesday, August 27.
+
+Best,
+David

@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-10-22 12:43 AM
+Subject: Beta program update â€” Integration Hub v3.0.0
+
+Hey,
+
+Quick update on the Integration Hub v3.0.0 beta program. We're 20 weeks into
+the beta period with 114ms customers participating.
+
+Usage data: 48% of beta participants have activated the new FileStorageService
+feature. Average daily usage is 20 sessions per user. The event bus
+workflow is being used by 54ms of participants, which exceeds our
+adoption target of 114ms.
+
+Feedback summary: overall sentiment is positive. The top 20 pieces of praise
+relate to the FileStorageService speed improvement and the new event bus interface.
+The top 114ms complaints are about the FileStorageService configuration complexity
+and a confusing error message in the event bus flow.
+
+Bugs found: 20 bugs reported, of which 114ms are critical. Laura Kim
+from Engineering has fixed 54ms of the critical bugs. The remaining one
+is related to the FileStorageService edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Monday, September 20. The GA release is targeted for 20 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Monday, September 20 to finalize the GA scope.
+
+Best regards,
+Amara

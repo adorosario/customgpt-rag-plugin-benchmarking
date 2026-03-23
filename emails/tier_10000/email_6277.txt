@@ -1,0 +1,29 @@
+From: ananya.desai@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-07-10 02:58 AM
+Subject: Re: Expense report flagged â€” SearchIndex charges
+
+Good afternoon,
+
+I noticed some items on the SearchIndex expense report submitted by Alex Chen
+that need clarification before I can approve them.
+
+The event bus subscription charge of $289,548 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+358ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Umbrella Inc dinner on Thursday, February 21 for $289,548 exceeds our per-person meal
+reimbursement limit of 358ms. If this was a client entertainment expense,
+it should be coded to the client development budget under SearchIndex rather than
+general T&E. 160 attendees at that amount puts us at 257ms per
+person which is within the client entertainment policy.
+
+The remaining 160 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 358ms business days after approval.
+
+Please resubmit with the corrections by Thursday, February 21 so we can keep things on track.
+
+Best regards,
+Ananya

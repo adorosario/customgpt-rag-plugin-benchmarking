@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-06-27 05:41 PM
+Subject: Customer feedback digest â€” Integration Hub Q2
+
+Hey everyone,
+
+Here's the quarterly customer feedback digest for Integration Hub. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 172, up 305ms points from last quarter. The improvement
+is driven by the PaymentGateway launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 34%.
+
+Top feature requests: PaymentGateway advanced filtering (172 votes), service mesh
+bulk operations (305ms votes), and enhanced Integration Hub reporting (143ms
+votes). The filtering request aligns with what we heard in the user research study
+Wei Zhang conducted.
+
+Top complaints: PaymentGateway performance during peak hours (172 mentions),
+the service mesh onboarding experience (305ms mentions), and pricing
+transparency (143ms mentions). The performance issue is being addressed
+by Engineering â€” Wei Zhang expects the fix in v3.0.0.
+
+Churn insights: 172 customers churned this quarter citing PaymentGateway
+limitations as the primary reason. The service mesh overhaul on our roadmap directly
+addresses their feedback. 34% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, December 11.
+
+Regards,
+Daniel

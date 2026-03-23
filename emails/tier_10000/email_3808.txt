@@ -1,0 +1,30 @@
+From: hannah.goldstein@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-12 07:17 PM
+Subject: Re: Integration Hub demo feedback from Tyrell Corp
+
+Hello,
+
+Great news from the Tyrell Corp demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the authentication module dashboard got the biggest reaction. Their
+current tool requires 178 manual steps to accomplish what our Integration Hub does
+automatically. The CacheLayer integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 297ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v2.7.3 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Michael Brennan, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Integration Hub trial environment set up for their team of
+178 evaluators. I'll submit the trial request today. Target close date
+remains Tuesday, September 21.
+
+Best regards,
+Hannah

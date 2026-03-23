@@ -1,0 +1,27 @@
+From: hannah.goldstein@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-27 09:35 AM
+Subject: Pipeline update â€” Soylent Corp deal status
+
+Hey,
+
+Quick update on the Soylent Corp opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $139,790 for the Data Vault deployment. The
+decision timeline is end of Q3. Their main concern remains the integration
+with their existing AuthService infrastructure, which is why I've looped in Priya Sharma
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Soylent Corp is also evaluating one other vendor but our
+Data Vault demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our event bus capability.
+
+Next steps: technical architecture session on Monday, June 1, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 17%.
+
+Best regards,
+Hannah

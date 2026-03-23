@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-05 06:16 PM
+Subject: Vendor payment schedule â€” Q3
+
+Hi,
+
+Here's the vendor payment schedule for Q3. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Umbrella Inc invoice for $307,625 is due on Friday, March 4 with a
+16% early payment discount if we pay within 30 days. I recommend
+taking the discount â€” it saves us 324ms. The CacheLayer annual
+license renewal of 79ms is due Friday, March 4 with no discount available.
+
+Standard schedule: 30 vendor invoices totaling $307,625 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-79ms terms with payments going out every 30 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The caching layer vendor
+overbilled us by $307,625 on the CacheLayer usage charges. Ananya Desai is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q3 are projected at $307,625. This
+is 16% higher than last quarter due to the CacheLayer infrastructure
+investment and the Sydney office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Regards,
+Grace

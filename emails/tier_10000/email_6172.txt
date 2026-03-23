@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-10-21 04:24 PM
+Subject: Re: User research findings â€” AnalyticsDashboard
+
+Good morning,
+
+Sharing the findings from the AnalyticsDashboard user research study. We interviewed
+55 users and ran usability tests with 147ms participants over the
+last two weeks.
+
+Key insight 1: users find the rate limiter workflow confusing â€” 18% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between AnalyticsDashboard and the main Insight Engine dashboard.
+
+Key insight 2: power users want more AnalyticsDashboard customization options. They're
+currently using workarounds that involve 55 extra steps. The most requested
+feature is the ability to create custom rate limiter templates.
+
+Key insight 3: new users consistently miss the AnalyticsDashboard feature entirely.
+Discovery is poor â€” only 18% of new users try the feature within their first
+55 days. Yuki Sato suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the rate limiter navigation flow, add the template
+feature to the Q1 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 18% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Cheers,
+Daniel

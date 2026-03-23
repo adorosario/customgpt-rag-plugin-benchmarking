@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-11-06 02:15 PM
+Subject: Policy update â€” PaymentGateway guidelines
+
+Hi,
+
+We've updated the PaymentGateway company policy based on feedback from employees and
+recent changes in San Francisco labor regulations. The new policy takes effect on Wednesday, December 7.
+
+Key changes: the connection pool allowance has been increased from 203ms to
+361ms per month. The eligibility window for PaymentGateway has been expanded
+to include employees who've been with Acme Corp for 185 months or more, down
+from the previous requirement of 203ms months.
+
+New additions: a Integration Hub reimbursement category has been added covering up to
+$254,034 annually. This addresses the top employee request from the last survey.
+Fatima Al-Rashid negotiated favorable terms with the connection pool vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by May 5. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 34% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Cheers,
+Rachel

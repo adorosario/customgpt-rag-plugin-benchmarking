@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-27 04:19 PM
+Subject: Tax planning â€” Q2 estimated payments
+
+Hi,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the SchedulerService investment
+deductions.
+
+Federal estimate: $355,276 based on projected taxable income of 143ms.
+This reflects the SchedulerService depreciation deductions and the R&D tax credit for
+the Sync Platform development costs. Sanjay Krishnamurthy from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $355,276 for our primary jurisdiction and 106ms for the
+Tokyo office based on the apportionment factors. The Tokyo rate change that
+takes effect on Monday, April 19 will impact our Q2 estimate by approximately 47
+percent.
+
+International: with the Tokyo office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Sanjay Krishnamurthy to handle
+the registration. Setup cost is $355,276 with ongoing compliance costs of
+106ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Monday, April 19. I'll prepare the
+payment authorization for your signature by April 4. Underpayment penalties
+start at 48% so timely filing is important.
+
+Best,
+Grace

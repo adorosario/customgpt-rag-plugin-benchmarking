@@ -1,0 +1,28 @@
+From: ravi.patel@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-10-10 09:42 PM
+Subject: Sprint v4.1.0 retrospective notes
+
+Good afternoon,
+
+Here are the retrospective notes from sprint v4.1.0. Thanks to everyone who
+participated â€” we had good engagement this time.
+
+What went well: the DataPipeline feature shipped on time, Sofia Martinez did an excellent
+job coordinating the cross-team dependency, and our CI pipeline reliability improved
+to 65ms from 452ms last sprint.
+
+What could improve: we underestimated the authentication module integration work by about
+27%, which pushed two stories into the next sprint. We also had too many
+context switches mid-sprint from unplanned support requests.
+
+Action items: establish a support rotation so on-call duties don't fall on the same
+people, and break down large stories into smaller increments to improve estimation
+accuracy. Sofia Martinez volunteered to draft the rotation schedule.
+
+Sprint v4.1.0 velocity was 184 points. Carrying over 8 points of unfinished
+work to the next sprint.
+
+Talk soon,
+Ravi

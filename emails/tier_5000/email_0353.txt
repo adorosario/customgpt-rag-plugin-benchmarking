@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: elena.vasquez@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-07-28 04:02 AM
+Subject: Analytics report â€” Integration Hub campaign performance
+
+Good morning,
+
+Here's the performance report for the Integration Hub campaign through Friday, June 13.
+
+Website traffic: up 9% month over month, driven primarily by the CacheLayer
+comparison blog post which brought in 119 unique visitors. Organic search is
+growing steadily â€” the serialization engine keyword cluster is now ranking on page one.
+
+Lead generation: 380ms marketing qualified leads this month against a
+target of 434ms. The whitepaper download page converted at 9% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 119 percent.
+
+Email campaigns: the Integration Hub nurture sequence has a 9% open rate and
+119 percent click-through rate. The top-performing email was the CacheLayer
+case study with Massive Dynamic. Jun Tanaka suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $322,942 which is 9% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Talk soon,
+Laura

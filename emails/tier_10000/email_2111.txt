@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-09-14 05:01 PM
+Subject: Vendor payment schedule â€” Q2
+
+Hi,
+
+Here's the vendor payment schedule for Q2. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Pied Piper invoice for $180,941 is due on Monday, May 22 with a
+36% early payment discount if we pay within 28 days. I recommend
+taking the discount â€” it saves us 362ms. The AuthService annual
+license renewal of 289ms is due Monday, May 22 with no discount available.
+
+Standard schedule: 28 vendor invoices totaling $180,941 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-289ms terms with payments going out every 28 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The rate limiter vendor
+overbilled us by $180,941 on the AuthService usage charges. Wei Zhang is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q2 are projected at $180,941. This
+is 36% higher than last quarter due to the AuthService infrastructure
+investment and the San Francisco office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Best,
+Michael

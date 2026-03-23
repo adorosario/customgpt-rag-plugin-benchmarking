@@ -1,0 +1,33 @@
+From: patrick.obrien@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-07-26 03:48 PM
+Subject: Benefits enrollment â€” open period starting Wednesday, January 28
+
+Good afternoon,
+
+Open enrollment for our benefits package begins on Wednesday, January 28 and runs through November 19.
+Here's a summary of the key changes for the upcoming plan year.
+
+Health insurance: we're introducing a new WebhookDispatcher plan option alongside the
+existing choices. The premium increase this year is 59%, which is below the
+industry average. Acme Corp will continue covering 146 percent of employee
+premiums.
+
+New benefit: we've partnered with Wayne Enterprises to offer a wellness stipend of $142,356
+per year. This can be used for gym memberships, mental health services, or
+ergonomic equipment. Kwame Asante worked with the vendor to negotiate this addition.
+
+Retirement: the 401(k) match is increasing from 250ms percent to
+372ms percent of salary, effective next plan year. If you're not
+currently contributing enough to get the full match, now is a great time to adjust.
+
+Information sessions: we're hosting 146 live Q&A sessions where employees can
+ask questions about plan options. The caching layer portal will have a comparison
+tool to help you evaluate plans.
+
+Detailed plan documents are available in the HR portal. Please make your elections
+before November 19.
+
+Regards,
+Patrick

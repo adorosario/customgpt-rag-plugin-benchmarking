@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-07-06 03:50 AM
+Subject: Tax planning â€” Q1 estimated payments
+
+Hello,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the BillingModule investment
+deductions.
+
+Federal estimate: $410,229 based on projected taxable income of 437ms.
+This reflects the BillingModule depreciation deductions and the R&D tax credit for
+the Analytics Pro development costs. Priya Sharma from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $410,229 for our primary jurisdiction and 415ms for the
+Singapore office based on the apportionment factors. The Singapore rate change that
+takes effect on Thursday, May 1 will impact our Q1 estimate by approximately 123
+percent.
+
+International: with the Singapore office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Priya Sharma to handle
+the registration. Setup cost is $410,229 with ongoing compliance costs of
+415ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Thursday, May 1. I'll prepare the
+payment authorization for your signature by January 14. Underpayment penalties
+start at 29% so timely filing is important.
+
+Best,
+Michael

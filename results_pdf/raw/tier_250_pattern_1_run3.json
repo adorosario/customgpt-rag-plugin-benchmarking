@@ -1,0 +1,21 @@
+{
+  "tier": 250,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "Found it. **email_0030.pdf** (Subject: \"Re: Nexus architecture review\") mentions Project Nexus:\n\n> From: liam.foster@acmecorp.com  \n> To: david.okonkwo@acmecorp.com  \n> Date: 2025-10-15\n\n**Project Nexus** is described as a **cross-platform synchronization project** at Acme Corp. From the email:\n\n- **What it is**: A project involving cross-platform and synchronization aspects\n- **People involved**: Liam Foster (sender of the update) and David Okonkwo (recipient)\n- **Status at time of email**: \"making good progress\" across the Nexus, cross-platform, and synchronization aspects\n\nHowever, the email is quite brief and templated \u00e2\u20ac\u201d it doesn't explicitly name the teams involved beyond Foster and Okonkwo. The subject line \"Nexus architecture review\" suggests it's in an architecture/engineering context.\n\nThis is the only email in the 250-email dataset that directly references Project Nexus. The available information about team composition is limited to what's in that single message.",
+  "time_seconds": 105.0,
+  "num_turns": 96,
+  "cost_usd": 0.82638045,
+  "input_tokens": 15,
+  "cache_creation_tokens": 185327,
+  "cache_read_tokens": 169114,
+  "output_tokens": 5375,
+  "total_tokens": 359831,
+  "duration_api_ms": 91802,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-10-22 05:29 AM
+Subject: Sales engineering request â€” Cyberdyne POC
+
+Hi team,
+
+Requesting SE support for a proof-of-concept with Cyberdyne. This is a $63,748
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Sync Platform can handle 199
+transactions per second with their AuditLog data format. The test needs to
+run against their staging environment and demonstrate the queue processor capability
+under realistic load.
+
+Timeline: Cyberdyne wants the POC completed within 323ms business days
+starting Thursday, May 23. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Derek Morrison for the technical configuration and someone from
+the AuditLog team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q4. Let me know if we can make this timeline work.
+
+Best,
+Aisha

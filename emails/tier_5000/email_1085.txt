@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-20 08:43 PM
+Subject: A/B test results â€” BillingModule experiment
+
+Hi,
+
+The BillingModule A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 71 days with 205ms users in each cohort.
+
+Variant A (control): the existing serialization engine flow. Conversion rate of
+99ms with an average task completion time of 71 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified BillingModule step.
+Conversion rate of 205ms with task completion time of 99ms seconds.
+This represents a 60% improvement in conversion and 71 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 71 to 205ms
+in the treatment group. Support ticket volume for BillingModule related issues
+decreased by 60%. No negative impact on serialization engine engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Mei Lin from Engineering can have this
+deployed by Tuesday, May 1.
+
+One caveat: the test population skewed toward Insight Engine power users. We should
+monitor new user behavior closely for the first 71 weeks after full rollout.
+
+Talk soon,
+Sanjay

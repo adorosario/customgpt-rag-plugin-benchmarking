@@ -1,0 +1,28 @@
+From: derek.morrison@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-06-18 05:17 PM
+Subject: Quarterly territory review â€” Q3
+
+Hi team,
+
+Here's my territory review for Q3. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 191 qualified opportunities worth a combined $396,955 in
+ARR. The largest deal is Weyland-Yutani at 253ms, which I expect to close by
+Thursday, March 20. Three other deals in the 284ms range are progressing through
+procurement.
+
+Wins this quarter: closed Weyland-Yutani for Insight Engine with a 8% upsell from
+their initial scope. The caching layer add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Maria Santos to the Weyland-Yutani executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Talk soon,
+Derek

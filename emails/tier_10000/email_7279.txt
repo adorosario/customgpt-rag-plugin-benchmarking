@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-20 08:59 PM
+Subject: Tax planning â€” Q1 estimated payments
+
+Good afternoon,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the AnalyticsDashboard investment
+deductions.
+
+Federal estimate: $436,191 based on projected taxable income of 408ms.
+This reflects the AnalyticsDashboard depreciation deductions and the R&D tax credit for
+the Sync Platform development costs. Daniel Park from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $436,191 for our primary jurisdiction and 262ms for the
+New York office based on the apportionment factors. The New York rate change that
+takes effect on Wednesday, December 6 will impact our Q1 estimate by approximately 181
+percent.
+
+International: with the New York office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Daniel Park to handle
+the registration. Setup cost is $436,191 with ongoing compliance costs of
+262ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Wednesday, December 6. I'll prepare the
+payment authorization for your signature by April 9. Underpayment penalties
+start at 24% so timely filing is important.
+
+Thanks,
+Ananya

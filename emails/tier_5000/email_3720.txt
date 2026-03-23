@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-21 06:31 AM
+Subject: A/B test results â€” UserProfileService experiment
+
+Hi all,
+
+The UserProfileService A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 14 days with 410ms users in each cohort.
+
+Variant A (control): the existing rate limiter flow. Conversion rate of
+418ms with an average task completion time of 14 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified UserProfileService step.
+Conversion rate of 410ms with task completion time of 418ms seconds.
+This represents a 9% improvement in conversion and 14 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 14 to 410ms
+in the treatment group. Support ticket volume for UserProfileService related issues
+decreased by 9%. No negative impact on rate limiter engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Yuki Sato from Engineering can have this
+deployed by Thursday, August 9.
+
+One caveat: the test population skewed toward Analytics Pro power users. We should
+monitor new user behavior closely for the first 14 weeks after full rollout.
+
+Best,
+Sanjay

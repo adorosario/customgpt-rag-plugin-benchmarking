@@ -1,0 +1,29 @@
+From: fatima.al-rashid@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-09-06 09:08 PM
+Subject: Policy update â€” ReportingEngine guidelines
+
+Good afternoon,
+
+We've updated the ReportingEngine company policy based on feedback from employees and
+recent changes in Sydney labor regulations. The new policy takes effect on Friday, December 23.
+
+Key changes: the serialization engine allowance has been increased from 228ms to
+365ms per month. The eligibility window for ReportingEngine has been expanded
+to include employees who've been with Acme Corp for 159 months or more, down
+from the previous requirement of 228ms months.
+
+New additions: a Data Vault reimbursement category has been added covering up to
+$216,509 annually. This addresses the top employee request from the last survey.
+Jun Tanaka negotiated favorable terms with the serialization engine vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by May 14. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 10% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best,
+Fatima

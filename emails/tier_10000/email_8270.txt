@@ -1,0 +1,30 @@
+From: robert.kimura@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-21 11:33 PM
+Subject: Re: Expense report flagged â€” WebhookDispatcher charges
+
+Hi,
+
+I noticed some items on the WebhookDispatcher expense report submitted by David Okonkwo
+that need clarification before I can approve them.
+
+The queue processor subscription charge of $276,080 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+411ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Stark Industries dinner on Wednesday, August 10 for $276,080 exceeds our per-person meal
+reimbursement limit of 411ms. If this was a client entertainment expense,
+it should be coded to the client development budget under WebhookDispatcher rather than
+general T&E. 114 attendees at that amount puts us at 300ms per
+person which is within the client entertainment policy.
+
+The remaining 114 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 411ms business days after approval.
+
+Please resubmit with the corrections by Wednesday, August 10 so we can keep things on track.
+
+Thanks,
+Robert

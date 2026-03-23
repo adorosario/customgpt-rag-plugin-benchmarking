@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-08-05 11:53 AM
+Subject: Tax planning â€” Q2 estimated payments
+
+Good morning,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the AnalyticsDashboard investment
+deductions.
+
+Federal estimate: $426,097 based on projected taxable income of 260ms.
+This reflects the AnalyticsDashboard depreciation deductions and the R&D tax credit for
+the Insight Engine development costs. Ananya Desai from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $426,097 for our primary jurisdiction and 179ms for the
+Tokyo office based on the apportionment factors. The Tokyo rate change that
+takes effect on Wednesday, March 6 will impact our Q2 estimate by approximately 97
+percent.
+
+International: with the Tokyo office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Ananya Desai to handle
+the registration. Setup cost is $426,097 with ongoing compliance costs of
+179ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Wednesday, March 6. I'll prepare the
+payment authorization for your signature by March 18. Underpayment penalties
+start at 38% so timely filing is important.
+
+Cheers,
+Grace

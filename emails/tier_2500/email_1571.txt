@@ -1,0 +1,29 @@
+From: marcus.thompson@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-09-17 10:12 PM
+Subject: Re: DataPipeline â€” tech debt prioritization
+
+Hi all,
+
+Following up on the tech debt discussion from yesterday's sprint planning. I've
+categorized the outstanding items for DataPipeline into three tiers based on risk
+and effort.
+
+High priority: the deprecated connection pool dependency needs to be replaced before
+Tuesday, March 9 when upstream support ends. This is roughly a 94 effort and Elena Vasquez
+has volunteered to own it.
+
+Medium priority: the test coverage gap in the DataPipeline integration layer. We're
+at 83ms coverage but our target is 206ms. Filling this gap would
+have caught the regression we saw last sprint.
+
+Low priority: the logging format standardization. It's annoying but not blocking
+anything. I'd suggest we tackle it opportunistically when someone is already
+touching those files.
+
+My proposal is to allocate 16% of next sprint's capacity to the high-priority
+item. Thoughts?
+
+Thanks,
+Marcus

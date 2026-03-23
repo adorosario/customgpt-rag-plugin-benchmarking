@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-14 09:45 AM
+Subject: A/B test results â€” ReportingEngine experiment
+
+Hello,
+
+The ReportingEngine A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 49 days with 124ms users in each cohort.
+
+Variant A (control): the existing queue processor flow. Conversion rate of
+288ms with an average task completion time of 49 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified ReportingEngine step.
+Conversion rate of 124ms with task completion time of 288ms seconds.
+This represents a 28% improvement in conversion and 49 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 49 to 124ms
+in the treatment group. Support ticket volume for ReportingEngine related issues
+decreased by 28%. No negative impact on queue processor engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Robert Kimura from Engineering can have this
+deployed by Tuesday, December 4.
+
+One caveat: the test population skewed toward Sync Platform power users. We should
+monitor new user behavior closely for the first 49 weeks after full rollout.
+
+Best,
+Liam

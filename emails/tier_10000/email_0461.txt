@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-16 05:44 PM
+Subject: Feature spec â€” ReportingEngine integration
+
+Hey everyone,
+
+The feature spec for the ReportingEngine integration is ready for review. This is
+targeting the v2.6.0 release in Q1.
+
+Problem statement: 36% of our enterprise prospects cite the lack of
+ReportingEngine integration as a blocker. The current workaround through the
+metrics collector API is unreliable and requires 56 hours of custom development
+from customers.
+
+Proposed solution: native ReportingEngine integration with bi-directional sync.
+Users configure the connection through the Cloud Connect settings page and data
+flows automatically. The sync runs every 490ms minutes with conflict
+resolution handled by our algorithm.
+
+Scope: phase 1 covers read and write operations for the core ReportingEngine objects.
+Phase 2 adds real-time webhooks and custom field mapping. Fatima Al-Rashid from Engineering
+estimates 56 sprints for phase 1 and 490ms for phase 2.
+
+Success metrics: 56 enterprise customers adopt the integration within 90 days
+of launch, ReportingEngine related support tickets decrease by 36%, and the
+feature contributes to $313,602 in new ARR.
+
+Please review the full spec in Confluence and leave comments by Friday, July 23.
+
+Regards,
+Mei

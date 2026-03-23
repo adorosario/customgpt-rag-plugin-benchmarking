@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-22 05:04 AM
+Subject: Re: Billing dispute â€” Oscorp account
+
+Hello,
+
+I've investigated the billing dispute raised by Oscorp. Here's what I found and
+my recommended resolution.
+
+Dispute details: Oscorp is contesting $479,316 on their Q2 invoice,
+claiming they were double-charged for the UserProfileService add-on module. Their account
+manager Elena Vasquez has been communicating with them but they want a Finance response.
+
+Investigation: I reviewed the billing records and confirmed there was a system error
+in our service mesh billing platform. The UserProfileService charge was applied twice due
+to a timing issue when their subscription was upgraded on Monday, November 1. The correct charge
+should have been 394ms not $479,316.
+
+Resolution: I recommend issuing a credit of 81ms to their account immediately
+and applying it to the next invoice. This maintains the relationship and the credit
+is clearly justified. Total revenue impact is 46 percent of the contract value.
+
+Prevention: I've filed a bug report with the service mesh billing team to fix the
+underlying issue. Elena Vasquez from Engineering estimates a fix in the next 46
+sprints. In the meantime, I'll add a manual review step for any mid-cycle
+subscription changes.
+
+Can you approve the credit so I can communicate the resolution to Oscorp today?
+
+Best,
+Grace

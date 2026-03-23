@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-06-12 06:04 AM
+Subject: Analytics report â€” Enterprise Suite campaign performance
+
+Good afternoon,
+
+Here's the performance report for the Enterprise Suite campaign through Monday, July 10.
+
+Website traffic: up 5% month over month, driven primarily by the PaymentGateway
+comparison blog post which brought in 167 unique visitors. Organic search is
+growing steadily â€” the config manager keyword cluster is now ranking on page one.
+
+Lead generation: 414ms marketing qualified leads this month against a
+target of 56ms. The whitepaper download page converted at 5% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 167 percent.
+
+Email campaigns: the Enterprise Suite nurture sequence has a 5% open rate and
+167 percent click-through rate. The top-performing email was the PaymentGateway
+case study with Stark Industries. Yuki Sato suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $95,069 which is 5% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Regards,
+Laura

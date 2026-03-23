@@ -1,0 +1,33 @@
+From: fatima.al-rashid@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-09-08 11:49 AM
+Subject: Re: Workplace safety update â€” SchedulerService
+
+Hello,
+
+Following up on the workplace safety review. The SchedulerService assessment is complete
+and here are the findings and required actions.
+
+Office inspections: all 82 floor areas passed the basic safety checklist.
+The caching layer room needs minor improvements â€” the emergency exit signage has
+faded and one fire extinguisher is due for inspection by Friday, April 8. Hannah Goldstein from
+facilities is handling these items.
+
+Ergonomic assessments: 366ms employees requested desk ergonomic reviews
+this quarter. Common issues include monitor height and chair adjustments. We've
+ordered 82 standing desk converters and 219ms ergonomic chairs based
+on the assessments.
+
+Emergency preparedness: the next fire drill is scheduled for Friday, April 8. All floor
+wardens need to complete the refresher training before then. 52% of wardens
+are current on their certifications.
+
+Incident report: 82 minor incidents were reported this quarter, all resolved
+without injury. The SchedulerService area has been flagged for improved lighting, with
+work scheduled for Friday, April 8.
+
+Please remind your teams about the safety hotline and reporting procedures.
+
+Thanks,
+Fatima

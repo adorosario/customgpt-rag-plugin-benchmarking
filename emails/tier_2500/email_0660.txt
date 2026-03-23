@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-09-16 06:56 AM
+Subject: Sprint planning â€” Cloud Connect sprint v2.1.0
+
+Good morning,
+
+Here's the sprint plan for Cloud Connect sprint v2.1.0. Capacity is 102 story
+points with 213ms engineers available this sprint.
+
+Committed stories: the ReportingEngine integration work carries over from last sprint
+with 312ms points remaining. The new config manager API endpoints are
+estimated at 102 points. The bug fix for the ReportingEngine rendering issue
+is 213ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the config manager performance
+optimization that Robert Kimura has been scouting. It's estimated at 102 points
+and would improve response time by 26%.
+
+Dependencies: the ReportingEngine feature requires the API changes that Robert Kimura
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The config manager work is self-contained.
+
+Risks: Robert Kimura is on-call this sprint which historically reduces their available
+capacity by 26%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Tuesday, August 23. Let me know if the priorities look right.
+
+Regards,
+Liam

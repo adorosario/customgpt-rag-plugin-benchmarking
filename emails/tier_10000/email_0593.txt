@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-07-13 06:31 AM
+Subject: Financial close checklist â€” Q4
+
+Good afternoon,
+
+The Q4 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Insight Engine invoices must be issued by Thursday, May 26. Any revenue recognition
+adjustments for the NotificationEngine contracts need supporting documentation uploaded
+to authentication module. Ravi Patel from Sales must confirm final deal amounts by February 4.
+
+Expenses: all expense reports for Q4 must be submitted by Thursday, May 26. The
+NotificationEngine vendor invoices totaling $84,764 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, NotificationEngine subscription costs,
+and the authentication module usage charges by Thursday, May 26. Any non-standard accruals above
+186ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, NotificationEngine account reconciliation, and
+inter-company balances must be completed by Thursday, May 26. Ravi Patel is handling the
+bank rec. I'll take the inter-company items since they involve the Tokyo entity.
+
+Target: books closed within 40 business days of quarter end. Final reporting
+package to leadership by Thursday, May 26.
+
+Thanks,
+Robert

@@ -1,0 +1,29 @@
+From: aisha.okafor@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-11-18 02:24 AM
+Subject: Re: Insight Engine demo feedback from Hooli
+
+Good afternoon,
+
+Great news from the Hooli demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the event bus dashboard got the biggest reaction. Their
+current tool requires 69 manual steps to accomplish what our Insight Engine does
+automatically. The APIGateway integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 341ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v3.8.1 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Ravi Patel, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Insight Engine trial environment set up for their team of
+69 evaluators. I'll submit the trial request today. Target close date
+remains Tuesday, July 18.
+
+Best regards,
+Aisha

@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-08-18 06:18 AM
+Subject: Re: User research findings â€” UserProfileService
+
+Hey everyone,
+
+Sharing the findings from the UserProfileService user research study. We interviewed
+48 users and ran usability tests with 315ms participants over the
+last two weeks.
+
+Key insight 1: users find the connection pool workflow confusing â€” 35% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between UserProfileService and the main Insight Engine dashboard.
+
+Key insight 2: power users want more UserProfileService customization options. They're
+currently using workarounds that involve 48 extra steps. The most requested
+feature is the ability to create custom connection pool templates.
+
+Key insight 3: new users consistently miss the UserProfileService feature entirely.
+Discovery is poor â€” only 35% of new users try the feature within their first
+48 days. Rachel Nguyen suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the connection pool navigation flow, add the template
+feature to the Q2 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 35% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Cheers,
+Sanjay

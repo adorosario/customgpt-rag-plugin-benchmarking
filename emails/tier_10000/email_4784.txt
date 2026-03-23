@@ -1,0 +1,26 @@
+From: hannah.goldstein@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-11-17 04:07 AM
+Subject: Re: Tyrell Corp renewal â€” risk assessment
+
+Hey everyone,
+
+Following up on the Tyrell Corp renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing NotificationEngine latency issues for the past 92 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Tyrell Corp has mentioned they're evaluating alternatives for their queue processor needs.
+
+The renewal is worth $495,341 annually and is up for renewal at the end of
+Q2. I think we need a proactive retention strategy. My proposal:
+
+First, get Grace Mwangi from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 24% discount
+on the expanded Integration Hub tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Talk soon,
+Hannah

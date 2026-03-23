@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-06-09 03:52 PM
+Subject: Tax planning â€” Q2 estimated payments
+
+Hi all,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the AuthService investment
+deductions.
+
+Federal estimate: $450,315 based on projected taxable income of 51ms.
+This reflects the AuthService depreciation deductions and the R&D tax credit for
+the Integration Hub development costs. Patrick O'Brien from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $450,315 for our primary jurisdiction and 142ms for the
+Sydney office based on the apportionment factors. The Sydney rate change that
+takes effect on Friday, June 4 will impact our Q2 estimate by approximately 41
+percent.
+
+International: with the Sydney office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Patrick O'Brien to handle
+the registration. Setup cost is $450,315 with ongoing compliance costs of
+142ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Friday, June 4. I'll prepare the
+payment authorization for your signature by April 24. Underpayment penalties
+start at 12% so timely filing is important.
+
+Talk soon,
+Robert

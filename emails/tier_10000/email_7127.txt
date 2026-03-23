@@ -1,0 +1,32 @@
+From: rachel.nguyen@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-09-27 12:05 PM
+Subject: Re: Performance review cycle â€” Q4
+
+Good afternoon,
+
+Quick reminder that the Q4 performance review cycle kicks off on Wednesday, October 14.
+Here's the timeline and what's expected from managers.
+
+Self-reviews: employees complete self-assessments by Wednesday, October 14. The template has been
+updated this cycle to include the new MessageBroker competency framework. Ananya Desai
+can walk managers through the changes.
+
+Manager reviews: due two weeks after self-reviews close. Please aim for specific,
+actionable feedback tied to the goals set in the previous cycle. Each review should
+address performance against 22 key objectives and include at least
+174ms development recommendations.
+
+Calibration sessions: department leads will participate in calibration meetings to
+ensure consistency in ratings. The Finance calibration is scheduled for Wednesday, October 14.
+
+Compensation: any merit adjustments recommended during reviews will be processed
+in the following pay period. The total compensation adjustment budget is 27%
+of current payroll, allocated at the department level.
+
+Training on the review tool is available through the caching layer learning portal.
+Reach out to Ananya Desai if you have questions.
+
+Best,
+Rachel

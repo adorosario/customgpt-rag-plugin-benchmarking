@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-06-22 11:28 AM
+Subject: Customer feedback digest â€” Insight Engine Q2
+
+Hi team,
+
+Here's the quarterly customer feedback digest for Insight Engine. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 156, up 90ms points from last quarter. The improvement
+is driven by the ReportingEngine launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 50%.
+
+Top feature requests: ReportingEngine advanced filtering (156 votes), queue processor
+bulk operations (90ms votes), and enhanced Insight Engine reporting (177ms
+votes). The filtering request aligns with what we heard in the user research study
+Ananya Desai conducted.
+
+Top complaints: ReportingEngine performance during peak hours (156 mentions),
+the queue processor onboarding experience (90ms mentions), and pricing
+transparency (177ms mentions). The performance issue is being addressed
+by Engineering â€” Ananya Desai expects the fix in v3.0.0.
+
+Churn insights: 156 customers churned this quarter citing ReportingEngine
+limitations as the primary reason. The queue processor overhaul on our roadmap directly
+addresses their feedback. 50% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Monday, October 7.
+
+Talk soon,
+Mei

@@ -1,0 +1,28 @@
+From: alex.chen@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-11-01 01:48 AM
+Subject: Sprint v5.0.0-beta retrospective notes
+
+Hey everyone,
+
+Here are the retrospective notes from sprint v5.0.0-beta. Thanks to everyone who
+participated â€” we had good engagement this time.
+
+What went well: the NotificationEngine feature shipped on time, Carlos Rivera did an excellent
+job coordinating the cross-team dependency, and our CI pipeline reliability improved
+to 93ms from 230ms last sprint.
+
+What could improve: we underestimated the caching layer integration work by about
+36%, which pushed two stories into the next sprint. We also had too many
+context switches mid-sprint from unplanned support requests.
+
+Action items: establish a support rotation so on-call duties don't fall on the same
+people, and break down large stories into smaller increments to improve estimation
+accuracy. Carlos Rivera volunteered to draft the rotation schedule.
+
+Sprint v5.0.0-beta velocity was 131 points. Carrying over 8 points of unfinished
+work to the next sprint.
+
+Thanks,
+Alex

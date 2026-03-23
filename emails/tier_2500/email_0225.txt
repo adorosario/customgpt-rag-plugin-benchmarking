@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-08-08 07:56 PM
+Subject: Tax planning â€” Q3 estimated payments
+
+Good afternoon,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the AuthService investment
+deductions.
+
+Federal estimate: $76,685 based on projected taxable income of 391ms.
+This reflects the AuthService depreciation deductions and the R&D tax credit for
+the Integration Hub development costs. Tomoko Nakamura from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $76,685 for our primary jurisdiction and 170ms for the
+Singapore office based on the apportionment factors. The Singapore rate change that
+takes effect on Friday, June 2 will impact our Q3 estimate by approximately 162
+percent.
+
+International: with the Singapore office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Tomoko Nakamura to handle
+the registration. Setup cost is $76,685 with ongoing compliance costs of
+170ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Friday, June 2. I'll prepare the
+payment authorization for your signature by August 10. Underpayment penalties
+start at 35% so timely filing is important.
+
+Cheers,
+Robert

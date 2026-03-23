@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-27 02:08 PM
+Subject: Investment proposal â€” NotificationEngine infrastructure
+
+Good morning,
+
+I've prepared the financial analysis for the proposed NotificationEngine infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $297,379 upfront with 292ms in annual operating costs.
+The total 3-year cost of ownership is 97ms compared to the current
+service mesh setup at $297,379 over the same period.
+
+ROI analysis: the projected payback period is 14 months. Key benefits include
+11% reduction in infrastructure management time, improved Data Vault performance
+that supports the revenue growth targets, and elimination of the service mesh
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $297,379 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 11% interest.
+This preserves cash for the Toronto office investment planned for Q2.
+
+Risk factors: technology lock-in with the NotificationEngine vendor, though the 14-year
+contract includes an exit clause after the first year. Yuki Sato from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Wednesday, April 16 to lock in the quoted pricing. The vendor has
+given us a 14-day hold on the current rates.
+
+Regards,
+Robert

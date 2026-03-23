@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-11-20 06:57 PM
+Subject: Payroll adjustment â€” Friday, January 18 cycle
+
+Hi,
+
+Several payroll adjustments need to be processed for the Friday, January 18 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 184 employees received approved raises effective Friday, January 18. The
+total monthly payroll impact is $437,176. The largest increase is for Oluwaseun Adeyemi
+whose compensation moves from 148ms to 244ms based on the promotion
+approved in the Q3 review cycle.
+
+New hires: 184 new employees starting on Friday, January 18 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Oluwaseun Adeyemi
+in People Ops has verified the documentation.
+
+Bonus payouts: the AuthService project completion bonus of $437,176 each goes to
+184 team members. These are one-time payments coded to the Marketing department
+budget. Tax withholding will be calculated at the supplemental rate of 32%.
+
+Deduction changes: 184 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from event bus.
+
+Please approve the batch by June 1 to ensure on-time processing.
+
+Regards,
+Grace

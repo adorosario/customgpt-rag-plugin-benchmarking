@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-08-06 08:33 AM
+Subject: Re: Customer story â€” Globex case study
+
+Hi all,
+
+Great update on the Globex case study. I've finished the first draft and want
+to share the results we're highlighting.
+
+Headline stat: Globex saw a 45% reduction in connection pool processing time
+after deploying Analytics Pro. This translates to $143,165 in annual cost savings
+based on their team size of 19 people.
+
+Story arc: the narrative follows their journey from evaluating CacheLayer
+alternatives to full deployment. The strongest section is the quote from their CTO
+about how Analytics Pro simplified their connection pool workflow.
+
+Approval status: Globex's marketing team has reviewed and approved the draft with
+minor edits. They're comfortable with us publishing by Friday, March 20. Priya Sharma coordinated
+the approval process.
+
+Distribution plan: blog post with pull quotes, one-page PDF for Sales enablement,
+and a 19-minute video summary. The video production is scheduled for next week.
+
+Can you review the draft and send feedback by Friday, March 20? I want to finalize before
+the Q1 campaign kickoff.
+
+Best,
+Laura

@@ -1,0 +1,29 @@
+From: grace.mwangi@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-07-05 05:54 PM
+Subject: Re: Expense report flagged â€” WebhookDispatcher charges
+
+Hey,
+
+I noticed some items on the WebhookDispatcher expense report submitted by Priya Sharma
+that need clarification before I can approve them.
+
+The caching layer subscription charge of $166,602 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+500ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Umbrella Inc dinner on Monday, March 7 for $166,602 exceeds our per-person meal
+reimbursement limit of 500ms. If this was a client entertainment expense,
+it should be coded to the client development budget under WebhookDispatcher rather than
+general T&E. 112 attendees at that amount puts us at 177ms per
+person which is within the client entertainment policy.
+
+The remaining 112 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 500ms business days after approval.
+
+Please resubmit with the corrections by Monday, March 7 so we can keep things on track.
+
+Regards,
+Grace

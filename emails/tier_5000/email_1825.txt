@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-23 04:49 PM
+Subject: A/B test results â€” CacheLayer experiment
+
+Good afternoon,
+
+The CacheLayer A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 107 days with 237ms users in each cohort.
+
+Variant A (control): the existing load balancer flow. Conversion rate of
+416ms with an average task completion time of 107 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified CacheLayer step.
+Conversion rate of 237ms with task completion time of 416ms seconds.
+This represents a 34% improvement in conversion and 107 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 107 to 237ms
+in the treatment group. Support ticket volume for CacheLayer related issues
+decreased by 34%. No negative impact on load balancer engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Ravi Patel from Engineering can have this
+deployed by Tuesday, January 3.
+
+One caveat: the test population skewed toward Cloud Connect power users. We should
+monitor new user behavior closely for the first 107 weeks after full rollout.
+
+Thanks,
+Liam

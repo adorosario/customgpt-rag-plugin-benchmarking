@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-29 02:58 AM
+Subject: Revenue recognition â€” Enterprise Suite contracts
+
+Good morning,
+
+I need to walk through the revenue recognition treatment for the new Enterprise Suite
+contracts signed this quarter. We have 178 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Massive Dynamic contract bundles Enterprise Suite licenses with
+connection pool implementation services. I've determined the standalone selling prices
+and allocated $200,103 to the license component and 281ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 178-month implementation period.
+
+Variable consideration: 209ms contracts include performance bonuses tied to
+WebhookDispatcher uptime metrics. Using the expected value method, I've estimated
+$200,103 in variable consideration based on our historical performance of
+24% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Massive Dynamic amendment added connection pool capacity at
+$200,103 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Jun Tanaka from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Tuesday, December 10.
+
+Talk soon,
+Grace

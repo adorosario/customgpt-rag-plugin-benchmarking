@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-09-03 06:18 PM
+Subject: Analytics report â€” Integration Hub campaign performance
+
+Good morning,
+
+Here's the performance report for the Integration Hub campaign through Tuesday, September 16.
+
+Website traffic: up 33% month over month, driven primarily by the BillingModule
+comparison blog post which brought in 134 unique visitors. Organic search is
+growing steadily â€” the event bus keyword cluster is now ranking on page one.
+
+Lead generation: 420ms marketing qualified leads this month against a
+target of 284ms. The whitepaper download page converted at 33% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 134 percent.
+
+Email campaigns: the Integration Hub nurture sequence has a 33% open rate and
+134 percent click-through rate. The top-performing email was the BillingModule
+case study with Cyberdyne. Mei Lin suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $186,598 which is 33% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Best,
+Yuki

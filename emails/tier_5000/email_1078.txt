@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-06-14 07:49 AM
+Subject: Analytics report â€” Integration Hub campaign performance
+
+Hi all,
+
+Here's the performance report for the Integration Hub campaign through Tuesday, May 10.
+
+Website traffic: up 48% month over month, driven primarily by the SchedulerService
+comparison blog post which brought in 103 unique visitors. Organic search is
+growing steadily â€” the load balancer keyword cluster is now ranking on page one.
+
+Lead generation: 470ms marketing qualified leads this month against a
+target of 421ms. The whitepaper download page converted at 48% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 103 percent.
+
+Email campaigns: the Integration Hub nurture sequence has a 48% open rate and
+103 percent click-through rate. The top-performing email was the SchedulerService
+case study with Oscorp. Michael Brennan suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $152,345 which is 48% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Best regards,
+Laura

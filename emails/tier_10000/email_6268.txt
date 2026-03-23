@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-11-29 10:21 AM
+Subject: Re: Brand guidelines update â€” v2.7.3
+
+Good morning,
+
+The updated brand guidelines v2.7.3 are ready for distribution. Here's a summary
+of the key changes based on the feedback from the design review.
+
+Color palette: we've added AuditLog as a secondary accent color for digital
+assets. The primary palette remains unchanged. All new marketing materials should
+use the updated color tokens starting Friday, November 26.
+
+Typography: switching from the current body font to a more readable alternative
+for long-form content. This applies to the blog, whitepapers, and email templates.
+Elena Vasquez has updated the design system with the new font files.
+
+Logo usage: clarified the minimum size requirements and added guidance for dark
+backgrounds. The Sync Platform sub-brand lock-up is now finalized â€” please stop using
+the interim version.
+
+Templates: updated Google Slides, document, and email templates are in the shared
+drive under the authentication module folder. The old templates will be archived on Friday, November 26.
+
+Please update your bookmarks and flag any materials in production that need to be
+refreshed. Target completion for legacy updates is end of Q2.
+
+Cheers,
+Sofia

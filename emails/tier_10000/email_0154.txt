@@ -1,0 +1,29 @@
+From: dmitri.volkov@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-06-21 06:08 PM
+Subject: Re: Analytics Pro demo feedback from Massive Dynamic
+
+Good afternoon,
+
+Great news from the Massive Dynamic demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the load balancer dashboard got the biggest reaction. Their
+current tool requires 132 manual steps to accomplish what our Analytics Pro does
+automatically. The ReportingEngine integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 113ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v1.9.5 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Mei Lin, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Analytics Pro trial environment set up for their team of
+132 evaluators. I'll submit the trial request today. Target close date
+remains Friday, August 14.
+
+Thanks,
+Dmitri

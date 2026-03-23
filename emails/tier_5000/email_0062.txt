@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-27 02:31 PM
+Subject: Investment proposal â€” WebhookDispatcher infrastructure
+
+Good afternoon,
+
+I've prepared the financial analysis for the proposed WebhookDispatcher infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $372,270 upfront with 245ms in annual operating costs.
+The total 3-year cost of ownership is 404ms compared to the current
+event bus setup at $372,270 over the same period.
+
+ROI analysis: the projected payback period is 15 months. Key benefits include
+24% reduction in infrastructure management time, improved Analytics Pro performance
+that supports the revenue growth targets, and elimination of the event bus
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $372,270 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 24% interest.
+This preserves cash for the Sydney office investment planned for Q2.
+
+Risk factors: technology lock-in with the WebhookDispatcher vendor, though the 15-year
+contract includes an exit clause after the first year. Elena Vasquez from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Monday, February 1 to lock in the quoted pricing. The vendor has
+given us a 15-day hold on the current rates.
+
+Cheers,
+Grace

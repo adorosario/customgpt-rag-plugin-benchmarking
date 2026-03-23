@@ -1,0 +1,27 @@
+From: aisha.okafor@acmecorp.com
+To: derek.morrison@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-10 11:12 PM
+Subject: Re: Pied Piper renewal â€” risk assessment
+
+Hello,
+
+Following up on the Pied Piper renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing APIGateway latency issues for the past 130 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Pied Piper has mentioned they're evaluating alternatives for their metrics collector needs.
+
+The renewal is worth $166,543 annually and is up for renewal at the end of
+Q1. I think we need a proactive retention strategy. My proposal:
+
+First, get Yuki Sato from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 12% discount
+on the expanded Data Vault tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Regards,
+Aisha

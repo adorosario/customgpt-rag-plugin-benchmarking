@@ -1,0 +1,30 @@
+From: aisha.okafor@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-07-10 01:59 PM
+Subject: Client meeting recap â€” Globex Thursday, September 3
+
+Hello,
+
+Recapping today's meeting with Globex. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their MessageBroker
+team lead. From ours: myself, Hannah Goldstein from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their config manager vendors
+from three down to one. Our Data Vault covers 56% of their requirements
+natively. The remaining gap is around MessageBroker integrations, which Hannah Goldstein
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Thursday, September 3 and begin
+implementation in Q3. Budget has been pre-approved at $472,709 for the
+first year.
+
+Action items: send the Data Vault technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their config manager workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Cheers,
+Aisha

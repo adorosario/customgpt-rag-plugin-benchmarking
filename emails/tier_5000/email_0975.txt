@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-28 08:18 PM
+Subject: Cash flow forecast â€” Q3
+
+Hi all,
+
+Attached is the cash flow forecast for Q3. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $20,592 based on the current AR aging
+and sales pipeline. The Oscorp payment of 408ms is expected by Thursday, October 25
+â€” Aisha Okafor from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the ReportingEngine infrastructure
+investment at $20,592. The Berlin office build-out costs will hit in Q3
+with an estimated total of 213ms. Payroll continues at 408ms
+monthly for our 187-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $20,592 in the second month. This provides 187 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Oscorp deal slips from Q3 to next quarter, we'll
+need to draw on the credit facility for $20,592. I've confirmed the line is
+available. Aisha Okafor and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Regards,
+Robert

@@ -1,0 +1,27 @@
+From: aisha.okafor@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-05 03:36 PM
+Subject: Pipeline update â€” Weyland-Yutani deal status
+
+Good morning,
+
+Quick update on the Weyland-Yutani opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $250,683 for the Integration Hub deployment. The
+decision timeline is end of Q3. Their main concern remains the integration
+with their existing NotificationEngine infrastructure, which is why I've looped in Oluwaseun Adeyemi
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Weyland-Yutani is also evaluating one other vendor but our
+Integration Hub demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our queue processor capability.
+
+Next steps: technical architecture session on Monday, June 2, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 9%.
+
+Cheers,
+Aisha

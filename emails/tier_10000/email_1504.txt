@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-11-22 09:23 PM
+Subject: Payroll adjustment â€” Wednesday, August 21 cycle
+
+Good morning,
+
+Several payroll adjustments need to be processed for the Wednesday, August 21 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 165 employees received approved raises effective Wednesday, August 21. The
+total monthly payroll impact is $189,300. The largest increase is for Oluwaseun Adeyemi
+whose compensation moves from 384ms to 103ms based on the promotion
+approved in the Q2 review cycle.
+
+New hires: 165 new employees starting on Wednesday, August 21 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Oluwaseun Adeyemi
+in People Ops has verified the documentation.
+
+Bonus payouts: the ReportingEngine project completion bonus of $189,300 each goes to
+165 team members. These are one-time payments coded to the Engineering department
+budget. Tax withholding will be calculated at the supplemental rate of 60%.
+
+Deduction changes: 165 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from rate limiter.
+
+Please approve the batch by June 7 to ensure on-time processing.
+
+Best,
+Grace

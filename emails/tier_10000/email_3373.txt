@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-09-01 10:01 PM
+Subject: Financial close checklist â€” Q1
+
+Good afternoon,
+
+The Q1 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Cloud Connect invoices must be issued by Thursday, August 28. Any revenue recognition
+adjustments for the AnalyticsDashboard contracts need supporting documentation uploaded
+to serialization engine. Priya Sharma from Sales must confirm final deal amounts by August 4.
+
+Expenses: all expense reports for Q1 must be submitted by Thursday, August 28. The
+AnalyticsDashboard vendor invoices totaling $387,408 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, AnalyticsDashboard subscription costs,
+and the serialization engine usage charges by Thursday, August 28. Any non-standard accruals above
+156ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, AnalyticsDashboard account reconciliation, and
+inter-company balances must be completed by Thursday, August 28. Priya Sharma is handling the
+bank rec. I'll take the inter-company items since they involve the New York entity.
+
+Target: books closed within 97 business days of quarter end. Final reporting
+package to leadership by Thursday, August 28.
+
+Best,
+Ananya

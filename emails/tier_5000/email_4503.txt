@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-22 08:24 PM
+Subject: Budget review â€” Marketing department Q4
+
+Hi,
+
+Here's the Q4 budget review for the Marketing department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $405,416 against a budget of 195ms. The 25% variance is
+primarily driven by the accelerated AnalyticsDashboard hiring that was approved mid-quarter.
+Personnel costs came in at 231ms which includes the 197 new hires.
+
+Overages: the load balancer infrastructure line item exceeded budget by 25% due
+to the unplanned scaling requirements for Data Vault. I've worked with Daniel Park
+from Engineering to project the run rate going forward â€” we should budget an
+additional $405,416 per quarter for this category.
+
+Underspend: the AnalyticsDashboard consulting budget was only 25% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 25%
+of the total annual budget. The main risk is the load balancer cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best regards,
+Ananya

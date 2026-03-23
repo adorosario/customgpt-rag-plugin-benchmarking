@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-05 12:41 PM
+Subject: Re: User research findings â€” ReportingEngine
+
+Hey everyone,
+
+Sharing the findings from the ReportingEngine user research study. We interviewed
+74 users and ran usability tests with 494ms participants over the
+last two weeks.
+
+Key insight 1: users find the config manager workflow confusing â€” 43% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between ReportingEngine and the main Integration Hub dashboard.
+
+Key insight 2: power users want more ReportingEngine customization options. They're
+currently using workarounds that involve 74 extra steps. The most requested
+feature is the ability to create custom config manager templates.
+
+Key insight 3: new users consistently miss the ReportingEngine feature entirely.
+Discovery is poor â€” only 43% of new users try the feature within their first
+74 days. Robert Kimura suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the config manager navigation flow, add the template
+feature to the Q3 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 43% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Thanks,
+Liam

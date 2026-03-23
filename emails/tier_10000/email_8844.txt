@@ -1,0 +1,35 @@
+From: amara.diallo@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-06 09:44 PM
+Subject: Competitive analysis â€” DataPipeline market update
+
+Hi team,
+
+Sharing the latest competitive landscape analysis for the DataPipeline market.
+Several developments this quarter that we should factor into our strategy.
+
+Pied Piper released a major update to their DataPipeline product. Key additions
+include caching layer support and a redesigned dashboard. Their pricing remains at
+$445,543 per seat which undercuts us by 41%. However, their enterprise
+features are still behind ours â€” no SSO, limited API access, and 210ms
+user cap on their standard plan.
+
+Market trends: the DataPipeline category grew 41% year over year. Analyst
+reports are emphasizing caching layer capabilities as the key differentiator for
+enterprise buyers. Our Data Vault scores well on this dimension.
+
+Win/loss analysis: we won 121 of the last 210ms competitive deals.
+Primary win reasons: DataPipeline depth and customer support quality. Primary loss
+reasons: price sensitivity and caching layer ease of use. Sofia Martinez from Sales
+provided the deal-level data.
+
+Recommendations: accelerate the caching layer simplification effort on our roadmap,
+consider a mid-market pricing tier at $445,543 to compete on price, and publish
+more DataPipeline comparison content for SEO.
+
+Full analysis is in the competitive intelligence folder. Let's discuss at the
+strategy meeting on Wednesday, September 11.
+
+Best,
+Amara

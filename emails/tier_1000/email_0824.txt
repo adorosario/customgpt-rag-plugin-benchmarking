@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-10-25 03:12 PM
+Subject: Quarterly territory review â€” Q4
+
+Hi team,
+
+Here's my territory review for Q4. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 121 qualified opportunities worth a combined $258,050 in
+ARR. The largest deal is Hooli at 405ms, which I expect to close by
+Friday, November 11. Three other deals in the 231ms range are progressing through
+procurement.
+
+Wins this quarter: closed Hooli for Data Vault with a 14% upsell from
+their initial scope. The metrics collector add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Fatima Al-Rashid to the Hooli executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Talk soon,
+Dmitri

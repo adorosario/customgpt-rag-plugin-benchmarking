@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-10-24 05:32 PM
+Subject: Sprint planning â€” Analytics Pro sprint v2.4.1
+
+Good morning,
+
+Here's the sprint plan for Analytics Pro sprint v2.4.1. Capacity is 99 story
+points with 117ms engineers available this sprint.
+
+Committed stories: the AnalyticsDashboard integration work carries over from last sprint
+with 176ms points remaining. The new rate limiter API endpoints are
+estimated at 99 points. The bug fix for the AnalyticsDashboard rendering issue
+is 117ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the rate limiter performance
+optimization that Amara Diallo has been scouting. It's estimated at 99 points
+and would improve response time by 46%.
+
+Dependencies: the AnalyticsDashboard feature requires the API changes that Amara Diallo
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The rate limiter work is self-contained.
+
+Risks: Amara Diallo is on-call this sprint which historically reduces their available
+capacity by 46%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Tuesday, January 26. Let me know if the priorities look right.
+
+Regards,
+Amara

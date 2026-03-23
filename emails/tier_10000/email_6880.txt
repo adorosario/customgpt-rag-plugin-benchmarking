@@ -1,0 +1,28 @@
+From: oluwaseun.adeyemi@acmecorp.com
+To: aisha.okafor@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-07-01 03:41 PM
+Subject: Sprint v2.7.3 retrospective notes
+
+Good afternoon,
+
+Here are the retrospective notes from sprint v2.7.3. Thanks to everyone who
+participated â€” we had good engagement this time.
+
+What went well: the FileStorageService feature shipped on time, Dmitri Volkov did an excellent
+job coordinating the cross-team dependency, and our CI pipeline reliability improved
+to 66ms from 448ms last sprint.
+
+What could improve: we underestimated the queue processor integration work by about
+36%, which pushed two stories into the next sprint. We also had too many
+context switches mid-sprint from unplanned support requests.
+
+Action items: establish a support rotation so on-call duties don't fall on the same
+people, and break down large stories into smaller increments to improve estimation
+accuracy. Dmitri Volkov volunteered to draft the rotation schedule.
+
+Sprint v2.7.3 velocity was 70 points. Carrying over 8 points of unfinished
+work to the next sprint.
+
+Cheers,
+Oluwaseun

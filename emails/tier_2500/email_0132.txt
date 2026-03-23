@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-07 12:52 PM
+Subject: Sprint planning â€” Analytics Pro sprint v5.0.0-beta
+
+Hey,
+
+Here's the sprint plan for Analytics Pro sprint v5.0.0-beta. Capacity is 72 story
+points with 282ms engineers available this sprint.
+
+Committed stories: the AuthService integration work carries over from last sprint
+with 105ms points remaining. The new rate limiter API endpoints are
+estimated at 72 points. The bug fix for the AuthService rendering issue
+is 282ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the rate limiter performance
+optimization that Marcus Thompson has been scouting. It's estimated at 72 points
+and would improve response time by 37%.
+
+Dependencies: the AuthService feature requires the API changes that Marcus Thompson
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The rate limiter work is self-contained.
+
+Risks: Marcus Thompson is on-call this sprint which historically reduces their available
+capacity by 37%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, January 28. Let me know if the priorities look right.
+
+Talk soon,
+Sanjay

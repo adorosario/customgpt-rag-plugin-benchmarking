@@ -1,0 +1,35 @@
+From: daniel.park@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-09 06:42 PM
+Subject: Re: Sync Platform metrics review â€” Q3
+
+Hello,
+
+Here are the Sync Platform metrics for Q3. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 70 monthly active users, up 11% quarter over quarter. The
+NotificationEngine feature launch drove a spike in activation â€” 252ms new users
+tried it in the first week. Retention for NotificationEngine users is 408ms
+at 30 days versus 70 percent for non-users.
+
+Engagement: average session duration is 70 minutes. The metrics collector workflow
+sees the highest engagement with users spending 408ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 252ms features
+per session on average, up from 70 last quarter.
+
+Revenue metrics: Sync Platform ARR is at $217,489 with 11% growth quarter over
+quarter. Net revenue retention is 408ms driven by NotificationEngine upsells.
+70 customers expanded their contracts this quarter, with Tomoko Nakamura from Sales
+leading the expansion conversations.
+
+Areas of concern: the metrics collector onboarding funnel has a 11% drop-off at
+step 70. I've scheduled a design sprint for next week to address this.
+Support ticket volume for NotificationEngine increased 70 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Cheers,
+Daniel

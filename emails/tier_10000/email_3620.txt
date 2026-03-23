@@ -1,0 +1,33 @@
+From: james.oduya@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-05 01:00 PM
+Subject: SEO update â€” AnalyticsDashboard keyword rankings
+
+Good afternoon,
+
+Monthly SEO update for our AnalyticsDashboard content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Cloud Connect comparison page climbed from position 476ms to
+position 352ms for our primary keyword. The config manager guide is now
+ranking in the top 154 for three long-tail variations.
+
+Traffic impact: organic sessions are up 52% month over month. The
+AnalyticsDashboard cluster is now driving 154 unique sessions monthly, making it our
+second-highest traffic source behind the Cloud Connect landing page.
+
+Content gaps identified: we're missing content for 476ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q1. Grace Mwangi from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 352ms on mobile after the image
+optimization work. No crawl errors detected. The new config manager documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 154 pages. I'll share the
+outreach plan next week.
+
+Best regards,
+James

@@ -1,0 +1,27 @@
+From: tomoko.nakamura@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-09-13 11:59 PM
+Subject: Sprint v2.6.0 retrospective notes
+
+Hey,
+
+Here are the retrospective notes from sprint v2.6.0. Thanks to everyone who
+participated â€” we had good engagement this time.
+
+What went well: the FileStorageService feature shipped on time, Sofia Martinez did an excellent
+job coordinating the cross-team dependency, and our CI pipeline reliability improved
+to 104ms from 265ms last sprint.
+
+What could improve: we underestimated the rate limiter integration work by about
+49%, which pushed two stories into the next sprint. We also had too many
+context switches mid-sprint from unplanned support requests.
+
+Action items: establish a support rotation so on-call duties don't fall on the same
+people, and break down large stories into smaller increments to improve estimation
+accuracy. Sofia Martinez volunteered to draft the rotation schedule.
+
+Sprint v2.6.0 velocity was 93 points. Carrying over 8 points of unfinished
+work to the next sprint.
+
+Cheers,
+Tomoko

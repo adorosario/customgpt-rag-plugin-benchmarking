@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-03 12:17 AM
+Subject: Tax planning â€” Q3 estimated payments
+
+Hi team,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the APIGateway investment
+deductions.
+
+Federal estimate: $295,404 based on projected taxable income of 304ms.
+This reflects the APIGateway depreciation deductions and the R&D tax credit for
+the Data Vault development costs. Daniel Park from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $295,404 for our primary jurisdiction and 145ms for the
+Toronto office based on the apportionment factors. The Toronto rate change that
+takes effect on Wednesday, November 23 will impact our Q3 estimate by approximately 92
+percent.
+
+International: with the Toronto office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Daniel Park to handle
+the registration. Setup cost is $295,404 with ongoing compliance costs of
+145ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Wednesday, November 23. I'll prepare the
+payment authorization for your signature by April 6. Underpayment penalties
+start at 53% so timely filing is important.
+
+Regards,
+Robert

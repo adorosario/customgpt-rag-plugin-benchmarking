@@ -1,0 +1,27 @@
+From: dmitri.volkov@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-03 02:22 AM
+Subject: Pipeline update â€” Oscorp deal status
+
+Hello,
+
+Quick update on the Oscorp opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $107,922 for the Enterprise Suite deployment. The
+decision timeline is end of Q4. Their main concern remains the integration
+with their existing SearchIndex infrastructure, which is why I've looped in Jun Tanaka
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Oscorp is also evaluating one other vendor but our
+Enterprise Suite demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our serialization engine capability.
+
+Next steps: technical architecture session on Thursday, September 3, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 47%.
+
+Regards,
+Dmitri

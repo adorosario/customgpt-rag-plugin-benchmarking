@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-10-22 10:14 PM
+Subject: A/B test results â€” ReportingEngine experiment
+
+Good afternoon,
+
+The ReportingEngine A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 75 days with 498ms users in each cohort.
+
+Variant A (control): the existing caching layer flow. Conversion rate of
+402ms with an average task completion time of 75 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified ReportingEngine step.
+Conversion rate of 498ms with task completion time of 402ms seconds.
+This represents a 11% improvement in conversion and 75 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 75 to 498ms
+in the treatment group. Support ticket volume for ReportingEngine related issues
+decreased by 11%. No negative impact on caching layer engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Sanjay Krishnamurthy from Engineering can have this
+deployed by Wednesday, May 22.
+
+One caveat: the test population skewed toward Analytics Pro power users. We should
+monitor new user behavior closely for the first 75 weeks after full rollout.
+
+Best regards,
+Mei

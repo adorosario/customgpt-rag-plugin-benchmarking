@@ -1,0 +1,29 @@
+From: robert.kimura@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-08-31 01:56 PM
+Subject: Re: Expense report flagged â€” FileStorageService charges
+
+Hi team,
+
+I noticed some items on the FileStorageService expense report submitted by Ananya Desai
+that need clarification before I can approve them.
+
+The connection pool subscription charge of $427,924 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+233ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Oscorp dinner on Friday, May 14 for $427,924 exceeds our per-person meal
+reimbursement limit of 233ms. If this was a client entertainment expense,
+it should be coded to the client development budget under FileStorageService rather than
+general T&E. 52 attendees at that amount puts us at 409ms per
+person which is within the client entertainment policy.
+
+The remaining 52 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 233ms business days after approval.
+
+Please resubmit with the corrections by Friday, May 14 so we can keep things on track.
+
+Thanks,
+Robert

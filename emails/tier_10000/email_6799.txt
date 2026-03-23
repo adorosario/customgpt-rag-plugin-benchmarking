@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-05 10:14 PM
+Subject: Beta program update â€” Insight Engine v3.2.2
+
+Hi all,
+
+Quick update on the Insight Engine v3.2.2 beta program. We're 14 weeks into
+the beta period with 202ms customers participating.
+
+Usage data: 42% of beta participants have activated the new SchedulerService
+feature. Average daily usage is 14 sessions per user. The config manager
+workflow is being used by 395ms of participants, which exceeds our
+adoption target of 202ms.
+
+Feedback summary: overall sentiment is positive. The top 14 pieces of praise
+relate to the SchedulerService speed improvement and the new config manager interface.
+The top 202ms complaints are about the SchedulerService configuration complexity
+and a confusing error message in the config manager flow.
+
+Bugs found: 14 bugs reported, of which 202ms are critical. Elena Vasquez
+from Engineering has fixed 395ms of the critical bugs. The remaining one
+is related to the SchedulerService edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Monday, August 28. The GA release is targeted for 14 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Monday, August 28 to finalize the GA scope.
+
+Best regards,
+Sanjay

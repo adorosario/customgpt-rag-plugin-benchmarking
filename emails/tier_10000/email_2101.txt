@@ -1,0 +1,33 @@
+From: amara.diallo@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-12 10:54 AM
+Subject: Roadmap update â€” Analytics Pro Q1
+
+Hey,
+
+Here's the updated Analytics Pro roadmap for Q1. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the AnalyticsDashboard integration feature launches on Wednesday, February 8. This is our
+top customer request with 157 votes on the feedback board. Marcus Thompson from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the metrics collector overhaul is scoped for mid-Q1. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 157 sprints with 310ms engineers allocated.
+
+Exploring: the AnalyticsDashboard AI feature that Sales has been requesting. We need more
+user research before committing â€” Marcus Thompson is running interviews with 157
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the metrics collector redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 157-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Best,
+Amara

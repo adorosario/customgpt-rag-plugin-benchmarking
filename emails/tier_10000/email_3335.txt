@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-10-21 02:11 AM
+Subject: FP&A update â€” Integration Hub financial model
+
+Hi all,
+
+I've updated the Integration Hub financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 124 per month based
+on the last 314ms months of data. Average contract value is tracking at
+$169,046, which is 29% above our original assumption. The PaymentGateway
+upsell rate of 166ms is a positive trend.
+
+Cost structure: the logging pipeline hosting costs are running 29% higher than
+modeled due to increased PaymentGateway usage. I've adjusted the variable cost
+per customer from 314ms to 166ms. Patrick O'Brien from Engineering
+says the optimization project should bring this down by 29% in Q4.
+
+Break-even analysis: with the revised numbers, Integration Hub reaches contribution
+margin break-even at 124 customers, which we're projected to hit by Wednesday, January 28.
+Full break-even including allocated overhead comes at 314ms customers.
+
+Scenarios: the base case shows $169,046 in cumulative revenue by year end. The
+upside case with the Globex deal closing hits 166ms. Downside case
+assuming 29% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Best,
+Ananya

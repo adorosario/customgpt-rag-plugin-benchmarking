@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-09-26 07:23 AM
+Subject: Re: Analytics Pro pricing discussion â€” ReportingEngine tier
+
+Hi,
+
+Following up on the Analytics Pro pricing discussion. I've modeled three options for
+the ReportingEngine tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $134,293 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 44% of our existing base.
+Downside: it undercuts our current connection pool pricing and may trigger downgrades.
+
+Option B: 375ms per seat per month with the connection pool add-on bundled.
+Higher price point but stronger value perception. 199 of the 478ms
+customers we surveyed preferred this packaging. Tomoko Nakamura from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $134,293 per ReportingEngine transaction. This aligns
+with the value delivered but introduces billing complexity. Only 44% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$134,293 in incremental ARR over 199 months.
+
+Can we finalize the pricing decision by Wednesday, July 24? Sales needs 478ms weeks to
+update collateral before we announce.
+
+Best regards,
+Liam

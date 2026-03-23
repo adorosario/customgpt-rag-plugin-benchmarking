@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-31 12:57 PM
+Subject: Tax planning â€” Q4 estimated payments
+
+Hello,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the SearchIndex investment
+deductions.
+
+Federal estimate: $356,438 based on projected taxable income of 259ms.
+This reflects the SearchIndex depreciation deductions and the R&D tax credit for
+the Data Vault development costs. James Oduya from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $356,438 for our primary jurisdiction and 60ms for the
+Toronto office based on the apportionment factors. The Toronto rate change that
+takes effect on Tuesday, April 8 will impact our Q4 estimate by approximately 197
+percent.
+
+International: with the Toronto office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged James Oduya to handle
+the registration. Setup cost is $356,438 with ongoing compliance costs of
+60ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Tuesday, April 8. I'll prepare the
+payment authorization for your signature by October 18. Underpayment penalties
+start at 56% so timely filing is important.
+
+Best regards,
+Robert

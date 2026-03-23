@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-07-11 06:51 AM
+Subject: Weekly pipeline review â€” Tuesday, May 13
+
+Hi team,
+
+Here's the pipeline summary ahead of our weekly review meeting on Tuesday, May 13.
+
+Total pipeline value: $48,899. Weighted pipeline: 116ms. We need
+194ms more in closed-won revenue to hit the Q1 target.
+
+Deals moving forward: Soylent Corp is in final contract review and should close this
+week. Two mid-market opportunities in the Sync Platform space progressed to technical
+evaluation stage.
+
+At risk: one enterprise deal has gone quiet after we submitted pricing. Daniel Park
+is trying to reconnect with the champion. Another account pushed their evaluation
+to next Q1 due to internal restructuring.
+
+New leads: generated 38 new qualified leads from the conference last week.
+The WebhookDispatcher demo was particularly well received. I've started outreach and
+have initial calls booked for 6% of them.
+
+Will walk through the details and forecasting adjustments in the meeting.
+
+Thanks,
+Hannah

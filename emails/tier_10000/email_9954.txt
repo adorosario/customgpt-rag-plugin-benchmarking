@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-14 05:49 PM
+Subject: Re: Billing dispute â€” Tyrell Corp account
+
+Hello,
+
+I've investigated the billing dispute raised by Tyrell Corp. Here's what I found and
+my recommended resolution.
+
+Dispute details: Tyrell Corp is contesting $132,182 on their Q4 invoice,
+claiming they were double-charged for the UserProfileService add-on module. Their account
+manager Fatima Al-Rashid has been communicating with them but they want a Finance response.
+
+Investigation: I reviewed the billing records and confirmed there was a system error
+in our logging pipeline billing platform. The UserProfileService charge was applied twice due
+to a timing issue when their subscription was upgraded on Thursday, February 18. The correct charge
+should have been 75ms not $132,182.
+
+Resolution: I recommend issuing a credit of 65ms to their account immediately
+and applying it to the next invoice. This maintains the relationship and the credit
+is clearly justified. Total revenue impact is 174 percent of the contract value.
+
+Prevention: I've filed a bug report with the logging pipeline billing team to fix the
+underlying issue. Fatima Al-Rashid from Engineering estimates a fix in the next 174
+sprints. In the meantime, I'll add a manual review step for any mid-cycle
+subscription changes.
+
+Can you approve the credit so I can communicate the resolution to Tyrell Corp today?
+
+Thanks,
+Robert

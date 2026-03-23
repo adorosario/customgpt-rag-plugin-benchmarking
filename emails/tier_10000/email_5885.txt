@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-09-18 07:47 PM
+Subject: Budget review â€” Marketing department Q2
+
+Good afternoon,
+
+Here's the Q2 budget review for the Marketing department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $376,133 against a budget of 451ms. The 32% variance is
+primarily driven by the accelerated ReportingEngine hiring that was approved mid-quarter.
+Personnel costs came in at 135ms which includes the 112 new hires.
+
+Overages: the metrics collector infrastructure line item exceeded budget by 32% due
+to the unplanned scaling requirements for Analytics Pro. I've worked with Michael Brennan
+from Engineering to project the run rate going forward â€” we should budget an
+additional $376,133 per quarter for this category.
+
+Underspend: the ReportingEngine consulting budget was only 32% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 32%
+of the total annual budget. The main risk is the metrics collector cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best,
+Ananya

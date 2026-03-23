@@ -1,0 +1,21 @@
+{
+  "tier": 5000,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the emails in this directory, here's what the emails reveal about **Project Nexus**:\n\n## What is Project Nexus\n\nA cross-platform synchronization project at acmecorp.com. Key focus areas mentioned across emails:\n- Cross-platform compatibility\n- Synchronization\n- Conflict resolution module\n- API design\n- Performance benchmarking\n\nEmail subjects indicate active work on: code review, architecture review, launch timeline, sprint planning, and milestone tracking.\n\n## Teams Involved\n\n**Team distribution lists:**\n- `engineering@acmecorp.com` \u00e2\u20ac\u201d CC'd in milestone update emails\n- `product@acmecorp.com` \u00e2\u20ac\u201d CC'd in sprint planning emails\n\n**Individual contributors mentioned:**\n| Name | Email | Role context |\n|------|-------|--------------|\n| Ravi Patel | ravi.patel@acmecorp.com | Milestone updates |\n| Priya Sharma | priya.sharma@acmecorp.com | Milestone updates |\n| Liam Foster | liam.foster@acmecorp.com | Sprint planning, architecture review |\n| Tomoko Nakamura | tomoko.nakamura@acmecorp.com | Cross-platform sync spec |\n| Sofia Martinez | sofia.martinez@acmecorp.com | Sync spec, API design |\n| Mei | \u00e2\u20ac\u201d | API design |\n| Wei | \u00e2\u20ac\u201d | Performance benchmarks |\n| Oluwaseun | \u00e2\u20ac\u201d | Launch timeline |\n| Marcus | \u00e2\u20ac\u201d | Code review |\n| Kwame | \u00e2\u20ac\u201d | Code review recipient |\n| Derek | \u00e2\u20ac\u201d | Launch timeline, performance benchmarks |\n| David | \u00e2\u20ac\u201d | Architecture review |\n\nThe project spans at least **Engineering** and **Product** teams, with cross-functional involvement in API design, performance, and launch planning.",
+  "time_seconds": 48.76,
+  "num_turns": 4,
+  "cost_usd": 0.12716249999999998,
+  "input_tokens": 6,
+  "cache_creation_tokens": 19284,
+  "cache_read_tokens": 104765,
+  "output_tokens": 1560,
+  "total_tokens": 125615,
+  "duration_api_ms": 33949,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

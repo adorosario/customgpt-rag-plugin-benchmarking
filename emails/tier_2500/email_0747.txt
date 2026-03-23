@@ -1,0 +1,29 @@
+From: alex.chen@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-11-25 11:08 AM
+Subject: Feature flag cleanup â€” PaymentGateway v1.9.5
+
+Hello,
+
+Time for our quarterly feature flag cleanup in PaymentGateway. We have 52 flags
+in the system and several of them are stale.
+
+Flags to remove: the authentication module migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The PaymentGateway experiment flag
+was concluded last sprint with a decision to ship â€” James Oduya will hardcode the
+winning variant.
+
+Flags to keep: the v1.9.5 rollout flag should stay until we've confirmed
+stability at 144ms traffic. The authentication module kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 86ms lines of dead code and simplify the conditional logic in
+29% of the affected modules.
+
+Please claim the tickets for flags in your area by Monday, January 28. Target completion is end
+of sprint.
+
+Best regards,
+Alex

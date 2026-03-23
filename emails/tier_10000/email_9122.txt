@@ -1,0 +1,33 @@
+From: fatima.al-rashid@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-06-27 04:37 PM
+Subject: Benefits enrollment â€” open period starting Monday, February 17
+
+Hi all,
+
+Open enrollment for our benefits package begins on Monday, February 17 and runs through December 21.
+Here's a summary of the key changes for the upcoming plan year.
+
+Health insurance: we're introducing a new APIGateway plan option alongside the
+existing choices. The premium increase this year is 58%, which is below the
+industry average. Acme Corp will continue covering 27 percent of employee
+premiums.
+
+New benefit: we've partnered with Globex to offer a wellness stipend of $456,378
+per year. This can be used for gym memberships, mental health services, or
+ergonomic equipment. Maria Santos worked with the vendor to negotiate this addition.
+
+Retirement: the 401(k) match is increasing from 128ms percent to
+195ms percent of salary, effective next plan year. If you're not
+currently contributing enough to get the full match, now is a great time to adjust.
+
+Information sessions: we're hosting 27 live Q&A sessions where employees can
+ask questions about plan options. The event bus portal will have a comparison
+tool to help you evaluate plans.
+
+Detailed plan documents are available in the HR portal. Please make your elections
+before December 21.
+
+Best,
+Fatima

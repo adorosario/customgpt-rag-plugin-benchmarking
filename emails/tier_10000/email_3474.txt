@@ -1,0 +1,30 @@
+From: ravi.patel@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-11-25 03:49 PM
+Subject: Monitoring alert tuning â€” PaymentGateway
+
+Hi all,
+
+I've completed the monitoring alert tuning for PaymentGateway that we prioritized
+after last month's false alarm fatigue. Here's what changed.
+
+Removed: 4 alerts that hadn't produced a true positive in over 90 days. These
+were legacy thresholds from before the serialization engine migration.
+
+Adjusted: the PaymentGateway latency alert threshold moved from 50ms to
+104ms based on the new baseline after the optimization work. The
+error rate alert now uses a 94-minute sliding window instead of instantaneous
+readings to reduce noise.
+
+Added: a new composite alert that fires only when both latency and error rate
+degrade simultaneously. This should catch real incidents while filtering out
+transient spikes. Mei Lin helped design the correlation logic.
+
+Results so far: in the two weeks since these changes, alert volume is down 47%
+and the signal-to-noise ratio has improved significantly. No incidents were missed
+during this period.
+
+Let me know if your team is seeing similar alert fatigue â€” happy to help tune.
+
+Talk soon,
+Ravi

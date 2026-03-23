@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-08-22 01:24 PM
+Subject: FP&A update â€” Data Vault financial model
+
+Hey,
+
+I've updated the Data Vault financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 181 per month based
+on the last 203ms months of data. Average contract value is tracking at
+$284,072, which is 9% above our original assumption. The UserProfileService
+upsell rate of 362ms is a positive trend.
+
+Cost structure: the connection pool hosting costs are running 9% higher than
+modeled due to increased UserProfileService usage. I've adjusted the variable cost
+per customer from 203ms to 362ms. Michael Brennan from Engineering
+says the optimization project should bring this down by 9% in Q3.
+
+Break-even analysis: with the revised numbers, Data Vault reaches contribution
+margin break-even at 181 customers, which we're projected to hit by Friday, October 16.
+Full break-even including allocated overhead comes at 203ms customers.
+
+Scenarios: the base case shows $284,072 in cumulative revenue by year end. The
+upside case with the Weyland-Yutani deal closing hits 362ms. Downside case
+assuming 9% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Talk soon,
+Ananya

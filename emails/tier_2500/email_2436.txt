@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-10-09 03:36 AM
+Subject: Tax planning â€” Q4 estimated payments
+
+Good afternoon,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the APIGateway investment
+deductions.
+
+Federal estimate: $100,772 based on projected taxable income of 335ms.
+This reflects the APIGateway depreciation deductions and the R&D tax credit for
+the Analytics Pro development costs. Priya Sharma from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $100,772 for our primary jurisdiction and 132ms for the
+Berlin office based on the apportionment factors. The Berlin rate change that
+takes effect on Friday, September 5 will impact our Q4 estimate by approximately 135
+percent.
+
+International: with the Berlin office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Priya Sharma to handle
+the registration. Setup cost is $100,772 with ongoing compliance costs of
+132ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Friday, September 5. I'll prepare the
+payment authorization for your signature by October 3. Underpayment penalties
+start at 51% so timely filing is important.
+
+Regards,
+Grace

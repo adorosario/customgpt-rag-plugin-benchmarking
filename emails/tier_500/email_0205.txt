@@ -1,0 +1,34 @@
+From: maria.santos@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-07-02 05:30 PM
+Subject: Contract review â€” Umbrella Inc agreement
+
+Hello,
+
+I've completed the review of the Umbrella Inc agreement and have several items that
+need attention before we can proceed to execution.
+
+Liability cap: the current draft limits liability to $450,945, which is below our
+standard threshold of 95ms for deals of this size. I recommend pushing back
+to at least 136ms. Amara Diallo from Sales should be prepared for this
+negotiation point.
+
+IP assignment clause: section 7.3 includes an overly broad IP assignment that could
+capture pre-existing work product. I've drafted narrower language that protects our
+existing UserProfileService IP while still meeting Umbrella Inc's requirements for the
+Data Vault deliverables.
+
+Data processing: the DPA needs to be updated to reflect the new rate limiter
+architecture. Since data will transit through the New York data center, we need to
+ensure compliance with local data residency requirements.
+
+Indemnification: the mutual indemnification provisions are reasonable. I've accepted
+them with minor clarifications on the notice period â€” changed from 186 to
+95ms business days.
+
+I'll send the redlined version by Tuesday, November 24. Please review the business terms and
+confirm the commercial intent before I finalize.
+
+Best,
+Maria

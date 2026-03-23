@@ -1,0 +1,29 @@
+From: priya.sharma@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-10-13 12:59 AM
+Subject: Feature flag cleanup â€” WebhookDispatcher v1.9.5
+
+Good morning,
+
+Time for our quarterly feature flag cleanup in WebhookDispatcher. We have 86 flags
+in the system and several of them are stale.
+
+Flags to remove: the rate limiter migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The WebhookDispatcher experiment flag
+was concluded last sprint with a decision to ship â€” Ravi Patel will hardcode the
+winning variant.
+
+Flags to keep: the v1.9.5 rollout flag should stay until we've confirmed
+stability at 84ms traffic. The rate limiter kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 459ms lines of dead code and simplify the conditional logic in
+52% of the affected modules.
+
+Please claim the tickets for flags in your area by Wednesday, September 21. Target completion is end
+of sprint.
+
+Best,
+Priya

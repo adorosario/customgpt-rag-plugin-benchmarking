@@ -1,0 +1,30 @@
+From: ananya.desai@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-13 08:09 PM
+Subject: Re: Expense report flagged â€” SchedulerService charges
+
+Hi all,
+
+I noticed some items on the SchedulerService expense report submitted by Dmitri Volkov
+that need clarification before I can approve them.
+
+The queue processor subscription charge of $280,777 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+329ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Oscorp dinner on Monday, July 26 for $280,777 exceeds our per-person meal
+reimbursement limit of 329ms. If this was a client entertainment expense,
+it should be coded to the client development budget under SchedulerService rather than
+general T&E. 155 attendees at that amount puts us at 173ms per
+person which is within the client entertainment policy.
+
+The remaining 155 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 329ms business days after approval.
+
+Please resubmit with the corrections by Monday, July 26 so we can keep things on track.
+
+Talk soon,
+Ananya

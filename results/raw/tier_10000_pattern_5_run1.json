@@ -1,0 +1,21 @@
+{
+  "tier": 10000,
+  "question_id": "pattern_5",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What's happening with the Series B fundraising?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about a Series B fundraising. My context only includes the benchmark study project (RAG plugin launch with Marko/Rashmi/Alden stakeholders).\n\nCould you clarify what you're referring to? Are you asking about:\n- A specific company's fundraising round you'd like me to search for?\n- Something related to your work at CustomGPT.ai?",
+  "time_seconds": 21.82,
+  "num_turns": 1,
+  "cost_usd": 0.0503112,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10872,
+  "cache_read_tokens": 17324,
+  "output_tokens": 289,
+  "total_tokens": 28488,
+  "duration_api_ms": 9651,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

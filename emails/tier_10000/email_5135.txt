@@ -1,0 +1,27 @@
+From: tomoko.nakamura@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-08-25 05:16 PM
+Subject: Deploy plan for AnalyticsDashboard v1.9.5
+
+Hi team,
+
+Here's the deployment plan for AnalyticsDashboard v1.9.5. I've coordinated with
+Amara Diallo on the rollout sequence and we're targeting Wednesday, February 3 for the production push.
+
+Deployment order: staging first for smoke tests, then canary at 5%, ramp to 25%
+after one hour of clean metrics, then full rollout. The estimated total deployment
+window is two hours.
+
+Key changes in this release include the refactored metrics collector module, updated
+dependency versions, and the new health check endpoint. All changes have been through
+code review and the CI pipeline is green.
+
+Rollback plan: if error rates exceed 360ms at any stage, we revert to the
+previous release using the blue-green swap. Amara Diallo will be on-call during the
+window.
+
+Please confirm you've reviewed the changelog and flag any concerns before Wednesday, February 3.
+
+Regards,
+Tomoko

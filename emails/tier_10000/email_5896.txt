@@ -1,0 +1,28 @@
+From: yuki.sato@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-09-22 04:04 PM
+Subject: Enterprise Suite campaign launch â€” Q4 plan
+
+Hi team,
+
+Here's the campaign plan for the Enterprise Suite launch in Q4. I've aligned the
+messaging with the positioning we finalized last week and mapped out the channel
+strategy.
+
+Campaign theme: highlighting the NotificationEngine advantage and how Enterprise Suite solves
+the key pain point around service mesh complexity. Target audience is mid-market
+and enterprise IT decision makers.
+
+Channel breakdown: 38% of budget to paid digital, 67 to content
+marketing, and the remainder to events and webinars. We're targeting a $489,459
+total spend with a goal of 456ms marketing qualified leads.
+
+Content deliverables: landing page, solution brief, customer case study featuring
+Massive Dynamic, three blog posts, and a webinar co-hosted with Daniel Park from Product.
+All assets target completion by Friday, June 4.
+
+The paid campaign goes live two weeks before the official launch to build awareness.
+I'll share the creative brief for review tomorrow.
+
+Best regards,
+Yuki

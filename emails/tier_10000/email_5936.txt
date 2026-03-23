@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-06-14 11:24 PM
+Subject: Weekly pipeline review â€” Tuesday, July 24
+
+Good morning,
+
+Here's the pipeline summary ahead of our weekly review meeting on Tuesday, July 24.
+
+Total pipeline value: $191,712. Weighted pipeline: 164ms. We need
+164ms more in closed-won revenue to hit the Q4 target.
+
+Deals moving forward: Wayne Enterprises is in final contract review and should close this
+week. Two mid-market opportunities in the Integration Hub space progressed to technical
+evaluation stage.
+
+At risk: one enterprise deal has gone quiet after we submitted pricing. Priya Sharma
+is trying to reconnect with the champion. Another account pushed their evaluation
+to next Q4 due to internal restructuring.
+
+New leads: generated 122 new qualified leads from the conference last week.
+The FileStorageService demo was particularly well received. I've started outreach and
+have initial calls booked for 38% of them.
+
+Will walk through the details and forecasting adjustments in the meeting.
+
+Best regards,
+Dmitri

@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-04 09:38 PM
+Subject: Payroll adjustment â€” Wednesday, September 4 cycle
+
+Hey everyone,
+
+Several payroll adjustments need to be processed for the Wednesday, September 4 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 141 employees received approved raises effective Wednesday, September 4. The
+total monthly payroll impact is $214,432. The largest increase is for Dmitri Volkov
+whose compensation moves from 267ms to 146ms based on the promotion
+approved in the Q3 review cycle.
+
+New hires: 141 new employees starting on Wednesday, September 4 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Dmitri Volkov
+in People Ops has verified the documentation.
+
+Bonus payouts: the UserProfileService project completion bonus of $214,432 each goes to
+141 team members. These are one-time payments coded to the Legal department
+budget. Tax withholding will be calculated at the supplemental rate of 30%.
+
+Deduction changes: 141 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from config manager.
+
+Please approve the batch by April 10 to ensure on-time processing.
+
+Cheers,
+Robert

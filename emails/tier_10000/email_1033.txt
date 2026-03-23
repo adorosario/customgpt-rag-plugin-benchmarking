@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-27 04:34 PM
+Subject: Tax planning â€” Q4 estimated payments
+
+Hi team,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the NotificationEngine investment
+deductions.
+
+Federal estimate: $410,139 based on projected taxable income of 61ms.
+This reflects the NotificationEngine depreciation deductions and the R&D tax credit for
+the Insight Engine development costs. David Okonkwo from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $410,139 for our primary jurisdiction and 88ms for the
+Berlin office based on the apportionment factors. The Berlin rate change that
+takes effect on Monday, January 23 will impact our Q4 estimate by approximately 98
+percent.
+
+International: with the Berlin office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged David Okonkwo to handle
+the registration. Setup cost is $410,139 with ongoing compliance costs of
+88ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Monday, January 23. I'll prepare the
+payment authorization for your signature by September 9. Underpayment penalties
+start at 19% so timely filing is important.
+
+Thanks,
+Robert

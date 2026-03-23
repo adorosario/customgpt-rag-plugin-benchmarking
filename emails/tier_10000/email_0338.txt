@@ -1,0 +1,34 @@
+From: maria.santos@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-07-21 08:33 AM
+Subject: Insurance renewal â€” Q3 review
+
+Good afternoon,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Oscorp has offered a renewal at $62,804 per year, which is a
+15% increase from last year. Coverage limits remain the same at 96ms
+for general liability and 245ms for the BillingModule professional liability
+policy.
+
+Alternative quotes: I obtained 134 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 15% discount, but they
+have a 245ms-day waiting period for connection pool claims that our current
+policy doesn't have.
+
+Recommendation: stay with Oscorp and negotiate the premium increase down to
+15%. Their claims experience is strong â€” they processed our BillingModule
+claim in 134 business days last year. Carlos Rivera from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+245ms to $62,804 given the growth in Sync Platform customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Tuesday, June 1 to avoid a coverage lapse. Let me know your preference.
+
+Thanks,
+Maria

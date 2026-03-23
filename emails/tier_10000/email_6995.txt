@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-26 02:21 AM
+Subject: Beta program update â€” Sync Platform v1.9.5
+
+Hello,
+
+Quick update on the Sync Platform v1.9.5 beta program. We're 90 weeks into
+the beta period with 277ms customers participating.
+
+Usage data: 36% of beta participants have activated the new SchedulerService
+feature. Average daily usage is 90 sessions per user. The caching layer
+workflow is being used by 434ms of participants, which exceeds our
+adoption target of 277ms.
+
+Feedback summary: overall sentiment is positive. The top 90 pieces of praise
+relate to the SchedulerService speed improvement and the new caching layer interface.
+The top 277ms complaints are about the SchedulerService configuration complexity
+and a confusing error message in the caching layer flow.
+
+Bugs found: 90 bugs reported, of which 277ms are critical. Derek Morrison
+from Engineering has fixed 434ms of the critical bugs. The remaining one
+is related to the SchedulerService edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Tuesday, December 3. The GA release is targeted for 90 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Tuesday, December 3 to finalize the GA scope.
+
+Talk soon,
+Mei

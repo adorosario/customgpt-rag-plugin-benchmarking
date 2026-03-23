@@ -1,0 +1,29 @@
+From: aisha.okafor@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-09 02:09 PM
+Subject: New lead â€” Cyberdyne inbound request
+
+Good afternoon,
+
+We received an inbound request from Cyberdyne through the website today. They're
+a 62-employee company in the BillingModule space and are looking for a
+Cloud Connect solution.
+
+Initial qualification: they have budget allocated for Q2, their current
+contract with their existing vendor expires on Monday, March 18, and the decision maker is
+their VP of Operations. They found us through the logging pipeline whitepaper we
+published last month.
+
+The estimated deal size is $455,887 based on their seat count and the use case
+they described. They specifically mentioned needing the BillingModule integration
+and 344ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Maria Santos â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on logging pipeline scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Best,
+Aisha

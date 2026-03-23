@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-09-09 08:23 PM
+Subject: Quarterly territory review â€” Q1
+
+Hey everyone,
+
+Here's my territory review for Q1. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 187 qualified opportunities worth a combined $379,783 in
+ARR. The largest deal is Stark Industries at 387ms, which I expect to close by
+Thursday, October 20. Three other deals in the 182ms range are progressing through
+procurement.
+
+Wins this quarter: closed Stark Industries for Enterprise Suite with a 45% upsell from
+their initial scope. The caching layer add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Elena Vasquez to the Stark Industries executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Thanks,
+Aisha

@@ -1,0 +1,27 @@
+From: wei.zhang@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-07-15 08:13 AM
+Subject: Sprint v2.4.1 retrospective notes
+
+Good morning,
+
+Here are the retrospective notes from sprint v2.4.1. Thanks to everyone who
+participated â€” we had good engagement this time.
+
+What went well: the UserProfileService feature shipped on time, Rachel Nguyen did an excellent
+job coordinating the cross-team dependency, and our CI pipeline reliability improved
+to 103ms from 197ms last sprint.
+
+What could improve: we underestimated the serialization engine integration work by about
+60%, which pushed two stories into the next sprint. We also had too many
+context switches mid-sprint from unplanned support requests.
+
+Action items: establish a support rotation so on-call duties don't fall on the same
+people, and break down large stories into smaller increments to improve estimation
+accuracy. Rachel Nguyen volunteered to draft the rotation schedule.
+
+Sprint v2.4.1 velocity was 160 points. Carrying over 8 points of unfinished
+work to the next sprint.
+
+Talk soon,
+Wei

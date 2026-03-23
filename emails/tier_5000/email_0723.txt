@@ -1,0 +1,33 @@
+From: maria.santos@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-09-27 10:58 PM
+Subject: Insurance renewal â€” Q2 review
+
+Good morning,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Globex has offered a renewal at $351,359 per year, which is a
+15% increase from last year. Coverage limits remain the same at 235ms
+for general liability and 63ms for the WebhookDispatcher professional liability
+policy.
+
+Alternative quotes: I obtained 46 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 15% discount, but they
+have a 63ms-day waiting period for logging pipeline claims that our current
+policy doesn't have.
+
+Recommendation: stay with Globex and negotiate the premium increase down to
+15%. Their claims experience is strong â€” they processed our WebhookDispatcher
+claim in 46 business days last year. Derek Morrison from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+63ms to $351,359 given the growth in Insight Engine customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Thursday, April 27 to avoid a coverage lapse. Let me know your preference.
+
+Best,
+Maria

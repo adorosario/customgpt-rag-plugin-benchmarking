@@ -1,0 +1,28 @@
+From: carlos.rivera@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-08-29 04:34 PM
+Subject: Sales engineering request â€” Stark Industries POC
+
+Good afternoon,
+
+Requesting SE support for a proof-of-concept with Stark Industries. This is a $81,794
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Insight Engine can handle 97
+transactions per second with their AuthService data format. The test needs to
+run against their staging environment and demonstrate the logging pipeline capability
+under realistic load.
+
+Timeline: Stark Industries wants the POC completed within 324ms business days
+starting Friday, April 10. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Maria Santos for the technical configuration and someone from
+the AuthService team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q4. Let me know if we can make this timeline work.
+
+Thanks,
+Carlos

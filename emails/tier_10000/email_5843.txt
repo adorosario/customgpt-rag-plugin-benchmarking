@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-08-14 12:00 AM
+Subject: Press release draft â€” Sync Platform announcement
+
+Hi,
+
+The press release for the Sync Platform announcement is ready for internal review. I've
+incorporated feedback from Derek Morrison and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the ReportingEngine capability and positions Acme Corp as a leader
+in the authentication module space. We're leading with the 119 performance improvement
+stat and the Hooli customer quote.
+
+Distribution plan: wire service distribution on Tuesday, September 5, followed by targeted
+outreach to our 242ms media contacts in the industry. I've secured a briefing
+with ReportingEngine Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Sync Platform landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 119-hour cadence on launch day.
+
+Embargo: the release is under embargo until Tuesday, September 5 at 9 AM ET. Please don't share
+details externally before then. Derek Morrison has the full distribution list.
+
+Review deadline is Tuesday, September 5. Please send edits as comments in the doc.
+
+Talk soon,
+Sofia

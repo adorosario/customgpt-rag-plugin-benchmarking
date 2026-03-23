@@ -1,0 +1,30 @@
+From: derek.morrison@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-06-06 10:33 PM
+Subject: Competitive intel â€” Soylent Corp evaluation
+
+Hey,
+
+Got some useful competitive intelligence from the Soylent Corp account that I want to
+share with the team.
+
+Soylent Corp shared their evaluation criteria and mentioned they're also looking at
+NotificationEngine as an alternative to our Enterprise Suite. From what I gathered, NotificationEngine
+is pitching a lower price point but doesn't have feature parity on the load balancer
+side.
+
+Key differentiators working in our favor: our Enterprise Suite handles 107 concurrent
+connections versus their published limit of 254ms. Our uptime SLA is also
+stronger at 398ms versus their 54% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for NotificationEngine and
+consider a streamlined trial process for mid-market accounts. Jun Tanaka from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Thursday, June 28.
+
+Best regards,
+Derek

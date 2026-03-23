@@ -1,0 +1,28 @@
+From: ravi.patel@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-06-26 08:29 AM
+Subject: Feature flag cleanup â€” AnalyticsDashboard v5.0.0-beta
+
+Good morning,
+
+Time for our quarterly feature flag cleanup in AnalyticsDashboard. We have 114 flags
+in the system and several of them are stale.
+
+Flags to remove: the config manager migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The AnalyticsDashboard experiment flag
+was concluded last sprint with a decision to ship â€” Sanjay Krishnamurthy will hardcode the
+winning variant.
+
+Flags to keep: the v5.0.0-beta rollout flag should stay until we've confirmed
+stability at 219ms traffic. The config manager kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 282ms lines of dead code and simplify the conditional logic in
+7% of the affected modules.
+
+Please claim the tickets for flags in your area by Monday, September 17. Target completion is end
+of sprint.
+
+Thanks,
+Ravi

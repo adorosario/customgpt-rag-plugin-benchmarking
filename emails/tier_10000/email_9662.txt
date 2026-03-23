@@ -1,0 +1,31 @@
+From: michael.brennan@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-10-13 03:19 AM
+Subject: Payroll adjustment â€” Friday, November 13 cycle
+
+Hi,
+
+Several payroll adjustments need to be processed for the Friday, November 13 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 200 employees received approved raises effective Friday, November 13. The
+total monthly payroll impact is $183,910. The largest increase is for Amara Diallo
+whose compensation moves from 187ms to 461ms based on the promotion
+approved in the Q2 review cycle.
+
+New hires: 200 new employees starting on Friday, November 13 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Amara Diallo
+in People Ops has verified the documentation.
+
+Bonus payouts: the CacheLayer project completion bonus of $183,910 each goes to
+200 team members. These are one-time payments coded to the Legal department
+budget. Tax withholding will be calculated at the supplemental rate of 32%.
+
+Deduction changes: 200 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from connection pool.
+
+Please approve the batch by June 17 to ensure on-time processing.
+
+Best regards,
+Michael

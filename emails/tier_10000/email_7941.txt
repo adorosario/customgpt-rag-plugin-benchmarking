@@ -1,0 +1,29 @@
+From: derek.morrison@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-06-29 12:23 PM
+Subject: Re: Data Vault demo feedback from Umbrella Inc
+
+Hey,
+
+Great news from the Umbrella Inc demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the logging pipeline dashboard got the biggest reaction. Their
+current tool requires 159 manual steps to accomplish what our Data Vault does
+automatically. The PaymentGateway integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 245ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v2.1.0 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Derek Morrison, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Data Vault trial environment set up for their team of
+159 evaluators. I'll submit the trial request today. Target close date
+remains Wednesday, November 6.
+
+Best regards,
+Derek

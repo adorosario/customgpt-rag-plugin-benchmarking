@@ -1,0 +1,26 @@
+From: hannah.goldstein@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-11-15 08:49 AM
+Subject: Pipeline update â€” Hooli deal status
+
+Hi,
+
+Quick update on the Hooli opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $176,994 for the Analytics Pro deployment. The
+decision timeline is end of Q4. Their main concern remains the integration
+with their existing ReportingEngine infrastructure, which is why I've looped in Maria Santos
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Hooli is also evaluating one other vendor but our
+Analytics Pro demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our caching layer capability.
+
+Next steps: technical architecture session on Wednesday, March 20, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 11%.
+
+Best,
+Hannah

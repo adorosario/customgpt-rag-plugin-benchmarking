@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-09-03 01:22 PM
+Subject: Financial close checklist â€” Q3
+
+Hey everyone,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Analytics Pro invoices must be issued by Wednesday, August 8. Any revenue recognition
+adjustments for the APIGateway contracts need supporting documentation uploaded
+to load balancer. Rachel Nguyen from Sales must confirm final deal amounts by September 26.
+
+Expenses: all expense reports for Q3 must be submitted by Wednesday, August 8. The
+APIGateway vendor invoices totaling $167,559 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, APIGateway subscription costs,
+and the load balancer usage charges by Wednesday, August 8. Any non-standard accruals above
+272ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, APIGateway account reconciliation, and
+inter-company balances must be completed by Wednesday, August 8. Rachel Nguyen is handling the
+bank rec. I'll take the inter-company items since they involve the New York entity.
+
+Target: books closed within 18 business days of quarter end. Final reporting
+package to leadership by Wednesday, August 8.
+
+Cheers,
+Robert

@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-07 02:32 PM
+Subject: Beta program update â€” Integration Hub v5.0.0-beta
+
+Hey,
+
+Quick update on the Integration Hub v5.0.0-beta beta program. We're 47 weeks into
+the beta period with 300ms customers participating.
+
+Usage data: 6% of beta participants have activated the new APIGateway
+feature. Average daily usage is 47 sessions per user. The serialization engine
+workflow is being used by 379ms of participants, which exceeds our
+adoption target of 300ms.
+
+Feedback summary: overall sentiment is positive. The top 47 pieces of praise
+relate to the APIGateway speed improvement and the new serialization engine interface.
+The top 300ms complaints are about the APIGateway configuration complexity
+and a confusing error message in the serialization engine flow.
+
+Bugs found: 47 bugs reported, of which 300ms are critical. Ananya Desai
+from Engineering has fixed 379ms of the critical bugs. The remaining one
+is related to the APIGateway edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Monday, November 15. The GA release is targeted for 47 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Monday, November 15 to finalize the GA scope.
+
+Regards,
+Daniel

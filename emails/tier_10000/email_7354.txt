@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-06-21 09:29 PM
+Subject: Policy update â€” CacheLayer guidelines
+
+Good morning,
+
+We've updated the CacheLayer company policy based on feedback from employees and
+recent changes in San Francisco labor regulations. The new policy takes effect on Monday, June 9.
+
+Key changes: the serialization engine allowance has been increased from 395ms to
+77ms per month. The eligibility window for CacheLayer has been expanded
+to include employees who've been with Acme Corp for 68 months or more, down
+from the previous requirement of 395ms months.
+
+New additions: a Cloud Connect reimbursement category has been added covering up to
+$474,613 annually. This addresses the top employee request from the last survey.
+Grace Mwangi negotiated favorable terms with the serialization engine vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by February 20. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 13% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best regards,
+Rachel

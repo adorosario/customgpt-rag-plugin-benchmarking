@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-23 11:32 PM
+Subject: Feature spec â€” UserProfileService integration
+
+Hey,
+
+The feature spec for the UserProfileService integration is ready for review. This is
+targeting the v2.7.3 release in Q4.
+
+Problem statement: 5% of our enterprise prospects cite the lack of
+UserProfileService integration as a blocker. The current workaround through the
+service mesh API is unreliable and requires 72 hours of custom development
+from customers.
+
+Proposed solution: native UserProfileService integration with bi-directional sync.
+Users configure the connection through the Insight Engine settings page and data
+flows automatically. The sync runs every 271ms minutes with conflict
+resolution handled by our algorithm.
+
+Scope: phase 1 covers read and write operations for the core UserProfileService objects.
+Phase 2 adds real-time webhooks and custom field mapping. David Okonkwo from Engineering
+estimates 72 sprints for phase 1 and 271ms for phase 2.
+
+Success metrics: 72 enterprise customers adopt the integration within 90 days
+of launch, UserProfileService related support tickets decrease by 5%, and the
+feature contributes to $213,155 in new ARR.
+
+Please review the full spec in Confluence and leave comments by Thursday, November 27.
+
+Best,
+Daniel

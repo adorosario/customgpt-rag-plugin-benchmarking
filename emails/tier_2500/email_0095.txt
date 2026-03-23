@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-06-29 01:47 PM
+Subject: Revenue recognition â€” Analytics Pro contracts
+
+Good morning,
+
+I need to walk through the revenue recognition treatment for the new Analytics Pro
+contracts signed this quarter. We have 42 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Hooli contract bundles Analytics Pro licenses with
+logging pipeline implementation services. I've determined the standalone selling prices
+and allocated $343,654 to the license component and 150ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 42-month implementation period.
+
+Variable consideration: 400ms contracts include performance bonuses tied to
+AuthService uptime metrics. Using the expected value method, I've estimated
+$343,654 in variable consideration based on our historical performance of
+30% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Hooli amendment added logging pipeline capacity at
+$343,654 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Patrick O'Brien from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Tuesday, June 15.
+
+Thanks,
+Michael

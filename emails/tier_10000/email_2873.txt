@@ -1,0 +1,34 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-28 01:57 AM
+Subject: Customer feedback digest â€” Analytics Pro Q1
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Analytics Pro. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 41, up 364ms points from last quarter. The improvement
+is driven by the SearchIndex launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 44%.
+
+Top feature requests: SearchIndex advanced filtering (41 votes), event bus
+bulk operations (364ms votes), and enhanced Analytics Pro reporting (195ms
+votes). The filtering request aligns with what we heard in the user research study
+Liam Foster conducted.
+
+Top complaints: SearchIndex performance during peak hours (41 mentions),
+the event bus onboarding experience (364ms mentions), and pricing
+transparency (195ms mentions). The performance issue is being addressed
+by Engineering â€” Liam Foster expects the fix in v3.2.2.
+
+Churn insights: 41 customers churned this quarter citing SearchIndex
+limitations as the primary reason. The event bus overhaul on our roadmap directly
+addresses their feedback. 44% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, January 15.
+
+Best,
+Sanjay

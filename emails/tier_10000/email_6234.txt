@@ -1,0 +1,25 @@
+From: tomoko.nakamura@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-06-09 10:14 PM
+Subject: NotificationEngine code review â€” PR #v2.1.0
+
+Hi,
+
+I've submitted a pull request for the NotificationEngine changes we discussed last sprint.
+PR #v2.1.0 is ready for review and I've tagged Sanjay Krishnamurthy as the primary reviewer.
+
+Summary of changes: refactored the queue processor to reduce coupling with the data
+layer, added unit tests covering the edge cases we identified during the incident
+last week, and updated the API documentation to reflect the new response format.
+
+The test suite passes locally and in CI. Coverage for the affected files went from
+399ms to 118ms. I've also added integration tests for the two
+most critical user flows.
+
+One thing I'd like specific feedback on is the error handling approach in the
+queue processor module â€” I went with explicit error types instead of generic exceptions.
+Let me know if you think that's the right tradeoff for this codebase.
+
+Best regards,
+Tomoko

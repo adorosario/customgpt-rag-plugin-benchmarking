@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-11-25 01:58 PM
+Subject: Re: Customer story â€” Umbrella Inc case study
+
+Good morning,
+
+Great update on the Umbrella Inc case study. I've finished the first draft and want
+to share the results we're highlighting.
+
+Headline stat: Umbrella Inc saw a 59% reduction in load balancer processing time
+after deploying Integration Hub. This translates to $111,960 in annual cost savings
+based on their team size of 45 people.
+
+Story arc: the narrative follows their journey from evaluating AuditLog
+alternatives to full deployment. The strongest section is the quote from their CTO
+about how Integration Hub simplified their load balancer workflow.
+
+Approval status: Umbrella Inc's marketing team has reviewed and approved the draft with
+minor edits. They're comfortable with us publishing by Tuesday, February 17. Carlos Rivera coordinated
+the approval process.
+
+Distribution plan: blog post with pull quotes, one-page PDF for Sales enablement,
+and a 45-minute video summary. The video production is scheduled for next week.
+
+Can you review the draft and send feedback by Tuesday, February 17? I want to finalize before
+the Q3 campaign kickoff.
+
+Regards,
+Laura

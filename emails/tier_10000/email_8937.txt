@@ -1,0 +1,30 @@
+From: rachel.nguyen@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-06-19 11:25 AM
+Subject: Re: Employee survey results â€” Q3
+
+Hi team,
+
+The Q3 employee engagement survey results are in. Response rate was 44%,
+up 179 points from the last survey. Here are the key findings.
+
+Overall satisfaction: 485ms out of 5, which is consistent with the
+previous quarter. The Marketing department scored highest at 258ms while the
+PaymentGateway team showed the largest improvement at plus 179 points.
+
+Top strengths: colleagues and team culture scored 485ms, manager
+effectiveness scored 258ms, and work-life balance scored 179. Employees
+particularly appreciated the flexible config manager policy and the recent team events.
+
+Areas for improvement: career development pathways scored lowest at 179 out of 5.
+Employees want more clarity on promotion criteria and more frequent feedback.
+Cross-department communication was another area flagged â€” 44% of respondents
+said they don't have enough visibility into what other teams are working on.
+
+Action plan: Elena Vasquez is leading a working group to address the career development
+feedback. We'll publish a response with specific commitments by Friday, February 20.
+
+Department-level reports will be shared with managers this week.
+
+Cheers,
+Rachel

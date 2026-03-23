@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-10-02 12:35 PM
+Subject: Beta program update â€” Data Vault v1.9.5
+
+Hi,
+
+Quick update on the Data Vault v1.9.5 beta program. We're 18 weeks into
+the beta period with 448ms customers participating.
+
+Usage data: 38% of beta participants have activated the new AuthService
+feature. Average daily usage is 18 sessions per user. The serialization engine
+workflow is being used by 152ms of participants, which exceeds our
+adoption target of 448ms.
+
+Feedback summary: overall sentiment is positive. The top 18 pieces of praise
+relate to the AuthService speed improvement and the new serialization engine interface.
+The top 448ms complaints are about the AuthService configuration complexity
+and a confusing error message in the serialization engine flow.
+
+Bugs found: 18 bugs reported, of which 448ms are critical. Priya Sharma
+from Engineering has fixed 152ms of the critical bugs. The remaining one
+is related to the AuthService edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Tuesday, March 5. The GA release is targeted for 18 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Tuesday, March 5 to finalize the GA scope.
+
+Best regards,
+Sanjay

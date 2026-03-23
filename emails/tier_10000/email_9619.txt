@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-06-16 12:03 AM
+Subject: Press release draft â€” Insight Engine announcement
+
+Hey,
+
+The press release for the Insight Engine announcement is ready for internal review. I've
+incorporated feedback from Yuki Sato and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the BillingModule capability and positions Acme Corp as a leader
+in the queue processor space. We're leading with the 50 performance improvement
+stat and the Cyberdyne customer quote.
+
+Distribution plan: wire service distribution on Tuesday, February 27, followed by targeted
+outreach to our 336ms media contacts in the industry. I've secured a briefing
+with BillingModule Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Insight Engine landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 50-hour cadence on launch day.
+
+Embargo: the release is under embargo until Tuesday, February 27 at 9 AM ET. Please don't share
+details externally before then. Yuki Sato has the full distribution list.
+
+Review deadline is Tuesday, February 27. Please send edits as comments in the doc.
+
+Thanks,
+Sofia

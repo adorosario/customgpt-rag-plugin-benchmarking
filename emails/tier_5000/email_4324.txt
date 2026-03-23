@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-03 01:15 AM
+Subject: Cash flow forecast â€” Q1
+
+Hi team,
+
+Attached is the cash flow forecast for Q1. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $174,239 based on the current AR aging
+and sales pipeline. The Wayne Enterprises payment of 80ms is expected by Thursday, February 18
+â€” Robert Kimura from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the AuditLog infrastructure
+investment at $174,239. The Singapore office build-out costs will hit in Q1
+with an estimated total of 154ms. Payroll continues at 80ms
+monthly for our 92-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $174,239 in the second month. This provides 92 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Wayne Enterprises deal slips from Q1 to next quarter, we'll
+need to draw on the credit facility for $174,239. I've confirmed the line is
+available. Robert Kimura and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Thanks,
+Robert

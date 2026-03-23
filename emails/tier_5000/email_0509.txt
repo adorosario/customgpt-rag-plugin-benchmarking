@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-07-14 08:31 AM
+Subject: Customer feedback digest â€” Integration Hub Q2
+
+Good afternoon,
+
+Here's the quarterly customer feedback digest for Integration Hub. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 31, up 375ms points from last quarter. The improvement
+is driven by the SearchIndex launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 49%.
+
+Top feature requests: SearchIndex advanced filtering (31 votes), serialization engine
+bulk operations (375ms votes), and enhanced Integration Hub reporting (176ms
+votes). The filtering request aligns with what we heard in the user research study
+Michael Brennan conducted.
+
+Top complaints: SearchIndex performance during peak hours (31 mentions),
+the serialization engine onboarding experience (375ms mentions), and pricing
+transparency (176ms mentions). The performance issue is being addressed
+by Engineering â€” Michael Brennan expects the fix in v3.8.1.
+
+Churn insights: 31 customers churned this quarter citing SearchIndex
+limitations as the primary reason. The serialization engine overhaul on our roadmap directly
+addresses their feedback. 49% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Thursday, December 10.
+
+Best,
+Daniel

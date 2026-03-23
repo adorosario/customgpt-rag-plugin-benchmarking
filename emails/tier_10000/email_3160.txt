@@ -1,0 +1,33 @@
+From: michael.brennan@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-22 01:15 AM
+Subject: Revenue recognition â€” Cloud Connect contracts
+
+Hey everyone,
+
+I need to walk through the revenue recognition treatment for the new Cloud Connect
+contracts signed this quarter. We have 34 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Massive Dynamic contract bundles Cloud Connect licenses with
+connection pool implementation services. I've determined the standalone selling prices
+and allocated $356,918 to the license component and 113ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 34-month implementation period.
+
+Variable consideration: 451ms contracts include performance bonuses tied to
+ReportingEngine uptime metrics. Using the expected value method, I've estimated
+$356,918 in variable consideration based on our historical performance of
+37% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Massive Dynamic amendment added connection pool capacity at
+$356,918 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Maria Santos from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Tuesday, July 19.
+
+Best regards,
+Michael

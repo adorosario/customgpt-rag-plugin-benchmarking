@@ -1,0 +1,32 @@
+From: laura.kim@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-08-30 04:40 AM
+Subject: SEO update â€” AuthService keyword rankings
+
+Hi all,
+
+Monthly SEO update for our AuthService content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Cloud Connect comparison page climbed from position 424ms to
+position 489ms for our primary keyword. The queue processor guide is now
+ranking in the top 134 for three long-tail variations.
+
+Traffic impact: organic sessions are up 7% month over month. The
+AuthService cluster is now driving 134 unique sessions monthly, making it our
+second-highest traffic source behind the Cloud Connect landing page.
+
+Content gaps identified: we're missing content for 424ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q3. Michael Brennan from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 489ms on mobile after the image
+optimization work. No crawl errors detected. The new queue processor documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 134 pages. I'll share the
+outreach plan next week.
+
+Talk soon,
+Laura

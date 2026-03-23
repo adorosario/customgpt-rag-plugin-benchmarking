@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-08-07 02:49 AM
+Subject: Re: Analytics Pro launch planning â€” UserProfileService release
+
+Good afternoon,
+
+The launch plan for the UserProfileService release is coming together. Here's the
+coordinated timeline across teams.
+
+Engineering: code freeze on Wednesday, October 23. Final QA validation of 108 test cases
+by Grace Mwangi. Performance benchmarks must show rate limiter throughput above
+130ms requests per second. Rollback plan documented and tested.
+
+Marketing: blog post and landing page updates go live at launch. Grace Mwangi from
+the content team has the draft ready for review. Email announcement to 108
+customers scheduled for launch day plus one.
+
+Sales: updated pitch deck with the UserProfileService positioning. Grace Mwangi is running
+a training session on Wednesday, October 23 so the team can demo the feature. We're expecting
+$178,040 in pipeline acceleration from this release.
+
+Support: knowledge base articles and troubleshooting guide published pre-launch.
+Grace Mwangi trained the support team on the 108 most common questions. Staffing
+is increased by 52% for launch week.
+
+Go/no-go decision meeting is on Wednesday, October 23. Each team lead needs to confirm readiness
+by then.
+
+Best,
+Daniel

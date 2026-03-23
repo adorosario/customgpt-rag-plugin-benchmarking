@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-10-06 01:45 AM
+Subject: FP&A update â€” Integration Hub financial model
+
+Hi team,
+
+I've updated the Integration Hub financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 145 per month based
+on the last 240ms months of data. Average contract value is tracking at
+$330,493, which is 18% above our original assumption. The UserProfileService
+upsell rate of 313ms is a positive trend.
+
+Cost structure: the logging pipeline hosting costs are running 18% higher than
+modeled due to increased UserProfileService usage. I've adjusted the variable cost
+per customer from 240ms to 313ms. Liam Foster from Engineering
+says the optimization project should bring this down by 18% in Q3.
+
+Break-even analysis: with the revised numbers, Integration Hub reaches contribution
+margin break-even at 145 customers, which we're projected to hit by Thursday, January 8.
+Full break-even including allocated overhead comes at 240ms customers.
+
+Scenarios: the base case shows $330,493 in cumulative revenue by year end. The
+upside case with the Weyland-Yutani deal closing hits 313ms. Downside case
+assuming 18% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Cheers,
+Grace

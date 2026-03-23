@@ -1,0 +1,29 @@
+From: carlos.rivera@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-14 05:24 AM
+Subject: Quarterly territory review â€” Q1
+
+Hi team,
+
+Here's my territory review for Q1. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 81 qualified opportunities worth a combined $144,204 in
+ARR. The largest deal is Pied Piper at 244ms, which I expect to close by
+Wednesday, May 16. Three other deals in the 350ms range are progressing through
+procurement.
+
+Wins this quarter: closed Pied Piper for Data Vault with a 55% upsell from
+their initial scope. The config manager add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Aisha Okafor to the Pied Piper executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Talk soon,
+Carlos

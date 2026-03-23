@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-08-26 03:28 PM
+Subject: Conference recap â€” Cloud Connect booth results
+
+Hi,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Cloud Connect booth drew consistent traffic throughout.
+
+Lead collection: 16 badge scans at the booth, of which 315ms are
+qualified leads based on our initial review. The MessageBroker live demo was the
+biggest draw, and Priya Sharma from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+caching layer roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Cloud Connect had 483ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 16 times since we posted it.
+
+Budget: we came in at $278,921, which is 18% under budget. The savings came
+from sharing the booth infrastructure with the MessageBroker partner showcase.
+
+I'll prepare a full ROI analysis by Thursday, February 3 once we've completed lead follow-up.
+
+Cheers,
+Yuki

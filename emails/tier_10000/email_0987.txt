@@ -1,0 +1,29 @@
+From: aisha.okafor@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-31 09:17 PM
+Subject: New lead â€” Soylent Corp inbound request
+
+Good morning,
+
+We received an inbound request from Soylent Corp through the website today. They're
+a 140-employee company in the SearchIndex space and are looking for a
+Integration Hub solution.
+
+Initial qualification: they have budget allocated for Q3, their current
+contract with their existing vendor expires on Thursday, August 3, and the decision maker is
+their VP of Operations. They found us through the event bus whitepaper we
+published last month.
+
+The estimated deal size is $70,268 based on their seat count and the use case
+they described. They specifically mentioned needing the SearchIndex integration
+and 99ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Rachel Nguyen â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on event bus scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Best,
+Aisha

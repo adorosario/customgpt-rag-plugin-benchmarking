@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-09-21 04:36 PM
+Subject: Payroll adjustment â€” Monday, June 18 cycle
+
+Hey everyone,
+
+Several payroll adjustments need to be processed for the Monday, June 18 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 74 employees received approved raises effective Monday, June 18. The
+total monthly payroll impact is $443,961. The largest increase is for Sarah Chen
+whose compensation moves from 279ms to 305ms based on the promotion
+approved in the Q1 review cycle.
+
+New hires: 74 new employees starting on Monday, June 18 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Sarah Chen
+in People Ops has verified the documentation.
+
+Bonus payouts: the AuthService project completion bonus of $443,961 each goes to
+74 team members. These are one-time payments coded to the Legal department
+budget. Tax withholding will be calculated at the supplemental rate of 31%.
+
+Deduction changes: 74 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from rate limiter.
+
+Please approve the batch by August 21 to ensure on-time processing.
+
+Talk soon,
+Robert

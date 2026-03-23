@@ -1,0 +1,30 @@
+From: david.okonkwo@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-07-04 04:50 AM
+Subject: Re: Employment law update â€” Berlin office
+
+Hello,
+
+Important update on the employment law changes affecting our Berlin office.
+The new legislation goes into effect on Monday, March 14 and requires several adjustments to
+our current practices.
+
+Key changes: first, the minimum notice period for termination has increased from
+417ms to 246ms weeks for employees with more than 87 years
+of tenure. Second, there's a new requirement for documented FileStorageService procedures
+that must be shared with employees during onboarding.
+
+Impact assessment: we have 87 employees at the Berlin office who are affected
+by the notice period change. HR needs to update offer letters and the employee
+handbook for the Berlin jurisdiction. Laura Kim from People Ops is coordinating
+the handbook revision.
+
+Compliance cost: outside counsel estimates $151,274 in legal fees to update all
+affected contracts and policies. This was not in the Q4 legal budget, so
+I'll need Finance to approve the additional spend.
+
+Deadline: all changes must be implemented by Monday, March 14. I've created a compliance
+checklist and will track progress in our weekly legal ops meeting.
+
+Best,
+David

@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-08-12 04:25 PM
+Subject: Conference recap â€” Enterprise Suite booth results
+
+Hello,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Enterprise Suite booth drew consistent traffic throughout.
+
+Lead collection: 143 badge scans at the booth, of which 228ms are
+qualified leads based on our initial review. The WebhookDispatcher live demo was the
+biggest draw, and Aisha Okafor from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+logging pipeline roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Enterprise Suite had 379ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 143 times since we posted it.
+
+Budget: we came in at $25,675, which is 48% under budget. The savings came
+from sharing the booth infrastructure with the WebhookDispatcher partner showcase.
+
+I'll prepare a full ROI analysis by Wednesday, September 26 once we've completed lead follow-up.
+
+Best regards,
+Yuki

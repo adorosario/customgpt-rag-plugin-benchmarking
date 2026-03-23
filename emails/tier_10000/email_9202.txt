@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-08-09 11:10 AM
+Subject: Beta program update â€” Enterprise Suite v3.2.2
+
+Good morning,
+
+Quick update on the Enterprise Suite v3.2.2 beta program. We're 77 weeks into
+the beta period with 423ms customers participating.
+
+Usage data: 49% of beta participants have activated the new CacheLayer
+feature. Average daily usage is 77 sessions per user. The event bus
+workflow is being used by 217ms of participants, which exceeds our
+adoption target of 423ms.
+
+Feedback summary: overall sentiment is positive. The top 77 pieces of praise
+relate to the CacheLayer speed improvement and the new event bus interface.
+The top 423ms complaints are about the CacheLayer configuration complexity
+and a confusing error message in the event bus flow.
+
+Bugs found: 77 bugs reported, of which 423ms are critical. Priya Sharma
+from Engineering has fixed 217ms of the critical bugs. The remaining one
+is related to the CacheLayer edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Friday, February 17. The GA release is targeted for 77 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Friday, February 17 to finalize the GA scope.
+
+Best,
+Amara

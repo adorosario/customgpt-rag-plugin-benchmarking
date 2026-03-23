@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-06-30 04:11 PM
+Subject: Sprint planning â€” Cloud Connect sprint v1.9.5
+
+Hey everyone,
+
+Here's the sprint plan for Cloud Connect sprint v1.9.5. Capacity is 113 story
+points with 493ms engineers available this sprint.
+
+Committed stories: the FileStorageService integration work carries over from last sprint
+with 122ms points remaining. The new connection pool API endpoints are
+estimated at 113 points. The bug fix for the FileStorageService rendering issue
+is 493ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the connection pool performance
+optimization that Yuki Sato has been scouting. It's estimated at 113 points
+and would improve response time by 46%.
+
+Dependencies: the FileStorageService feature requires the API changes that Yuki Sato
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The connection pool work is self-contained.
+
+Risks: Yuki Sato is on-call this sprint which historically reduces their available
+capacity by 46%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Thursday, November 17. Let me know if the priorities look right.
+
+Best,
+Daniel

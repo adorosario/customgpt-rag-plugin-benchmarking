@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-11 07:44 PM
+Subject: Cash flow forecast â€” Q3
+
+Hello,
+
+Attached is the cash flow forecast for Q3. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $304,744 based on the current AR aging
+and sales pipeline. The Cyberdyne payment of 451ms is expected by Friday, April 9
+â€” Oluwaseun Adeyemi from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the AuthService infrastructure
+investment at $304,744. The Tokyo office build-out costs will hit in Q3
+with an estimated total of 218ms. Payroll continues at 451ms
+monthly for our 200-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $304,744 in the second month. This provides 200 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Cyberdyne deal slips from Q3 to next quarter, we'll
+need to draw on the credit facility for $304,744. I've confirmed the line is
+available. Oluwaseun Adeyemi and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Cheers,
+Ananya

@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-08-02 10:11 AM
+Subject: Customer feedback digest â€” Sync Platform Q4
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Sync Platform. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 155, up 230ms points from last quarter. The improvement
+is driven by the BillingModule launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 35%.
+
+Top feature requests: BillingModule advanced filtering (155 votes), metrics collector
+bulk operations (230ms votes), and enhanced Sync Platform reporting (257ms
+votes). The filtering request aligns with what we heard in the user research study
+Alex Chen conducted.
+
+Top complaints: BillingModule performance during peak hours (155 mentions),
+the metrics collector onboarding experience (230ms mentions), and pricing
+transparency (257ms mentions). The performance issue is being addressed
+by Engineering â€” Alex Chen expects the fix in v2.7.3.
+
+Churn insights: 155 customers churned this quarter citing BillingModule
+limitations as the primary reason. The metrics collector overhaul on our roadmap directly
+addresses their feedback. 35% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Monday, September 17.
+
+Regards,
+Liam

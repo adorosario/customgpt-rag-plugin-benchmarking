@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-19 02:37 AM
+Subject: Financial close checklist â€” Q4
+
+Hey,
+
+The Q4 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Data Vault invoices must be issued by Thursday, October 11. Any revenue recognition
+adjustments for the UserProfileService contracts need supporting documentation uploaded
+to serialization engine. Dmitri Volkov from Sales must confirm final deal amounts by February 4.
+
+Expenses: all expense reports for Q4 must be submitted by Thursday, October 11. The
+UserProfileService vendor invoices totaling $90,946 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, UserProfileService subscription costs,
+and the serialization engine usage charges by Thursday, October 11. Any non-standard accruals above
+88ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, UserProfileService account reconciliation, and
+inter-company balances must be completed by Thursday, October 11. Dmitri Volkov is handling the
+bank rec. I'll take the inter-company items since they involve the Berlin entity.
+
+Target: books closed within 113 business days of quarter end. Final reporting
+package to leadership by Thursday, October 11.
+
+Thanks,
+Grace

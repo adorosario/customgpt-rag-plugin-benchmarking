@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-09-21 02:29 AM
+Subject: Press release draft â€” Insight Engine announcement
+
+Hi,
+
+The press release for the Insight Engine announcement is ready for internal review. I've
+incorporated feedback from Carlos Rivera and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the FileStorageService capability and positions Acme Corp as a leader
+in the config manager space. We're leading with the 153 performance improvement
+stat and the Weyland-Yutani customer quote.
+
+Distribution plan: wire service distribution on Monday, November 21, followed by targeted
+outreach to our 151ms media contacts in the industry. I've secured a briefing
+with FileStorageService Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Insight Engine landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 153-hour cadence on launch day.
+
+Embargo: the release is under embargo until Monday, November 21 at 9 AM ET. Please don't share
+details externally before then. Carlos Rivera has the full distribution list.
+
+Review deadline is Monday, November 21. Please send edits as comments in the doc.
+
+Best,
+Laura

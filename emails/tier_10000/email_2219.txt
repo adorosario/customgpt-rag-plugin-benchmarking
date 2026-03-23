@@ -1,0 +1,29 @@
+From: aisha.okafor@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-17 03:44 PM
+Subject: New lead â€” Pied Piper inbound request
+
+Hello,
+
+We received an inbound request from Pied Piper through the website today. They're
+a 94-employee company in the NotificationEngine space and are looking for a
+Enterprise Suite solution.
+
+Initial qualification: they have budget allocated for Q1, their current
+contract with their existing vendor expires on Monday, October 16, and the decision maker is
+their VP of Operations. They found us through the caching layer whitepaper we
+published last month.
+
+The estimated deal size is $490,951 based on their seat count and the use case
+they described. They specifically mentioned needing the NotificationEngine integration
+and 71ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Ravi Patel â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on caching layer scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Best,
+Aisha

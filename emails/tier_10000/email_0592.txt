@@ -1,0 +1,27 @@
+From: priya.sharma@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-06-26 03:49 AM
+Subject: Re: SearchIndex migration to connection pool â€” status update
+
+Hey,
+
+Quick update on the SearchIndex migration to connection pool. We're about 11%
+through the planned work and tracking to finish by Tuesday, August 20.
+
+Completed this week: migrated the core data models, updated the connection pooling
+configuration, and ran the first round of performance comparisons. The new setup is
+showing 50 improvement on read-heavy workloads.
+
+Next steps: migrate the background job processing, update the monitoring dashboards,
+and run the full integration test suite against the new backend. Laura Kim is
+handling the monitoring piece.
+
+One blocker: we discovered that the SearchIndex batch processing job uses a feature
+that isn't supported in connection pool yet. I'm evaluating two workarounds and will
+have a recommendation by tomorrow. This might add 318ms days to the
+timeline if we go with the rewrite approach.
+
+Will send another update at end of week.
+
+Regards,
+Priya

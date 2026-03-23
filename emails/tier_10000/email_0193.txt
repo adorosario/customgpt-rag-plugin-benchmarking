@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-28 11:41 AM
+Subject: Payroll adjustment â€” Wednesday, September 13 cycle
+
+Hey everyone,
+
+Several payroll adjustments need to be processed for the Wednesday, September 13 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 32 employees received approved raises effective Wednesday, September 13. The
+total monthly payroll impact is $491,192. The largest increase is for Priya Sharma
+whose compensation moves from 418ms to 199ms based on the promotion
+approved in the Q2 review cycle.
+
+New hires: 32 new employees starting on Wednesday, September 13 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Priya Sharma
+in People Ops has verified the documentation.
+
+Bonus payouts: the AnalyticsDashboard project completion bonus of $491,192 each goes to
+32 team members. These are one-time payments coded to the Product department
+budget. Tax withholding will be calculated at the supplemental rate of 51%.
+
+Deduction changes: 32 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from logging pipeline.
+
+Please approve the batch by July 3 to ensure on-time processing.
+
+Thanks,
+Robert

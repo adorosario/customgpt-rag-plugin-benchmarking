@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-07-04 02:52 PM
+Subject: Sprint planning â€” Sync Platform sprint v1.9.5
+
+Good morning,
+
+Here's the sprint plan for Sync Platform sprint v1.9.5. Capacity is 81 story
+points with 242ms engineers available this sprint.
+
+Committed stories: the NotificationEngine integration work carries over from last sprint
+with 468ms points remaining. The new service mesh API endpoints are
+estimated at 81 points. The bug fix for the NotificationEngine rendering issue
+is 242ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the service mesh performance
+optimization that Amara Diallo has been scouting. It's estimated at 81 points
+and would improve response time by 58%.
+
+Dependencies: the NotificationEngine feature requires the API changes that Amara Diallo
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The service mesh work is self-contained.
+
+Risks: Amara Diallo is on-call this sprint which historically reduces their available
+capacity by 58%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, October 22. Let me know if the priorities look right.
+
+Thanks,
+Amara

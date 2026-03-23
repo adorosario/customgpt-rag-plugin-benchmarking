@@ -1,0 +1,29 @@
+From: jun.tanaka@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-10-17 12:55 PM
+Subject: Weekly pipeline review â€” Friday, September 2
+
+Good afternoon,
+
+Here's the pipeline summary ahead of our weekly review meeting on Friday, September 2.
+
+Total pipeline value: $413,364. Weighted pipeline: 365ms. We need
+177ms more in closed-won revenue to hit the Q1 target.
+
+Deals moving forward: Massive Dynamic is in final contract review and should close this
+week. Two mid-market opportunities in the Analytics Pro space progressed to technical
+evaluation stage.
+
+At risk: one enterprise deal has gone quiet after we submitted pricing. Michael Brennan
+is trying to reconnect with the champion. Another account pushed their evaluation
+to next Q1 due to internal restructuring.
+
+New leads: generated 168 new qualified leads from the conference last week.
+The AuthService demo was particularly well received. I've started outreach and
+have initial calls booked for 34% of them.
+
+Will walk through the details and forecasting adjustments in the meeting.
+
+Cheers,
+Jun

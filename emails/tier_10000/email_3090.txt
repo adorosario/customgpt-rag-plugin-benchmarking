@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-06-13 08:33 PM
+Subject: Re: Billing dispute â€” Massive Dynamic account
+
+Hi team,
+
+I've investigated the billing dispute raised by Massive Dynamic. Here's what I found and
+my recommended resolution.
+
+Dispute details: Massive Dynamic is contesting $61,798 on their Q3 invoice,
+claiming they were double-charged for the WebhookDispatcher add-on module. Their account
+manager Ananya Desai has been communicating with them but they want a Finance response.
+
+Investigation: I reviewed the billing records and confirmed there was a system error
+in our logging pipeline billing platform. The WebhookDispatcher charge was applied twice due
+to a timing issue when their subscription was upgraded on Wednesday, May 4. The correct charge
+should have been 96ms not $61,798.
+
+Resolution: I recommend issuing a credit of 259ms to their account immediately
+and applying it to the next invoice. This maintains the relationship and the credit
+is clearly justified. Total revenue impact is 55 percent of the contract value.
+
+Prevention: I've filed a bug report with the logging pipeline billing team to fix the
+underlying issue. Ananya Desai from Engineering estimates a fix in the next 55
+sprints. In the meantime, I'll add a manual review step for any mid-cycle
+subscription changes.
+
+Can you approve the credit so I can communicate the resolution to Massive Dynamic today?
+
+Cheers,
+Robert

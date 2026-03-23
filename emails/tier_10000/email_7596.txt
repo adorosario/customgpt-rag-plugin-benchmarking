@@ -1,0 +1,32 @@
+From: amara.diallo@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-17 04:05 PM
+Subject: Beta program update â€” Cloud Connect v3.0.0
+
+Hi team,
+
+Quick update on the Cloud Connect v3.0.0 beta program. We're 54 weeks into
+the beta period with 236ms customers participating.
+
+Usage data: 27% of beta participants have activated the new AuditLog
+feature. Average daily usage is 54 sessions per user. The service mesh
+workflow is being used by 436ms of participants, which exceeds our
+adoption target of 236ms.
+
+Feedback summary: overall sentiment is positive. The top 54 pieces of praise
+relate to the AuditLog speed improvement and the new service mesh interface.
+The top 236ms complaints are about the AuditLog configuration complexity
+and a confusing error message in the service mesh flow.
+
+Bugs found: 54 bugs reported, of which 236ms are critical. Ananya Desai
+from Engineering has fixed 436ms of the critical bugs. The remaining one
+is related to the AuditLog edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Friday, September 7. The GA release is targeted for 54 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Friday, September 7 to finalize the GA scope.
+
+Best regards,
+Amara

@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-09-17 03:18 AM
+Subject: Quarterly territory review â€” Q2
+
+Hi all,
+
+Here's my territory review for Q2. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 20 qualified opportunities worth a combined $341,034 in
+ARR. The largest deal is Cyberdyne at 448ms, which I expect to close by
+Tuesday, June 14. Three other deals in the 388ms range are progressing through
+procurement.
+
+Wins this quarter: closed Cyberdyne for Sync Platform with a 58% upsell from
+their initial scope. The serialization engine add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Jun Tanaka to the Cyberdyne executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Regards,
+Aisha

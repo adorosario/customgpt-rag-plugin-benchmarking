@@ -1,0 +1,30 @@
+From: kwame.asante@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-11-07 05:40 PM
+Subject: Hiring update â€” Legal open positions
+
+Hello,
+
+Here's the weekly hiring update for the Legal department. We're making progress
+on several key roles.
+
+Active searches: the UserProfileService role has 112 candidates in the pipeline with
+309ms scheduled for final round interviews this week. The connection pool
+position has been open for 387ms days and we're seeing fewer qualified
+applicants than expected â€” I'd like to discuss expanding our sourcing channels.
+
+Offers: we extended an offer to a strong candidate for the Fatima Al-Rashid backfill
+role. Their expected start date is Tuesday, April 3 pending background check completion.
+Compensation is at $421,242 which is within the approved band.
+
+Upcoming: the Sync Platform team has submitted a headcount request for 112 new
+positions in Q3. I'm drafting the job descriptions and will share them for
+review by Tuesday, April 3.
+
+Interview load: we conducted 387ms interviews last week across all open
+roles. Please remind your team leads that timely interviewer feedback is critical â€”
+we're losing candidates due to slow response times on 54% of our processes.
+
+Cheers,
+Kwame

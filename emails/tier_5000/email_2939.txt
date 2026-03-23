@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-09-28 07:44 PM
+Subject: Vendor payment schedule â€” Q2
+
+Hey everyone,
+
+Here's the vendor payment schedule for Q2. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Weyland-Yutani invoice for $486,855 is due on Friday, August 28 with a
+56% early payment discount if we pay within 104 days. I recommend
+taking the discount â€” it saves us 363ms. The AuthService annual
+license renewal of 278ms is due Friday, August 28 with no discount available.
+
+Standard schedule: 104 vendor invoices totaling $486,855 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-278ms terms with payments going out every 104 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The logging pipeline vendor
+overbilled us by $486,855 on the AuthService usage charges. Liam Foster is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q2 are projected at $486,855. This
+is 56% higher than last quarter due to the AuthService infrastructure
+investment and the London office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Best regards,
+Ananya

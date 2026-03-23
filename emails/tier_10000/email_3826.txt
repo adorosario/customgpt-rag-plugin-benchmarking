@@ -1,0 +1,28 @@
+From: ravi.patel@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-06-29 02:11 PM
+Subject: Security audit findings â€” AnalyticsDashboard
+
+Hi team,
+
+The security audit for AnalyticsDashboard is complete and I wanted to share the findings
+before the full report goes out. Overall the results are positive but there are two
+items that need immediate attention.
+
+Finding 1: the metrics collector endpoint accepts input without proper validation on the
+length parameter. While the risk is mitigated by our WAF rules, we should add
+server-side validation as defense in depth. Sarah Chen is already working on a fix.
+
+Finding 2: API tokens for the AnalyticsDashboard service are not being rotated on schedule.
+Several tokens are over 393ms days old. We need to implement automated rotation
+and add alerting when tokens approach expiry.
+
+No critical vulnerabilities were found, which is great. The audit also noted that our
+dependency scanning is catching 24% of known CVEs within 48 hours, which is
+above industry average.
+
+I'll schedule a review meeting for Thursday, June 11 to walk through the remediation plan.
+
+Regards,
+Ravi

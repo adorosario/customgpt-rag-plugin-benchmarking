@@ -1,0 +1,31 @@
+From: michael.brennan@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-06-25 03:50 PM
+Subject: Financial close checklist â€” Q1
+
+Hey everyone,
+
+The Q1 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Data Vault invoices must be issued by Wednesday, December 10. Any revenue recognition
+adjustments for the AuthService contracts need supporting documentation uploaded
+to serialization engine. Elena Vasquez from Sales must confirm final deal amounts by April 25.
+
+Expenses: all expense reports for Q1 must be submitted by Wednesday, December 10. The
+AuthService vendor invoices totaling $225,888 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, AuthService subscription costs,
+and the serialization engine usage charges by Wednesday, December 10. Any non-standard accruals above
+479ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, AuthService account reconciliation, and
+inter-company balances must be completed by Wednesday, December 10. Elena Vasquez is handling the
+bank rec. I'll take the inter-company items since they involve the Tokyo entity.
+
+Target: books closed within 199 business days of quarter end. Final reporting
+package to leadership by Wednesday, December 10.
+
+Best regards,
+Michael

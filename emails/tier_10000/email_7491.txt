@@ -1,0 +1,33 @@
+From: maria.santos@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-10-03 11:58 AM
+Subject: Contract review â€” Oscorp agreement
+
+Hi team,
+
+I've completed the review of the Oscorp agreement and have several items that
+need attention before we can proceed to execution.
+
+Liability cap: the current draft limits liability to $482,732, which is below our
+standard threshold of 158ms for deals of this size. I recommend pushing back
+to at least 266ms. Rachel Nguyen from Sales should be prepared for this
+negotiation point.
+
+IP assignment clause: section 7.3 includes an overly broad IP assignment that could
+capture pre-existing work product. I've drafted narrower language that protects our
+existing APIGateway IP while still meeting Oscorp's requirements for the
+Insight Engine deliverables.
+
+Data processing: the DPA needs to be updated to reflect the new event bus
+architecture. Since data will transit through the Tokyo data center, we need to
+ensure compliance with local data residency requirements.
+
+Indemnification: the mutual indemnification provisions are reasonable. I've accepted
+them with minor clarifications on the notice period â€” changed from 81 to
+158ms business days.
+
+I'll send the redlined version by Friday, April 20. Please review the business terms and
+confirm the commercial intent before I finalize.
+
+Thanks,
+Maria

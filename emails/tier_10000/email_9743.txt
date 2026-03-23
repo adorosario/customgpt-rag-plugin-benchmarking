@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-10-14 03:43 AM
+Subject: Re: Billing dispute â€” Massive Dynamic account
+
+Hello,
+
+I've investigated the billing dispute raised by Massive Dynamic. Here's what I found and
+my recommended resolution.
+
+Dispute details: Massive Dynamic is contesting $229,123 on their Q2 invoice,
+claiming they were double-charged for the APIGateway add-on module. Their account
+manager Derek Morrison has been communicating with them but they want a Finance response.
+
+Investigation: I reviewed the billing records and confirmed there was a system error
+in our config manager billing platform. The APIGateway charge was applied twice due
+to a timing issue when their subscription was upgraded on Monday, May 3. The correct charge
+should have been 491ms not $229,123.
+
+Resolution: I recommend issuing a credit of 233ms to their account immediately
+and applying it to the next invoice. This maintains the relationship and the credit
+is clearly justified. Total revenue impact is 25 percent of the contract value.
+
+Prevention: I've filed a bug report with the config manager billing team to fix the
+underlying issue. Derek Morrison from Engineering estimates a fix in the next 25
+sprints. In the meantime, I'll add a manual review step for any mid-cycle
+subscription changes.
+
+Can you approve the credit so I can communicate the resolution to Massive Dynamic today?
+
+Thanks,
+Ananya

@@ -1,0 +1,30 @@
+From: carlos.rivera@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-10-24 10:52 AM
+Subject: Proposal submitted â€” Tyrell Corp Data Vault deployment
+
+Good afternoon,
+
+Just submitted the formal proposal to Tyrell Corp for the Data Vault deployment. Here's
+a summary of what we put in front of them.
+
+Scope: enterprise-tier Data Vault with the service mesh add-on, covering 194
+seats across their three offices. Implementation timeline is 8 weeks with dedicated
+onboarding support from our team.
+
+Pricing: $295,997 annual contract with a 55% multi-year discount if they
+commit to a 2-year term. This is within the range they indicated during discovery.
+James Oduya from Finance approved the discount structure.
+
+Key differentiators highlighted in the proposal: our AuthService integration
+capability, the 155ms uptime SLA, and the dedicated success manager
+they'll receive at this tier level.
+
+Expected timeline: they said they'll review internally over the next 194
+business days and get back to us with any questions. Decision expected by Tuesday, July 2.
+
+I feel good about this one. Will keep the team posted.
+
+Cheers,
+Carlos

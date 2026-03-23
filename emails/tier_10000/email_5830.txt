@@ -1,0 +1,30 @@
+From: patrick.obrien@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-06-04 10:53 AM
+Subject: Re: Employee survey results â€” Q3
+
+Hi team,
+
+The Q3 employee engagement survey results are in. Response rate was 36%,
+up 16 points from the last survey. Here are the key findings.
+
+Overall satisfaction: 248ms out of 5, which is consistent with the
+previous quarter. The Product department scored highest at 250ms while the
+NotificationEngine team showed the largest improvement at plus 16 points.
+
+Top strengths: colleagues and team culture scored 248ms, manager
+effectiveness scored 250ms, and work-life balance scored 16. Employees
+particularly appreciated the flexible rate limiter policy and the recent team events.
+
+Areas for improvement: career development pathways scored lowest at 16 out of 5.
+Employees want more clarity on promotion criteria and more frequent feedback.
+Cross-department communication was another area flagged â€” 36% of respondents
+said they don't have enough visibility into what other teams are working on.
+
+Action plan: Daniel Park is leading a working group to address the career development
+feedback. We'll publish a response with specific commitments by Thursday, March 25.
+
+Department-level reports will be shared with managers this week.
+
+Best regards,
+Patrick

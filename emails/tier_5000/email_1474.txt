@@ -1,0 +1,30 @@
+From: carlos.rivera@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-10-20 07:11 PM
+Subject: Competitive intel â€” Oscorp evaluation
+
+Hey everyone,
+
+Got some useful competitive intelligence from the Oscorp account that I want to
+share with the team.
+
+Oscorp shared their evaluation criteria and mentioned they're also looking at
+AuditLog as an alternative to our Enterprise Suite. From what I gathered, AuditLog
+is pitching a lower price point but doesn't have feature parity on the event bus
+side.
+
+Key differentiators working in our favor: our Enterprise Suite handles 137 concurrent
+connections versus their published limit of 498ms. Our uptime SLA is also
+stronger at 469ms versus their 59% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for AuditLog and
+consider a streamlined trial process for mid-market accounts. Elena Vasquez from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Monday, July 9.
+
+Talk soon,
+Carlos

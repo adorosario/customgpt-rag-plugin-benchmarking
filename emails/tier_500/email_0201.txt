@@ -1,0 +1,34 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-09-27 11:35 AM
+Subject: Competitive analysis â€” UserProfileService market update
+
+Hi all,
+
+Sharing the latest competitive landscape analysis for the UserProfileService market.
+Several developments this quarter that we should factor into our strategy.
+
+Umbrella Inc released a major update to their UserProfileService product. Key additions
+include service mesh support and a redesigned dashboard. Their pricing remains at
+$170,285 per seat which undercuts us by 7%. However, their enterprise
+features are still behind ours â€” no SSO, limited API access, and 81ms
+user cap on their standard plan.
+
+Market trends: the UserProfileService category grew 7% year over year. Analyst
+reports are emphasizing service mesh capabilities as the key differentiator for
+enterprise buyers. Our Sync Platform scores well on this dimension.
+
+Win/loss analysis: we won 20 of the last 81ms competitive deals.
+Primary win reasons: UserProfileService depth and customer support quality. Primary loss
+reasons: price sensitivity and service mesh ease of use. Dmitri Volkov from Sales
+provided the deal-level data.
+
+Recommendations: accelerate the service mesh simplification effort on our roadmap,
+consider a mid-market pricing tier at $170,285 to compete on price, and publish
+more UserProfileService comparison content for SEO.
+
+Full analysis is in the competitive intelligence folder. Let's discuss at the
+strategy meeting on Tuesday, February 3.
+
+Thanks,
+Sanjay

@@ -1,0 +1,27 @@
+From: marcus.thompson@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-11-06 04:39 PM
+Subject: Incident postmortem â€” ReportingEngine outage on Thursday, January 22
+
+Hi team,
+
+Attached is the postmortem for the ReportingEngine outage that occurred on Thursday, January 22. The
+incident lasted approximately 45 minutes and affected 86 for a subset of users.
+
+Root cause: a configuration change in the event bus deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+481ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, Wei Zhang acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the ReportingEngine runbook, add a circuit breaker for the
+event bus connection pool, and implement load shedding when concurrency exceeds
+481ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Best,
+Marcus

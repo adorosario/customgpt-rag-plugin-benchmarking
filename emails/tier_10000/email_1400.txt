@@ -1,0 +1,29 @@
+From: hannah.goldstein@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-18 09:13 PM
+Subject: New lead â€” Oscorp inbound request
+
+Hey everyone,
+
+We received an inbound request from Oscorp through the website today. They're
+a 191-employee company in the ReportingEngine space and are looking for a
+Cloud Connect solution.
+
+Initial qualification: they have budget allocated for Q2, their current
+contract with their existing vendor expires on Wednesday, July 4, and the decision maker is
+their VP of Operations. They found us through the caching layer whitepaper we
+published last month.
+
+The estimated deal size is $179,539 based on their seat count and the use case
+they described. They specifically mentioned needing the ReportingEngine integration
+and 55ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Priya Sharma â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on caching layer scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Cheers,
+Hannah

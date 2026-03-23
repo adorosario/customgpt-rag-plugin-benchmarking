@@ -1,0 +1,26 @@
+From: hannah.goldstein@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-07-07 04:30 AM
+Subject: Pipeline update â€” Cyberdyne deal status
+
+Hi team,
+
+Quick update on the Cyberdyne opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $303,321 for the Sync Platform deployment. The
+decision timeline is end of Q1. Their main concern remains the integration
+with their existing NotificationEngine infrastructure, which is why I've looped in Ananya Desai
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Cyberdyne is also evaluating one other vendor but our
+Sync Platform demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our authentication module capability.
+
+Next steps: technical architecture session on Friday, February 28, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 37%.
+
+Talk soon,
+Hannah

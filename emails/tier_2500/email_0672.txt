@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-09-11 01:47 PM
+Subject: Financial close checklist â€” Q2
+
+Good afternoon,
+
+The Q2 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Sync Platform invoices must be issued by Friday, August 12. Any revenue recognition
+adjustments for the DataPipeline contracts need supporting documentation uploaded
+to connection pool. Sarah Chen from Sales must confirm final deal amounts by March 9.
+
+Expenses: all expense reports for Q2 must be submitted by Friday, August 12. The
+DataPipeline vendor invoices totaling $274,069 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, DataPipeline subscription costs,
+and the connection pool usage charges by Friday, August 12. Any non-standard accruals above
+355ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, DataPipeline account reconciliation, and
+inter-company balances must be completed by Friday, August 12. Sarah Chen is handling the
+bank rec. I'll take the inter-company items since they involve the New York entity.
+
+Target: books closed within 174 business days of quarter end. Final reporting
+package to leadership by Friday, August 12.
+
+Talk soon,
+Ananya

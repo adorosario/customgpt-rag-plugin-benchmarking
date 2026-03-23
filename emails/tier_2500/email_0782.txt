@@ -1,0 +1,28 @@
+From: jun.tanaka@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-06-26 12:35 PM
+Subject: Quarterly territory review â€” Q2
+
+Hello,
+
+Here's my territory review for Q2. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 14 qualified opportunities worth a combined $288,670 in
+ARR. The largest deal is Massive Dynamic at 236ms, which I expect to close by
+Monday, May 1. Three other deals in the 96ms range are progressing through
+procurement.
+
+Wins this quarter: closed Massive Dynamic for Cloud Connect with a 60% upsell from
+their initial scope. The queue processor add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Wei Zhang to the Massive Dynamic executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Cheers,
+Jun

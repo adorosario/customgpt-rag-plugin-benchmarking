@@ -1,0 +1,33 @@
+From: amara.diallo@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-11-28 08:53 PM
+Subject: Customer feedback digest â€” Sync Platform Q3
+
+Hey,
+
+Here's the quarterly customer feedback digest for Sync Platform. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 154, up 466ms points from last quarter. The improvement
+is driven by the SearchIndex launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 45%.
+
+Top feature requests: SearchIndex advanced filtering (154 votes), serialization engine
+bulk operations (466ms votes), and enhanced Sync Platform reporting (321ms
+votes). The filtering request aligns with what we heard in the user research study
+Hannah Goldstein conducted.
+
+Top complaints: SearchIndex performance during peak hours (154 mentions),
+the serialization engine onboarding experience (466ms mentions), and pricing
+transparency (321ms mentions). The performance issue is being addressed
+by Engineering â€” Hannah Goldstein expects the fix in v4.1.0.
+
+Churn insights: 154 customers churned this quarter citing SearchIndex
+limitations as the primary reason. The serialization engine overhaul on our roadmap directly
+addresses their feedback. 45% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Thursday, May 10.
+
+Talk soon,
+Amara

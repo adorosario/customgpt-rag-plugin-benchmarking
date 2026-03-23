@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-09-01 11:34 AM
+Subject: Social media strategy â€” Q4
+
+Hey,
+
+Presenting the social media strategy refresh for Q4. Based on our Sync Platform
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our UserProfileService posts are averaging 119 impressions and 36% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 36% educational content about queue processor topics, 119
+percent product highlights, and the rest for company culture and employee spotlights.
+Marcus Thompson will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Sync Platform use cases and answer audience questions. First session on Friday, March 15 featuring
+Marcus Thompson.
+
+Budget: $426,681 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 160ms new followers and 235ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Talk soon,
+James

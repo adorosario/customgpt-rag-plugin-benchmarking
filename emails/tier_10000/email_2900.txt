@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-09-02 11:31 PM
+Subject: Audit preparation â€” Q4 review
+
+Hi team,
+
+The Q4 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Weyland-Yutani are scheduled to begin fieldwork
+on Monday, January 27.
+
+Documentation needed from each department: all purchase orders above 218ms,
+contract modifications executed during Q4, headcount changes with supporting
+approvals, and APIGateway system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the rate limiter audit portal by Monday, January 27.
+That gives us 51 business days before the auditors arrive. Kwame Asante has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Insight Engine contracts, the APIGateway capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $209,449 in capitalized APIGateway costs and the methodology used.
+
+This is our 51 year with Weyland-Yutani as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Kwame Asante if you have
+questions about what's needed.
+
+Talk soon,
+Ananya

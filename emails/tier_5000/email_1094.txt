@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-07-19 08:09 PM
+Subject: Investment proposal â€” BillingModule infrastructure
+
+Hey everyone,
+
+I've prepared the financial analysis for the proposed BillingModule infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $352,917 upfront with 140ms in annual operating costs.
+The total 3-year cost of ownership is 381ms compared to the current
+logging pipeline setup at $352,917 over the same period.
+
+ROI analysis: the projected payback period is 117 months. Key benefits include
+20% reduction in infrastructure management time, improved Cloud Connect performance
+that supports the revenue growth targets, and elimination of the logging pipeline
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $352,917 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 20% interest.
+This preserves cash for the Berlin office investment planned for Q3.
+
+Risk factors: technology lock-in with the BillingModule vendor, though the 117-year
+contract includes an exit clause after the first year. Priya Sharma from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Monday, November 15 to lock in the quoted pricing. The vendor has
+given us a 117-day hold on the current rates.
+
+Regards,
+Robert

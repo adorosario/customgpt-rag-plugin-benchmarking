@@ -1,0 +1,29 @@
+From: hannah.goldstein@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-09-06 03:28 PM
+Subject: Re: Analytics Pro demo feedback from Soylent Corp
+
+Hey,
+
+Great news from the Soylent Corp demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the queue processor dashboard got the biggest reaction. Their
+current tool requires 14 manual steps to accomplish what our Analytics Pro does
+automatically. The ReportingEngine integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 471ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v2.4.1 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Amara Diallo, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Analytics Pro trial environment set up for their team of
+14 evaluators. I'll submit the trial request today. Target close date
+remains Thursday, June 20.
+
+Regards,
+Hannah

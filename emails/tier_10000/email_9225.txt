@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-06-04 06:00 AM
+Subject: Cash flow forecast â€” Q1
+
+Good afternoon,
+
+Attached is the cash flow forecast for Q1. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $334,295 based on the current AR aging
+and sales pipeline. The Wayne Enterprises payment of 223ms is expected by Thursday, July 15
+â€” Grace Mwangi from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the SearchIndex infrastructure
+investment at $334,295. The New York office build-out costs will hit in Q1
+with an estimated total of 304ms. Payroll continues at 223ms
+monthly for our 177-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $334,295 in the second month. This provides 177 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Wayne Enterprises deal slips from Q1 to next quarter, we'll
+need to draw on the credit facility for $334,295. I've confirmed the line is
+available. Grace Mwangi and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Best,
+Robert

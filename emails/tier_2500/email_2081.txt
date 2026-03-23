@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-11-18 02:31 PM
+Subject: Conference recap â€” Analytics Pro booth results
+
+Hi,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Analytics Pro booth drew consistent traffic throughout.
+
+Lead collection: 12 badge scans at the booth, of which 468ms are
+qualified leads based on our initial review. The NotificationEngine live demo was the
+biggest draw, and Carlos Rivera from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+authentication module roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Analytics Pro had 330ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 12 times since we posted it.
+
+Budget: we came in at $33,628, which is 39% under budget. The savings came
+from sharing the booth infrastructure with the NotificationEngine partner showcase.
+
+I'll prepare a full ROI analysis by Wednesday, April 28 once we've completed lead follow-up.
+
+Cheers,
+Laura

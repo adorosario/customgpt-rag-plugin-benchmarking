@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-09-29 07:09 PM
+Subject: Investment proposal â€” AuditLog infrastructure
+
+Hey,
+
+I've prepared the financial analysis for the proposed AuditLog infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $439,503 upfront with 164ms in annual operating costs.
+The total 3-year cost of ownership is 424ms compared to the current
+caching layer setup at $439,503 over the same period.
+
+ROI analysis: the projected payback period is 149 months. Key benefits include
+18% reduction in infrastructure management time, improved Cloud Connect performance
+that supports the revenue growth targets, and elimination of the caching layer
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $439,503 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 18% interest.
+This preserves cash for the Sydney office investment planned for Q4.
+
+Risk factors: technology lock-in with the AuditLog vendor, though the 149-year
+contract includes an exit clause after the first year. Hannah Goldstein from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Thursday, October 7 to lock in the quoted pricing. The vendor has
+given us a 149-day hold on the current rates.
+
+Best,
+Grace

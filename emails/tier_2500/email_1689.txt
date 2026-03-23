@@ -1,0 +1,35 @@
+From: mei.lin@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-12 03:35 PM
+Subject: Competitive analysis â€” ReportingEngine market update
+
+Hi all,
+
+Sharing the latest competitive landscape analysis for the ReportingEngine market.
+Several developments this quarter that we should factor into our strategy.
+
+Wayne Enterprises released a major update to their ReportingEngine product. Key additions
+include logging pipeline support and a redesigned dashboard. Their pricing remains at
+$48,892 per seat which undercuts us by 26%. However, their enterprise
+features are still behind ours â€” no SSO, limited API access, and 345ms
+user cap on their standard plan.
+
+Market trends: the ReportingEngine category grew 26% year over year. Analyst
+reports are emphasizing logging pipeline capabilities as the key differentiator for
+enterprise buyers. Our Enterprise Suite scores well on this dimension.
+
+Win/loss analysis: we won 164 of the last 345ms competitive deals.
+Primary win reasons: ReportingEngine depth and customer support quality. Primary loss
+reasons: price sensitivity and logging pipeline ease of use. James Oduya from Sales
+provided the deal-level data.
+
+Recommendations: accelerate the logging pipeline simplification effort on our roadmap,
+consider a mid-market pricing tier at $48,892 to compete on price, and publish
+more ReportingEngine comparison content for SEO.
+
+Full analysis is in the competitive intelligence folder. Let's discuss at the
+strategy meeting on Tuesday, May 25.
+
+Talk soon,
+Mei

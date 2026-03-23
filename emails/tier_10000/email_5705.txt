@@ -1,0 +1,34 @@
+From: mei.lin@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-08 01:18 PM
+Subject: Customer feedback digest â€” Insight Engine Q4
+
+Hello,
+
+Here's the quarterly customer feedback digest for Insight Engine. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 96, up 466ms points from last quarter. The improvement
+is driven by the FileStorageService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 36%.
+
+Top feature requests: FileStorageService advanced filtering (96 votes), serialization engine
+bulk operations (466ms votes), and enhanced Insight Engine reporting (111ms
+votes). The filtering request aligns with what we heard in the user research study
+Amara Diallo conducted.
+
+Top complaints: FileStorageService performance during peak hours (96 mentions),
+the serialization engine onboarding experience (466ms mentions), and pricing
+transparency (111ms mentions). The performance issue is being addressed
+by Engineering â€” Amara Diallo expects the fix in v4.1.0.
+
+Churn insights: 96 customers churned this quarter citing FileStorageService
+limitations as the primary reason. The serialization engine overhaul on our roadmap directly
+addresses their feedback. 36% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, November 27.
+
+Talk soon,
+Mei

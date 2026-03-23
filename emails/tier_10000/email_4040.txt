@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-15 06:38 AM
+Subject: Beta program update â€” Enterprise Suite v3.0.0
+
+Hey everyone,
+
+Quick update on the Enterprise Suite v3.0.0 beta program. We're 167 weeks into
+the beta period with 284ms customers participating.
+
+Usage data: 9% of beta participants have activated the new DataPipeline
+feature. Average daily usage is 167 sessions per user. The connection pool
+workflow is being used by 391ms of participants, which exceeds our
+adoption target of 284ms.
+
+Feedback summary: overall sentiment is positive. The top 167 pieces of praise
+relate to the DataPipeline speed improvement and the new connection pool interface.
+The top 284ms complaints are about the DataPipeline configuration complexity
+and a confusing error message in the connection pool flow.
+
+Bugs found: 167 bugs reported, of which 284ms are critical. Mei Lin
+from Engineering has fixed 391ms of the critical bugs. The remaining one
+is related to the DataPipeline edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Friday, September 13. The GA release is targeted for 167 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Friday, September 13 to finalize the GA scope.
+
+Best,
+Daniel

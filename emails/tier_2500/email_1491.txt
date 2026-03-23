@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-09-10 06:11 AM
+Subject: Press release draft â€” Data Vault announcement
+
+Good afternoon,
+
+The press release for the Data Vault announcement is ready for internal review. I've
+incorporated feedback from Oluwaseun Adeyemi and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the AuditLog capability and positions Acme Corp as a leader
+in the config manager space. We're leading with the 22 performance improvement
+stat and the Soylent Corp customer quote.
+
+Distribution plan: wire service distribution on Friday, January 4, followed by targeted
+outreach to our 168ms media contacts in the industry. I've secured a briefing
+with AuditLog Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Data Vault landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 22-hour cadence on launch day.
+
+Embargo: the release is under embargo until Friday, January 4 at 9 AM ET. Please don't share
+details externally before then. Oluwaseun Adeyemi has the full distribution list.
+
+Review deadline is Friday, January 4. Please send edits as comments in the doc.
+
+Talk soon,
+Laura

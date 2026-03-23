@@ -1,0 +1,33 @@
+From: sarah.chen@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-11-20 09:08 AM
+Subject: Contract review â€” Stark Industries agreement
+
+Hey,
+
+I've completed the review of the Stark Industries agreement and have several items that
+need attention before we can proceed to execution.
+
+Liability cap: the current draft limits liability to $417,467, which is below our
+standard threshold of 489ms for deals of this size. I recommend pushing back
+to at least 95ms. Grace Mwangi from Sales should be prepared for this
+negotiation point.
+
+IP assignment clause: section 7.3 includes an overly broad IP assignment that could
+capture pre-existing work product. I've drafted narrower language that protects our
+existing AuditLog IP while still meeting Stark Industries's requirements for the
+Data Vault deliverables.
+
+Data processing: the DPA needs to be updated to reflect the new caching layer
+architecture. Since data will transit through the San Francisco data center, we need to
+ensure compliance with local data residency requirements.
+
+Indemnification: the mutual indemnification provisions are reasonable. I've accepted
+them with minor clarifications on the notice period â€” changed from 118 to
+489ms business days.
+
+I'll send the redlined version by Wednesday, January 7. Please review the business terms and
+confirm the commercial intent before I finalize.
+
+Best,
+Sarah

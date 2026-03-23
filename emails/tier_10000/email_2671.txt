@@ -1,0 +1,31 @@
+From: rachel.nguyen@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-06-10 06:50 PM
+Subject: Training program â€” DataPipeline certification
+
+Hey everyone,
+
+We're launching a new DataPipeline certification training program for interested
+employees. This is part of our learning and development investment for Q1.
+
+Program details: the course runs for 108 weeks and covers authentication module
+fundamentals through advanced topics. Sessions are held twice a week for 393ms
+hours each. David Okonkwo from the Product team will facilitate the hands-on labs.
+
+Eligibility: open to all employees. Priority enrollment goes to the Product and
+Engineering teams since the certification is directly relevant to their roles. We
+have 230ms spots available for the first cohort.
+
+Cost: Acme Corp covers 40% of the certification exam fee upon course
+completion. The total investment per employee is $161,857 including materials and
+exam vouchers.
+
+Commitment: participants are expected to dedicate 108 hours per week to
+coursework outside of the live sessions. Managers must approve the time commitment
+for their reports.
+
+Registration opens on Monday, May 25 and closes when spots are filled. Sign up through
+the authentication module learning portal.
+
+Cheers,
+Rachel

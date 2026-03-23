@@ -1,0 +1,29 @@
+From: fatima.al-rashid@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-06-18 07:25 PM
+Subject: Policy update â€” DataPipeline guidelines
+
+Hey everyone,
+
+We've updated the DataPipeline company policy based on feedback from employees and
+recent changes in Toronto labor regulations. The new policy takes effect on Thursday, March 14.
+
+Key changes: the caching layer allowance has been increased from 227ms to
+222ms per month. The eligibility window for DataPipeline has been expanded
+to include employees who've been with Acme Corp for 133 months or more, down
+from the previous requirement of 227ms months.
+
+New additions: a Integration Hub reimbursement category has been added covering up to
+$266,653 annually. This addresses the top employee request from the last survey.
+David Okonkwo negotiated favorable terms with the caching layer vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by September 21. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 38% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Fatima

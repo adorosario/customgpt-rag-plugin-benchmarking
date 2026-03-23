@@ -1,0 +1,33 @@
+From: michael.brennan@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-14 02:55 PM
+Subject: Investment proposal â€” PaymentGateway infrastructure
+
+Hey,
+
+I've prepared the financial analysis for the proposed PaymentGateway infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $117,279 upfront with 416ms in annual operating costs.
+The total 3-year cost of ownership is 420ms compared to the current
+logging pipeline setup at $117,279 over the same period.
+
+ROI analysis: the projected payback period is 10 months. Key benefits include
+21% reduction in infrastructure management time, improved Data Vault performance
+that supports the revenue growth targets, and elimination of the logging pipeline
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $117,279 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 21% interest.
+This preserves cash for the Singapore office investment planned for Q2.
+
+Risk factors: technology lock-in with the PaymentGateway vendor, though the 10-year
+contract includes an exit clause after the first year. Tomoko Nakamura from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Tuesday, January 12 to lock in the quoted pricing. The vendor has
+given us a 10-day hold on the current rates.
+
+Cheers,
+Michael

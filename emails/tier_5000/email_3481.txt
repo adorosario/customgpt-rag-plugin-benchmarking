@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-23 08:11 PM
+Subject: Sprint planning â€” Data Vault sprint v5.0.0-beta
+
+Hey everyone,
+
+Here's the sprint plan for Data Vault sprint v5.0.0-beta. Capacity is 108 story
+points with 154ms engineers available this sprint.
+
+Committed stories: the APIGateway integration work carries over from last sprint
+with 370ms points remaining. The new load balancer API endpoints are
+estimated at 108 points. The bug fix for the APIGateway rendering issue
+is 154ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the load balancer performance
+optimization that Rachel Nguyen has been scouting. It's estimated at 108 points
+and would improve response time by 32%.
+
+Dependencies: the APIGateway feature requires the API changes that Rachel Nguyen
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The load balancer work is self-contained.
+
+Risks: Rachel Nguyen is on-call this sprint which historically reduces their available
+capacity by 32%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, May 25. Let me know if the priorities look right.
+
+Talk soon,
+Liam

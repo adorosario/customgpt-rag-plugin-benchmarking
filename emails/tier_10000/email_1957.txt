@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-10-06 02:56 AM
+Subject: Beta program update â€” Sync Platform v3.0.0
+
+Hi all,
+
+Quick update on the Sync Platform v3.0.0 beta program. We're 25 weeks into
+the beta period with 192ms customers participating.
+
+Usage data: 21% of beta participants have activated the new AuditLog
+feature. Average daily usage is 25 sessions per user. The config manager
+workflow is being used by 167ms of participants, which exceeds our
+adoption target of 192ms.
+
+Feedback summary: overall sentiment is positive. The top 25 pieces of praise
+relate to the AuditLog speed improvement and the new config manager interface.
+The top 192ms complaints are about the AuditLog configuration complexity
+and a confusing error message in the config manager flow.
+
+Bugs found: 25 bugs reported, of which 192ms are critical. Ananya Desai
+from Engineering has fixed 167ms of the critical bugs. The remaining one
+is related to the AuditLog edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Tuesday, March 21. The GA release is targeted for 25 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Tuesday, March 21 to finalize the GA scope.
+
+Thanks,
+Sanjay

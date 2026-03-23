@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-10-16 12:34 PM
+Subject: Tax planning â€” Q2 estimated payments
+
+Hey everyone,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the FileStorageService investment
+deductions.
+
+Federal estimate: $189,340 based on projected taxable income of 106ms.
+This reflects the FileStorageService depreciation deductions and the R&D tax credit for
+the Cloud Connect development costs. Fatima Al-Rashid from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $189,340 for our primary jurisdiction and 230ms for the
+London office based on the apportionment factors. The London rate change that
+takes effect on Wednesday, February 18 will impact our Q2 estimate by approximately 70
+percent.
+
+International: with the London office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Fatima Al-Rashid to handle
+the registration. Setup cost is $189,340 with ongoing compliance costs of
+230ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Wednesday, February 18. I'll prepare the
+payment authorization for your signature by September 25. Underpayment penalties
+start at 19% so timely filing is important.
+
+Best,
+Ananya

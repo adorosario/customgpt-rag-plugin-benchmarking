@@ -1,0 +1,28 @@
+From: james.oduya@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-06-22 12:33 AM
+Subject: Insight Engine campaign launch â€” Q1 plan
+
+Good afternoon,
+
+Here's the campaign plan for the Insight Engine launch in Q1. I've aligned the
+messaging with the positioning we finalized last week and mapped out the channel
+strategy.
+
+Campaign theme: highlighting the DataPipeline advantage and how Insight Engine solves
+the key pain point around caching layer complexity. Target audience is mid-market
+and enterprise IT decision makers.
+
+Channel breakdown: 53% of budget to paid digital, 184 to content
+marketing, and the remainder to events and webinars. We're targeting a $88,560
+total spend with a goal of 118ms marketing qualified leads.
+
+Content deliverables: landing page, solution brief, customer case study featuring
+Cyberdyne, three blog posts, and a webinar co-hosted with Aisha Okafor from Product.
+All assets target completion by Monday, September 1.
+
+The paid campaign goes live two weeks before the official launch to build awareness.
+I'll share the creative brief for review tomorrow.
+
+Thanks,
+James

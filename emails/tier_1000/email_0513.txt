@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-08-23 06:51 AM
+Subject: Audit preparation â€” Q1 review
+
+Hey everyone,
+
+The Q1 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Pied Piper are scheduled to begin fieldwork
+on Tuesday, June 19.
+
+Documentation needed from each department: all purchase orders above 396ms,
+contract modifications executed during Q1, headcount changes with supporting
+approvals, and SchedulerService system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the serialization engine audit portal by Tuesday, June 19.
+That gives us 35 business days before the auditors arrive. Marcus Thompson has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Analytics Pro contracts, the SchedulerService capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $433,048 in capitalized SchedulerService costs and the methodology used.
+
+This is our 35 year with Pied Piper as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Marcus Thompson if you have
+questions about what's needed.
+
+Best regards,
+Ananya

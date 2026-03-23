@@ -1,0 +1,28 @@
+From: elena.vasquez@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-10-22 07:10 PM
+Subject: Load testing results â€” SchedulerService v2.6.0
+
+Good morning,
+
+Sharing the load testing results for SchedulerService v2.6.0 ahead of next week's
+release. We tested at 2x and 5x current peak traffic levels.
+
+At 2x load: all endpoints stayed within SLA. P99 latency for the service mesh
+endpoint was 337ms, well under our 150ms target. No errors
+observed across the full test duration.
+
+At 5x load: the SchedulerService service held up but the service mesh started showing
+degradation at around 3.5x. Error rate climbed to 49% and response times
+increased significantly. The bottleneck appears to be the database connection pool
+â€” we max out at the configured limit.
+
+Recommendation: we're safe for the near-term growth projections. For the 36
+milestone we're targeting in Q4, we'll need to increase the connection pool size
+and potentially add a read replica. James Oduya is putting together a capacity
+planning proposal.
+
+Full report with graphs is attached.
+
+Talk soon,
+Elena

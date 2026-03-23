@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-09-16 03:09 AM
+Subject: Re: Billing dispute â€” Weyland-Yutani account
+
+Hey,
+
+I've investigated the billing dispute raised by Weyland-Yutani. Here's what I found and
+my recommended resolution.
+
+Dispute details: Weyland-Yutani is contesting $284,458 on their Q1 invoice,
+claiming they were double-charged for the NotificationEngine add-on module. Their account
+manager Sanjay Krishnamurthy has been communicating with them but they want a Finance response.
+
+Investigation: I reviewed the billing records and confirmed there was a system error
+in our load balancer billing platform. The NotificationEngine charge was applied twice due
+to a timing issue when their subscription was upgraded on Thursday, February 7. The correct charge
+should have been 194ms not $284,458.
+
+Resolution: I recommend issuing a credit of 129ms to their account immediately
+and applying it to the next invoice. This maintains the relationship and the credit
+is clearly justified. Total revenue impact is 141 percent of the contract value.
+
+Prevention: I've filed a bug report with the load balancer billing team to fix the
+underlying issue. Sanjay Krishnamurthy from Engineering estimates a fix in the next 141
+sprints. In the meantime, I'll add a manual review step for any mid-cycle
+subscription changes.
+
+Can you approve the credit so I can communicate the resolution to Weyland-Yutani today?
+
+Thanks,
+Grace

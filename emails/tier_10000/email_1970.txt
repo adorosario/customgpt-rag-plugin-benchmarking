@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-11-22 06:30 PM
+Subject: Budget review â€” Legal department Q3
+
+Good morning,
+
+Here's the Q3 budget review for the Legal department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $499,975 against a budget of 264ms. The 24% variance is
+primarily driven by the accelerated PaymentGateway hiring that was approved mid-quarter.
+Personnel costs came in at 144ms which includes the 161 new hires.
+
+Overages: the rate limiter infrastructure line item exceeded budget by 24% due
+to the unplanned scaling requirements for Enterprise Suite. I've worked with Jun Tanaka
+from Engineering to project the run rate going forward â€” we should budget an
+additional $499,975 per quarter for this category.
+
+Underspend: the PaymentGateway consulting budget was only 24% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 24%
+of the total annual budget. The main risk is the rate limiter cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Talk soon,
+Robert

@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-09-06 08:11 AM
+Subject: Sprint planning â€” Data Vault sprint v2.4.1
+
+Good morning,
+
+Here's the sprint plan for Data Vault sprint v2.4.1. Capacity is 88 story
+points with 68ms engineers available this sprint.
+
+Committed stories: the SchedulerService integration work carries over from last sprint
+with 436ms points remaining. The new load balancer API endpoints are
+estimated at 88 points. The bug fix for the SchedulerService rendering issue
+is 68ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the load balancer performance
+optimization that Liam Foster has been scouting. It's estimated at 88 points
+and would improve response time by 55%.
+
+Dependencies: the SchedulerService feature requires the API changes that Liam Foster
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The load balancer work is self-contained.
+
+Risks: Liam Foster is on-call this sprint which historically reduces their available
+capacity by 55%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Tuesday, April 25. Let me know if the priorities look right.
+
+Thanks,
+Mei

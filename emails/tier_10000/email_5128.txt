@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-08-30 11:35 PM
+Subject: Budget review â€” Finance department Q2
+
+Hi all,
+
+Here's the Q2 budget review for the Finance department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $326,775 against a budget of 475ms. The 17% variance is
+primarily driven by the accelerated AnalyticsDashboard hiring that was approved mid-quarter.
+Personnel costs came in at 215ms which includes the 48 new hires.
+
+Overages: the service mesh infrastructure line item exceeded budget by 17% due
+to the unplanned scaling requirements for Integration Hub. I've worked with David Okonkwo
+from Engineering to project the run rate going forward â€” we should budget an
+additional $326,775 per quarter for this category.
+
+Underspend: the AnalyticsDashboard consulting budget was only 17% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 17%
+of the total annual budget. The main risk is the service mesh cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best regards,
+Robert

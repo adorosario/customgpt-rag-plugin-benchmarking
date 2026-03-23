@@ -1,0 +1,21 @@
+{
+  "tier": 500,
+  "question_id": "needle_2",
+  "question_type": "hard",
+  "run": 3,
+  "question": "What was the revised Q3 revenue projection from Finance?",
+  "model": "claude-sonnet-4-6",
+  "response": "The revised Q3 revenue projection from Finance was **$454,365**.\n\nThis was found in `email_0062.pdf` \u00e2\u20ac\u201d a cash flow forecast email from michael.brennan@acmecorp.com (cc'd to finance@acmecorp.com), dated 2025-11-29. The figure is based on the current AR aging and sales pipeline, with a Globex payment expected by December 15.",
+  "time_seconds": 180.79,
+  "num_turns": 3,
+  "cost_usd": 0.6422498000000001,
+  "input_tokens": 5,
+  "cache_creation_tokens": 15485,
+  "cache_read_tokens": 78107,
+  "output_tokens": 864,
+  "total_tokens": 94461,
+  "duration_api_ms": 149794,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

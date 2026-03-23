@@ -1,0 +1,28 @@
+From: oluwaseun.adeyemi@acmecorp.com
+To: derek.morrison@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-09-28 12:20 PM
+Subject: Sprint v4.1.0 retrospective notes
+
+Hi team,
+
+Here are the retrospective notes from sprint v4.1.0. Thanks to everyone who
+participated â€” we had good engagement this time.
+
+What went well: the AuditLog feature shipped on time, Robert Kimura did an excellent
+job coordinating the cross-team dependency, and our CI pipeline reliability improved
+to 133ms from 259ms last sprint.
+
+What could improve: we underestimated the config manager integration work by about
+40%, which pushed two stories into the next sprint. We also had too many
+context switches mid-sprint from unplanned support requests.
+
+Action items: establish a support rotation so on-call duties don't fall on the same
+people, and break down large stories into smaller increments to improve estimation
+accuracy. Robert Kimura volunteered to draft the rotation schedule.
+
+Sprint v4.1.0 velocity was 193 points. Carrying over 8 points of unfinished
+work to the next sprint.
+
+Best,
+Oluwaseun

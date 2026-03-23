@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-23 12:20 PM
+Subject: Financial close checklist â€” Q3
+
+Good morning,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Insight Engine invoices must be issued by Monday, March 15. Any revenue recognition
+adjustments for the MessageBroker contracts need supporting documentation uploaded
+to serialization engine. Alex Chen from Sales must confirm final deal amounts by November 2.
+
+Expenses: all expense reports for Q3 must be submitted by Monday, March 15. The
+MessageBroker vendor invoices totaling $419,008 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, MessageBroker subscription costs,
+and the serialization engine usage charges by Monday, March 15. Any non-standard accruals above
+366ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, MessageBroker account reconciliation, and
+inter-company balances must be completed by Monday, March 15. Alex Chen is handling the
+bank rec. I'll take the inter-company items since they involve the Tokyo entity.
+
+Target: books closed within 34 business days of quarter end. Final reporting
+package to leadership by Monday, March 15.
+
+Thanks,
+Robert

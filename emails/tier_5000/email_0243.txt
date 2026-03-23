@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-06-12 10:19 AM
+Subject: Audit preparation â€” Q1 review
+
+Hey,
+
+The Q1 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Massive Dynamic are scheduled to begin fieldwork
+on Wednesday, May 28.
+
+Documentation needed from each department: all purchase orders above 300ms,
+contract modifications executed during Q1, headcount changes with supporting
+approvals, and DataPipeline system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the metrics collector audit portal by Wednesday, May 28.
+That gives us 64 business days before the auditors arrive. Ravi Patel has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Analytics Pro contracts, the DataPipeline capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $262,693 in capitalized DataPipeline costs and the methodology used.
+
+This is our 64 year with Massive Dynamic as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Ravi Patel if you have
+questions about what's needed.
+
+Regards,
+Ananya

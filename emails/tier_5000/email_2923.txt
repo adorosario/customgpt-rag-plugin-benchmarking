@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-12 04:32 PM
+Subject: Cash flow forecast â€” Q2
+
+Hey,
+
+Attached is the cash flow forecast for Q2. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $54,783 based on the current AR aging
+and sales pipeline. The Wayne Enterprises payment of 309ms is expected by Wednesday, October 11
+â€” Laura Kim from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the WebhookDispatcher infrastructure
+investment at $54,783. The Singapore office build-out costs will hit in Q2
+with an estimated total of 379ms. Payroll continues at 309ms
+monthly for our 29-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $54,783 in the second month. This provides 29 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Wayne Enterprises deal slips from Q2 to next quarter, we'll
+need to draw on the credit facility for $54,783. I've confirmed the line is
+available. Laura Kim and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Thanks,
+Robert

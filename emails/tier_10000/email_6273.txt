@@ -1,0 +1,29 @@
+From: kwame.asante@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-07-19 08:51 AM
+Subject: Policy update â€” AuthService guidelines
+
+Hi,
+
+We've updated the AuthService company policy based on feedback from employees and
+recent changes in Tokyo labor regulations. The new policy takes effect on Friday, March 3.
+
+Key changes: the event bus allowance has been increased from 112ms to
+496ms per month. The eligibility window for AuthService has been expanded
+to include employees who've been with Acme Corp for 173 months or more, down
+from the previous requirement of 112ms months.
+
+New additions: a Data Vault reimbursement category has been added covering up to
+$222,035 annually. This addresses the top employee request from the last survey.
+Patrick O'Brien negotiated favorable terms with the event bus vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by February 3. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 59% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best,
+Kwame

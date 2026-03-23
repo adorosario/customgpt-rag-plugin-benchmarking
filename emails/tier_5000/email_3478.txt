@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-06-19 06:47 PM
+Subject: Tax planning â€” Q2 estimated payments
+
+Hi team,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the PaymentGateway investment
+deductions.
+
+Federal estimate: $113,268 based on projected taxable income of 149ms.
+This reflects the PaymentGateway depreciation deductions and the R&D tax credit for
+the Insight Engine development costs. Ravi Patel from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $113,268 for our primary jurisdiction and 366ms for the
+Tokyo office based on the apportionment factors. The Tokyo rate change that
+takes effect on Monday, October 9 will impact our Q2 estimate by approximately 173
+percent.
+
+International: with the Tokyo office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Ravi Patel to handle
+the registration. Setup cost is $113,268 with ongoing compliance costs of
+366ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Monday, October 9. I'll prepare the
+payment authorization for your signature by August 16. Underpayment penalties
+start at 40% so timely filing is important.
+
+Regards,
+Michael

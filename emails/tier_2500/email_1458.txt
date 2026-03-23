@@ -1,0 +1,26 @@
+From: hannah.goldstein@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-07-10 04:00 AM
+Subject: Pipeline update â€” Stark Industries deal status
+
+Good morning,
+
+Quick update on the Stark Industries opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $249,701 for the Sync Platform deployment. The
+decision timeline is end of Q1. Their main concern remains the integration
+with their existing WebhookDispatcher infrastructure, which is why I've looped in Sarah Chen
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Stark Industries is also evaluating one other vendor but our
+Sync Platform demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our metrics collector capability.
+
+Next steps: technical architecture session on Friday, January 22, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 38%.
+
+Regards,
+Hannah

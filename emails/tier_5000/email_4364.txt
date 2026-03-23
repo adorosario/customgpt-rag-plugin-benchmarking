@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-06-08 05:09 AM
+Subject: Customer feedback digest â€” Sync Platform Q1
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Sync Platform. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 75, up 271ms points from last quarter. The improvement
+is driven by the AuthService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 58%.
+
+Top feature requests: AuthService advanced filtering (75 votes), service mesh
+bulk operations (271ms votes), and enhanced Sync Platform reporting (424ms
+votes). The filtering request aligns with what we heard in the user research study
+Grace Mwangi conducted.
+
+Top complaints: AuthService performance during peak hours (75 mentions),
+the service mesh onboarding experience (271ms mentions), and pricing
+transparency (424ms mentions). The performance issue is being addressed
+by Engineering â€” Grace Mwangi expects the fix in v3.8.1.
+
+Churn insights: 75 customers churned this quarter citing AuthService
+limitations as the primary reason. The service mesh overhaul on our roadmap directly
+addresses their feedback. 58% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Thursday, December 12.
+
+Best regards,
+Sanjay

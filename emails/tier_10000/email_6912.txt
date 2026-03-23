@@ -1,0 +1,33 @@
+From: yuki.sato@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-06-19 03:04 PM
+Subject: SEO update â€” WebhookDispatcher keyword rankings
+
+Hey everyone,
+
+Monthly SEO update for our WebhookDispatcher content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Insight Engine comparison page climbed from position 318ms to
+position 318ms for our primary keyword. The rate limiter guide is now
+ranking in the top 177 for three long-tail variations.
+
+Traffic impact: organic sessions are up 56% month over month. The
+WebhookDispatcher cluster is now driving 177 unique sessions monthly, making it our
+second-highest traffic source behind the Insight Engine landing page.
+
+Content gaps identified: we're missing content for 318ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q4. Wei Zhang from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 318ms on mobile after the image
+optimization work. No crawl errors detected. The new rate limiter documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 177 pages. I'll share the
+outreach plan next week.
+
+Thanks,
+Yuki

@@ -1,0 +1,21 @@
+{
+  "tier": 5000,
+  "question_id": "needle_2",
+  "question_type": "hard",
+  "run": 2,
+  "question": "What was the revised Q3 revenue projection from Finance?",
+  "model": "claude-sonnet-4-6",
+  "response": "The revised Q3 revenue projection from Finance was **$4.2M**, down from the original $4.8M target.\n\nTwo factors drove the revision (per Ananya Desai's email from 2025-09-02):\n1. The Berlin office opening was pushed back six weeks, delaying European revenue ramp\n2. The Initech deal slipped from Q3 into Q4 due to their internal budget approval process\n\nOn the upside, infrastructure cost savings partially offset the shortfall, and gross margin was still improving quarter over quarter.",
+  "time_seconds": 36.19,
+  "num_turns": 5,
+  "cost_usd": 0.10248765,
+  "input_tokens": 7,
+  "cache_creation_tokens": 13369,
+  "cache_read_tokens": 135043,
+  "output_tokens": 788,
+  "total_tokens": 149207,
+  "duration_api_ms": 22919,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

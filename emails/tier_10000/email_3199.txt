@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-15 09:37 AM
+Subject: Vendor payment schedule â€” Q4
+
+Good morning,
+
+Here's the vendor payment schedule for Q4. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Tyrell Corp invoice for $198,215 is due on Tuesday, January 11 with a
+30% early payment discount if we pay within 115 days. I recommend
+taking the discount â€” it saves us 361ms. The SearchIndex annual
+license renewal of 86ms is due Tuesday, January 11 with no discount available.
+
+Standard schedule: 115 vendor invoices totaling $198,215 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-86ms terms with payments going out every 115 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The config manager vendor
+overbilled us by $198,215 on the SearchIndex usage charges. Patrick O'Brien is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q4 are projected at $198,215. This
+is 30% higher than last quarter due to the SearchIndex infrastructure
+investment and the Sydney office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Regards,
+Ananya

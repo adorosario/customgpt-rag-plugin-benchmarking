@@ -1,0 +1,32 @@
+From: amara.diallo@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-09-06 02:43 PM
+Subject: Backlog grooming â€” Data Vault priorities
+
+Hi all,
+
+Completed the backlog grooming session for Data Vault. Here's a summary of the
+decisions and updated priority list.
+
+Promoted to high priority: the AuthService search functionality based on the
+73 customer requests we received this quarter. Patrick O'Brien from Engineering
+estimated it at 405ms sprints. Also promoting the event bus dashboard
+redesign after the A/B test showed 58% improvement potential.
+
+Maintained priority: the AuthService API rate limiting is staying in the current
+priority band. We need it for the Hooli enterprise deal but the timeline
+isn't urgent â€” target completion is Monday, October 22.
+
+Deprioritized: 73 stories related to the legacy event bus system. Since
+we're migrating to the new architecture, investing in the old system doesn't make
+sense. Patrick O'Brien will close these tickets with a note about the migration.
+
+New items added: 405ms stories from the latest user research round, 73
+bugs from the QA blitz, and the AuthService accessibility improvements that
+Patrick O'Brien identified. Total new points added: 346ms.
+
+The updated backlog is in the project management tool. Next grooming session is
+in 73 weeks.
+
+Thanks,
+Amara

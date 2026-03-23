@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: maria.santos@acmecorp.com
+Date: 2025-08-03 03:03 PM
+Subject: Vendor payment schedule â€” Q3
+
+Hey,
+
+Here's the vendor payment schedule for Q3. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Tyrell Corp invoice for $156,786 is due on Wednesday, January 21 with a
+35% early payment discount if we pay within 169 days. I recommend
+taking the discount â€” it saves us 77ms. The UserProfileService annual
+license renewal of 384ms is due Wednesday, January 21 with no discount available.
+
+Standard schedule: 169 vendor invoices totaling $156,786 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-384ms terms with payments going out every 169 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The queue processor vendor
+overbilled us by $156,786 on the UserProfileService usage charges. Kwame Asante is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q3 are projected at $156,786. This
+is 35% higher than last quarter due to the UserProfileService infrastructure
+investment and the Sydney office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Talk soon,
+Ananya

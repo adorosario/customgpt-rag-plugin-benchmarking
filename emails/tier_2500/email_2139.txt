@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-11-11 01:34 PM
+Subject: Analytics report â€” Insight Engine campaign performance
+
+Good morning,
+
+Here's the performance report for the Insight Engine campaign through Tuesday, March 8.
+
+Website traffic: up 24% month over month, driven primarily by the SchedulerService
+comparison blog post which brought in 140 unique visitors. Organic search is
+growing steadily â€” the metrics collector keyword cluster is now ranking on page one.
+
+Lead generation: 275ms marketing qualified leads this month against a
+target of 375ms. The whitepaper download page converted at 24% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 140 percent.
+
+Email campaigns: the Insight Engine nurture sequence has a 24% open rate and
+140 percent click-through rate. The top-performing email was the SchedulerService
+case study with Cyberdyne. David Okonkwo suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $265,529 which is 24% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Talk soon,
+Laura

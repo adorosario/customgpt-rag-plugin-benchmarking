@@ -1,0 +1,33 @@
+From: michael.brennan@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-20 11:51 AM
+Subject: FP&A update â€” Data Vault financial model
+
+Good afternoon,
+
+I've updated the Data Vault financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 139 per month based
+on the last 108ms months of data. Average contract value is tracking at
+$182,119, which is 39% above our original assumption. The NotificationEngine
+upsell rate of 84ms is a positive trend.
+
+Cost structure: the connection pool hosting costs are running 39% higher than
+modeled due to increased NotificationEngine usage. I've adjusted the variable cost
+per customer from 108ms to 84ms. Laura Kim from Engineering
+says the optimization project should bring this down by 39% in Q1.
+
+Break-even analysis: with the revised numbers, Data Vault reaches contribution
+margin break-even at 139 customers, which we're projected to hit by Thursday, February 2.
+Full break-even including allocated overhead comes at 108ms customers.
+
+Scenarios: the base case shows $182,119 in cumulative revenue by year end. The
+upside case with the Soylent Corp deal closing hits 84ms. Downside case
+assuming 39% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Regards,
+Michael

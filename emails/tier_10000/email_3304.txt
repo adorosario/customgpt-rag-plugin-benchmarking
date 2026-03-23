@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-08 01:06 AM
+Subject: FP&A update â€” Integration Hub financial model
+
+Hey everyone,
+
+I've updated the Integration Hub financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 53 per month based
+on the last 160ms months of data. Average contract value is tracking at
+$255,523, which is 36% above our original assumption. The SchedulerService
+upsell rate of 273ms is a positive trend.
+
+Cost structure: the load balancer hosting costs are running 36% higher than
+modeled due to increased SchedulerService usage. I've adjusted the variable cost
+per customer from 160ms to 273ms. Rachel Nguyen from Engineering
+says the optimization project should bring this down by 36% in Q1.
+
+Break-even analysis: with the revised numbers, Integration Hub reaches contribution
+margin break-even at 53 customers, which we're projected to hit by Tuesday, February 22.
+Full break-even including allocated overhead comes at 160ms customers.
+
+Scenarios: the base case shows $255,523 in cumulative revenue by year end. The
+upside case with the Cyberdyne deal closing hits 273ms. Downside case
+assuming 36% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Best,
+Robert

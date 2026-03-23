@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-09-18 04:51 PM
+Subject: Tax planning â€” Q4 estimated payments
+
+Good morning,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the SchedulerService investment
+deductions.
+
+Federal estimate: $155,069 based on projected taxable income of 310ms.
+This reflects the SchedulerService depreciation deductions and the R&D tax credit for
+the Analytics Pro development costs. Alex Chen from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $155,069 for our primary jurisdiction and 197ms for the
+Toronto office based on the apportionment factors. The Toronto rate change that
+takes effect on Tuesday, May 22 will impact our Q4 estimate by approximately 114
+percent.
+
+International: with the Toronto office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Alex Chen to handle
+the registration. Setup cost is $155,069 with ongoing compliance costs of
+197ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Tuesday, May 22. I'll prepare the
+payment authorization for your signature by July 26. Underpayment penalties
+start at 47% so timely filing is important.
+
+Cheers,
+Ananya

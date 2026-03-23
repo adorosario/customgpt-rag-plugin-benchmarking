@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-10-16 01:21 AM
+Subject: Cash flow forecast â€” Q2
+
+Hi,
+
+Attached is the cash flow forecast for Q2. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $364,714 based on the current AR aging
+and sales pipeline. The Soylent Corp payment of 341ms is expected by Monday, August 7
+â€” Daniel Park from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the UserProfileService infrastructure
+investment at $364,714. The Berlin office build-out costs will hit in Q2
+with an estimated total of 70ms. Payroll continues at 341ms
+monthly for our 38-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $364,714 in the second month. This provides 38 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Soylent Corp deal slips from Q2 to next quarter, we'll
+need to draw on the credit facility for $364,714. I've confirmed the line is
+available. Daniel Park and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Best regards,
+Robert

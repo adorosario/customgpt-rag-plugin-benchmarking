@@ -1,0 +1,30 @@
+From: patrick.obrien@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-10-05 03:46 PM
+Subject: Policy update â€” ReportingEngine guidelines
+
+Hi all,
+
+We've updated the ReportingEngine company policy based on feedback from employees and
+recent changes in Sydney labor regulations. The new policy takes effect on Thursday, August 3.
+
+Key changes: the logging pipeline allowance has been increased from 478ms to
+203ms per month. The eligibility window for ReportingEngine has been expanded
+to include employees who've been with Acme Corp for 122 months or more, down
+from the previous requirement of 478ms months.
+
+New additions: a Enterprise Suite reimbursement category has been added covering up to
+$381,545 annually. This addresses the top employee request from the last survey.
+Maria Santos negotiated favorable terms with the logging pipeline vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by April 11. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 51% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Talk soon,
+Patrick

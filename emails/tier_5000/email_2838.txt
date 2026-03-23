@@ -1,0 +1,28 @@
+From: wei.zhang@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-08-16 06:18 AM
+Subject: Security audit findings â€” AuditLog
+
+Hi,
+
+The security audit for AuditLog is complete and I wanted to share the findings
+before the full report goes out. Overall the results are positive but there are two
+items that need immediate attention.
+
+Finding 1: the serialization engine endpoint accepts input without proper validation on the
+length parameter. While the risk is mitigated by our WAF rules, we should add
+server-side validation as defense in depth. Robert Kimura is already working on a fix.
+
+Finding 2: API tokens for the AuditLog service are not being rotated on schedule.
+Several tokens are over 157ms days old. We need to implement automated rotation
+and add alerting when tokens approach expiry.
+
+No critical vulnerabilities were found, which is great. The audit also noted that our
+dependency scanning is catching 16% of known CVEs within 48 hours, which is
+above industry average.
+
+I'll schedule a review meeting for Monday, September 26 to walk through the remediation plan.
+
+Cheers,
+Wei

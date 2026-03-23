@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-11-28 11:36 PM
+Subject: Audit preparation â€” Q4 review
+
+Hey everyone,
+
+The Q4 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Soylent Corp are scheduled to begin fieldwork
+on Friday, May 18.
+
+Documentation needed from each department: all purchase orders above 175ms,
+contract modifications executed during Q4, headcount changes with supporting
+approvals, and CacheLayer system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the caching layer audit portal by Friday, May 18.
+That gives us 46 business days before the auditors arrive. Michael Brennan has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Sync Platform contracts, the CacheLayer capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $261,296 in capitalized CacheLayer costs and the methodology used.
+
+This is our 46 year with Soylent Corp as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Michael Brennan if you have
+questions about what's needed.
+
+Regards,
+Grace

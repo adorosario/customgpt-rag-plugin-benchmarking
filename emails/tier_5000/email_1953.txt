@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-08-03 11:01 AM
+Subject: Tax planning â€” Q2 estimated payments
+
+Good morning,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the NotificationEngine investment
+deductions.
+
+Federal estimate: $107,844 based on projected taxable income of 262ms.
+This reflects the NotificationEngine depreciation deductions and the R&D tax credit for
+the Enterprise Suite development costs. Fatima Al-Rashid from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $107,844 for our primary jurisdiction and 214ms for the
+Berlin office based on the apportionment factors. The Berlin rate change that
+takes effect on Tuesday, January 16 will impact our Q2 estimate by approximately 80
+percent.
+
+International: with the Berlin office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Fatima Al-Rashid to handle
+the registration. Setup cost is $107,844 with ongoing compliance costs of
+214ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Tuesday, January 16. I'll prepare the
+payment authorization for your signature by June 7. Underpayment penalties
+start at 25% so timely filing is important.
+
+Regards,
+Ananya

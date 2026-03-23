@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-06 03:47 AM
+Subject: Financial close checklist â€” Q3
+
+Good afternoon,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Data Vault invoices must be issued by Wednesday, January 4. Any revenue recognition
+adjustments for the AnalyticsDashboard contracts need supporting documentation uploaded
+to serialization engine. Hannah Goldstein from Sales must confirm final deal amounts by December 12.
+
+Expenses: all expense reports for Q3 must be submitted by Wednesday, January 4. The
+AnalyticsDashboard vendor invoices totaling $167,121 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, AnalyticsDashboard subscription costs,
+and the serialization engine usage charges by Wednesday, January 4. Any non-standard accruals above
+239ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, AnalyticsDashboard account reconciliation, and
+inter-company balances must be completed by Wednesday, January 4. Hannah Goldstein is handling the
+bank rec. I'll take the inter-company items since they involve the New York entity.
+
+Target: books closed within 172 business days of quarter end. Final reporting
+package to leadership by Wednesday, January 4.
+
+Regards,
+Grace

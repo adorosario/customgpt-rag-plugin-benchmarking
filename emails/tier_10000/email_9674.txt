@@ -1,0 +1,28 @@
+From: priya.sharma@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-10-31 01:57 AM
+Subject: Re: API rate limiting design for AuthService
+
+Hey everyone,
+
+Thanks for the feedback on the rate limiting proposal. I've incorporated the
+suggestions and here's the updated design for the AuthService API.
+
+We'll implement a token bucket algorithm at the rate limiter gateway level. Default
+limits are 218ms requests per minute for standard tier and 242ms
+for premium tier. Burst allowance is set to 13% above the sustained rate.
+
+When a client hits the limit, they'll receive a 429 response with Retry-After
+headers. The AuthService SDK will handle automatic backoff on the client side.
+Aisha Okafor is updating the SDK to support this.
+
+For internal services, we'll use a separate rate limit pool with higher thresholds
+to prevent cascading failures. The 55 dashboard will show real-time consumption
+per client so we can proactively reach out before anyone hits their limits.
+
+Implementation timeline is two sprints. I'd like to ship the server-side changes
+first and give clients a 30-day grace period before enforcement begins.
+
+Regards,
+Priya

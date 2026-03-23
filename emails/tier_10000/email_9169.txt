@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-18 12:25 PM
+Subject: Tax planning â€” Q2 estimated payments
+
+Hey everyone,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the DataPipeline investment
+deductions.
+
+Federal estimate: $479,797 based on projected taxable income of 136ms.
+This reflects the DataPipeline depreciation deductions and the R&D tax credit for
+the Sync Platform development costs. Sofia Martinez from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $479,797 for our primary jurisdiction and 401ms for the
+Tokyo office based on the apportionment factors. The Tokyo rate change that
+takes effect on Thursday, November 21 will impact our Q2 estimate by approximately 37
+percent.
+
+International: with the Tokyo office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Sofia Martinez to handle
+the registration. Setup cost is $479,797 with ongoing compliance costs of
+401ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Thursday, November 21. I'll prepare the
+payment authorization for your signature by March 7. Underpayment penalties
+start at 60% so timely filing is important.
+
+Talk soon,
+Ananya

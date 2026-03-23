@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-10-15 04:26 AM
+Subject: Sales engineering request â€” Umbrella Inc POC
+
+Good afternoon,
+
+Requesting SE support for a proof-of-concept with Umbrella Inc. This is a $95,156
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Analytics Pro can handle 60
+transactions per second with their DataPipeline data format. The test needs to
+run against their staging environment and demonstrate the serialization engine capability
+under realistic load.
+
+Timeline: Umbrella Inc wants the POC completed within 341ms business days
+starting Monday, May 18. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Aisha Okafor for the technical configuration and someone from
+the DataPipeline team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q3. Let me know if we can make this timeline work.
+
+Thanks,
+Hannah

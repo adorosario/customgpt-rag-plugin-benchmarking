@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-09-16 10:47 AM
+Subject: Budget review â€” Sales department Q1
+
+Good morning,
+
+Here's the Q1 budget review for the Sales department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $70,765 against a budget of 177ms. The 17% variance is
+primarily driven by the accelerated ReportingEngine hiring that was approved mid-quarter.
+Personnel costs came in at 354ms which includes the 55 new hires.
+
+Overages: the config manager infrastructure line item exceeded budget by 17% due
+to the unplanned scaling requirements for Enterprise Suite. I've worked with Carlos Rivera
+from Engineering to project the run rate going forward â€” we should budget an
+additional $70,765 per quarter for this category.
+
+Underspend: the ReportingEngine consulting budget was only 17% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 17%
+of the total annual budget. The main risk is the config manager cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Cheers,
+Grace

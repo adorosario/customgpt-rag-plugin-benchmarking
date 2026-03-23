@@ -1,0 +1,25 @@
+From: elena.vasquez@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-06-22 04:49 PM
+Subject: Re: AuditLog performance regression in v4.1.0
+
+Good afternoon,
+
+I ran the benchmarks on AuditLog after the v4.1.0 release and we're seeing a
+significant regression. Average response time has climbed from 158ms to
+417ms, which puts us well outside our target SLA for this service.
+
+The profiling data points to the new serialization layer as the likely culprit. When
+I disabled the feature flag and re-ran the suite, numbers returned to baseline. I've
+opened a ticket and assigned it to Yuki Sato for deeper investigation.
+
+We should decide whether to roll back v4.1.0 in production or push a targeted fix.
+My recommendation is a hotfix â€” the regression is isolated to one code path and
+shouldn't take more than a day to resolve. But I'd like the team's input before we
+commit to a direction.
+
+Can we get 30 minutes on the calendar today to discuss?
+
+Thanks,
+Elena

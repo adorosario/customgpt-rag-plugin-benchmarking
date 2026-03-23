@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-26 08:33 AM
+Subject: A/B test results â€” FileStorageService experiment
+
+Hey,
+
+The FileStorageService A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 142 days with 338ms users in each cohort.
+
+Variant A (control): the existing metrics collector flow. Conversion rate of
+90ms with an average task completion time of 142 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified FileStorageService step.
+Conversion rate of 338ms with task completion time of 90ms seconds.
+This represents a 43% improvement in conversion and 142 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 142 to 338ms
+in the treatment group. Support ticket volume for FileStorageService related issues
+decreased by 43%. No negative impact on metrics collector engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Rachel Nguyen from Engineering can have this
+deployed by Wednesday, November 28.
+
+One caveat: the test population skewed toward Insight Engine power users. We should
+monitor new user behavior closely for the first 142 weeks after full rollout.
+
+Regards,
+Liam

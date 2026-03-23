@@ -1,0 +1,27 @@
+From: marcus.thompson@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-07-21 01:00 PM
+Subject: On-call handoff â€” week of Thursday, December 8
+
+Hi team,
+
+Handing off on-call duties for the week of Thursday, December 8. Here's the status summary for
+the incoming rotation.
+
+Active issues: the AnalyticsDashboard service has been showing elevated latency during peak
+hours, averaging 470ms against a target of 466ms. We've identified
+the root cause in the serialization engine caching layer and a fix is in code review now.
+Should be deployed by Tuesday.
+
+Monitoring: keep an eye on the AnalyticsDashboard dashboard. Wei Zhang added new alerts
+last week but we haven't validated them under real load yet. If you get paged for
+the serialization engine alert, the runbook is updated and the escalation path is documented.
+
+Scheduled maintenance: there's a planned database maintenance window on Thursday at
+02:00 UTC. Expected duration is 191 minutes. The procedure is automated but
+someone needs to verify the health checks afterward.
+
+Reach out if anything comes up that isn't covered in the runbook.
+
+Best,
+Marcus

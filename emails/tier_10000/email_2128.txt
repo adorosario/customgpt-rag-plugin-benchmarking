@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-08-14 09:19 PM
+Subject: Re: Employee survey results â€” Q1
+
+Good afternoon,
+
+The Q1 employee engagement survey results are in. Response rate was 52%,
+up 79 points from the last survey. Here are the key findings.
+
+Overall satisfaction: 359ms out of 5, which is consistent with the
+previous quarter. The Sales department scored highest at 481ms while the
+SchedulerService team showed the largest improvement at plus 79 points.
+
+Top strengths: colleagues and team culture scored 359ms, manager
+effectiveness scored 481ms, and work-life balance scored 79. Employees
+particularly appreciated the flexible event bus policy and the recent team events.
+
+Areas for improvement: career development pathways scored lowest at 79 out of 5.
+Employees want more clarity on promotion criteria and more frequent feedback.
+Cross-department communication was another area flagged â€” 52% of respondents
+said they don't have enough visibility into what other teams are working on.
+
+Action plan: Amara Diallo is leading a working group to address the career development
+feedback. We'll publish a response with specific commitments by Wednesday, September 27.
+
+Department-level reports will be shared with managers this week.
+
+Best,
+Fatima

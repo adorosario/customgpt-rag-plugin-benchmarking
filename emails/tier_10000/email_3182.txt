@@ -1,0 +1,32 @@
+From: james.oduya@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-06-21 09:46 AM
+Subject: SEO update â€” NotificationEngine keyword rankings
+
+Hi team,
+
+Monthly SEO update for our NotificationEngine content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Cloud Connect comparison page climbed from position 215ms to
+position 215ms for our primary keyword. The load balancer guide is now
+ranking in the top 74 for three long-tail variations.
+
+Traffic impact: organic sessions are up 36% month over month. The
+NotificationEngine cluster is now driving 74 unique sessions monthly, making it our
+second-highest traffic source behind the Cloud Connect landing page.
+
+Content gaps identified: we're missing content for 215ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q3. Ananya Desai from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 215ms on mobile after the image
+optimization work. No crawl errors detected. The new load balancer documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 74 pages. I'll share the
+outreach plan next week.
+
+Best,
+James

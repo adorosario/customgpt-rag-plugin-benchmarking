@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-08-18 11:55 PM
+Subject: Event planning â€” Insight Engine webinar on Monday, November 26
+
+Hi team,
+
+Finalizing details for the Insight Engine webinar on Monday, November 26. Here's where we stand on
+the logistics and promotion.
+
+Content: David Okonkwo from Product will present the NotificationEngine roadmap segment.
+I'll handle the intro and customer story. We're targeting a 98-minute
+presentation followed by 398ms minutes of live Q&A. The authentication module demo
+segment should be the highlight.
+
+Registration: we've had 298ms sign-ups so far. Goal is 398ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Insight Engine keywords.
+
+Tech setup: using the standard webinar platform. David Okonkwo will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Monday, November 26 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 98 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Talk soon,
+Sofia

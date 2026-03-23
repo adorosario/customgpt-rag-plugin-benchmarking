@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-06-02 02:49 AM
+Subject: Onboarding schedule â€” new hire starting Wednesday, August 21
+
+Hi,
+
+We have a new team member joining Finance on Wednesday, August 21. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, SchedulerService systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Patrick O'Brien will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Data Vault and the logging pipeline tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Wednesday, August 21. All software licenses including SchedulerService and logging pipeline access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 56 people to schedule intro meetings with, and first
+199ms-day goals. Please send these to Patrick O'Brien in People Ops.
+
+Welcome email goes out 56 days before start date.
+
+Best regards,
+Fatima

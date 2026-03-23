@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-11-03 05:21 AM
+Subject: Policy update â€” APIGateway guidelines
+
+Hey,
+
+We've updated the APIGateway company policy based on feedback from employees and
+recent changes in Tokyo labor regulations. The new policy takes effect on Monday, September 27.
+
+Key changes: the queue processor allowance has been increased from 178ms to
+92ms per month. The eligibility window for APIGateway has been expanded
+to include employees who've been with Acme Corp for 190 months or more, down
+from the previous requirement of 178ms months.
+
+New additions: a Analytics Pro reimbursement category has been added covering up to
+$63,108 annually. This addresses the top employee request from the last survey.
+Elena Vasquez negotiated favorable terms with the queue processor vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by February 7. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 7% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best,
+Rachel

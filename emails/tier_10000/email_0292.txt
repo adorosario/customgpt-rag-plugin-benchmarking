@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-07-13 08:16 AM
+Subject: Revenue recognition â€” Insight Engine contracts
+
+Hey,
+
+I need to walk through the revenue recognition treatment for the new Insight Engine
+contracts signed this quarter. We have 117 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Cyberdyne contract bundles Insight Engine licenses with
+config manager implementation services. I've determined the standalone selling prices
+and allocated $88,992 to the license component and 161ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 117-month implementation period.
+
+Variable consideration: 119ms contracts include performance bonuses tied to
+APIGateway uptime metrics. Using the expected value method, I've estimated
+$88,992 in variable consideration based on our historical performance of
+9% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Cyberdyne amendment added config manager capacity at
+$88,992 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Amara Diallo from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Monday, October 24.
+
+Best regards,
+Ananya

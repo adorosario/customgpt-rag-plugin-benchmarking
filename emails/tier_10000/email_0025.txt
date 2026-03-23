@@ -1,0 +1,28 @@
+From: jun.tanaka@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-10-29 11:19 PM
+Subject: Quarterly territory review â€” Q1
+
+Hi all,
+
+Here's my territory review for Q1. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 10 qualified opportunities worth a combined $218,654 in
+ARR. The largest deal is Cyberdyne at 148ms, which I expect to close by
+Thursday, May 22. Three other deals in the 159ms range are progressing through
+procurement.
+
+Wins this quarter: closed Cyberdyne for Analytics Pro with a 57% upsell from
+their initial scope. The event bus add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Alex Chen to the Cyberdyne executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Best,
+Jun

@@ -1,0 +1,29 @@
+From: patrick.obrien@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-11-13 11:01 AM
+Subject: Hiring update â€” Product open positions
+
+Hey everyone,
+
+Here's the weekly hiring update for the Product department. We're making progress
+on several key roles.
+
+Active searches: the BillingModule role has 135 candidates in the pipeline with
+251ms scheduled for final round interviews this week. The logging pipeline
+position has been open for 249ms days and we're seeing fewer qualified
+applicants than expected â€” I'd like to discuss expanding our sourcing channels.
+
+Offers: we extended an offer to a strong candidate for the Elena Vasquez backfill
+role. Their expected start date is Thursday, March 22 pending background check completion.
+Compensation is at $90,092 which is within the approved band.
+
+Upcoming: the Enterprise Suite team has submitted a headcount request for 135 new
+positions in Q1. I'm drafting the job descriptions and will share them for
+review by Thursday, March 22.
+
+Interview load: we conducted 249ms interviews last week across all open
+roles. Please remind your team leads that timely interviewer feedback is critical â€”
+we're losing candidates due to slow response times on 19% of our processes.
+
+Regards,
+Patrick

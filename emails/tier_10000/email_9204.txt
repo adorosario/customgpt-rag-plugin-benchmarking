@@ -1,0 +1,29 @@
+From: maria.santos@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: sarah.chen@acmecorp.com
+Date: 2025-11-20
+Subject: CloudScale Contract Renewal â€” Final Terms
+
+Hi Robert,
+
+I'm pleased to confirm that we've finalized the CloudScale vendor contract renewal.
+After three rounds of negotiation, we landed on terms that I think represent a solid
+outcome for Acme Corp.
+
+The final pricing is $85,000 per year, which is a 12% reduction from the original
+renewal quote of $96,500. The contract is structured as a 2-year term running from
+January 2026 through December 2027, with a rate lock guarantee for the full duration.
+
+CloudScale will continue to provide our core infrastructure services including
+managed Kubernetes clusters, object storage, and the CDN tier we rely on for the
+customer-facing application. They've also agreed to include priority support at no
+additional cost, which was previously a $6,000 annual add-on.
+
+Sarah has reviewed the final redline and confirmed no outstanding legal concerns. I'll
+need your signature on the execution copy by December 1 to lock in the January start
+date. I'm sending the DocuSign package separately.
+
+Let me know if you have any questions.
+
+Best,
+Maria

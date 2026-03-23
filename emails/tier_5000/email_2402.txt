@@ -1,0 +1,32 @@
+From: james.oduya@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-07-23 11:58 AM
+Subject: SEO update â€” WebhookDispatcher keyword rankings
+
+Hey,
+
+Monthly SEO update for our WebhookDispatcher content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Integration Hub comparison page climbed from position 477ms to
+position 280ms for our primary keyword. The logging pipeline guide is now
+ranking in the top 90 for three long-tail variations.
+
+Traffic impact: organic sessions are up 35% month over month. The
+WebhookDispatcher cluster is now driving 90 unique sessions monthly, making it our
+second-highest traffic source behind the Integration Hub landing page.
+
+Content gaps identified: we're missing content for 477ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q2. Grace Mwangi from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 280ms on mobile after the image
+optimization work. No crawl errors detected. The new logging pipeline documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 90 pages. I'll share the
+outreach plan next week.
+
+Best,
+James

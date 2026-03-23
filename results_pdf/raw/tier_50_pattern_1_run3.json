@@ -1,0 +1,21 @@
+{
+  "tier": 50,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "Nothing in this codebase references \"Project Nexus.\" Do you mean a specific project in your organization, or are you asking about a general/external initiative? If it's something to search the web for, I can use Perplexity to look it up.",
+  "time_seconds": 22.44,
+  "num_turns": 2,
+  "cost_usd": 0.06066315,
+  "input_tokens": 4,
+  "cache_creation_tokens": 11165,
+  "cache_read_tokens": 45958,
+  "output_tokens": 333,
+  "total_tokens": 57460,
+  "duration_api_ms": 10813,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

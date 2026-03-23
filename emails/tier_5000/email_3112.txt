@@ -1,0 +1,31 @@
+From: david.okonkwo@acmecorp.com
+To: aisha.okafor@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-10-13 02:15 AM
+Subject: Board resolution â€” Cloud Connect approval
+
+Hi all,
+
+The board resolution for the Cloud Connect initiative has been drafted and is ready
+for circulation. Here's a summary of the key provisions.
+
+Authorization: the resolution authorizes management to proceed with the FileStorageService
+investment of up to $391,309 over 57 fiscal quarters. This covers development
+costs, infrastructure, and the queue processor vendor contract.
+
+Reporting requirements: management will provide quarterly updates on Cloud Connect
+progress to the board, including financial performance against the $391,309 budget
+and key milestones. Dmitri Volkov from Finance will prepare the reports.
+
+Risk acknowledgment: the resolution includes a risk disclosure covering technology
+risk, market risk, and the competitive landscape in the FileStorageService space. The
+board's fiduciary obligations are addressed in section 57.
+
+Signing: we need signatures from 345ms board members for a valid resolution.
+I've prepared the signature pages and will route via DocuSign on Thursday, April 27. The
+effective date of the resolution will be the date of the last required signature.
+
+Please review the draft and send any comments by Thursday, April 27.
+
+Thanks,
+David

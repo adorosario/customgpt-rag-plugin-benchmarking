@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-07-22 03:29 PM
+Subject: Tax planning â€” Q1 estimated payments
+
+Hey,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the AuditLog investment
+deductions.
+
+Federal estimate: $397,174 based on projected taxable income of 396ms.
+This reflects the AuditLog depreciation deductions and the R&D tax credit for
+the Sync Platform development costs. Ananya Desai from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $397,174 for our primary jurisdiction and 139ms for the
+New York office based on the apportionment factors. The New York rate change that
+takes effect on Thursday, November 10 will impact our Q1 estimate by approximately 86
+percent.
+
+International: with the New York office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Ananya Desai to handle
+the registration. Setup cost is $397,174 with ongoing compliance costs of
+139ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Thursday, November 10. I'll prepare the
+payment authorization for your signature by June 11. Underpayment penalties
+start at 53% so timely filing is important.
+
+Talk soon,
+Michael

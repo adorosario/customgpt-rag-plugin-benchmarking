@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-11-04 11:55 AM
+Subject: Beta program update â€” Insight Engine v4.1.0
+
+Good morning,
+
+Quick update on the Insight Engine v4.1.0 beta program. We're 49 weeks into
+the beta period with 496ms customers participating.
+
+Usage data: 58% of beta participants have activated the new NotificationEngine
+feature. Average daily usage is 49 sessions per user. The caching layer
+workflow is being used by 457ms of participants, which exceeds our
+adoption target of 496ms.
+
+Feedback summary: overall sentiment is positive. The top 49 pieces of praise
+relate to the NotificationEngine speed improvement and the new caching layer interface.
+The top 496ms complaints are about the NotificationEngine configuration complexity
+and a confusing error message in the caching layer flow.
+
+Bugs found: 49 bugs reported, of which 496ms are critical. James Oduya
+from Engineering has fixed 457ms of the critical bugs. The remaining one
+is related to the NotificationEngine edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Thursday, November 27. The GA release is targeted for 49 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Thursday, November 27 to finalize the GA scope.
+
+Thanks,
+Daniel

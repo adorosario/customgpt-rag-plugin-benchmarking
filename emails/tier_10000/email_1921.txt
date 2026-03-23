@@ -1,0 +1,32 @@
+From: kwame.asante@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-06-16 03:09 AM
+Subject: Benefits enrollment â€” open period starting Monday, January 28
+
+Hello,
+
+Open enrollment for our benefits package begins on Monday, January 28 and runs through March 18.
+Here's a summary of the key changes for the upcoming plan year.
+
+Health insurance: we're introducing a new APIGateway plan option alongside the
+existing choices. The premium increase this year is 9%, which is below the
+industry average. Acme Corp will continue covering 11 percent of employee
+premiums.
+
+New benefit: we've partnered with Pied Piper to offer a wellness stipend of $417,679
+per year. This can be used for gym memberships, mental health services, or
+ergonomic equipment. Maria Santos worked with the vendor to negotiate this addition.
+
+Retirement: the 401(k) match is increasing from 63ms percent to
+127ms percent of salary, effective next plan year. If you're not
+currently contributing enough to get the full match, now is a great time to adjust.
+
+Information sessions: we're hosting 11 live Q&A sessions where employees can
+ask questions about plan options. The authentication module portal will have a comparison
+tool to help you evaluate plans.
+
+Detailed plan documents are available in the HR portal. Please make your elections
+before March 18.
+
+Best regards,
+Kwame

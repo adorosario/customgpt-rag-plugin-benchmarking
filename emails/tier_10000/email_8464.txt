@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: elena.vasquez@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-22 08:49 AM
+Subject: Vendor payment schedule â€” Q1
+
+Good afternoon,
+
+Here's the vendor payment schedule for Q1. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Pied Piper invoice for $143,313 is due on Monday, September 18 with a
+34% early payment discount if we pay within 42 days. I recommend
+taking the discount â€” it saves us 208ms. The AuditLog annual
+license renewal of 421ms is due Monday, September 18 with no discount available.
+
+Standard schedule: 42 vendor invoices totaling $143,313 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-421ms terms with payments going out every 42 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The authentication module vendor
+overbilled us by $143,313 on the AuditLog usage charges. Alex Chen is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q1 are projected at $143,313. This
+is 34% higher than last quarter due to the AuditLog infrastructure
+investment and the Singapore office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Talk soon,
+Ananya

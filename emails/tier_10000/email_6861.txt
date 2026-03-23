@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-06-17 05:51 AM
+Subject: Budget review â€” HR department Q4
+
+Good morning,
+
+Here's the Q4 budget review for the HR department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $107,056 against a budget of 314ms. The 17% variance is
+primarily driven by the accelerated DataPipeline hiring that was approved mid-quarter.
+Personnel costs came in at 283ms which includes the 154 new hires.
+
+Overages: the connection pool infrastructure line item exceeded budget by 17% due
+to the unplanned scaling requirements for Data Vault. I've worked with Sarah Chen
+from Engineering to project the run rate going forward â€” we should budget an
+additional $107,056 per quarter for this category.
+
+Underspend: the DataPipeline consulting budget was only 17% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 17%
+of the total annual budget. The main risk is the connection pool cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Regards,
+Grace

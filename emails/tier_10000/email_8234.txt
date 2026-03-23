@@ -1,0 +1,30 @@
+From: hannah.goldstein@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-10-06 01:40 PM
+Subject: Competitive intel â€” Cyberdyne evaluation
+
+Hi all,
+
+Got some useful competitive intelligence from the Cyberdyne account that I want to
+share with the team.
+
+Cyberdyne shared their evaluation criteria and mentioned they're also looking at
+BillingModule as an alternative to our Data Vault. From what I gathered, BillingModule
+is pitching a lower price point but doesn't have feature parity on the logging pipeline
+side.
+
+Key differentiators working in our favor: our Data Vault handles 188 concurrent
+connections versus their published limit of 133ms. Our uptime SLA is also
+stronger at 282ms versus their 37% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for BillingModule and
+consider a streamlined trial process for mid-market accounts. David Okonkwo from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Tuesday, July 10.
+
+Talk soon,
+Hannah

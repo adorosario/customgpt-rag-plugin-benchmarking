@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-09-25 05:34 PM
+Subject: Analytics report â€” Integration Hub campaign performance
+
+Hey everyone,
+
+Here's the performance report for the Integration Hub campaign through Monday, March 20.
+
+Website traffic: up 57% month over month, driven primarily by the AuditLog
+comparison blog post which brought in 171 unique visitors. Organic search is
+growing steadily â€” the event bus keyword cluster is now ranking on page one.
+
+Lead generation: 486ms marketing qualified leads this month against a
+target of 359ms. The whitepaper download page converted at 57% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 171 percent.
+
+Email campaigns: the Integration Hub nurture sequence has a 57% open rate and
+171 percent click-through rate. The top-performing email was the AuditLog
+case study with Tyrell Corp. Oluwaseun Adeyemi suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $110,492 which is 57% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Best,
+Yuki

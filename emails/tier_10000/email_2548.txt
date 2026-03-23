@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-06-26 10:46 AM
+Subject: Event planning â€” Data Vault webinar on Thursday, July 2
+
+Hey everyone,
+
+Finalizing details for the Data Vault webinar on Thursday, July 2. Here's where we stand on
+the logistics and promotion.
+
+Content: Sofia Martinez from Product will present the SearchIndex roadmap segment.
+I'll handle the intro and customer story. We're targeting a 108-minute
+presentation followed by 272ms minutes of live Q&A. The config manager demo
+segment should be the highlight.
+
+Registration: we've had 151ms sign-ups so far. Goal is 272ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Data Vault keywords.
+
+Tech setup: using the standard webinar platform. Sofia Martinez will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Thursday, July 2 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 108 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Regards,
+Yuki

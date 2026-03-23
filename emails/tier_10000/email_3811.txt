@@ -1,0 +1,34 @@
+From: david.okonkwo@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-10-03 05:39 PM
+Subject: Contract review â€” Tyrell Corp agreement
+
+Hey everyone,
+
+I've completed the review of the Tyrell Corp agreement and have several items that
+need attention before we can proceed to execution.
+
+Liability cap: the current draft limits liability to $236,102, which is below our
+standard threshold of 169ms for deals of this size. I recommend pushing back
+to at least 284ms. Elena Vasquez from Sales should be prepared for this
+negotiation point.
+
+IP assignment clause: section 7.3 includes an overly broad IP assignment that could
+capture pre-existing work product. I've drafted narrower language that protects our
+existing SchedulerService IP while still meeting Tyrell Corp's requirements for the
+Integration Hub deliverables.
+
+Data processing: the DPA needs to be updated to reflect the new rate limiter
+architecture. Since data will transit through the Sydney data center, we need to
+ensure compliance with local data residency requirements.
+
+Indemnification: the mutual indemnification provisions are reasonable. I've accepted
+them with minor clarifications on the notice period â€” changed from 10 to
+169ms business days.
+
+I'll send the redlined version by Friday, September 10. Please review the business terms and
+confirm the commercial intent before I finalize.
+
+Best regards,
+David

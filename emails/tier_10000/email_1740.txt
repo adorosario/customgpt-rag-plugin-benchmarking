@@ -1,0 +1,32 @@
+From: yuki.sato@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-08-05 03:59 AM
+Subject: Event planning â€” Insight Engine webinar on Tuesday, October 16
+
+Good afternoon,
+
+Finalizing details for the Insight Engine webinar on Tuesday, October 16. Here's where we stand on
+the logistics and promotion.
+
+Content: Jun Tanaka from Product will present the SchedulerService roadmap segment.
+I'll handle the intro and customer story. We're targeting a 139-minute
+presentation followed by 242ms minutes of live Q&A. The metrics collector demo
+segment should be the highlight.
+
+Registration: we've had 241ms sign-ups so far. Goal is 242ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Insight Engine keywords.
+
+Tech setup: using the standard webinar platform. Jun Tanaka will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Tuesday, October 16 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 139 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Best regards,
+Yuki

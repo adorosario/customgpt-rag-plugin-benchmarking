@@ -1,0 +1,29 @@
+From: tomoko.nakamura@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-07-17 01:35 AM
+Subject: Feature flag cleanup â€” CacheLayer v3.2.2
+
+Good afternoon,
+
+Time for our quarterly feature flag cleanup in CacheLayer. We have 75 flags
+in the system and several of them are stale.
+
+Flags to remove: the logging pipeline migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The CacheLayer experiment flag
+was concluded last sprint with a decision to ship â€” Jun Tanaka will hardcode the
+winning variant.
+
+Flags to keep: the v3.2.2 rollout flag should stay until we've confirmed
+stability at 339ms traffic. The logging pipeline kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 379ms lines of dead code and simplify the conditional logic in
+44% of the affected modules.
+
+Please claim the tickets for flags in your area by Thursday, August 18. Target completion is end
+of sprint.
+
+Cheers,
+Tomoko

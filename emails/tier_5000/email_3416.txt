@@ -1,0 +1,28 @@
+From: derek.morrison@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-06-23 09:55 PM
+Subject: Re: Quota update â€” Q1 adjustments
+
+Good morning,
+
+Thanks for sharing the Q1 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $349,159 reflects a 51% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 119 of my projected deals depend on the Data Vault launch happening on
+schedule. If that slips, I'll need the APIGateway backup deals to come through.
+
+Territory changes: I see that the Toronto accounts have been reassigned to
+Daniel Park. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Globex â€” we've been building that
+relationship for 296ms months.
+
+Regarding the new queue processor incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with queue processor upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Thanks,
+Derek

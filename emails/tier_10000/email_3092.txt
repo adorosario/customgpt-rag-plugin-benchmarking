@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-11 10:34 PM
+Subject: FP&A update â€” Enterprise Suite financial model
+
+Hi all,
+
+I've updated the Enterprise Suite financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 65 per month based
+on the last 494ms months of data. Average contract value is tracking at
+$483,079, which is 31% above our original assumption. The NotificationEngine
+upsell rate of 223ms is a positive trend.
+
+Cost structure: the logging pipeline hosting costs are running 31% higher than
+modeled due to increased NotificationEngine usage. I've adjusted the variable cost
+per customer from 494ms to 223ms. Jun Tanaka from Engineering
+says the optimization project should bring this down by 31% in Q3.
+
+Break-even analysis: with the revised numbers, Enterprise Suite reaches contribution
+margin break-even at 65 customers, which we're projected to hit by Monday, January 27.
+Full break-even including allocated overhead comes at 494ms customers.
+
+Scenarios: the base case shows $483,079 in cumulative revenue by year end. The
+upside case with the Weyland-Yutani deal closing hits 223ms. Downside case
+assuming 31% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Talk soon,
+Grace

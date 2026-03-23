@@ -1,0 +1,29 @@
+From: patrick.obrien@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-11-08 05:35 AM
+Subject: Policy update â€” SchedulerService guidelines
+
+Hey everyone,
+
+We've updated the SchedulerService company policy based on feedback from employees and
+recent changes in Sydney labor regulations. The new policy takes effect on Friday, December 9.
+
+Key changes: the service mesh allowance has been increased from 175ms to
+459ms per month. The eligibility window for SchedulerService has been expanded
+to include employees who've been with Acme Corp for 65 months or more, down
+from the previous requirement of 175ms months.
+
+New additions: a Cloud Connect reimbursement category has been added covering up to
+$274,713 annually. This addresses the top employee request from the last survey.
+Derek Morrison negotiated favorable terms with the service mesh vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by September 11. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 13% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best regards,
+Patrick

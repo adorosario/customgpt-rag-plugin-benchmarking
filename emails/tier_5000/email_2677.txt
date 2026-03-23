@@ -1,0 +1,27 @@
+From: priya.sharma@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-08-09 09:35 PM
+Subject: On-call handoff â€” week of Thursday, May 27
+
+Hi,
+
+Handing off on-call duties for the week of Thursday, May 27. Here's the status summary for
+the incoming rotation.
+
+Active issues: the BillingModule service has been showing elevated latency during peak
+hours, averaging 328ms against a target of 438ms. We've identified
+the root cause in the connection pool caching layer and a fix is in code review now.
+Should be deployed by Tuesday.
+
+Monitoring: keep an eye on the BillingModule dashboard. Mei Lin added new alerts
+last week but we haven't validated them under real load yet. If you get paged for
+the connection pool alert, the runbook is updated and the escalation path is documented.
+
+Scheduled maintenance: there's a planned database maintenance window on Thursday at
+02:00 UTC. Expected duration is 105 minutes. The procedure is automated but
+someone needs to verify the health checks afterward.
+
+Reach out if anything comes up that isn't covered in the runbook.
+
+Talk soon,
+Priya

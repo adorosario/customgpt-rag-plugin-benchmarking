@@ -1,0 +1,21 @@
+{
+  "tier": 10000,
+  "question_id": "pattern_5",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What's happening with the Series B fundraising?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about Series B fundraising in my memory or project context. My knowledge about CustomGPT.ai is limited to the benchmark study project.\n\nCould you give me more context? Are you asking about:\n- **CustomGPT.ai's** fundraising?\n- A **different company**?\n\nIf you'd like me to search for recent news, I can use Perplexity.",
+  "time_seconds": 23.27,
+  "num_turns": 2,
+  "cost_usd": 0.06302925,
+  "input_tokens": 4,
+  "cache_creation_tokens": 11555,
+  "cache_read_tokens": 45520,
+  "output_tokens": 402,
+  "total_tokens": 57481,
+  "duration_api_ms": 10958,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

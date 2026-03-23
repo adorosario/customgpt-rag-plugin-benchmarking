@@ -1,0 +1,31 @@
+From: aisha.okafor@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-31 05:36 PM
+Subject: Client meeting recap â€” Hooli Monday, July 4
+
+Good afternoon,
+
+Recapping today's meeting with Hooli. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their NotificationEngine
+team lead. From ours: myself, Ananya Desai from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their caching layer vendors
+from three down to one. Our Data Vault covers 42% of their requirements
+natively. The remaining gap is around NotificationEngine integrations, which Ananya Desai
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Monday, July 4 and begin
+implementation in Q4. Budget has been pre-approved at $265,522 for the
+first year.
+
+Action items: send the Data Vault technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their caching layer workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Thanks,
+Aisha

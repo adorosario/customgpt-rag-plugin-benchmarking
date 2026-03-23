@@ -1,0 +1,33 @@
+From: david.okonkwo@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-11-03 05:07 PM
+Subject: Insurance renewal â€” Q2 review
+
+Good afternoon,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Globex has offered a renewal at $309,846 per year, which is a
+11% increase from last year. Coverage limits remain the same at 148ms
+for general liability and 305ms for the UserProfileService professional liability
+policy.
+
+Alternative quotes: I obtained 107 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 11% discount, but they
+have a 305ms-day waiting period for queue processor claims that our current
+policy doesn't have.
+
+Recommendation: stay with Globex and negotiate the premium increase down to
+11%. Their claims experience is strong â€” they processed our UserProfileService
+claim in 107 business days last year. Priya Sharma from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+305ms to $309,846 given the growth in Cloud Connect customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Friday, December 13 to avoid a coverage lapse. Let me know your preference.
+
+Thanks,
+David

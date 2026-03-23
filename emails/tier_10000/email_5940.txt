@@ -1,0 +1,33 @@
+From: yuki.sato@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-11 12:18 PM
+Subject: SEO update â€” DataPipeline keyword rankings
+
+Good morning,
+
+Monthly SEO update for our DataPipeline content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Enterprise Suite comparison page climbed from position 362ms to
+position 431ms for our primary keyword. The queue processor guide is now
+ranking in the top 115 for three long-tail variations.
+
+Traffic impact: organic sessions are up 23% month over month. The
+DataPipeline cluster is now driving 115 unique sessions monthly, making it our
+second-highest traffic source behind the Enterprise Suite landing page.
+
+Content gaps identified: we're missing content for 362ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q1. Robert Kimura from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 431ms on mobile after the image
+optimization work. No crawl errors detected. The new queue processor documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 115 pages. I'll share the
+outreach plan next week.
+
+Talk soon,
+Yuki

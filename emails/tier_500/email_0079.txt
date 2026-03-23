@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: elena.vasquez@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-06-07 11:38 PM
+Subject: Press release draft â€” Integration Hub announcement
+
+Good afternoon,
+
+The press release for the Integration Hub announcement is ready for internal review. I've
+incorporated feedback from Mei Lin and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the AnalyticsDashboard capability and positions Acme Corp as a leader
+in the service mesh space. We're leading with the 60 performance improvement
+stat and the Tyrell Corp customer quote.
+
+Distribution plan: wire service distribution on Thursday, March 23, followed by targeted
+outreach to our 428ms media contacts in the industry. I've secured a briefing
+with AnalyticsDashboard Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Integration Hub landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 60-hour cadence on launch day.
+
+Embargo: the release is under embargo until Thursday, March 23 at 9 AM ET. Please don't share
+details externally before then. Mei Lin has the full distribution list.
+
+Review deadline is Thursday, March 23. Please send edits as comments in the doc.
+
+Cheers,
+Laura

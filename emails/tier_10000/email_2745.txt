@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: maria.santos@acmecorp.com
+Date: 2025-09-06 07:13 AM
+Subject: Social media strategy â€” Q3
+
+Hey,
+
+Presenting the social media strategy refresh for Q3. Based on our Sync Platform
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our CacheLayer posts are averaging 154 impressions and 38% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 38% educational content about serialization engine topics, 154
+percent product highlights, and the rest for company culture and employee spotlights.
+Robert Kimura will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Sync Platform use cases and answer audience questions. First session on Monday, February 7 featuring
+Robert Kimura.
+
+Budget: $225,813 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 86ms new followers and 445ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Best,
+Laura

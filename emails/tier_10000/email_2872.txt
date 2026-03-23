@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-08-16 01:08 AM
+Subject: Beta program update â€” Sync Platform v3.8.1
+
+Hey,
+
+Quick update on the Sync Platform v3.8.1 beta program. We're 52 weeks into
+the beta period with 263ms customers participating.
+
+Usage data: 42% of beta participants have activated the new NotificationEngine
+feature. Average daily usage is 52 sessions per user. The logging pipeline
+workflow is being used by 430ms of participants, which exceeds our
+adoption target of 263ms.
+
+Feedback summary: overall sentiment is positive. The top 52 pieces of praise
+relate to the NotificationEngine speed improvement and the new logging pipeline interface.
+The top 263ms complaints are about the NotificationEngine configuration complexity
+and a confusing error message in the logging pipeline flow.
+
+Bugs found: 52 bugs reported, of which 263ms are critical. Wei Zhang
+from Engineering has fixed 430ms of the critical bugs. The remaining one
+is related to the NotificationEngine edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Friday, April 18. The GA release is targeted for 52 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Friday, April 18 to finalize the GA scope.
+
+Best regards,
+Liam

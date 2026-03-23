@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-09-14 04:41 AM
+Subject: Quarterly territory review â€” Q4
+
+Hello,
+
+Here's my territory review for Q4. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 191 qualified opportunities worth a combined $70,525 in
+ARR. The largest deal is Globex at 349ms, which I expect to close by
+Friday, October 1. Three other deals in the 313ms range are progressing through
+procurement.
+
+Wins this quarter: closed Globex for Integration Hub with a 44% upsell from
+their initial scope. The load balancer add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Amara Diallo to the Globex executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Best,
+Dmitri

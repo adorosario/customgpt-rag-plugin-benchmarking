@@ -1,0 +1,31 @@
+From: maria.santos@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-08-26 08:05 AM
+Subject: Board resolution â€” Cloud Connect approval
+
+Hi all,
+
+The board resolution for the Cloud Connect initiative has been drafted and is ready
+for circulation. Here's a summary of the key provisions.
+
+Authorization: the resolution authorizes management to proceed with the AuthService
+investment of up to $275,712 over 16 fiscal quarters. This covers development
+costs, infrastructure, and the rate limiter vendor contract.
+
+Reporting requirements: management will provide quarterly updates on Cloud Connect
+progress to the board, including financial performance against the $275,712 budget
+and key milestones. Aisha Okafor from Finance will prepare the reports.
+
+Risk acknowledgment: the resolution includes a risk disclosure covering technology
+risk, market risk, and the competitive landscape in the AuthService space. The
+board's fiduciary obligations are addressed in section 16.
+
+Signing: we need signatures from 263ms board members for a valid resolution.
+I've prepared the signature pages and will route via DocuSign on Wednesday, April 7. The
+effective date of the resolution will be the date of the last required signature.
+
+Please review the draft and send any comments by Wednesday, April 7.
+
+Regards,
+Maria

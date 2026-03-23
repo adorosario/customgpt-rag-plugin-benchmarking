@@ -1,0 +1,21 @@
+{
+  "tier": 30,
+  "question_id": "needle_3",
+  "question_type": "hard",
+  "run": 2,
+  "question": "What database did Engineering approve migrating to, and on what date?",
+  "model": "claude-sonnet-4-6",
+  "response": "None of the 30 emails in this dataset contain information about Engineering approving a database migration on a specific date. The emails cover topics such as Series B fundraising, retreat planning, Project Nexus, Berlin office opening, NDA processing, financial close, CI/CD improvements, and compliance updates \u00e2\u20ac\u201d but no database migration approval.",
+  "time_seconds": 54.79,
+  "num_turns": 62,
+  "cost_usd": 0.5130651,
+  "input_tokens": 10,
+  "cache_creation_tokens": 119342,
+  "cache_read_tokens": 81042,
+  "output_tokens": 2746,
+  "total_tokens": 203140,
+  "duration_api_ms": 43047,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

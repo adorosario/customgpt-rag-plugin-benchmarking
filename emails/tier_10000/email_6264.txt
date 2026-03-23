@@ -1,0 +1,33 @@
+From: patrick.obrien@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-06-01 06:09 PM
+Subject: D&I initiative update â€” Q2
+
+Hey everyone,
+
+Here's the quarterly update on our Diversity and Inclusion initiatives. We're
+making meaningful progress on the goals set at the beginning of the year.
+
+Hiring diversity: 40% of candidates in our pipeline this quarter came from
+underrepresented backgrounds, up from 128 percent last quarter. The
+partnership with Stark Industries job board has been a strong contributor. Maria Santos has
+been leading the sourcing strategy.
+
+ERG activity: the MessageBroker employee resource group hosted 128 events
+this quarter with an average attendance of 104ms employees. The mentorship
+circles launched in Q2 have paired 91ms mentors with mentees
+across Engineering departments.
+
+Training: 40% of managers have completed the inclusive leadership training
+program. We're on track to reach 128 percent completion by Monday, February 23. The
+feedback ratings average 91ms out of 5.
+
+Compensation equity: the annual pay equity audit is scheduled for Monday, February 23. We'll
+be reviewing compensation data across 128 dimensions to identify and
+address any gaps.
+
+Full report will be shared at the next all-hands meeting.
+
+Thanks,
+Patrick

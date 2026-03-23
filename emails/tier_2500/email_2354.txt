@@ -1,0 +1,32 @@
+From: patrick.obrien@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-08-23 05:14 PM
+Subject: Training program â€” MessageBroker certification
+
+Hi all,
+
+We're launching a new MessageBroker certification training program for interested
+employees. This is part of our learning and development investment for Q3.
+
+Program details: the course runs for 148 weeks and covers logging pipeline
+fundamentals through advanced topics. Sessions are held twice a week for 312ms
+hours each. Oluwaseun Adeyemi from the Marketing team will facilitate the hands-on labs.
+
+Eligibility: open to all employees. Priority enrollment goes to the Marketing and
+Engineering teams since the certification is directly relevant to their roles. We
+have 432ms spots available for the first cohort.
+
+Cost: Acme Corp covers 57% of the certification exam fee upon course
+completion. The total investment per employee is $437,055 including materials and
+exam vouchers.
+
+Commitment: participants are expected to dedicate 148 hours per week to
+coursework outside of the live sessions. Managers must approve the time commitment
+for their reports.
+
+Registration opens on Thursday, July 3 and closes when spots are filled. Sign up through
+the logging pipeline learning portal.
+
+Best regards,
+Patrick

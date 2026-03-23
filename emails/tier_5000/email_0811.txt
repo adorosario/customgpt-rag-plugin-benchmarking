@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-08-02 01:58 PM
+Subject: Social media strategy â€” Q2
+
+Hi all,
+
+Presenting the social media strategy refresh for Q2. Based on our Enterprise Suite
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our WebhookDispatcher posts are averaging 35 impressions and 59% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 59% educational content about serialization engine topics, 35
+percent product highlights, and the rest for company culture and employee spotlights.
+Marcus Thompson will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Enterprise Suite use cases and answer audience questions. First session on Friday, September 20 featuring
+Marcus Thompson.
+
+Budget: $421,843 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 412ms new followers and 206ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Best regards,
+Sofia

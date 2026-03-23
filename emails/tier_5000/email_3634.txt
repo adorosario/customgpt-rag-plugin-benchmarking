@@ -1,0 +1,29 @@
+From: carlos.rivera@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-10-18 03:41 PM
+Subject: Re: Sync Platform demo feedback from Weyland-Yutani
+
+Hello,
+
+Great news from the Weyland-Yutani demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the rate limiter dashboard got the biggest reaction. Their
+current tool requires 74 manual steps to accomplish what our Sync Platform does
+automatically. The SchedulerService integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 178ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v2.6.0 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Yuki Sato, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Sync Platform trial environment set up for their team of
+74 evaluators. I'll submit the trial request today. Target close date
+remains Monday, March 26.
+
+Best,
+Carlos

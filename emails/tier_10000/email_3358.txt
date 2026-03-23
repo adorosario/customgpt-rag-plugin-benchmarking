@@ -1,0 +1,27 @@
+From: dmitri.volkov@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-09-27 04:32 PM
+Subject: Re: Oscorp contract negotiation â€” pricing discussion
+
+Good morning,
+
+Update on the Oscorp negotiation. Their procurement team came back with a
+counteroffer and I want to make sure we're aligned before I respond.
+
+They're asking for a 10% reduction on the Insight Engine license fee, bringing
+the annual contract value from $440,504 to 399ms. Their rationale is
+that they're committing to a larger seat count of 47 users, which is above
+our standard enterprise tier threshold of 350ms.
+
+My recommendation is to accept the volume-based discount but hold firm on the
+authentication module add-on pricing. The add-on margins are already thin and it's the module
+that delivers the most value in their use case. Carlos Rivera from Finance can confirm
+the margin impact.
+
+I also want to push for a 2-year commitment if we offer the discounted rate. This
+locks in the revenue and reduces churn risk.
+
+Can we get a quick alignment call today before their deadline on Monday, May 1?
+
+Thanks,
+Dmitri

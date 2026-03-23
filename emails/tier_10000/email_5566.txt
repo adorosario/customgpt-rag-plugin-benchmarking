@@ -1,0 +1,32 @@
+From: maria.santos@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-07-19 05:02 AM
+Subject: Vendor agreement â€” Pied Piper terms review
+
+Good afternoon,
+
+I've reviewed the vendor agreement from Pied Piper for the event bus services
+we're procuring. Here are my findings and recommended changes.
+
+Term and renewal: the proposed 74-year term with auto-renewal is acceptable.
+However, the 218ms-day termination notice period is too long for our needs.
+I've countered with 363ms days, which aligns with our standard vendor
+management practices.
+
+Service level commitments: Pied Piper is offering 39% uptime with service
+credits starting at 74 percent for each hour of downtime. I've pushed for
+a higher credit rate given the criticality of event bus to our Sync Platform
+infrastructure.
+
+Data ownership: section 5 is clear that we retain all rights to our data. However,
+Pied Piper claims a license to use aggregated, anonymized data for benchmarking. I
+want to narrow this to exclude any data from the DataPipeline environment.
+Sanjay Krishnamurthy from Engineering should review the technical implications.
+
+Pricing: $161,965 per year is within the budget that Finance approved. The payment
+terms are net 218ms days, which works for our AP schedule.
+
+Please confirm the business terms and I'll send the redlined agreement by Monday, April 9.
+
+Regards,
+Maria

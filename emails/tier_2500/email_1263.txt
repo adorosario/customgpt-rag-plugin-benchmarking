@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-11-29 12:02 PM
+Subject: Sprint planning â€” Enterprise Suite sprint v4.1.0
+
+Hi team,
+
+Here's the sprint plan for Enterprise Suite sprint v4.1.0. Capacity is 119 story
+points with 499ms engineers available this sprint.
+
+Committed stories: the PaymentGateway integration work carries over from last sprint
+with 349ms points remaining. The new authentication module API endpoints are
+estimated at 119 points. The bug fix for the PaymentGateway rendering issue
+is 499ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the authentication module performance
+optimization that David Okonkwo has been scouting. It's estimated at 119 points
+and would improve response time by 42%.
+
+Dependencies: the PaymentGateway feature requires the API changes that David Okonkwo
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The authentication module work is self-contained.
+
+Risks: David Okonkwo is on-call this sprint which historically reduces their available
+capacity by 42%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, February 27. Let me know if the priorities look right.
+
+Best,
+Amara

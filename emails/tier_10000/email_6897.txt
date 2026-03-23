@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-08-26 07:03 AM
+Subject: Financial close checklist â€” Q4
+
+Hey,
+
+The Q4 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Sync Platform invoices must be issued by Friday, August 21. Any revenue recognition
+adjustments for the UserProfileService contracts need supporting documentation uploaded
+to load balancer. Sanjay Krishnamurthy from Sales must confirm final deal amounts by June 28.
+
+Expenses: all expense reports for Q4 must be submitted by Friday, August 21. The
+UserProfileService vendor invoices totaling $303,920 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, UserProfileService subscription costs,
+and the load balancer usage charges by Friday, August 21. Any non-standard accruals above
+290ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, UserProfileService account reconciliation, and
+inter-company balances must be completed by Friday, August 21. Sanjay Krishnamurthy is handling the
+bank rec. I'll take the inter-company items since they involve the Tokyo entity.
+
+Target: books closed within 196 business days of quarter end. Final reporting
+package to leadership by Friday, August 21.
+
+Cheers,
+Ananya

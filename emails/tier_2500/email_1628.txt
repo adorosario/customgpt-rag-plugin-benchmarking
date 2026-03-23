@@ -1,0 +1,28 @@
+From: derek.morrison@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-08-16 11:45 AM
+Subject: Re: Quota update â€” Q4 adjustments
+
+Hi all,
+
+Thanks for sharing the Q4 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $396,449 reflects a 38% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 76 of my projected deals depend on the Analytics Pro launch happening on
+schedule. If that slips, I'll need the AnalyticsDashboard backup deals to come through.
+
+Territory changes: I see that the San Francisco accounts have been reassigned to
+Aisha Okafor. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Pied Piper â€” we've been building that
+relationship for 124ms months.
+
+Regarding the new service mesh incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with service mesh upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Cheers,
+Derek

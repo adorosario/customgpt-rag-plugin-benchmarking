@@ -1,0 +1,28 @@
+From: ravi.patel@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-06-18 03:42 AM
+Subject: Feature flag cleanup â€” AuditLog v4.1.0
+
+Hi team,
+
+Time for our quarterly feature flag cleanup in AuditLog. We have 41 flags
+in the system and several of them are stale.
+
+Flags to remove: the connection pool migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The AuditLog experiment flag
+was concluded last sprint with a decision to ship â€” Rachel Nguyen will hardcode the
+winning variant.
+
+Flags to keep: the v4.1.0 rollout flag should stay until we've confirmed
+stability at 274ms traffic. The connection pool kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 113ms lines of dead code and simplify the conditional logic in
+10% of the affected modules.
+
+Please claim the tickets for flags in your area by Wednesday, January 12. Target completion is end
+of sprint.
+
+Thanks,
+Ravi

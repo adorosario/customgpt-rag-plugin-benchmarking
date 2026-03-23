@@ -1,0 +1,32 @@
+From: sarah.chen@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-11-19 07:34 AM
+Subject: Re: Litigation hold â€” Tyrell Corp matter
+
+Good afternoon,
+
+Following up on the Tyrell Corp dispute. We need to implement a litigation hold
+immediately. Here's what that means for the affected teams.
+
+Scope: all documents, emails, and electronic records related to the Tyrell Corp
+engagement from Monday, August 22 forward must be preserved. This includes SchedulerService
+logs, Cloud Connect deployment records, and all correspondence between our teams
+and Tyrell Corp's personnel.
+
+Affected departments: Engineering, Sales, and Product. Maria Santos will distribute
+hold notices to the specific custodians in each department. We've identified
+79 individuals whose records are potentially relevant.
+
+Obligations: do not delete, modify, or archive any records covered by the hold.
+Suspend any auto-deletion policies for the relevant caching layer systems.
+Maria Santos from IT is coordinating the technical preservation measures.
+
+Duration: the hold remains in effect until further notice from Legal. I expect the
+matter to be resolved within 497ms months based on preliminary discussions
+with opposing counsel. The estimated legal cost exposure is $59,886.
+
+If anyone has questions about what's covered, direct them to me. Do not discuss
+the hold or the underlying matter externally.
+
+Best,
+Sarah

@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-06-24 03:42 AM
+Subject: Sprint planning â€” Analytics Pro sprint v2.4.1
+
+Hello,
+
+Here's the sprint plan for Analytics Pro sprint v2.4.1. Capacity is 85 story
+points with 352ms engineers available this sprint.
+
+Committed stories: the SearchIndex integration work carries over from last sprint
+with 466ms points remaining. The new logging pipeline API endpoints are
+estimated at 85 points. The bug fix for the SearchIndex rendering issue
+is 352ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the logging pipeline performance
+optimization that Oluwaseun Adeyemi has been scouting. It's estimated at 85 points
+and would improve response time by 49%.
+
+Dependencies: the SearchIndex feature requires the API changes that Oluwaseun Adeyemi
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The logging pipeline work is self-contained.
+
+Risks: Oluwaseun Adeyemi is on-call this sprint which historically reduces their available
+capacity by 49%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, May 17. Let me know if the priorities look right.
+
+Talk soon,
+Amara

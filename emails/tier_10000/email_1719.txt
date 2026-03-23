@@ -1,0 +1,30 @@
+From: jun.tanaka@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-10-27 06:39 PM
+Subject: Re: Enterprise Suite demo feedback from Pied Piper
+
+Hi,
+
+Great news from the Pied Piper demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the serialization engine dashboard got the biggest reaction. Their
+current tool requires 87 manual steps to accomplish what our Enterprise Suite does
+automatically. The NotificationEngine integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 380ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v3.2.2 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Fatima Al-Rashid, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Enterprise Suite trial environment set up for their team of
+87 evaluators. I'll submit the trial request today. Target close date
+remains Thursday, March 10.
+
+Best regards,
+Jun

@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-10-29 02:14 PM
+Subject: Policy update â€” AuditLog guidelines
+
+Hi,
+
+We've updated the AuditLog company policy based on feedback from employees and
+recent changes in San Francisco labor regulations. The new policy takes effect on Wednesday, October 13.
+
+Key changes: the service mesh allowance has been increased from 257ms to
+66ms per month. The eligibility window for AuditLog has been expanded
+to include employees who've been with Acme Corp for 152 months or more, down
+from the previous requirement of 257ms months.
+
+New additions: a Insight Engine reimbursement category has been added covering up to
+$452,223 annually. This addresses the top employee request from the last survey.
+Ananya Desai negotiated favorable terms with the service mesh vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by October 22. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 52% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best,
+Fatima

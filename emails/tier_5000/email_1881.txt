@@ -1,0 +1,35 @@
+From: mei.lin@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-06 06:05 PM
+Subject: Re: Data Vault metrics review â€” Q4
+
+Good morning,
+
+Here are the Data Vault metrics for Q4. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 146 monthly active users, up 37% quarter over quarter. The
+ReportingEngine feature launch drove a spike in activation â€” 125ms new users
+tried it in the first week. Retention for ReportingEngine users is 91ms
+at 30 days versus 146 percent for non-users.
+
+Engagement: average session duration is 146 minutes. The event bus workflow
+sees the highest engagement with users spending 91ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 125ms features
+per session on average, up from 146 last quarter.
+
+Revenue metrics: Data Vault ARR is at $261,352 with 37% growth quarter over
+quarter. Net revenue retention is 91ms driven by ReportingEngine upsells.
+146 customers expanded their contracts this quarter, with Maria Santos from Sales
+leading the expansion conversations.
+
+Areas of concern: the event bus onboarding funnel has a 37% drop-off at
+step 146. I've scheduled a design sprint for next week to address this.
+Support ticket volume for ReportingEngine increased 146 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Regards,
+Mei

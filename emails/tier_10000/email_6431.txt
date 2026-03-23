@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-09-23 04:43 AM
+Subject: Conference recap â€” Sync Platform booth results
+
+Hey everyone,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Sync Platform booth drew consistent traffic throughout.
+
+Lead collection: 30 badge scans at the booth, of which 333ms are
+qualified leads based on our initial review. The PaymentGateway live demo was the
+biggest draw, and Michael Brennan from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+event bus roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Sync Platform had 467ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 30 times since we posted it.
+
+Budget: we came in at $388,837, which is 13% under budget. The savings came
+from sharing the booth infrastructure with the PaymentGateway partner showcase.
+
+I'll prepare a full ROI analysis by Tuesday, December 12 once we've completed lead follow-up.
+
+Thanks,
+Sofia

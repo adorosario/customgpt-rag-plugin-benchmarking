@@ -1,0 +1,21 @@
+{
+  "tier": 5000,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the emails in this directory, here's what can be determined about **Project Nexus** at acmecorp.com:\n\n## What is Project Nexus?\n\nA cross-platform synchronization initiative. Email subjects reveal its key workstreams:\n- **Cross-platform sync** (sync spec, architecture review)\n- **Conflict resolution module** (code review)\n- **API design**\n- **Performance benchmarking**\n- **Launch timeline & sprint planning**\n\n## Teams Involved\n\nFrom the CC lists and email patterns:\n| Team | Email |\n|------|-------|\n| **Engineering** | `engineering@acmecorp.com` |\n| **Product** | `product@acmecorp.com` |\n\n## Key People\n\n| Person | Role/Context |\n|--------|--------------|\n| Ravi Patel | Milestone updates |\n| Priya Sharma | Recipient of milestone updates |\n| Liam Foster | Sprint planning, architecture review |\n| Tomoko Nakamura | Cross-platform sync spec |\n| Sofia Martinez | Recipient of sync spec & API design feedback |\n| Mei | API design feedback |\n| Wei | Performance benchmarks |\n| Kwame | Code review (conflict resolution module) |\n| Derek | Launch timeline & performance benchmarks |\n\n**Caveat:** These are synthetic benchmark emails with templated/repetitive content. The descriptions are generic (\"progressing well, focused on delivering results\"), so specific project goals beyond cross-platform sync aren't deeply elaborated in the email bodies.",
+  "time_seconds": 57.8,
+  "num_turns": 7,
+  "cost_usd": 0.15246015,
+  "input_tokens": 7,
+  "cache_creation_tokens": 21345,
+  "cache_read_tokens": 141718,
+  "output_tokens": 1992,
+  "total_tokens": 165062,
+  "duration_api_ms": 41441,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

@@ -1,0 +1,26 @@
+From: dmitri.volkov@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-10-31 07:56 PM
+Subject: Pipeline update â€” Oscorp deal status
+
+Hello,
+
+Quick update on the Oscorp opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $101,608 for the Data Vault deployment. The
+decision timeline is end of Q3. Their main concern remains the integration
+with their existing AuditLog infrastructure, which is why I've looped in Michael Brennan
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Oscorp is also evaluating one other vendor but our
+Data Vault demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our event bus capability.
+
+Next steps: technical architecture session on Monday, March 13, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 41%.
+
+Best,
+Dmitri

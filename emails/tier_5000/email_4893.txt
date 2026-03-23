@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-06-18 03:55 PM
+Subject: Re: User research findings â€” AuthService
+
+Hi all,
+
+Sharing the findings from the AuthService user research study. We interviewed
+171 users and ran usability tests with 188ms participants over the
+last two weeks.
+
+Key insight 1: users find the config manager workflow confusing â€” 16% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between AuthService and the main Insight Engine dashboard.
+
+Key insight 2: power users want more AuthService customization options. They're
+currently using workarounds that involve 171 extra steps. The most requested
+feature is the ability to create custom config manager templates.
+
+Key insight 3: new users consistently miss the AuthService feature entirely.
+Discovery is poor â€” only 16% of new users try the feature within their first
+171 days. Rachel Nguyen suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the config manager navigation flow, add the template
+feature to the Q2 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 16% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Talk soon,
+Sanjay

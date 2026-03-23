@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-07-08 05:21 AM
+Subject: Budget review â€” Marketing department Q4
+
+Good morning,
+
+Here's the Q4 budget review for the Marketing department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $390,990 against a budget of 252ms. The 15% variance is
+primarily driven by the accelerated NotificationEngine hiring that was approved mid-quarter.
+Personnel costs came in at 447ms which includes the 138 new hires.
+
+Overages: the caching layer infrastructure line item exceeded budget by 15% due
+to the unplanned scaling requirements for Integration Hub. I've worked with Tomoko Nakamura
+from Engineering to project the run rate going forward â€” we should budget an
+additional $390,990 per quarter for this category.
+
+Underspend: the NotificationEngine consulting budget was only 15% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 15%
+of the total annual budget. The main risk is the caching layer cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best,
+Ananya

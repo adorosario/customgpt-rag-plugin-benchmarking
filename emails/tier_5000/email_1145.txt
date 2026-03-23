@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-07-13 05:56 AM
+Subject: Social media strategy â€” Q2
+
+Hi all,
+
+Presenting the social media strategy refresh for Q2. Based on our Data Vault
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our NotificationEngine posts are averaging 90 impressions and 56% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 56% educational content about load balancer topics, 90
+percent product highlights, and the rest for company culture and employee spotlights.
+Liam Foster will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Data Vault use cases and answer audience questions. First session on Friday, October 20 featuring
+Liam Foster.
+
+Budget: $460,684 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 159ms new followers and 237ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Talk soon,
+Yuki

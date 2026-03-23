@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-10-04 05:33 AM
+Subject: Financial close checklist â€” Q4
+
+Hi team,
+
+The Q4 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Integration Hub invoices must be issued by Tuesday, January 8. Any revenue recognition
+adjustments for the UserProfileService contracts need supporting documentation uploaded
+to caching layer. Rachel Nguyen from Sales must confirm final deal amounts by May 3.
+
+Expenses: all expense reports for Q4 must be submitted by Tuesday, January 8. The
+UserProfileService vendor invoices totaling $319,298 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, UserProfileService subscription costs,
+and the caching layer usage charges by Tuesday, January 8. Any non-standard accruals above
+427ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, UserProfileService account reconciliation, and
+inter-company balances must be completed by Tuesday, January 8. Rachel Nguyen is handling the
+bank rec. I'll take the inter-company items since they involve the San Francisco entity.
+
+Target: books closed within 134 business days of quarter end. Final reporting
+package to leadership by Tuesday, January 8.
+
+Thanks,
+Ananya

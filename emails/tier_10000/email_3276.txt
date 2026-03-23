@@ -1,0 +1,32 @@
+From: amara.diallo@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-07-06 11:33 AM
+Subject: Feature spec â€” NotificationEngine integration
+
+Good morning,
+
+The feature spec for the NotificationEngine integration is ready for review. This is
+targeting the v5.0.0-beta release in Q2.
+
+Problem statement: 22% of our enterprise prospects cite the lack of
+NotificationEngine integration as a blocker. The current workaround through the
+metrics collector API is unreliable and requires 138 hours of custom development
+from customers.
+
+Proposed solution: native NotificationEngine integration with bi-directional sync.
+Users configure the connection through the Sync Platform settings page and data
+flows automatically. The sync runs every 251ms minutes with conflict
+resolution handled by our algorithm.
+
+Scope: phase 1 covers read and write operations for the core NotificationEngine objects.
+Phase 2 adds real-time webhooks and custom field mapping. Daniel Park from Engineering
+estimates 138 sprints for phase 1 and 251ms for phase 2.
+
+Success metrics: 138 enterprise customers adopt the integration within 90 days
+of launch, NotificationEngine related support tickets decrease by 22%, and the
+feature contributes to $397,285 in new ARR.
+
+Please review the full spec in Confluence and leave comments by Friday, November 6.
+
+Thanks,
+Amara

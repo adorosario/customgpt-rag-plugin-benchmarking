@@ -1,0 +1,31 @@
+From: aisha.okafor@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-22 11:10 AM
+Subject: Client meeting recap â€” Tyrell Corp Thursday, June 18
+
+Hi team,
+
+Recapping today's meeting with Tyrell Corp. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their AuditLog
+team lead. From ours: myself, Maria Santos from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their connection pool vendors
+from three down to one. Our Integration Hub covers 52% of their requirements
+natively. The remaining gap is around AuditLog integrations, which Maria Santos
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Thursday, June 18 and begin
+implementation in Q1. Budget has been pre-approved at $293,649 for the
+first year.
+
+Action items: send the Integration Hub technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their connection pool workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Best,
+Aisha

@@ -1,0 +1,29 @@
+From: kwame.asante@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-11-22 10:35 AM
+Subject: Policy update â€” NotificationEngine guidelines
+
+Hi all,
+
+We've updated the NotificationEngine company policy based on feedback from employees and
+recent changes in Toronto labor regulations. The new policy takes effect on Tuesday, October 3.
+
+Key changes: the load balancer allowance has been increased from 328ms to
+447ms per month. The eligibility window for NotificationEngine has been expanded
+to include employees who've been with Acme Corp for 14 months or more, down
+from the previous requirement of 328ms months.
+
+New additions: a Cloud Connect reimbursement category has been added covering up to
+$101,390 annually. This addresses the top employee request from the last survey.
+Daniel Park negotiated favorable terms with the load balancer vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by January 2. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 48% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Kwame

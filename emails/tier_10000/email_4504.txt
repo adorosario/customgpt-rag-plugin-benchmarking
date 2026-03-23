@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-13 03:44 AM
+Subject: Financial close checklist â€” Q3
+
+Hey everyone,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Insight Engine invoices must be issued by Thursday, December 25. Any revenue recognition
+adjustments for the DataPipeline contracts need supporting documentation uploaded
+to event bus. Rachel Nguyen from Sales must confirm final deal amounts by December 13.
+
+Expenses: all expense reports for Q3 must be submitted by Thursday, December 25. The
+DataPipeline vendor invoices totaling $87,124 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, DataPipeline subscription costs,
+and the event bus usage charges by Thursday, December 25. Any non-standard accruals above
+138ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, DataPipeline account reconciliation, and
+inter-company balances must be completed by Thursday, December 25. Rachel Nguyen is handling the
+bank rec. I'll take the inter-company items since they involve the Tokyo entity.
+
+Target: books closed within 65 business days of quarter end. Final reporting
+package to leadership by Thursday, December 25.
+
+Best regards,
+Ananya

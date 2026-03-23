@@ -1,0 +1,27 @@
+From: marcus.thompson@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-10-09 03:13 PM
+Subject: Re: AuthService migration to event bus â€” status update
+
+Hello,
+
+Quick update on the AuthService migration to event bus. We're about 34%
+through the planned work and tracking to finish by Thursday, October 5.
+
+Completed this week: migrated the core data models, updated the connection pooling
+configuration, and ran the first round of performance comparisons. The new setup is
+showing 147 improvement on read-heavy workloads.
+
+Next steps: migrate the background job processing, update the monitoring dashboards,
+and run the full integration test suite against the new backend. Robert Kimura is
+handling the monitoring piece.
+
+One blocker: we discovered that the AuthService batch processing job uses a feature
+that isn't supported in event bus yet. I'm evaluating two workarounds and will
+have a recommendation by tomorrow. This might add 402ms days to the
+timeline if we go with the rewrite approach.
+
+Will send another update at end of week.
+
+Thanks,
+Marcus

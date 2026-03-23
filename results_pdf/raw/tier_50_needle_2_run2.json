@@ -1,0 +1,21 @@
+{
+  "tier": 50,
+  "question_id": "needle_2",
+  "question_type": "hard",
+  "run": 2,
+  "question": "What was the revised Q3 revenue projection from Finance?",
+  "model": "claude-sonnet-4-6",
+  "response": "None of the 50 emails in this dataset contain a Q3 revenue projection from Finance. The PDFs cover various business topics (expense reports, vendor agreements, sales pipeline, fundraising, etc.) but no email matching that description exists here.",
+  "time_seconds": 122.62,
+  "num_turns": 4,
+  "cost_usd": 0.5101878999999999,
+  "input_tokens": 6,
+  "cache_creation_tokens": 12194,
+  "cache_read_tokens": 103745,
+  "output_tokens": 627,
+  "total_tokens": 116572,
+  "duration_api_ms": 109584,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

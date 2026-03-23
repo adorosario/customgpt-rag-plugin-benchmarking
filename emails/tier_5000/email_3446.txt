@@ -1,0 +1,35 @@
+From: liam.foster@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-29 12:47 AM
+Subject: Re: Enterprise Suite metrics review â€” Q1
+
+Hello,
+
+Here are the Enterprise Suite metrics for Q1. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 25 monthly active users, up 7% quarter over quarter. The
+AuthService feature launch drove a spike in activation â€” 366ms new users
+tried it in the first week. Retention for AuthService users is 104ms
+at 30 days versus 25 percent for non-users.
+
+Engagement: average session duration is 25 minutes. The event bus workflow
+sees the highest engagement with users spending 104ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 366ms features
+per session on average, up from 25 last quarter.
+
+Revenue metrics: Enterprise Suite ARR is at $443,571 with 7% growth quarter over
+quarter. Net revenue retention is 104ms driven by AuthService upsells.
+25 customers expanded their contracts this quarter, with Tomoko Nakamura from Sales
+leading the expansion conversations.
+
+Areas of concern: the event bus onboarding funnel has a 7% drop-off at
+step 25. I've scheduled a design sprint for next week to address this.
+Support ticket volume for AuthService increased 25 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Best,
+Liam

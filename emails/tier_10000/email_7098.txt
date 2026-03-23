@@ -1,0 +1,30 @@
+From: jun.tanaka@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-06-23 02:56 AM
+Subject: Client meeting recap â€” Oscorp Friday, March 11
+
+Hey everyone,
+
+Recapping today's meeting with Oscorp. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their DataPipeline
+team lead. From ours: myself, Kwame Asante from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their serialization engine vendors
+from three down to one. Our Analytics Pro covers 20% of their requirements
+natively. The remaining gap is around DataPipeline integrations, which Kwame Asante
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Friday, March 11 and begin
+implementation in Q1. Budget has been pre-approved at $478,372 for the
+first year.
+
+Action items: send the Analytics Pro technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their serialization engine workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Best regards,
+Jun

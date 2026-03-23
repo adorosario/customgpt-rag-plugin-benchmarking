@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-09-11 11:18 PM
+Subject: Financial close checklist â€” Q3
+
+Hey,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Insight Engine invoices must be issued by Thursday, February 5. Any revenue recognition
+adjustments for the AnalyticsDashboard contracts need supporting documentation uploaded
+to authentication module. Sofia Martinez from Sales must confirm final deal amounts by August 13.
+
+Expenses: all expense reports for Q3 must be submitted by Thursday, February 5. The
+AnalyticsDashboard vendor invoices totaling $57,747 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, AnalyticsDashboard subscription costs,
+and the authentication module usage charges by Thursday, February 5. Any non-standard accruals above
+367ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, AnalyticsDashboard account reconciliation, and
+inter-company balances must be completed by Thursday, February 5. Sofia Martinez is handling the
+bank rec. I'll take the inter-company items since they involve the Singapore entity.
+
+Target: books closed within 75 business days of quarter end. Final reporting
+package to leadership by Thursday, February 5.
+
+Best,
+Grace

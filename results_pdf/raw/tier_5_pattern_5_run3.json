@@ -1,0 +1,21 @@
+{
+  "tier": 5,
+  "question_id": "pattern_5",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What's happening with the Series B fundraising?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about a Series B fundraising. This isn't something in my memory or the project context I have access to.\n\nCould you clarify what you're referring to? Are you asking about:\n- A specific company's fundraising you'd like me to research?\n- Something related to this project or codebase?",
+  "time_seconds": 26.21,
+  "num_turns": 1,
+  "cost_usd": 0.10926525,
+  "input_tokens": 3,
+  "cache_creation_tokens": 28415,
+  "cache_read_tokens": 0,
+  "output_tokens": 180,
+  "total_tokens": 28598,
+  "duration_api_ms": 9817,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

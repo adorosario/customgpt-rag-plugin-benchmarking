@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-08 03:43 AM
+Subject: Vendor payment schedule â€” Q2
+
+Hello,
+
+Here's the vendor payment schedule for Q2. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Oscorp invoice for $298,866 is due on Friday, July 15 with a
+7% early payment discount if we pay within 85 days. I recommend
+taking the discount â€” it saves us 213ms. The ReportingEngine annual
+license renewal of 486ms is due Friday, July 15 with no discount available.
+
+Standard schedule: 85 vendor invoices totaling $298,866 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-486ms terms with payments going out every 85 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The authentication module vendor
+overbilled us by $298,866 on the ReportingEngine usage charges. Jun Tanaka is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q2 are projected at $298,866. This
+is 7% higher than last quarter due to the ReportingEngine infrastructure
+investment and the Berlin office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Talk soon,
+Ananya

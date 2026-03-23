@@ -1,0 +1,28 @@
+From: priya.sharma@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-06-17 01:19 AM
+Subject: Incident postmortem â€” APIGateway outage on Wednesday, December 8
+
+Hi team,
+
+Attached is the postmortem for the APIGateway outage that occurred on Wednesday, December 8. The
+incident lasted approximately 45 minutes and affected 165 for a subset of users.
+
+Root cause: a configuration change in the service mesh deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+366ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, Sanjay Krishnamurthy acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the APIGateway runbook, add a circuit breaker for the
+service mesh connection pool, and implement load shedding when concurrency exceeds
+366ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Talk soon,
+Priya

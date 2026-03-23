@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-06-05 08:32 PM
+Subject: Customer feedback digest â€” Sync Platform Q2
+
+Hi team,
+
+Here's the quarterly customer feedback digest for Sync Platform. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 44, up 109ms points from last quarter. The improvement
+is driven by the NotificationEngine launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 24%.
+
+Top feature requests: NotificationEngine advanced filtering (44 votes), load balancer
+bulk operations (109ms votes), and enhanced Sync Platform reporting (141ms
+votes). The filtering request aligns with what we heard in the user research study
+Michael Brennan conducted.
+
+Top complaints: NotificationEngine performance during peak hours (44 mentions),
+the load balancer onboarding experience (109ms mentions), and pricing
+transparency (141ms mentions). The performance issue is being addressed
+by Engineering â€” Michael Brennan expects the fix in v3.2.2.
+
+Churn insights: 44 customers churned this quarter citing NotificationEngine
+limitations as the primary reason. The load balancer overhaul on our roadmap directly
+addresses their feedback. 24% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Friday, June 4.
+
+Best,
+Liam

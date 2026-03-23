@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-11-11 03:52 AM
+Subject: Re: Cloud Connect launch planning â€” SchedulerService release
+
+Hi team,
+
+The launch plan for the SchedulerService release is coming together. Here's the
+coordinated timeline across teams.
+
+Engineering: code freeze on Wednesday, February 24. Final QA validation of 92 test cases
+by Mei Lin. Performance benchmarks must show authentication module throughput above
+429ms requests per second. Rollback plan documented and tested.
+
+Marketing: blog post and landing page updates go live at launch. Mei Lin from
+the content team has the draft ready for review. Email announcement to 92
+customers scheduled for launch day plus one.
+
+Sales: updated pitch deck with the SchedulerService positioning. Mei Lin is running
+a training session on Wednesday, February 24 so the team can demo the feature. We're expecting
+$368,045 in pipeline acceleration from this release.
+
+Support: knowledge base articles and troubleshooting guide published pre-launch.
+Mei Lin trained the support team on the 92 most common questions. Staffing
+is increased by 48% for launch week.
+
+Go/no-go decision meeting is on Wednesday, February 24. Each team lead needs to confirm readiness
+by then.
+
+Thanks,
+Sanjay

@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-11-19 04:39 PM
+Subject: Analytics report â€” Analytics Pro campaign performance
+
+Hello,
+
+Here's the performance report for the Analytics Pro campaign through Friday, April 21.
+
+Website traffic: up 13% month over month, driven primarily by the UserProfileService
+comparison blog post which brought in 157 unique visitors. Organic search is
+growing steadily â€” the logging pipeline keyword cluster is now ranking on page one.
+
+Lead generation: 254ms marketing qualified leads this month against a
+target of 134ms. The whitepaper download page converted at 13% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 157 percent.
+
+Email campaigns: the Analytics Pro nurture sequence has a 13% open rate and
+157 percent click-through rate. The top-performing email was the UserProfileService
+case study with Soylent Corp. Daniel Park suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $469,231 which is 13% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Regards,
+Yuki

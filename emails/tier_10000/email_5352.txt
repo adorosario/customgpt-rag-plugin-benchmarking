@@ -1,0 +1,27 @@
+From: elena.vasquez@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-06-26 12:24 AM
+Subject: Incident postmortem â€” PaymentGateway outage on Tuesday, January 5
+
+Hi team,
+
+Attached is the postmortem for the PaymentGateway outage that occurred on Tuesday, January 5. The
+incident lasted approximately 45 minutes and affected 46 for a subset of users.
+
+Root cause: a configuration change in the serialization engine deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+466ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, Alex Chen acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the PaymentGateway runbook, add a circuit breaker for the
+serialization engine connection pool, and implement load shedding when concurrency exceeds
+466ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Best,
+Elena

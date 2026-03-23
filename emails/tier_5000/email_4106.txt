@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-10-21 12:23 PM
+Subject: New lead â€” Globex inbound request
+
+Good morning,
+
+We received an inbound request from Globex through the website today. They're
+a 47-employee company in the WebhookDispatcher space and are looking for a
+Analytics Pro solution.
+
+Initial qualification: they have budget allocated for Q3, their current
+contract with their existing vendor expires on Wednesday, July 3, and the decision maker is
+their VP of Operations. They found us through the serialization engine whitepaper we
+published last month.
+
+The estimated deal size is $355,348 based on their seat count and the use case
+they described. They specifically mentioned needing the WebhookDispatcher integration
+and 115ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Patrick O'Brien â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on serialization engine scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Regards,
+Aisha

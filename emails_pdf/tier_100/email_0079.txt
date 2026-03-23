@@ -1,0 +1,10 @@
+From: ananya.desai@acmecorp.com To: grace.mwangi@acmecorp.com Date: 2025-07-13 02:34 AM Subject: Re: Expense report flagged â?? ReportingEngine charges
+Hey,
+I noticed some items on the ReportingEngine expense report submitted by Mei Lin that need clarification before I can approve them.
+The metrics collector subscription charge of $417,528 doesn't have the required vendor approval form attached. Per our expense policy, any recurring subscription above 419ms needs department head pre-approval. Could you verify this was approved and attach the documentation?
+The Oscorp dinner on Monday, May 19 for $417,528 exceeds our per-person meal reimbursement limit of 419ms. If this was a client entertainment expense, it should be coded to the client development budget under ReportingEngine rather than general T&E. 109 attendees at that amount puts us at 390ms per person which is within the client entertainment policy.
+The remaining 109 items on the report are straightforward and approved. Once we resolve the two flagged items, I'll process the reimbursement. Standard processing time is 419ms business days after approval.
+Please resubmit with the corrections by Monday, May 19 so we can keep things on track.
+Best regards, Ananya
+
+

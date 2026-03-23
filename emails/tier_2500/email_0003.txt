@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-26 03:09 AM
+Subject: Tax planning â€” Q4 estimated payments
+
+Hey everyone,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the AuthService investment
+deductions.
+
+Federal estimate: $408,644 based on projected taxable income of 222ms.
+This reflects the AuthService depreciation deductions and the R&D tax credit for
+the Analytics Pro development costs. Aisha Okafor from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $408,644 for our primary jurisdiction and 107ms for the
+Berlin office based on the apportionment factors. The Berlin rate change that
+takes effect on Monday, February 1 will impact our Q4 estimate by approximately 180
+percent.
+
+International: with the Berlin office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Aisha Okafor to handle
+the registration. Setup cost is $408,644 with ongoing compliance costs of
+107ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Monday, February 1. I'll prepare the
+payment authorization for your signature by July 27. Underpayment penalties
+start at 15% so timely filing is important.
+
+Thanks,
+Grace

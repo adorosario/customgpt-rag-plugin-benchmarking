@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-11-05 03:58 AM
+Subject: Press release draft â€” Data Vault announcement
+
+Good morning,
+
+The press release for the Data Vault announcement is ready for internal review. I've
+incorporated feedback from Sanjay Krishnamurthy and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the CacheLayer capability and positions Acme Corp as a leader
+in the connection pool space. We're leading with the 76 performance improvement
+stat and the Tyrell Corp customer quote.
+
+Distribution plan: wire service distribution on Thursday, November 15, followed by targeted
+outreach to our 494ms media contacts in the industry. I've secured a briefing
+with CacheLayer Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Data Vault landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 76-hour cadence on launch day.
+
+Embargo: the release is under embargo until Thursday, November 15 at 9 AM ET. Please don't share
+details externally before then. Sanjay Krishnamurthy has the full distribution list.
+
+Review deadline is Thursday, November 15. Please send edits as comments in the doc.
+
+Best regards,
+Yuki

@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-13 09:17 AM
+Subject: Beta program update â€” Sync Platform v1.9.5
+
+Hey everyone,
+
+Quick update on the Sync Platform v1.9.5 beta program. We're 155 weeks into
+the beta period with 141ms customers participating.
+
+Usage data: 23% of beta participants have activated the new CacheLayer
+feature. Average daily usage is 155 sessions per user. The event bus
+workflow is being used by 284ms of participants, which exceeds our
+adoption target of 141ms.
+
+Feedback summary: overall sentiment is positive. The top 155 pieces of praise
+relate to the CacheLayer speed improvement and the new event bus interface.
+The top 141ms complaints are about the CacheLayer configuration complexity
+and a confusing error message in the event bus flow.
+
+Bugs found: 155 bugs reported, of which 141ms are critical. Sarah Chen
+from Engineering has fixed 284ms of the critical bugs. The remaining one
+is related to the CacheLayer edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Wednesday, June 14. The GA release is targeted for 155 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Wednesday, June 14 to finalize the GA scope.
+
+Cheers,
+Daniel

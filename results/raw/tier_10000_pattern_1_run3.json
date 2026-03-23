@@ -1,0 +1,21 @@
+{
+  "tier": 10000,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the 15 emails mentioning Project Nexus across the dataset, here's what can be determined:\n\n## Project Nexus\n\n**What it is:** A cross-platform data synchronization application at AcmeCorp. Key components based on email subjects include:\n- Cross-platform sync (mobile client + multi-platform)\n- Data synchronization engine\n- Conflict resolution module\n- API layer\n- Integration layer\n\nEmail subjects reveal the scope: *\"Nexus mobile client progress,\" \"cross-platform sync spec,\" \"Nexus API design,\" \"Nexus data model changes \u00e2\u20ac\u201d breaking change alert,\" \"conflict resolution module,\" \"Nexus integration testing plan,\" \"Nexus performance benchmarks.\"*\n\n---\n\n## Teams Involved\n\n**Formal team lists (from CC fields):**\n- **Engineering** \u00e2\u20ac\u201d `engineering@acmecorp.com` (CC'd in multiple emails)\n- **Product** \u00e2\u20ac\u201d `product@acmecorp.com` (CC'd in sprint planning)\n\n**Individual contributors identified:**\n\n| Person | Role/Activity |\n|--------|--------------|\n| Ravi Patel | Weekly status updates, milestone coordination |\n| Liam Foster | User testing, architecture review, sprint planning |\n| Tomoko Nakamura | Resource allocation, cross-platform sync spec, integration testing |\n| Priya Sharma | Data model changes, milestone updates |\n| Mei Lin | API design |\n| Oluwaseun Adeyemi | Risk assessment, launch timeline |\n| Marcus Thompson | Conflict resolution module, resource allocation |\n| Wei Zhang | Performance benchmarks |\n| Elena Vasquez, Sofia Martinez, Fatima Al-Rashid, David Okonkwo, Derek Morrison, Michael Brennan, Kwame Asante, Jun Tanaka | Recipients/reviewers in various workstreams |\n\n**Note:** The email bodies contain largely generic/templated content \u00e2\u20ac\u201d the specifics come primarily from subject lines and CC fields.",
+  "time_seconds": 84.16,
+  "num_turns": 19,
+  "cost_usd": 0.23377335000000002,
+  "input_tokens": 11,
+  "cache_creation_tokens": 26285,
+  "cache_read_tokens": 291972,
+  "output_tokens": 3172,
+  "total_tokens": 321440,
+  "duration_api_ms": 70132,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

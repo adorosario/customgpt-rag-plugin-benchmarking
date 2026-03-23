@@ -1,0 +1,30 @@
+From: kwame.asante@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-08-26 05:27 AM
+Subject: Policy update â€” FileStorageService guidelines
+
+Good morning,
+
+We've updated the FileStorageService company policy based on feedback from employees and
+recent changes in Berlin labor regulations. The new policy takes effect on Wednesday, September 20.
+
+Key changes: the connection pool allowance has been increased from 481ms to
+284ms per month. The eligibility window for FileStorageService has been expanded
+to include employees who've been with Acme Corp for 48 months or more, down
+from the previous requirement of 481ms months.
+
+New additions: a Cloud Connect reimbursement category has been added covering up to
+$339,976 annually. This addresses the top employee request from the last survey.
+Wei Zhang negotiated favorable terms with the connection pool vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by May 9. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 11% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Cheers,
+Kwame

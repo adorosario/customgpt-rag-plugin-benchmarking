@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-11-22 07:19 AM
+Subject: Financial close checklist â€” Q4
+
+Hi all,
+
+The Q4 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Insight Engine invoices must be issued by Wednesday, August 25. Any revenue recognition
+adjustments for the AuditLog contracts need supporting documentation uploaded
+to queue processor. Rachel Nguyen from Sales must confirm final deal amounts by April 18.
+
+Expenses: all expense reports for Q4 must be submitted by Wednesday, August 25. The
+AuditLog vendor invoices totaling $170,321 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, AuditLog subscription costs,
+and the queue processor usage charges by Wednesday, August 25. Any non-standard accruals above
+471ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, AuditLog account reconciliation, and
+inter-company balances must be completed by Wednesday, August 25. Rachel Nguyen is handling the
+bank rec. I'll take the inter-company items since they involve the Sydney entity.
+
+Target: books closed within 200 business days of quarter end. Final reporting
+package to leadership by Wednesday, August 25.
+
+Regards,
+Grace

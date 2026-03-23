@@ -1,0 +1,28 @@
+From: tomoko.nakamura@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-11-18 03:15 AM
+Subject: Feature flag cleanup â€” ReportingEngine v5.0.0-beta
+
+Good morning,
+
+Time for our quarterly feature flag cleanup in ReportingEngine. We have 11 flags
+in the system and several of them are stale.
+
+Flags to remove: the rate limiter migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The ReportingEngine experiment flag
+was concluded last sprint with a decision to ship â€” Patrick O'Brien will hardcode the
+winning variant.
+
+Flags to keep: the v5.0.0-beta rollout flag should stay until we've confirmed
+stability at 187ms traffic. The rate limiter kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 305ms lines of dead code and simplify the conditional logic in
+11% of the affected modules.
+
+Please claim the tickets for flags in your area by Monday, May 17. Target completion is end
+of sprint.
+
+Best,
+Tomoko

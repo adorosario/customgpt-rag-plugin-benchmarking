@@ -1,0 +1,21 @@
+{
+  "tier": 10000,
+  "question_id": "pattern_3",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What issues has Initech reported and how is the team responding?",
+  "model": "claude-sonnet-4-6",
+  "response": "Here's a summary of what Initech has reported and how the team is responding:\n\n---\n\n## Initech Issues\n\n### 1. API Latency / Performance (primary issue)\nInitech has been experiencing API response time degradation and SLA breaches. This has been the central ongoing concern, tracked across multiple emails from June through October 2025:\n- **June 6** \u00e2\u20ac\u201d Priya Sharma escalated the API latency issues\n- **June 13** \u00e2\u20ac\u201d Oluwaseun Adeyemi followed up via customer success check-in\n- **June 29** \u00e2\u20ac\u201d Hannah Goldstein shared investigation findings\n- **July 5** \u00e2\u20ac\u201d Alex Chen reported a performance SLA breach\n- **Sept 5** \u00e2\u20ac\u201d Tomoko Nakamura produced a service degradation postmortem\n- **Oct 9** \u00e2\u20ac\u201d Carlos Rivera outlined a latency fix and hotfix deployment plan\n\n### 2. Deal Slippage (secondary)\nAn Initech deal expected to close in August slipped into Q4 due to internal budget approval delays at Initech's side, impacting Q3 revenue projections (~$4.8M \u00e2\u2020\u2019 $4.2M). (Ananya Desai, Sept 2)\n\n### 3. Patent / Competitive Overlap\nInitech has three related patent filings in the cross-platform synchronization space that required the AcmeCorp patent team to carefully distinguish their Nexus application, pushing the filing deadline from March 30 to April 15. (Sarah Chen, Aug 14)\n\n---\n\n## Team Response\n\n| Area | Actions |\n|---|---|\n| **Engineering** | Load testing, root cause analysis (Ravi Patel), hotfix deployment (Carlos Rivera), security audit (Alex Chen), infrastructure patches |\n| **Customer Success** | Multiple check-ins, escalation management, coordinated status updates to Initech stakeholders |\n| **Account Management** | Account retention strategy discussions (Aisha Okafor/Grace Mwangi), follow-up calls |\n| **Legal/IP** | Incorporating specific language to distinguish from Initech prior art; review meeting scheduled before patent submission |\n\nThe API latency issue appears to be nearing resolution with a hotfix deployment plan in place as of October 2025.",
+  "time_seconds": 55.88,
+  "num_turns": 4,
+  "cost_usd": 0.15156615,
+  "input_tokens": 6,
+  "cache_creation_tokens": 13817,
+  "cache_read_tokens": 104680,
+  "output_tokens": 1476,
+  "total_tokens": 119979,
+  "duration_api_ms": 42009,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

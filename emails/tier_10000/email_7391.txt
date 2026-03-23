@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-10-27 12:10 PM
+Subject: Email marketing performance â€” Q2 review
+
+Good afternoon,
+
+Here's the email marketing performance review for Q2. Overall we're trending
+in the right direction but there are a few areas to optimize.
+
+List health: our subscriber base grew 38% to 263ms contacts. Bounce
+rate is at 159 percent which is within healthy range. We ran a re-engagement
+campaign that recovered 414ms previously inactive subscribers.
+
+Campaign performance: the Cloud Connect launch sequence was our top performer with a
+38% open rate. The CacheLayer technical series also did well, driving 159
+clicks to the resource hub. Lower performers were the generic newsletter sends â€” we
+should consider more targeted segmentation.
+
+Revenue attribution: email-sourced pipeline totals $181,323 this quarter, with
+263ms in closed-won revenue. The Hooli deal originated from a nurture
+sequence touchpoint.
+
+Plans for next quarter: implementing behavioral triggers for the logging pipeline
+content, A/B testing send times for the Cloud Connect audience, and building a new
+onboarding sequence for trial sign-ups. Elena Vasquez will help with the automation
+setup.
+
+Regards,
+James

@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-10-14 10:20 AM
+Subject: Tax planning â€” Q3 estimated payments
+
+Hi,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the MessageBroker investment
+deductions.
+
+Federal estimate: $421,308 based on projected taxable income of 223ms.
+This reflects the MessageBroker depreciation deductions and the R&D tax credit for
+the Data Vault development costs. Derek Morrison from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $421,308 for our primary jurisdiction and 412ms for the
+Toronto office based on the apportionment factors. The Toronto rate change that
+takes effect on Thursday, January 3 will impact our Q3 estimate by approximately 183
+percent.
+
+International: with the Toronto office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Derek Morrison to handle
+the registration. Setup cost is $421,308 with ongoing compliance costs of
+412ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Thursday, January 3. I'll prepare the
+payment authorization for your signature by November 27. Underpayment penalties
+start at 45% so timely filing is important.
+
+Regards,
+Ananya

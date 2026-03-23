@@ -1,0 +1,31 @@
+From: patrick.obrien@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-07-13 04:47 AM
+Subject: Onboarding schedule â€” new hire starting Monday, October 21
+
+Hi all,
+
+We have a new team member joining Finance on Monday, October 21. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, AuditLog systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Carlos Rivera will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Cloud Connect and the logging pipeline tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Monday, October 21. All software licenses including AuditLog and logging pipeline access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 10 people to schedule intro meetings with, and first
+428ms-day goals. Please send these to Carlos Rivera in People Ops.
+
+Welcome email goes out 10 days before start date.
+
+Cheers,
+Patrick

@@ -1,0 +1,30 @@
+From: grace.mwangi@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-07 02:52 PM
+Subject: Re: Expense report flagged â€” UserProfileService charges
+
+Hey everyone,
+
+I noticed some items on the UserProfileService expense report submitted by Yuki Sato
+that need clarification before I can approve them.
+
+The config manager subscription charge of $305,917 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+444ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Soylent Corp dinner on Monday, October 18 for $305,917 exceeds our per-person meal
+reimbursement limit of 444ms. If this was a client entertainment expense,
+it should be coded to the client development budget under UserProfileService rather than
+general T&E. 189 attendees at that amount puts us at 304ms per
+person which is within the client entertainment policy.
+
+The remaining 189 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 444ms business days after approval.
+
+Please resubmit with the corrections by Monday, October 18 so we can keep things on track.
+
+Best,
+Grace

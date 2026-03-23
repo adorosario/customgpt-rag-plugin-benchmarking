@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-24 01:26 AM
+Subject: Payroll adjustment â€” Thursday, July 27 cycle
+
+Hey,
+
+Several payroll adjustments need to be processed for the Thursday, July 27 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 49 employees received approved raises effective Thursday, July 27. The
+total monthly payroll impact is $423,410. The largest increase is for Alex Chen
+whose compensation moves from 247ms to 302ms based on the promotion
+approved in the Q3 review cycle.
+
+New hires: 49 new employees starting on Thursday, July 27 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Alex Chen
+in People Ops has verified the documentation.
+
+Bonus payouts: the FileStorageService project completion bonus of $423,410 each goes to
+49 team members. These are one-time payments coded to the Sales department
+budget. Tax withholding will be calculated at the supplemental rate of 49%.
+
+Deduction changes: 49 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from serialization engine.
+
+Please approve the batch by October 22 to ensure on-time processing.
+
+Best regards,
+Ananya

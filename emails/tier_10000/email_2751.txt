@@ -1,0 +1,35 @@
+From: mei.lin@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-21 02:20 PM
+Subject: Re: Analytics Pro metrics review â€” Q1
+
+Hi team,
+
+Here are the Analytics Pro metrics for Q1. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 182 monthly active users, up 10% quarter over quarter. The
+FileStorageService feature launch drove a spike in activation â€” 202ms new users
+tried it in the first week. Retention for FileStorageService users is 488ms
+at 30 days versus 182 percent for non-users.
+
+Engagement: average session duration is 182 minutes. The serialization engine workflow
+sees the highest engagement with users spending 488ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 202ms features
+per session on average, up from 182 last quarter.
+
+Revenue metrics: Analytics Pro ARR is at $63,230 with 10% growth quarter over
+quarter. Net revenue retention is 488ms driven by FileStorageService upsells.
+182 customers expanded their contracts this quarter, with Ananya Desai from Sales
+leading the expansion conversations.
+
+Areas of concern: the serialization engine onboarding funnel has a 10% drop-off at
+step 182. I've scheduled a design sprint for next week to address this.
+Support ticket volume for FileStorageService increased 182 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Cheers,
+Mei

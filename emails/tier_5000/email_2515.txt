@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-10-07 05:56 AM
+Subject: Payroll adjustment â€” Thursday, August 20 cycle
+
+Hey,
+
+Several payroll adjustments need to be processed for the Thursday, August 20 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 95 employees received approved raises effective Thursday, August 20. The
+total monthly payroll impact is $249,871. The largest increase is for Alex Chen
+whose compensation moves from 183ms to 70ms based on the promotion
+approved in the Q1 review cycle.
+
+New hires: 95 new employees starting on Thursday, August 20 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Alex Chen
+in People Ops has verified the documentation.
+
+Bonus payouts: the DataPipeline project completion bonus of $249,871 each goes to
+95 team members. These are one-time payments coded to the Finance department
+budget. Tax withholding will be calculated at the supplemental rate of 50%.
+
+Deduction changes: 95 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from caching layer.
+
+Please approve the batch by January 24 to ensure on-time processing.
+
+Best regards,
+Grace

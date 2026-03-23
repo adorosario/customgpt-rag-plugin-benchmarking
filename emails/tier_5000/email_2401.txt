@@ -1,0 +1,28 @@
+From: derek.morrison@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-09-26 02:14 PM
+Subject: Quarterly territory review â€” Q1
+
+Hey everyone,
+
+Here's my territory review for Q1. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 74 qualified opportunities worth a combined $129,917 in
+ARR. The largest deal is Wayne Enterprises at 321ms, which I expect to close by
+Friday, March 23. Three other deals in the 81ms range are progressing through
+procurement.
+
+Wins this quarter: closed Wayne Enterprises for Data Vault with a 50% upsell from
+their initial scope. The serialization engine add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring James Oduya to the Wayne Enterprises executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Talk soon,
+Derek

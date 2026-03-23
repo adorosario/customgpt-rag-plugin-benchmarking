@@ -1,0 +1,28 @@
+From: derek.morrison@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-10-01 10:14 AM
+Subject: Re: Quota update â€” Q2 adjustments
+
+Good morning,
+
+Thanks for sharing the Q2 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $369,603 reflects a 50% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 84 of my projected deals depend on the Enterprise Suite launch happening on
+schedule. If that slips, I'll need the APIGateway backup deals to come through.
+
+Territory changes: I see that the Singapore accounts have been reassigned to
+Daniel Park. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Oscorp â€” we've been building that
+relationship for 134ms months.
+
+Regarding the new service mesh incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with service mesh upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Cheers,
+Derek

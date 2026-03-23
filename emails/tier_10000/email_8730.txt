@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-10-12 03:27 PM
+Subject: Sprint planning â€” Insight Engine sprint v4.1.0
+
+Hi,
+
+Here's the sprint plan for Insight Engine sprint v4.1.0. Capacity is 28 story
+points with 416ms engineers available this sprint.
+
+Committed stories: the SchedulerService integration work carries over from last sprint
+with 132ms points remaining. The new config manager API endpoints are
+estimated at 28 points. The bug fix for the SchedulerService rendering issue
+is 416ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the config manager performance
+optimization that David Okonkwo has been scouting. It's estimated at 28 points
+and would improve response time by 42%.
+
+Dependencies: the SchedulerService feature requires the API changes that David Okonkwo
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The config manager work is self-contained.
+
+Risks: David Okonkwo is on-call this sprint which historically reduces their available
+capacity by 42%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Friday, May 13. Let me know if the priorities look right.
+
+Best regards,
+Liam

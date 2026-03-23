@@ -1,0 +1,21 @@
+{
+  "tier": 2500,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the emails found in the dataset, here's what's known about **Project Nexus**:\n\n## Project Nexus (AcmeCorp)\n\n**What it is:** An internal project at AcmeCorp focused on:\n- **Cross-platform** functionality\n- **Synchronization**\n- **Conflict resolution**\n- **API design** (Nexus API)\n\nKey work areas mentioned include sprint planning, milestone tracking, and architecture reviews.\n\n## Teams / People Involved\n\n| Person | Email | Role/Context |\n|---|---|---|\n| **Liam Foster** | liam.foster@acmecorp.com | Sends sprint planning and architecture review emails \u00e2\u20ac\u201d appears to be a lead |\n| **Ravi Patel** | ravi.patel@acmecorp.com | Milestone updates, CC'd engineering team |\n| **Mei Lin** | mei.lin@acmecorp.com | API design feedback |\n| **Sofia Martinez** | sofia.martinez@acmecorp.com | Recipient of API design discussion |\n| **Priya Sharma** | priya.sharma@acmecorp.com | Milestone update recipient |\n| **David Okonkwo** | david.okonkwo@acmecorp.com | Architecture review |\n\n**Distribution lists involved:**\n- `product@acmecorp.com`\n- `engineering@acmecorp.com`\n\nSo both the **Product** and **Engineering** teams are involved in Project Nexus.\n\n> Note: The email content is fairly generic/templated, so details beyond people, teams, and topic areas are limited.",
+  "time_seconds": 45.86,
+  "num_turns": 7,
+  "cost_usd": 0.1039023,
+  "input_tokens": 5,
+  "cache_creation_tokens": 17292,
+  "cache_read_tokens": 77991,
+  "output_tokens": 1043,
+  "total_tokens": 96331,
+  "duration_api_ms": 33049,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

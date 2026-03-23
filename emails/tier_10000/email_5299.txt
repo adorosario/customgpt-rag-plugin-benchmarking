@@ -1,0 +1,33 @@
+From: sarah.chen@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-09-15 12:25 PM
+Subject: Vendor agreement â€” Pied Piper terms review
+
+Hey,
+
+I've reviewed the vendor agreement from Pied Piper for the authentication module services
+we're procuring. Here are my findings and recommended changes.
+
+Term and renewal: the proposed 153-year term with auto-renewal is acceptable.
+However, the 268ms-day termination notice period is too long for our needs.
+I've countered with 402ms days, which aligns with our standard vendor
+management practices.
+
+Service level commitments: Pied Piper is offering 13% uptime with service
+credits starting at 153 percent for each hour of downtime. I've pushed for
+a higher credit rate given the criticality of authentication module to our Analytics Pro
+infrastructure.
+
+Data ownership: section 5 is clear that we retain all rights to our data. However,
+Pied Piper claims a license to use aggregated, anonymized data for benchmarking. I
+want to narrow this to exclude any data from the DataPipeline environment.
+Elena Vasquez from Engineering should review the technical implications.
+
+Pricing: $200,879 per year is within the budget that Finance approved. The payment
+terms are net 268ms days, which works for our AP schedule.
+
+Please confirm the business terms and I'll send the redlined agreement by Tuesday, August 9.
+
+Cheers,
+Sarah

@@ -1,0 +1,31 @@
+From: carlos.rivera@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-21 05:01 AM
+Subject: Client meeting recap â€” Hooli Thursday, June 6
+
+Hi,
+
+Recapping today's meeting with Hooli. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their BillingModule
+team lead. From ours: myself, Aisha Okafor from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their event bus vendors
+from three down to one. Our Insight Engine covers 11% of their requirements
+natively. The remaining gap is around BillingModule integrations, which Aisha Okafor
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Thursday, June 6 and begin
+implementation in Q3. Budget has been pre-approved at $195,531 for the
+first year.
+
+Action items: send the Insight Engine technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their event bus workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Cheers,
+Carlos

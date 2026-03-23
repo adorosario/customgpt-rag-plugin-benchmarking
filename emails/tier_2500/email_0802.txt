@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-06-08 03:36 PM
+Subject: Quarterly territory review â€” Q2
+
+Hi,
+
+Here's my territory review for Q2. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 125 qualified opportunities worth a combined $77,235 in
+ARR. The largest deal is Soylent Corp at 494ms, which I expect to close by
+Wednesday, January 14. Three other deals in the 205ms range are progressing through
+procurement.
+
+Wins this quarter: closed Soylent Corp for Data Vault with a 21% upsell from
+their initial scope. The logging pipeline add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Marcus Thompson to the Soylent Corp executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Talk soon,
+Hannah

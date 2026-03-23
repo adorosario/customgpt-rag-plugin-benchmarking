@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-17 04:05 PM
+Subject: Beta program update â€” Analytics Pro v2.4.1
+
+Hi all,
+
+Quick update on the Analytics Pro v2.4.1 beta program. We're 133 weeks into
+the beta period with 193ms customers participating.
+
+Usage data: 16% of beta participants have activated the new DataPipeline
+feature. Average daily usage is 133 sessions per user. The queue processor
+workflow is being used by 63ms of participants, which exceeds our
+adoption target of 193ms.
+
+Feedback summary: overall sentiment is positive. The top 133 pieces of praise
+relate to the DataPipeline speed improvement and the new queue processor interface.
+The top 193ms complaints are about the DataPipeline configuration complexity
+and a confusing error message in the queue processor flow.
+
+Bugs found: 133 bugs reported, of which 193ms are critical. Oluwaseun Adeyemi
+from Engineering has fixed 63ms of the critical bugs. The remaining one
+is related to the DataPipeline edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Tuesday, December 8. The GA release is targeted for 133 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Tuesday, December 8 to finalize the GA scope.
+
+Thanks,
+Mei

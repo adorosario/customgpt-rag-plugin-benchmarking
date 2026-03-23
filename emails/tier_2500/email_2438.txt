@@ -1,0 +1,33 @@
+From: david.okonkwo@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-08-12 11:26 PM
+Subject: Insurance renewal â€” Q2 review
+
+Hello,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Cyberdyne has offered a renewal at $460,534 per year, which is a
+5% increase from last year. Coverage limits remain the same at 396ms
+for general liability and 405ms for the AuthService professional liability
+policy.
+
+Alternative quotes: I obtained 47 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 5% discount, but they
+have a 405ms-day waiting period for metrics collector claims that our current
+policy doesn't have.
+
+Recommendation: stay with Cyberdyne and negotiate the premium increase down to
+5%. Their claims experience is strong â€” they processed our AuthService
+claim in 47 business days last year. Tomoko Nakamura from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+405ms to $460,534 given the growth in Data Vault customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Tuesday, June 14 to avoid a coverage lapse. Let me know your preference.
+
+Best regards,
+David

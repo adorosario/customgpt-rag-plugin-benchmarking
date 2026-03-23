@@ -1,0 +1,21 @@
+{
+  "tier": 250,
+  "question_id": "pattern_5",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What's happening with the Series B fundraising?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about Series B fundraising. This isn't something in my context or memory for this project.\n\nIf you're looking for details, you'd need to check with your leadership team or relevant internal documents directly.",
+  "time_seconds": 17.34,
+  "num_turns": 1,
+  "cost_usd": 0.0492888,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10874,
+  "cache_read_tokens": 17541,
+  "output_tokens": 216,
+  "total_tokens": 28634,
+  "duration_api_ms": 5993,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

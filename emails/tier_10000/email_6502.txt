@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-08-21 04:49 PM
+Subject: Cash flow forecast â€” Q1
+
+Hey,
+
+Attached is the cash flow forecast for Q1. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $477,105 based on the current AR aging
+and sales pipeline. The Massive Dynamic payment of 271ms is expected by Thursday, June 1
+â€” Kwame Asante from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the DataPipeline infrastructure
+investment at $477,105. The Singapore office build-out costs will hit in Q1
+with an estimated total of 54ms. Payroll continues at 271ms
+monthly for our 114-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $477,105 in the second month. This provides 114 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Massive Dynamic deal slips from Q1 to next quarter, we'll
+need to draw on the credit facility for $477,105. I've confirmed the line is
+available. Kwame Asante and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Thanks,
+Robert

@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-11-30 12:21 PM
+Subject: Financial close checklist â€” Q3
+
+Hi,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Enterprise Suite invoices must be issued by Thursday, June 16. Any revenue recognition
+adjustments for the DataPipeline contracts need supporting documentation uploaded
+to metrics collector. Maria Santos from Sales must confirm final deal amounts by September 13.
+
+Expenses: all expense reports for Q3 must be submitted by Thursday, June 16. The
+DataPipeline vendor invoices totaling $354,717 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, DataPipeline subscription costs,
+and the metrics collector usage charges by Thursday, June 16. Any non-standard accruals above
+127ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, DataPipeline account reconciliation, and
+inter-company balances must be completed by Thursday, June 16. Maria Santos is handling the
+bank rec. I'll take the inter-company items since they involve the Berlin entity.
+
+Target: books closed within 44 business days of quarter end. Final reporting
+package to leadership by Thursday, June 16.
+
+Best,
+Robert

@@ -1,0 +1,28 @@
+From: elena.vasquez@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-09-07 03:10 AM
+Subject: Feature flag cleanup â€” SearchIndex v2.6.0
+
+Hi,
+
+Time for our quarterly feature flag cleanup in SearchIndex. We have 144 flags
+in the system and several of them are stale.
+
+Flags to remove: the caching layer migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The SearchIndex experiment flag
+was concluded last sprint with a decision to ship â€” Sarah Chen will hardcode the
+winning variant.
+
+Flags to keep: the v2.6.0 rollout flag should stay until we've confirmed
+stability at 123ms traffic. The caching layer kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 51ms lines of dead code and simplify the conditional logic in
+25% of the affected modules.
+
+Please claim the tickets for flags in your area by Monday, September 4. Target completion is end
+of sprint.
+
+Talk soon,
+Elena

@@ -1,0 +1,26 @@
+From: carlos.rivera@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-07-02 07:34 PM
+Subject: Re: Pied Piper renewal â€” risk assessment
+
+Hello,
+
+Following up on the Pied Piper renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing UserProfileService latency issues for the past 148 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Pied Piper has mentioned they're evaluating alternatives for their load balancer needs.
+
+The renewal is worth $286,921 annually and is up for renewal at the end of
+Q4. I think we need a proactive retention strategy. My proposal:
+
+First, get Amara Diallo from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 59% discount
+on the expanded Analytics Pro tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Best regards,
+Carlos

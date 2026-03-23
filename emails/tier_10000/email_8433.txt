@@ -1,0 +1,33 @@
+From: david.okonkwo@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-06-22 10:06 PM
+Subject: Data privacy assessment â€” Integration Hub
+
+Hello,
+
+The data privacy impact assessment for Integration Hub is complete. I'm flagging the key
+findings and required actions for the team.
+
+Data inventory: Integration Hub processes 144 categories of personal data including
+names, email addresses, and usage analytics. The data flows through our PaymentGateway
+infrastructure and is stored in the event bus environment in Singapore.
+
+Risk findings: overall risk level is moderate. The primary concern is the
+cross-border data transfer to the Singapore processing center. We need to implement
+standard contractual clauses with our PaymentGateway sub-processor. Amara Diallo from
+Engineering confirmed the technical safeguards are already in place.
+
+Consent mechanism: the current Integration Hub consent flow meets requirements for
+39% of our user base. For users in regulated jurisdictions, we need to add
+explicit opt-in for the event bus analytics features. This is a 144-sprint
+effort according to the Product team.
+
+Records of processing: I've updated our data register to include all Integration Hub
+processing activities. The register needs to be reviewed every 264ms months
+per our policy.
+
+Next step: executive sign-off on the DPIA by Wednesday, December 9. Please review the full
+report in the shared drive.
+
+Talk soon,
+David

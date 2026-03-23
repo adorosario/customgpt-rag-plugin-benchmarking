@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-11-05 06:51 PM
+Subject: Sprint planning â€” Cloud Connect sprint v2.7.3
+
+Good morning,
+
+Here's the sprint plan for Cloud Connect sprint v2.7.3. Capacity is 63 story
+points with 332ms engineers available this sprint.
+
+Committed stories: the CacheLayer integration work carries over from last sprint
+with 355ms points remaining. The new queue processor API endpoints are
+estimated at 63 points. The bug fix for the CacheLayer rendering issue
+is 332ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the queue processor performance
+optimization that Sarah Chen has been scouting. It's estimated at 63 points
+and would improve response time by 41%.
+
+Dependencies: the CacheLayer feature requires the API changes that Sarah Chen
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The queue processor work is self-contained.
+
+Risks: Sarah Chen is on-call this sprint which historically reduces their available
+capacity by 41%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, January 11. Let me know if the priorities look right.
+
+Cheers,
+Mei

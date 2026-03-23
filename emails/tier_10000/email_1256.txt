@@ -1,0 +1,30 @@
+From: carlos.rivera@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-11-23 12:13 AM
+Subject: Client meeting recap â€” Tyrell Corp Friday, March 27
+
+Good afternoon,
+
+Recapping today's meeting with Tyrell Corp. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their MessageBroker
+team lead. From ours: myself, Kwame Asante from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their config manager vendors
+from three down to one. Our Cloud Connect covers 44% of their requirements
+natively. The remaining gap is around MessageBroker integrations, which Kwame Asante
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Friday, March 27 and begin
+implementation in Q1. Budget has been pre-approved at $422,939 for the
+first year.
+
+Action items: send the Cloud Connect technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their config manager workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Best regards,
+Carlos

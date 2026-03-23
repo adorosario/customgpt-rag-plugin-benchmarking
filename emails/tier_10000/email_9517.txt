@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-06-16 08:28 AM
+Subject: Policy update â€” MessageBroker guidelines
+
+Hi,
+
+We've updated the MessageBroker company policy based on feedback from employees and
+recent changes in London labor regulations. The new policy takes effect on Monday, April 1.
+
+Key changes: the caching layer allowance has been increased from 129ms to
+322ms per month. The eligibility window for MessageBroker has been expanded
+to include employees who've been with Acme Corp for 126 months or more, down
+from the previous requirement of 129ms months.
+
+New additions: a Analytics Pro reimbursement category has been added covering up to
+$290,843 annually. This addresses the top employee request from the last survey.
+Sarah Chen negotiated favorable terms with the caching layer vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by December 6. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 20% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Rachel

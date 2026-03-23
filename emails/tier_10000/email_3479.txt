@@ -1,0 +1,34 @@
+From: amara.diallo@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-19 03:40 AM
+Subject: Customer feedback digest â€” Insight Engine Q3
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Insight Engine. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 127, up 166ms points from last quarter. The improvement
+is driven by the FileStorageService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 37%.
+
+Top feature requests: FileStorageService advanced filtering (127 votes), metrics collector
+bulk operations (166ms votes), and enhanced Insight Engine reporting (247ms
+votes). The filtering request aligns with what we heard in the user research study
+Robert Kimura conducted.
+
+Top complaints: FileStorageService performance during peak hours (127 mentions),
+the metrics collector onboarding experience (166ms mentions), and pricing
+transparency (247ms mentions). The performance issue is being addressed
+by Engineering â€” Robert Kimura expects the fix in v2.6.0.
+
+Churn insights: 127 customers churned this quarter citing FileStorageService
+limitations as the primary reason. The metrics collector overhaul on our roadmap directly
+addresses their feedback. 37% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Friday, March 19.
+
+Thanks,
+Amara

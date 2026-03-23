@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-06-29 02:56 AM
+Subject: Payroll adjustment â€” Monday, January 15 cycle
+
+Hi,
+
+Several payroll adjustments need to be processed for the Monday, January 15 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 168 employees received approved raises effective Monday, January 15. The
+total monthly payroll impact is $86,088. The largest increase is for Sarah Chen
+whose compensation moves from 404ms to 390ms based on the promotion
+approved in the Q4 review cycle.
+
+New hires: 168 new employees starting on Monday, January 15 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Sarah Chen
+in People Ops has verified the documentation.
+
+Bonus payouts: the NotificationEngine project completion bonus of $86,088 each goes to
+168 team members. These are one-time payments coded to the Product department
+budget. Tax withholding will be calculated at the supplemental rate of 21%.
+
+Deduction changes: 168 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from config manager.
+
+Please approve the batch by December 19 to ensure on-time processing.
+
+Best,
+Grace

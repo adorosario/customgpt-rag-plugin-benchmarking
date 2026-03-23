@@ -1,0 +1,30 @@
+From: dmitri.volkov@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-10-04 12:37 PM
+Subject: Re: Cloud Connect demo feedback from Globex
+
+Hey everyone,
+
+Great news from the Globex demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the caching layer dashboard got the biggest reaction. Their
+current tool requires 15 manual steps to accomplish what our Cloud Connect does
+automatically. The SchedulerService integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 418ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v4.1.0 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Grace Mwangi, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Cloud Connect trial environment set up for their team of
+15 evaluators. I'll submit the trial request today. Target close date
+remains Tuesday, February 24.
+
+Best,
+Dmitri

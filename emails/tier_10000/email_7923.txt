@@ -1,0 +1,29 @@
+From: dmitri.volkov@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-16 08:47 PM
+Subject: New lead â€” Hooli inbound request
+
+Hey,
+
+We received an inbound request from Hooli through the website today. They're
+a 60-employee company in the AuditLog space and are looking for a
+Integration Hub solution.
+
+Initial qualification: they have budget allocated for Q4, their current
+contract with their existing vendor expires on Monday, October 26, and the decision maker is
+their VP of Operations. They found us through the metrics collector whitepaper we
+published last month.
+
+The estimated deal size is $214,838 based on their seat count and the use case
+they described. They specifically mentioned needing the AuditLog integration
+and 92ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Ravi Patel â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on metrics collector scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Regards,
+Dmitri

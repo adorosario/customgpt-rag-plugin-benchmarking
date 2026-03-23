@@ -1,0 +1,27 @@
+From: ravi.patel@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-09-07 07:00 PM
+Subject: Incident postmortem â€” AnalyticsDashboard outage on Friday, November 3
+
+Good afternoon,
+
+Attached is the postmortem for the AnalyticsDashboard outage that occurred on Friday, November 3. The
+incident lasted approximately 45 minutes and affected 90 for a subset of users.
+
+Root cause: a configuration change in the service mesh deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+221ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, Alex Chen acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the AnalyticsDashboard runbook, add a circuit breaker for the
+service mesh connection pool, and implement load shedding when concurrency exceeds
+221ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Best regards,
+Ravi

@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-10-24 04:23 AM
+Subject: Budget review â€” Legal department Q2
+
+Good morning,
+
+Here's the Q2 budget review for the Legal department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $223,039 against a budget of 51ms. The 55% variance is
+primarily driven by the accelerated AuditLog hiring that was approved mid-quarter.
+Personnel costs came in at 418ms which includes the 159 new hires.
+
+Overages: the rate limiter infrastructure line item exceeded budget by 55% due
+to the unplanned scaling requirements for Data Vault. I've worked with Patrick O'Brien
+from Engineering to project the run rate going forward â€” we should budget an
+additional $223,039 per quarter for this category.
+
+Underspend: the AuditLog consulting budget was only 55% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 55%
+of the total annual budget. The main risk is the rate limiter cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Thanks,
+Robert

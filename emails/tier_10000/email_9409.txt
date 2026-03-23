@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-11-25 02:49 PM
+Subject: Tax planning â€” Q4 estimated payments
+
+Hi all,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the UserProfileService investment
+deductions.
+
+Federal estimate: $203,785 based on projected taxable income of 225ms.
+This reflects the UserProfileService depreciation deductions and the R&D tax credit for
+the Integration Hub development costs. Hannah Goldstein from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $203,785 for our primary jurisdiction and 430ms for the
+Tokyo office based on the apportionment factors. The Tokyo rate change that
+takes effect on Monday, June 26 will impact our Q4 estimate by approximately 148
+percent.
+
+International: with the Tokyo office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Hannah Goldstein to handle
+the registration. Setup cost is $203,785 with ongoing compliance costs of
+430ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Monday, June 26. I'll prepare the
+payment authorization for your signature by November 10. Underpayment penalties
+start at 34% so timely filing is important.
+
+Thanks,
+Robert

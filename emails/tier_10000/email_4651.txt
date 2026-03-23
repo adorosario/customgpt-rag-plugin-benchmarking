@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-11-24 04:25 PM
+Subject: Tax planning â€” Q4 estimated payments
+
+Hi all,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the BillingModule investment
+deductions.
+
+Federal estimate: $226,375 based on projected taxable income of 64ms.
+This reflects the BillingModule depreciation deductions and the R&D tax credit for
+the Cloud Connect development costs. Liam Foster from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $226,375 for our primary jurisdiction and 389ms for the
+Singapore office based on the apportionment factors. The Singapore rate change that
+takes effect on Tuesday, March 16 will impact our Q4 estimate by approximately 55
+percent.
+
+International: with the Singapore office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Liam Foster to handle
+the registration. Setup cost is $226,375 with ongoing compliance costs of
+389ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Tuesday, March 16. I'll prepare the
+payment authorization for your signature by May 15. Underpayment penalties
+start at 6% so timely filing is important.
+
+Thanks,
+Ananya

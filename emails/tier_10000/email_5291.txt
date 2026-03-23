@@ -1,0 +1,29 @@
+From: dmitri.volkov@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-27 11:32 AM
+Subject: Re: Quota update â€” Q1 adjustments
+
+Hi team,
+
+Thanks for sharing the Q1 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $96,660 reflects a 11% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 79 of my projected deals depend on the Integration Hub launch happening on
+schedule. If that slips, I'll need the SearchIndex backup deals to come through.
+
+Territory changes: I see that the Sydney accounts have been reassigned to
+Amara Diallo. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Weyland-Yutani â€” we've been building that
+relationship for 455ms months.
+
+Regarding the new config manager incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with config manager upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Thanks,
+Dmitri

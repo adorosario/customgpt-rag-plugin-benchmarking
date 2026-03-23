@@ -1,0 +1,28 @@
+From: jun.tanaka@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-04 03:44 PM
+Subject: Re: Cyberdyne contract negotiation â€” pricing discussion
+
+Good afternoon,
+
+Update on the Cyberdyne negotiation. Their procurement team came back with a
+counteroffer and I want to make sure we're aligned before I respond.
+
+They're asking for a 33% reduction on the Data Vault license fee, bringing
+the annual contract value from $432,604 to 164ms. Their rationale is
+that they're committing to a larger seat count of 21 users, which is above
+our standard enterprise tier threshold of 260ms.
+
+My recommendation is to accept the volume-based discount but hold firm on the
+load balancer add-on pricing. The add-on margins are already thin and it's the module
+that delivers the most value in their use case. Sarah Chen from Finance can confirm
+the margin impact.
+
+I also want to push for a 2-year commitment if we offer the discounted rate. This
+locks in the revenue and reduces churn risk.
+
+Can we get a quick alignment call today before their deadline on Friday, November 1?
+
+Thanks,
+Jun

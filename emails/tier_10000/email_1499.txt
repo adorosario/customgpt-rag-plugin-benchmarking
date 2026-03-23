@@ -1,0 +1,33 @@
+From: yuki.sato@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-06-10 10:55 PM
+Subject: SEO update â€” WebhookDispatcher keyword rankings
+
+Hey,
+
+Monthly SEO update for our WebhookDispatcher content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Enterprise Suite comparison page climbed from position 272ms to
+position 208ms for our primary keyword. The queue processor guide is now
+ranking in the top 175 for three long-tail variations.
+
+Traffic impact: organic sessions are up 54% month over month. The
+WebhookDispatcher cluster is now driving 175 unique sessions monthly, making it our
+second-highest traffic source behind the Enterprise Suite landing page.
+
+Content gaps identified: we're missing content for 272ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q2. Daniel Park from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 208ms on mobile after the image
+optimization work. No crawl errors detected. The new queue processor documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 175 pages. I'll share the
+outreach plan next week.
+
+Talk soon,
+Yuki

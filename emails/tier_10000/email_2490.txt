@@ -1,0 +1,29 @@
+From: hannah.goldstein@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-10-02 06:36 PM
+Subject: Re: Analytics Pro demo feedback from Wayne Enterprises
+
+Hi,
+
+Great news from the Wayne Enterprises demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the queue processor dashboard got the biggest reaction. Their
+current tool requires 198 manual steps to accomplish what our Analytics Pro does
+automatically. The BillingModule integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 459ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v3.2.2 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. David Okonkwo, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Analytics Pro trial environment set up for their team of
+198 evaluators. I'll submit the trial request today. Target close date
+remains Wednesday, September 2.
+
+Thanks,
+Hannah

@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-11-21 06:38 PM
+Subject: Budget review â€” Finance department Q3
+
+Hey everyone,
+
+Here's the Q3 budget review for the Finance department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $164,317 against a budget of 68ms. The 10% variance is
+primarily driven by the accelerated WebhookDispatcher hiring that was approved mid-quarter.
+Personnel costs came in at 176ms which includes the 46 new hires.
+
+Overages: the logging pipeline infrastructure line item exceeded budget by 10% due
+to the unplanned scaling requirements for Enterprise Suite. I've worked with Sanjay Krishnamurthy
+from Engineering to project the run rate going forward â€” we should budget an
+additional $164,317 per quarter for this category.
+
+Underspend: the WebhookDispatcher consulting budget was only 10% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 10%
+of the total annual budget. The main risk is the logging pipeline cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best regards,
+Robert

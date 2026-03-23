@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-11-20 12:02 PM
+Subject: Budget review â€” Marketing department Q3
+
+Good morning,
+
+Here's the Q3 budget review for the Marketing department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $240,882 against a budget of 115ms. The 41% variance is
+primarily driven by the accelerated MessageBroker hiring that was approved mid-quarter.
+Personnel costs came in at 252ms which includes the 116 new hires.
+
+Overages: the logging pipeline infrastructure line item exceeded budget by 41% due
+to the unplanned scaling requirements for Cloud Connect. I've worked with Carlos Rivera
+from Engineering to project the run rate going forward â€” we should budget an
+additional $240,882 per quarter for this category.
+
+Underspend: the MessageBroker consulting budget was only 41% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 41%
+of the total annual budget. The main risk is the logging pipeline cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Cheers,
+Grace

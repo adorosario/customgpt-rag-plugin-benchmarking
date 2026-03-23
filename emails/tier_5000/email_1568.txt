@@ -1,0 +1,35 @@
+From: mei.lin@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-01 10:15 PM
+Subject: Re: Integration Hub metrics review â€” Q4
+
+Hello,
+
+Here are the Integration Hub metrics for Q4. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 136 monthly active users, up 17% quarter over quarter. The
+APIGateway feature launch drove a spike in activation â€” 434ms new users
+tried it in the first week. Retention for APIGateway users is 347ms
+at 30 days versus 136 percent for non-users.
+
+Engagement: average session duration is 136 minutes. The queue processor workflow
+sees the highest engagement with users spending 347ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 434ms features
+per session on average, up from 136 last quarter.
+
+Revenue metrics: Integration Hub ARR is at $178,028 with 17% growth quarter over
+quarter. Net revenue retention is 347ms driven by APIGateway upsells.
+136 customers expanded their contracts this quarter, with Aisha Okafor from Sales
+leading the expansion conversations.
+
+Areas of concern: the queue processor onboarding funnel has a 17% drop-off at
+step 136. I've scheduled a design sprint for next week to address this.
+Support ticket volume for APIGateway increased 136 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Cheers,
+Mei

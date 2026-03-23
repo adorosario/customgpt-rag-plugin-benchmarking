@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-09-14 01:50 PM
+Subject: Tax planning â€” Q3 estimated payments
+
+Hi all,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the SearchIndex investment
+deductions.
+
+Federal estimate: $113,139 based on projected taxable income of 67ms.
+This reflects the SearchIndex depreciation deductions and the R&D tax credit for
+the Enterprise Suite development costs. Mei Lin from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $113,139 for our primary jurisdiction and 468ms for the
+Singapore office based on the apportionment factors. The Singapore rate change that
+takes effect on Thursday, April 8 will impact our Q3 estimate by approximately 160
+percent.
+
+International: with the Singapore office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Mei Lin to handle
+the registration. Setup cost is $113,139 with ongoing compliance costs of
+468ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Thursday, April 8. I'll prepare the
+payment authorization for your signature by May 8. Underpayment penalties
+start at 19% so timely filing is important.
+
+Talk soon,
+Ananya

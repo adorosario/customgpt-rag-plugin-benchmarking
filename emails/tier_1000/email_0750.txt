@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-11-05 07:49 PM
+Subject: Investment proposal â€” CacheLayer infrastructure
+
+Hey everyone,
+
+I've prepared the financial analysis for the proposed CacheLayer infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $366,790 upfront with 408ms in annual operating costs.
+The total 3-year cost of ownership is 317ms compared to the current
+rate limiter setup at $366,790 over the same period.
+
+ROI analysis: the projected payback period is 49 months. Key benefits include
+38% reduction in infrastructure management time, improved Data Vault performance
+that supports the revenue growth targets, and elimination of the rate limiter
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $366,790 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 38% interest.
+This preserves cash for the Sydney office investment planned for Q4.
+
+Risk factors: technology lock-in with the CacheLayer vendor, though the 49-year
+contract includes an exit clause after the first year. Sofia Martinez from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Thursday, May 14 to lock in the quoted pricing. The vendor has
+given us a 49-day hold on the current rates.
+
+Regards,
+Ananya

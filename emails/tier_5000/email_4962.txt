@@ -1,0 +1,30 @@
+From: maria.santos@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-06-22 10:53 PM
+Subject: Re: Employment law update â€” New York office
+
+Hi,
+
+Important update on the employment law changes affecting our New York office.
+The new legislation goes into effect on Wednesday, July 22 and requires several adjustments to
+our current practices.
+
+Key changes: first, the minimum notice period for termination has increased from
+500ms to 456ms weeks for employees with more than 166 years
+of tenure. Second, there's a new requirement for documented PaymentGateway procedures
+that must be shared with employees during onboarding.
+
+Impact assessment: we have 166 employees at the New York office who are affected
+by the notice period change. HR needs to update offer letters and the employee
+handbook for the New York jurisdiction. Michael Brennan from People Ops is coordinating
+the handbook revision.
+
+Compliance cost: outside counsel estimates $49,165 in legal fees to update all
+affected contracts and policies. This was not in the Q2 legal budget, so
+I'll need Finance to approve the additional spend.
+
+Deadline: all changes must be implemented by Wednesday, July 22. I've created a compliance
+checklist and will track progress in our weekly legal ops meeting.
+
+Thanks,
+Maria

@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-10-12 07:21 AM
+Subject: Sales engineering request â€” Umbrella Inc POC
+
+Hi all,
+
+Requesting SE support for a proof-of-concept with Umbrella Inc. This is a $325,753
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Cloud Connect can handle 157
+transactions per second with their NotificationEngine data format. The test needs to
+run against their staging environment and demonstrate the connection pool capability
+under realistic load.
+
+Timeline: Umbrella Inc wants the POC completed within 63ms business days
+starting Tuesday, May 10. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: James Oduya for the technical configuration and someone from
+the NotificationEngine team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q3. Let me know if we can make this timeline work.
+
+Regards,
+Dmitri

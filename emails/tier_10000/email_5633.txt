@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-23 07:18 AM
+Subject: Re: Billing dispute â€” Oscorp account
+
+Good morning,
+
+I've investigated the billing dispute raised by Oscorp. Here's what I found and
+my recommended resolution.
+
+Dispute details: Oscorp is contesting $257,588 on their Q1 invoice,
+claiming they were double-charged for the SchedulerService add-on module. Their account
+manager Kwame Asante has been communicating with them but they want a Finance response.
+
+Investigation: I reviewed the billing records and confirmed there was a system error
+in our serialization engine billing platform. The SchedulerService charge was applied twice due
+to a timing issue when their subscription was upgraded on Monday, July 21. The correct charge
+should have been 221ms not $257,588.
+
+Resolution: I recommend issuing a credit of 71ms to their account immediately
+and applying it to the next invoice. This maintains the relationship and the credit
+is clearly justified. Total revenue impact is 11 percent of the contract value.
+
+Prevention: I've filed a bug report with the serialization engine billing team to fix the
+underlying issue. Kwame Asante from Engineering estimates a fix in the next 11
+sprints. In the meantime, I'll add a manual review step for any mid-cycle
+subscription changes.
+
+Can you approve the credit so I can communicate the resolution to Oscorp today?
+
+Best,
+Robert

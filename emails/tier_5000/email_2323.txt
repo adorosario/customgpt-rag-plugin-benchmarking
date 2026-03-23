@@ -1,0 +1,34 @@
+From: amara.diallo@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-22 06:57 AM
+Subject: Customer feedback digest â€” Cloud Connect Q3
+
+Good morning,
+
+Here's the quarterly customer feedback digest for Cloud Connect. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 98, up 224ms points from last quarter. The improvement
+is driven by the BillingModule launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 11%.
+
+Top feature requests: BillingModule advanced filtering (98 votes), connection pool
+bulk operations (224ms votes), and enhanced Cloud Connect reporting (368ms
+votes). The filtering request aligns with what we heard in the user research study
+Liam Foster conducted.
+
+Top complaints: BillingModule performance during peak hours (98 mentions),
+the connection pool onboarding experience (224ms mentions), and pricing
+transparency (368ms mentions). The performance issue is being addressed
+by Engineering â€” Liam Foster expects the fix in v3.8.1.
+
+Churn insights: 98 customers churned this quarter citing BillingModule
+limitations as the primary reason. The connection pool overhaul on our roadmap directly
+addresses their feedback. 11% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Tuesday, May 22.
+
+Talk soon,
+Amara

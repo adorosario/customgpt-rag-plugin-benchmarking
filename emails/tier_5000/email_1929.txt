@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-08-31 01:21 AM
+Subject: Cash flow forecast â€” Q1
+
+Good morning,
+
+Attached is the cash flow forecast for Q1. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $147,122 based on the current AR aging
+and sales pipeline. The Weyland-Yutani payment of 414ms is expected by Tuesday, April 24
+â€” Alex Chen from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the AuthService infrastructure
+investment at $147,122. The Berlin office build-out costs will hit in Q1
+with an estimated total of 59ms. Payroll continues at 414ms
+monthly for our 100-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $147,122 in the second month. This provides 100 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Weyland-Yutani deal slips from Q1 to next quarter, we'll
+need to draw on the credit facility for $147,122. I've confirmed the line is
+available. Alex Chen and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Talk soon,
+Ananya

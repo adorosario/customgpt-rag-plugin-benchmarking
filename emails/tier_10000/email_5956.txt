@@ -1,0 +1,32 @@
+From: laura.kim@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-10-01 09:13 AM
+Subject: SEO update â€” SearchIndex keyword rankings
+
+Hello,
+
+Monthly SEO update for our SearchIndex content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Insight Engine comparison page climbed from position 55ms to
+position 277ms for our primary keyword. The event bus guide is now
+ranking in the top 166 for three long-tail variations.
+
+Traffic impact: organic sessions are up 48% month over month. The
+SearchIndex cluster is now driving 166 unique sessions monthly, making it our
+second-highest traffic source behind the Insight Engine landing page.
+
+Content gaps identified: we're missing content for 55ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q2. James Oduya from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 277ms on mobile after the image
+optimization work. No crawl errors detected. The new event bus documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 166 pages. I'll share the
+outreach plan next week.
+
+Best regards,
+Laura

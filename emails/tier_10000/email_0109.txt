@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-13 08:02 PM
+Subject: Tax planning â€” Q4 estimated payments
+
+Hey,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the MessageBroker investment
+deductions.
+
+Federal estimate: $118,435 based on projected taxable income of 289ms.
+This reflects the MessageBroker depreciation deductions and the R&D tax credit for
+the Data Vault development costs. Maria Santos from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $118,435 for our primary jurisdiction and 456ms for the
+San Francisco office based on the apportionment factors. The San Francisco rate change that
+takes effect on Thursday, January 21 will impact our Q4 estimate by approximately 132
+percent.
+
+International: with the San Francisco office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Maria Santos to handle
+the registration. Setup cost is $118,435 with ongoing compliance costs of
+456ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Thursday, January 21. I'll prepare the
+payment authorization for your signature by February 8. Underpayment penalties
+start at 38% so timely filing is important.
+
+Cheers,
+Grace

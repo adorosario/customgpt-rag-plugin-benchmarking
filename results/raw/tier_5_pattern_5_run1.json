@@ -1,0 +1,21 @@
+{
+  "tier": 5,
+  "question_id": "pattern_5",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What's happening with the Series B fundraising?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the email from Robert Kimura to Marcus Thompson (July 14, 2025):\n\nThe Series B fundraising is described as **progressing well**, but the email is notably vague \u00e2\u20ac\u201d it repeats the same boilerplate sentence for each aspect (\"The X aspect is progressing well and the team has been focused on delivering results\") without providing specific details like valuation, target raise amount, investor names, or timeline.\n\nThe email appears to be a high-level check-in with no concrete updates. If you need specifics, it would be worth following up with Robert directly for actual numbers or milestones.",
+  "time_seconds": 32.62,
+  "num_turns": 4,
+  "cost_usd": 0.0875067,
+  "input_tokens": 6,
+  "cache_creation_tokens": 12186,
+  "cache_read_tokens": 102654,
+  "output_tokens": 733,
+  "total_tokens": 115579,
+  "duration_api_ms": 20424,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-13 12:03 AM
+Subject: Sprint planning â€” Data Vault sprint v2.6.0
+
+Good afternoon,
+
+Here's the sprint plan for Data Vault sprint v2.6.0. Capacity is 111 story
+points with 340ms engineers available this sprint.
+
+Committed stories: the DataPipeline integration work carries over from last sprint
+with 252ms points remaining. The new connection pool API endpoints are
+estimated at 111 points. The bug fix for the DataPipeline rendering issue
+is 340ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the connection pool performance
+optimization that Oluwaseun Adeyemi has been scouting. It's estimated at 111 points
+and would improve response time by 43%.
+
+Dependencies: the DataPipeline feature requires the API changes that Oluwaseun Adeyemi
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The connection pool work is self-contained.
+
+Risks: Oluwaseun Adeyemi is on-call this sprint which historically reduces their available
+capacity by 43%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, November 19. Let me know if the priorities look right.
+
+Talk soon,
+Mei

@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: maria.santos@acmecorp.com
+Date: 2025-07-20 05:15 PM
+Subject: Budget review â€” Finance department Q2
+
+Good morning,
+
+Here's the Q2 budget review for the Finance department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $345,180 against a budget of 476ms. The 30% variance is
+primarily driven by the accelerated AnalyticsDashboard hiring that was approved mid-quarter.
+Personnel costs came in at 199ms which includes the 113 new hires.
+
+Overages: the caching layer infrastructure line item exceeded budget by 30% due
+to the unplanned scaling requirements for Cloud Connect. I've worked with Carlos Rivera
+from Engineering to project the run rate going forward â€” we should budget an
+additional $345,180 per quarter for this category.
+
+Underspend: the AnalyticsDashboard consulting budget was only 30% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 30%
+of the total annual budget. The main risk is the caching layer cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Thanks,
+Grace

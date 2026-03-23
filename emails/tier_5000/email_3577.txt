@@ -1,0 +1,31 @@
+From: rachel.nguyen@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-11-20 04:53 PM
+Subject: Re: Employee survey results â€” Q4
+
+Hi,
+
+The Q4 employee engagement survey results are in. Response rate was 46%,
+up 33 points from the last survey. Here are the key findings.
+
+Overall satisfaction: 174ms out of 5, which is consistent with the
+previous quarter. The Legal department scored highest at 234ms while the
+SchedulerService team showed the largest improvement at plus 33 points.
+
+Top strengths: colleagues and team culture scored 174ms, manager
+effectiveness scored 234ms, and work-life balance scored 33. Employees
+particularly appreciated the flexible connection pool policy and the recent team events.
+
+Areas for improvement: career development pathways scored lowest at 33 out of 5.
+Employees want more clarity on promotion criteria and more frequent feedback.
+Cross-department communication was another area flagged â€” 46% of respondents
+said they don't have enough visibility into what other teams are working on.
+
+Action plan: Sarah Chen is leading a working group to address the career development
+feedback. We'll publish a response with specific commitments by Wednesday, February 12.
+
+Department-level reports will be shared with managers this week.
+
+Cheers,
+Rachel

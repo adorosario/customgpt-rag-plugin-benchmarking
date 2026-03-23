@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-25 11:58 AM
+Subject: Sprint planning â€” Sync Platform sprint v2.1.0
+
+Hi all,
+
+Here's the sprint plan for Sync Platform sprint v2.1.0. Capacity is 43 story
+points with 349ms engineers available this sprint.
+
+Committed stories: the SchedulerService integration work carries over from last sprint
+with 279ms points remaining. The new load balancer API endpoints are
+estimated at 43 points. The bug fix for the SchedulerService rendering issue
+is 349ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the load balancer performance
+optimization that Patrick O'Brien has been scouting. It's estimated at 43 points
+and would improve response time by 56%.
+
+Dependencies: the SchedulerService feature requires the API changes that Patrick O'Brien
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The load balancer work is self-contained.
+
+Risks: Patrick O'Brien is on-call this sprint which historically reduces their available
+capacity by 56%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, February 15. Let me know if the priorities look right.
+
+Thanks,
+Sanjay

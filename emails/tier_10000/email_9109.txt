@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-06-22 03:24 AM
+Subject: Re: Integration Hub pricing discussion â€” SearchIndex tier
+
+Hi,
+
+Following up on the Integration Hub pricing discussion. I've modeled three options for
+the SearchIndex tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $108,566 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 24% of our existing base.
+Downside: it undercuts our current load balancer pricing and may trigger downgrades.
+
+Option B: 246ms per seat per month with the load balancer add-on bundled.
+Higher price point but stronger value perception. 78 of the 484ms
+customers we surveyed preferred this packaging. Carlos Rivera from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $108,566 per SearchIndex transaction. This aligns
+with the value delivered but introduces billing complexity. Only 24% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$108,566 in incremental ARR over 78 months.
+
+Can we finalize the pricing decision by Wednesday, February 28? Sales needs 484ms weeks to
+update collateral before we announce.
+
+Best,
+Liam

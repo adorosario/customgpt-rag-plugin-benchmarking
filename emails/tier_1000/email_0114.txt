@@ -1,0 +1,30 @@
+From: kwame.asante@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-11-13 11:58 AM
+Subject: Onboarding schedule â€” new hire starting Monday, August 28
+
+Hey,
+
+We have a new team member joining Legal on Monday, August 28. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, APIGateway systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Wei Zhang will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Integration Hub and the config manager tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Monday, August 28. All software licenses including APIGateway and config manager access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 29 people to schedule intro meetings with, and first
+131ms-day goals. Please send these to Wei Zhang in People Ops.
+
+Welcome email goes out 29 days before start date.
+
+Regards,
+Kwame

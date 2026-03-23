@@ -1,0 +1,31 @@
+From: kwame.asante@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-06-25 07:38 PM
+Subject: Onboarding schedule â€” new hire starting Thursday, March 17
+
+Good afternoon,
+
+We have a new team member joining Engineering on Thursday, March 17. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, WebhookDispatcher systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Jun Tanaka will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Cloud Connect and the config manager tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Thursday, March 17. All software licenses including WebhookDispatcher and config manager access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 23 people to schedule intro meetings with, and first
+457ms-day goals. Please send these to Jun Tanaka in People Ops.
+
+Welcome email goes out 23 days before start date.
+
+Talk soon,
+Kwame

@@ -1,0 +1,21 @@
+{
+  "tier": 2500,
+  "question_id": "needle_4",
+  "question_type": "hard",
+  "run": 1,
+  "question": "When do the remote work policy changes take effect?",
+  "model": "claude-sonnet-4-6",
+  "response": "There are no emails about remote work policy changes in this dataset (`tier_2500`). The emails here cover topics like billing module guidelines, data retention policies, expense policies, and other corporate topics \u00e2\u20ac\u201d but nothing specifically about remote work.\n\nIf you're looking for this information from a different source or dataset, let me know where to look.",
+  "time_seconds": 53.0,
+  "num_turns": 8,
+  "cost_usd": 0.16912305,
+  "input_tokens": 10,
+  "cache_creation_tokens": 19825,
+  "cache_read_tokens": 247781,
+  "output_tokens": 1361,
+  "total_tokens": 268977,
+  "duration_api_ms": 39931,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

@@ -1,0 +1,34 @@
+From: amara.diallo@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-10-04 01:06 AM
+Subject: Competitive analysis â€” FileStorageService market update
+
+Good morning,
+
+Sharing the latest competitive landscape analysis for the FileStorageService market.
+Several developments this quarter that we should factor into our strategy.
+
+Massive Dynamic released a major update to their FileStorageService product. Key additions
+include caching layer support and a redesigned dashboard. Their pricing remains at
+$183,042 per seat which undercuts us by 36%. However, their enterprise
+features are still behind ours â€” no SSO, limited API access, and 86ms
+user cap on their standard plan.
+
+Market trends: the FileStorageService category grew 36% year over year. Analyst
+reports are emphasizing caching layer capabilities as the key differentiator for
+enterprise buyers. Our Insight Engine scores well on this dimension.
+
+Win/loss analysis: we won 184 of the last 86ms competitive deals.
+Primary win reasons: FileStorageService depth and customer support quality. Primary loss
+reasons: price sensitivity and caching layer ease of use. Aisha Okafor from Sales
+provided the deal-level data.
+
+Recommendations: accelerate the caching layer simplification effort on our roadmap,
+consider a mid-market pricing tier at $183,042 to compete on price, and publish
+more FileStorageService comparison content for SEO.
+
+Full analysis is in the competitive intelligence folder. Let's discuss at the
+strategy meeting on Tuesday, October 6.
+
+Cheers,
+Amara

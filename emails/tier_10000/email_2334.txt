@@ -1,0 +1,29 @@
+From: derek.morrison@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-10-07 07:17 AM
+Subject: Quarterly territory review â€” Q1
+
+Hello,
+
+Here's my territory review for Q1. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 69 qualified opportunities worth a combined $366,844 in
+ARR. The largest deal is Weyland-Yutani at 302ms, which I expect to close by
+Thursday, November 5. Three other deals in the 190ms range are progressing through
+procurement.
+
+Wins this quarter: closed Weyland-Yutani for Data Vault with a 43% upsell from
+their initial scope. The event bus add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Rachel Nguyen to the Weyland-Yutani executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Talk soon,
+Derek

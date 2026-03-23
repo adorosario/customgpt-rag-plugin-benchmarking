@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-29 05:49 AM
+Subject: A/B test results â€” CacheLayer experiment
+
+Hey everyone,
+
+The CacheLayer A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 141 days with 175ms users in each cohort.
+
+Variant A (control): the existing logging pipeline flow. Conversion rate of
+271ms with an average task completion time of 141 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified CacheLayer step.
+Conversion rate of 175ms with task completion time of 271ms seconds.
+This represents a 60% improvement in conversion and 141 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 141 to 175ms
+in the treatment group. Support ticket volume for CacheLayer related issues
+decreased by 60%. No negative impact on logging pipeline engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Rachel Nguyen from Engineering can have this
+deployed by Friday, January 11.
+
+One caveat: the test population skewed toward Data Vault power users. We should
+monitor new user behavior closely for the first 141 weeks after full rollout.
+
+Thanks,
+Sanjay

@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-21 01:01 PM
+Subject: Financial close checklist â€” Q2
+
+Hey,
+
+The Q2 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Sync Platform invoices must be issued by Wednesday, October 21. Any revenue recognition
+adjustments for the FileStorageService contracts need supporting documentation uploaded
+to connection pool. Michael Brennan from Sales must confirm final deal amounts by October 18.
+
+Expenses: all expense reports for Q2 must be submitted by Wednesday, October 21. The
+FileStorageService vendor invoices totaling $196,207 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, FileStorageService subscription costs,
+and the connection pool usage charges by Wednesday, October 21. Any non-standard accruals above
+76ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, FileStorageService account reconciliation, and
+inter-company balances must be completed by Wednesday, October 21. Michael Brennan is handling the
+bank rec. I'll take the inter-company items since they involve the Toronto entity.
+
+Target: books closed within 30 business days of quarter end. Final reporting
+package to leadership by Wednesday, October 21.
+
+Regards,
+Ananya

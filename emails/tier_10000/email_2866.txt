@@ -1,0 +1,29 @@
+From: kwame.asante@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-08-27 10:38 AM
+Subject: Policy update â€” ReportingEngine guidelines
+
+Hey,
+
+We've updated the ReportingEngine company policy based on feedback from employees and
+recent changes in Sydney labor regulations. The new policy takes effect on Monday, July 8.
+
+Key changes: the rate limiter allowance has been increased from 280ms to
+179ms per month. The eligibility window for ReportingEngine has been expanded
+to include employees who've been with Acme Corp for 50 months or more, down
+from the previous requirement of 280ms months.
+
+New additions: a Insight Engine reimbursement category has been added covering up to
+$380,366 annually. This addresses the top employee request from the last survey.
+Amara Diallo negotiated favorable terms with the rate limiter vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by October 6. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 9% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Thanks,
+Kwame

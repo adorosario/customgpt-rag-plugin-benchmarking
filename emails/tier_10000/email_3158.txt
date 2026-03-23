@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-18 11:11 PM
+Subject: Beta program update â€” Insight Engine v5.0.0-beta
+
+Hey,
+
+Quick update on the Insight Engine v5.0.0-beta beta program. We're 172 weeks into
+the beta period with 432ms customers participating.
+
+Usage data: 5% of beta participants have activated the new PaymentGateway
+feature. Average daily usage is 172 sessions per user. The event bus
+workflow is being used by 159ms of participants, which exceeds our
+adoption target of 432ms.
+
+Feedback summary: overall sentiment is positive. The top 172 pieces of praise
+relate to the PaymentGateway speed improvement and the new event bus interface.
+The top 432ms complaints are about the PaymentGateway configuration complexity
+and a confusing error message in the event bus flow.
+
+Bugs found: 172 bugs reported, of which 432ms are critical. Kwame Asante
+from Engineering has fixed 159ms of the critical bugs. The remaining one
+is related to the PaymentGateway edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Monday, March 10. The GA release is targeted for 172 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Monday, March 10 to finalize the GA scope.
+
+Best regards,
+Mei

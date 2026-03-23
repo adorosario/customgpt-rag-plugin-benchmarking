@@ -1,0 +1,27 @@
+From: priya.sharma@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-07-29 10:54 PM
+Subject: Incident postmortem â€” DataPipeline outage on Friday, June 9
+
+Good morning,
+
+Attached is the postmortem for the DataPipeline outage that occurred on Friday, June 9. The
+incident lasted approximately 45 minutes and affected 85 for a subset of users.
+
+Root cause: a configuration change in the config manager deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+88ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, Carlos Rivera acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the DataPipeline runbook, add a circuit breaker for the
+config manager connection pool, and implement load shedding when concurrency exceeds
+88ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Best,
+Priya

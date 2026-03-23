@@ -1,0 +1,28 @@
+From: jun.tanaka@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-08-23 02:56 PM
+Subject: Sales engineering request â€” Tyrell Corp POC
+
+Hi all,
+
+Requesting SE support for a proof-of-concept with Tyrell Corp. This is a $165,285
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Insight Engine can handle 195
+transactions per second with their AnalyticsDashboard data format. The test needs to
+run against their staging environment and demonstrate the config manager capability
+under realistic load.
+
+Timeline: Tyrell Corp wants the POC completed within 459ms business days
+starting Thursday, April 22. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Sarah Chen for the technical configuration and someone from
+the AnalyticsDashboard team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q1. Let me know if we can make this timeline work.
+
+Best regards,
+Jun

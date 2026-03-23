@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-06-11 11:31 PM
+Subject: Conference recap â€” Cloud Connect booth results
+
+Hi team,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Cloud Connect booth drew consistent traffic throughout.
+
+Lead collection: 85 badge scans at the booth, of which 338ms are
+qualified leads based on our initial review. The AuthService live demo was the
+biggest draw, and Grace Mwangi from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+rate limiter roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Cloud Connect had 178ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 85 times since we posted it.
+
+Budget: we came in at $39,714, which is 23% under budget. The savings came
+from sharing the booth infrastructure with the AuthService partner showcase.
+
+I'll prepare a full ROI analysis by Tuesday, May 8 once we've completed lead follow-up.
+
+Best,
+Sofia

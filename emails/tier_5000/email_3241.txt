@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-21 01:48 AM
+Subject: Social media strategy â€” Q1
+
+Good morning,
+
+Presenting the social media strategy refresh for Q1. Based on our Data Vault
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our SchedulerService posts are averaging 38 impressions and 45% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 45% educational content about queue processor topics, 38
+percent product highlights, and the rest for company culture and employee spotlights.
+Laura Kim will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Data Vault use cases and answer audience questions. First session on Monday, July 3 featuring
+Laura Kim.
+
+Budget: $186,918 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 306ms new followers and 225ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Best,
+Sofia

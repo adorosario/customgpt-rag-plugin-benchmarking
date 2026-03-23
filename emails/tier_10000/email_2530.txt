@@ -1,0 +1,30 @@
+From: dmitri.volkov@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-11 01:09 PM
+Subject: Re: Analytics Pro demo feedback from Oscorp
+
+Hey everyone,
+
+Great news from the Oscorp demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the config manager dashboard got the biggest reaction. Their
+current tool requires 157 manual steps to accomplish what our Analytics Pro does
+automatically. The SearchIndex integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 405ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v2.4.1 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Robert Kimura, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Analytics Pro trial environment set up for their team of
+157 evaluators. I'll submit the trial request today. Target close date
+remains Tuesday, September 7.
+
+Regards,
+Dmitri

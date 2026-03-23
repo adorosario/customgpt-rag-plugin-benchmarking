@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-09-26 03:07 AM
+Subject: Beta program update â€” Cloud Connect v2.6.0
+
+Hi team,
+
+Quick update on the Cloud Connect v2.6.0 beta program. We're 171 weeks into
+the beta period with 67ms customers participating.
+
+Usage data: 18% of beta participants have activated the new FileStorageService
+feature. Average daily usage is 171 sessions per user. The service mesh
+workflow is being used by 73ms of participants, which exceeds our
+adoption target of 67ms.
+
+Feedback summary: overall sentiment is positive. The top 171 pieces of praise
+relate to the FileStorageService speed improvement and the new service mesh interface.
+The top 67ms complaints are about the FileStorageService configuration complexity
+and a confusing error message in the service mesh flow.
+
+Bugs found: 171 bugs reported, of which 67ms are critical. Kwame Asante
+from Engineering has fixed 73ms of the critical bugs. The remaining one
+is related to the FileStorageService edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Friday, May 18. The GA release is targeted for 171 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Friday, May 18 to finalize the GA scope.
+
+Regards,
+Daniel

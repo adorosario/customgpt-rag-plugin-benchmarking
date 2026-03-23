@@ -1,0 +1,28 @@
+From: priya.sharma@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-09-04 07:03 AM
+Subject: Incident postmortem â€” AuthService outage on Thursday, May 27
+
+Good afternoon,
+
+Attached is the postmortem for the AuthService outage that occurred on Thursday, May 27. The
+incident lasted approximately 45 minutes and affected 86 for a subset of users.
+
+Root cause: a configuration change in the authentication module deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+57ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, David Okonkwo acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the AuthService runbook, add a circuit breaker for the
+authentication module connection pool, and implement load shedding when concurrency exceeds
+57ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Cheers,
+Priya

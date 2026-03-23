@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-06-25 01:10 AM
+Subject: Social media strategy â€” Q4
+
+Hey,
+
+Presenting the social media strategy refresh for Q4. Based on our Analytics Pro
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our APIGateway posts are averaging 138 impressions and 40% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 40% educational content about connection pool topics, 138
+percent product highlights, and the rest for company culture and employee spotlights.
+Wei Zhang will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Analytics Pro use cases and answer audience questions. First session on Thursday, August 3 featuring
+Wei Zhang.
+
+Budget: $419,049 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 362ms new followers and 372ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Regards,
+Sofia

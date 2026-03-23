@@ -1,0 +1,31 @@
+From: michael.brennan@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-10-26 07:50 PM
+Subject: Budget review â€” Legal department Q3
+
+Hi,
+
+Here's the Q3 budget review for the Legal department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $261,472 against a budget of 203ms. The 37% variance is
+primarily driven by the accelerated BillingModule hiring that was approved mid-quarter.
+Personnel costs came in at 223ms which includes the 32 new hires.
+
+Overages: the caching layer infrastructure line item exceeded budget by 37% due
+to the unplanned scaling requirements for Data Vault. I've worked with Yuki Sato
+from Engineering to project the run rate going forward â€” we should budget an
+additional $261,472 per quarter for this category.
+
+Underspend: the BillingModule consulting budget was only 37% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 37%
+of the total annual budget. The main risk is the caching layer cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Talk soon,
+Michael

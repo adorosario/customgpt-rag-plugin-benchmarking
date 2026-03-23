@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-08-27 09:01 AM
+Subject: Sprint planning â€” Enterprise Suite sprint v3.2.2
+
+Hello,
+
+Here's the sprint plan for Enterprise Suite sprint v3.2.2. Capacity is 113 story
+points with 277ms engineers available this sprint.
+
+Committed stories: the PaymentGateway integration work carries over from last sprint
+with 474ms points remaining. The new rate limiter API endpoints are
+estimated at 113 points. The bug fix for the PaymentGateway rendering issue
+is 277ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the rate limiter performance
+optimization that James Oduya has been scouting. It's estimated at 113 points
+and would improve response time by 39%.
+
+Dependencies: the PaymentGateway feature requires the API changes that James Oduya
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The rate limiter work is self-contained.
+
+Risks: James Oduya is on-call this sprint which historically reduces their available
+capacity by 39%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, August 21. Let me know if the priorities look right.
+
+Thanks,
+Daniel

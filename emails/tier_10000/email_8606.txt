@@ -1,0 +1,30 @@
+From: kwame.asante@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-06-21 11:41 AM
+Subject: Onboarding schedule â€” new hire starting Friday, February 21
+
+Hey everyone,
+
+We have a new team member joining Product on Friday, February 21. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, APIGateway systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Grace Mwangi will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Enterprise Suite and the event bus tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Friday, February 21. All software licenses including APIGateway and event bus access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 31 people to schedule intro meetings with, and first
+277ms-day goals. Please send these to Grace Mwangi in People Ops.
+
+Welcome email goes out 31 days before start date.
+
+Thanks,
+Kwame

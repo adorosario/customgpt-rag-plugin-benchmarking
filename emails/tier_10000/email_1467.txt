@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-09-07 04:44 AM
+Subject: Social media strategy â€” Q3
+
+Good morning,
+
+Presenting the social media strategy refresh for Q3. Based on our Insight Engine
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our PaymentGateway posts are averaging 141 impressions and 58% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 58% educational content about authentication module topics, 141
+percent product highlights, and the rest for company culture and employee spotlights.
+Sarah Chen will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Insight Engine use cases and answer audience questions. First session on Friday, July 15 featuring
+Sarah Chen.
+
+Budget: $452,576 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 192ms new followers and 341ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Regards,
+Yuki

@@ -1,0 +1,26 @@
+From: jun.tanaka@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-08-27 11:50 AM
+Subject: Pipeline update â€” Stark Industries deal status
+
+Hi all,
+
+Quick update on the Stark Industries opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $89,437 for the Cloud Connect deployment. The
+decision timeline is end of Q3. Their main concern remains the integration
+with their existing MessageBroker infrastructure, which is why I've looped in James Oduya
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Stark Industries is also evaluating one other vendor but our
+Cloud Connect demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our load balancer capability.
+
+Next steps: technical architecture session on Thursday, November 20, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 54%.
+
+Regards,
+Jun

@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-09-20 11:28 PM
+Subject: Policy update â€” FileStorageService guidelines
+
+Hi all,
+
+We've updated the FileStorageService company policy based on feedback from employees and
+recent changes in New York labor regulations. The new policy takes effect on Thursday, October 8.
+
+Key changes: the config manager allowance has been increased from 62ms to
+70ms per month. The eligibility window for FileStorageService has been expanded
+to include employees who've been with Acme Corp for 193 months or more, down
+from the previous requirement of 62ms months.
+
+New additions: a Data Vault reimbursement category has been added covering up to
+$493,539 annually. This addresses the top employee request from the last survey.
+Michael Brennan negotiated favorable terms with the config manager vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by April 3. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 48% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Cheers,
+Rachel

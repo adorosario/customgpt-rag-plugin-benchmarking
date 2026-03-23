@@ -1,0 +1,35 @@
+From: daniel.park@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-10 10:28 PM
+Subject: Re: Enterprise Suite metrics review â€” Q2
+
+Hello,
+
+Here are the Enterprise Suite metrics for Q2. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 87 monthly active users, up 19% quarter over quarter. The
+SearchIndex feature launch drove a spike in activation â€” 134ms new users
+tried it in the first week. Retention for SearchIndex users is 78ms
+at 30 days versus 87 percent for non-users.
+
+Engagement: average session duration is 87 minutes. The queue processor workflow
+sees the highest engagement with users spending 78ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 134ms features
+per session on average, up from 87 last quarter.
+
+Revenue metrics: Enterprise Suite ARR is at $94,291 with 19% growth quarter over
+quarter. Net revenue retention is 78ms driven by SearchIndex upsells.
+87 customers expanded their contracts this quarter, with Liam Foster from Sales
+leading the expansion conversations.
+
+Areas of concern: the queue processor onboarding funnel has a 19% drop-off at
+step 87. I've scheduled a design sprint for next week to address this.
+Support ticket volume for SearchIndex increased 87 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Regards,
+Daniel

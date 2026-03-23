@@ -1,0 +1,30 @@
+From: kwame.asante@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-10-23 01:59 PM
+Subject: Hiring update â€” Product open positions
+
+Good afternoon,
+
+Here's the weekly hiring update for the Product department. We're making progress
+on several key roles.
+
+Active searches: the PaymentGateway role has 56 candidates in the pipeline with
+201ms scheduled for final round interviews this week. The connection pool
+position has been open for 144ms days and we're seeing fewer qualified
+applicants than expected â€” I'd like to discuss expanding our sourcing channels.
+
+Offers: we extended an offer to a strong candidate for the Daniel Park backfill
+role. Their expected start date is Wednesday, August 9 pending background check completion.
+Compensation is at $241,736 which is within the approved band.
+
+Upcoming: the Cloud Connect team has submitted a headcount request for 56 new
+positions in Q1. I'm drafting the job descriptions and will share them for
+review by Wednesday, August 9.
+
+Interview load: we conducted 144ms interviews last week across all open
+roles. Please remind your team leads that timely interviewer feedback is critical â€”
+we're losing candidates due to slow response times on 45% of our processes.
+
+Best regards,
+Kwame

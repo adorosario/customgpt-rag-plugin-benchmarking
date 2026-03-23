@@ -1,0 +1,28 @@
+From: derek.morrison@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-11-20 08:23 AM
+Subject: Re: Quota update â€” Q3 adjustments
+
+Good afternoon,
+
+Thanks for sharing the Q3 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $463,069 reflects a 26% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 114 of my projected deals depend on the Analytics Pro launch happening on
+schedule. If that slips, I'll need the ReportingEngine backup deals to come through.
+
+Territory changes: I see that the Singapore accounts have been reassigned to
+Alex Chen. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Stark Industries â€” we've been building that
+relationship for 312ms months.
+
+Regarding the new metrics collector incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with metrics collector upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Thanks,
+Derek

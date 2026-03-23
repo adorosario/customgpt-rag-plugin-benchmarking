@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-06-25 08:41 AM
+Subject: Quarterly territory review â€” Q1
+
+Hey,
+
+Here's my territory review for Q1. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 24 qualified opportunities worth a combined $106,889 in
+ARR. The largest deal is Massive Dynamic at 143ms, which I expect to close by
+Monday, June 15. Three other deals in the 141ms range are progressing through
+procurement.
+
+Wins this quarter: closed Massive Dynamic for Cloud Connect with a 39% upsell from
+their initial scope. The queue processor add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Maria Santos to the Massive Dynamic executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Cheers,
+Dmitri

@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-14 11:54 AM
+Subject: Cash flow forecast â€” Q2
+
+Hey everyone,
+
+Attached is the cash flow forecast for Q2. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $277,671 based on the current AR aging
+and sales pipeline. The Stark Industries payment of 247ms is expected by Thursday, January 12
+â€” Ravi Patel from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the FileStorageService infrastructure
+investment at $277,671. The San Francisco office build-out costs will hit in Q2
+with an estimated total of 274ms. Payroll continues at 247ms
+monthly for our 164-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $277,671 in the second month. This provides 164 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Stark Industries deal slips from Q2 to next quarter, we'll
+need to draw on the credit facility for $277,671. I've confirmed the line is
+available. Ravi Patel and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Cheers,
+Grace

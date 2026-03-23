@@ -1,0 +1,29 @@
+From: ananya.desai@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-10-23 03:43 AM
+Subject: Re: Expense report flagged â€” FileStorageService charges
+
+Hi all,
+
+I noticed some items on the FileStorageService expense report submitted by James Oduya
+that need clarification before I can approve them.
+
+The load balancer subscription charge of $248,117 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+479ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Umbrella Inc dinner on Wednesday, April 11 for $248,117 exceeds our per-person meal
+reimbursement limit of 479ms. If this was a client entertainment expense,
+it should be coded to the client development budget under FileStorageService rather than
+general T&E. 101 attendees at that amount puts us at 345ms per
+person which is within the client entertainment policy.
+
+The remaining 101 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 479ms business days after approval.
+
+Please resubmit with the corrections by Wednesday, April 11 so we can keep things on track.
+
+Cheers,
+Ananya

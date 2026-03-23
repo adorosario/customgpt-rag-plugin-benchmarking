@@ -1,0 +1,33 @@
+From: maria.santos@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-11-02 05:55 AM
+Subject: Data privacy assessment â€” Enterprise Suite
+
+Good morning,
+
+The data privacy impact assessment for Enterprise Suite is complete. I'm flagging the key
+findings and required actions for the team.
+
+Data inventory: Enterprise Suite processes 60 categories of personal data including
+names, email addresses, and usage analytics. The data flows through our SchedulerService
+infrastructure and is stored in the logging pipeline environment in Sydney.
+
+Risk findings: overall risk level is moderate. The primary concern is the
+cross-border data transfer to the Sydney processing center. We need to implement
+standard contractual clauses with our SchedulerService sub-processor. Wei Zhang from
+Engineering confirmed the technical safeguards are already in place.
+
+Consent mechanism: the current Enterprise Suite consent flow meets requirements for
+8% of our user base. For users in regulated jurisdictions, we need to add
+explicit opt-in for the logging pipeline analytics features. This is a 60-sprint
+effort according to the Product team.
+
+Records of processing: I've updated our data register to include all Enterprise Suite
+processing activities. The register needs to be reviewed every 141ms months
+per our policy.
+
+Next step: executive sign-off on the DPIA by Wednesday, March 27. Please review the full
+report in the shared drive.
+
+Cheers,
+Maria

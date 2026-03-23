@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-15 11:24 AM
+Subject: Sprint planning â€” Integration Hub sprint v2.7.3
+
+Hi,
+
+Here's the sprint plan for Integration Hub sprint v2.7.3. Capacity is 40 story
+points with 50ms engineers available this sprint.
+
+Committed stories: the FileStorageService integration work carries over from last sprint
+with 422ms points remaining. The new metrics collector API endpoints are
+estimated at 40 points. The bug fix for the FileStorageService rendering issue
+is 50ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the metrics collector performance
+optimization that Wei Zhang has been scouting. It's estimated at 40 points
+and would improve response time by 11%.
+
+Dependencies: the FileStorageService feature requires the API changes that Wei Zhang
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The metrics collector work is self-contained.
+
+Risks: Wei Zhang is on-call this sprint which historically reduces their available
+capacity by 11%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, October 17. Let me know if the priorities look right.
+
+Regards,
+Mei

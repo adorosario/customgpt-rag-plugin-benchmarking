@@ -1,0 +1,31 @@
+From: rachel.nguyen@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-08-14 04:53 PM
+Subject: Re: Employee survey results â€” Q4
+
+Hi,
+
+The Q4 employee engagement survey results are in. Response rate was 32%,
+up 191 points from the last survey. Here are the key findings.
+
+Overall satisfaction: 217ms out of 5, which is consistent with the
+previous quarter. The Engineering department scored highest at 271ms while the
+APIGateway team showed the largest improvement at plus 191 points.
+
+Top strengths: colleagues and team culture scored 217ms, manager
+effectiveness scored 271ms, and work-life balance scored 191. Employees
+particularly appreciated the flexible rate limiter policy and the recent team events.
+
+Areas for improvement: career development pathways scored lowest at 191 out of 5.
+Employees want more clarity on promotion criteria and more frequent feedback.
+Cross-department communication was another area flagged â€” 32% of respondents
+said they don't have enough visibility into what other teams are working on.
+
+Action plan: Liam Foster is leading a working group to address the career development
+feedback. We'll publish a response with specific commitments by Monday, January 7.
+
+Department-level reports will be shared with managers this week.
+
+Talk soon,
+Rachel

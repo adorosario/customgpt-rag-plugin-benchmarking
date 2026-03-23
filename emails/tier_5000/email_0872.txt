@@ -1,0 +1,35 @@
+From: amara.diallo@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-04 08:33 AM
+Subject: Re: Data Vault metrics review â€” Q1
+
+Good afternoon,
+
+Here are the Data Vault metrics for Q1. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 63 monthly active users, up 24% quarter over quarter. The
+MessageBroker feature launch drove a spike in activation â€” 445ms new users
+tried it in the first week. Retention for MessageBroker users is 241ms
+at 30 days versus 63 percent for non-users.
+
+Engagement: average session duration is 63 minutes. The logging pipeline workflow
+sees the highest engagement with users spending 241ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 445ms features
+per session on average, up from 63 last quarter.
+
+Revenue metrics: Data Vault ARR is at $179,011 with 24% growth quarter over
+quarter. Net revenue retention is 241ms driven by MessageBroker upsells.
+63 customers expanded their contracts this quarter, with Derek Morrison from Sales
+leading the expansion conversations.
+
+Areas of concern: the logging pipeline onboarding funnel has a 24% drop-off at
+step 63. I've scheduled a design sprint for next week to address this.
+Support ticket volume for MessageBroker increased 63 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Best regards,
+Amara

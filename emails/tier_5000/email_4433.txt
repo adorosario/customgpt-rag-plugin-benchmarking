@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-11-11 04:21 AM
+Subject: New lead â€” Pied Piper inbound request
+
+Good morning,
+
+We received an inbound request from Pied Piper through the website today. They're
+a 40-employee company in the AnalyticsDashboard space and are looking for a
+Data Vault solution.
+
+Initial qualification: they have budget allocated for Q2, their current
+contract with their existing vendor expires on Wednesday, November 24, and the decision maker is
+their VP of Operations. They found us through the serialization engine whitepaper we
+published last month.
+
+The estimated deal size is $203,687 based on their seat count and the use case
+they described. They specifically mentioned needing the AnalyticsDashboard integration
+and 390ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Michael Brennan â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on serialization engine scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Thanks,
+Hannah

@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-07-30 02:30 AM
+Subject: Event planning â€” Data Vault webinar on Tuesday, February 26
+
+Hey,
+
+Finalizing details for the Data Vault webinar on Tuesday, February 26. Here's where we stand on
+the logistics and promotion.
+
+Content: Sarah Chen from Product will present the CacheLayer roadmap segment.
+I'll handle the intro and customer story. We're targeting a 95-minute
+presentation followed by 147ms minutes of live Q&A. The caching layer demo
+segment should be the highlight.
+
+Registration: we've had 80ms sign-ups so far. Goal is 147ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Data Vault keywords.
+
+Tech setup: using the standard webinar platform. Sarah Chen will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Tuesday, February 26 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 95 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Regards,
+Yuki

@@ -1,0 +1,21 @@
+{
+  "tier": 5000,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the emails in this dataset, here's what can be determined about **Project Nexus**:\n\n**What it is:**\nA cross-platform synchronization project at AcmeCorp, focused on:\n- Cross-platform compatibility\n- Data synchronization\n- Conflict resolution\n- API design\n- Architecture and performance benchmarking\n\n**Teams/people involved** (from email headers):\n\n| Person | Email | Role/Context |\n|---|---|---|\n| Ravi Patel | ravi.patel@acmecorp.com | Contributor, CC'd engineering@ |\n| Priya Sharma | priya.sharma@acmecorp.com | Recipient of milestone updates |\n| Liam Foster | liam.foster@acmecorp.com | Sprint planning, CC'd product@ |\n| Tomoko Nakamura | tomoko.nakamura@acmecorp.com | Cross-platform sync spec |\n| Sofia Martinez | sofia.martinez@acmecorp.com | API/sync work |\n| Mei | (acmecorp.com) | API design feedback |\n| Wei | (acmecorp.com) | Performance benchmarks |\n| Marcus | \u00e2\u20ac\u201d | Code review (conflict resolution module) |\n| Oluwaseun | \u00e2\u20ac\u201d | Launch timeline |\n| Derek | \u00e2\u20ac\u201d | Architecture review, benchmarks |\n| Kwame | \u00e2\u20ac\u201d | Code review recipient |\n\n**Mailing lists CC'd:** `engineering@acmecorp.com`, `product@acmecorp.com`\n\nThe emails are fairly boilerplate/templated, so specific team names aren't explicitly stated \u00e2\u20ac\u201d but engineering and product teams are clearly both involved based on the CC lists.",
+  "time_seconds": 50.69,
+  "num_turns": 8,
+  "cost_usd": 0.1483725,
+  "input_tokens": 8,
+  "cache_creation_tokens": 21080,
+  "cache_read_tokens": 169945,
+  "output_tokens": 1221,
+  "total_tokens": 192254,
+  "duration_api_ms": 33819,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

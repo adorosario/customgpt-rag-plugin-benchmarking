@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: elena.vasquez@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-17 05:35 AM
+Subject: Financial close checklist â€” Q3
+
+Hello,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Integration Hub invoices must be issued by Friday, May 10. Any revenue recognition
+adjustments for the CacheLayer contracts need supporting documentation uploaded
+to rate limiter. Laura Kim from Sales must confirm final deal amounts by August 27.
+
+Expenses: all expense reports for Q3 must be submitted by Friday, May 10. The
+CacheLayer vendor invoices totaling $173,392 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, CacheLayer subscription costs,
+and the rate limiter usage charges by Friday, May 10. Any non-standard accruals above
+365ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, CacheLayer account reconciliation, and
+inter-company balances must be completed by Friday, May 10. Laura Kim is handling the
+bank rec. I'll take the inter-company items since they involve the Sydney entity.
+
+Target: books closed within 15 business days of quarter end. Final reporting
+package to leadership by Friday, May 10.
+
+Best,
+Ananya

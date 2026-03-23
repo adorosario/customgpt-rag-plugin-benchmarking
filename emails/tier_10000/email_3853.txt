@@ -1,0 +1,27 @@
+From: marcus.thompson@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-11-06 08:27 PM
+Subject: Incident postmortem â€” WebhookDispatcher outage on Thursday, January 28
+
+Hi all,
+
+Attached is the postmortem for the WebhookDispatcher outage that occurred on Thursday, January 28. The
+incident lasted approximately 45 minutes and affected 105 for a subset of users.
+
+Root cause: a configuration change in the rate limiter deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+210ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, Ananya Desai acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the WebhookDispatcher runbook, add a circuit breaker for the
+rate limiter connection pool, and implement load shedding when concurrency exceeds
+210ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Thanks,
+Marcus

@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-27 11:57 PM
+Subject: Beta program update â€” Data Vault v2.1.0
+
+Hi,
+
+Quick update on the Data Vault v2.1.0 beta program. We're 76 weeks into
+the beta period with 487ms customers participating.
+
+Usage data: 21% of beta participants have activated the new NotificationEngine
+feature. Average daily usage is 76 sessions per user. The serialization engine
+workflow is being used by 77ms of participants, which exceeds our
+adoption target of 487ms.
+
+Feedback summary: overall sentiment is positive. The top 76 pieces of praise
+relate to the NotificationEngine speed improvement and the new serialization engine interface.
+The top 487ms complaints are about the NotificationEngine configuration complexity
+and a confusing error message in the serialization engine flow.
+
+Bugs found: 76 bugs reported, of which 487ms are critical. Daniel Park
+from Engineering has fixed 77ms of the critical bugs. The remaining one
+is related to the NotificationEngine edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Tuesday, July 26. The GA release is targeted for 76 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Tuesday, July 26 to finalize the GA scope.
+
+Best regards,
+Sanjay

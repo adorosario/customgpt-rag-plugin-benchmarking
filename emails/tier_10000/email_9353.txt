@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-09-20 12:40 AM
+Subject: Audit preparation â€” Q4 review
+
+Hello,
+
+The Q4 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Weyland-Yutani are scheduled to begin fieldwork
+on Tuesday, April 24.
+
+Documentation needed from each department: all purchase orders above 490ms,
+contract modifications executed during Q4, headcount changes with supporting
+approvals, and AnalyticsDashboard system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the authentication module audit portal by Tuesday, April 24.
+That gives us 57 business days before the auditors arrive. Maria Santos has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Integration Hub contracts, the AnalyticsDashboard capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $456,365 in capitalized AnalyticsDashboard costs and the methodology used.
+
+This is our 57 year with Weyland-Yutani as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Maria Santos if you have
+questions about what's needed.
+
+Best regards,
+Robert

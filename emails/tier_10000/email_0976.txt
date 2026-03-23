@@ -1,0 +1,32 @@
+From: maria.santos@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-09-23 02:04 AM
+Subject: Re: Litigation hold â€” Oscorp matter
+
+Hey,
+
+Following up on the Oscorp dispute. We need to implement a litigation hold
+immediately. Here's what that means for the affected teams.
+
+Scope: all documents, emails, and electronic records related to the Oscorp
+engagement from Wednesday, April 24 forward must be preserved. This includes WebhookDispatcher
+logs, Cloud Connect deployment records, and all correspondence between our teams
+and Oscorp's personnel.
+
+Affected departments: Engineering, Sales, and Product. Elena Vasquez will distribute
+hold notices to the specific custodians in each department. We've identified
+38 individuals whose records are potentially relevant.
+
+Obligations: do not delete, modify, or archive any records covered by the hold.
+Suspend any auto-deletion policies for the relevant queue processor systems.
+Elena Vasquez from IT is coordinating the technical preservation measures.
+
+Duration: the hold remains in effect until further notice from Legal. I expect the
+matter to be resolved within 451ms months based on preliminary discussions
+with opposing counsel. The estimated legal cost exposure is $290,727.
+
+If anyone has questions about what's covered, direct them to me. Do not discuss
+the hold or the underlying matter externally.
+
+Regards,
+Maria

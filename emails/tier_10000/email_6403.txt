@@ -1,0 +1,31 @@
+From: hannah.goldstein@acmecorp.com
+To: elena.vasquez@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-27 05:48 AM
+Subject: Competitive intel â€” Wayne Enterprises evaluation
+
+Hi,
+
+Got some useful competitive intelligence from the Wayne Enterprises account that I want to
+share with the team.
+
+Wayne Enterprises shared their evaluation criteria and mentioned they're also looking at
+SchedulerService as an alternative to our Sync Platform. From what I gathered, SchedulerService
+is pitching a lower price point but doesn't have feature parity on the service mesh
+side.
+
+Key differentiators working in our favor: our Sync Platform handles 126 concurrent
+connections versus their published limit of 160ms. Our uptime SLA is also
+stronger at 413ms versus their 16% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for SchedulerService and
+consider a streamlined trial process for mid-market accounts. Derek Morrison from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Monday, August 7.
+
+Regards,
+Hannah

@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-26 09:10 PM
+Subject: Sprint planning â€” Insight Engine sprint v3.2.2
+
+Hi,
+
+Here's the sprint plan for Insight Engine sprint v3.2.2. Capacity is 127 story
+points with 170ms engineers available this sprint.
+
+Committed stories: the DataPipeline integration work carries over from last sprint
+with 480ms points remaining. The new connection pool API endpoints are
+estimated at 127 points. The bug fix for the DataPipeline rendering issue
+is 170ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the connection pool performance
+optimization that Yuki Sato has been scouting. It's estimated at 127 points
+and would improve response time by 24%.
+
+Dependencies: the DataPipeline feature requires the API changes that Yuki Sato
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The connection pool work is self-contained.
+
+Risks: Yuki Sato is on-call this sprint which historically reduces their available
+capacity by 24%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Tuesday, July 15. Let me know if the priorities look right.
+
+Thanks,
+Daniel

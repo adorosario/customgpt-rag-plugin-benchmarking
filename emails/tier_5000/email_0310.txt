@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-06-12 08:33 AM
+Subject: Financial close checklist â€” Q1
+
+Hi all,
+
+The Q1 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Integration Hub invoices must be issued by Monday, June 20. Any revenue recognition
+adjustments for the SearchIndex contracts need supporting documentation uploaded
+to event bus. Grace Mwangi from Sales must confirm final deal amounts by December 12.
+
+Expenses: all expense reports for Q1 must be submitted by Monday, June 20. The
+SearchIndex vendor invoices totaling $439,370 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, SearchIndex subscription costs,
+and the event bus usage charges by Monday, June 20. Any non-standard accruals above
+413ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, SearchIndex account reconciliation, and
+inter-company balances must be completed by Monday, June 20. Grace Mwangi is handling the
+bank rec. I'll take the inter-company items since they involve the New York entity.
+
+Target: books closed within 130 business days of quarter end. Final reporting
+package to leadership by Monday, June 20.
+
+Thanks,
+Grace

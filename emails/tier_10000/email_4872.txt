@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-07-27 02:49 AM
+Subject: Onboarding schedule â€” new hire starting Wednesday, July 28
+
+Hey,
+
+We have a new team member joining Sales on Wednesday, July 28. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, SearchIndex systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Oluwaseun Adeyemi will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Analytics Pro and the event bus tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Wednesday, July 28. All software licenses including SearchIndex and event bus access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 26 people to schedule intro meetings with, and first
+54ms-day goals. Please send these to Oluwaseun Adeyemi in People Ops.
+
+Welcome email goes out 26 days before start date.
+
+Best,
+Fatima

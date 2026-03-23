@@ -1,0 +1,27 @@
+From: wei.zhang@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-08-14 12:22 AM
+Subject: Sprint v3.8.1 retrospective notes
+
+Good morning,
+
+Here are the retrospective notes from sprint v3.8.1. Thanks to everyone who
+participated â€” we had good engagement this time.
+
+What went well: the SearchIndex feature shipped on time, Robert Kimura did an excellent
+job coordinating the cross-team dependency, and our CI pipeline reliability improved
+to 328ms from 216ms last sprint.
+
+What could improve: we underestimated the metrics collector integration work by about
+55%, which pushed two stories into the next sprint. We also had too many
+context switches mid-sprint from unplanned support requests.
+
+Action items: establish a support rotation so on-call duties don't fall on the same
+people, and break down large stories into smaller increments to improve estimation
+accuracy. Robert Kimura volunteered to draft the rotation schedule.
+
+Sprint v3.8.1 velocity was 173 points. Carrying over 8 points of unfinished
+work to the next sprint.
+
+Best,
+Wei

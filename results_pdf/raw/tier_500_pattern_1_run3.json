@@ -1,0 +1,21 @@
+{
+  "tier": 500,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the emails in this dataset, here's what's known about **Project Nexus** at **Acme Corp**:\n\n---\n\n**What it is:** A cross-platform synchronization project with a novel conflict resolution algorithm. A patent filing is in progress.\n\n**Teams/People involved:**\n\n| Person | Role/Context |\n|---|---|\n| **Liam Foster** (`liam.foster@acmecorp.com`) | Sends status updates; likely project lead |\n| **David Okonkwo** (`david.okonkwo@acmecorp.com`) | Recipient of architecture review and patent updates |\n| **Ravi Patel** (`ravi.patel@acmecorp.com`) | Sprint planning recipient |\n| **Sarah Chen** (`sarah.chen@acmecorp.com`) | Handling patent filing timeline |\n| **Elena** (Engineering) | Responsible for technical descriptions in patent sections 4\u00e2\u20ac\u201c7 |\n| **product@acmecorp.com** | Product team CC'd on sprint planning |\n| **legal@acmecorp.com** | Legal team CC'd on patent filing |\n\n**Key areas of work:** architecture, cross-platform synchronization, conflict resolution algorithm, sprint planning, and patent filing (deadline moved to April 15 due to prior art from Initech).",
+  "time_seconds": 91.39,
+  "num_turns": 8,
+  "cost_usd": 0.2228727,
+  "input_tokens": 10,
+  "cache_creation_tokens": 32532,
+  "cache_read_tokens": 207659,
+  "output_tokens": 2570,
+  "total_tokens": 242771,
+  "duration_api_ms": 47910,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

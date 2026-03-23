@@ -1,0 +1,34 @@
+From: mei.lin@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-04 12:07 PM
+Subject: Customer feedback digest â€” Cloud Connect Q3
+
+Good morning,
+
+Here's the quarterly customer feedback digest for Cloud Connect. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 73, up 300ms points from last quarter. The improvement
+is driven by the WebhookDispatcher launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 18%.
+
+Top feature requests: WebhookDispatcher advanced filtering (73 votes), service mesh
+bulk operations (300ms votes), and enhanced Cloud Connect reporting (431ms
+votes). The filtering request aligns with what we heard in the user research study
+Carlos Rivera conducted.
+
+Top complaints: WebhookDispatcher performance during peak hours (73 mentions),
+the service mesh onboarding experience (300ms mentions), and pricing
+transparency (431ms mentions). The performance issue is being addressed
+by Engineering â€” Carlos Rivera expects the fix in v2.6.0.
+
+Churn insights: 73 customers churned this quarter citing WebhookDispatcher
+limitations as the primary reason. The service mesh overhaul on our roadmap directly
+addresses their feedback. 18% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Friday, March 14.
+
+Best regards,
+Mei

@@ -1,0 +1,28 @@
+From: carlos.rivera@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-09-18 06:16 PM
+Subject: Weekly pipeline review â€” Thursday, February 10
+
+Hi team,
+
+Here's the pipeline summary ahead of our weekly review meeting on Thursday, February 10.
+
+Total pipeline value: $48,630. Weighted pipeline: 109ms. We need
+87ms more in closed-won revenue to hit the Q4 target.
+
+Deals moving forward: Cyberdyne is in final contract review and should close this
+week. Two mid-market opportunities in the Cloud Connect space progressed to technical
+evaluation stage.
+
+At risk: one enterprise deal has gone quiet after we submitted pricing. Ravi Patel
+is trying to reconnect with the champion. Another account pushed their evaluation
+to next Q4 due to internal restructuring.
+
+New leads: generated 13 new qualified leads from the conference last week.
+The APIGateway demo was particularly well received. I've started outreach and
+have initial calls booked for 58% of them.
+
+Will walk through the details and forecasting adjustments in the meeting.
+
+Best,
+Carlos

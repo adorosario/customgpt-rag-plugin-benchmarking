@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-31 02:03 PM
+Subject: Sprint planning â€” Data Vault sprint v2.7.3
+
+Hello,
+
+Here's the sprint plan for Data Vault sprint v2.7.3. Capacity is 113 story
+points with 414ms engineers available this sprint.
+
+Committed stories: the AnalyticsDashboard integration work carries over from last sprint
+with 110ms points remaining. The new connection pool API endpoints are
+estimated at 113 points. The bug fix for the AnalyticsDashboard rendering issue
+is 414ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the connection pool performance
+optimization that Jun Tanaka has been scouting. It's estimated at 113 points
+and would improve response time by 10%.
+
+Dependencies: the AnalyticsDashboard feature requires the API changes that Jun Tanaka
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The connection pool work is self-contained.
+
+Risks: Jun Tanaka is on-call this sprint which historically reduces their available
+capacity by 10%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, May 18. Let me know if the priorities look right.
+
+Thanks,
+Sanjay

@@ -1,0 +1,28 @@
+From: derek.morrison@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-07-23 08:13 PM
+Subject: Weekly pipeline review â€” Thursday, February 21
+
+Hi,
+
+Here's the pipeline summary ahead of our weekly review meeting on Thursday, February 21.
+
+Total pipeline value: $326,800. Weighted pipeline: 495ms. We need
+92ms more in closed-won revenue to hit the Q2 target.
+
+Deals moving forward: Wayne Enterprises is in final contract review and should close this
+week. Two mid-market opportunities in the Integration Hub space progressed to technical
+evaluation stage.
+
+At risk: one enterprise deal has gone quiet after we submitted pricing. Jun Tanaka
+is trying to reconnect with the champion. Another account pushed their evaluation
+to next Q2 due to internal restructuring.
+
+New leads: generated 79 new qualified leads from the conference last week.
+The UserProfileService demo was particularly well received. I've started outreach and
+have initial calls booked for 13% of them.
+
+Will walk through the details and forecasting adjustments in the meeting.
+
+Best regards,
+Derek

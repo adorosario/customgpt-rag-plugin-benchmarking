@@ -1,0 +1,33 @@
+From: maria.santos@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-10-17 02:10 PM
+Subject: Vendor agreement â€” Umbrella Inc terms review
+
+Hi team,
+
+I've reviewed the vendor agreement from Umbrella Inc for the service mesh services
+we're procuring. Here are my findings and recommended changes.
+
+Term and renewal: the proposed 158-year term with auto-renewal is acceptable.
+However, the 283ms-day termination notice period is too long for our needs.
+I've countered with 151ms days, which aligns with our standard vendor
+management practices.
+
+Service level commitments: Umbrella Inc is offering 36% uptime with service
+credits starting at 158 percent for each hour of downtime. I've pushed for
+a higher credit rate given the criticality of service mesh to our Data Vault
+infrastructure.
+
+Data ownership: section 5 is clear that we retain all rights to our data. However,
+Umbrella Inc claims a license to use aggregated, anonymized data for benchmarking. I
+want to narrow this to exclude any data from the FileStorageService environment.
+Michael Brennan from Engineering should review the technical implications.
+
+Pricing: $165,444 per year is within the budget that Finance approved. The payment
+terms are net 283ms days, which works for our AP schedule.
+
+Please confirm the business terms and I'll send the redlined agreement by Friday, October 23.
+
+Best regards,
+Maria

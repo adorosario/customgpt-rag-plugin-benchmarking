@@ -1,0 +1,29 @@
+From: fatima.al-rashid@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-06-08 01:44 PM
+Subject: Policy update â€” MessageBroker guidelines
+
+Hi,
+
+We've updated the MessageBroker company policy based on feedback from employees and
+recent changes in Toronto labor regulations. The new policy takes effect on Monday, July 23.
+
+Key changes: the load balancer allowance has been increased from 285ms to
+55ms per month. The eligibility window for MessageBroker has been expanded
+to include employees who've been with Acme Corp for 70 months or more, down
+from the previous requirement of 285ms months.
+
+New additions: a Integration Hub reimbursement category has been added covering up to
+$112,255 annually. This addresses the top employee request from the last survey.
+Priya Sharma negotiated favorable terms with the load balancer vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by January 6. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 20% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Cheers,
+Fatima

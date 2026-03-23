@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-22 09:34 PM
+Subject: Sprint planning â€” Cloud Connect sprint v3.2.2
+
+Hi,
+
+Here's the sprint plan for Cloud Connect sprint v3.2.2. Capacity is 140 story
+points with 250ms engineers available this sprint.
+
+Committed stories: the DataPipeline integration work carries over from last sprint
+with 361ms points remaining. The new service mesh API endpoints are
+estimated at 140 points. The bug fix for the DataPipeline rendering issue
+is 250ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the service mesh performance
+optimization that James Oduya has been scouting. It's estimated at 140 points
+and would improve response time by 26%.
+
+Dependencies: the DataPipeline feature requires the API changes that James Oduya
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The service mesh work is self-contained.
+
+Risks: James Oduya is on-call this sprint which historically reduces their available
+capacity by 26%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, November 3. Let me know if the priorities look right.
+
+Talk soon,
+Sanjay

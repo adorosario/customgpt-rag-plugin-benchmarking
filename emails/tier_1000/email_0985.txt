@@ -1,0 +1,28 @@
+From: ananya.desai@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-02
+Subject: Q3 Revenue Projection â€” Revised Figures
+
+Hi Robert,
+
+I've completed the revised Q3 revenue projection based on the latest pipeline data
+from Sales and the updated expense forecasts. The new number comes in at $4.2M, which
+is down from our original $4.8M target but still represents healthy year-over-year
+growth.
+
+Two main factors drove the revision. First, the Berlin office opening has been pushed
+back by six weeks, which delays the European revenue ramp we had built into the
+forecast. Second, the Initech deal that Sales flagged as likely-to-close in August is
+now showing signs of slipping into Q4 due to their internal budget approval process.
+
+On the positive side, the Finance team has identified cost savings in infrastructure
+spending that partially offset the revenue shortfall. Our gross margin is actually
+improving quarter over quarter.
+
+I've attached the detailed breakdown by revenue stream and region. Let me know if
+you'd like me to present this to the board or if you want to walk through the
+numbers first.
+
+Best,
+Ananya

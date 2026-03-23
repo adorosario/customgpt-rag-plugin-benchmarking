@@ -1,0 +1,21 @@
+{
+  "tier": 5,
+  "question_id": "needle_1",
+  "question_type": "hard",
+  "run": 1,
+  "question": "When did Sarah from Legal say the patent filing deadline was moved to, and who did she tell?",
+  "model": "claude-sonnet-4-6",
+  "response": "None of the 5 emails in this directory mention Sarah from Legal, a patent filing deadline, or any related information. The emails cover:\n\n1. Project Nexus sprint planning (Liam \u00e2\u2020\u2019 Ravi)\n2. Annual retreat venue options (Sofia \u00e2\u2020\u2019 Kwame)\n3. Berlin office lease status (Ananya \u00e2\u2020\u2019 Sofia)\n4. Series B investor pitch deck (Robert \u00e2\u2020\u2019 Marcus)\n5. Initech API latency issues (Wei \u00e2\u2020\u2019 Derek)\n\nThat information does not appear in these documents.",
+  "time_seconds": 30.62,
+  "num_turns": 12,
+  "cost_usd": 0.17423295,
+  "input_tokens": 7,
+  "cache_creation_tokens": 39065,
+  "cache_read_tokens": 57244,
+  "output_tokens": 703,
+  "total_tokens": 97019,
+  "duration_api_ms": 18293,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

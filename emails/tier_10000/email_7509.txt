@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-07-18 12:10 AM
+Subject: FP&A update â€” Cloud Connect financial model
+
+Good morning,
+
+I've updated the Cloud Connect financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 56 per month based
+on the last 221ms months of data. Average contract value is tracking at
+$237,539, which is 48% above our original assumption. The SchedulerService
+upsell rate of 89ms is a positive trend.
+
+Cost structure: the event bus hosting costs are running 48% higher than
+modeled due to increased SchedulerService usage. I've adjusted the variable cost
+per customer from 221ms to 89ms. Alex Chen from Engineering
+says the optimization project should bring this down by 48% in Q4.
+
+Break-even analysis: with the revised numbers, Cloud Connect reaches contribution
+margin break-even at 56 customers, which we're projected to hit by Thursday, October 7.
+Full break-even including allocated overhead comes at 221ms customers.
+
+Scenarios: the base case shows $237,539 in cumulative revenue by year end. The
+upside case with the Massive Dynamic deal closing hits 89ms. Downside case
+assuming 48% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Regards,
+Grace

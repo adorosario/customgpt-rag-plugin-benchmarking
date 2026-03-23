@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-06-23 04:14 PM
+Subject: Budget review â€” Product department Q2
+
+Hello,
+
+Here's the Q2 budget review for the Product department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $71,175 against a budget of 134ms. The 45% variance is
+primarily driven by the accelerated CacheLayer hiring that was approved mid-quarter.
+Personnel costs came in at 329ms which includes the 179 new hires.
+
+Overages: the service mesh infrastructure line item exceeded budget by 45% due
+to the unplanned scaling requirements for Data Vault. I've worked with Sofia Martinez
+from Engineering to project the run rate going forward â€” we should budget an
+additional $71,175 per quarter for this category.
+
+Underspend: the CacheLayer consulting budget was only 45% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 45%
+of the total annual budget. The main risk is the service mesh cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best,
+Robert

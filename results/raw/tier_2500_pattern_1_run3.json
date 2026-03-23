@@ -1,0 +1,21 @@
+{
+  "tier": 2500,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the emails, here's what the Project Nexus emails reveal:\n\n**Project Nexus** is an internal initiative at **Acme Corp** focused on:\n- Cross-platform development\n- Synchronization\n- Conflict resolution\n- API design and architecture\n\n**Teams/People involved:**\n\n| Person | Role/Team |\n|---|---|\n| Liam Foster | Appears to be a lead/coordinator (sends multiple updates) |\n| Ravi Patel | Engineering (`engineering@acmecorp.com` CC'd) |\n| Priya Sharma | Recipient of milestone updates |\n| Mei Lin | Working on Nexus API design |\n| Sofia Martinez | Reviewer/stakeholder |\n| David Okonkwo | Architecture reviewer |\n\n**Teams CC'd:** `product@acmecorp.com`, `engineering@acmecorp.com`\n\nNote: The email content is fairly boilerplate/generic \u00e2\u20ac\u201d the emails describe aspects like \"cross-platform\", \"synchronization\", \"conflict resolution\", and \"milestone\" progress, but don't go into specific technical detail about what Project Nexus actually builds. The architecture and API design threads suggest it's a software/platform project.",
+  "time_seconds": 36.59,
+  "num_turns": 7,
+  "cost_usd": 0.11046614999999999,
+  "input_tokens": 6,
+  "cache_creation_tokens": 17183,
+  "cache_read_tokens": 110073,
+  "output_tokens": 866,
+  "total_tokens": 128128,
+  "duration_api_ms": 23593,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

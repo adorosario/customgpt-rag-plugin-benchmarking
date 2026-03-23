@@ -1,0 +1,32 @@
+From: yuki.sato@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-09-22 07:37 AM
+Subject: Event planning â€” Integration Hub webinar on Tuesday, May 10
+
+Hi all,
+
+Finalizing details for the Integration Hub webinar on Tuesday, May 10. Here's where we stand on
+the logistics and promotion.
+
+Content: Oluwaseun Adeyemi from Product will present the DataPipeline roadmap segment.
+I'll handle the intro and customer story. We're targeting a 147-minute
+presentation followed by 156ms minutes of live Q&A. The authentication module demo
+segment should be the highlight.
+
+Registration: we've had 462ms sign-ups so far. Goal is 156ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Integration Hub keywords.
+
+Tech setup: using the standard webinar platform. Oluwaseun Adeyemi will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Tuesday, May 10 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 147 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Regards,
+Yuki

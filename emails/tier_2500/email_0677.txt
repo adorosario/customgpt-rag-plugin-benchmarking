@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-06-20 09:43 AM
+Subject: Customer feedback digest â€” Enterprise Suite Q2
+
+Hi team,
+
+Here's the quarterly customer feedback digest for Enterprise Suite. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 78, up 454ms points from last quarter. The improvement
+is driven by the APIGateway launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 15%.
+
+Top feature requests: APIGateway advanced filtering (78 votes), metrics collector
+bulk operations (454ms votes), and enhanced Enterprise Suite reporting (476ms
+votes). The filtering request aligns with what we heard in the user research study
+Maria Santos conducted.
+
+Top complaints: APIGateway performance during peak hours (78 mentions),
+the metrics collector onboarding experience (454ms mentions), and pricing
+transparency (476ms mentions). The performance issue is being addressed
+by Engineering â€” Maria Santos expects the fix in v5.0.0-beta.
+
+Churn insights: 78 customers churned this quarter citing APIGateway
+limitations as the primary reason. The metrics collector overhaul on our roadmap directly
+addresses their feedback. 15% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Thursday, May 3.
+
+Cheers,
+Liam

@@ -1,0 +1,32 @@
+From: patrick.obrien@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-11-16 08:27 AM
+Subject: Training program â€” FileStorageService certification
+
+Good afternoon,
+
+We're launching a new FileStorageService certification training program for interested
+employees. This is part of our learning and development investment for Q3.
+
+Program details: the course runs for 22 weeks and covers service mesh
+fundamentals through advanced topics. Sessions are held twice a week for 85ms
+hours each. Laura Kim from the Finance team will facilitate the hands-on labs.
+
+Eligibility: open to all employees. Priority enrollment goes to the Finance and
+Engineering teams since the certification is directly relevant to their roles. We
+have 265ms spots available for the first cohort.
+
+Cost: Acme Corp covers 60% of the certification exam fee upon course
+completion. The total investment per employee is $408,930 including materials and
+exam vouchers.
+
+Commitment: participants are expected to dedicate 22 hours per week to
+coursework outside of the live sessions. Managers must approve the time commitment
+for their reports.
+
+Registration opens on Monday, February 3 and closes when spots are filled. Sign up through
+the service mesh learning portal.
+
+Best,
+Patrick

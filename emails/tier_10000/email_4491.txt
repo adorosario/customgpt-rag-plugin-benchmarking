@@ -1,0 +1,30 @@
+From: kwame.asante@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-06-07 10:59 PM
+Subject: Policy update â€” CacheLayer guidelines
+
+Hi,
+
+We've updated the CacheLayer company policy based on feedback from employees and
+recent changes in Singapore labor regulations. The new policy takes effect on Monday, July 7.
+
+Key changes: the event bus allowance has been increased from 421ms to
+188ms per month. The eligibility window for CacheLayer has been expanded
+to include employees who've been with Acme Corp for 176 months or more, down
+from the previous requirement of 421ms months.
+
+New additions: a Data Vault reimbursement category has been added covering up to
+$417,185 annually. This addresses the top employee request from the last survey.
+Mei Lin negotiated favorable terms with the event bus vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by April 23. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 22% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Kwame

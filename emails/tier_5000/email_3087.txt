@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-25 02:42 PM
+Subject: Roadmap update â€” Cloud Connect Q3
+
+Hey,
+
+Here's the updated Cloud Connect roadmap for Q3. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the SearchIndex integration feature launches on Tuesday, February 8. This is our
+top customer request with 143 votes on the feedback board. Sarah Chen from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the caching layer overhaul is scoped for mid-Q3. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 143 sprints with 410ms engineers allocated.
+
+Exploring: the SearchIndex AI feature that Sales has been requesting. We need more
+user research before committing â€” Sarah Chen is running interviews with 143
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the caching layer redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 143-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Thanks,
+Sanjay

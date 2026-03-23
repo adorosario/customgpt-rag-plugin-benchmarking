@@ -1,0 +1,30 @@
+From: michael.brennan@acmecorp.com
+To: derek.morrison@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-26 02:44 PM
+Subject: Re: Expense report flagged â€” MessageBroker charges
+
+Good morning,
+
+I noticed some items on the MessageBroker expense report submitted by Maria Santos
+that need clarification before I can approve them.
+
+The config manager subscription charge of $433,714 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+233ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Wayne Enterprises dinner on Thursday, March 11 for $433,714 exceeds our per-person meal
+reimbursement limit of 233ms. If this was a client entertainment expense,
+it should be coded to the client development budget under MessageBroker rather than
+general T&E. 156 attendees at that amount puts us at 338ms per
+person which is within the client entertainment policy.
+
+The remaining 156 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 233ms business days after approval.
+
+Please resubmit with the corrections by Thursday, March 11 so we can keep things on track.
+
+Cheers,
+Michael

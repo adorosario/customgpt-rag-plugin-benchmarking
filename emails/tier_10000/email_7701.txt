@@ -1,0 +1,33 @@
+From: fatima.al-rashid@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-06-26 10:57 AM
+Subject: D&I initiative update â€” Q4
+
+Good morning,
+
+Here's the quarterly update on our Diversity and Inclusion initiatives. We're
+making meaningful progress on the goals set at the beginning of the year.
+
+Hiring diversity: 38% of candidates in our pipeline this quarter came from
+underrepresented backgrounds, up from 133 percent last quarter. The
+partnership with Cyberdyne job board has been a strong contributor. David Okonkwo has
+been leading the sourcing strategy.
+
+ERG activity: the MessageBroker employee resource group hosted 133 events
+this quarter with an average attendance of 481ms employees. The mentorship
+circles launched in Q4 have paired 479ms mentors with mentees
+across Engineering departments.
+
+Training: 38% of managers have completed the inclusive leadership training
+program. We're on track to reach 133 percent completion by Friday, July 9. The
+feedback ratings average 479ms out of 5.
+
+Compensation equity: the annual pay equity audit is scheduled for Friday, July 9. We'll
+be reviewing compensation data across 133 dimensions to identify and
+address any gaps.
+
+Full report will be shared at the next all-hands meeting.
+
+Talk soon,
+Fatima

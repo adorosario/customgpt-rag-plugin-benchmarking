@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-29 01:34 AM
+Subject: Financial close checklist â€” Q4
+
+Hi,
+
+The Q4 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Data Vault invoices must be issued by Tuesday, May 19. Any revenue recognition
+adjustments for the AuthService contracts need supporting documentation uploaded
+to rate limiter. Laura Kim from Sales must confirm final deal amounts by June 20.
+
+Expenses: all expense reports for Q4 must be submitted by Tuesday, May 19. The
+AuthService vendor invoices totaling $203,967 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, AuthService subscription costs,
+and the rate limiter usage charges by Tuesday, May 19. Any non-standard accruals above
+427ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, AuthService account reconciliation, and
+inter-company balances must be completed by Tuesday, May 19. Laura Kim is handling the
+bank rec. I'll take the inter-company items since they involve the San Francisco entity.
+
+Target: books closed within 69 business days of quarter end. Final reporting
+package to leadership by Tuesday, May 19.
+
+Talk soon,
+Grace

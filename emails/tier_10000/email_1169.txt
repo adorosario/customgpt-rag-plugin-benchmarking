@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-08-23 04:49 PM
+Subject: Event planning â€” Integration Hub webinar on Monday, February 21
+
+Good afternoon,
+
+Finalizing details for the Integration Hub webinar on Monday, February 21. Here's where we stand on
+the logistics and promotion.
+
+Content: Maria Santos from Product will present the NotificationEngine roadmap segment.
+I'll handle the intro and customer story. We're targeting a 167-minute
+presentation followed by 258ms minutes of live Q&A. The logging pipeline demo
+segment should be the highlight.
+
+Registration: we've had 381ms sign-ups so far. Goal is 258ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Integration Hub keywords.
+
+Tech setup: using the standard webinar platform. Maria Santos will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Monday, February 21 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 167 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Thanks,
+James

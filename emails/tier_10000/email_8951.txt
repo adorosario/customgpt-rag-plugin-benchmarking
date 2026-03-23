@@ -1,0 +1,27 @@
+From: aisha.okafor@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-17 12:46 AM
+Subject: Pipeline update â€” Hooli deal status
+
+Hi all,
+
+Quick update on the Hooli opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $173,550 for the Analytics Pro deployment. The
+decision timeline is end of Q2. Their main concern remains the integration
+with their existing PaymentGateway infrastructure, which is why I've looped in Michael Brennan
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Hooli is also evaluating one other vendor but our
+Analytics Pro demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our logging pipeline capability.
+
+Next steps: technical architecture session on Monday, March 24, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 14%.
+
+Best regards,
+Aisha

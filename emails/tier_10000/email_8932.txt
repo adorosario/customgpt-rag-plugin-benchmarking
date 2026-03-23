@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-15 01:29 AM
+Subject: A/B test results â€” WebhookDispatcher experiment
+
+Good afternoon,
+
+The WebhookDispatcher A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 198 days with 461ms users in each cohort.
+
+Variant A (control): the existing config manager flow. Conversion rate of
+248ms with an average task completion time of 198 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified WebhookDispatcher step.
+Conversion rate of 461ms with task completion time of 248ms seconds.
+This represents a 6% improvement in conversion and 198 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 198 to 461ms
+in the treatment group. Support ticket volume for WebhookDispatcher related issues
+decreased by 6%. No negative impact on config manager engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Robert Kimura from Engineering can have this
+deployed by Friday, December 1.
+
+One caveat: the test population skewed toward Data Vault power users. We should
+monitor new user behavior closely for the first 198 weeks after full rollout.
+
+Thanks,
+Mei

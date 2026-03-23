@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-11-30 01:57 AM
+Subject: Re: Customer story â€” Stark Industries case study
+
+Hello,
+
+Great update on the Stark Industries case study. I've finished the first draft and want
+to share the results we're highlighting.
+
+Headline stat: Stark Industries saw a 19% reduction in service mesh processing time
+after deploying Insight Engine. This translates to $221,546 in annual cost savings
+based on their team size of 173 people.
+
+Story arc: the narrative follows their journey from evaluating SchedulerService
+alternatives to full deployment. The strongest section is the quote from their CTO
+about how Insight Engine simplified their service mesh workflow.
+
+Approval status: Stark Industries's marketing team has reviewed and approved the draft with
+minor edits. They're comfortable with us publishing by Monday, March 7. Amara Diallo coordinated
+the approval process.
+
+Distribution plan: blog post with pull quotes, one-page PDF for Sales enablement,
+and a 173-minute video summary. The video production is scheduled for next week.
+
+Can you review the draft and send feedback by Monday, March 7? I want to finalize before
+the Q4 campaign kickoff.
+
+Regards,
+Yuki

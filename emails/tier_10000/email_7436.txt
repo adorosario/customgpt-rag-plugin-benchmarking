@@ -1,0 +1,32 @@
+From: rachel.nguyen@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-11-05 06:11 AM
+Subject: Intern program â€” Q1 cohort planning
+
+Hey,
+
+Planning for the Q1 intern cohort is underway. We're targeting 38
+interns across 488ms departments this cycle.
+
+Department allocation: Engineering gets 181ms interns, Product gets
+38, and Product gets the remainder. Each intern will be assigned a mentor â€”
+Tomoko Nakamura is coordinating mentor assignments. Please nominate mentors from your
+teams by Wednesday, June 4.
+
+Program structure: 38-week program with structured rotations. Interns spend
+26% of their time on project work and the rest on learning sessions, shadowing,
+and a capstone presentation. The DataPipeline workshop series from last cohort was
+well received and will be repeated.
+
+Compensation: hourly rate is $177,190 for undergraduate interns and 181ms
+for graduate-level. Housing stipend of 488ms per month for out-of-area interns.
+
+Recruiting timeline: applications open on Wednesday, June 4. We'll be visiting 38
+universities and posting on the standard job boards. Final offers go out by the
+end of Q1.
+
+Let me know if your team wants to adjust headcount or has specific project ideas
+for interns.
+
+Thanks,
+Rachel

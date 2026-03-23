@@ -1,0 +1,34 @@
+From: daniel.park@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-03 11:40 AM
+Subject: Customer feedback digest â€” Insight Engine Q2
+
+Good morning,
+
+Here's the quarterly customer feedback digest for Insight Engine. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 133, up 259ms points from last quarter. The improvement
+is driven by the AuthService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 32%.
+
+Top feature requests: AuthService advanced filtering (133 votes), rate limiter
+bulk operations (259ms votes), and enhanced Insight Engine reporting (55ms
+votes). The filtering request aligns with what we heard in the user research study
+Fatima Al-Rashid conducted.
+
+Top complaints: AuthService performance during peak hours (133 mentions),
+the rate limiter onboarding experience (259ms mentions), and pricing
+transparency (55ms mentions). The performance issue is being addressed
+by Engineering â€” Fatima Al-Rashid expects the fix in v2.6.0.
+
+Churn insights: 133 customers churned this quarter citing AuthService
+limitations as the primary reason. The rate limiter overhaul on our roadmap directly
+addresses their feedback. 32% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, October 1.
+
+Cheers,
+Daniel

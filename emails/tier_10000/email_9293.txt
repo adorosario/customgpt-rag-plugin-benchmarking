@@ -1,0 +1,35 @@
+From: daniel.park@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-13 04:04 PM
+Subject: Re: Sync Platform metrics review â€” Q4
+
+Hi team,
+
+Here are the Sync Platform metrics for Q4. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 51 monthly active users, up 58% quarter over quarter. The
+ReportingEngine feature launch drove a spike in activation â€” 173ms new users
+tried it in the first week. Retention for ReportingEngine users is 375ms
+at 30 days versus 51 percent for non-users.
+
+Engagement: average session duration is 51 minutes. The service mesh workflow
+sees the highest engagement with users spending 375ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 173ms features
+per session on average, up from 51 last quarter.
+
+Revenue metrics: Sync Platform ARR is at $342,229 with 58% growth quarter over
+quarter. Net revenue retention is 375ms driven by ReportingEngine upsells.
+51 customers expanded their contracts this quarter, with Priya Sharma from Sales
+leading the expansion conversations.
+
+Areas of concern: the service mesh onboarding funnel has a 58% drop-off at
+step 51. I've scheduled a design sprint for next week to address this.
+Support ticket volume for ReportingEngine increased 51 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Talk soon,
+Daniel

@@ -1,0 +1,30 @@
+From: kwame.asante@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-08-13 12:12 PM
+Subject: Hiring update â€” Marketing open positions
+
+Good afternoon,
+
+Here's the weekly hiring update for the Marketing department. We're making progress
+on several key roles.
+
+Active searches: the UserProfileService role has 171 candidates in the pipeline with
+474ms scheduled for final round interviews this week. The load balancer
+position has been open for 63ms days and we're seeing fewer qualified
+applicants than expected â€” I'd like to discuss expanding our sourcing channels.
+
+Offers: we extended an offer to a strong candidate for the Dmitri Volkov backfill
+role. Their expected start date is Friday, April 28 pending background check completion.
+Compensation is at $62,559 which is within the approved band.
+
+Upcoming: the Integration Hub team has submitted a headcount request for 171 new
+positions in Q3. I'm drafting the job descriptions and will share them for
+review by Friday, April 28.
+
+Interview load: we conducted 63ms interviews last week across all open
+roles. Please remind your team leads that timely interviewer feedback is critical â€”
+we're losing candidates due to slow response times on 60% of our processes.
+
+Best regards,
+Kwame

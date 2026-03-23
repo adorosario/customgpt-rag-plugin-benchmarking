@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-09-21 07:59 PM
+Subject: Tax planning â€” Q4 estimated payments
+
+Hey,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the MessageBroker investment
+deductions.
+
+Federal estimate: $193,139 based on projected taxable income of 203ms.
+This reflects the MessageBroker depreciation deductions and the R&D tax credit for
+the Sync Platform development costs. Rachel Nguyen from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $193,139 for our primary jurisdiction and 365ms for the
+New York office based on the apportionment factors. The New York rate change that
+takes effect on Wednesday, October 10 will impact our Q4 estimate by approximately 190
+percent.
+
+International: with the New York office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Rachel Nguyen to handle
+the registration. Setup cost is $193,139 with ongoing compliance costs of
+365ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Wednesday, October 10. I'll prepare the
+payment authorization for your signature by April 14. Underpayment penalties
+start at 40% so timely filing is important.
+
+Thanks,
+Michael

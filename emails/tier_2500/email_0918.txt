@@ -1,0 +1,29 @@
+From: priya.sharma@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-09-08 07:40 PM
+Subject: Re: CacheLayer â€” tech debt prioritization
+
+Hello,
+
+Following up on the tech debt discussion from yesterday's sprint planning. I've
+categorized the outstanding items for CacheLayer into three tiers based on risk
+and effort.
+
+High priority: the deprecated logging pipeline dependency needs to be replaced before
+Tuesday, February 27 when upstream support ends. This is roughly a 78 effort and Michael Brennan
+has volunteered to own it.
+
+Medium priority: the test coverage gap in the CacheLayer integration layer. We're
+at 417ms coverage but our target is 154ms. Filling this gap would
+have caught the regression we saw last sprint.
+
+Low priority: the logging format standardization. It's annoying but not blocking
+anything. I'd suggest we tackle it opportunistically when someone is already
+touching those files.
+
+My proposal is to allocate 30% of next sprint's capacity to the high-priority
+item. Thoughts?
+
+Best regards,
+Priya

@@ -1,0 +1,29 @@
+From: ananya.desai@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-10-02 04:26 AM
+Subject: Re: Expense report flagged â€” CacheLayer charges
+
+Hi all,
+
+I noticed some items on the CacheLayer expense report submitted by Michael Brennan
+that need clarification before I can approve them.
+
+The connection pool subscription charge of $215,232 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+434ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Pied Piper dinner on Monday, July 1 for $215,232 exceeds our per-person meal
+reimbursement limit of 434ms. If this was a client entertainment expense,
+it should be coded to the client development budget under CacheLayer rather than
+general T&E. 152 attendees at that amount puts us at 474ms per
+person which is within the client entertainment policy.
+
+The remaining 152 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 434ms business days after approval.
+
+Please resubmit with the corrections by Monday, July 1 so we can keep things on track.
+
+Talk soon,
+Ananya

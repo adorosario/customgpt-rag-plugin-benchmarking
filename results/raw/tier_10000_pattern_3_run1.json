@@ -1,0 +1,21 @@
+{
+  "tier": 10000,
+  "question_id": "pattern_3",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What issues has Initech reported and how is the team responding?",
+  "model": "claude-sonnet-4-6",
+  "response": "Here's what the emails reveal about Initech:\n\n## Issues Reported by Initech\n\n**1. API Latency / SLA Breach (primary, recurring)**\nThe dominant issue across ~11 emails \u00e2\u20ac\u201d Initech complained about poor API response times and performance SLA violations. This escalated to a formal customer success incident.\n\n**2. Service Degradation**\nA broader outage/degradation incident prompted a formal postmortem (`email_6914.txt`).\n\n**3. Deal Slippage (business impact)**\nInitech's internal budget approval process is delaying a deal that Sales had flagged as closing in August \u00e2\u20ac\u201d now slipping to Q4. This contributed to a Q3 revenue revision from $4.8M \u00e2\u2020\u2019 $4.2M (`email_1964.txt`).\n\n**4. Patent Competitive Threat**\nSeparately, Initech holds 3 prior art filings in the cross-platform synchronization space, forcing the team to adjust patent claims and push a filing deadline from March 30 \u00e2\u2020\u2019 April 15 (`email_9199.txt`).\n\n---\n\n## How the Team Is Responding\n\n| Area | Actions |\n|---|---|\n| **Engineering** | Load testing, root cause analysis, hotfix deployment, server patches, postmortem |\n| **Customer Success** | Follow-up calls, check-ins, escalation management, account retention strategy |\n| **Sales** | Updated Q3 projections, tracking deal through budget approval process |\n| **Legal/IP** | Adjusting patent claims to differentiate from Initech's prior art |\n| **Tracking** | Project tracker updated with revised milestones across all workstreams |\n\nThe overall picture is active management \u00e2\u20ac\u201d the latency issues appear to be progressing toward resolution with server patches deployed and stability restored, while the deal and IP concerns are being handled in parallel.",
+  "time_seconds": 73.92,
+  "num_turns": 3,
+  "cost_usd": 0.18719475000000002,
+  "input_tokens": 5,
+  "cache_creation_tokens": 14089,
+  "cache_read_tokens": 74989,
+  "output_tokens": 871,
+  "total_tokens": 89954,
+  "duration_api_ms": 56997,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

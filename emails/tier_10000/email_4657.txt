@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-08 08:22 AM
+Subject: Vendor payment schedule â€” Q3
+
+Hi team,
+
+Here's the vendor payment schedule for Q3. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Oscorp invoice for $382,852 is due on Tuesday, November 14 with a
+7% early payment discount if we pay within 116 days. I recommend
+taking the discount â€” it saves us 166ms. The MessageBroker annual
+license renewal of 466ms is due Tuesday, November 14 with no discount available.
+
+Standard schedule: 116 vendor invoices totaling $382,852 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-466ms terms with payments going out every 116 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The logging pipeline vendor
+overbilled us by $382,852 on the MessageBroker usage charges. Maria Santos is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q3 are projected at $382,852. This
+is 7% higher than last quarter due to the MessageBroker infrastructure
+investment and the San Francisco office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Regards,
+Robert

@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-14 03:18 PM
+Subject: Budget review â€” Legal department Q2
+
+Hey,
+
+Here's the Q2 budget review for the Legal department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $140,167 against a budget of 443ms. The 46% variance is
+primarily driven by the accelerated MessageBroker hiring that was approved mid-quarter.
+Personnel costs came in at 275ms which includes the 93 new hires.
+
+Overages: the logging pipeline infrastructure line item exceeded budget by 46% due
+to the unplanned scaling requirements for Cloud Connect. I've worked with James Oduya
+from Engineering to project the run rate going forward â€” we should budget an
+additional $140,167 per quarter for this category.
+
+Underspend: the MessageBroker consulting budget was only 46% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 46%
+of the total annual budget. The main risk is the logging pipeline cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Talk soon,
+Grace

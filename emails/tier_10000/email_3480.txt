@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-11-12 06:06 PM
+Subject: Tax planning â€” Q2 estimated payments
+
+Hi,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the MessageBroker investment
+deductions.
+
+Federal estimate: $207,028 based on projected taxable income of 204ms.
+This reflects the MessageBroker depreciation deductions and the R&D tax credit for
+the Sync Platform development costs. Aisha Okafor from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $207,028 for our primary jurisdiction and 159ms for the
+Sydney office based on the apportionment factors. The Sydney rate change that
+takes effect on Friday, May 13 will impact our Q2 estimate by approximately 187
+percent.
+
+International: with the Sydney office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Aisha Okafor to handle
+the registration. Setup cost is $207,028 with ongoing compliance costs of
+159ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Friday, May 13. I'll prepare the
+payment authorization for your signature by July 16. Underpayment penalties
+start at 43% so timely filing is important.
+
+Cheers,
+Robert

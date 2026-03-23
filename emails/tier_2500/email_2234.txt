@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-02 09:15 PM
+Subject: A/B test results â€” SearchIndex experiment
+
+Hi all,
+
+The SearchIndex A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 27 days with 466ms users in each cohort.
+
+Variant A (control): the existing rate limiter flow. Conversion rate of
+170ms with an average task completion time of 27 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified SearchIndex step.
+Conversion rate of 466ms with task completion time of 170ms seconds.
+This represents a 48% improvement in conversion and 27 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 27 to 466ms
+in the treatment group. Support ticket volume for SearchIndex related issues
+decreased by 48%. No negative impact on rate limiter engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Priya Sharma from Engineering can have this
+deployed by Monday, September 21.
+
+One caveat: the test population skewed toward Enterprise Suite power users. We should
+monitor new user behavior closely for the first 27 weeks after full rollout.
+
+Regards,
+Mei

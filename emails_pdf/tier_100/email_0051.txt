@@ -1,0 +1,11 @@
+From: michael.brennan@acmecorp.com To: liam.foster@acmecorp.com CC: finance@acmecorp.com Date: 2025-11-12 06:02 AM Subject: Payroll adjustment â?? Wednesday, April 14 cycle
+Hi,
+Several payroll adjustments need to be processed for the Wednesday, April 14 pay cycle. Here's the summary for your review and approval.
+Merit increases: 176 employees received approved raises effective Wednesday, April 14. The total monthly payroll impact is $170,880. The largest increase is for Derek Morrison whose compensation moves from 227ms to 489ms based on the promotion approved in the Q1 review cycle.
+New hires: 176 new employees starting on Wednesday, April 14 need to be added to the payroll system. All have completed their I-9 and tax withholding forms. Derek Morrison in People Ops has verified the documentation.
+Bonus payouts: the ReportingEngine project completion bonus of $170,880 each goes to 176 team members. These are one-time payments coded to the Engineering department budget. Tax withholding will be calculated at the supplemental rate of 31%.
+Deduction changes: 176 employees updated their benefits elections during open enrollment. The new deduction amounts take effect this cycle. I've reconciled the changes against the benefits enrollment records from config manager.
+Please approve the batch by July 26 to ensure on-time processing.
+Regards, Michael
+
+

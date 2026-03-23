@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-06-22 05:46 PM
+Subject: A/B test results â€” MessageBroker experiment
+
+Good afternoon,
+
+The MessageBroker A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 198 days with 75ms users in each cohort.
+
+Variant A (control): the existing authentication module flow. Conversion rate of
+288ms with an average task completion time of 198 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified MessageBroker step.
+Conversion rate of 75ms with task completion time of 288ms seconds.
+This represents a 29% improvement in conversion and 198 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 198 to 75ms
+in the treatment group. Support ticket volume for MessageBroker related issues
+decreased by 29%. No negative impact on authentication module engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. James Oduya from Engineering can have this
+deployed by Tuesday, September 9.
+
+One caveat: the test population skewed toward Analytics Pro power users. We should
+monitor new user behavior closely for the first 198 weeks after full rollout.
+
+Best,
+Liam

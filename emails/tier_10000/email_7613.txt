@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-11-05 11:19 AM
+Subject: Payroll adjustment â€” Monday, January 21 cycle
+
+Hey everyone,
+
+Several payroll adjustments need to be processed for the Monday, January 21 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 10 employees received approved raises effective Monday, January 21. The
+total monthly payroll impact is $53,594. The largest increase is for Priya Sharma
+whose compensation moves from 325ms to 298ms based on the promotion
+approved in the Q2 review cycle.
+
+New hires: 10 new employees starting on Monday, January 21 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Priya Sharma
+in People Ops has verified the documentation.
+
+Bonus payouts: the AuthService project completion bonus of $53,594 each goes to
+10 team members. These are one-time payments coded to the HR department
+budget. Tax withholding will be calculated at the supplemental rate of 11%.
+
+Deduction changes: 10 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from config manager.
+
+Please approve the batch by May 20 to ensure on-time processing.
+
+Best,
+Robert

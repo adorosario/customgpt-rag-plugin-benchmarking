@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-11-01 07:55 AM
+Subject: A/B test results â€” DataPipeline experiment
+
+Hi,
+
+The DataPipeline A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 20 days with 411ms users in each cohort.
+
+Variant A (control): the existing logging pipeline flow. Conversion rate of
+165ms with an average task completion time of 20 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified DataPipeline step.
+Conversion rate of 411ms with task completion time of 165ms seconds.
+This represents a 29% improvement in conversion and 20 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 20 to 411ms
+in the treatment group. Support ticket volume for DataPipeline related issues
+decreased by 29%. No negative impact on logging pipeline engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Fatima Al-Rashid from Engineering can have this
+deployed by Wednesday, December 20.
+
+One caveat: the test population skewed toward Data Vault power users. We should
+monitor new user behavior closely for the first 20 weeks after full rollout.
+
+Regards,
+Mei

@@ -1,0 +1,21 @@
+{
+  "tier": 5,
+  "question_id": "pattern_2",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What's the status of the Berlin office opening?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about a Berlin office opening. This isn't something in my memory or the project context I have access to.\n\nIf you're looking for internal company news, you might want to check:\n- Your company's internal Slack/Teams channels\n- Email announcements\n- A company intranet or Notion workspace\n\nWould you like me to search for something related to this, or is this about a specific project you're working on?",
+  "time_seconds": 19.68,
+  "num_turns": 1,
+  "cost_usd": 0.049243800000000004,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10872,
+  "cache_read_tokens": 17316,
+  "output_tokens": 218,
+  "total_tokens": 28409,
+  "duration_api_ms": 6312,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

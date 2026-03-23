@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-11-06 07:39 AM
+Subject: Vendor payment schedule â€” Q1
+
+Hello,
+
+Here's the vendor payment schedule for Q1. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Pied Piper invoice for $133,717 is due on Friday, October 24 with a
+5% early payment discount if we pay within 130 days. I recommend
+taking the discount â€” it saves us 414ms. The WebhookDispatcher annual
+license renewal of 314ms is due Friday, October 24 with no discount available.
+
+Standard schedule: 130 vendor invoices totaling $133,717 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-314ms terms with payments going out every 130 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The config manager vendor
+overbilled us by $133,717 on the WebhookDispatcher usage charges. Marcus Thompson is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q1 are projected at $133,717. This
+is 5% higher than last quarter due to the WebhookDispatcher infrastructure
+investment and the Sydney office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Cheers,
+Ananya

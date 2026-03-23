@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-10-25 11:05 PM
+Subject: Event planning â€” Enterprise Suite webinar on Thursday, December 12
+
+Hi all,
+
+Finalizing details for the Enterprise Suite webinar on Thursday, December 12. Here's where we stand on
+the logistics and promotion.
+
+Content: Ravi Patel from Product will present the ReportingEngine roadmap segment.
+I'll handle the intro and customer story. We're targeting a 84-minute
+presentation followed by 137ms minutes of live Q&A. The logging pipeline demo
+segment should be the highlight.
+
+Registration: we've had 209ms sign-ups so far. Goal is 137ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Enterprise Suite keywords.
+
+Tech setup: using the standard webinar platform. Ravi Patel will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Thursday, December 12 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 84 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Talk soon,
+Sofia

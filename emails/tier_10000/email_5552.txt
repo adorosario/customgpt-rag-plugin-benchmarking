@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-09-10 08:00 PM
+Subject: New lead â€” Soylent Corp inbound request
+
+Hey everyone,
+
+We received an inbound request from Soylent Corp through the website today. They're
+a 131-employee company in the NotificationEngine space and are looking for a
+Cloud Connect solution.
+
+Initial qualification: they have budget allocated for Q4, their current
+contract with their existing vendor expires on Tuesday, July 15, and the decision maker is
+their VP of Operations. They found us through the event bus whitepaper we
+published last month.
+
+The estimated deal size is $124,878 based on their seat count and the use case
+they described. They specifically mentioned needing the NotificationEngine integration
+and 96ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Yuki Sato â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on event bus scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Thanks,
+Hannah

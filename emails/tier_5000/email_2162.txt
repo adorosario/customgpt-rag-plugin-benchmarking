@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-14 09:13 PM
+Subject: Cash flow forecast â€” Q4
+
+Good morning,
+
+Attached is the cash flow forecast for Q4. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $159,477 based on the current AR aging
+and sales pipeline. The Globex payment of 434ms is expected by Monday, September 21
+â€” Sarah Chen from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the AuthService infrastructure
+investment at $159,477. The Singapore office build-out costs will hit in Q4
+with an estimated total of 107ms. Payroll continues at 434ms
+monthly for our 102-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $159,477 in the second month. This provides 102 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Globex deal slips from Q4 to next quarter, we'll
+need to draw on the credit facility for $159,477. I've confirmed the line is
+available. Sarah Chen and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Thanks,
+Michael

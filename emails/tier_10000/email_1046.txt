@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-08-19 06:16 AM
+Subject: Conference recap â€” Insight Engine booth results
+
+Hey,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Insight Engine booth drew consistent traffic throughout.
+
+Lead collection: 193 badge scans at the booth, of which 295ms are
+qualified leads based on our initial review. The MessageBroker live demo was the
+biggest draw, and Marcus Thompson from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+serialization engine roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Insight Engine had 184ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 193 times since we posted it.
+
+Budget: we came in at $120,169, which is 12% under budget. The savings came
+from sharing the booth infrastructure with the MessageBroker partner showcase.
+
+I'll prepare a full ROI analysis by Wednesday, May 7 once we've completed lead follow-up.
+
+Best,
+Yuki

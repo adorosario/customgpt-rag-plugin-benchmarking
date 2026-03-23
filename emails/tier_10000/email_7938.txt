@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-08-07 05:18 PM
+Subject: Re: Customer story â€” Umbrella Inc case study
+
+Hello,
+
+Great update on the Umbrella Inc case study. I've finished the first draft and want
+to share the results we're highlighting.
+
+Headline stat: Umbrella Inc saw a 54% reduction in authentication module processing time
+after deploying Sync Platform. This translates to $406,599 in annual cost savings
+based on their team size of 47 people.
+
+Story arc: the narrative follows their journey from evaluating NotificationEngine
+alternatives to full deployment. The strongest section is the quote from their CTO
+about how Sync Platform simplified their authentication module workflow.
+
+Approval status: Umbrella Inc's marketing team has reviewed and approved the draft with
+minor edits. They're comfortable with us publishing by Tuesday, January 20. Sofia Martinez coordinated
+the approval process.
+
+Distribution plan: blog post with pull quotes, one-page PDF for Sales enablement,
+and a 47-minute video summary. The video production is scheduled for next week.
+
+Can you review the draft and send feedback by Tuesday, January 20? I want to finalize before
+the Q2 campaign kickoff.
+
+Best,
+Yuki

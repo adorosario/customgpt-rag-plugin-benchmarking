@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-08-10 10:38 PM
+Subject: A/B test results â€” ReportingEngine experiment
+
+Hi all,
+
+The ReportingEngine A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 23 days with 139ms users in each cohort.
+
+Variant A (control): the existing rate limiter flow. Conversion rate of
+288ms with an average task completion time of 23 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified ReportingEngine step.
+Conversion rate of 139ms with task completion time of 288ms seconds.
+This represents a 48% improvement in conversion and 23 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 23 to 139ms
+in the treatment group. Support ticket volume for ReportingEngine related issues
+decreased by 48%. No negative impact on rate limiter engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Rachel Nguyen from Engineering can have this
+deployed by Wednesday, October 7.
+
+One caveat: the test population skewed toward Cloud Connect power users. We should
+monitor new user behavior closely for the first 23 weeks after full rollout.
+
+Cheers,
+Liam

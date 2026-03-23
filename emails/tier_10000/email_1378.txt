@@ -1,0 +1,35 @@
+From: liam.foster@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-30 06:52 AM
+Subject: Re: Insight Engine metrics review â€” Q1
+
+Good afternoon,
+
+Here are the Insight Engine metrics for Q1. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 122 monthly active users, up 47% quarter over quarter. The
+APIGateway feature launch drove a spike in activation â€” 369ms new users
+tried it in the first week. Retention for APIGateway users is 83ms
+at 30 days versus 122 percent for non-users.
+
+Engagement: average session duration is 122 minutes. The config manager workflow
+sees the highest engagement with users spending 83ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 369ms features
+per session on average, up from 122 last quarter.
+
+Revenue metrics: Insight Engine ARR is at $204,723 with 47% growth quarter over
+quarter. Net revenue retention is 83ms driven by APIGateway upsells.
+122 customers expanded their contracts this quarter, with James Oduya from Sales
+leading the expansion conversations.
+
+Areas of concern: the config manager onboarding funnel has a 47% drop-off at
+step 122. I've scheduled a design sprint for next week to address this.
+Support ticket volume for APIGateway increased 122 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Thanks,
+Liam

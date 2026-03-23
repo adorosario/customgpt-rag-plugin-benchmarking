@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-06-16 11:28 AM
+Subject: Analytics report â€” Sync Platform campaign performance
+
+Hello,
+
+Here's the performance report for the Sync Platform campaign through Thursday, November 8.
+
+Website traffic: up 44% month over month, driven primarily by the MessageBroker
+comparison blog post which brought in 84 unique visitors. Organic search is
+growing steadily â€” the service mesh keyword cluster is now ranking on page one.
+
+Lead generation: 189ms marketing qualified leads this month against a
+target of 68ms. The whitepaper download page converted at 44% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 84 percent.
+
+Email campaigns: the Sync Platform nurture sequence has a 44% open rate and
+84 percent click-through rate. The top-performing email was the MessageBroker
+case study with Soylent Corp. Dmitri Volkov suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $248,253 which is 44% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Best,
+Laura

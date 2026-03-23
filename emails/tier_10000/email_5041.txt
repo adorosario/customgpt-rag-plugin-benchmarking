@@ -1,0 +1,33 @@
+From: laura.kim@acmecorp.com
+To: aisha.okafor@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-08-26 02:35 AM
+Subject: SEO update â€” MessageBroker keyword rankings
+
+Hey,
+
+Monthly SEO update for our MessageBroker content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Enterprise Suite comparison page climbed from position 465ms to
+position 416ms for our primary keyword. The service mesh guide is now
+ranking in the top 39 for three long-tail variations.
+
+Traffic impact: organic sessions are up 29% month over month. The
+MessageBroker cluster is now driving 39 unique sessions monthly, making it our
+second-highest traffic source behind the Enterprise Suite landing page.
+
+Content gaps identified: we're missing content for 465ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q1. Aisha Okafor from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 416ms on mobile after the image
+optimization work. No crawl errors detected. The new service mesh documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 39 pages. I'll share the
+outreach plan next week.
+
+Regards,
+Laura

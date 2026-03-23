@@ -1,0 +1,28 @@
+From: derek.morrison@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-08-07 07:52 AM
+Subject: New lead â€” Stark Industries inbound request
+
+Hi,
+
+We received an inbound request from Stark Industries through the website today. They're
+a 94-employee company in the AnalyticsDashboard space and are looking for a
+Cloud Connect solution.
+
+Initial qualification: they have budget allocated for Q2, their current
+contract with their existing vendor expires on Friday, February 7, and the decision maker is
+their VP of Operations. They found us through the metrics collector whitepaper we
+published last month.
+
+The estimated deal size is $443,170 based on their seat count and the use case
+they described. They specifically mentioned needing the AnalyticsDashboard integration
+and 459ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Maria Santos â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on metrics collector scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Best,
+Derek

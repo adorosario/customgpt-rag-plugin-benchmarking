@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-08-31 02:30 PM
+Subject: Customer feedback digest â€” Enterprise Suite Q1
+
+Good morning,
+
+Here's the quarterly customer feedback digest for Enterprise Suite. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 153, up 72ms points from last quarter. The improvement
+is driven by the NotificationEngine launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 26%.
+
+Top feature requests: NotificationEngine advanced filtering (153 votes), load balancer
+bulk operations (72ms votes), and enhanced Enterprise Suite reporting (107ms
+votes). The filtering request aligns with what we heard in the user research study
+Yuki Sato conducted.
+
+Top complaints: NotificationEngine performance during peak hours (153 mentions),
+the load balancer onboarding experience (72ms mentions), and pricing
+transparency (107ms mentions). The performance issue is being addressed
+by Engineering â€” Yuki Sato expects the fix in v1.9.5.
+
+Churn insights: 153 customers churned this quarter citing NotificationEngine
+limitations as the primary reason. The load balancer overhaul on our roadmap directly
+addresses their feedback. 26% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Thursday, April 20.
+
+Best regards,
+Mei

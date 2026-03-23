@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-09-09 11:03 PM
+Subject: Event planning â€” Cloud Connect webinar on Friday, February 19
+
+Hi team,
+
+Finalizing details for the Cloud Connect webinar on Friday, February 19. Here's where we stand on
+the logistics and promotion.
+
+Content: David Okonkwo from Product will present the AuthService roadmap segment.
+I'll handle the intro and customer story. We're targeting a 147-minute
+presentation followed by 402ms minutes of live Q&A. The config manager demo
+segment should be the highlight.
+
+Registration: we've had 216ms sign-ups so far. Goal is 402ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Cloud Connect keywords.
+
+Tech setup: using the standard webinar platform. David Okonkwo will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Friday, February 19 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 147 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Cheers,
+Sofia

@@ -1,0 +1,32 @@
+From: fatima.al-rashid@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-09-25 04:30 AM
+Subject: D&I initiative update â€” Q2
+
+Hi all,
+
+Here's the quarterly update on our Diversity and Inclusion initiatives. We're
+making meaningful progress on the goals set at the beginning of the year.
+
+Hiring diversity: 24% of candidates in our pipeline this quarter came from
+underrepresented backgrounds, up from 96 percent last quarter. The
+partnership with Weyland-Yutani job board has been a strong contributor. Rachel Nguyen has
+been leading the sourcing strategy.
+
+ERG activity: the WebhookDispatcher employee resource group hosted 96 events
+this quarter with an average attendance of 109ms employees. The mentorship
+circles launched in Q2 have paired 333ms mentors with mentees
+across Product departments.
+
+Training: 24% of managers have completed the inclusive leadership training
+program. We're on track to reach 96 percent completion by Tuesday, January 17. The
+feedback ratings average 333ms out of 5.
+
+Compensation equity: the annual pay equity audit is scheduled for Tuesday, January 17. We'll
+be reviewing compensation data across 96 dimensions to identify and
+address any gaps.
+
+Full report will be shared at the next all-hands meeting.
+
+Best,
+Fatima

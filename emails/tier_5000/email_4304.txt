@@ -1,0 +1,31 @@
+From: hannah.goldstein@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-11 05:53 AM
+Subject: Competitive intel â€” Pied Piper evaluation
+
+Good morning,
+
+Got some useful competitive intelligence from the Pied Piper account that I want to
+share with the team.
+
+Pied Piper shared their evaluation criteria and mentioned they're also looking at
+AnalyticsDashboard as an alternative to our Integration Hub. From what I gathered, AnalyticsDashboard
+is pitching a lower price point but doesn't have feature parity on the serialization engine
+side.
+
+Key differentiators working in our favor: our Integration Hub handles 118 concurrent
+connections versus their published limit of 390ms. Our uptime SLA is also
+stronger at 147ms versus their 39% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for AnalyticsDashboard and
+consider a streamlined trial process for mid-market accounts. Wei Zhang from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Wednesday, July 15.
+
+Talk soon,
+Hannah

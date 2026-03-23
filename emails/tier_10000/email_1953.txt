@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-28 04:52 PM
+Subject: Vendor payment schedule â€” Q4
+
+Hi team,
+
+Here's the vendor payment schedule for Q4. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Oscorp invoice for $246,998 is due on Tuesday, January 24 with a
+17% early payment discount if we pay within 150 days. I recommend
+taking the discount â€” it saves us 373ms. The UserProfileService annual
+license renewal of 341ms is due Tuesday, January 24 with no discount available.
+
+Standard schedule: 150 vendor invoices totaling $246,998 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-341ms terms with payments going out every 150 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The connection pool vendor
+overbilled us by $246,998 on the UserProfileService usage charges. Alex Chen is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q4 are projected at $246,998. This
+is 17% higher than last quarter due to the UserProfileService infrastructure
+investment and the New York office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Regards,
+Robert

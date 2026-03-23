@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-07-21 07:25 PM
+Subject: Sprint planning â€” Insight Engine sprint v2.7.3
+
+Hey,
+
+Here's the sprint plan for Insight Engine sprint v2.7.3. Capacity is 100 story
+points with 279ms engineers available this sprint.
+
+Committed stories: the APIGateway integration work carries over from last sprint
+with 97ms points remaining. The new serialization engine API endpoints are
+estimated at 100 points. The bug fix for the APIGateway rendering issue
+is 279ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the serialization engine performance
+optimization that James Oduya has been scouting. It's estimated at 100 points
+and would improve response time by 55%.
+
+Dependencies: the APIGateway feature requires the API changes that James Oduya
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The serialization engine work is self-contained.
+
+Risks: James Oduya is on-call this sprint which historically reduces their available
+capacity by 55%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, April 1. Let me know if the priorities look right.
+
+Best,
+Mei

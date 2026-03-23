@@ -1,0 +1,28 @@
+From: marcus.thompson@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-09-23 08:15 AM
+Subject: Re: AuthService â€” tech debt prioritization
+
+Good afternoon,
+
+Following up on the tech debt discussion from yesterday's sprint planning. I've
+categorized the outstanding items for AuthService into three tiers based on risk
+and effort.
+
+High priority: the deprecated service mesh dependency needs to be replaced before
+Tuesday, April 28 when upstream support ends. This is roughly a 129 effort and Grace Mwangi
+has volunteered to own it.
+
+Medium priority: the test coverage gap in the AuthService integration layer. We're
+at 428ms coverage but our target is 123ms. Filling this gap would
+have caught the regression we saw last sprint.
+
+Low priority: the logging format standardization. It's annoying but not blocking
+anything. I'd suggest we tackle it opportunistically when someone is already
+touching those files.
+
+My proposal is to allocate 18% of next sprint's capacity to the high-priority
+item. Thoughts?
+
+Cheers,
+Marcus

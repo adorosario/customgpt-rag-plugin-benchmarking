@@ -1,0 +1,30 @@
+From: michael.brennan@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-16 05:52 AM
+Subject: Re: Expense report flagged â€” PaymentGateway charges
+
+Hey everyone,
+
+I noticed some items on the PaymentGateway expense report submitted by Daniel Park
+that need clarification before I can approve them.
+
+The event bus subscription charge of $50,243 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+153ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Cyberdyne dinner on Wednesday, March 3 for $50,243 exceeds our per-person meal
+reimbursement limit of 153ms. If this was a client entertainment expense,
+it should be coded to the client development budget under PaymentGateway rather than
+general T&E. 44 attendees at that amount puts us at 249ms per
+person which is within the client entertainment policy.
+
+The remaining 44 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 153ms business days after approval.
+
+Please resubmit with the corrections by Wednesday, March 3 so we can keep things on track.
+
+Best,
+Michael

@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-08-07 12:04 AM
+Subject: Financial close checklist â€” Q2
+
+Hi,
+
+The Q2 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Insight Engine invoices must be issued by Friday, November 13. Any revenue recognition
+adjustments for the MessageBroker contracts need supporting documentation uploaded
+to load balancer. Amara Diallo from Sales must confirm final deal amounts by August 16.
+
+Expenses: all expense reports for Q2 must be submitted by Friday, November 13. The
+MessageBroker vendor invoices totaling $233,065 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, MessageBroker subscription costs,
+and the load balancer usage charges by Friday, November 13. Any non-standard accruals above
+58ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, MessageBroker account reconciliation, and
+inter-company balances must be completed by Friday, November 13. Amara Diallo is handling the
+bank rec. I'll take the inter-company items since they involve the Tokyo entity.
+
+Target: books closed within 191 business days of quarter end. Final reporting
+package to leadership by Friday, November 13.
+
+Best,
+Robert

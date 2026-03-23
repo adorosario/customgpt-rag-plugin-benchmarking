@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-17 03:58 AM
+Subject: A/B test results â€” APIGateway experiment
+
+Hey,
+
+The APIGateway A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 104 days with 107ms users in each cohort.
+
+Variant A (control): the existing connection pool flow. Conversion rate of
+314ms with an average task completion time of 104 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified APIGateway step.
+Conversion rate of 107ms with task completion time of 314ms seconds.
+This represents a 40% improvement in conversion and 104 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 104 to 107ms
+in the treatment group. Support ticket volume for APIGateway related issues
+decreased by 40%. No negative impact on connection pool engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Grace Mwangi from Engineering can have this
+deployed by Friday, November 4.
+
+One caveat: the test population skewed toward Insight Engine power users. We should
+monitor new user behavior closely for the first 104 weeks after full rollout.
+
+Cheers,
+Mei

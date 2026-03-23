@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-11-24 06:51 AM
+Subject: Re: User research findings â€” UserProfileService
+
+Hey,
+
+Sharing the findings from the UserProfileService user research study. We interviewed
+108 users and ran usability tests with 76ms participants over the
+last two weeks.
+
+Key insight 1: users find the caching layer workflow confusing â€” 32% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between UserProfileService and the main Cloud Connect dashboard.
+
+Key insight 2: power users want more UserProfileService customization options. They're
+currently using workarounds that involve 108 extra steps. The most requested
+feature is the ability to create custom caching layer templates.
+
+Key insight 3: new users consistently miss the UserProfileService feature entirely.
+Discovery is poor â€” only 32% of new users try the feature within their first
+108 days. Daniel Park suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the caching layer navigation flow, add the template
+feature to the Q3 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 32% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Thanks,
+Liam

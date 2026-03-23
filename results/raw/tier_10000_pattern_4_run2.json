@@ -1,0 +1,21 @@
+{
+  "tier": 10000,
+  "question_id": "pattern_4",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What are the plans for the annual company retreat?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about company retreat plans. That kind of organizational detail wouldn't be stored in your project memory or codebase.\n\nYou might want to check:\n- Your company's internal communication channels (Slack, email, etc.)\n- Google Calendar or any shared calendars\n- HR or management directly\n\nIs there something else I can help you with?",
+  "time_seconds": 17.65,
+  "num_turns": 1,
+  "cost_usd": 0.0490962,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10872,
+  "cache_read_tokens": 17324,
+  "output_tokens": 208,
+  "total_tokens": 28407,
+  "duration_api_ms": 5659,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

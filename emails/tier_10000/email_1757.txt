@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-11-12 02:36 PM
+Subject: Tax planning â€” Q1 estimated payments
+
+Hey,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the SearchIndex investment
+deductions.
+
+Federal estimate: $75,922 based on projected taxable income of 172ms.
+This reflects the SearchIndex depreciation deductions and the R&D tax credit for
+the Analytics Pro development costs. Liam Foster from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $75,922 for our primary jurisdiction and 143ms for the
+Tokyo office based on the apportionment factors. The Tokyo rate change that
+takes effect on Thursday, March 12 will impact our Q1 estimate by approximately 93
+percent.
+
+International: with the Tokyo office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Liam Foster to handle
+the registration. Setup cost is $75,922 with ongoing compliance costs of
+143ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Thursday, March 12. I'll prepare the
+payment authorization for your signature by June 11. Underpayment penalties
+start at 29% so timely filing is important.
+
+Thanks,
+Michael

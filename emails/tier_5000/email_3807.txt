@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-10 01:16 AM
+Subject: Sprint planning â€” Integration Hub sprint v3.8.1
+
+Good afternoon,
+
+Here's the sprint plan for Integration Hub sprint v3.8.1. Capacity is 109 story
+points with 160ms engineers available this sprint.
+
+Committed stories: the DataPipeline integration work carries over from last sprint
+with 394ms points remaining. The new caching layer API endpoints are
+estimated at 109 points. The bug fix for the DataPipeline rendering issue
+is 160ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the caching layer performance
+optimization that Fatima Al-Rashid has been scouting. It's estimated at 109 points
+and would improve response time by 47%.
+
+Dependencies: the DataPipeline feature requires the API changes that Fatima Al-Rashid
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The caching layer work is self-contained.
+
+Risks: Fatima Al-Rashid is on-call this sprint which historically reduces their available
+capacity by 47%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Tuesday, December 9. Let me know if the priorities look right.
+
+Best regards,
+Liam

@@ -1,0 +1,30 @@
+From: patrick.obrien@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-10-23 02:37 PM
+Subject: Team event recap â€” SearchIndex outing
+
+Good afternoon,
+
+Thanks to everyone who joined the SearchIndex team outing last week. We had great
+turnout with 159 employees attending.
+
+Highlights: the team building exercise was a hit â€” the config manager challenge had
+teams competing in creative problem-solving rounds. The winning team led by
+Carlos Rivera finished in just 181ms minutes. The group dinner afterward was a
+great opportunity for cross-team connections.
+
+Feedback: the post-event survey came back overwhelmingly positive with a 32%
+satisfaction rating. Most popular suggestion for next time: more outdoor activities.
+Several people asked about doing quarterly events instead of 159 per year.
+
+Budget: total cost was $290,106, coming in at 393ms per person including
+venue, catering, and activities. This is within our social budget for Q3.
+
+Photos are uploaded to the shared album in the config manager drive. Please tag
+yourselves and share appropriate photos on social media if you'd like â€” our
+marketing team loves this content for the company page.
+
+Planning for the next event starts in Q3. Ideas welcome.
+
+Regards,
+Patrick

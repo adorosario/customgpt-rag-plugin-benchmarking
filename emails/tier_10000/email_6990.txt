@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-10-23 09:47 AM
+Subject: Tax planning â€” Q2 estimated payments
+
+Hello,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the SchedulerService investment
+deductions.
+
+Federal estimate: $233,049 based on projected taxable income of 180ms.
+This reflects the SchedulerService depreciation deductions and the R&D tax credit for
+the Integration Hub development costs. Jun Tanaka from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $233,049 for our primary jurisdiction and 442ms for the
+New York office based on the apportionment factors. The New York rate change that
+takes effect on Tuesday, September 15 will impact our Q2 estimate by approximately 199
+percent.
+
+International: with the New York office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Jun Tanaka to handle
+the registration. Setup cost is $233,049 with ongoing compliance costs of
+442ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Tuesday, September 15. I'll prepare the
+payment authorization for your signature by August 15. Underpayment penalties
+start at 60% so timely filing is important.
+
+Best regards,
+Michael

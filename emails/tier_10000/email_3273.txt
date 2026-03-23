@@ -1,0 +1,30 @@
+From: aisha.okafor@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-08-02 04:52 PM
+Subject: Competitive intel â€” Umbrella Inc evaluation
+
+Hi,
+
+Got some useful competitive intelligence from the Umbrella Inc account that I want to
+share with the team.
+
+Umbrella Inc shared their evaluation criteria and mentioned they're also looking at
+ReportingEngine as an alternative to our Sync Platform. From what I gathered, ReportingEngine
+is pitching a lower price point but doesn't have feature parity on the logging pipeline
+side.
+
+Key differentiators working in our favor: our Sync Platform handles 131 concurrent
+connections versus their published limit of 334ms. Our uptime SLA is also
+stronger at 361ms versus their 5% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for ReportingEngine and
+consider a streamlined trial process for mid-market accounts. Mei Lin from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Wednesday, May 27.
+
+Best,
+Aisha

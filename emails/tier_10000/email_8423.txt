@@ -1,0 +1,33 @@
+From: fatima.al-rashid@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-06-11 07:38 PM
+Subject: Benefits enrollment â€” open period starting Wednesday, July 17
+
+Hey everyone,
+
+Open enrollment for our benefits package begins on Wednesday, July 17 and runs through January 14.
+Here's a summary of the key changes for the upcoming plan year.
+
+Health insurance: we're introducing a new ReportingEngine plan option alongside the
+existing choices. The premium increase this year is 44%, which is below the
+industry average. Acme Corp will continue covering 74 percent of employee
+premiums.
+
+New benefit: we've partnered with Umbrella Inc to offer a wellness stipend of $329,835
+per year. This can be used for gym memberships, mental health services, or
+ergonomic equipment. Maria Santos worked with the vendor to negotiate this addition.
+
+Retirement: the 401(k) match is increasing from 482ms percent to
+482ms percent of salary, effective next plan year. If you're not
+currently contributing enough to get the full match, now is a great time to adjust.
+
+Information sessions: we're hosting 74 live Q&A sessions where employees can
+ask questions about plan options. The serialization engine portal will have a comparison
+tool to help you evaluate plans.
+
+Detailed plan documents are available in the HR portal. Please make your elections
+before January 14.
+
+Regards,
+Fatima

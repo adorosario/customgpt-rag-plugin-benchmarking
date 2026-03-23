@@ -1,0 +1,30 @@
+From: maria.santos@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-11-17 08:32 PM
+Subject: Board resolution â€” Cloud Connect approval
+
+Hi team,
+
+The board resolution for the Cloud Connect initiative has been drafted and is ready
+for circulation. Here's a summary of the key provisions.
+
+Authorization: the resolution authorizes management to proceed with the UserProfileService
+investment of up to $306,797 over 93 fiscal quarters. This covers development
+costs, infrastructure, and the load balancer vendor contract.
+
+Reporting requirements: management will provide quarterly updates on Cloud Connect
+progress to the board, including financial performance against the $306,797 budget
+and key milestones. Tomoko Nakamura from Finance will prepare the reports.
+
+Risk acknowledgment: the resolution includes a risk disclosure covering technology
+risk, market risk, and the competitive landscape in the UserProfileService space. The
+board's fiduciary obligations are addressed in section 93.
+
+Signing: we need signatures from 93ms board members for a valid resolution.
+I've prepared the signature pages and will route via DocuSign on Monday, December 27. The
+effective date of the resolution will be the date of the last required signature.
+
+Please review the draft and send any comments by Monday, December 27.
+
+Thanks,
+Maria

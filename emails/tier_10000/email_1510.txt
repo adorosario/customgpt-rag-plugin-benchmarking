@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-22 10:23 PM
+Subject: Financial close checklist â€” Q1
+
+Hello,
+
+The Q1 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Analytics Pro invoices must be issued by Thursday, October 7. Any revenue recognition
+adjustments for the WebhookDispatcher contracts need supporting documentation uploaded
+to serialization engine. Kwame Asante from Sales must confirm final deal amounts by January 26.
+
+Expenses: all expense reports for Q1 must be submitted by Thursday, October 7. The
+WebhookDispatcher vendor invoices totaling $451,910 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, WebhookDispatcher subscription costs,
+and the serialization engine usage charges by Thursday, October 7. Any non-standard accruals above
+70ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, WebhookDispatcher account reconciliation, and
+inter-company balances must be completed by Thursday, October 7. Kwame Asante is handling the
+bank rec. I'll take the inter-company items since they involve the Berlin entity.
+
+Target: books closed within 39 business days of quarter end. Final reporting
+package to leadership by Thursday, October 7.
+
+Talk soon,
+Grace

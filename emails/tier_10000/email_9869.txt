@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-06-21 01:29 PM
+Subject: Cash flow forecast â€” Q4
+
+Hi team,
+
+Attached is the cash flow forecast for Q4. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $477,819 based on the current AR aging
+and sales pipeline. The Cyberdyne payment of 466ms is expected by Monday, May 1
+â€” Priya Sharma from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the UserProfileService infrastructure
+investment at $477,819. The London office build-out costs will hit in Q4
+with an estimated total of 415ms. Payroll continues at 466ms
+monthly for our 129-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $477,819 in the second month. This provides 129 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Cyberdyne deal slips from Q4 to next quarter, we'll
+need to draw on the credit facility for $477,819. I've confirmed the line is
+available. Priya Sharma and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Regards,
+Grace

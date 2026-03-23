@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: aisha.okafor@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-21 05:37 AM
+Subject: Audit preparation â€” Q3 review
+
+Hi,
+
+The Q3 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Umbrella Inc are scheduled to begin fieldwork
+on Thursday, September 17.
+
+Documentation needed from each department: all purchase orders above 458ms,
+contract modifications executed during Q3, headcount changes with supporting
+approvals, and AuditLog system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the caching layer audit portal by Thursday, September 17.
+That gives us 30 business days before the auditors arrive. Sofia Martinez has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Data Vault contracts, the AuditLog capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $471,291 in capitalized AuditLog costs and the methodology used.
+
+This is our 30 year with Umbrella Inc as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Sofia Martinez if you have
+questions about what's needed.
+
+Thanks,
+Robert

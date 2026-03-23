@@ -1,0 +1,34 @@
+From: maria.santos@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-11-18 08:47 AM
+Subject: Insurance renewal â€” Q4 review
+
+Hello,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Soylent Corp has offered a renewal at $84,874 per year, which is a
+55% increase from last year. Coverage limits remain the same at 98ms
+for general liability and 270ms for the PaymentGateway professional liability
+policy.
+
+Alternative quotes: I obtained 100 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 55% discount, but they
+have a 270ms-day waiting period for event bus claims that our current
+policy doesn't have.
+
+Recommendation: stay with Soylent Corp and negotiate the premium increase down to
+55%. Their claims experience is strong â€” they processed our PaymentGateway
+claim in 100 business days last year. Robert Kimura from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+270ms to $84,874 given the growth in Integration Hub customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Friday, April 21 to avoid a coverage lapse. Let me know your preference.
+
+Cheers,
+Maria

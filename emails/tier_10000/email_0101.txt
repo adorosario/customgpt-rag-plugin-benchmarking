@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-11-29 09:06 PM
+Subject: Tax planning â€” Q4 estimated payments
+
+Hi all,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the FileStorageService investment
+deductions.
+
+Federal estimate: $261,351 based on projected taxable income of 275ms.
+This reflects the FileStorageService depreciation deductions and the R&D tax credit for
+the Data Vault development costs. Oluwaseun Adeyemi from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $261,351 for our primary jurisdiction and 109ms for the
+Toronto office based on the apportionment factors. The Toronto rate change that
+takes effect on Tuesday, July 11 will impact our Q4 estimate by approximately 50
+percent.
+
+International: with the Toronto office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Oluwaseun Adeyemi to handle
+the registration. Setup cost is $261,351 with ongoing compliance costs of
+109ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Tuesday, July 11. I'll prepare the
+payment authorization for your signature by July 20. Underpayment penalties
+start at 26% so timely filing is important.
+
+Regards,
+Grace

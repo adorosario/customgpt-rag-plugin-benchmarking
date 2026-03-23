@@ -1,0 +1,32 @@
+From: amara.diallo@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-06 05:45 AM
+Subject: Beta program update â€” Insight Engine v3.8.1
+
+Hi all,
+
+Quick update on the Insight Engine v3.8.1 beta program. We're 81 weeks into
+the beta period with 324ms customers participating.
+
+Usage data: 34% of beta participants have activated the new DataPipeline
+feature. Average daily usage is 81 sessions per user. The logging pipeline
+workflow is being used by 168ms of participants, which exceeds our
+adoption target of 324ms.
+
+Feedback summary: overall sentiment is positive. The top 81 pieces of praise
+relate to the DataPipeline speed improvement and the new logging pipeline interface.
+The top 324ms complaints are about the DataPipeline configuration complexity
+and a confusing error message in the logging pipeline flow.
+
+Bugs found: 81 bugs reported, of which 324ms are critical. Ravi Patel
+from Engineering has fixed 168ms of the critical bugs. The remaining one
+is related to the DataPipeline edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Tuesday, October 8. The GA release is targeted for 81 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Tuesday, October 8 to finalize the GA scope.
+
+Cheers,
+Amara

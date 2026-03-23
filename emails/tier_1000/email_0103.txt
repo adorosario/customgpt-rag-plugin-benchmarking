@@ -1,0 +1,29 @@
+From: ananya.desai@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-09-03 07:55 AM
+Subject: Re: Expense report flagged â€” FileStorageService charges
+
+Hey everyone,
+
+I noticed some items on the FileStorageService expense report submitted by Aisha Okafor
+that need clarification before I can approve them.
+
+The rate limiter subscription charge of $279,316 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+144ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Umbrella Inc dinner on Friday, September 21 for $279,316 exceeds our per-person meal
+reimbursement limit of 144ms. If this was a client entertainment expense,
+it should be coded to the client development budget under FileStorageService rather than
+general T&E. 180 attendees at that amount puts us at 302ms per
+person which is within the client entertainment policy.
+
+The remaining 180 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 144ms business days after approval.
+
+Please resubmit with the corrections by Friday, September 21 so we can keep things on track.
+
+Best regards,
+Ananya

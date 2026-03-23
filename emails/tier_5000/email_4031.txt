@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-07-20 06:00 AM
+Subject: Customer feedback digest â€” Analytics Pro Q1
+
+Hi team,
+
+Here's the quarterly customer feedback digest for Analytics Pro. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 76, up 142ms points from last quarter. The improvement
+is driven by the APIGateway launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 23%.
+
+Top feature requests: APIGateway advanced filtering (76 votes), event bus
+bulk operations (142ms votes), and enhanced Analytics Pro reporting (289ms
+votes). The filtering request aligns with what we heard in the user research study
+Kwame Asante conducted.
+
+Top complaints: APIGateway performance during peak hours (76 mentions),
+the event bus onboarding experience (142ms mentions), and pricing
+transparency (289ms mentions). The performance issue is being addressed
+by Engineering â€” Kwame Asante expects the fix in v4.1.0.
+
+Churn insights: 76 customers churned this quarter citing APIGateway
+limitations as the primary reason. The event bus overhaul on our roadmap directly
+addresses their feedback. 23% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Monday, April 16.
+
+Thanks,
+Sanjay

@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-07-04 03:38 PM
+Subject: Financial close checklist â€” Q3
+
+Good afternoon,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Insight Engine invoices must be issued by Monday, October 27. Any revenue recognition
+adjustments for the AuthService contracts need supporting documentation uploaded
+to load balancer. Priya Sharma from Sales must confirm final deal amounts by November 1.
+
+Expenses: all expense reports for Q3 must be submitted by Monday, October 27. The
+AuthService vendor invoices totaling $216,966 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, AuthService subscription costs,
+and the load balancer usage charges by Monday, October 27. Any non-standard accruals above
+404ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, AuthService account reconciliation, and
+inter-company balances must be completed by Monday, October 27. Priya Sharma is handling the
+bank rec. I'll take the inter-company items since they involve the Sydney entity.
+
+Target: books closed within 111 business days of quarter end. Final reporting
+package to leadership by Monday, October 27.
+
+Cheers,
+Robert

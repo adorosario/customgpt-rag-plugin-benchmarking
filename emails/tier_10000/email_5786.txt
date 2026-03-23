@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-10-14 02:39 PM
+Subject: Tax planning â€” Q3 estimated payments
+
+Hey,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the SearchIndex investment
+deductions.
+
+Federal estimate: $284,534 based on projected taxable income of 440ms.
+This reflects the SearchIndex depreciation deductions and the R&D tax credit for
+the Data Vault development costs. Carlos Rivera from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $284,534 for our primary jurisdiction and 289ms for the
+San Francisco office based on the apportionment factors. The San Francisco rate change that
+takes effect on Tuesday, November 5 will impact our Q3 estimate by approximately 129
+percent.
+
+International: with the San Francisco office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Carlos Rivera to handle
+the registration. Setup cost is $284,534 with ongoing compliance costs of
+289ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Tuesday, November 5. I'll prepare the
+payment authorization for your signature by July 10. Underpayment penalties
+start at 21% so timely filing is important.
+
+Best regards,
+Grace

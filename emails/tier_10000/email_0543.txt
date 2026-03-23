@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-08-05 11:39 PM
+Subject: Event planning â€” Enterprise Suite webinar on Friday, May 18
+
+Hey,
+
+Finalizing details for the Enterprise Suite webinar on Friday, May 18. Here's where we stand on
+the logistics and promotion.
+
+Content: Mei Lin from Product will present the AnalyticsDashboard roadmap segment.
+I'll handle the intro and customer story. We're targeting a 52-minute
+presentation followed by 87ms minutes of live Q&A. The service mesh demo
+segment should be the highlight.
+
+Registration: we've had 417ms sign-ups so far. Goal is 87ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Enterprise Suite keywords.
+
+Tech setup: using the standard webinar platform. Mei Lin will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Friday, May 18 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 52 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Talk soon,
+Yuki

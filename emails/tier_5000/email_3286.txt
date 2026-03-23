@@ -1,0 +1,31 @@
+From: patrick.obrien@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-06-19 08:33 PM
+Subject: Onboarding schedule â€” new hire starting Tuesday, December 28
+
+Hi,
+
+We have a new team member joining Marketing on Tuesday, December 28. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, UserProfileService systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Hannah Goldstein will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Integration Hub and the connection pool tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Tuesday, December 28. All software licenses including UserProfileService and connection pool access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 184 people to schedule intro meetings with, and first
+235ms-day goals. Please send these to Hannah Goldstein in People Ops.
+
+Welcome email goes out 184 days before start date.
+
+Best regards,
+Patrick

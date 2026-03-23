@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-07-02 11:35 PM
+Subject: Re: User research findings â€” APIGateway
+
+Hey,
+
+Sharing the findings from the APIGateway user research study. We interviewed
+69 users and ran usability tests with 497ms participants over the
+last two weeks.
+
+Key insight 1: users find the caching layer workflow confusing â€” 31% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between APIGateway and the main Cloud Connect dashboard.
+
+Key insight 2: power users want more APIGateway customization options. They're
+currently using workarounds that involve 69 extra steps. The most requested
+feature is the ability to create custom caching layer templates.
+
+Key insight 3: new users consistently miss the APIGateway feature entirely.
+Discovery is poor â€” only 31% of new users try the feature within their first
+69 days. James Oduya suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the caching layer navigation flow, add the template
+feature to the Q1 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 31% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Regards,
+Liam

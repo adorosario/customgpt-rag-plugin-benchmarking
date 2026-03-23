@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-10-29 10:09 PM
+Subject: Social media strategy â€” Q3
+
+Hi,
+
+Presenting the social media strategy refresh for Q3. Based on our Enterprise Suite
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our APIGateway posts are averaging 44 impressions and 10% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 10% educational content about queue processor topics, 44
+percent product highlights, and the rest for company culture and employee spotlights.
+Rachel Nguyen will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Enterprise Suite use cases and answer audience questions. First session on Wednesday, December 27 featuring
+Rachel Nguyen.
+
+Budget: $349,386 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 89ms new followers and 176ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Talk soon,
+James

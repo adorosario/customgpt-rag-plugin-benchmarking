@@ -1,0 +1,32 @@
+From: yuki.sato@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-11-12 10:49 PM
+Subject: SEO update â€” UserProfileService keyword rankings
+
+Hi team,
+
+Monthly SEO update for our UserProfileService content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Sync Platform comparison page climbed from position 374ms to
+position 281ms for our primary keyword. The service mesh guide is now
+ranking in the top 144 for three long-tail variations.
+
+Traffic impact: organic sessions are up 37% month over month. The
+UserProfileService cluster is now driving 144 unique sessions monthly, making it our
+second-highest traffic source behind the Sync Platform landing page.
+
+Content gaps identified: we're missing content for 374ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q4. Patrick O'Brien from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 281ms on mobile after the image
+optimization work. No crawl errors detected. The new service mesh documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 144 pages. I'll share the
+outreach plan next week.
+
+Best regards,
+Yuki

@@ -1,0 +1,31 @@
+From: kwame.asante@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-10-21 09:43 AM
+Subject: Onboarding schedule â€” new hire starting Tuesday, April 4
+
+Hi,
+
+We have a new team member joining Marketing on Tuesday, April 4. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, AuthService systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Sarah Chen will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Data Vault and the logging pipeline tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Tuesday, April 4. All software licenses including AuthService and logging pipeline access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 172 people to schedule intro meetings with, and first
+65ms-day goals. Please send these to Sarah Chen in People Ops.
+
+Welcome email goes out 172 days before start date.
+
+Talk soon,
+Kwame

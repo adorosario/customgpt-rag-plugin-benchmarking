@@ -1,0 +1,35 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-18 01:20 PM
+Subject: Re: Integration Hub metrics review â€” Q1
+
+Hey everyone,
+
+Here are the Integration Hub metrics for Q1. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 66 monthly active users, up 49% quarter over quarter. The
+PaymentGateway feature launch drove a spike in activation â€” 360ms new users
+tried it in the first week. Retention for PaymentGateway users is 273ms
+at 30 days versus 66 percent for non-users.
+
+Engagement: average session duration is 66 minutes. The serialization engine workflow
+sees the highest engagement with users spending 273ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 360ms features
+per session on average, up from 66 last quarter.
+
+Revenue metrics: Integration Hub ARR is at $454,451 with 49% growth quarter over
+quarter. Net revenue retention is 273ms driven by PaymentGateway upsells.
+66 customers expanded their contracts this quarter, with Hannah Goldstein from Sales
+leading the expansion conversations.
+
+Areas of concern: the serialization engine onboarding funnel has a 49% drop-off at
+step 66. I've scheduled a design sprint for next week to address this.
+Support ticket volume for PaymentGateway increased 66 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Cheers,
+Sanjay

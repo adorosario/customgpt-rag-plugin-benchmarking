@@ -1,0 +1,29 @@
+From: derek.morrison@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-11 07:43 PM
+Subject: New lead â€” Weyland-Yutani inbound request
+
+Hey,
+
+We received an inbound request from Weyland-Yutani through the website today. They're
+a 142-employee company in the ReportingEngine space and are looking for a
+Integration Hub solution.
+
+Initial qualification: they have budget allocated for Q2, their current
+contract with their existing vendor expires on Monday, May 2, and the decision maker is
+their VP of Operations. They found us through the logging pipeline whitepaper we
+published last month.
+
+The estimated deal size is $473,674 based on their seat count and the use case
+they described. They specifically mentioned needing the ReportingEngine integration
+and 327ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Patrick O'Brien â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on logging pipeline scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Best,
+Derek

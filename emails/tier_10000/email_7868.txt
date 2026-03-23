@@ -1,0 +1,34 @@
+From: mei.lin@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-10-03 02:05 PM
+Subject: Competitive analysis â€” AuditLog market update
+
+Hi,
+
+Sharing the latest competitive landscape analysis for the AuditLog market.
+Several developments this quarter that we should factor into our strategy.
+
+Wayne Enterprises released a major update to their AuditLog product. Key additions
+include logging pipeline support and a redesigned dashboard. Their pricing remains at
+$244,662 per seat which undercuts us by 18%. However, their enterprise
+features are still behind ours â€” no SSO, limited API access, and 213ms
+user cap on their standard plan.
+
+Market trends: the AuditLog category grew 18% year over year. Analyst
+reports are emphasizing logging pipeline capabilities as the key differentiator for
+enterprise buyers. Our Data Vault scores well on this dimension.
+
+Win/loss analysis: we won 58 of the last 213ms competitive deals.
+Primary win reasons: AuditLog depth and customer support quality. Primary loss
+reasons: price sensitivity and logging pipeline ease of use. Yuki Sato from Sales
+provided the deal-level data.
+
+Recommendations: accelerate the logging pipeline simplification effort on our roadmap,
+consider a mid-market pricing tier at $244,662 to compete on price, and publish
+more AuditLog comparison content for SEO.
+
+Full analysis is in the competitive intelligence folder. Let's discuss at the
+strategy meeting on Thursday, February 3.
+
+Regards,
+Mei

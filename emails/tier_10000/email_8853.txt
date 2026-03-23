@@ -1,0 +1,33 @@
+From: michael.brennan@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-18 11:31 PM
+Subject: Investment proposal â€” UserProfileService infrastructure
+
+Hey everyone,
+
+I've prepared the financial analysis for the proposed UserProfileService infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $443,083 upfront with 449ms in annual operating costs.
+The total 3-year cost of ownership is 448ms compared to the current
+load balancer setup at $443,083 over the same period.
+
+ROI analysis: the projected payback period is 39 months. Key benefits include
+36% reduction in infrastructure management time, improved Enterprise Suite performance
+that supports the revenue growth targets, and elimination of the load balancer
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $443,083 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 36% interest.
+This preserves cash for the New York office investment planned for Q3.
+
+Risk factors: technology lock-in with the UserProfileService vendor, though the 39-year
+contract includes an exit clause after the first year. Kwame Asante from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Wednesday, March 8 to lock in the quoted pricing. The vendor has
+given us a 39-day hold on the current rates.
+
+Regards,
+Michael

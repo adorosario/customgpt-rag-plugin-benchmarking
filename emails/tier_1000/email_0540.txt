@@ -1,0 +1,28 @@
+From: derek.morrison@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-06-16 02:01 PM
+Subject: Quarterly territory review â€” Q2
+
+Good morning,
+
+Here's my territory review for Q2. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 16 qualified opportunities worth a combined $421,539 in
+ARR. The largest deal is Globex at 92ms, which I expect to close by
+Friday, March 27. Three other deals in the 365ms range are progressing through
+procurement.
+
+Wins this quarter: closed Globex for Sync Platform with a 54% upsell from
+their initial scope. The authentication module add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Fatima Al-Rashid to the Globex executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Thanks,
+Derek

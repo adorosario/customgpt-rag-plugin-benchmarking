@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-08-09 08:16 PM
+Subject: Analytics report â€” Sync Platform campaign performance
+
+Hi team,
+
+Here's the performance report for the Sync Platform campaign through Thursday, July 13.
+
+Website traffic: up 18% month over month, driven primarily by the APIGateway
+comparison blog post which brought in 97 unique visitors. Organic search is
+growing steadily â€” the caching layer keyword cluster is now ranking on page one.
+
+Lead generation: 124ms marketing qualified leads this month against a
+target of 357ms. The whitepaper download page converted at 18% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 97 percent.
+
+Email campaigns: the Sync Platform nurture sequence has a 18% open rate and
+97 percent click-through rate. The top-performing email was the APIGateway
+case study with Umbrella Inc. Daniel Park suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $327,395 which is 18% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Best,
+Laura

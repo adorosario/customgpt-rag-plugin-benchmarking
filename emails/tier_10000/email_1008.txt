@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-07-31 01:24 PM
+Subject: Conference recap â€” Insight Engine booth results
+
+Good afternoon,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Insight Engine booth drew consistent traffic throughout.
+
+Lead collection: 70 badge scans at the booth, of which 156ms are
+qualified leads based on our initial review. The WebhookDispatcher live demo was the
+biggest draw, and Robert Kimura from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+logging pipeline roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Insight Engine had 279ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 70 times since we posted it.
+
+Budget: we came in at $27,507, which is 57% under budget. The savings came
+from sharing the booth infrastructure with the WebhookDispatcher partner showcase.
+
+I'll prepare a full ROI analysis by Monday, October 28 once we've completed lead follow-up.
+
+Talk soon,
+Laura

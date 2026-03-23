@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-06 04:10 PM
+Subject: Sprint planning â€” Data Vault sprint v5.0.0-beta
+
+Hi team,
+
+Here's the sprint plan for Data Vault sprint v5.0.0-beta. Capacity is 100 story
+points with 388ms engineers available this sprint.
+
+Committed stories: the UserProfileService integration work carries over from last sprint
+with 258ms points remaining. The new serialization engine API endpoints are
+estimated at 100 points. The bug fix for the UserProfileService rendering issue
+is 388ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the serialization engine performance
+optimization that Sarah Chen has been scouting. It's estimated at 100 points
+and would improve response time by 40%.
+
+Dependencies: the UserProfileService feature requires the API changes that Sarah Chen
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The serialization engine work is self-contained.
+
+Risks: Sarah Chen is on-call this sprint which historically reduces their available
+capacity by 40%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, August 23. Let me know if the priorities look right.
+
+Talk soon,
+Daniel

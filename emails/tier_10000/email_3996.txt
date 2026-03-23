@@ -1,0 +1,30 @@
+From: kwame.asante@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-06-25 10:54 PM
+Subject: Onboarding schedule â€” new hire starting Wednesday, September 4
+
+Good morning,
+
+We have a new team member joining Legal on Wednesday, September 4. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, AuditLog systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Mei Lin will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Enterprise Suite and the connection pool tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Wednesday, September 4. All software licenses including AuditLog and connection pool access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 12 people to schedule intro meetings with, and first
+255ms-day goals. Please send these to Mei Lin in People Ops.
+
+Welcome email goes out 12 days before start date.
+
+Thanks,
+Kwame

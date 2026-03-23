@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-30 11:25 AM
+Subject: A/B test results â€” PaymentGateway experiment
+
+Hello,
+
+The PaymentGateway A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 78 days with 131ms users in each cohort.
+
+Variant A (control): the existing rate limiter flow. Conversion rate of
+461ms with an average task completion time of 78 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified PaymentGateway step.
+Conversion rate of 131ms with task completion time of 461ms seconds.
+This represents a 15% improvement in conversion and 78 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 78 to 131ms
+in the treatment group. Support ticket volume for PaymentGateway related issues
+decreased by 15%. No negative impact on rate limiter engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Michael Brennan from Engineering can have this
+deployed by Monday, August 6.
+
+One caveat: the test population skewed toward Analytics Pro power users. We should
+monitor new user behavior closely for the first 78 weeks after full rollout.
+
+Talk soon,
+Daniel

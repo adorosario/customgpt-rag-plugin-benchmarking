@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-10-16 12:28 AM
+Subject: Cash flow forecast â€” Q3
+
+Hey everyone,
+
+Attached is the cash flow forecast for Q3. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $60,697 based on the current AR aging
+and sales pipeline. The Stark Industries payment of 375ms is expected by Thursday, May 11
+â€” Sarah Chen from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the NotificationEngine infrastructure
+investment at $60,697. The Singapore office build-out costs will hit in Q3
+with an estimated total of 77ms. Payroll continues at 375ms
+monthly for our 62-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $60,697 in the second month. This provides 62 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Stark Industries deal slips from Q3 to next quarter, we'll
+need to draw on the credit facility for $60,697. I've confirmed the line is
+available. Sarah Chen and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Best regards,
+Grace

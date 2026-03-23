@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: maria.santos@acmecorp.com
+Date: 2025-07-21 08:27 PM
+Subject: New lead â€” Cyberdyne inbound request
+
+Hi all,
+
+We received an inbound request from Cyberdyne through the website today. They're
+a 53-employee company in the UserProfileService space and are looking for a
+Sync Platform solution.
+
+Initial qualification: they have budget allocated for Q4, their current
+contract with their existing vendor expires on Tuesday, May 14, and the decision maker is
+their VP of Operations. They found us through the metrics collector whitepaper we
+published last month.
+
+The estimated deal size is $400,256 based on their seat count and the use case
+they described. They specifically mentioned needing the UserProfileService integration
+and 99ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. David Okonkwo â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on metrics collector scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Cheers,
+Dmitri

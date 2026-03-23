@@ -1,0 +1,28 @@
+From: ravi.patel@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-06-06 07:46 PM
+Subject: Incident postmortem â€” PaymentGateway outage on Tuesday, February 15
+
+Hey,
+
+Attached is the postmortem for the PaymentGateway outage that occurred on Tuesday, February 15. The
+incident lasted approximately 45 minutes and affected 105 for a subset of users.
+
+Root cause: a configuration change in the caching layer deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+166ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, Carlos Rivera acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the PaymentGateway runbook, add a circuit breaker for the
+caching layer connection pool, and implement load shedding when concurrency exceeds
+166ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Cheers,
+Ravi

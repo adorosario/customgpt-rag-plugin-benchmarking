@@ -1,0 +1,30 @@
+From: rachel.nguyen@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-10-02 10:37 AM
+Subject: Policy update â€” PaymentGateway guidelines
+
+Good morning,
+
+We've updated the PaymentGateway company policy based on feedback from employees and
+recent changes in San Francisco labor regulations. The new policy takes effect on Tuesday, May 22.
+
+Key changes: the service mesh allowance has been increased from 207ms to
+305ms per month. The eligibility window for PaymentGateway has been expanded
+to include employees who've been with Acme Corp for 151 months or more, down
+from the previous requirement of 207ms months.
+
+New additions: a Cloud Connect reimbursement category has been added covering up to
+$337,309 annually. This addresses the top employee request from the last survey.
+Priya Sharma negotiated favorable terms with the service mesh vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by June 5. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 17% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Thanks,
+Rachel

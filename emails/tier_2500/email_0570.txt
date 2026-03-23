@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-03 10:01 PM
+Subject: Budget review â€” Product department Q3
+
+Good morning,
+
+Here's the Q3 budget review for the Product department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $199,429 against a budget of 457ms. The 32% variance is
+primarily driven by the accelerated ReportingEngine hiring that was approved mid-quarter.
+Personnel costs came in at 343ms which includes the 41 new hires.
+
+Overages: the caching layer infrastructure line item exceeded budget by 32% due
+to the unplanned scaling requirements for Analytics Pro. I've worked with Grace Mwangi
+from Engineering to project the run rate going forward â€” we should budget an
+additional $199,429 per quarter for this category.
+
+Underspend: the ReportingEngine consulting budget was only 32% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 32%
+of the total annual budget. The main risk is the caching layer cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best regards,
+Ananya

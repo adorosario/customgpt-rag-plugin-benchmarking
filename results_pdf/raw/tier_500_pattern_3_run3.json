@@ -1,0 +1,21 @@
+{
+  "tier": 500,
+  "question_id": "pattern_3",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What issues has Initech reported and how is the team responding?",
+  "model": "claude-sonnet-4-6",
+  "response": "Here's what the emails reveal about Initech:\n\n---\n\n**As a customer \u00e2\u20ac\u201d API Latency / SLA Breach** (`email_0108`, `email_0165`)\n\nInitech has filed complaints about API latency and an SLA performance breach. Both emails reference this ongoing issue and note that the team is making progress, though the communications are high-level status updates without specific remediation details.\n\n---\n\n**As a competitor \u00e2\u20ac\u201d Patent Prior Art Conflict** (`email_0103`)\n\nSeparately, Initech appears as a competitor in a patent dispute. Acme Corp's patent team discovered Initech has filed **3 related patents** in the cross-platform synchronization space that overlap with Acme's Nexus product. The team's response:\n- Extended the filing deadline from **March 30 \u00e2\u2020\u2019 April 15** to address the conflict\n- Revising claim language to distinguish Acme's conflict resolution algorithm from Initech's prior art\n- Final review meeting scheduled for the **week of April 7**\n\n---\n\nIn short: Initech is both a dissatisfied customer (API performance issues being tracked) and a patent competitor (actively being addressed by Acme's legal/engineering teams).",
+  "time_seconds": 71.11,
+  "num_turns": 8,
+  "cost_usd": 0.22427460000000002,
+  "input_tokens": 10,
+  "cache_creation_tokens": 14544,
+  "cache_read_tokens": 225751,
+  "output_tokens": 1792,
+  "total_tokens": 242097,
+  "duration_api_ms": 56770,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

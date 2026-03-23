@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-10-20 08:48 AM
+Subject: Customer feedback digest â€” Integration Hub Q3
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Integration Hub. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 168, up 150ms points from last quarter. The improvement
+is driven by the ReportingEngine launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 33%.
+
+Top feature requests: ReportingEngine advanced filtering (168 votes), load balancer
+bulk operations (150ms votes), and enhanced Integration Hub reporting (344ms
+votes). The filtering request aligns with what we heard in the user research study
+Jun Tanaka conducted.
+
+Top complaints: ReportingEngine performance during peak hours (168 mentions),
+the load balancer onboarding experience (150ms mentions), and pricing
+transparency (344ms mentions). The performance issue is being addressed
+by Engineering â€” Jun Tanaka expects the fix in v2.1.0.
+
+Churn insights: 168 customers churned this quarter citing ReportingEngine
+limitations as the primary reason. The load balancer overhaul on our roadmap directly
+addresses their feedback. 33% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, May 17.
+
+Talk soon,
+Liam

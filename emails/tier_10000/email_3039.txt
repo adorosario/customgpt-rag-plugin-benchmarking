@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-06-17 11:13 PM
+Subject: Financial close checklist â€” Q3
+
+Good afternoon,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Data Vault invoices must be issued by Tuesday, January 15. Any revenue recognition
+adjustments for the FileStorageService contracts need supporting documentation uploaded
+to queue processor. Michael Brennan from Sales must confirm final deal amounts by October 20.
+
+Expenses: all expense reports for Q3 must be submitted by Tuesday, January 15. The
+FileStorageService vendor invoices totaling $349,482 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, FileStorageService subscription costs,
+and the queue processor usage charges by Tuesday, January 15. Any non-standard accruals above
+219ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, FileStorageService account reconciliation, and
+inter-company balances must be completed by Tuesday, January 15. Michael Brennan is handling the
+bank rec. I'll take the inter-company items since they involve the Toronto entity.
+
+Target: books closed within 93 business days of quarter end. Final reporting
+package to leadership by Tuesday, January 15.
+
+Talk soon,
+Grace

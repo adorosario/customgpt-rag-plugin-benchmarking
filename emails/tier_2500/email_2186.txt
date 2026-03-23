@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-26 11:30 AM
+Subject: Financial close checklist â€” Q3
+
+Good morning,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Sync Platform invoices must be issued by Thursday, June 21. Any revenue recognition
+adjustments for the AuditLog contracts need supporting documentation uploaded
+to authentication module. Aisha Okafor from Sales must confirm final deal amounts by September 26.
+
+Expenses: all expense reports for Q3 must be submitted by Thursday, June 21. The
+AuditLog vendor invoices totaling $153,007 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, AuditLog subscription costs,
+and the authentication module usage charges by Thursday, June 21. Any non-standard accruals above
+200ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, AuditLog account reconciliation, and
+inter-company balances must be completed by Thursday, June 21. Aisha Okafor is handling the
+bank rec. I'll take the inter-company items since they involve the Tokyo entity.
+
+Target: books closed within 85 business days of quarter end. Final reporting
+package to leadership by Thursday, June 21.
+
+Cheers,
+Ananya

@@ -1,0 +1,27 @@
+From: carlos.rivera@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-10 11:17 AM
+Subject: Re: Umbrella Inc renewal â€” risk assessment
+
+Hey,
+
+Following up on the Umbrella Inc renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing SchedulerService latency issues for the past 181 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Umbrella Inc has mentioned they're evaluating alternatives for their config manager needs.
+
+The renewal is worth $372,031 annually and is up for renewal at the end of
+Q1. I think we need a proactive retention strategy. My proposal:
+
+First, get Fatima Al-Rashid from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 41% discount
+on the expanded Integration Hub tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Cheers,
+Carlos

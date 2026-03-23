@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-09-26 06:17 PM
+Subject: New lead â€” Weyland-Yutani inbound request
+
+Good morning,
+
+We received an inbound request from Weyland-Yutani through the website today. They're
+a 154-employee company in the DataPipeline space and are looking for a
+Enterprise Suite solution.
+
+Initial qualification: they have budget allocated for Q3, their current
+contract with their existing vendor expires on Friday, September 5, and the decision maker is
+their VP of Operations. They found us through the metrics collector whitepaper we
+published last month.
+
+The estimated deal size is $139,188 based on their seat count and the use case
+they described. They specifically mentioned needing the DataPipeline integration
+and 365ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Oluwaseun Adeyemi â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on metrics collector scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Best,
+Hannah

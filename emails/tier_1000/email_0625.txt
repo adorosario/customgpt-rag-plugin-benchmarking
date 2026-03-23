@@ -1,0 +1,28 @@
+From: priya.sharma@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-11-01 10:38 PM
+Subject: Feature flag cleanup â€” CacheLayer v2.6.0
+
+Hi team,
+
+Time for our quarterly feature flag cleanup in CacheLayer. We have 157 flags
+in the system and several of them are stale.
+
+Flags to remove: the service mesh migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The CacheLayer experiment flag
+was concluded last sprint with a decision to ship â€” James Oduya will hardcode the
+winning variant.
+
+Flags to keep: the v2.6.0 rollout flag should stay until we've confirmed
+stability at 353ms traffic. The service mesh kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 227ms lines of dead code and simplify the conditional logic in
+58% of the affected modules.
+
+Please claim the tickets for flags in your area by Tuesday, August 12. Target completion is end
+of sprint.
+
+Regards,
+Priya

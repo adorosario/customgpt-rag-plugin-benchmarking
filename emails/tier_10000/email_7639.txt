@@ -1,0 +1,33 @@
+From: amara.diallo@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-10-01 02:23 PM
+Subject: Customer feedback digest â€” Integration Hub Q4
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Integration Hub. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 188, up 196ms points from last quarter. The improvement
+is driven by the DataPipeline launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 39%.
+
+Top feature requests: DataPipeline advanced filtering (188 votes), queue processor
+bulk operations (196ms votes), and enhanced Integration Hub reporting (325ms
+votes). The filtering request aligns with what we heard in the user research study
+James Oduya conducted.
+
+Top complaints: DataPipeline performance during peak hours (188 mentions),
+the queue processor onboarding experience (196ms mentions), and pricing
+transparency (325ms mentions). The performance issue is being addressed
+by Engineering â€” James Oduya expects the fix in v3.2.2.
+
+Churn insights: 188 customers churned this quarter citing DataPipeline
+limitations as the primary reason. The queue processor overhaul on our roadmap directly
+addresses their feedback. 39% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Thursday, August 27.
+
+Thanks,
+Amara

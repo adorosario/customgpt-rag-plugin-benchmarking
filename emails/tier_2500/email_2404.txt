@@ -1,0 +1,29 @@
+From: derek.morrison@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-06 03:35 AM
+Subject: Quarterly territory review â€” Q1
+
+Hey everyone,
+
+Here's my territory review for Q1. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 33 qualified opportunities worth a combined $67,914 in
+ARR. The largest deal is Umbrella Inc at 354ms, which I expect to close by
+Monday, November 18. Three other deals in the 415ms range are progressing through
+procurement.
+
+Wins this quarter: closed Umbrella Inc for Integration Hub with a 27% upsell from
+their initial scope. The connection pool add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Michael Brennan to the Umbrella Inc executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Best,
+Derek

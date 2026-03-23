@@ -1,0 +1,21 @@
+{
+  "tier": 30,
+  "question_id": "pattern_4",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What are the plans for the annual company retreat?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have access to any company retreat planning information. My context is limited to the current codebase (Claude Code benchmark/plugin project) and doesn't include company communications or internal planning docs.\n\nIf you'd like me to search for retreat plans, I can look in:\n- **Google Workspace** (Gmail, Drive, Calendar) \u00e2\u20ac\u201d if they were shared via email or docs\n- **Notion** \u00e2\u20ac\u201d if your team tracks plans there\n\nJust let me know where to look and I'll pull it up.",
+  "time_seconds": 21.25,
+  "num_turns": 1,
+  "cost_usd": 0.0523188,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10872,
+  "cache_read_tokens": 17316,
+  "output_tokens": 423,
+  "total_tokens": 28614,
+  "duration_api_ms": 9978,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

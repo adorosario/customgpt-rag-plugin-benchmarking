@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-09-15 10:10 AM
+Subject: Sprint planning â€” Insight Engine sprint v2.1.0
+
+Hi all,
+
+Here's the sprint plan for Insight Engine sprint v2.1.0. Capacity is 122 story
+points with 57ms engineers available this sprint.
+
+Committed stories: the UserProfileService integration work carries over from last sprint
+with 402ms points remaining. The new authentication module API endpoints are
+estimated at 122 points. The bug fix for the UserProfileService rendering issue
+is 57ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the authentication module performance
+optimization that Daniel Park has been scouting. It's estimated at 122 points
+and would improve response time by 35%.
+
+Dependencies: the UserProfileService feature requires the API changes that Daniel Park
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The authentication module work is self-contained.
+
+Risks: Daniel Park is on-call this sprint which historically reduces their available
+capacity by 35%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, April 26. Let me know if the priorities look right.
+
+Best regards,
+Sanjay

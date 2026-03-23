@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-11-21 05:37 AM
+Subject: Beta program update â€” Sync Platform v2.7.3
+
+Hey everyone,
+
+Quick update on the Sync Platform v2.7.3 beta program. We're 135 weeks into
+the beta period with 205ms customers participating.
+
+Usage data: 42% of beta participants have activated the new AuthService
+feature. Average daily usage is 135 sessions per user. The config manager
+workflow is being used by 478ms of participants, which exceeds our
+adoption target of 205ms.
+
+Feedback summary: overall sentiment is positive. The top 135 pieces of praise
+relate to the AuthService speed improvement and the new config manager interface.
+The top 205ms complaints are about the AuthService configuration complexity
+and a confusing error message in the config manager flow.
+
+Bugs found: 135 bugs reported, of which 205ms are critical. Carlos Rivera
+from Engineering has fixed 478ms of the critical bugs. The remaining one
+is related to the AuthService edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Friday, November 12. The GA release is targeted for 135 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Friday, November 12 to finalize the GA scope.
+
+Best regards,
+Mei

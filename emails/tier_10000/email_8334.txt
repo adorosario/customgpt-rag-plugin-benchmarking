@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-08-19 09:30 PM
+Subject: Re: Customer story â€” Globex case study
+
+Good morning,
+
+Great update on the Globex case study. I've finished the first draft and want
+to share the results we're highlighting.
+
+Headline stat: Globex saw a 46% reduction in config manager processing time
+after deploying Data Vault. This translates to $282,538 in annual cost savings
+based on their team size of 123 people.
+
+Story arc: the narrative follows their journey from evaluating PaymentGateway
+alternatives to full deployment. The strongest section is the quote from their CTO
+about how Data Vault simplified their config manager workflow.
+
+Approval status: Globex's marketing team has reviewed and approved the draft with
+minor edits. They're comfortable with us publishing by Friday, March 3. Maria Santos coordinated
+the approval process.
+
+Distribution plan: blog post with pull quotes, one-page PDF for Sales enablement,
+and a 123-minute video summary. The video production is scheduled for next week.
+
+Can you review the draft and send feedback by Friday, March 3? I want to finalize before
+the Q2 campaign kickoff.
+
+Best,
+Yuki

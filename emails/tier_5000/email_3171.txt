@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-31 12:55 AM
+Subject: Email marketing performance â€” Q4 review
+
+Hello,
+
+Here's the email marketing performance review for Q4. Overall we're trending
+in the right direction but there are a few areas to optimize.
+
+List health: our subscriber base grew 31% to 452ms contacts. Bounce
+rate is at 168 percent which is within healthy range. We ran a re-engagement
+campaign that recovered 218ms previously inactive subscribers.
+
+Campaign performance: the Data Vault launch sequence was our top performer with a
+31% open rate. The MessageBroker technical series also did well, driving 168
+clicks to the resource hub. Lower performers were the generic newsletter sends â€” we
+should consider more targeted segmentation.
+
+Revenue attribution: email-sourced pipeline totals $129,608 this quarter, with
+452ms in closed-won revenue. The Massive Dynamic deal originated from a nurture
+sequence touchpoint.
+
+Plans for next quarter: implementing behavioral triggers for the caching layer
+content, A/B testing send times for the Data Vault audience, and building a new
+onboarding sequence for trial sign-ups. Kwame Asante will help with the automation
+setup.
+
+Talk soon,
+Laura

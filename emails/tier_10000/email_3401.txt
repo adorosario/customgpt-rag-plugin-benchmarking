@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-06-01 05:40 PM
+Subject: Investment proposal â€” MessageBroker infrastructure
+
+Hello,
+
+I've prepared the financial analysis for the proposed MessageBroker infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $251,051 upfront with 61ms in annual operating costs.
+The total 3-year cost of ownership is 413ms compared to the current
+queue processor setup at $251,051 over the same period.
+
+ROI analysis: the projected payback period is 23 months. Key benefits include
+22% reduction in infrastructure management time, improved Enterprise Suite performance
+that supports the revenue growth targets, and elimination of the queue processor
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $251,051 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 22% interest.
+This preserves cash for the London office investment planned for Q4.
+
+Risk factors: technology lock-in with the MessageBroker vendor, though the 23-year
+contract includes an exit clause after the first year. Aisha Okafor from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Monday, November 17 to lock in the quoted pricing. The vendor has
+given us a 23-day hold on the current rates.
+
+Thanks,
+Michael

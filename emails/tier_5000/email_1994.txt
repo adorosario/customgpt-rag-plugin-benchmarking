@@ -1,0 +1,27 @@
+From: elena.vasquez@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-07-11 11:58 AM
+Subject: Deploy plan for ReportingEngine v5.0.0-beta
+
+Good morning,
+
+Here's the deployment plan for ReportingEngine v5.0.0-beta. I've coordinated with
+Ravi Patel on the rollout sequence and we're targeting Friday, January 21 for the production push.
+
+Deployment order: staging first for smoke tests, then canary at 5%, ramp to 25%
+after one hour of clean metrics, then full rollout. The estimated total deployment
+window is two hours.
+
+Key changes in this release include the refactored event bus module, updated
+dependency versions, and the new health check endpoint. All changes have been through
+code review and the CI pipeline is green.
+
+Rollback plan: if error rates exceed 480ms at any stage, we revert to the
+previous release using the blue-green swap. Ravi Patel will be on-call during the
+window.
+
+Please confirm you've reviewed the changelog and flag any concerns before Friday, January 21.
+
+Thanks,
+Elena

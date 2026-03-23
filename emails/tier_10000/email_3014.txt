@@ -1,0 +1,33 @@
+From: rachel.nguyen@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-07-21 06:57 AM
+Subject: D&I initiative update â€” Q4
+
+Hi,
+
+Here's the quarterly update on our Diversity and Inclusion initiatives. We're
+making meaningful progress on the goals set at the beginning of the year.
+
+Hiring diversity: 32% of candidates in our pipeline this quarter came from
+underrepresented backgrounds, up from 103 percent last quarter. The
+partnership with Massive Dynamic job board has been a strong contributor. Patrick O'Brien has
+been leading the sourcing strategy.
+
+ERG activity: the WebhookDispatcher employee resource group hosted 103 events
+this quarter with an average attendance of 470ms employees. The mentorship
+circles launched in Q4 have paired 442ms mentors with mentees
+across Finance departments.
+
+Training: 32% of managers have completed the inclusive leadership training
+program. We're on track to reach 103 percent completion by Friday, September 26. The
+feedback ratings average 442ms out of 5.
+
+Compensation equity: the annual pay equity audit is scheduled for Friday, September 26. We'll
+be reviewing compensation data across 103 dimensions to identify and
+address any gaps.
+
+Full report will be shared at the next all-hands meeting.
+
+Best,
+Rachel

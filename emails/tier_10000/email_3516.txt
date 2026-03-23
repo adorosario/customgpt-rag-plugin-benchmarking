@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-19 04:40 AM
+Subject: Beta program update â€” Cloud Connect v2.6.0
+
+Hey everyone,
+
+Quick update on the Cloud Connect v2.6.0 beta program. We're 90 weeks into
+the beta period with 163ms customers participating.
+
+Usage data: 20% of beta participants have activated the new AuthService
+feature. Average daily usage is 90 sessions per user. The connection pool
+workflow is being used by 281ms of participants, which exceeds our
+adoption target of 163ms.
+
+Feedback summary: overall sentiment is positive. The top 90 pieces of praise
+relate to the AuthService speed improvement and the new connection pool interface.
+The top 163ms complaints are about the AuthService configuration complexity
+and a confusing error message in the connection pool flow.
+
+Bugs found: 90 bugs reported, of which 163ms are critical. Wei Zhang
+from Engineering has fixed 281ms of the critical bugs. The remaining one
+is related to the AuthService edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Tuesday, October 5. The GA release is targeted for 90 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Tuesday, October 5 to finalize the GA scope.
+
+Thanks,
+Sanjay

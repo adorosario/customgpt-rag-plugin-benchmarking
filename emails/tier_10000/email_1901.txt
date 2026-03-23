@@ -1,0 +1,29 @@
+From: derek.morrison@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-15 03:39 PM
+Subject: New lead â€” Stark Industries inbound request
+
+Hey,
+
+We received an inbound request from Stark Industries through the website today. They're
+a 38-employee company in the SearchIndex space and are looking for a
+Sync Platform solution.
+
+Initial qualification: they have budget allocated for Q4, their current
+contract with their existing vendor expires on Thursday, July 13, and the decision maker is
+their VP of Operations. They found us through the load balancer whitepaper we
+published last month.
+
+The estimated deal size is $218,397 based on their seat count and the use case
+they described. They specifically mentioned needing the SearchIndex integration
+and 410ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Alex Chen â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on load balancer scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Best regards,
+Derek

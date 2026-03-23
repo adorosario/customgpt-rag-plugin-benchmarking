@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-17 03:10 AM
+Subject: Tax planning â€” Q3 estimated payments
+
+Hi all,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the ReportingEngine investment
+deductions.
+
+Federal estimate: $479,323 based on projected taxable income of 56ms.
+This reflects the ReportingEngine depreciation deductions and the R&D tax credit for
+the Integration Hub development costs. Sarah Chen from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $479,323 for our primary jurisdiction and 488ms for the
+Toronto office based on the apportionment factors. The Toronto rate change that
+takes effect on Monday, April 23 will impact our Q3 estimate by approximately 24
+percent.
+
+International: with the Toronto office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Sarah Chen to handle
+the registration. Setup cost is $479,323 with ongoing compliance costs of
+488ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Monday, April 23. I'll prepare the
+payment authorization for your signature by February 27. Underpayment penalties
+start at 47% so timely filing is important.
+
+Best,
+Grace

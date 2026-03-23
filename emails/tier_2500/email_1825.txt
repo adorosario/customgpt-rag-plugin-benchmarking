@@ -1,0 +1,32 @@
+From: yuki.sato@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-07-14 08:08 PM
+Subject: SEO update â€” AuditLog keyword rankings
+
+Hi all,
+
+Monthly SEO update for our AuditLog content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Sync Platform comparison page climbed from position 382ms to
+position 354ms for our primary keyword. The serialization engine guide is now
+ranking in the top 17 for three long-tail variations.
+
+Traffic impact: organic sessions are up 28% month over month. The
+AuditLog cluster is now driving 17 unique sessions monthly, making it our
+second-highest traffic source behind the Sync Platform landing page.
+
+Content gaps identified: we're missing content for 382ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q4. Kwame Asante from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 354ms on mobile after the image
+optimization work. No crawl errors detected. The new serialization engine documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 17 pages. I'll share the
+outreach plan next week.
+
+Thanks,
+Yuki

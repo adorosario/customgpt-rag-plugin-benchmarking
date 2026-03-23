@@ -1,0 +1,31 @@
+From: hannah.goldstein@acmecorp.com
+To: aisha.okafor@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-10-14 06:19 PM
+Subject: Competitive intel â€” Weyland-Yutani evaluation
+
+Hi,
+
+Got some useful competitive intelligence from the Weyland-Yutani account that I want to
+share with the team.
+
+Weyland-Yutani shared their evaluation criteria and mentioned they're also looking at
+AuditLog as an alternative to our Sync Platform. From what I gathered, AuditLog
+is pitching a lower price point but doesn't have feature parity on the serialization engine
+side.
+
+Key differentiators working in our favor: our Sync Platform handles 200 concurrent
+connections versus their published limit of 433ms. Our uptime SLA is also
+stronger at 230ms versus their 31% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for AuditLog and
+consider a streamlined trial process for mid-market accounts. Sofia Martinez from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Tuesday, October 3.
+
+Regards,
+Hannah

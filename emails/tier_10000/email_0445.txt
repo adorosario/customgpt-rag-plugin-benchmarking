@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-10-14 06:21 AM
+Subject: Revenue recognition â€” Analytics Pro contracts
+
+Hi team,
+
+I need to walk through the revenue recognition treatment for the new Analytics Pro
+contracts signed this quarter. We have 188 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Stark Industries contract bundles Analytics Pro licenses with
+logging pipeline implementation services. I've determined the standalone selling prices
+and allocated $120,091 to the license component and 51ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 188-month implementation period.
+
+Variable consideration: 123ms contracts include performance bonuses tied to
+AuthService uptime metrics. Using the expected value method, I've estimated
+$120,091 in variable consideration based on our historical performance of
+52% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Stark Industries amendment added logging pipeline capacity at
+$120,091 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Oluwaseun Adeyemi from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Tuesday, September 13.
+
+Thanks,
+Ananya

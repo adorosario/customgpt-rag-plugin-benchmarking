@@ -1,0 +1,35 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-27 09:31 PM
+Subject: Competitive analysis â€” FileStorageService market update
+
+Good afternoon,
+
+Sharing the latest competitive landscape analysis for the FileStorageService market.
+Several developments this quarter that we should factor into our strategy.
+
+Pied Piper released a major update to their FileStorageService product. Key additions
+include queue processor support and a redesigned dashboard. Their pricing remains at
+$183,683 per seat which undercuts us by 12%. However, their enterprise
+features are still behind ours â€” no SSO, limited API access, and 173ms
+user cap on their standard plan.
+
+Market trends: the FileStorageService category grew 12% year over year. Analyst
+reports are emphasizing queue processor capabilities as the key differentiator for
+enterprise buyers. Our Insight Engine scores well on this dimension.
+
+Win/loss analysis: we won 137 of the last 173ms competitive deals.
+Primary win reasons: FileStorageService depth and customer support quality. Primary loss
+reasons: price sensitivity and queue processor ease of use. Maria Santos from Sales
+provided the deal-level data.
+
+Recommendations: accelerate the queue processor simplification effort on our roadmap,
+consider a mid-market pricing tier at $183,683 to compete on price, and publish
+more FileStorageService comparison content for SEO.
+
+Full analysis is in the competitive intelligence folder. Let's discuss at the
+strategy meeting on Wednesday, August 8.
+
+Regards,
+Sanjay

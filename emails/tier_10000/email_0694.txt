@@ -1,0 +1,30 @@
+From: patrick.obrien@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-11-09 04:24 PM
+Subject: Policy update â€” FileStorageService guidelines
+
+Good afternoon,
+
+We've updated the FileStorageService company policy based on feedback from employees and
+recent changes in Tokyo labor regulations. The new policy takes effect on Friday, September 16.
+
+Key changes: the logging pipeline allowance has been increased from 488ms to
+227ms per month. The eligibility window for FileStorageService has been expanded
+to include employees who've been with Acme Corp for 23 months or more, down
+from the previous requirement of 488ms months.
+
+New additions: a Sync Platform reimbursement category has been added covering up to
+$108,284 annually. This addresses the top employee request from the last survey.
+Sarah Chen negotiated favorable terms with the logging pipeline vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by March 9. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 26% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Talk soon,
+Patrick

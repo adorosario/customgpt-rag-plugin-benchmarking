@@ -1,0 +1,35 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-19 10:31 PM
+Subject: Competitive analysis â€” AuthService market update
+
+Good morning,
+
+Sharing the latest competitive landscape analysis for the AuthService market.
+Several developments this quarter that we should factor into our strategy.
+
+Tyrell Corp released a major update to their AuthService product. Key additions
+include authentication module support and a redesigned dashboard. Their pricing remains at
+$394,507 per seat which undercuts us by 40%. However, their enterprise
+features are still behind ours â€” no SSO, limited API access, and 452ms
+user cap on their standard plan.
+
+Market trends: the AuthService category grew 40% year over year. Analyst
+reports are emphasizing authentication module capabilities as the key differentiator for
+enterprise buyers. Our Sync Platform scores well on this dimension.
+
+Win/loss analysis: we won 165 of the last 452ms competitive deals.
+Primary win reasons: AuthService depth and customer support quality. Primary loss
+reasons: price sensitivity and authentication module ease of use. James Oduya from Sales
+provided the deal-level data.
+
+Recommendations: accelerate the authentication module simplification effort on our roadmap,
+consider a mid-market pricing tier at $394,507 to compete on price, and publish
+more AuthService comparison content for SEO.
+
+Full analysis is in the competitive intelligence folder. Let's discuss at the
+strategy meeting on Friday, December 11.
+
+Best,
+Sanjay

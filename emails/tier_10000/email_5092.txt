@@ -1,0 +1,30 @@
+From: ananya.desai@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-22 08:03 PM
+Subject: Re: Expense report flagged â€” PaymentGateway charges
+
+Hi team,
+
+I noticed some items on the PaymentGateway expense report submitted by Wei Zhang
+that need clarification before I can approve them.
+
+The connection pool subscription charge of $114,743 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+407ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Globex dinner on Thursday, April 24 for $114,743 exceeds our per-person meal
+reimbursement limit of 407ms. If this was a client entertainment expense,
+it should be coded to the client development budget under PaymentGateway rather than
+general T&E. 21 attendees at that amount puts us at 488ms per
+person which is within the client entertainment policy.
+
+The remaining 21 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 407ms business days after approval.
+
+Please resubmit with the corrections by Thursday, April 24 so we can keep things on track.
+
+Best regards,
+Ananya

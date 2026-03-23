@@ -1,0 +1,33 @@
+From: amara.diallo@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-06-01 06:57 AM
+Subject: Re: Cloud Connect pricing discussion â€” NotificationEngine tier
+
+Hi team,
+
+Following up on the Cloud Connect pricing discussion. I've modeled three options for
+the NotificationEngine tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $157,558 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 45% of our existing base.
+Downside: it undercuts our current logging pipeline pricing and may trigger downgrades.
+
+Option B: 60ms per seat per month with the logging pipeline add-on bundled.
+Higher price point but stronger value perception. 118 of the 51ms
+customers we surveyed preferred this packaging. Priya Sharma from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $157,558 per NotificationEngine transaction. This aligns
+with the value delivered but introduces billing complexity. Only 45% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$157,558 in incremental ARR over 118 months.
+
+Can we finalize the pricing decision by Friday, March 9? Sales needs 51ms weeks to
+update collateral before we announce.
+
+Best regards,
+Amara

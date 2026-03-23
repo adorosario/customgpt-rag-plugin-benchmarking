@@ -1,0 +1,29 @@
+From: fatima.al-rashid@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-11-25 02:20 AM
+Subject: Policy update â€” AnalyticsDashboard guidelines
+
+Good afternoon,
+
+We've updated the AnalyticsDashboard company policy based on feedback from employees and
+recent changes in Toronto labor regulations. The new policy takes effect on Tuesday, August 2.
+
+Key changes: the logging pipeline allowance has been increased from 140ms to
+278ms per month. The eligibility window for AnalyticsDashboard has been expanded
+to include employees who've been with Acme Corp for 75 months or more, down
+from the previous requirement of 140ms months.
+
+New additions: a Cloud Connect reimbursement category has been added covering up to
+$94,513 annually. This addresses the top employee request from the last survey.
+David Okonkwo negotiated favorable terms with the logging pipeline vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by January 7. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 8% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Cheers,
+Fatima

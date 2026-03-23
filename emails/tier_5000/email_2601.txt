@@ -1,0 +1,30 @@
+From: hannah.goldstein@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-18 12:01 PM
+Subject: Proposal submitted â€” Umbrella Inc Integration Hub deployment
+
+Hi all,
+
+Just submitted the formal proposal to Umbrella Inc for the Integration Hub deployment. Here's
+a summary of what we put in front of them.
+
+Scope: enterprise-tier Integration Hub with the rate limiter add-on, covering 43
+seats across their three offices. Implementation timeline is 8 weeks with dedicated
+onboarding support from our team.
+
+Pricing: $216,058 annual contract with a 13% multi-year discount if they
+commit to a 2-year term. This is within the range they indicated during discovery.
+Hannah Goldstein from Finance approved the discount structure.
+
+Key differentiators highlighted in the proposal: our PaymentGateway integration
+capability, the 313ms uptime SLA, and the dedicated success manager
+they'll receive at this tier level.
+
+Expected timeline: they said they'll review internally over the next 43
+business days and get back to us with any questions. Decision expected by Tuesday, May 16.
+
+I feel good about this one. Will keep the team posted.
+
+Best regards,
+Hannah

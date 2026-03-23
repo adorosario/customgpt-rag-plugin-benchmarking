@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-06-29 06:35 PM
+Subject: Cash flow forecast â€” Q2
+
+Good afternoon,
+
+Attached is the cash flow forecast for Q2. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $22,004 based on the current AR aging
+and sales pipeline. The Oscorp payment of 124ms is expected by Tuesday, January 9
+â€” Rachel Nguyen from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the BillingModule infrastructure
+investment at $22,004. The San Francisco office build-out costs will hit in Q2
+with an estimated total of 370ms. Payroll continues at 124ms
+monthly for our 183-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $22,004 in the second month. This provides 183 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Oscorp deal slips from Q2 to next quarter, we'll
+need to draw on the credit facility for $22,004. I've confirmed the line is
+available. Rachel Nguyen and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Best,
+Ananya

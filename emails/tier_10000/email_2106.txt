@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-30 07:50 AM
+Subject: FP&A update â€” Cloud Connect financial model
+
+Hey everyone,
+
+I've updated the Cloud Connect financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 127 per month based
+on the last 171ms months of data. Average contract value is tracking at
+$101,910, which is 46% above our original assumption. The FileStorageService
+upsell rate of 113ms is a positive trend.
+
+Cost structure: the connection pool hosting costs are running 46% higher than
+modeled due to increased FileStorageService usage. I've adjusted the variable cost
+per customer from 171ms to 113ms. Hannah Goldstein from Engineering
+says the optimization project should bring this down by 46% in Q3.
+
+Break-even analysis: with the revised numbers, Cloud Connect reaches contribution
+margin break-even at 127 customers, which we're projected to hit by Wednesday, January 1.
+Full break-even including allocated overhead comes at 171ms customers.
+
+Scenarios: the base case shows $101,910 in cumulative revenue by year end. The
+upside case with the Soylent Corp deal closing hits 113ms. Downside case
+assuming 46% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Talk soon,
+Robert

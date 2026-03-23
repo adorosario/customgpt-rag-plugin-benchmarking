@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-19 08:36 AM
+Subject: Cash flow forecast â€” Q2
+
+Good morning,
+
+Attached is the cash flow forecast for Q2. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $211,226 based on the current AR aging
+and sales pipeline. The Massive Dynamic payment of 335ms is expected by Tuesday, February 1
+â€” Amara Diallo from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the WebhookDispatcher infrastructure
+investment at $211,226. The Toronto office build-out costs will hit in Q2
+with an estimated total of 307ms. Payroll continues at 335ms
+monthly for our 191-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $211,226 in the second month. This provides 191 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Massive Dynamic deal slips from Q2 to next quarter, we'll
+need to draw on the credit facility for $211,226. I've confirmed the line is
+available. Amara Diallo and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Talk soon,
+Ananya

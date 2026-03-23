@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-11-24 11:40 PM
+Subject: Onboarding schedule â€” new hire starting Wednesday, August 21
+
+Hey everyone,
+
+We have a new team member joining Finance on Wednesday, August 21. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, WebhookDispatcher systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Rachel Nguyen will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Insight Engine and the queue processor tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Wednesday, August 21. All software licenses including WebhookDispatcher and queue processor access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 174 people to schedule intro meetings with, and first
+335ms-day goals. Please send these to Rachel Nguyen in People Ops.
+
+Welcome email goes out 174 days before start date.
+
+Talk soon,
+Fatima

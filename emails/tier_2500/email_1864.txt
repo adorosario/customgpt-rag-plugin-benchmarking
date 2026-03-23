@@ -1,0 +1,29 @@
+From: derek.morrison@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-11-17 08:16 PM
+Subject: Re: Integration Hub demo feedback from Soylent Corp
+
+Hey everyone,
+
+Great news from the Soylent Corp demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the rate limiter dashboard got the biggest reaction. Their
+current tool requires 114 manual steps to accomplish what our Integration Hub does
+automatically. The DataPipeline integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 376ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v2.1.0 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. David Okonkwo, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Integration Hub trial environment set up for their team of
+114 evaluators. I'll submit the trial request today. Target close date
+remains Tuesday, April 13.
+
+Best regards,
+Derek

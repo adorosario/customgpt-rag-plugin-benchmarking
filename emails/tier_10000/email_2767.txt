@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-09-02 11:04 PM
+Subject: Quarterly territory review â€” Q3
+
+Hi all,
+
+Here's my territory review for Q3. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 62 qualified opportunities worth a combined $311,364 in
+ARR. The largest deal is Umbrella Inc at 376ms, which I expect to close by
+Thursday, September 10. Three other deals in the 432ms range are progressing through
+procurement.
+
+Wins this quarter: closed Umbrella Inc for Insight Engine with a 35% upsell from
+their initial scope. The connection pool add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Sofia Martinez to the Umbrella Inc executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Best,
+Aisha

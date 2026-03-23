@@ -1,0 +1,30 @@
+From: robert.kimura@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-28 04:06 PM
+Subject: Re: Expense report flagged â€” BillingModule charges
+
+Hi,
+
+I noticed some items on the BillingModule expense report submitted by Jun Tanaka
+that need clarification before I can approve them.
+
+The service mesh subscription charge of $433,100 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+153ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Weyland-Yutani dinner on Tuesday, November 1 for $433,100 exceeds our per-person meal
+reimbursement limit of 153ms. If this was a client entertainment expense,
+it should be coded to the client development budget under BillingModule rather than
+general T&E. 17 attendees at that amount puts us at 312ms per
+person which is within the client entertainment policy.
+
+The remaining 17 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 153ms business days after approval.
+
+Please resubmit with the corrections by Tuesday, November 1 so we can keep things on track.
+
+Best regards,
+Robert

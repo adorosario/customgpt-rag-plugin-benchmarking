@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-08-17 06:28 PM
+Subject: Tax planning â€” Q4 estimated payments
+
+Hi team,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the WebhookDispatcher investment
+deductions.
+
+Federal estimate: $51,295 based on projected taxable income of 154ms.
+This reflects the WebhookDispatcher depreciation deductions and the R&D tax credit for
+the Insight Engine development costs. Tomoko Nakamura from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $51,295 for our primary jurisdiction and 162ms for the
+San Francisco office based on the apportionment factors. The San Francisco rate change that
+takes effect on Wednesday, March 20 will impact our Q4 estimate by approximately 18
+percent.
+
+International: with the San Francisco office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Tomoko Nakamura to handle
+the registration. Setup cost is $51,295 with ongoing compliance costs of
+162ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Wednesday, March 20. I'll prepare the
+payment authorization for your signature by December 25. Underpayment penalties
+start at 46% so timely filing is important.
+
+Thanks,
+Robert

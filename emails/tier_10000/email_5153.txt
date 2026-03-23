@@ -1,0 +1,30 @@
+From: patrick.obrien@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-09-05 04:23 AM
+Subject: Hiring update â€” Sales open positions
+
+Hi,
+
+Here's the weekly hiring update for the Sales department. We're making progress
+on several key roles.
+
+Active searches: the NotificationEngine role has 32 candidates in the pipeline with
+499ms scheduled for final round interviews this week. The authentication module
+position has been open for 374ms days and we're seeing fewer qualified
+applicants than expected â€” I'd like to discuss expanding our sourcing channels.
+
+Offers: we extended an offer to a strong candidate for the Ravi Patel backfill
+role. Their expected start date is Wednesday, January 28 pending background check completion.
+Compensation is at $86,961 which is within the approved band.
+
+Upcoming: the Data Vault team has submitted a headcount request for 32 new
+positions in Q1. I'm drafting the job descriptions and will share them for
+review by Wednesday, January 28.
+
+Interview load: we conducted 374ms interviews last week across all open
+roles. Please remind your team leads that timely interviewer feedback is critical â€”
+we're losing candidates due to slow response times on 34% of our processes.
+
+Best regards,
+Patrick

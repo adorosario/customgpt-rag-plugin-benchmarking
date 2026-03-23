@@ -1,0 +1,29 @@
+From: marcus.thompson@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-10-24 01:10 AM
+Subject: Feature flag cleanup â€” SearchIndex v2.4.1
+
+Hi,
+
+Time for our quarterly feature flag cleanup in SearchIndex. We have 168 flags
+in the system and several of them are stale.
+
+Flags to remove: the config manager migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The SearchIndex experiment flag
+was concluded last sprint with a decision to ship â€” Ananya Desai will hardcode the
+winning variant.
+
+Flags to keep: the v2.4.1 rollout flag should stay until we've confirmed
+stability at 442ms traffic. The config manager kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 479ms lines of dead code and simplify the conditional logic in
+17% of the affected modules.
+
+Please claim the tickets for flags in your area by Friday, January 1. Target completion is end
+of sprint.
+
+Cheers,
+Marcus

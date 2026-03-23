@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-11 01:06 PM
+Subject: Re: Cyberdyne contract negotiation â€” pricing discussion
+
+Hello,
+
+Update on the Cyberdyne negotiation. Their procurement team came back with a
+counteroffer and I want to make sure we're aligned before I respond.
+
+They're asking for a 16% reduction on the Cloud Connect license fee, bringing
+the annual contract value from $382,512 to 491ms. Their rationale is
+that they're committing to a larger seat count of 197 users, which is above
+our standard enterprise tier threshold of 247ms.
+
+My recommendation is to accept the volume-based discount but hold firm on the
+rate limiter add-on pricing. The add-on margins are already thin and it's the module
+that delivers the most value in their use case. Derek Morrison from Finance can confirm
+the margin impact.
+
+I also want to push for a 2-year commitment if we offer the discounted rate. This
+locks in the revenue and reduces churn risk.
+
+Can we get a quick alignment call today before their deadline on Thursday, July 3?
+
+Best,
+Hannah

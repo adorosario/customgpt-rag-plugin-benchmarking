@@ -1,0 +1,32 @@
+From: laura.kim@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-09-07 01:59 PM
+Subject: SEO update â€” UserProfileService keyword rankings
+
+Hi all,
+
+Monthly SEO update for our UserProfileService content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Analytics Pro comparison page climbed from position 397ms to
+position 215ms for our primary keyword. The rate limiter guide is now
+ranking in the top 197 for three long-tail variations.
+
+Traffic impact: organic sessions are up 46% month over month. The
+UserProfileService cluster is now driving 197 unique sessions monthly, making it our
+second-highest traffic source behind the Analytics Pro landing page.
+
+Content gaps identified: we're missing content for 397ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q3. Wei Zhang from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 215ms on mobile after the image
+optimization work. No crawl errors detected. The new rate limiter documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 197 pages. I'll share the
+outreach plan next week.
+
+Best,
+Laura

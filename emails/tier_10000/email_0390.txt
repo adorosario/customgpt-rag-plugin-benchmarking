@@ -1,0 +1,35 @@
+From: liam.foster@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-03 04:55 AM
+Subject: Re: Integration Hub metrics review â€” Q4
+
+Good afternoon,
+
+Here are the Integration Hub metrics for Q4. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 181 monthly active users, up 48% quarter over quarter. The
+SearchIndex feature launch drove a spike in activation â€” 190ms new users
+tried it in the first week. Retention for SearchIndex users is 337ms
+at 30 days versus 181 percent for non-users.
+
+Engagement: average session duration is 181 minutes. The serialization engine workflow
+sees the highest engagement with users spending 337ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 190ms features
+per session on average, up from 181 last quarter.
+
+Revenue metrics: Integration Hub ARR is at $292,579 with 48% growth quarter over
+quarter. Net revenue retention is 337ms driven by SearchIndex upsells.
+181 customers expanded their contracts this quarter, with Sarah Chen from Sales
+leading the expansion conversations.
+
+Areas of concern: the serialization engine onboarding funnel has a 48% drop-off at
+step 181. I've scheduled a design sprint for next week to address this.
+Support ticket volume for SearchIndex increased 181 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Thanks,
+Liam

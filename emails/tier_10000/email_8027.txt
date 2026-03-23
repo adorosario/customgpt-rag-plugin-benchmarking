@@ -1,0 +1,33 @@
+From: amara.diallo@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-07-14 11:12 PM
+Subject: Customer feedback digest â€” Insight Engine Q3
+
+Hello,
+
+Here's the quarterly customer feedback digest for Insight Engine. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 163, up 74ms points from last quarter. The improvement
+is driven by the SchedulerService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 45%.
+
+Top feature requests: SchedulerService advanced filtering (163 votes), event bus
+bulk operations (74ms votes), and enhanced Insight Engine reporting (385ms
+votes). The filtering request aligns with what we heard in the user research study
+Robert Kimura conducted.
+
+Top complaints: SchedulerService performance during peak hours (163 mentions),
+the event bus onboarding experience (74ms mentions), and pricing
+transparency (385ms mentions). The performance issue is being addressed
+by Engineering â€” Robert Kimura expects the fix in v5.0.0-beta.
+
+Churn insights: 163 customers churned this quarter citing SchedulerService
+limitations as the primary reason. The event bus overhaul on our roadmap directly
+addresses their feedback. 45% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Friday, April 3.
+
+Talk soon,
+Amara

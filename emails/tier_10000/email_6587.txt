@@ -1,0 +1,30 @@
+From: jun.tanaka@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-06-21 04:31 PM
+Subject: Client meeting recap â€” Globex Friday, March 7
+
+Good afternoon,
+
+Recapping today's meeting with Globex. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their PaymentGateway
+team lead. From ours: myself, Grace Mwangi from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their connection pool vendors
+from three down to one. Our Integration Hub covers 36% of their requirements
+natively. The remaining gap is around PaymentGateway integrations, which Grace Mwangi
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Friday, March 7 and begin
+implementation in Q1. Budget has been pre-approved at $443,258 for the
+first year.
+
+Action items: send the Integration Hub technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their connection pool workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Regards,
+Jun

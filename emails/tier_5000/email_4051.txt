@@ -1,0 +1,26 @@
+From: jun.tanaka@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-06-27 08:20 PM
+Subject: Re: Wayne Enterprises renewal â€” risk assessment
+
+Hello,
+
+Following up on the Wayne Enterprises renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing BillingModule latency issues for the past 13 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Wayne Enterprises has mentioned they're evaluating alternatives for their load balancer needs.
+
+The renewal is worth $74,651 annually and is up for renewal at the end of
+Q4. I think we need a proactive retention strategy. My proposal:
+
+First, get Robert Kimura from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 45% discount
+on the expanded Cloud Connect tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Best,
+Jun

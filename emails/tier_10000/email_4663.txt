@@ -1,0 +1,29 @@
+From: oluwaseun.adeyemi@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-10-04 06:55 AM
+Subject: Re: NotificationEngine â€” tech debt prioritization
+
+Hello,
+
+Following up on the tech debt discussion from yesterday's sprint planning. I've
+categorized the outstanding items for NotificationEngine into three tiers based on risk
+and effort.
+
+High priority: the deprecated serialization engine dependency needs to be replaced before
+Monday, September 19 when upstream support ends. This is roughly a 73 effort and Sanjay Krishnamurthy
+has volunteered to own it.
+
+Medium priority: the test coverage gap in the NotificationEngine integration layer. We're
+at 295ms coverage but our target is 70ms. Filling this gap would
+have caught the regression we saw last sprint.
+
+Low priority: the logging format standardization. It's annoying but not blocking
+anything. I'd suggest we tackle it opportunistically when someone is already
+touching those files.
+
+My proposal is to allocate 59% of next sprint's capacity to the high-priority
+item. Thoughts?
+
+Thanks,
+Oluwaseun

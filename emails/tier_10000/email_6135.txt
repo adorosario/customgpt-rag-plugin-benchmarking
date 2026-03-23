@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-08-21 09:44 AM
+Subject: Budget review â€” Sales department Q4
+
+Good afternoon,
+
+Here's the Q4 budget review for the Sales department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $388,485 against a budget of 378ms. The 8% variance is
+primarily driven by the accelerated NotificationEngine hiring that was approved mid-quarter.
+Personnel costs came in at 222ms which includes the 140 new hires.
+
+Overages: the authentication module infrastructure line item exceeded budget by 8% due
+to the unplanned scaling requirements for Cloud Connect. I've worked with Ananya Desai
+from Engineering to project the run rate going forward â€” we should budget an
+additional $388,485 per quarter for this category.
+
+Underspend: the NotificationEngine consulting budget was only 8% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 8%
+of the total annual budget. The main risk is the authentication module cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Cheers,
+Grace

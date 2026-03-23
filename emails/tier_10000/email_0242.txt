@@ -1,0 +1,28 @@
+From: oluwaseun.adeyemi@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-08-20 05:02 PM
+Subject: CI/CD pipeline improvements â€” SearchIndex
+
+Hi all,
+
+I've finished the CI/CD pipeline improvements for SearchIndex that we discussed
+last month. Here's what changed and the impact so far.
+
+Build time is down from 149ms minutes to 492ms minutes thanks to
+better caching and parallelized test execution. The flaky test rate dropped from
+44% to under 1% after I quarantined the known flaky tests and added retries
+for the integration suite.
+
+New additions: I've added a deployment preview environment that spins up automatically
+on pull requests. Reviewers can now test changes in an isolated environment before
+merging. Daniel Park helped configure the infrastructure for this.
+
+I also added security scanning to the pipeline. Every build now runs dependency
+vulnerability checks and container image scanning. Results appear as PR comments so
+developers see issues immediately.
+
+The pipeline configuration is in the repo under the serialization engine directory. Let me
+know if you run into any issues.
+
+Cheers,
+Oluwaseun

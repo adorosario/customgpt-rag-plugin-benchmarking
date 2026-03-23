@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-02 04:23 AM
+Subject: A/B test results â€” AnalyticsDashboard experiment
+
+Hello,
+
+The AnalyticsDashboard A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 166 days with 404ms users in each cohort.
+
+Variant A (control): the existing logging pipeline flow. Conversion rate of
+115ms with an average task completion time of 166 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified AnalyticsDashboard step.
+Conversion rate of 404ms with task completion time of 115ms seconds.
+This represents a 39% improvement in conversion and 166 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 166 to 404ms
+in the treatment group. Support ticket volume for AnalyticsDashboard related issues
+decreased by 39%. No negative impact on logging pipeline engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Dmitri Volkov from Engineering can have this
+deployed by Wednesday, March 22.
+
+One caveat: the test population skewed toward Integration Hub power users. We should
+monitor new user behavior closely for the first 166 weeks after full rollout.
+
+Cheers,
+Sanjay

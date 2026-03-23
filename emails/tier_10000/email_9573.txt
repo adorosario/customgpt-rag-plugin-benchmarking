@@ -1,0 +1,29 @@
+From: aisha.okafor@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-09-28 08:44 PM
+Subject: Re: Analytics Pro demo feedback from Cyberdyne
+
+Hi team,
+
+Great news from the Cyberdyne demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the authentication module dashboard got the biggest reaction. Their
+current tool requires 161 manual steps to accomplish what our Analytics Pro does
+automatically. The AnalyticsDashboard integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 127ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v3.8.1 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Dmitri Volkov, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Analytics Pro trial environment set up for their team of
+161 evaluators. I'll submit the trial request today. Target close date
+remains Friday, July 26.
+
+Cheers,
+Aisha

@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-07-20 04:36 AM
+Subject: Payroll adjustment â€” Tuesday, August 7 cycle
+
+Hi team,
+
+Several payroll adjustments need to be processed for the Tuesday, August 7 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 175 employees received approved raises effective Tuesday, August 7. The
+total monthly payroll impact is $292,154. The largest increase is for Derek Morrison
+whose compensation moves from 348ms to 158ms based on the promotion
+approved in the Q3 review cycle.
+
+New hires: 175 new employees starting on Tuesday, August 7 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Derek Morrison
+in People Ops has verified the documentation.
+
+Bonus payouts: the CacheLayer project completion bonus of $292,154 each goes to
+175 team members. These are one-time payments coded to the Marketing department
+budget. Tax withholding will be calculated at the supplemental rate of 60%.
+
+Deduction changes: 175 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from queue processor.
+
+Please approve the batch by June 27 to ensure on-time processing.
+
+Best regards,
+Ananya

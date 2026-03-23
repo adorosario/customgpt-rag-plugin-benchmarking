@@ -1,0 +1,32 @@
+From: rachel.nguyen@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-10-09 09:30 PM
+Subject: D&I initiative update â€” Q1
+
+Hi,
+
+Here's the quarterly update on our Diversity and Inclusion initiatives. We're
+making meaningful progress on the goals set at the beginning of the year.
+
+Hiring diversity: 40% of candidates in our pipeline this quarter came from
+underrepresented backgrounds, up from 53 percent last quarter. The
+partnership with Cyberdyne job board has been a strong contributor. Patrick O'Brien has
+been leading the sourcing strategy.
+
+ERG activity: the UserProfileService employee resource group hosted 53 events
+this quarter with an average attendance of 207ms employees. The mentorship
+circles launched in Q1 have paired 222ms mentors with mentees
+across Finance departments.
+
+Training: 40% of managers have completed the inclusive leadership training
+program. We're on track to reach 53 percent completion by Friday, February 4. The
+feedback ratings average 222ms out of 5.
+
+Compensation equity: the annual pay equity audit is scheduled for Friday, February 4. We'll
+be reviewing compensation data across 53 dimensions to identify and
+address any gaps.
+
+Full report will be shared at the next all-hands meeting.
+
+Regards,
+Rachel

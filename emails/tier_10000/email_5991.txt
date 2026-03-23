@@ -1,0 +1,27 @@
+From: carlos.rivera@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-30 07:26 PM
+Subject: Pipeline update â€” Cyberdyne deal status
+
+Hi all,
+
+Quick update on the Cyberdyne opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $293,731 for the Enterprise Suite deployment. The
+decision timeline is end of Q1. Their main concern remains the integration
+with their existing MessageBroker infrastructure, which is why I've looped in Sofia Martinez
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Cyberdyne is also evaluating one other vendor but our
+Enterprise Suite demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our queue processor capability.
+
+Next steps: technical architecture session on Wednesday, June 25, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 14%.
+
+Cheers,
+Carlos

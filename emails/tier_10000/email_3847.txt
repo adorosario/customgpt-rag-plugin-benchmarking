@@ -1,0 +1,27 @@
+From: wei.zhang@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-09-02 10:50 PM
+Subject: Incident postmortem â€” PaymentGateway outage on Friday, May 6
+
+Hi all,
+
+Attached is the postmortem for the PaymentGateway outage that occurred on Friday, May 6. The
+incident lasted approximately 45 minutes and affected 161 for a subset of users.
+
+Root cause: a configuration change in the event bus deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+153ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, Priya Sharma acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the PaymentGateway runbook, add a circuit breaker for the
+event bus connection pool, and implement load shedding when concurrency exceeds
+153ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Thanks,
+Wei

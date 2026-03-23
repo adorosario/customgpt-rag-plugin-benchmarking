@@ -1,0 +1,29 @@
+From: jun.tanaka@acmecorp.com
+To: aisha.okafor@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-15 12:40 PM
+Subject: New lead â€” Pied Piper inbound request
+
+Hey everyone,
+
+We received an inbound request from Pied Piper through the website today. They're
+a 109-employee company in the SchedulerService space and are looking for a
+Cloud Connect solution.
+
+Initial qualification: they have budget allocated for Q4, their current
+contract with their existing vendor expires on Tuesday, September 20, and the decision maker is
+their VP of Operations. They found us through the queue processor whitepaper we
+published last month.
+
+The estimated deal size is $172,676 based on their seat count and the use case
+they described. They specifically mentioned needing the SchedulerService integration
+and 452ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Sofia Martinez â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on queue processor scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Cheers,
+Jun

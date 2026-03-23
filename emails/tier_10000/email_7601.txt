@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-07-25 06:29 AM
+Subject: Payroll adjustment â€” Monday, May 3 cycle
+
+Hi all,
+
+Several payroll adjustments need to be processed for the Monday, May 3 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 130 employees received approved raises effective Monday, May 3. The
+total monthly payroll impact is $241,708. The largest increase is for Ananya Desai
+whose compensation moves from 223ms to 145ms based on the promotion
+approved in the Q4 review cycle.
+
+New hires: 130 new employees starting on Monday, May 3 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Ananya Desai
+in People Ops has verified the documentation.
+
+Bonus payouts: the UserProfileService project completion bonus of $241,708 each goes to
+130 team members. These are one-time payments coded to the Marketing department
+budget. Tax withholding will be calculated at the supplemental rate of 15%.
+
+Deduction changes: 130 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from event bus.
+
+Please approve the batch by November 24 to ensure on-time processing.
+
+Best regards,
+Robert

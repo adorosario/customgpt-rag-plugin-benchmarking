@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-09-09 04:22 PM
+Subject: A/B test results â€” AnalyticsDashboard experiment
+
+Hello,
+
+The AnalyticsDashboard A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 100 days with 248ms users in each cohort.
+
+Variant A (control): the existing queue processor flow. Conversion rate of
+239ms with an average task completion time of 100 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified AnalyticsDashboard step.
+Conversion rate of 248ms with task completion time of 239ms seconds.
+This represents a 55% improvement in conversion and 100 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 100 to 248ms
+in the treatment group. Support ticket volume for AnalyticsDashboard related issues
+decreased by 55%. No negative impact on queue processor engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Rachel Nguyen from Engineering can have this
+deployed by Monday, August 12.
+
+One caveat: the test population skewed toward Enterprise Suite power users. We should
+monitor new user behavior closely for the first 100 weeks after full rollout.
+
+Thanks,
+Liam

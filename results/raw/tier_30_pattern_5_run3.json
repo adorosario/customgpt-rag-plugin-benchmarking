@@ -1,0 +1,21 @@
+{
+  "tier": 30,
+  "question_id": "pattern_5",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What's happening with the Series B fundraising?",
+  "model": "claude-sonnet-4-6",
+  "response": "Which company are you asking about? Given the project context, are you asking about CustomGPT.ai's Series B, or a different company?",
+  "time_seconds": 24.03,
+  "num_turns": 1,
+  "cost_usd": 0.0534588,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10872,
+  "cache_read_tokens": 17316,
+  "output_tokens": 499,
+  "total_tokens": 28690,
+  "duration_api_ms": 12435,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

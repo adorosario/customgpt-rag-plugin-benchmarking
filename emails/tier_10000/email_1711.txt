@@ -1,0 +1,30 @@
+From: sarah.chen@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-09-10 05:42 PM
+Subject: Re: Compliance update â€” AuditLog regulations
+
+Hey,
+
+Following up on the regulatory change we discussed. The new AuditLog compliance
+requirements take effect on Monday, June 26 and here's our readiness assessment.
+
+Current status: we're 54% compliant with the new requirements. The main gap
+is in caching layer data handling procedures â€” the regulation requires documented
+retention policies for customer data processed through the Analytics Pro platform.
+
+Action items: first, update our data retention policy to align with the 87ms-day
+requirement specified in the regulation. Second, implement the technical controls
+that Maria Santos from Engineering has scoped â€” estimated at 123 sprint points.
+Third, conduct the required annual audit before Monday, June 26.
+
+Risk assessment: non-compliance penalties are significant â€” up to $303,391 per
+violation. However, the regulatory body has indicated a 123-month grace period
+for companies that demonstrate good faith compliance efforts. We should be well
+within that window.
+
+I've scheduled a cross-functional meeting for Monday, June 26 to coordinate the implementation
+plan. Please confirm attendance for your team.
+
+Regards,
+Sarah

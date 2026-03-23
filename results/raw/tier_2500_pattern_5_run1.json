@@ -1,0 +1,21 @@
+{
+  "tier": 2500,
+  "question_id": "pattern_5",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What's happening with the Series B fundraising?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about a Series B fundraising in my context or memory. Could you give me more context \u00e2\u20ac\u201d are you asking about CustomGPT.ai's fundraising, or something else? If it's something I should be tracking, I can save it to memory.",
+  "time_seconds": 20.23,
+  "num_turns": 1,
+  "cost_usd": 0.0497262,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10872,
+  "cache_read_tokens": 17324,
+  "output_tokens": 250,
+  "total_tokens": 28449,
+  "duration_api_ms": 6511,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

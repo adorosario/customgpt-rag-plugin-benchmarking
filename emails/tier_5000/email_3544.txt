@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-18 05:54 PM
+Subject: FP&A update â€” Cloud Connect financial model
+
+Hi,
+
+I've updated the Cloud Connect financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 186 per month based
+on the last 289ms months of data. Average contract value is tracking at
+$283,735, which is 59% above our original assumption. The DataPipeline
+upsell rate of 361ms is a positive trend.
+
+Cost structure: the authentication module hosting costs are running 59% higher than
+modeled due to increased DataPipeline usage. I've adjusted the variable cost
+per customer from 289ms to 361ms. Rachel Nguyen from Engineering
+says the optimization project should bring this down by 59% in Q4.
+
+Break-even analysis: with the revised numbers, Cloud Connect reaches contribution
+margin break-even at 186 customers, which we're projected to hit by Tuesday, July 16.
+Full break-even including allocated overhead comes at 289ms customers.
+
+Scenarios: the base case shows $283,735 in cumulative revenue by year end. The
+upside case with the Massive Dynamic deal closing hits 361ms. Downside case
+assuming 59% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Talk soon,
+Grace

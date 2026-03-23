@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-11-21 08:52 AM
+Subject: Roadmap update â€” Cloud Connect Q4
+
+Good afternoon,
+
+Here's the updated Cloud Connect roadmap for Q4. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the SearchIndex integration feature launches on Tuesday, November 2. This is our
+top customer request with 139 votes on the feedback board. Hannah Goldstein from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the rate limiter overhaul is scoped for mid-Q4. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 139 sprints with 302ms engineers allocated.
+
+Exploring: the SearchIndex AI feature that Sales has been requesting. We need more
+user research before committing â€” Hannah Goldstein is running interviews with 139
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the rate limiter redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 139-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Talk soon,
+Daniel

@@ -1,0 +1,28 @@
+From: priya.sharma@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-08-22 09:17 PM
+Subject: Sprint v3.8.1 retrospective notes
+
+Hi team,
+
+Here are the retrospective notes from sprint v3.8.1. Thanks to everyone who
+participated â€” we had good engagement this time.
+
+What went well: the MessageBroker feature shipped on time, Ravi Patel did an excellent
+job coordinating the cross-team dependency, and our CI pipeline reliability improved
+to 213ms from 306ms last sprint.
+
+What could improve: we underestimated the config manager integration work by about
+24%, which pushed two stories into the next sprint. We also had too many
+context switches mid-sprint from unplanned support requests.
+
+Action items: establish a support rotation so on-call duties don't fall on the same
+people, and break down large stories into smaller increments to improve estimation
+accuracy. Ravi Patel volunteered to draft the rotation schedule.
+
+Sprint v3.8.1 velocity was 62 points. Carrying over 8 points of unfinished
+work to the next sprint.
+
+Thanks,
+Priya

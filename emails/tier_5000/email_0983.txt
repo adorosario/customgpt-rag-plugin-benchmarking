@@ -1,0 +1,27 @@
+From: dmitri.volkov@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-06 08:00 PM
+Subject: Pipeline update â€” Stark Industries deal status
+
+Good morning,
+
+Quick update on the Stark Industries opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $286,167 for the Integration Hub deployment. The
+decision timeline is end of Q1. Their main concern remains the integration
+with their existing AuthService infrastructure, which is why I've looped in Robert Kimura
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Stark Industries is also evaluating one other vendor but our
+Integration Hub demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our service mesh capability.
+
+Next steps: technical architecture session on Thursday, October 17, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 5%.
+
+Best,
+Dmitri

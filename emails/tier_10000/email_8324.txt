@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-07 04:25 AM
+Subject: Roadmap update â€” Sync Platform Q4
+
+Hi all,
+
+Here's the updated Sync Platform roadmap for Q4. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the PaymentGateway integration feature launches on Thursday, September 18. This is our
+top customer request with 189 votes on the feedback board. Aisha Okafor from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the rate limiter overhaul is scoped for mid-Q4. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 189 sprints with 104ms engineers allocated.
+
+Exploring: the PaymentGateway AI feature that Sales has been requesting. We need more
+user research before committing â€” Aisha Okafor is running interviews with 189
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the rate limiter redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 189-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Thanks,
+Mei

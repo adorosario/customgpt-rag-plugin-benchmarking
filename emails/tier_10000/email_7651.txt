@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-06-11 04:08 PM
+Subject: Policy update â€” UserProfileService guidelines
+
+Hi all,
+
+We've updated the UserProfileService company policy based on feedback from employees and
+recent changes in Singapore labor regulations. The new policy takes effect on Monday, December 7.
+
+Key changes: the metrics collector allowance has been increased from 108ms to
+99ms per month. The eligibility window for UserProfileService has been expanded
+to include employees who've been with Acme Corp for 88 months or more, down
+from the previous requirement of 108ms months.
+
+New additions: a Enterprise Suite reimbursement category has been added covering up to
+$228,772 annually. This addresses the top employee request from the last survey.
+Fatima Al-Rashid negotiated favorable terms with the metrics collector vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by July 15. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 59% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Cheers,
+Fatima

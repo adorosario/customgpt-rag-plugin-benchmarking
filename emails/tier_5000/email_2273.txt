@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-07-20 03:19 PM
+Subject: Weekly pipeline review â€” Tuesday, November 16
+
+Hi,
+
+Here's the pipeline summary ahead of our weekly review meeting on Tuesday, November 16.
+
+Total pipeline value: $386,374. Weighted pipeline: 387ms. We need
+441ms more in closed-won revenue to hit the Q3 target.
+
+Deals moving forward: Massive Dynamic is in final contract review and should close this
+week. Two mid-market opportunities in the Sync Platform space progressed to technical
+evaluation stage.
+
+At risk: one enterprise deal has gone quiet after we submitted pricing. Dmitri Volkov
+is trying to reconnect with the champion. Another account pushed their evaluation
+to next Q3 due to internal restructuring.
+
+New leads: generated 51 new qualified leads from the conference last week.
+The PaymentGateway demo was particularly well received. I've started outreach and
+have initial calls booked for 42% of them.
+
+Will walk through the details and forecasting adjustments in the meeting.
+
+Cheers,
+Aisha

@@ -1,0 +1,21 @@
+{
+  "tier": 2500,
+  "question_id": "needle_2",
+  "question_type": "hard",
+  "run": 3,
+  "question": "What was the revised Q3 revenue projection from Finance?",
+  "model": "claude-sonnet-4-6",
+  "response": "The revised Q3 revenue projection from Finance was **$4.2M**, down from the original $4.8M target. Per `email_0019.txt` (dated 2025-09-02), two main factors drove the revision \u00e2\u20ac\u201d the Berlin office opening being pushed back, and updated expense forecasts from the latest pipeline data.",
+  "time_seconds": 37.42,
+  "num_turns": 4,
+  "cost_usd": 0.0901962,
+  "input_tokens": 6,
+  "cache_creation_tokens": 13150,
+  "cache_read_tokens": 104719,
+  "output_tokens": 630,
+  "total_tokens": 118505,
+  "duration_api_ms": 23630,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

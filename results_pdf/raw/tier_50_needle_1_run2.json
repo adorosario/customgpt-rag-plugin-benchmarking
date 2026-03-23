@@ -1,0 +1,21 @@
+{
+  "tier": 50,
+  "question_id": "needle_1",
+  "question_type": "hard",
+  "run": 2,
+  "question": "When did Sarah from Legal say the patent filing deadline was moved to, and who did she tell?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the email in `email_0043.pdf`, the email from Sarah doesn't describe a deadline being **moved** \u00e2\u20ac\u201d it's a status update on the Insight Engine patent application. Here's what it actually says:\n\n- **From:** Sarah Chen (`sarah.chen@acmecorp.com`) \u00e2\u20ac\u201d Legal\n- **To:** Jun Tanaka (`jun.tanaka@acmecorp.com`)\n- **CC:** `legal@acmecorp.com`\n- **Date:** 2025-07-28\n\nSarah recommends targeting **Tuesday, September 15** to file the non-provisional patent application (12 months from the provisional filing date), to allow adequate review buffer.\n\n**Note:** The PDF contains some clearly garbled data (\"192 months,\" \"213ms weeks,\" etc.) that appear to be benchmark corruption artifacts \u00e2\u20ac\u201d those numbers don't reflect real legal timelines.\n\nAcross all 50 emails in this directory, this is the only one referencing Sarah from Legal and a patent filing. If you're looking for a specific email where a deadline was explicitly **moved/rescheduled**, it doesn't appear to exist in this dataset.",
+  "time_seconds": 111.28,
+  "num_turns": 5,
+  "cost_usd": 0.4441138,
+  "input_tokens": 8,
+  "cache_creation_tokens": 14500,
+  "cache_read_tokens": 104896,
+  "output_tokens": 1532,
+  "total_tokens": 120936,
+  "duration_api_ms": 98884,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

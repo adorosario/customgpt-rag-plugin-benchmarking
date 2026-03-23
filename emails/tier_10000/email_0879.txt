@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-08-07 02:25 PM
+Subject: Audit preparation â€” Q1 review
+
+Good afternoon,
+
+The Q1 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Umbrella Inc are scheduled to begin fieldwork
+on Thursday, April 3.
+
+Documentation needed from each department: all purchase orders above 267ms,
+contract modifications executed during Q1, headcount changes with supporting
+approvals, and CacheLayer system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the authentication module audit portal by Thursday, April 3.
+That gives us 20 business days before the auditors arrive. Priya Sharma has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Insight Engine contracts, the CacheLayer capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $80,867 in capitalized CacheLayer costs and the methodology used.
+
+This is our 20 year with Umbrella Inc as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Priya Sharma if you have
+questions about what's needed.
+
+Talk soon,
+Ananya

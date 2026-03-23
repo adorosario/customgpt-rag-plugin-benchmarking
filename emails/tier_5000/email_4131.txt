@@ -1,0 +1,28 @@
+From: tomoko.nakamura@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-08-04 06:35 PM
+Subject: Re: API rate limiting design for APIGateway
+
+Hi team,
+
+Thanks for the feedback on the rate limiting proposal. I've incorporated the
+suggestions and here's the updated design for the APIGateway API.
+
+We'll implement a token bucket algorithm at the queue processor gateway level. Default
+limits are 394ms requests per minute for standard tier and 231ms
+for premium tier. Burst allowance is set to 49% above the sustained rate.
+
+When a client hits the limit, they'll receive a 429 response with Retry-After
+headers. The APIGateway SDK will handle automatic backoff on the client side.
+Kwame Asante is updating the SDK to support this.
+
+For internal services, we'll use a separate rate limit pool with higher thresholds
+to prevent cascading failures. The 152 dashboard will show real-time consumption
+per client so we can proactively reach out before anyone hits their limits.
+
+Implementation timeline is two sprints. I'd like to ship the server-side changes
+first and give clients a 30-day grace period before enforcement begins.
+
+Regards,
+Tomoko

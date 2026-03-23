@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-11-05 11:50 AM
+Subject: Payroll adjustment â€” Thursday, March 1 cycle
+
+Hi,
+
+Several payroll adjustments need to be processed for the Thursday, March 1 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 189 employees received approved raises effective Thursday, March 1. The
+total monthly payroll impact is $278,407. The largest increase is for Jun Tanaka
+whose compensation moves from 247ms to 413ms based on the promotion
+approved in the Q1 review cycle.
+
+New hires: 189 new employees starting on Thursday, March 1 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Jun Tanaka
+in People Ops has verified the documentation.
+
+Bonus payouts: the BillingModule project completion bonus of $278,407 each goes to
+189 team members. These are one-time payments coded to the Sales department
+budget. Tax withholding will be calculated at the supplemental rate of 42%.
+
+Deduction changes: 189 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from config manager.
+
+Please approve the batch by June 10 to ensure on-time processing.
+
+Cheers,
+Ananya

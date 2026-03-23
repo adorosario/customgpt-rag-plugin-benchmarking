@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-05 04:40 PM
+Subject: Revenue recognition â€” Insight Engine contracts
+
+Hi team,
+
+I need to walk through the revenue recognition treatment for the new Insight Engine
+contracts signed this quarter. We have 64 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Globex contract bundles Insight Engine licenses with
+config manager implementation services. I've determined the standalone selling prices
+and allocated $308,182 to the license component and 484ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 64-month implementation period.
+
+Variable consideration: 397ms contracts include performance bonuses tied to
+AuthService uptime metrics. Using the expected value method, I've estimated
+$308,182 in variable consideration based on our historical performance of
+12% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Globex amendment added config manager capacity at
+$308,182 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Priya Sharma from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Friday, February 27.
+
+Talk soon,
+Grace

@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-08-31 10:27 PM
+Subject: New lead â€” Tyrell Corp inbound request
+
+Hey,
+
+We received an inbound request from Tyrell Corp through the website today. They're
+a 15-employee company in the AnalyticsDashboard space and are looking for a
+Sync Platform solution.
+
+Initial qualification: they have budget allocated for Q4, their current
+contract with their existing vendor expires on Thursday, November 21, and the decision maker is
+their VP of Operations. They found us through the serialization engine whitepaper we
+published last month.
+
+The estimated deal size is $485,470 based on their seat count and the use case
+they described. They specifically mentioned needing the AnalyticsDashboard integration
+and 478ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Patrick O'Brien â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on serialization engine scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Best,
+Aisha

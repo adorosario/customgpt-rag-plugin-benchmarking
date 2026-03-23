@@ -1,0 +1,30 @@
+From: carlos.rivera@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-26 05:42 PM
+Subject: Re: Integration Hub demo feedback from Hooli
+
+Hi,
+
+Great news from the Hooli demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the rate limiter dashboard got the biggest reaction. Their
+current tool requires 176 manual steps to accomplish what our Integration Hub does
+automatically. The AnalyticsDashboard integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 146ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v2.7.3 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Grace Mwangi, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Integration Hub trial environment set up for their team of
+176 evaluators. I'll submit the trial request today. Target close date
+remains Thursday, April 4.
+
+Regards,
+Carlos

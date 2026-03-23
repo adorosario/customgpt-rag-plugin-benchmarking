@@ -1,0 +1,29 @@
+From: carlos.rivera@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-07-25 12:03 PM
+Subject: Re: Integration Hub demo feedback from Oscorp
+
+Hey,
+
+Great news from the Oscorp demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the load balancer dashboard got the biggest reaction. Their
+current tool requires 153 manual steps to accomplish what our Integration Hub does
+automatically. The BillingModule integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 382ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v3.2.2 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Jun Tanaka, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Integration Hub trial environment set up for their team of
+153 evaluators. I'll submit the trial request today. Target close date
+remains Tuesday, May 9.
+
+Best,
+Carlos

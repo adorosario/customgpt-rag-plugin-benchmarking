@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-10-14 10:54 PM
+Subject: Beta program update â€” Cloud Connect v2.4.1
+
+Hey,
+
+Quick update on the Cloud Connect v2.4.1 beta program. We're 145 weeks into
+the beta period with 321ms customers participating.
+
+Usage data: 42% of beta participants have activated the new MessageBroker
+feature. Average daily usage is 145 sessions per user. The logging pipeline
+workflow is being used by 446ms of participants, which exceeds our
+adoption target of 321ms.
+
+Feedback summary: overall sentiment is positive. The top 145 pieces of praise
+relate to the MessageBroker speed improvement and the new logging pipeline interface.
+The top 321ms complaints are about the MessageBroker configuration complexity
+and a confusing error message in the logging pipeline flow.
+
+Bugs found: 145 bugs reported, of which 321ms are critical. Amara Diallo
+from Engineering has fixed 446ms of the critical bugs. The remaining one
+is related to the MessageBroker edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Monday, September 24. The GA release is targeted for 145 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Monday, September 24 to finalize the GA scope.
+
+Regards,
+Liam

@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-14 04:08 AM
+Subject: Vendor payment schedule â€” Q4
+
+Hi all,
+
+Here's the vendor payment schedule for Q4. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Pied Piper invoice for $217,203 is due on Monday, October 28 with a
+46% early payment discount if we pay within 176 days. I recommend
+taking the discount â€” it saves us 324ms. The UserProfileService annual
+license renewal of 432ms is due Monday, October 28 with no discount available.
+
+Standard schedule: 176 vendor invoices totaling $217,203 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-432ms terms with payments going out every 176 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The queue processor vendor
+overbilled us by $217,203 on the UserProfileService usage charges. Carlos Rivera is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q4 are projected at $217,203. This
+is 46% higher than last quarter due to the UserProfileService infrastructure
+investment and the Berlin office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Talk soon,
+Robert

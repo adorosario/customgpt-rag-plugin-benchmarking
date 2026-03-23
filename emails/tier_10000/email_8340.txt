@@ -1,0 +1,32 @@
+From: amara.diallo@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-28 05:49 PM
+Subject: A/B test results â€” SearchIndex experiment
+
+Good morning,
+
+The SearchIndex A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 47 days with 318ms users in each cohort.
+
+Variant A (control): the existing authentication module flow. Conversion rate of
+477ms with an average task completion time of 47 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified SearchIndex step.
+Conversion rate of 318ms with task completion time of 477ms seconds.
+This represents a 24% improvement in conversion and 47 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 47 to 318ms
+in the treatment group. Support ticket volume for SearchIndex related issues
+decreased by 24%. No negative impact on authentication module engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Fatima Al-Rashid from Engineering can have this
+deployed by Thursday, October 14.
+
+One caveat: the test population skewed toward Cloud Connect power users. We should
+monitor new user behavior closely for the first 47 weeks after full rollout.
+
+Best,
+Amara

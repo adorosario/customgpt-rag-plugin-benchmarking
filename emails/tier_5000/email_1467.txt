@@ -1,0 +1,31 @@
+From: kwame.asante@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-10-02 12:18 PM
+Subject: Training program â€” UserProfileService certification
+
+Hey,
+
+We're launching a new UserProfileService certification training program for interested
+employees. This is part of our learning and development investment for Q2.
+
+Program details: the course runs for 177 weeks and covers serialization engine
+fundamentals through advanced topics. Sessions are held twice a week for 151ms
+hours each. Laura Kim from the Sales team will facilitate the hands-on labs.
+
+Eligibility: open to all employees. Priority enrollment goes to the Sales and
+Engineering teams since the certification is directly relevant to their roles. We
+have 485ms spots available for the first cohort.
+
+Cost: Acme Corp covers 22% of the certification exam fee upon course
+completion. The total investment per employee is $363,400 including materials and
+exam vouchers.
+
+Commitment: participants are expected to dedicate 177 hours per week to
+coursework outside of the live sessions. Managers must approve the time commitment
+for their reports.
+
+Registration opens on Wednesday, October 25 and closes when spots are filled. Sign up through
+the serialization engine learning portal.
+
+Regards,
+Kwame

@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-07-15 07:19 PM
+Subject: Customer feedback digest â€” Enterprise Suite Q3
+
+Hey everyone,
+
+Here's the quarterly customer feedback digest for Enterprise Suite. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 49, up 53ms points from last quarter. The improvement
+is driven by the DataPipeline launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 23%.
+
+Top feature requests: DataPipeline advanced filtering (49 votes), config manager
+bulk operations (53ms votes), and enhanced Enterprise Suite reporting (139ms
+votes). The filtering request aligns with what we heard in the user research study
+Rachel Nguyen conducted.
+
+Top complaints: DataPipeline performance during peak hours (49 mentions),
+the config manager onboarding experience (53ms mentions), and pricing
+transparency (139ms mentions). The performance issue is being addressed
+by Engineering â€” Rachel Nguyen expects the fix in v2.1.0.
+
+Churn insights: 49 customers churned this quarter citing DataPipeline
+limitations as the primary reason. The config manager overhaul on our roadmap directly
+addresses their feedback. 23% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, August 3.
+
+Best,
+Liam

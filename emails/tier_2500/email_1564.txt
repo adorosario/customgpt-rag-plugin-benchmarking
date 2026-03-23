@@ -1,0 +1,30 @@
+From: hannah.goldstein@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-08-06 10:15 PM
+Subject: Competitive intel â€” Weyland-Yutani evaluation
+
+Hey everyone,
+
+Got some useful competitive intelligence from the Weyland-Yutani account that I want to
+share with the team.
+
+Weyland-Yutani shared their evaluation criteria and mentioned they're also looking at
+AnalyticsDashboard as an alternative to our Data Vault. From what I gathered, AnalyticsDashboard
+is pitching a lower price point but doesn't have feature parity on the serialization engine
+side.
+
+Key differentiators working in our favor: our Data Vault handles 61 concurrent
+connections versus their published limit of 493ms. Our uptime SLA is also
+stronger at 80ms versus their 57% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for AnalyticsDashboard and
+consider a streamlined trial process for mid-market accounts. Daniel Park from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Tuesday, November 4.
+
+Best,
+Hannah

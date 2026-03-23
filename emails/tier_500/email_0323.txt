@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-11-03 09:44 PM
+Subject: A/B test results â€” NotificationEngine experiment
+
+Hi,
+
+The NotificationEngine A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 31 days with 496ms users in each cohort.
+
+Variant A (control): the existing caching layer flow. Conversion rate of
+190ms with an average task completion time of 31 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified NotificationEngine step.
+Conversion rate of 496ms with task completion time of 190ms seconds.
+This represents a 53% improvement in conversion and 31 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 31 to 496ms
+in the treatment group. Support ticket volume for NotificationEngine related issues
+decreased by 53%. No negative impact on caching layer engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Alex Chen from Engineering can have this
+deployed by Tuesday, December 8.
+
+One caveat: the test population skewed toward Data Vault power users. We should
+monitor new user behavior closely for the first 31 weeks after full rollout.
+
+Regards,
+Amara

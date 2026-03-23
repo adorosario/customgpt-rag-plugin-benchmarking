@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-06-23 03:30 PM
+Subject: Re: Customer story â€” Globex case study
+
+Good morning,
+
+Great update on the Globex case study. I've finished the first draft and want
+to share the results we're highlighting.
+
+Headline stat: Globex saw a 19% reduction in authentication module processing time
+after deploying Analytics Pro. This translates to $256,794 in annual cost savings
+based on their team size of 114 people.
+
+Story arc: the narrative follows their journey from evaluating PaymentGateway
+alternatives to full deployment. The strongest section is the quote from their CTO
+about how Analytics Pro simplified their authentication module workflow.
+
+Approval status: Globex's marketing team has reviewed and approved the draft with
+minor edits. They're comfortable with us publishing by Monday, August 14. Daniel Park coordinated
+the approval process.
+
+Distribution plan: blog post with pull quotes, one-page PDF for Sales enablement,
+and a 114-minute video summary. The video production is scheduled for next week.
+
+Can you review the draft and send feedback by Monday, August 14? I want to finalize before
+the Q1 campaign kickoff.
+
+Best regards,
+James

@@ -1,0 +1,31 @@
+From: michael.brennan@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-07-28 07:40 AM
+Subject: Audit preparation â€” Q3 review
+
+Hi,
+
+The Q3 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Hooli are scheduled to begin fieldwork
+on Thursday, December 13.
+
+Documentation needed from each department: all purchase orders above 142ms,
+contract modifications executed during Q3, headcount changes with supporting
+approvals, and AuthService system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the queue processor audit portal by Thursday, December 13.
+That gives us 14 business days before the auditors arrive. James Oduya has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Data Vault contracts, the AuthService capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $393,558 in capitalized AuthService costs and the methodology used.
+
+This is our 14 year with Hooli as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to James Oduya if you have
+questions about what's needed.
+
+Best regards,
+Michael

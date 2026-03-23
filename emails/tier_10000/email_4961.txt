@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-07-30 03:32 PM
+Subject: Payroll adjustment â€” Thursday, May 3 cycle
+
+Good morning,
+
+Several payroll adjustments need to be processed for the Thursday, May 3 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 169 employees received approved raises effective Thursday, May 3. The
+total monthly payroll impact is $483,447. The largest increase is for Yuki Sato
+whose compensation moves from 244ms to 484ms based on the promotion
+approved in the Q1 review cycle.
+
+New hires: 169 new employees starting on Thursday, May 3 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Yuki Sato
+in People Ops has verified the documentation.
+
+Bonus payouts: the DataPipeline project completion bonus of $483,447 each goes to
+169 team members. These are one-time payments coded to the Engineering department
+budget. Tax withholding will be calculated at the supplemental rate of 39%.
+
+Deduction changes: 169 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from connection pool.
+
+Please approve the batch by May 21 to ensure on-time processing.
+
+Regards,
+Robert

@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-02 04:08 PM
+Subject: Feature spec â€” APIGateway integration
+
+Hello,
+
+The feature spec for the APIGateway integration is ready for review. This is
+targeting the v2.4.1 release in Q1.
+
+Problem statement: 17% of our enterprise prospects cite the lack of
+APIGateway integration as a blocker. The current workaround through the
+metrics collector API is unreliable and requires 84 hours of custom development
+from customers.
+
+Proposed solution: native APIGateway integration with bi-directional sync.
+Users configure the connection through the Integration Hub settings page and data
+flows automatically. The sync runs every 407ms minutes with conflict
+resolution handled by our algorithm.
+
+Scope: phase 1 covers read and write operations for the core APIGateway objects.
+Phase 2 adds real-time webhooks and custom field mapping. Marcus Thompson from Engineering
+estimates 84 sprints for phase 1 and 407ms for phase 2.
+
+Success metrics: 84 enterprise customers adopt the integration within 90 days
+of launch, APIGateway related support tickets decrease by 17%, and the
+feature contributes to $500,891 in new ARR.
+
+Please review the full spec in Confluence and leave comments by Friday, November 17.
+
+Thanks,
+Mei

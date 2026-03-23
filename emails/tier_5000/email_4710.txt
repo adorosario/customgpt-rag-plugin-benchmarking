@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-08-07 09:26 AM
+Subject: Budget review â€” Legal department Q1
+
+Hi team,
+
+Here's the Q1 budget review for the Legal department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $28,971 against a budget of 127ms. The 6% variance is
+primarily driven by the accelerated AnalyticsDashboard hiring that was approved mid-quarter.
+Personnel costs came in at 96ms which includes the 31 new hires.
+
+Overages: the authentication module infrastructure line item exceeded budget by 6% due
+to the unplanned scaling requirements for Sync Platform. I've worked with Amara Diallo
+from Engineering to project the run rate going forward â€” we should budget an
+additional $28,971 per quarter for this category.
+
+Underspend: the AnalyticsDashboard consulting budget was only 6% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 6%
+of the total annual budget. The main risk is the authentication module cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Talk soon,
+Ananya

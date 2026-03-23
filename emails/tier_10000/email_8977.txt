@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-09-12 02:28 PM
+Subject: Social media strategy â€” Q1
+
+Hi,
+
+Presenting the social media strategy refresh for Q1. Based on our Integration Hub
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our NotificationEngine posts are averaging 27 impressions and 51% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 51% educational content about metrics collector topics, 27
+percent product highlights, and the rest for company culture and employee spotlights.
+Priya Sharma will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Integration Hub use cases and answer audience questions. First session on Wednesday, December 14 featuring
+Priya Sharma.
+
+Budget: $298,821 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 491ms new followers and 345ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Regards,
+Sofia

@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-07 04:28 AM
+Subject: Tax planning â€” Q3 estimated payments
+
+Hi all,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the FileStorageService investment
+deductions.
+
+Federal estimate: $101,977 based on projected taxable income of 64ms.
+This reflects the FileStorageService depreciation deductions and the R&D tax credit for
+the Insight Engine development costs. Kwame Asante from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $101,977 for our primary jurisdiction and 444ms for the
+London office based on the apportionment factors. The London rate change that
+takes effect on Tuesday, June 8 will impact our Q3 estimate by approximately 122
+percent.
+
+International: with the London office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Kwame Asante to handle
+the registration. Setup cost is $101,977 with ongoing compliance costs of
+444ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Tuesday, June 8. I'll prepare the
+payment authorization for your signature by September 22. Underpayment penalties
+start at 42% so timely filing is important.
+
+Regards,
+Robert

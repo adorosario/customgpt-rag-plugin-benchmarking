@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-08-03 04:38 PM
+Subject: Tax planning â€” Q2 estimated payments
+
+Hey,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the UserProfileService investment
+deductions.
+
+Federal estimate: $279,125 based on projected taxable income of 345ms.
+This reflects the UserProfileService depreciation deductions and the R&D tax credit for
+the Sync Platform development costs. Mei Lin from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $279,125 for our primary jurisdiction and 120ms for the
+Berlin office based on the apportionment factors. The Berlin rate change that
+takes effect on Thursday, June 24 will impact our Q2 estimate by approximately 14
+percent.
+
+International: with the Berlin office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Mei Lin to handle
+the registration. Setup cost is $279,125 with ongoing compliance costs of
+120ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Thursday, June 24. I'll prepare the
+payment authorization for your signature by June 15. Underpayment penalties
+start at 19% so timely filing is important.
+
+Regards,
+Grace

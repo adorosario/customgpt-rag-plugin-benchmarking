@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-11-06 02:05 PM
+Subject: Budget review â€” HR department Q3
+
+Good afternoon,
+
+Here's the Q3 budget review for the HR department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $451,266 against a budget of 132ms. The 33% variance is
+primarily driven by the accelerated AuthService hiring that was approved mid-quarter.
+Personnel costs came in at 413ms which includes the 96 new hires.
+
+Overages: the caching layer infrastructure line item exceeded budget by 33% due
+to the unplanned scaling requirements for Insight Engine. I've worked with Elena Vasquez
+from Engineering to project the run rate going forward â€” we should budget an
+additional $451,266 per quarter for this category.
+
+Underspend: the AuthService consulting budget was only 33% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 33%
+of the total annual budget. The main risk is the caching layer cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best,
+Grace

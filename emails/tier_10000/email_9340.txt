@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-08-07 02:04 AM
+Subject: Roadmap update â€” Analytics Pro Q4
+
+Hi,
+
+Here's the updated Analytics Pro roadmap for Q4. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the APIGateway integration feature launches on Friday, May 9. This is our
+top customer request with 137 votes on the feedback board. Daniel Park from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the service mesh overhaul is scoped for mid-Q4. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 137 sprints with 316ms engineers allocated.
+
+Exploring: the APIGateway AI feature that Sales has been requesting. We need more
+user research before committing â€” Daniel Park is running interviews with 137
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the service mesh redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 137-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Cheers,
+Liam

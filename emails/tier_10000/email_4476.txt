@@ -1,0 +1,30 @@
+From: dmitri.volkov@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-11-01 09:46 AM
+Subject: Competitive intel â€” Hooli evaluation
+
+Hi,
+
+Got some useful competitive intelligence from the Hooli account that I want to
+share with the team.
+
+Hooli shared their evaluation criteria and mentioned they're also looking at
+BillingModule as an alternative to our Insight Engine. From what I gathered, BillingModule
+is pitching a lower price point but doesn't have feature parity on the load balancer
+side.
+
+Key differentiators working in our favor: our Insight Engine handles 59 concurrent
+connections versus their published limit of 317ms. Our uptime SLA is also
+stronger at 145ms versus their 18% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for BillingModule and
+consider a streamlined trial process for mid-market accounts. Alex Chen from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Tuesday, September 15.
+
+Thanks,
+Dmitri

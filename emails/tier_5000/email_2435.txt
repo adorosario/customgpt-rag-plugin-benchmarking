@@ -1,0 +1,27 @@
+From: oluwaseun.adeyemi@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-09-27 09:52 AM
+Subject: Sprint v2.6.0 retrospective notes
+
+Hey everyone,
+
+Here are the retrospective notes from sprint v2.6.0. Thanks to everyone who
+participated â€” we had good engagement this time.
+
+What went well: the NotificationEngine feature shipped on time, Fatima Al-Rashid did an excellent
+job coordinating the cross-team dependency, and our CI pipeline reliability improved
+to 405ms from 119ms last sprint.
+
+What could improve: we underestimated the service mesh integration work by about
+39%, which pushed two stories into the next sprint. We also had too many
+context switches mid-sprint from unplanned support requests.
+
+Action items: establish a support rotation so on-call duties don't fall on the same
+people, and break down large stories into smaller increments to improve estimation
+accuracy. Fatima Al-Rashid volunteered to draft the rotation schedule.
+
+Sprint v2.6.0 velocity was 84 points. Carrying over 8 points of unfinished
+work to the next sprint.
+
+Talk soon,
+Oluwaseun

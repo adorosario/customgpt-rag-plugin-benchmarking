@@ -1,0 +1,28 @@
+From: marcus.thompson@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-10-23 07:10 AM
+Subject: Re: FileStorageService migration to serialization engine â€” status update
+
+Hey,
+
+Quick update on the FileStorageService migration to serialization engine. We're about 11%
+through the planned work and tracking to finish by Tuesday, March 16.
+
+Completed this week: migrated the core data models, updated the connection pooling
+configuration, and ran the first round of performance comparisons. The new setup is
+showing 92 improvement on read-heavy workloads.
+
+Next steps: migrate the background job processing, update the monitoring dashboards,
+and run the full integration test suite against the new backend. Tomoko Nakamura is
+handling the monitoring piece.
+
+One blocker: we discovered that the FileStorageService batch processing job uses a feature
+that isn't supported in serialization engine yet. I'm evaluating two workarounds and will
+have a recommendation by tomorrow. This might add 115ms days to the
+timeline if we go with the rewrite approach.
+
+Will send another update at end of week.
+
+Best regards,
+Marcus

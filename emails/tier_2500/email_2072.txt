@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-09-15 05:24 AM
+Subject: Re: Insight Engine pricing discussion â€” CacheLayer tier
+
+Hello,
+
+Following up on the Insight Engine pricing discussion. I've modeled three options for
+the CacheLayer tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $225,201 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 24% of our existing base.
+Downside: it undercuts our current event bus pricing and may trigger downgrades.
+
+Option B: 154ms per seat per month with the event bus add-on bundled.
+Higher price point but stronger value perception. 100 of the 292ms
+customers we surveyed preferred this packaging. Yuki Sato from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $225,201 per CacheLayer transaction. This aligns
+with the value delivered but introduces billing complexity. Only 24% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$225,201 in incremental ARR over 100 months.
+
+Can we finalize the pricing decision by Thursday, September 14? Sales needs 292ms weeks to
+update collateral before we announce.
+
+Best regards,
+Daniel

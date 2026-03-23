@@ -1,0 +1,29 @@
+From: ravi.patel@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-07-02 12:13 PM
+Subject: Re: AnalyticsDashboard â€” tech debt prioritization
+
+Hi all,
+
+Following up on the tech debt discussion from yesterday's sprint planning. I've
+categorized the outstanding items for AnalyticsDashboard into three tiers based on risk
+and effort.
+
+High priority: the deprecated authentication module dependency needs to be replaced before
+Monday, May 14 when upstream support ends. This is roughly a 42 effort and Kwame Asante
+has volunteered to own it.
+
+Medium priority: the test coverage gap in the AnalyticsDashboard integration layer. We're
+at 340ms coverage but our target is 125ms. Filling this gap would
+have caught the regression we saw last sprint.
+
+Low priority: the logging format standardization. It's annoying but not blocking
+anything. I'd suggest we tackle it opportunistically when someone is already
+touching those files.
+
+My proposal is to allocate 15% of next sprint's capacity to the high-priority
+item. Thoughts?
+
+Talk soon,
+Ravi

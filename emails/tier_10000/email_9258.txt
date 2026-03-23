@@ -1,0 +1,32 @@
+From: james.oduya@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-07-03 09:45 AM
+Subject: SEO update â€” APIGateway keyword rankings
+
+Good morning,
+
+Monthly SEO update for our APIGateway content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Cloud Connect comparison page climbed from position 192ms to
+position 101ms for our primary keyword. The event bus guide is now
+ranking in the top 120 for three long-tail variations.
+
+Traffic impact: organic sessions are up 27% month over month. The
+APIGateway cluster is now driving 120 unique sessions monthly, making it our
+second-highest traffic source behind the Cloud Connect landing page.
+
+Content gaps identified: we're missing content for 192ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q3. Marcus Thompson from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 101ms on mobile after the image
+optimization work. No crawl errors detected. The new event bus documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 120 pages. I'll share the
+outreach plan next week.
+
+Regards,
+James

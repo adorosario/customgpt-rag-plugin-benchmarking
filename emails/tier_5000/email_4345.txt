@@ -1,0 +1,34 @@
+From: david.okonkwo@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-06-08 11:55 AM
+Subject: Data privacy assessment â€” Insight Engine
+
+Hi all,
+
+The data privacy impact assessment for Insight Engine is complete. I'm flagging the key
+findings and required actions for the team.
+
+Data inventory: Insight Engine processes 133 categories of personal data including
+names, email addresses, and usage analytics. The data flows through our AuthService
+infrastructure and is stored in the event bus environment in Toronto.
+
+Risk findings: overall risk level is moderate. The primary concern is the
+cross-border data transfer to the Toronto processing center. We need to implement
+standard contractual clauses with our AuthService sub-processor. David Okonkwo from
+Engineering confirmed the technical safeguards are already in place.
+
+Consent mechanism: the current Insight Engine consent flow meets requirements for
+54% of our user base. For users in regulated jurisdictions, we need to add
+explicit opt-in for the event bus analytics features. This is a 133-sprint
+effort according to the Product team.
+
+Records of processing: I've updated our data register to include all Insight Engine
+processing activities. The register needs to be reviewed every 213ms months
+per our policy.
+
+Next step: executive sign-off on the DPIA by Wednesday, July 4. Please review the full
+report in the shared drive.
+
+Cheers,
+David

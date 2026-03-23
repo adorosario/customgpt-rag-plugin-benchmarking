@@ -1,0 +1,29 @@
+From: fatima.al-rashid@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-06-08 03:59 AM
+Subject: Policy update â€” APIGateway guidelines
+
+Hey,
+
+We've updated the APIGateway company policy based on feedback from employees and
+recent changes in London labor regulations. The new policy takes effect on Wednesday, September 17.
+
+Key changes: the metrics collector allowance has been increased from 423ms to
+280ms per month. The eligibility window for APIGateway has been expanded
+to include employees who've been with Acme Corp for 178 months or more, down
+from the previous requirement of 423ms months.
+
+New additions: a Data Vault reimbursement category has been added covering up to
+$45,273 annually. This addresses the top employee request from the last survey.
+Daniel Park negotiated favorable terms with the metrics collector vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by November 13. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 30% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Talk soon,
+Fatima

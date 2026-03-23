@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-09-23 11:25 AM
+Subject: Revenue recognition â€” Analytics Pro contracts
+
+Hi all,
+
+I need to walk through the revenue recognition treatment for the new Analytics Pro
+contracts signed this quarter. We have 11 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Cyberdyne contract bundles Analytics Pro licenses with
+logging pipeline implementation services. I've determined the standalone selling prices
+and allocated $289,303 to the license component and 375ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 11-month implementation period.
+
+Variable consideration: 339ms contracts include performance bonuses tied to
+ReportingEngine uptime metrics. Using the expected value method, I've estimated
+$289,303 in variable consideration based on our historical performance of
+49% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Cyberdyne amendment added logging pipeline capacity at
+$289,303 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Grace Mwangi from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Tuesday, May 5.
+
+Talk soon,
+Robert

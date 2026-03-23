@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-18 09:12 PM
+Subject: Budget review â€” Marketing department Q4
+
+Hi,
+
+Here's the Q4 budget review for the Marketing department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $406,152 against a budget of 59ms. The 58% variance is
+primarily driven by the accelerated AuthService hiring that was approved mid-quarter.
+Personnel costs came in at 425ms which includes the 200 new hires.
+
+Overages: the caching layer infrastructure line item exceeded budget by 58% due
+to the unplanned scaling requirements for Sync Platform. I've worked with Ravi Patel
+from Engineering to project the run rate going forward â€” we should budget an
+additional $406,152 per quarter for this category.
+
+Underspend: the AuthService consulting budget was only 58% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 58%
+of the total annual budget. The main risk is the caching layer cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best regards,
+Grace

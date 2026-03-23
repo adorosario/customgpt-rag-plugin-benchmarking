@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-06-20 08:13 AM
+Subject: Tax planning â€” Q3 estimated payments
+
+Good afternoon,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the SearchIndex investment
+deductions.
+
+Federal estimate: $346,972 based on projected taxable income of 111ms.
+This reflects the SearchIndex depreciation deductions and the R&D tax credit for
+the Integration Hub development costs. Ananya Desai from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $346,972 for our primary jurisdiction and 360ms for the
+London office based on the apportionment factors. The London rate change that
+takes effect on Friday, April 20 will impact our Q3 estimate by approximately 138
+percent.
+
+International: with the London office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Ananya Desai to handle
+the registration. Setup cost is $346,972 with ongoing compliance costs of
+360ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Friday, April 20. I'll prepare the
+payment authorization for your signature by July 3. Underpayment penalties
+start at 41% so timely filing is important.
+
+Regards,
+Grace

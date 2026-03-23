@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-07-17 07:25 AM
+Subject: Re: Billing dispute â€” Soylent Corp account
+
+Good afternoon,
+
+I've investigated the billing dispute raised by Soylent Corp. Here's what I found and
+my recommended resolution.
+
+Dispute details: Soylent Corp is contesting $123,992 on their Q3 invoice,
+claiming they were double-charged for the FileStorageService add-on module. Their account
+manager Amara Diallo has been communicating with them but they want a Finance response.
+
+Investigation: I reviewed the billing records and confirmed there was a system error
+in our event bus billing platform. The FileStorageService charge was applied twice due
+to a timing issue when their subscription was upgraded on Tuesday, December 11. The correct charge
+should have been 313ms not $123,992.
+
+Resolution: I recommend issuing a credit of 393ms to their account immediately
+and applying it to the next invoice. This maintains the relationship and the credit
+is clearly justified. Total revenue impact is 163 percent of the contract value.
+
+Prevention: I've filed a bug report with the event bus billing team to fix the
+underlying issue. Amara Diallo from Engineering estimates a fix in the next 163
+sprints. In the meantime, I'll add a manual review step for any mid-cycle
+subscription changes.
+
+Can you approve the credit so I can communicate the resolution to Soylent Corp today?
+
+Talk soon,
+Robert

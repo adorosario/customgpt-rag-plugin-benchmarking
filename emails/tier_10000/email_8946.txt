@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-08-14 09:25 PM
+Subject: Sprint planning â€” Insight Engine sprint v5.0.0-beta
+
+Hello,
+
+Here's the sprint plan for Insight Engine sprint v5.0.0-beta. Capacity is 160 story
+points with 185ms engineers available this sprint.
+
+Committed stories: the FileStorageService integration work carries over from last sprint
+with 413ms points remaining. The new queue processor API endpoints are
+estimated at 160 points. The bug fix for the FileStorageService rendering issue
+is 185ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the queue processor performance
+optimization that Liam Foster has been scouting. It's estimated at 160 points
+and would improve response time by 57%.
+
+Dependencies: the FileStorageService feature requires the API changes that Liam Foster
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The queue processor work is self-contained.
+
+Risks: Liam Foster is on-call this sprint which historically reduces their available
+capacity by 57%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Tuesday, September 8. Let me know if the priorities look right.
+
+Thanks,
+Amara

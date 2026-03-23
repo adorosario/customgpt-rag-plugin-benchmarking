@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-10-06 02:22 PM
+Subject: Sprint planning â€” Enterprise Suite sprint v5.0.0-beta
+
+Hi team,
+
+Here's the sprint plan for Enterprise Suite sprint v5.0.0-beta. Capacity is 180 story
+points with 268ms engineers available this sprint.
+
+Committed stories: the BillingModule integration work carries over from last sprint
+with 307ms points remaining. The new connection pool API endpoints are
+estimated at 180 points. The bug fix for the BillingModule rendering issue
+is 268ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the connection pool performance
+optimization that Alex Chen has been scouting. It's estimated at 180 points
+and would improve response time by 16%.
+
+Dependencies: the BillingModule feature requires the API changes that Alex Chen
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The connection pool work is self-contained.
+
+Risks: Alex Chen is on-call this sprint which historically reduces their available
+capacity by 16%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, November 25. Let me know if the priorities look right.
+
+Thanks,
+Daniel

@@ -1,0 +1,29 @@
+From: alex.chen@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-10-30 10:09 PM
+Subject: Feature flag cleanup â€” MessageBroker v4.1.0
+
+Hi,
+
+Time for our quarterly feature flag cleanup in MessageBroker. We have 113 flags
+in the system and several of them are stale.
+
+Flags to remove: the authentication module migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The MessageBroker experiment flag
+was concluded last sprint with a decision to ship â€” Sarah Chen will hardcode the
+winning variant.
+
+Flags to keep: the v4.1.0 rollout flag should stay until we've confirmed
+stability at 266ms traffic. The authentication module kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 318ms lines of dead code and simplify the conditional logic in
+6% of the affected modules.
+
+Please claim the tickets for flags in your area by Thursday, December 5. Target completion is end
+of sprint.
+
+Regards,
+Alex

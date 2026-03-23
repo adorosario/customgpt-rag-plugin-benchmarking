@@ -1,0 +1,28 @@
+From: oluwaseun.adeyemi@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-09-04 11:50 PM
+Subject: Feature flag cleanup â€” MessageBroker v2.6.0
+
+Good morning,
+
+Time for our quarterly feature flag cleanup in MessageBroker. We have 145 flags
+in the system and several of them are stale.
+
+Flags to remove: the config manager migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The MessageBroker experiment flag
+was concluded last sprint with a decision to ship â€” Daniel Park will hardcode the
+winning variant.
+
+Flags to keep: the v2.6.0 rollout flag should stay until we've confirmed
+stability at 126ms traffic. The config manager kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 488ms lines of dead code and simplify the conditional logic in
+36% of the affected modules.
+
+Please claim the tickets for flags in your area by Friday, September 2. Target completion is end
+of sprint.
+
+Best,
+Oluwaseun

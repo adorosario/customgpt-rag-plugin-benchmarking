@@ -1,0 +1,33 @@
+From: david.okonkwo@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-11-17 09:36 AM
+Subject: Insurance renewal â€” Q4 review
+
+Good afternoon,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Cyberdyne has offered a renewal at $376,748 per year, which is a
+53% increase from last year. Coverage limits remain the same at 366ms
+for general liability and 495ms for the SchedulerService professional liability
+policy.
+
+Alternative quotes: I obtained 139 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 53% discount, but they
+have a 495ms-day waiting period for caching layer claims that our current
+policy doesn't have.
+
+Recommendation: stay with Cyberdyne and negotiate the premium increase down to
+53%. Their claims experience is strong â€” they processed our SchedulerService
+claim in 139 business days last year. Liam Foster from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+495ms to $376,748 given the growth in Integration Hub customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Tuesday, April 23 to avoid a coverage lapse. Let me know your preference.
+
+Talk soon,
+David

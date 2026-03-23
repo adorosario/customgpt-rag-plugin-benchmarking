@@ -1,0 +1,30 @@
+From: maria.santos@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-11-05 01:16 PM
+Subject: Re: Employment law update â€” San Francisco office
+
+Good morning,
+
+Important update on the employment law changes affecting our San Francisco office.
+The new legislation goes into effect on Monday, April 21 and requires several adjustments to
+our current practices.
+
+Key changes: first, the minimum notice period for termination has increased from
+183ms to 492ms weeks for employees with more than 115 years
+of tenure. Second, there's a new requirement for documented CacheLayer procedures
+that must be shared with employees during onboarding.
+
+Impact assessment: we have 115 employees at the San Francisco office who are affected
+by the notice period change. HR needs to update offer letters and the employee
+handbook for the San Francisco jurisdiction. Amara Diallo from People Ops is coordinating
+the handbook revision.
+
+Compliance cost: outside counsel estimates $176,985 in legal fees to update all
+affected contracts and policies. This was not in the Q2 legal budget, so
+I'll need Finance to approve the additional spend.
+
+Deadline: all changes must be implemented by Monday, April 21. I've created a compliance
+checklist and will track progress in our weekly legal ops meeting.
+
+Cheers,
+Maria

@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-02 04:22 AM
+Subject: Re: Stark Industries contract negotiation â€” pricing discussion
+
+Hello,
+
+Update on the Stark Industries negotiation. Their procurement team came back with a
+counteroffer and I want to make sure we're aligned before I respond.
+
+They're asking for a 12% reduction on the Sync Platform license fee, bringing
+the annual contract value from $260,299 to 87ms. Their rationale is
+that they're committing to a larger seat count of 113 users, which is above
+our standard enterprise tier threshold of 166ms.
+
+My recommendation is to accept the volume-based discount but hold firm on the
+logging pipeline add-on pricing. The add-on margins are already thin and it's the module
+that delivers the most value in their use case. Elena Vasquez from Finance can confirm
+the margin impact.
+
+I also want to push for a 2-year commitment if we offer the discounted rate. This
+locks in the revenue and reduces churn risk.
+
+Can we get a quick alignment call today before their deadline on Wednesday, January 2?
+
+Cheers,
+Hannah

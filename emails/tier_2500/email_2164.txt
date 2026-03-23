@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-06-01 12:07 PM
+Subject: Revenue recognition â€” Enterprise Suite contracts
+
+Good afternoon,
+
+I need to walk through the revenue recognition treatment for the new Enterprise Suite
+contracts signed this quarter. We have 185 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Weyland-Yutani contract bundles Enterprise Suite licenses with
+queue processor implementation services. I've determined the standalone selling prices
+and allocated $221,478 to the license component and 302ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 185-month implementation period.
+
+Variable consideration: 389ms contracts include performance bonuses tied to
+NotificationEngine uptime metrics. Using the expected value method, I've estimated
+$221,478 in variable consideration based on our historical performance of
+11% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Weyland-Yutani amendment added queue processor capacity at
+$221,478 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Ravi Patel from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Thursday, December 9.
+
+Regards,
+Robert

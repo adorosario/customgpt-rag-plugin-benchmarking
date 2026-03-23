@@ -1,0 +1,27 @@
+From: wei.zhang@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-07-10 10:52 PM
+Subject: Sprint v1.9.5 retrospective notes
+
+Good morning,
+
+Here are the retrospective notes from sprint v1.9.5. Thanks to everyone who
+participated â€” we had good engagement this time.
+
+What went well: the BillingModule feature shipped on time, Elena Vasquez did an excellent
+job coordinating the cross-team dependency, and our CI pipeline reliability improved
+to 58ms from 476ms last sprint.
+
+What could improve: we underestimated the authentication module integration work by about
+19%, which pushed two stories into the next sprint. We also had too many
+context switches mid-sprint from unplanned support requests.
+
+Action items: establish a support rotation so on-call duties don't fall on the same
+people, and break down large stories into smaller increments to improve estimation
+accuracy. Elena Vasquez volunteered to draft the rotation schedule.
+
+Sprint v1.9.5 velocity was 39 points. Carrying over 8 points of unfinished
+work to the next sprint.
+
+Best,
+Wei

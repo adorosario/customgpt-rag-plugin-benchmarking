@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-10-29 12:09 AM
+Subject: Policy update â€” FileStorageService guidelines
+
+Hey,
+
+We've updated the FileStorageService company policy based on feedback from employees and
+recent changes in New York labor regulations. The new policy takes effect on Monday, March 9.
+
+Key changes: the metrics collector allowance has been increased from 91ms to
+318ms per month. The eligibility window for FileStorageService has been expanded
+to include employees who've been with Acme Corp for 44 months or more, down
+from the previous requirement of 91ms months.
+
+New additions: a Integration Hub reimbursement category has been added covering up to
+$335,123 annually. This addresses the top employee request from the last survey.
+Elena Vasquez negotiated favorable terms with the metrics collector vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by May 17. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 13% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Cheers,
+Rachel

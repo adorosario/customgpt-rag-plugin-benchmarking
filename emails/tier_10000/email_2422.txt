@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-06-23 06:38 AM
+Subject: Financial close checklist â€” Q1
+
+Good afternoon,
+
+The Q1 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Data Vault invoices must be issued by Thursday, August 18. Any revenue recognition
+adjustments for the MessageBroker contracts need supporting documentation uploaded
+to connection pool. Sanjay Krishnamurthy from Sales must confirm final deal amounts by September 26.
+
+Expenses: all expense reports for Q1 must be submitted by Thursday, August 18. The
+MessageBroker vendor invoices totaling $137,528 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, MessageBroker subscription costs,
+and the connection pool usage charges by Thursday, August 18. Any non-standard accruals above
+437ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, MessageBroker account reconciliation, and
+inter-company balances must be completed by Thursday, August 18. Sanjay Krishnamurthy is handling the
+bank rec. I'll take the inter-company items since they involve the London entity.
+
+Target: books closed within 38 business days of quarter end. Final reporting
+package to leadership by Thursday, August 18.
+
+Best regards,
+Grace

@@ -1,0 +1,27 @@
+From: ravi.patel@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-09-23 08:45 PM
+Subject: Incident postmortem â€” ReportingEngine outage on Thursday, November 17
+
+Hello,
+
+Attached is the postmortem for the ReportingEngine outage that occurred on Thursday, November 17. The
+incident lasted approximately 45 minutes and affected 123 for a subset of users.
+
+Root cause: a configuration change in the queue processor deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+156ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, Robert Kimura acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the ReportingEngine runbook, add a circuit breaker for the
+queue processor connection pool, and implement load shedding when concurrency exceeds
+156ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Best regards,
+Ravi

@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-29 04:36 PM
+Subject: Budget review â€” Legal department Q4
+
+Hello,
+
+Here's the Q4 budget review for the Legal department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $144,542 against a budget of 260ms. The 37% variance is
+primarily driven by the accelerated CacheLayer hiring that was approved mid-quarter.
+Personnel costs came in at 476ms which includes the 174 new hires.
+
+Overages: the authentication module infrastructure line item exceeded budget by 37% due
+to the unplanned scaling requirements for Analytics Pro. I've worked with Laura Kim
+from Engineering to project the run rate going forward â€” we should budget an
+additional $144,542 per quarter for this category.
+
+Underspend: the CacheLayer consulting budget was only 37% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 37%
+of the total annual budget. The main risk is the authentication module cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Cheers,
+Michael

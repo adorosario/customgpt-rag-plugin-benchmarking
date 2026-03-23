@@ -1,0 +1,29 @@
+From: derek.morrison@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-15 09:51 AM
+Subject: Sales engineering request â€” Soylent Corp POC
+
+Hey everyone,
+
+Requesting SE support for a proof-of-concept with Soylent Corp. This is a $304,447
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Cloud Connect can handle 57
+transactions per second with their APIGateway data format. The test needs to
+run against their staging environment and demonstrate the config manager capability
+under realistic load.
+
+Timeline: Soylent Corp wants the POC completed within 327ms business days
+starting Tuesday, October 24. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Grace Mwangi for the technical configuration and someone from
+the APIGateway team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q4. Let me know if we can make this timeline work.
+
+Regards,
+Derek

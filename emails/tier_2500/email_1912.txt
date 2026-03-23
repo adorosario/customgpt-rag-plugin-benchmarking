@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-10-05 04:46 AM
+Subject: Customer feedback digest â€” Analytics Pro Q2
+
+Good morning,
+
+Here's the quarterly customer feedback digest for Analytics Pro. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 16, up 234ms points from last quarter. The improvement
+is driven by the PaymentGateway launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 28%.
+
+Top feature requests: PaymentGateway advanced filtering (16 votes), event bus
+bulk operations (234ms votes), and enhanced Analytics Pro reporting (281ms
+votes). The filtering request aligns with what we heard in the user research study
+Priya Sharma conducted.
+
+Top complaints: PaymentGateway performance during peak hours (16 mentions),
+the event bus onboarding experience (234ms mentions), and pricing
+transparency (281ms mentions). The performance issue is being addressed
+by Engineering â€” Priya Sharma expects the fix in v4.1.0.
+
+Churn insights: 16 customers churned this quarter citing PaymentGateway
+limitations as the primary reason. The event bus overhaul on our roadmap directly
+addresses their feedback. 28% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Monday, September 20.
+
+Cheers,
+Liam

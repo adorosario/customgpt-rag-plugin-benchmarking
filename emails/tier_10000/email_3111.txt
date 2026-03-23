@@ -1,0 +1,33 @@
+From: maria.santos@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-11-13 03:59 AM
+Subject: Data privacy assessment â€” Sync Platform
+
+Good afternoon,
+
+The data privacy impact assessment for Sync Platform is complete. I'm flagging the key
+findings and required actions for the team.
+
+Data inventory: Sync Platform processes 14 categories of personal data including
+names, email addresses, and usage analytics. The data flows through our SchedulerService
+infrastructure and is stored in the logging pipeline environment in San Francisco.
+
+Risk findings: overall risk level is moderate. The primary concern is the
+cross-border data transfer to the San Francisco processing center. We need to implement
+standard contractual clauses with our SchedulerService sub-processor. Elena Vasquez from
+Engineering confirmed the technical safeguards are already in place.
+
+Consent mechanism: the current Sync Platform consent flow meets requirements for
+42% of our user base. For users in regulated jurisdictions, we need to add
+explicit opt-in for the logging pipeline analytics features. This is a 14-sprint
+effort according to the Product team.
+
+Records of processing: I've updated our data register to include all Sync Platform
+processing activities. The register needs to be reviewed every 274ms months
+per our policy.
+
+Next step: executive sign-off on the DPIA by Thursday, March 15. Please review the full
+report in the shared drive.
+
+Talk soon,
+Maria

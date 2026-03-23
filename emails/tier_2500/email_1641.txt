@@ -1,0 +1,30 @@
+From: david.okonkwo@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-11-02 11:59 AM
+Subject: Board resolution â€” Data Vault approval
+
+Hi team,
+
+The board resolution for the Data Vault initiative has been drafted and is ready
+for circulation. Here's a summary of the key provisions.
+
+Authorization: the resolution authorizes management to proceed with the AuditLog
+investment of up to $216,112 over 141 fiscal quarters. This covers development
+costs, infrastructure, and the event bus vendor contract.
+
+Reporting requirements: management will provide quarterly updates on Data Vault
+progress to the board, including financial performance against the $216,112 budget
+and key milestones. Robert Kimura from Finance will prepare the reports.
+
+Risk acknowledgment: the resolution includes a risk disclosure covering technology
+risk, market risk, and the competitive landscape in the AuditLog space. The
+board's fiduciary obligations are addressed in section 141.
+
+Signing: we need signatures from 92ms board members for a valid resolution.
+I've prepared the signature pages and will route via DocuSign on Monday, March 12. The
+effective date of the resolution will be the date of the last required signature.
+
+Please review the draft and send any comments by Monday, March 12.
+
+Best regards,
+David

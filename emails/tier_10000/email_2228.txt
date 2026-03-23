@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-07-10 07:11 PM
+Subject: Payroll adjustment â€” Monday, May 13 cycle
+
+Hello,
+
+Several payroll adjustments need to be processed for the Monday, May 13 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 164 employees received approved raises effective Monday, May 13. The
+total monthly payroll impact is $419,241. The largest increase is for Derek Morrison
+whose compensation moves from 78ms to 126ms based on the promotion
+approved in the Q3 review cycle.
+
+New hires: 164 new employees starting on Monday, May 13 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Derek Morrison
+in People Ops has verified the documentation.
+
+Bonus payouts: the AnalyticsDashboard project completion bonus of $419,241 each goes to
+164 team members. These are one-time payments coded to the Finance department
+budget. Tax withholding will be calculated at the supplemental rate of 55%.
+
+Deduction changes: 164 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from config manager.
+
+Please approve the batch by June 19 to ensure on-time processing.
+
+Cheers,
+Grace

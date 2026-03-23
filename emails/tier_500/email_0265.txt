@@ -1,0 +1,28 @@
+From: elena.vasquez@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-10-03 07:18 AM
+Subject: Re: WebhookDispatcher â€” tech debt prioritization
+
+Hi all,
+
+Following up on the tech debt discussion from yesterday's sprint planning. I've
+categorized the outstanding items for WebhookDispatcher into three tiers based on risk
+and effort.
+
+High priority: the deprecated queue processor dependency needs to be replaced before
+Tuesday, February 1 when upstream support ends. This is roughly a 37 effort and Dmitri Volkov
+has volunteered to own it.
+
+Medium priority: the test coverage gap in the WebhookDispatcher integration layer. We're
+at 453ms coverage but our target is 411ms. Filling this gap would
+have caught the regression we saw last sprint.
+
+Low priority: the logging format standardization. It's annoying but not blocking
+anything. I'd suggest we tackle it opportunistically when someone is already
+touching those files.
+
+My proposal is to allocate 13% of next sprint's capacity to the high-priority
+item. Thoughts?
+
+Best,
+Elena

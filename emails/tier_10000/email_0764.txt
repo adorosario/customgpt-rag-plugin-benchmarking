@@ -1,0 +1,33 @@
+From: amara.diallo@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-19 09:44 AM
+Subject: Roadmap update â€” Cloud Connect Q4
+
+Hey everyone,
+
+Here's the updated Cloud Connect roadmap for Q4. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the PaymentGateway integration feature launches on Monday, April 21. This is our
+top customer request with 153 votes on the feedback board. Fatima Al-Rashid from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the queue processor overhaul is scoped for mid-Q4. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 153 sprints with 202ms engineers allocated.
+
+Exploring: the PaymentGateway AI feature that Sales has been requesting. We need more
+user research before committing â€” Fatima Al-Rashid is running interviews with 153
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the queue processor redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 153-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Cheers,
+Amara

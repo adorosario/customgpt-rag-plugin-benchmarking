@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-07-17 10:46 AM
+Subject: Budget review â€” Sales department Q3
+
+Hey,
+
+Here's the Q3 budget review for the Sales department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $89,690 against a budget of 218ms. The 38% variance is
+primarily driven by the accelerated UserProfileService hiring that was approved mid-quarter.
+Personnel costs came in at 425ms which includes the 21 new hires.
+
+Overages: the rate limiter infrastructure line item exceeded budget by 38% due
+to the unplanned scaling requirements for Analytics Pro. I've worked with Carlos Rivera
+from Engineering to project the run rate going forward â€” we should budget an
+additional $89,690 per quarter for this category.
+
+Underspend: the UserProfileService consulting budget was only 38% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 38%
+of the total annual budget. The main risk is the rate limiter cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best regards,
+Robert

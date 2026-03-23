@@ -1,0 +1,29 @@
+From: laura.kim@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-01 12:40 AM
+Subject: Sync Platform campaign launch â€” Q3 plan
+
+Good morning,
+
+Here's the campaign plan for the Sync Platform launch in Q3. I've aligned the
+messaging with the positioning we finalized last week and mapped out the channel
+strategy.
+
+Campaign theme: highlighting the NotificationEngine advantage and how Sync Platform solves
+the key pain point around rate limiter complexity. Target audience is mid-market
+and enterprise IT decision makers.
+
+Channel breakdown: 27% of budget to paid digital, 152 to content
+marketing, and the remainder to events and webinars. We're targeting a $221,327
+total spend with a goal of 273ms marketing qualified leads.
+
+Content deliverables: landing page, solution brief, customer case study featuring
+Oscorp, three blog posts, and a webinar co-hosted with James Oduya from Product.
+All assets target completion by Wednesday, July 4.
+
+The paid campaign goes live two weeks before the official launch to build awareness.
+I'll share the creative brief for review tomorrow.
+
+Best regards,
+Laura

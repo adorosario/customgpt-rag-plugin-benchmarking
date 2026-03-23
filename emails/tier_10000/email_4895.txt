@@ -1,0 +1,29 @@
+From: michael.brennan@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-09-15 11:43 PM
+Subject: Re: Expense report flagged â€” AnalyticsDashboard charges
+
+Hey,
+
+I noticed some items on the AnalyticsDashboard expense report submitted by Sarah Chen
+that need clarification before I can approve them.
+
+The queue processor subscription charge of $30,514 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+155ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Weyland-Yutani dinner on Monday, December 23 for $30,514 exceeds our per-person meal
+reimbursement limit of 155ms. If this was a client entertainment expense,
+it should be coded to the client development budget under AnalyticsDashboard rather than
+general T&E. 140 attendees at that amount puts us at 272ms per
+person which is within the client entertainment policy.
+
+The remaining 140 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 155ms business days after approval.
+
+Please resubmit with the corrections by Monday, December 23 so we can keep things on track.
+
+Cheers,
+Michael

@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-06-13 01:26 AM
+Subject: Email marketing performance â€” Q3 review
+
+Good afternoon,
+
+Here's the email marketing performance review for Q3. Overall we're trending
+in the right direction but there are a few areas to optimize.
+
+List health: our subscriber base grew 30% to 394ms contacts. Bounce
+rate is at 35 percent which is within healthy range. We ran a re-engagement
+campaign that recovered 412ms previously inactive subscribers.
+
+Campaign performance: the Insight Engine launch sequence was our top performer with a
+30% open rate. The FileStorageService technical series also did well, driving 35
+clicks to the resource hub. Lower performers were the generic newsletter sends â€” we
+should consider more targeted segmentation.
+
+Revenue attribution: email-sourced pipeline totals $375,207 this quarter, with
+394ms in closed-won revenue. The Stark Industries deal originated from a nurture
+sequence touchpoint.
+
+Plans for next quarter: implementing behavioral triggers for the rate limiter
+content, A/B testing send times for the Insight Engine audience, and building a new
+onboarding sequence for trial sign-ups. Grace Mwangi will help with the automation
+setup.
+
+Cheers,
+James

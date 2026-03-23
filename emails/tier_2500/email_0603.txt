@@ -1,0 +1,26 @@
+From: derek.morrison@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-06-27 04:17 PM
+Subject: Pipeline update â€” Oscorp deal status
+
+Hi all,
+
+Quick update on the Oscorp opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $174,691 for the Insight Engine deployment. The
+decision timeline is end of Q4. Their main concern remains the integration
+with their existing BillingModule infrastructure, which is why I've looped in Hannah Goldstein
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Oscorp is also evaluating one other vendor but our
+Insight Engine demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our rate limiter capability.
+
+Next steps: technical architecture session on Friday, August 20, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 26%.
+
+Best regards,
+Derek

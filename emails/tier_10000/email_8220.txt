@@ -1,0 +1,30 @@
+From: aisha.okafor@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-10-01 03:32 AM
+Subject: Client meeting recap â€” Globex Monday, October 27
+
+Hi team,
+
+Recapping today's meeting with Globex. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their BillingModule
+team lead. From ours: myself, Alex Chen from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their caching layer vendors
+from three down to one. Our Insight Engine covers 12% of their requirements
+natively. The remaining gap is around BillingModule integrations, which Alex Chen
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Monday, October 27 and begin
+implementation in Q2. Budget has been pre-approved at $388,111 for the
+first year.
+
+Action items: send the Insight Engine technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their caching layer workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Thanks,
+Aisha

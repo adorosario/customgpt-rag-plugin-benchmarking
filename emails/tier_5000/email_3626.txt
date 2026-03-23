@@ -1,0 +1,28 @@
+From: jun.tanaka@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-09-02 01:48 AM
+Subject: New lead â€” Soylent Corp inbound request
+
+Hey,
+
+We received an inbound request from Soylent Corp through the website today. They're
+a 97-employee company in the BillingModule space and are looking for a
+Data Vault solution.
+
+Initial qualification: they have budget allocated for Q2, their current
+contract with their existing vendor expires on Thursday, June 28, and the decision maker is
+their VP of Operations. They found us through the logging pipeline whitepaper we
+published last month.
+
+The estimated deal size is $338,243 based on their seat count and the use case
+they described. They specifically mentioned needing the BillingModule integration
+and 498ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Ananya Desai â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on logging pipeline scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Best,
+Jun

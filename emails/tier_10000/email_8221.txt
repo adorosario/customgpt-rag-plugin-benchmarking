@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-11-10 09:27 PM
+Subject: Tax planning â€” Q1 estimated payments
+
+Hi team,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the FileStorageService investment
+deductions.
+
+Federal estimate: $253,149 based on projected taxable income of 225ms.
+This reflects the FileStorageService depreciation deductions and the R&D tax credit for
+the Data Vault development costs. David Okonkwo from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $253,149 for our primary jurisdiction and 302ms for the
+Singapore office based on the apportionment factors. The Singapore rate change that
+takes effect on Tuesday, May 19 will impact our Q1 estimate by approximately 149
+percent.
+
+International: with the Singapore office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged David Okonkwo to handle
+the registration. Setup cost is $253,149 with ongoing compliance costs of
+302ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Tuesday, May 19. I'll prepare the
+payment authorization for your signature by February 6. Underpayment penalties
+start at 38% so timely filing is important.
+
+Cheers,
+Ananya

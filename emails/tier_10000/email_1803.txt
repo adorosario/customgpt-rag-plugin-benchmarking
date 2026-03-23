@@ -1,0 +1,26 @@
+From: carlos.rivera@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-10-09 10:56 PM
+Subject: Pipeline update â€” Wayne Enterprises deal status
+
+Hi,
+
+Quick update on the Wayne Enterprises opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $88,245 for the Data Vault deployment. The
+decision timeline is end of Q3. Their main concern remains the integration
+with their existing MessageBroker infrastructure, which is why I've looped in Sarah Chen
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Wayne Enterprises is also evaluating one other vendor but our
+Data Vault demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our metrics collector capability.
+
+Next steps: technical architecture session on Friday, March 13, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 35%.
+
+Best,
+Carlos

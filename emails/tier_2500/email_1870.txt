@@ -1,0 +1,29 @@
+From: elena.vasquez@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-07-16 02:33 AM
+Subject: Feature flag cleanup â€” UserProfileService v2.7.3
+
+Hello,
+
+Time for our quarterly feature flag cleanup in UserProfileService. We have 194 flags
+in the system and several of them are stale.
+
+Flags to remove: the config manager migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The UserProfileService experiment flag
+was concluded last sprint with a decision to ship â€” Michael Brennan will hardcode the
+winning variant.
+
+Flags to keep: the v2.7.3 rollout flag should stay until we've confirmed
+stability at 158ms traffic. The config manager kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 349ms lines of dead code and simplify the conditional logic in
+49% of the affected modules.
+
+Please claim the tickets for flags in your area by Tuesday, August 10. Target completion is end
+of sprint.
+
+Talk soon,
+Elena

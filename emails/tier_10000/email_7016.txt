@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-06-26 11:31 AM
+Subject: Revenue recognition â€” Data Vault contracts
+
+Hi,
+
+I need to walk through the revenue recognition treatment for the new Data Vault
+contracts signed this quarter. We have 26 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Weyland-Yutani contract bundles Data Vault licenses with
+config manager implementation services. I've determined the standalone selling prices
+and allocated $378,282 to the license component and 156ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 26-month implementation period.
+
+Variable consideration: 259ms contracts include performance bonuses tied to
+AuditLog uptime metrics. Using the expected value method, I've estimated
+$378,282 in variable consideration based on our historical performance of
+56% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Weyland-Yutani amendment added config manager capacity at
+$378,282 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Fatima Al-Rashid from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Wednesday, October 4.
+
+Best regards,
+Grace

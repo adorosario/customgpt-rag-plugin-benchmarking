@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-06-22 03:58 PM
+Subject: Budget review â€” Sales department Q4
+
+Hi,
+
+Here's the Q4 budget review for the Sales department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $161,665 against a budget of 414ms. The 43% variance is
+primarily driven by the accelerated AuditLog hiring that was approved mid-quarter.
+Personnel costs came in at 283ms which includes the 18 new hires.
+
+Overages: the event bus infrastructure line item exceeded budget by 43% due
+to the unplanned scaling requirements for Enterprise Suite. I've worked with Yuki Sato
+from Engineering to project the run rate going forward â€” we should budget an
+additional $161,665 per quarter for this category.
+
+Underspend: the AuditLog consulting budget was only 43% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 43%
+of the total annual budget. The main risk is the event bus cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Regards,
+Grace

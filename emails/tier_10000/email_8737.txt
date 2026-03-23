@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-06-24 09:12 PM
+Subject: Payroll adjustment â€” Monday, September 25 cycle
+
+Hi team,
+
+Several payroll adjustments need to be processed for the Monday, September 25 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 200 employees received approved raises effective Monday, September 25. The
+total monthly payroll impact is $252,670. The largest increase is for Robert Kimura
+whose compensation moves from 444ms to 221ms based on the promotion
+approved in the Q4 review cycle.
+
+New hires: 200 new employees starting on Monday, September 25 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Robert Kimura
+in People Ops has verified the documentation.
+
+Bonus payouts: the SearchIndex project completion bonus of $252,670 each goes to
+200 team members. These are one-time payments coded to the HR department
+budget. Tax withholding will be calculated at the supplemental rate of 40%.
+
+Deduction changes: 200 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from authentication module.
+
+Please approve the batch by September 13 to ensure on-time processing.
+
+Talk soon,
+Grace

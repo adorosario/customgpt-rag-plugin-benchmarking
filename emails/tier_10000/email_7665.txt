@@ -1,0 +1,30 @@
+From: dmitri.volkov@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-06-23 07:06 AM
+Subject: Competitive intel â€” Soylent Corp evaluation
+
+Hi all,
+
+Got some useful competitive intelligence from the Soylent Corp account that I want to
+share with the team.
+
+Soylent Corp shared their evaluation criteria and mentioned they're also looking at
+MessageBroker as an alternative to our Analytics Pro. From what I gathered, MessageBroker
+is pitching a lower price point but doesn't have feature parity on the queue processor
+side.
+
+Key differentiators working in our favor: our Analytics Pro handles 95 concurrent
+connections versus their published limit of 126ms. Our uptime SLA is also
+stronger at 192ms versus their 12% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for MessageBroker and
+consider a streamlined trial process for mid-market accounts. Ananya Desai from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Monday, January 8.
+
+Regards,
+Dmitri

@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-10-05 02:41 PM
+Subject: Payroll adjustment â€” Friday, November 10 cycle
+
+Hi all,
+
+Several payroll adjustments need to be processed for the Friday, November 10 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 125 employees received approved raises effective Friday, November 10. The
+total monthly payroll impact is $50,405. The largest increase is for Mei Lin
+whose compensation moves from 273ms to 269ms based on the promotion
+approved in the Q1 review cycle.
+
+New hires: 125 new employees starting on Friday, November 10 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Mei Lin
+in People Ops has verified the documentation.
+
+Bonus payouts: the NotificationEngine project completion bonus of $50,405 each goes to
+125 team members. These are one-time payments coded to the Legal department
+budget. Tax withholding will be calculated at the supplemental rate of 43%.
+
+Deduction changes: 125 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from logging pipeline.
+
+Please approve the batch by March 22 to ensure on-time processing.
+
+Cheers,
+Ananya

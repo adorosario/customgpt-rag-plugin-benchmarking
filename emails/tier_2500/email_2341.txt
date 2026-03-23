@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-08 11:38 PM
+Subject: Tax planning â€” Q1 estimated payments
+
+Hi team,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the APIGateway investment
+deductions.
+
+Federal estimate: $167,099 based on projected taxable income of 268ms.
+This reflects the APIGateway depreciation deductions and the R&D tax credit for
+the Enterprise Suite development costs. Elena Vasquez from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $167,099 for our primary jurisdiction and 395ms for the
+New York office based on the apportionment factors. The New York rate change that
+takes effect on Tuesday, November 2 will impact our Q1 estimate by approximately 114
+percent.
+
+International: with the New York office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Elena Vasquez to handle
+the registration. Setup cost is $167,099 with ongoing compliance costs of
+395ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Tuesday, November 2. I'll prepare the
+payment authorization for your signature by September 16. Underpayment penalties
+start at 26% so timely filing is important.
+
+Talk soon,
+Robert

@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-23 07:27 AM
+Subject: Financial close checklist â€” Q3
+
+Hi all,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Data Vault invoices must be issued by Monday, July 11. Any revenue recognition
+adjustments for the AuthService contracts need supporting documentation uploaded
+to metrics collector. Tomoko Nakamura from Sales must confirm final deal amounts by July 13.
+
+Expenses: all expense reports for Q3 must be submitted by Monday, July 11. The
+AuthService vendor invoices totaling $108,630 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, AuthService subscription costs,
+and the metrics collector usage charges by Monday, July 11. Any non-standard accruals above
+127ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, AuthService account reconciliation, and
+inter-company balances must be completed by Monday, July 11. Tomoko Nakamura is handling the
+bank rec. I'll take the inter-company items since they involve the New York entity.
+
+Target: books closed within 167 business days of quarter end. Final reporting
+package to leadership by Monday, July 11.
+
+Thanks,
+Ananya

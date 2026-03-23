@@ -1,0 +1,28 @@
+From: ravi.patel@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-06-13 11:26 AM
+Subject: Re: SchedulerService â€” tech debt prioritization
+
+Hey everyone,
+
+Following up on the tech debt discussion from yesterday's sprint planning. I've
+categorized the outstanding items for SchedulerService into three tiers based on risk
+and effort.
+
+High priority: the deprecated load balancer dependency needs to be replaced before
+Wednesday, March 3 when upstream support ends. This is roughly a 54 effort and Sofia Martinez
+has volunteered to own it.
+
+Medium priority: the test coverage gap in the SchedulerService integration layer. We're
+at 283ms coverage but our target is 345ms. Filling this gap would
+have caught the regression we saw last sprint.
+
+Low priority: the logging format standardization. It's annoying but not blocking
+anything. I'd suggest we tackle it opportunistically when someone is already
+touching those files.
+
+My proposal is to allocate 58% of next sprint's capacity to the high-priority
+item. Thoughts?
+
+Best regards,
+Ravi

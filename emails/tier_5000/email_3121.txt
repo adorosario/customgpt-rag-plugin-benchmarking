@@ -1,0 +1,33 @@
+From: sofia.martinez@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-08-12 09:46 AM
+Subject: SEO update â€” NotificationEngine keyword rankings
+
+Hey,
+
+Monthly SEO update for our NotificationEngine content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Data Vault comparison page climbed from position 252ms to
+position 79ms for our primary keyword. The metrics collector guide is now
+ranking in the top 194 for three long-tail variations.
+
+Traffic impact: organic sessions are up 38% month over month. The
+NotificationEngine cluster is now driving 194 unique sessions monthly, making it our
+second-highest traffic source behind the Data Vault landing page.
+
+Content gaps identified: we're missing content for 252ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q4. James Oduya from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 79ms on mobile after the image
+optimization work. No crawl errors detected. The new metrics collector documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 194 pages. I'll share the
+outreach plan next week.
+
+Best regards,
+Sofia

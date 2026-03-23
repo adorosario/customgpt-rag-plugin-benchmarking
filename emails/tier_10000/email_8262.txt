@@ -1,0 +1,28 @@
+From: alex.chen@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-09-10 12:43 PM
+Subject: Sprint v3.2.2 retrospective notes
+
+Hi,
+
+Here are the retrospective notes from sprint v3.2.2. Thanks to everyone who
+participated â€” we had good engagement this time.
+
+What went well: the PaymentGateway feature shipped on time, Aisha Okafor did an excellent
+job coordinating the cross-team dependency, and our CI pipeline reliability improved
+to 182ms from 372ms last sprint.
+
+What could improve: we underestimated the connection pool integration work by about
+45%, which pushed two stories into the next sprint. We also had too many
+context switches mid-sprint from unplanned support requests.
+
+Action items: establish a support rotation so on-call duties don't fall on the same
+people, and break down large stories into smaller increments to improve estimation
+accuracy. Aisha Okafor volunteered to draft the rotation schedule.
+
+Sprint v3.2.2 velocity was 106 points. Carrying over 8 points of unfinished
+work to the next sprint.
+
+Talk soon,
+Alex

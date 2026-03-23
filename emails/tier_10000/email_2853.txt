@@ -1,0 +1,30 @@
+From: aisha.okafor@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-25 04:10 PM
+Subject: Re: Enterprise Suite demo feedback from Tyrell Corp
+
+Hi team,
+
+Great news from the Tyrell Corp demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the rate limiter dashboard got the biggest reaction. Their
+current tool requires 166 manual steps to accomplish what our Enterprise Suite does
+automatically. The BillingModule integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 196ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v4.1.0 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. David Okonkwo, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Enterprise Suite trial environment set up for their team of
+166 evaluators. I'll submit the trial request today. Target close date
+remains Thursday, April 26.
+
+Regards,
+Aisha

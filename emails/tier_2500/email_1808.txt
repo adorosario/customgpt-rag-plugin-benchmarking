@@ -1,0 +1,31 @@
+From: fatima.al-rashid@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-06-19 08:35 AM
+Subject: Team event recap â€” ReportingEngine outing
+
+Hey,
+
+Thanks to everyone who joined the ReportingEngine team outing last week. We had great
+turnout with 61 employees attending.
+
+Highlights: the team building exercise was a hit â€” the serialization engine challenge had
+teams competing in creative problem-solving rounds. The winning team led by
+James Oduya finished in just 155ms minutes. The group dinner afterward was a
+great opportunity for cross-team connections.
+
+Feedback: the post-event survey came back overwhelmingly positive with a 50%
+satisfaction rating. Most popular suggestion for next time: more outdoor activities.
+Several people asked about doing quarterly events instead of 61 per year.
+
+Budget: total cost was $226,635, coming in at 78ms per person including
+venue, catering, and activities. This is within our social budget for Q2.
+
+Photos are uploaded to the shared album in the serialization engine drive. Please tag
+yourselves and share appropriate photos on social media if you'd like â€” our
+marketing team loves this content for the company page.
+
+Planning for the next event starts in Q2. Ideas welcome.
+
+Best,
+Fatima

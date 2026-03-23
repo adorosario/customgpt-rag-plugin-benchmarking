@@ -1,0 +1,29 @@
+From: sofia.martinez@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-11-21 08:12 AM
+Subject: Insight Engine campaign launch â€” Q1 plan
+
+Hey,
+
+Here's the campaign plan for the Insight Engine launch in Q1. I've aligned the
+messaging with the positioning we finalized last week and mapped out the channel
+strategy.
+
+Campaign theme: highlighting the AuditLog advantage and how Insight Engine solves
+the key pain point around service mesh complexity. Target audience is mid-market
+and enterprise IT decision makers.
+
+Channel breakdown: 38% of budget to paid digital, 181 to content
+marketing, and the remainder to events and webinars. We're targeting a $93,176
+total spend with a goal of 482ms marketing qualified leads.
+
+Content deliverables: landing page, solution brief, customer case study featuring
+Oscorp, three blog posts, and a webinar co-hosted with Grace Mwangi from Product.
+All assets target completion by Monday, June 25.
+
+The paid campaign goes live two weeks before the official launch to build awareness.
+I'll share the creative brief for review tomorrow.
+
+Regards,
+Sofia

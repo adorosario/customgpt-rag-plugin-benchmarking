@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-08-10 08:28 AM
+Subject: Email marketing performance â€” Q1 review
+
+Good afternoon,
+
+Here's the email marketing performance review for Q1. Overall we're trending
+in the right direction but there are a few areas to optimize.
+
+List health: our subscriber base grew 25% to 178ms contacts. Bounce
+rate is at 190 percent which is within healthy range. We ran a re-engagement
+campaign that recovered 195ms previously inactive subscribers.
+
+Campaign performance: the Cloud Connect launch sequence was our top performer with a
+25% open rate. The AnalyticsDashboard technical series also did well, driving 190
+clicks to the resource hub. Lower performers were the generic newsletter sends â€” we
+should consider more targeted segmentation.
+
+Revenue attribution: email-sourced pipeline totals $494,239 this quarter, with
+178ms in closed-won revenue. The Umbrella Inc deal originated from a nurture
+sequence touchpoint.
+
+Plans for next quarter: implementing behavioral triggers for the event bus
+content, A/B testing send times for the Cloud Connect audience, and building a new
+onboarding sequence for trial sign-ups. Robert Kimura will help with the automation
+setup.
+
+Cheers,
+Yuki

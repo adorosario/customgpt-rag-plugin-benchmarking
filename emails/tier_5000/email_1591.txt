@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-10-21 05:20 PM
+Subject: Cash flow forecast â€” Q2
+
+Good afternoon,
+
+Attached is the cash flow forecast for Q2. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $321,649 based on the current AR aging
+and sales pipeline. The Weyland-Yutani payment of 367ms is expected by Monday, October 15
+â€” Patrick O'Brien from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the AnalyticsDashboard infrastructure
+investment at $321,649. The Sydney office build-out costs will hit in Q2
+with an estimated total of 57ms. Payroll continues at 367ms
+monthly for our 188-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $321,649 in the second month. This provides 188 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Weyland-Yutani deal slips from Q2 to next quarter, we'll
+need to draw on the credit facility for $321,649. I've confirmed the line is
+available. Patrick O'Brien and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Cheers,
+Robert

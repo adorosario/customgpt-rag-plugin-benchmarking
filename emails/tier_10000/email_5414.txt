@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-08-18 02:37 PM
+Subject: Social media strategy â€” Q4
+
+Hi all,
+
+Presenting the social media strategy refresh for Q4. Based on our Analytics Pro
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our PaymentGateway posts are averaging 178 impressions and 44% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 44% educational content about config manager topics, 178
+percent product highlights, and the rest for company culture and employee spotlights.
+Sofia Martinez will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Analytics Pro use cases and answer audience questions. First session on Thursday, June 27 featuring
+Sofia Martinez.
+
+Budget: $386,843 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 328ms new followers and 171ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Thanks,
+Laura

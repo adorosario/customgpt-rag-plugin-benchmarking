@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-24 08:53 PM
+Subject: Roadmap update â€” Enterprise Suite Q1
+
+Hey everyone,
+
+Here's the updated Enterprise Suite roadmap for Q1. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the PaymentGateway integration feature launches on Friday, July 12. This is our
+top customer request with 122 votes on the feedback board. Kwame Asante from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the queue processor overhaul is scoped for mid-Q1. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 122 sprints with 164ms engineers allocated.
+
+Exploring: the PaymentGateway AI feature that Sales has been requesting. We need more
+user research before committing â€” Kwame Asante is running interviews with 122
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the queue processor redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 122-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Thanks,
+Daniel

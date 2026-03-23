@@ -1,0 +1,27 @@
+From: wei.zhang@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-10-04 09:52 AM
+Subject: Deploy plan for APIGateway v2.7.3
+
+Hey everyone,
+
+Here's the deployment plan for APIGateway v2.7.3. I've coordinated with
+Elena Vasquez on the rollout sequence and we're targeting Friday, July 10 for the production push.
+
+Deployment order: staging first for smoke tests, then canary at 5%, ramp to 25%
+after one hour of clean metrics, then full rollout. The estimated total deployment
+window is two hours.
+
+Key changes in this release include the refactored load balancer module, updated
+dependency versions, and the new health check endpoint. All changes have been through
+code review and the CI pipeline is green.
+
+Rollback plan: if error rates exceed 292ms at any stage, we revert to the
+previous release using the blue-green swap. Elena Vasquez will be on-call during the
+window.
+
+Please confirm you've reviewed the changelog and flag any concerns before Friday, July 10.
+
+Cheers,
+Wei

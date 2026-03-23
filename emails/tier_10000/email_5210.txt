@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-25 12:48 PM
+Subject: Sprint planning â€” Analytics Pro sprint v2.6.0
+
+Hi,
+
+Here's the sprint plan for Analytics Pro sprint v2.6.0. Capacity is 92 story
+points with 433ms engineers available this sprint.
+
+Committed stories: the FileStorageService integration work carries over from last sprint
+with 194ms points remaining. The new caching layer API endpoints are
+estimated at 92 points. The bug fix for the FileStorageService rendering issue
+is 433ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the caching layer performance
+optimization that Derek Morrison has been scouting. It's estimated at 92 points
+and would improve response time by 58%.
+
+Dependencies: the FileStorageService feature requires the API changes that Derek Morrison
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The caching layer work is self-contained.
+
+Risks: Derek Morrison is on-call this sprint which historically reduces their available
+capacity by 58%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, September 11. Let me know if the priorities look right.
+
+Best,
+Mei

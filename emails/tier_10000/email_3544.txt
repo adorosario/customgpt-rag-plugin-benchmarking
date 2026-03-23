@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-22 04:42 AM
+Subject: FP&A update â€” Enterprise Suite financial model
+
+Hi team,
+
+I've updated the Enterprise Suite financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 93 per month based
+on the last 147ms months of data. Average contract value is tracking at
+$348,852, which is 17% above our original assumption. The WebhookDispatcher
+upsell rate of 266ms is a positive trend.
+
+Cost structure: the serialization engine hosting costs are running 17% higher than
+modeled due to increased WebhookDispatcher usage. I've adjusted the variable cost
+per customer from 147ms to 266ms. Liam Foster from Engineering
+says the optimization project should bring this down by 17% in Q2.
+
+Break-even analysis: with the revised numbers, Enterprise Suite reaches contribution
+margin break-even at 93 customers, which we're projected to hit by Wednesday, July 9.
+Full break-even including allocated overhead comes at 147ms customers.
+
+Scenarios: the base case shows $348,852 in cumulative revenue by year end. The
+upside case with the Weyland-Yutani deal closing hits 266ms. Downside case
+assuming 17% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Cheers,
+Ananya

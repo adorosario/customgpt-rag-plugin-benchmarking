@@ -1,0 +1,30 @@
+From: aisha.okafor@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-07-23 04:45 PM
+Subject: Competitive intel â€” Umbrella Inc evaluation
+
+Hi,
+
+Got some useful competitive intelligence from the Umbrella Inc account that I want to
+share with the team.
+
+Umbrella Inc shared their evaluation criteria and mentioned they're also looking at
+FileStorageService as an alternative to our Integration Hub. From what I gathered, FileStorageService
+is pitching a lower price point but doesn't have feature parity on the connection pool
+side.
+
+Key differentiators working in our favor: our Integration Hub handles 163 concurrent
+connections versus their published limit of 62ms. Our uptime SLA is also
+stronger at 431ms versus their 53% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for FileStorageService and
+consider a streamlined trial process for mid-market accounts. Wei Zhang from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Monday, October 9.
+
+Talk soon,
+Aisha

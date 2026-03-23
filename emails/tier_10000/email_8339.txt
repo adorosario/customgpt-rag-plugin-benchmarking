@@ -1,0 +1,34 @@
+From: sarah.chen@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-07-06 05:51 PM
+Subject: Contract review â€” Umbrella Inc agreement
+
+Hey,
+
+I've completed the review of the Umbrella Inc agreement and have several items that
+need attention before we can proceed to execution.
+
+Liability cap: the current draft limits liability to $353,843, which is below our
+standard threshold of 346ms for deals of this size. I recommend pushing back
+to at least 203ms. Mei Lin from Sales should be prepared for this
+negotiation point.
+
+IP assignment clause: section 7.3 includes an overly broad IP assignment that could
+capture pre-existing work product. I've drafted narrower language that protects our
+existing FileStorageService IP while still meeting Umbrella Inc's requirements for the
+Analytics Pro deliverables.
+
+Data processing: the DPA needs to be updated to reflect the new load balancer
+architecture. Since data will transit through the Toronto data center, we need to
+ensure compliance with local data residency requirements.
+
+Indemnification: the mutual indemnification provisions are reasonable. I've accepted
+them with minor clarifications on the notice period â€” changed from 197 to
+346ms business days.
+
+I'll send the redlined version by Tuesday, October 17. Please review the business terms and
+confirm the commercial intent before I finalize.
+
+Talk soon,
+Sarah

@@ -1,0 +1,31 @@
+From: michael.brennan@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-10-07 11:21 PM
+Subject: Financial close checklist â€” Q4
+
+Good afternoon,
+
+The Q4 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Cloud Connect invoices must be issued by Wednesday, October 25. Any revenue recognition
+adjustments for the AuditLog contracts need supporting documentation uploaded
+to metrics collector. Rachel Nguyen from Sales must confirm final deal amounts by November 27.
+
+Expenses: all expense reports for Q4 must be submitted by Wednesday, October 25. The
+AuditLog vendor invoices totaling $207,069 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, AuditLog subscription costs,
+and the metrics collector usage charges by Wednesday, October 25. Any non-standard accruals above
+205ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, AuditLog account reconciliation, and
+inter-company balances must be completed by Wednesday, October 25. Rachel Nguyen is handling the
+bank rec. I'll take the inter-company items since they involve the Berlin entity.
+
+Target: books closed within 166 business days of quarter end. Final reporting
+package to leadership by Wednesday, October 25.
+
+Cheers,
+Michael

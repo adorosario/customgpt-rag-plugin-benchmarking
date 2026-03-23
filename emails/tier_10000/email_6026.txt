@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-04 06:43 PM
+Subject: Analytics report â€” Integration Hub campaign performance
+
+Good morning,
+
+Here's the performance report for the Integration Hub campaign through Monday, February 13.
+
+Website traffic: up 43% month over month, driven primarily by the NotificationEngine
+comparison blog post which brought in 191 unique visitors. Organic search is
+growing steadily â€” the service mesh keyword cluster is now ranking on page one.
+
+Lead generation: 384ms marketing qualified leads this month against a
+target of 414ms. The whitepaper download page converted at 43% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 191 percent.
+
+Email campaigns: the Integration Hub nurture sequence has a 43% open rate and
+191 percent click-through rate. The top-performing email was the NotificationEngine
+case study with Cyberdyne. Robert Kimura suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $341,702 which is 43% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Regards,
+Laura

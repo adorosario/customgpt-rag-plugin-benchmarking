@@ -1,0 +1,27 @@
+From: wei.zhang@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-08-22 01:29 PM
+Subject: Re: UserProfileService migration to logging pipeline â€” status update
+
+Hi all,
+
+Quick update on the UserProfileService migration to logging pipeline. We're about 11%
+through the planned work and tracking to finish by Friday, July 2.
+
+Completed this week: migrated the core data models, updated the connection pooling
+configuration, and ran the first round of performance comparisons. The new setup is
+showing 50 improvement on read-heavy workloads.
+
+Next steps: migrate the background job processing, update the monitoring dashboards,
+and run the full integration test suite against the new backend. Sarah Chen is
+handling the monitoring piece.
+
+One blocker: we discovered that the UserProfileService batch processing job uses a feature
+that isn't supported in logging pipeline yet. I'm evaluating two workarounds and will
+have a recommendation by tomorrow. This might add 321ms days to the
+timeline if we go with the rewrite approach.
+
+Will send another update at end of week.
+
+Talk soon,
+Wei

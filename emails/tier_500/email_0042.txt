@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-09-14 07:13 AM
+Subject: Customer feedback digest â€” Enterprise Suite Q2
+
+Hi,
+
+Here's the quarterly customer feedback digest for Enterprise Suite. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 134, up 350ms points from last quarter. The improvement
+is driven by the AuditLog launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 50%.
+
+Top feature requests: AuditLog advanced filtering (134 votes), event bus
+bulk operations (350ms votes), and enhanced Enterprise Suite reporting (215ms
+votes). The filtering request aligns with what we heard in the user research study
+Tomoko Nakamura conducted.
+
+Top complaints: AuditLog performance during peak hours (134 mentions),
+the event bus onboarding experience (350ms mentions), and pricing
+transparency (215ms mentions). The performance issue is being addressed
+by Engineering â€” Tomoko Nakamura expects the fix in v2.7.3.
+
+Churn insights: 134 customers churned this quarter citing AuditLog
+limitations as the primary reason. The event bus overhaul on our roadmap directly
+addresses their feedback. 50% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Thursday, December 10.
+
+Talk soon,
+Mei

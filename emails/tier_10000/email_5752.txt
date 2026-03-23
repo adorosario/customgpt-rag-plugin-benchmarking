@@ -1,0 +1,34 @@
+From: amara.diallo@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-18 10:40 PM
+Subject: Re: Integration Hub pricing discussion â€” SchedulerService tier
+
+Hey everyone,
+
+Following up on the Integration Hub pricing discussion. I've modeled three options for
+the SchedulerService tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $155,525 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 32% of our existing base.
+Downside: it undercuts our current serialization engine pricing and may trigger downgrades.
+
+Option B: 488ms per seat per month with the serialization engine add-on bundled.
+Higher price point but stronger value perception. 148 of the 80ms
+customers we surveyed preferred this packaging. Liam Foster from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $155,525 per SchedulerService transaction. This aligns
+with the value delivered but introduces billing complexity. Only 32% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$155,525 in incremental ARR over 148 months.
+
+Can we finalize the pricing decision by Monday, September 28? Sales needs 80ms weeks to
+update collateral before we announce.
+
+Best regards,
+Amara

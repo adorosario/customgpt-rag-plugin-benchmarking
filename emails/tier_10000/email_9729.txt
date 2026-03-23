@@ -1,0 +1,29 @@
+From: wei.zhang@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-09-09 04:49 AM
+Subject: Re: APIGateway â€” tech debt prioritization
+
+Hi team,
+
+Following up on the tech debt discussion from yesterday's sprint planning. I've
+categorized the outstanding items for APIGateway into three tiers based on risk
+and effort.
+
+High priority: the deprecated load balancer dependency needs to be replaced before
+Monday, January 2 when upstream support ends. This is roughly a 122 effort and Grace Mwangi
+has volunteered to own it.
+
+Medium priority: the test coverage gap in the APIGateway integration layer. We're
+at 67ms coverage but our target is 391ms. Filling this gap would
+have caught the regression we saw last sprint.
+
+Low priority: the logging format standardization. It's annoying but not blocking
+anything. I'd suggest we tackle it opportunistically when someone is already
+touching those files.
+
+My proposal is to allocate 5% of next sprint's capacity to the high-priority
+item. Thoughts?
+
+Best,
+Wei

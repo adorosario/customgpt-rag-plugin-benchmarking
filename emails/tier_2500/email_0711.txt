@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-09-02 07:23 PM
+Subject: Sprint planning â€” Sync Platform sprint v2.7.3
+
+Hi all,
+
+Here's the sprint plan for Sync Platform sprint v2.7.3. Capacity is 121 story
+points with 162ms engineers available this sprint.
+
+Committed stories: the DataPipeline integration work carries over from last sprint
+with 149ms points remaining. The new connection pool API endpoints are
+estimated at 121 points. The bug fix for the DataPipeline rendering issue
+is 162ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the connection pool performance
+optimization that Ravi Patel has been scouting. It's estimated at 121 points
+and would improve response time by 30%.
+
+Dependencies: the DataPipeline feature requires the API changes that Ravi Patel
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The connection pool work is self-contained.
+
+Risks: Ravi Patel is on-call this sprint which historically reduces their available
+capacity by 30%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Thursday, March 19. Let me know if the priorities look right.
+
+Thanks,
+Daniel

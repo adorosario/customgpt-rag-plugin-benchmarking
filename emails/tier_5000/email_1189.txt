@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-08-21 05:23 AM
+Subject: Policy update â€” NotificationEngine guidelines
+
+Hey,
+
+We've updated the NotificationEngine company policy based on feedback from employees and
+recent changes in Tokyo labor regulations. The new policy takes effect on Monday, January 8.
+
+Key changes: the config manager allowance has been increased from 470ms to
+149ms per month. The eligibility window for NotificationEngine has been expanded
+to include employees who've been with Acme Corp for 187 months or more, down
+from the previous requirement of 470ms months.
+
+New additions: a Sync Platform reimbursement category has been added covering up to
+$389,230 annually. This addresses the top employee request from the last survey.
+Dmitri Volkov negotiated favorable terms with the config manager vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by April 12. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 43% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Rachel

@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-28 05:09 AM
+Subject: Re: User research findings â€” AnalyticsDashboard
+
+Hello,
+
+Sharing the findings from the AnalyticsDashboard user research study. We interviewed
+132 users and ran usability tests with 395ms participants over the
+last two weeks.
+
+Key insight 1: users find the logging pipeline workflow confusing â€” 58% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between AnalyticsDashboard and the main Enterprise Suite dashboard.
+
+Key insight 2: power users want more AnalyticsDashboard customization options. They're
+currently using workarounds that involve 132 extra steps. The most requested
+feature is the ability to create custom logging pipeline templates.
+
+Key insight 3: new users consistently miss the AnalyticsDashboard feature entirely.
+Discovery is poor â€” only 58% of new users try the feature within their first
+132 days. Yuki Sato suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the logging pipeline navigation flow, add the template
+feature to the Q1 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 58% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Thanks,
+Liam

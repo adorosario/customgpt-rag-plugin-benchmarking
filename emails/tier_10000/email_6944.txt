@@ -1,0 +1,32 @@
+From: amara.diallo@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-21 10:57 PM
+Subject: A/B test results â€” PaymentGateway experiment
+
+Hi all,
+
+The PaymentGateway A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 161 days with 337ms users in each cohort.
+
+Variant A (control): the existing service mesh flow. Conversion rate of
+364ms with an average task completion time of 161 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified PaymentGateway step.
+Conversion rate of 337ms with task completion time of 364ms seconds.
+This represents a 23% improvement in conversion and 161 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 161 to 337ms
+in the treatment group. Support ticket volume for PaymentGateway related issues
+decreased by 23%. No negative impact on service mesh engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. David Okonkwo from Engineering can have this
+deployed by Monday, February 24.
+
+One caveat: the test population skewed toward Data Vault power users. We should
+monitor new user behavior closely for the first 161 weeks after full rollout.
+
+Regards,
+Amara

@@ -1,0 +1,30 @@
+From: jun.tanaka@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-10-31 05:21 PM
+Subject: Competitive intel â€” Wayne Enterprises evaluation
+
+Hello,
+
+Got some useful competitive intelligence from the Wayne Enterprises account that I want to
+share with the team.
+
+Wayne Enterprises shared their evaluation criteria and mentioned they're also looking at
+DataPipeline as an alternative to our Data Vault. From what I gathered, DataPipeline
+is pitching a lower price point but doesn't have feature parity on the authentication module
+side.
+
+Key differentiators working in our favor: our Data Vault handles 117 concurrent
+connections versus their published limit of 391ms. Our uptime SLA is also
+stronger at 424ms versus their 20% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for DataPipeline and
+consider a streamlined trial process for mid-market accounts. Amara Diallo from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Monday, January 20.
+
+Talk soon,
+Jun

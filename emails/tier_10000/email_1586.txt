@@ -1,0 +1,29 @@
+From: carlos.rivera@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-13 02:41 AM
+Subject: Weekly pipeline review â€” Friday, September 23
+
+Good afternoon,
+
+Here's the pipeline summary ahead of our weekly review meeting on Friday, September 23.
+
+Total pipeline value: $313,977. Weighted pipeline: 249ms. We need
+103ms more in closed-won revenue to hit the Q3 target.
+
+Deals moving forward: Stark Industries is in final contract review and should close this
+week. Two mid-market opportunities in the Sync Platform space progressed to technical
+evaluation stage.
+
+At risk: one enterprise deal has gone quiet after we submitted pricing. Jun Tanaka
+is trying to reconnect with the champion. Another account pushed their evaluation
+to next Q3 due to internal restructuring.
+
+New leads: generated 109 new qualified leads from the conference last week.
+The AuthService demo was particularly well received. I've started outreach and
+have initial calls booked for 29% of them.
+
+Will walk through the details and forecasting adjustments in the meeting.
+
+Talk soon,
+Carlos

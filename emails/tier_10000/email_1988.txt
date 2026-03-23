@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-08-09 06:23 AM
+Subject: Roadmap update â€” Analytics Pro Q4
+
+Good morning,
+
+Here's the updated Analytics Pro roadmap for Q4. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the MessageBroker integration feature launches on Friday, April 3. This is our
+top customer request with 157 votes on the feedback board. Priya Sharma from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the logging pipeline overhaul is scoped for mid-Q4. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 157 sprints with 172ms engineers allocated.
+
+Exploring: the MessageBroker AI feature that Sales has been requesting. We need more
+user research before committing â€” Priya Sharma is running interviews with 157
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the logging pipeline redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 157-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Cheers,
+Daniel

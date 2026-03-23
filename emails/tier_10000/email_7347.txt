@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-08-28 09:04 AM
+Subject: Investment proposal â€” CacheLayer infrastructure
+
+Hi,
+
+I've prepared the financial analysis for the proposed CacheLayer infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $382,731 upfront with 326ms in annual operating costs.
+The total 3-year cost of ownership is 272ms compared to the current
+caching layer setup at $382,731 over the same period.
+
+ROI analysis: the projected payback period is 30 months. Key benefits include
+51% reduction in infrastructure management time, improved Integration Hub performance
+that supports the revenue growth targets, and elimination of the caching layer
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $382,731 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 51% interest.
+This preserves cash for the Toronto office investment planned for Q1.
+
+Risk factors: technology lock-in with the CacheLayer vendor, though the 30-year
+contract includes an exit clause after the first year. Robert Kimura from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Wednesday, August 4 to lock in the quoted pricing. The vendor has
+given us a 30-day hold on the current rates.
+
+Talk soon,
+Grace

@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-06-21 09:51 AM
+Subject: Event planning â€” Analytics Pro webinar on Friday, June 24
+
+Good morning,
+
+Finalizing details for the Analytics Pro webinar on Friday, June 24. Here's where we stand on
+the logistics and promotion.
+
+Content: Sarah Chen from Product will present the AuthService roadmap segment.
+I'll handle the intro and customer story. We're targeting a 81-minute
+presentation followed by 330ms minutes of live Q&A. The serialization engine demo
+segment should be the highlight.
+
+Registration: we've had 52ms sign-ups so far. Goal is 330ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Analytics Pro keywords.
+
+Tech setup: using the standard webinar platform. Sarah Chen will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Friday, June 24 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 81 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Best,
+Yuki

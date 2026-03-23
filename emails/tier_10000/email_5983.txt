@@ -1,0 +1,29 @@
+From: michael.brennan@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-10-15 01:38 AM
+Subject: Re: Expense report flagged â€” ReportingEngine charges
+
+Good afternoon,
+
+I noticed some items on the ReportingEngine expense report submitted by Mei Lin
+that need clarification before I can approve them.
+
+The authentication module subscription charge of $457,134 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+163ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Wayne Enterprises dinner on Monday, September 10 for $457,134 exceeds our per-person meal
+reimbursement limit of 163ms. If this was a client entertainment expense,
+it should be coded to the client development budget under ReportingEngine rather than
+general T&E. 74 attendees at that amount puts us at 220ms per
+person which is within the client entertainment policy.
+
+The remaining 74 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 163ms business days after approval.
+
+Please resubmit with the corrections by Monday, September 10 so we can keep things on track.
+
+Cheers,
+Michael

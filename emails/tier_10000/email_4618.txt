@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-31 10:21 PM
+Subject: Beta program update â€” Insight Engine v2.1.0
+
+Hi,
+
+Quick update on the Insight Engine v2.1.0 beta program. We're 71 weeks into
+the beta period with 78ms customers participating.
+
+Usage data: 41% of beta participants have activated the new CacheLayer
+feature. Average daily usage is 71 sessions per user. The queue processor
+workflow is being used by 264ms of participants, which exceeds our
+adoption target of 78ms.
+
+Feedback summary: overall sentiment is positive. The top 71 pieces of praise
+relate to the CacheLayer speed improvement and the new queue processor interface.
+The top 78ms complaints are about the CacheLayer configuration complexity
+and a confusing error message in the queue processor flow.
+
+Bugs found: 71 bugs reported, of which 78ms are critical. Oluwaseun Adeyemi
+from Engineering has fixed 264ms of the critical bugs. The remaining one
+is related to the CacheLayer edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Thursday, February 17. The GA release is targeted for 71 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Thursday, February 17 to finalize the GA scope.
+
+Talk soon,
+Liam

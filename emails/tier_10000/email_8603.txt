@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-23 08:48 PM
+Subject: Tax planning â€” Q3 estimated payments
+
+Hello,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the BillingModule investment
+deductions.
+
+Federal estimate: $442,239 based on projected taxable income of 349ms.
+This reflects the BillingModule depreciation deductions and the R&D tax credit for
+the Analytics Pro development costs. Alex Chen from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $442,239 for our primary jurisdiction and 220ms for the
+Sydney office based on the apportionment factors. The Sydney rate change that
+takes effect on Tuesday, May 27 will impact our Q3 estimate by approximately 81
+percent.
+
+International: with the Sydney office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Alex Chen to handle
+the registration. Setup cost is $442,239 with ongoing compliance costs of
+220ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Tuesday, May 27. I'll prepare the
+payment authorization for your signature by November 15. Underpayment penalties
+start at 38% so timely filing is important.
+
+Cheers,
+Grace

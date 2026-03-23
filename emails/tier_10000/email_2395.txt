@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-08-10 03:41 PM
+Subject: Sprint planning â€” Enterprise Suite sprint v4.1.0
+
+Hi all,
+
+Here's the sprint plan for Enterprise Suite sprint v4.1.0. Capacity is 106 story
+points with 297ms engineers available this sprint.
+
+Committed stories: the SchedulerService integration work carries over from last sprint
+with 172ms points remaining. The new service mesh API endpoints are
+estimated at 106 points. The bug fix for the SchedulerService rendering issue
+is 297ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the service mesh performance
+optimization that Maria Santos has been scouting. It's estimated at 106 points
+and would improve response time by 38%.
+
+Dependencies: the SchedulerService feature requires the API changes that Maria Santos
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The service mesh work is self-contained.
+
+Risks: Maria Santos is on-call this sprint which historically reduces their available
+capacity by 38%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, August 28. Let me know if the priorities look right.
+
+Best,
+Sanjay

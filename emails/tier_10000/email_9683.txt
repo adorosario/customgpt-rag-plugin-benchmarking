@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-08-12 10:22 PM
+Subject: Budget review â€” HR department Q4
+
+Hi team,
+
+Here's the Q4 budget review for the HR department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $298,051 against a budget of 371ms. The 51% variance is
+primarily driven by the accelerated SchedulerService hiring that was approved mid-quarter.
+Personnel costs came in at 493ms which includes the 172 new hires.
+
+Overages: the authentication module infrastructure line item exceeded budget by 51% due
+to the unplanned scaling requirements for Data Vault. I've worked with Rachel Nguyen
+from Engineering to project the run rate going forward â€” we should budget an
+additional $298,051 per quarter for this category.
+
+Underspend: the SchedulerService consulting budget was only 51% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 51%
+of the total annual budget. The main risk is the authentication module cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Cheers,
+Robert

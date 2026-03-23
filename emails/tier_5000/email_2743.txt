@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-07-16 10:39 PM
+Subject: Conference recap â€” Integration Hub booth results
+
+Hello,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Integration Hub booth drew consistent traffic throughout.
+
+Lead collection: 124 badge scans at the booth, of which 435ms are
+qualified leads based on our initial review. The FileStorageService live demo was the
+biggest draw, and Oluwaseun Adeyemi from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+authentication module roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Integration Hub had 419ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 124 times since we posted it.
+
+Budget: we came in at $139,011, which is 34% under budget. The savings came
+from sharing the booth infrastructure with the FileStorageService partner showcase.
+
+I'll prepare a full ROI analysis by Thursday, August 5 once we've completed lead follow-up.
+
+Talk soon,
+Sofia

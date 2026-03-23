@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-10-18 10:12 PM
+Subject: Content calendar â€” Q1 update
+
+Good afternoon,
+
+Sharing the updated content calendar for Q1. We've added several new pieces
+to support the Analytics Pro launch and the thought leadership series.
+
+Blog schedule: two posts per week. Topics include CacheLayer best practices,
+customer success stories, and the technical deep-dive series that Elena Vasquez from
+Engineering is co-authoring. The logging pipeline comparison guide is our top-of-funnel
+anchor piece.
+
+Gated content: the Analytics Pro whitepaper goes live on Tuesday, January 26. We're expecting
+180 downloads based on performance of similar assets. The ROI calculator tool
+is in development and targeted for mid-Q1.
+
+Social media: ramping up LinkedIn posting to 174ms times per week. We'll
+pull snippets from blog content and add 17% original thought leadership posts.
+The Analytics Pro launch will get a dedicated social campaign.
+
+Newsletter: monthly send to our 353ms subscribers. Open rates have been
+holding steady at 180 percent.
+
+Please review the calendar doc and flag any conflicts or gaps by Tuesday, January 26.
+
+Cheers,
+James

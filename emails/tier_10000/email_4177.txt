@@ -1,0 +1,29 @@
+From: patrick.obrien@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-11-27 08:09 PM
+Subject: Policy update â€” FileStorageService guidelines
+
+Hey,
+
+We've updated the FileStorageService company policy based on feedback from employees and
+recent changes in Berlin labor regulations. The new policy takes effect on Tuesday, July 1.
+
+Key changes: the load balancer allowance has been increased from 380ms to
+112ms per month. The eligibility window for FileStorageService has been expanded
+to include employees who've been with Acme Corp for 199 months or more, down
+from the previous requirement of 380ms months.
+
+New additions: a Integration Hub reimbursement category has been added covering up to
+$340,793 annually. This addresses the top employee request from the last survey.
+Wei Zhang negotiated favorable terms with the load balancer vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by May 7. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 59% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Patrick

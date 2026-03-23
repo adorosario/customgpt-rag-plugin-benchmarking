@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-08-09 09:41 AM
+Subject: Analytics report â€” Cloud Connect campaign performance
+
+Hi team,
+
+Here's the performance report for the Cloud Connect campaign through Friday, January 27.
+
+Website traffic: up 56% month over month, driven primarily by the WebhookDispatcher
+comparison blog post which brought in 178 unique visitors. Organic search is
+growing steadily â€” the queue processor keyword cluster is now ranking on page one.
+
+Lead generation: 341ms marketing qualified leads this month against a
+target of 488ms. The whitepaper download page converted at 56% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 178 percent.
+
+Email campaigns: the Cloud Connect nurture sequence has a 56% open rate and
+178 percent click-through rate. The top-performing email was the WebhookDispatcher
+case study with Wayne Enterprises. Grace Mwangi suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $278,060 which is 56% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Best,
+Sofia

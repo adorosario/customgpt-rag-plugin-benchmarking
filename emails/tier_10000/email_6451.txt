@@ -1,0 +1,29 @@
+From: grace.mwangi@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-06-02 02:19 PM
+Subject: Re: Expense report flagged â€” AuditLog charges
+
+Good afternoon,
+
+I noticed some items on the AuditLog expense report submitted by Grace Mwangi
+that need clarification before I can approve them.
+
+The service mesh subscription charge of $467,369 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+489ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Hooli dinner on Tuesday, June 1 for $467,369 exceeds our per-person meal
+reimbursement limit of 489ms. If this was a client entertainment expense,
+it should be coded to the client development budget under AuditLog rather than
+general T&E. 56 attendees at that amount puts us at 351ms per
+person which is within the client entertainment policy.
+
+The remaining 56 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 489ms business days after approval.
+
+Please resubmit with the corrections by Tuesday, June 1 so we can keep things on track.
+
+Thanks,
+Grace

@@ -1,0 +1,21 @@
+{
+  "tier": 10000,
+  "question_id": "pattern_2",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What's the status of the Berlin office opening?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about a Berlin office opening. This topic isn't in my memory or any project files in the current working directory.\n\nCould you give me more context? For example:\n- Is this tracked in Notion, Trello, or another tool?\n- Is it related to a specific project or team?\n\nWith more context I can look it up for you.",
+  "time_seconds": 22.3,
+  "num_turns": 1,
+  "cost_usd": 0.0516162,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10872,
+  "cache_read_tokens": 17324,
+  "output_tokens": 376,
+  "total_tokens": 28575,
+  "duration_api_ms": 9427,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

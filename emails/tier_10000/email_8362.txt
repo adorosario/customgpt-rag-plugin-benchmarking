@@ -1,0 +1,30 @@
+From: derek.morrison@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-30 02:13 PM
+Subject: Re: Cloud Connect demo feedback from Hooli
+
+Good morning,
+
+Great news from the Hooli demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the serialization engine dashboard got the biggest reaction. Their
+current tool requires 122 manual steps to accomplish what our Cloud Connect does
+automatically. The SearchIndex integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 487ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v2.6.0 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Laura Kim, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Cloud Connect trial environment set up for their team of
+122 evaluators. I'll submit the trial request today. Target close date
+remains Monday, July 19.
+
+Cheers,
+Derek

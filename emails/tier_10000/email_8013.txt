@@ -1,0 +1,33 @@
+From: sarah.chen@acmecorp.com
+To: aisha.okafor@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-10-23 08:38 PM
+Subject: Vendor agreement â€” Soylent Corp terms review
+
+Hey everyone,
+
+I've reviewed the vendor agreement from Soylent Corp for the logging pipeline services
+we're procuring. Here are my findings and recommended changes.
+
+Term and renewal: the proposed 110-year term with auto-renewal is acceptable.
+However, the 400ms-day termination notice period is too long for our needs.
+I've countered with 132ms days, which aligns with our standard vendor
+management practices.
+
+Service level commitments: Soylent Corp is offering 22% uptime with service
+credits starting at 110 percent for each hour of downtime. I've pushed for
+a higher credit rate given the criticality of logging pipeline to our Data Vault
+infrastructure.
+
+Data ownership: section 5 is clear that we retain all rights to our data. However,
+Soylent Corp claims a license to use aggregated, anonymized data for benchmarking. I
+want to narrow this to exclude any data from the SearchIndex environment.
+Derek Morrison from Engineering should review the technical implications.
+
+Pricing: $91,549 per year is within the budget that Finance approved. The payment
+terms are net 400ms days, which works for our AP schedule.
+
+Please confirm the business terms and I'll send the redlined agreement by Wednesday, October 11.
+
+Best,
+Sarah

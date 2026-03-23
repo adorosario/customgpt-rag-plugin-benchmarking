@@ -1,0 +1,30 @@
+From: grace.mwangi@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-17 03:28 PM
+Subject: Re: Expense report flagged â€” CacheLayer charges
+
+Hi,
+
+I noticed some items on the CacheLayer expense report submitted by Tomoko Nakamura
+that need clarification before I can approve them.
+
+The connection pool subscription charge of $467,977 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+170ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Cyberdyne dinner on Wednesday, July 26 for $467,977 exceeds our per-person meal
+reimbursement limit of 170ms. If this was a client entertainment expense,
+it should be coded to the client development budget under CacheLayer rather than
+general T&E. 39 attendees at that amount puts us at 146ms per
+person which is within the client entertainment policy.
+
+The remaining 39 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 170ms business days after approval.
+
+Please resubmit with the corrections by Wednesday, July 26 so we can keep things on track.
+
+Thanks,
+Grace

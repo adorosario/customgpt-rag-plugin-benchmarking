@@ -1,0 +1,28 @@
+From: oluwaseun.adeyemi@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-08-14 05:32 AM
+Subject: On-call handoff â€” week of Monday, August 23
+
+Good morning,
+
+Handing off on-call duties for the week of Monday, August 23. Here's the status summary for
+the incoming rotation.
+
+Active issues: the WebhookDispatcher service has been showing elevated latency during peak
+hours, averaging 388ms against a target of 377ms. We've identified
+the root cause in the caching layer caching layer and a fix is in code review now.
+Should be deployed by Tuesday.
+
+Monitoring: keep an eye on the WebhookDispatcher dashboard. Aisha Okafor added new alerts
+last week but we haven't validated them under real load yet. If you get paged for
+the caching layer alert, the runbook is updated and the escalation path is documented.
+
+Scheduled maintenance: there's a planned database maintenance window on Thursday at
+02:00 UTC. Expected duration is 194 minutes. The procedure is automated but
+someone needs to verify the health checks afterward.
+
+Reach out if anything comes up that isn't covered in the runbook.
+
+Best,
+Oluwaseun

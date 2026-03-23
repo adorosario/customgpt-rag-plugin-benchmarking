@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-08-21 09:47 AM
+Subject: Analytics report â€” Cloud Connect campaign performance
+
+Good afternoon,
+
+Here's the performance report for the Cloud Connect campaign through Friday, June 22.
+
+Website traffic: up 22% month over month, driven primarily by the FileStorageService
+comparison blog post which brought in 19 unique visitors. Organic search is
+growing steadily â€” the serialization engine keyword cluster is now ranking on page one.
+
+Lead generation: 457ms marketing qualified leads this month against a
+target of 377ms. The whitepaper download page converted at 22% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 19 percent.
+
+Email campaigns: the Cloud Connect nurture sequence has a 22% open rate and
+19 percent click-through rate. The top-performing email was the FileStorageService
+case study with Hooli. Tomoko Nakamura suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $395,447 which is 22% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Regards,
+James

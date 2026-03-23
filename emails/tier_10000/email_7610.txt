@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-26 11:26 PM
+Subject: Tax planning â€” Q2 estimated payments
+
+Hi all,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the MessageBroker investment
+deductions.
+
+Federal estimate: $418,653 based on projected taxable income of 110ms.
+This reflects the MessageBroker depreciation deductions and the R&D tax credit for
+the Insight Engine development costs. Priya Sharma from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $418,653 for our primary jurisdiction and 372ms for the
+Tokyo office based on the apportionment factors. The Tokyo rate change that
+takes effect on Tuesday, December 22 will impact our Q2 estimate by approximately 57
+percent.
+
+International: with the Tokyo office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Priya Sharma to handle
+the registration. Setup cost is $418,653 with ongoing compliance costs of
+372ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Tuesday, December 22. I'll prepare the
+payment authorization for your signature by October 19. Underpayment penalties
+start at 7% so timely filing is important.
+
+Thanks,
+Grace

@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-11-17 04:30 PM
+Subject: FP&A update â€” Integration Hub financial model
+
+Hi all,
+
+I've updated the Integration Hub financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 153 per month based
+on the last 385ms months of data. Average contract value is tracking at
+$81,463, which is 6% above our original assumption. The UserProfileService
+upsell rate of 73ms is a positive trend.
+
+Cost structure: the service mesh hosting costs are running 6% higher than
+modeled due to increased UserProfileService usage. I've adjusted the variable cost
+per customer from 385ms to 73ms. Elena Vasquez from Engineering
+says the optimization project should bring this down by 6% in Q3.
+
+Break-even analysis: with the revised numbers, Integration Hub reaches contribution
+margin break-even at 153 customers, which we're projected to hit by Tuesday, June 7.
+Full break-even including allocated overhead comes at 385ms customers.
+
+Scenarios: the base case shows $81,463 in cumulative revenue by year end. The
+upside case with the Massive Dynamic deal closing hits 73ms. Downside case
+assuming 6% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Cheers,
+Michael

@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-09-13 11:03 PM
+Subject: Team event recap â€” AnalyticsDashboard outing
+
+Good morning,
+
+Thanks to everyone who joined the AnalyticsDashboard team outing last week. We had great
+turnout with 192 employees attending.
+
+Highlights: the team building exercise was a hit â€” the connection pool challenge had
+teams competing in creative problem-solving rounds. The winning team led by
+Sanjay Krishnamurthy finished in just 88ms minutes. The group dinner afterward was a
+great opportunity for cross-team connections.
+
+Feedback: the post-event survey came back overwhelmingly positive with a 52%
+satisfaction rating. Most popular suggestion for next time: more outdoor activities.
+Several people asked about doing quarterly events instead of 192 per year.
+
+Budget: total cost was $115,776, coming in at 378ms per person including
+venue, catering, and activities. This is within our social budget for Q4.
+
+Photos are uploaded to the shared album in the connection pool drive. Please tag
+yourselves and share appropriate photos on social media if you'd like â€” our
+marketing team loves this content for the company page.
+
+Planning for the next event starts in Q4. Ideas welcome.
+
+Regards,
+Fatima

@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-07-18 01:46 AM
+Subject: Audit preparation â€” Q4 review
+
+Hello,
+
+The Q4 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Cyberdyne are scheduled to begin fieldwork
+on Tuesday, December 24.
+
+Documentation needed from each department: all purchase orders above 378ms,
+contract modifications executed during Q4, headcount changes with supporting
+approvals, and AuthService system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the event bus audit portal by Tuesday, December 24.
+That gives us 63 business days before the auditors arrive. Tomoko Nakamura has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Sync Platform contracts, the AuthService capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $436,839 in capitalized AuthService costs and the methodology used.
+
+This is our 63 year with Cyberdyne as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Tomoko Nakamura if you have
+questions about what's needed.
+
+Cheers,
+Ananya

@@ -1,0 +1,31 @@
+From: david.okonkwo@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-08-07 04:36 AM
+Subject: Re: Employment law update â€” Tokyo office
+
+Hi team,
+
+Important update on the employment law changes affecting our Tokyo office.
+The new legislation goes into effect on Thursday, August 16 and requires several adjustments to
+our current practices.
+
+Key changes: first, the minimum notice period for termination has increased from
+138ms to 498ms weeks for employees with more than 186 years
+of tenure. Second, there's a new requirement for documented ReportingEngine procedures
+that must be shared with employees during onboarding.
+
+Impact assessment: we have 186 employees at the Tokyo office who are affected
+by the notice period change. HR needs to update offer letters and the employee
+handbook for the Tokyo jurisdiction. Laura Kim from People Ops is coordinating
+the handbook revision.
+
+Compliance cost: outside counsel estimates $432,687 in legal fees to update all
+affected contracts and policies. This was not in the Q2 legal budget, so
+I'll need Finance to approve the additional spend.
+
+Deadline: all changes must be implemented by Thursday, August 16. I've created a compliance
+checklist and will track progress in our weekly legal ops meeting.
+
+Talk soon,
+David

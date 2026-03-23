@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-21 10:13 PM
+Subject: Re: User research findings â€” AuditLog
+
+Hey,
+
+Sharing the findings from the AuditLog user research study. We interviewed
+152 users and ran usability tests with 237ms participants over the
+last two weeks.
+
+Key insight 1: users find the load balancer workflow confusing â€” 59% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between AuditLog and the main Cloud Connect dashboard.
+
+Key insight 2: power users want more AuditLog customization options. They're
+currently using workarounds that involve 152 extra steps. The most requested
+feature is the ability to create custom load balancer templates.
+
+Key insight 3: new users consistently miss the AuditLog feature entirely.
+Discovery is poor â€” only 59% of new users try the feature within their first
+152 days. Ravi Patel suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the load balancer navigation flow, add the template
+feature to the Q3 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 59% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Best,
+Liam

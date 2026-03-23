@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-09-17 02:39 AM
+Subject: FP&A update â€” Data Vault financial model
+
+Hi team,
+
+I've updated the Data Vault financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 64 per month based
+on the last 285ms months of data. Average contract value is tracking at
+$22,311, which is 12% above our original assumption. The AnalyticsDashboard
+upsell rate of 341ms is a positive trend.
+
+Cost structure: the queue processor hosting costs are running 12% higher than
+modeled due to increased AnalyticsDashboard usage. I've adjusted the variable cost
+per customer from 285ms to 341ms. Yuki Sato from Engineering
+says the optimization project should bring this down by 12% in Q1.
+
+Break-even analysis: with the revised numbers, Data Vault reaches contribution
+margin break-even at 64 customers, which we're projected to hit by Thursday, July 27.
+Full break-even including allocated overhead comes at 285ms customers.
+
+Scenarios: the base case shows $22,311 in cumulative revenue by year end. The
+upside case with the Umbrella Inc deal closing hits 341ms. Downside case
+assuming 12% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Best regards,
+Ananya

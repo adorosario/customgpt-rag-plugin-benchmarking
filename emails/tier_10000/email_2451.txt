@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-11-25 04:35 AM
+Subject: FP&A update â€” Enterprise Suite financial model
+
+Hi all,
+
+I've updated the Enterprise Suite financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 95 per month based
+on the last 94ms months of data. Average contract value is tracking at
+$72,802, which is 35% above our original assumption. The MessageBroker
+upsell rate of 156ms is a positive trend.
+
+Cost structure: the logging pipeline hosting costs are running 35% higher than
+modeled due to increased MessageBroker usage. I've adjusted the variable cost
+per customer from 94ms to 156ms. James Oduya from Engineering
+says the optimization project should bring this down by 35% in Q1.
+
+Break-even analysis: with the revised numbers, Enterprise Suite reaches contribution
+margin break-even at 95 customers, which we're projected to hit by Friday, April 1.
+Full break-even including allocated overhead comes at 94ms customers.
+
+Scenarios: the base case shows $72,802 in cumulative revenue by year end. The
+upside case with the Globex deal closing hits 156ms. Downside case
+assuming 35% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Regards,
+Robert

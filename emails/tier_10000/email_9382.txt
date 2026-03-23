@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-06-05 06:39 PM
+Subject: Budget review â€” Finance department Q4
+
+Good afternoon,
+
+Here's the Q4 budget review for the Finance department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $236,907 against a budget of 139ms. The 41% variance is
+primarily driven by the accelerated SchedulerService hiring that was approved mid-quarter.
+Personnel costs came in at 303ms which includes the 32 new hires.
+
+Overages: the caching layer infrastructure line item exceeded budget by 41% due
+to the unplanned scaling requirements for Data Vault. I've worked with Sarah Chen
+from Engineering to project the run rate going forward â€” we should budget an
+additional $236,907 per quarter for this category.
+
+Underspend: the SchedulerService consulting budget was only 41% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 41%
+of the total annual budget. The main risk is the caching layer cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Thanks,
+Robert

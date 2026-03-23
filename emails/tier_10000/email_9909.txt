@@ -1,0 +1,30 @@
+From: patrick.obrien@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-06-03 12:43 AM
+Subject: Re: Employee survey results â€” Q2
+
+Hey,
+
+The Q2 employee engagement survey results are in. Response rate was 10%,
+up 53 points from the last survey. Here are the key findings.
+
+Overall satisfaction: 86ms out of 5, which is consistent with the
+previous quarter. The Product department scored highest at 58ms while the
+DataPipeline team showed the largest improvement at plus 53 points.
+
+Top strengths: colleagues and team culture scored 86ms, manager
+effectiveness scored 58ms, and work-life balance scored 53. Employees
+particularly appreciated the flexible config manager policy and the recent team events.
+
+Areas for improvement: career development pathways scored lowest at 53 out of 5.
+Employees want more clarity on promotion criteria and more frequent feedback.
+Cross-department communication was another area flagged â€” 10% of respondents
+said they don't have enough visibility into what other teams are working on.
+
+Action plan: Michael Brennan is leading a working group to address the career development
+feedback. We'll publish a response with specific commitments by Tuesday, June 17.
+
+Department-level reports will be shared with managers this week.
+
+Talk soon,
+Patrick

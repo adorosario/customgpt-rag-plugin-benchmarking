@@ -1,0 +1,28 @@
+From: carlos.rivera@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-26 08:42 AM
+Subject: Re: Globex contract negotiation â€” pricing discussion
+
+Good afternoon,
+
+Update on the Globex negotiation. Their procurement team came back with a
+counteroffer and I want to make sure we're aligned before I respond.
+
+They're asking for a 40% reduction on the Analytics Pro license fee, bringing
+the annual contract value from $107,202 to 97ms. Their rationale is
+that they're committing to a larger seat count of 144 users, which is above
+our standard enterprise tier threshold of 67ms.
+
+My recommendation is to accept the volume-based discount but hold firm on the
+caching layer add-on pricing. The add-on margins are already thin and it's the module
+that delivers the most value in their use case. Derek Morrison from Finance can confirm
+the margin impact.
+
+I also want to push for a 2-year commitment if we offer the discounted rate. This
+locks in the revenue and reduces churn risk.
+
+Can we get a quick alignment call today before their deadline on Friday, August 24?
+
+Talk soon,
+Carlos

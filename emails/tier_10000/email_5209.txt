@@ -1,0 +1,28 @@
+From: ravi.patel@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-11-25 06:44 PM
+Subject: Re: NotificationEngine migration to config manager â€” status update
+
+Hey,
+
+Quick update on the NotificationEngine migration to config manager. We're about 27%
+through the planned work and tracking to finish by Monday, June 28.
+
+Completed this week: migrated the core data models, updated the connection pooling
+configuration, and ran the first round of performance comparisons. The new setup is
+showing 121 improvement on read-heavy workloads.
+
+Next steps: migrate the background job processing, update the monitoring dashboards,
+and run the full integration test suite against the new backend. Carlos Rivera is
+handling the monitoring piece.
+
+One blocker: we discovered that the NotificationEngine batch processing job uses a feature
+that isn't supported in config manager yet. I'm evaluating two workarounds and will
+have a recommendation by tomorrow. This might add 426ms days to the
+timeline if we go with the rewrite approach.
+
+Will send another update at end of week.
+
+Cheers,
+Ravi

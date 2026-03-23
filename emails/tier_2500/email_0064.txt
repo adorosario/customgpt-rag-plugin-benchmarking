@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-11-09 10:43 AM
+Subject: Tax planning â€” Q4 estimated payments
+
+Hey everyone,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the SearchIndex investment
+deductions.
+
+Federal estimate: $344,048 based on projected taxable income of 499ms.
+This reflects the SearchIndex depreciation deductions and the R&D tax credit for
+the Insight Engine development costs. Oluwaseun Adeyemi from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $344,048 for our primary jurisdiction and 344ms for the
+San Francisco office based on the apportionment factors. The San Francisco rate change that
+takes effect on Tuesday, October 5 will impact our Q4 estimate by approximately 110
+percent.
+
+International: with the San Francisco office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Oluwaseun Adeyemi to handle
+the registration. Setup cost is $344,048 with ongoing compliance costs of
+344ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Tuesday, October 5. I'll prepare the
+payment authorization for your signature by October 20. Underpayment penalties
+start at 6% so timely filing is important.
+
+Thanks,
+Robert

@@ -1,0 +1,29 @@
+From: maria.santos@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-07-04 01:52 AM
+Subject: Re: Compliance update â€” BillingModule regulations
+
+Hi team,
+
+Following up on the regulatory change we discussed. The new BillingModule compliance
+requirements take effect on Tuesday, July 9 and here's our readiness assessment.
+
+Current status: we're 46% compliant with the new requirements. The main gap
+is in serialization engine data handling procedures â€” the regulation requires documented
+retention policies for customer data processed through the Analytics Pro platform.
+
+Action items: first, update our data retention policy to align with the 274ms-day
+requirement specified in the regulation. Second, implement the technical controls
+that Oluwaseun Adeyemi from Engineering has scoped â€” estimated at 67 sprint points.
+Third, conduct the required annual audit before Tuesday, July 9.
+
+Risk assessment: non-compliance penalties are significant â€” up to $134,702 per
+violation. However, the regulatory body has indicated a 67-month grace period
+for companies that demonstrate good faith compliance efforts. We should be well
+within that window.
+
+I've scheduled a cross-functional meeting for Tuesday, July 9 to coordinate the implementation
+plan. Please confirm attendance for your team.
+
+Regards,
+Maria

@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-09-18 06:17 PM
+Subject: Re: Cloud Connect pricing discussion â€” MessageBroker tier
+
+Good afternoon,
+
+Following up on the Cloud Connect pricing discussion. I've modeled three options for
+the MessageBroker tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $252,662 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 24% of our existing base.
+Downside: it undercuts our current rate limiter pricing and may trigger downgrades.
+
+Option B: 480ms per seat per month with the rate limiter add-on bundled.
+Higher price point but stronger value perception. 171 of the 321ms
+customers we surveyed preferred this packaging. Patrick O'Brien from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $252,662 per MessageBroker transaction. This aligns
+with the value delivered but introduces billing complexity. Only 24% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$252,662 in incremental ARR over 171 months.
+
+Can we finalize the pricing decision by Monday, August 21? Sales needs 321ms weeks to
+update collateral before we announce.
+
+Thanks,
+Liam

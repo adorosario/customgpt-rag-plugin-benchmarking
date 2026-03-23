@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-11-22 11:30 AM
+Subject: Financial close checklist â€” Q2
+
+Hi team,
+
+The Q2 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Analytics Pro invoices must be issued by Friday, May 20. Any revenue recognition
+adjustments for the ReportingEngine contracts need supporting documentation uploaded
+to config manager. Marcus Thompson from Sales must confirm final deal amounts by June 8.
+
+Expenses: all expense reports for Q2 must be submitted by Friday, May 20. The
+ReportingEngine vendor invoices totaling $64,542 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, ReportingEngine subscription costs,
+and the config manager usage charges by Friday, May 20. Any non-standard accruals above
+196ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, ReportingEngine account reconciliation, and
+inter-company balances must be completed by Friday, May 20. Marcus Thompson is handling the
+bank rec. I'll take the inter-company items since they involve the Toronto entity.
+
+Target: books closed within 121 business days of quarter end. Final reporting
+package to leadership by Friday, May 20.
+
+Best,
+Grace

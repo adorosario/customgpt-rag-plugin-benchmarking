@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-10-20 09:00 PM
+Subject: Analytics report â€” Analytics Pro campaign performance
+
+Hi,
+
+Here's the performance report for the Analytics Pro campaign through Thursday, September 26.
+
+Website traffic: up 21% month over month, driven primarily by the SchedulerService
+comparison blog post which brought in 45 unique visitors. Organic search is
+growing steadily â€” the event bus keyword cluster is now ranking on page one.
+
+Lead generation: 264ms marketing qualified leads this month against a
+target of 458ms. The whitepaper download page converted at 21% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 45 percent.
+
+Email campaigns: the Analytics Pro nurture sequence has a 21% open rate and
+45 percent click-through rate. The top-performing email was the SchedulerService
+case study with Pied Piper. Marcus Thompson suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $394,855 which is 21% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Regards,
+Yuki

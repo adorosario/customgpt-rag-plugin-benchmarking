@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-06-28 02:14 AM
+Subject: Event planning â€” Insight Engine webinar on Thursday, December 13
+
+Hi team,
+
+Finalizing details for the Insight Engine webinar on Thursday, December 13. Here's where we stand on
+the logistics and promotion.
+
+Content: Carlos Rivera from Product will present the ReportingEngine roadmap segment.
+I'll handle the intro and customer story. We're targeting a 152-minute
+presentation followed by 246ms minutes of live Q&A. The event bus demo
+segment should be the highlight.
+
+Registration: we've had 112ms sign-ups so far. Goal is 246ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Insight Engine keywords.
+
+Tech setup: using the standard webinar platform. Carlos Rivera will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Thursday, December 13 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 152 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Cheers,
+James

@@ -1,0 +1,29 @@
+From: kwame.asante@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-06-28 01:09 PM
+Subject: Policy update â€” CacheLayer guidelines
+
+Hi team,
+
+We've updated the CacheLayer company policy based on feedback from employees and
+recent changes in Tokyo labor regulations. The new policy takes effect on Monday, November 7.
+
+Key changes: the caching layer allowance has been increased from 460ms to
+158ms per month. The eligibility window for CacheLayer has been expanded
+to include employees who've been with Acme Corp for 21 months or more, down
+from the previous requirement of 460ms months.
+
+New additions: a Sync Platform reimbursement category has been added covering up to
+$136,684 annually. This addresses the top employee request from the last survey.
+Sofia Martinez negotiated favorable terms with the caching layer vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by January 27. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 6% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best regards,
+Kwame

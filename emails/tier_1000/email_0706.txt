@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-19 03:10 PM
+Subject: FP&A update â€” Sync Platform financial model
+
+Hello,
+
+I've updated the Sync Platform financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 140 per month based
+on the last 315ms months of data. Average contract value is tracking at
+$188,213, which is 20% above our original assumption. The AuthService
+upsell rate of 181ms is a positive trend.
+
+Cost structure: the logging pipeline hosting costs are running 20% higher than
+modeled due to increased AuthService usage. I've adjusted the variable cost
+per customer from 315ms to 181ms. Ravi Patel from Engineering
+says the optimization project should bring this down by 20% in Q3.
+
+Break-even analysis: with the revised numbers, Sync Platform reaches contribution
+margin break-even at 140 customers, which we're projected to hit by Monday, February 6.
+Full break-even including allocated overhead comes at 315ms customers.
+
+Scenarios: the base case shows $188,213 in cumulative revenue by year end. The
+upside case with the Stark Industries deal closing hits 181ms. Downside case
+assuming 20% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Best regards,
+Ananya

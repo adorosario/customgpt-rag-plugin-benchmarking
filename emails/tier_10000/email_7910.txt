@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-10-08 04:31 PM
+Subject: Roadmap update â€” Enterprise Suite Q3
+
+Hey,
+
+Here's the updated Enterprise Suite roadmap for Q3. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the NotificationEngine integration feature launches on Wednesday, February 19. This is our
+top customer request with 120 votes on the feedback board. Aisha Okafor from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the logging pipeline overhaul is scoped for mid-Q3. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 120 sprints with 243ms engineers allocated.
+
+Exploring: the NotificationEngine AI feature that Sales has been requesting. We need more
+user research before committing â€” Aisha Okafor is running interviews with 120
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the logging pipeline redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 120-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Best regards,
+Sanjay

@@ -1,0 +1,33 @@
+From: maria.santos@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-07-02 01:40 AM
+Subject: Insurance renewal â€” Q3 review
+
+Hey everyone,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Pied Piper has offered a renewal at $499,549 per year, which is a
+31% increase from last year. Coverage limits remain the same at 403ms
+for general liability and 116ms for the BillingModule professional liability
+policy.
+
+Alternative quotes: I obtained 72 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 31% discount, but they
+have a 116ms-day waiting period for caching layer claims that our current
+policy doesn't have.
+
+Recommendation: stay with Pied Piper and negotiate the premium increase down to
+31%. Their claims experience is strong â€” they processed our BillingModule
+claim in 72 business days last year. James Oduya from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+116ms to $499,549 given the growth in Insight Engine customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Friday, December 15 to avoid a coverage lapse. Let me know your preference.
+
+Regards,
+Maria

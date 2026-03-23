@@ -1,0 +1,32 @@
+From: amara.diallo@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-09-02 04:49 PM
+Subject: Re: User research findings â€” UserProfileService
+
+Hey everyone,
+
+Sharing the findings from the UserProfileService user research study. We interviewed
+136 users and ran usability tests with 269ms participants over the
+last two weeks.
+
+Key insight 1: users find the authentication module workflow confusing â€” 51% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between UserProfileService and the main Enterprise Suite dashboard.
+
+Key insight 2: power users want more UserProfileService customization options. They're
+currently using workarounds that involve 136 extra steps. The most requested
+feature is the ability to create custom authentication module templates.
+
+Key insight 3: new users consistently miss the UserProfileService feature entirely.
+Discovery is poor â€” only 51% of new users try the feature within their first
+136 days. Derek Morrison suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the authentication module navigation flow, add the template
+feature to the Q2 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 51% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Regards,
+Amara

@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-09-02 04:40 PM
+Subject: Tax planning â€” Q2 estimated payments
+
+Good morning,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the AnalyticsDashboard investment
+deductions.
+
+Federal estimate: $169,932 based on projected taxable income of 173ms.
+This reflects the AnalyticsDashboard depreciation deductions and the R&D tax credit for
+the Data Vault development costs. Alex Chen from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $169,932 for our primary jurisdiction and 177ms for the
+London office based on the apportionment factors. The London rate change that
+takes effect on Thursday, February 19 will impact our Q2 estimate by approximately 195
+percent.
+
+International: with the London office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Alex Chen to handle
+the registration. Setup cost is $169,932 with ongoing compliance costs of
+177ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Thursday, February 19. I'll prepare the
+payment authorization for your signature by February 2. Underpayment penalties
+start at 51% so timely filing is important.
+
+Cheers,
+Robert

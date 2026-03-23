@@ -1,0 +1,21 @@
+{
+  "tier": 100,
+  "question_id": "pattern_2",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What's the status of the Berlin office opening?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about a Berlin office opening in my context or memory. Could you give me more context? For example:\n\n- Is this about CustomGPT.ai opening a Berlin office?\n- Is there a document, email, or Notion page I should check?\n- Would you like me to search for recent news about it?",
+  "time_seconds": 25.58,
+  "num_turns": 1,
+  "cost_usd": 0.11262525,
+  "input_tokens": 3,
+  "cache_creation_tokens": 28415,
+  "cache_read_tokens": 0,
+  "output_tokens": 404,
+  "total_tokens": 28822,
+  "duration_api_ms": 10063,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

@@ -1,0 +1,31 @@
+From: rachel.nguyen@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-08-14 02:42 PM
+Subject: Onboarding schedule â€” new hire starting Monday, July 8
+
+Good morning,
+
+We have a new team member joining HR on Monday, July 8. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, WebhookDispatcher systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Amara Diallo will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Cloud Connect and the caching layer tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Monday, July 8. All software licenses including WebhookDispatcher and caching layer access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 50 people to schedule intro meetings with, and first
+454ms-day goals. Please send these to Amara Diallo in People Ops.
+
+Welcome email goes out 50 days before start date.
+
+Best,
+Rachel

@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-07-18 09:43 AM
+Subject: Revenue recognition â€” Insight Engine contracts
+
+Hi all,
+
+I need to walk through the revenue recognition treatment for the new Insight Engine
+contracts signed this quarter. We have 17 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Pied Piper contract bundles Insight Engine licenses with
+authentication module implementation services. I've determined the standalone selling prices
+and allocated $131,051 to the license component and 471ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 17-month implementation period.
+
+Variable consideration: 315ms contracts include performance bonuses tied to
+AnalyticsDashboard uptime metrics. Using the expected value method, I've estimated
+$131,051 in variable consideration based on our historical performance of
+46% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Pied Piper amendment added authentication module capacity at
+$131,051 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Michael Brennan from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Wednesday, February 16.
+
+Thanks,
+Michael

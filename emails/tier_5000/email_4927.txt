@@ -1,0 +1,33 @@
+From: michael.brennan@acmecorp.com
+To: aisha.okafor@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-28 01:49 PM
+Subject: Re: Billing dispute â€” Massive Dynamic account
+
+Hello,
+
+I've investigated the billing dispute raised by Massive Dynamic. Here's what I found and
+my recommended resolution.
+
+Dispute details: Massive Dynamic is contesting $234,710 on their Q1 invoice,
+claiming they were double-charged for the SchedulerService add-on module. Their account
+manager Michael Brennan has been communicating with them but they want a Finance response.
+
+Investigation: I reviewed the billing records and confirmed there was a system error
+in our queue processor billing platform. The SchedulerService charge was applied twice due
+to a timing issue when their subscription was upgraded on Friday, March 7. The correct charge
+should have been 319ms not $234,710.
+
+Resolution: I recommend issuing a credit of 76ms to their account immediately
+and applying it to the next invoice. This maintains the relationship and the credit
+is clearly justified. Total revenue impact is 128 percent of the contract value.
+
+Prevention: I've filed a bug report with the queue processor billing team to fix the
+underlying issue. Michael Brennan from Engineering estimates a fix in the next 128
+sprints. In the meantime, I'll add a manual review step for any mid-cycle
+subscription changes.
+
+Can you approve the credit so I can communicate the resolution to Massive Dynamic today?
+
+Cheers,
+Michael

@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-09-25 11:00 AM
+Subject: Policy update â€” FileStorageService guidelines
+
+Hey,
+
+We've updated the FileStorageService company policy based on feedback from employees and
+recent changes in Singapore labor regulations. The new policy takes effect on Monday, June 19.
+
+Key changes: the connection pool allowance has been increased from 76ms to
+154ms per month. The eligibility window for FileStorageService has been expanded
+to include employees who've been with Acme Corp for 136 months or more, down
+from the previous requirement of 76ms months.
+
+New additions: a Data Vault reimbursement category has been added covering up to
+$417,916 annually. This addresses the top employee request from the last survey.
+David Okonkwo negotiated favorable terms with the connection pool vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by October 28. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 12% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Rachel

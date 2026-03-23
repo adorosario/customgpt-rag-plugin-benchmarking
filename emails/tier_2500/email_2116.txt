@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-12 02:54 AM
+Subject: Revenue recognition â€” Data Vault contracts
+
+Hello,
+
+I need to walk through the revenue recognition treatment for the new Data Vault
+contracts signed this quarter. We have 102 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Umbrella Inc contract bundles Data Vault licenses with
+metrics collector implementation services. I've determined the standalone selling prices
+and allocated $96,304 to the license component and 59ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 102-month implementation period.
+
+Variable consideration: 324ms contracts include performance bonuses tied to
+AuthService uptime metrics. Using the expected value method, I've estimated
+$96,304 in variable consideration based on our historical performance of
+32% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Umbrella Inc amendment added metrics collector capacity at
+$96,304 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Elena Vasquez from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Tuesday, November 27.
+
+Talk soon,
+Ananya

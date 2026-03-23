@@ -1,0 +1,28 @@
+From: ravi.patel@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-11-19 09:41 PM
+Subject: Feature flag cleanup â€” SchedulerService v2.4.1
+
+Good afternoon,
+
+Time for our quarterly feature flag cleanup in SchedulerService. We have 74 flags
+in the system and several of them are stale.
+
+Flags to remove: the authentication module migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The SchedulerService experiment flag
+was concluded last sprint with a decision to ship â€” Ravi Patel will hardcode the
+winning variant.
+
+Flags to keep: the v2.4.1 rollout flag should stay until we've confirmed
+stability at 154ms traffic. The authentication module kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 410ms lines of dead code and simplify the conditional logic in
+26% of the affected modules.
+
+Please claim the tickets for flags in your area by Tuesday, August 8. Target completion is end
+of sprint.
+
+Best,
+Ravi

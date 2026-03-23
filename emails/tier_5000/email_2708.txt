@@ -1,0 +1,30 @@
+From: hannah.goldstein@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-09-17 07:48 PM
+Subject: Competitive intel â€” Globex evaluation
+
+Hello,
+
+Got some useful competitive intelligence from the Globex account that I want to
+share with the team.
+
+Globex shared their evaluation criteria and mentioned they're also looking at
+AnalyticsDashboard as an alternative to our Analytics Pro. From what I gathered, AnalyticsDashboard
+is pitching a lower price point but doesn't have feature parity on the load balancer
+side.
+
+Key differentiators working in our favor: our Analytics Pro handles 114 concurrent
+connections versus their published limit of 365ms. Our uptime SLA is also
+stronger at 280ms versus their 11% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for AnalyticsDashboard and
+consider a streamlined trial process for mid-market accounts. Marcus Thompson from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Tuesday, March 13.
+
+Regards,
+Hannah

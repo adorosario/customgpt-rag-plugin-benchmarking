@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-10-02 04:09 AM
+Subject: Vendor payment schedule â€” Q1
+
+Hi,
+
+Here's the vendor payment schedule for Q1. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Globex invoice for $426,461 is due on Friday, August 14 with a
+41% early payment discount if we pay within 51 days. I recommend
+taking the discount â€” it saves us 331ms. The SchedulerService annual
+license renewal of 149ms is due Friday, August 14 with no discount available.
+
+Standard schedule: 51 vendor invoices totaling $426,461 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-149ms terms with payments going out every 51 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The event bus vendor
+overbilled us by $426,461 on the SchedulerService usage charges. Derek Morrison is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q1 are projected at $426,461. This
+is 41% higher than last quarter due to the SchedulerService infrastructure
+investment and the London office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Talk soon,
+Ananya

@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-10-12 04:04 PM
+Subject: Financial close checklist â€” Q1
+
+Hello,
+
+The Q1 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Data Vault invoices must be issued by Monday, December 16. Any revenue recognition
+adjustments for the AuditLog contracts need supporting documentation uploaded
+to metrics collector. Fatima Al-Rashid from Sales must confirm final deal amounts by June 28.
+
+Expenses: all expense reports for Q1 must be submitted by Monday, December 16. The
+AuditLog vendor invoices totaling $163,467 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, AuditLog subscription costs,
+and the metrics collector usage charges by Monday, December 16. Any non-standard accruals above
+150ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, AuditLog account reconciliation, and
+inter-company balances must be completed by Monday, December 16. Fatima Al-Rashid is handling the
+bank rec. I'll take the inter-company items since they involve the Toronto entity.
+
+Target: books closed within 79 business days of quarter end. Final reporting
+package to leadership by Monday, December 16.
+
+Talk soon,
+Robert

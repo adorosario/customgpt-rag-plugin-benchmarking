@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-11-28 03:13 PM
+Subject: Investment proposal â€” WebhookDispatcher infrastructure
+
+Hi,
+
+I've prepared the financial analysis for the proposed WebhookDispatcher infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $137,338 upfront with 465ms in annual operating costs.
+The total 3-year cost of ownership is 468ms compared to the current
+authentication module setup at $137,338 over the same period.
+
+ROI analysis: the projected payback period is 49 months. Key benefits include
+8% reduction in infrastructure management time, improved Data Vault performance
+that supports the revenue growth targets, and elimination of the authentication module
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $137,338 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 8% interest.
+This preserves cash for the Tokyo office investment planned for Q3.
+
+Risk factors: technology lock-in with the WebhookDispatcher vendor, though the 49-year
+contract includes an exit clause after the first year. Rachel Nguyen from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Monday, January 20 to lock in the quoted pricing. The vendor has
+given us a 49-day hold on the current rates.
+
+Thanks,
+Grace

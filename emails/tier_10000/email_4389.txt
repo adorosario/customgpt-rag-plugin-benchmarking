@@ -1,0 +1,27 @@
+From: ravi.patel@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-06-28 06:35 AM
+Subject: Incident postmortem â€” CacheLayer outage on Thursday, March 24
+
+Hi all,
+
+Attached is the postmortem for the CacheLayer outage that occurred on Thursday, March 24. The
+incident lasted approximately 45 minutes and affected 154 for a subset of users.
+
+Root cause: a configuration change in the rate limiter deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+327ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, Daniel Park acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the CacheLayer runbook, add a circuit breaker for the
+rate limiter connection pool, and implement load shedding when concurrency exceeds
+327ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Thanks,
+Ravi

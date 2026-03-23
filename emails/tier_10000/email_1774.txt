@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-11-12 09:52 AM
+Subject: Customer feedback digest â€” Data Vault Q3
+
+Hey,
+
+Here's the quarterly customer feedback digest for Data Vault. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 182, up 185ms points from last quarter. The improvement
+is driven by the UserProfileService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 58%.
+
+Top feature requests: UserProfileService advanced filtering (182 votes), event bus
+bulk operations (185ms votes), and enhanced Data Vault reporting (51ms
+votes). The filtering request aligns with what we heard in the user research study
+Jun Tanaka conducted.
+
+Top complaints: UserProfileService performance during peak hours (182 mentions),
+the event bus onboarding experience (185ms mentions), and pricing
+transparency (51ms mentions). The performance issue is being addressed
+by Engineering â€” Jun Tanaka expects the fix in v2.6.0.
+
+Churn insights: 182 customers churned this quarter citing UserProfileService
+limitations as the primary reason. The event bus overhaul on our roadmap directly
+addresses their feedback. 58% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Tuesday, June 18.
+
+Best,
+Mei

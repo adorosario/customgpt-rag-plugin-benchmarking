@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-11-08 09:38 PM
+Subject: Re: Analytics Pro pricing discussion â€” APIGateway tier
+
+Good morning,
+
+Following up on the Analytics Pro pricing discussion. I've modeled three options for
+the APIGateway tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $239,529 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 20% of our existing base.
+Downside: it undercuts our current authentication module pricing and may trigger downgrades.
+
+Option B: 239ms per seat per month with the authentication module add-on bundled.
+Higher price point but stronger value perception. 73 of the 244ms
+customers we surveyed preferred this packaging. Kwame Asante from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $239,529 per APIGateway transaction. This aligns
+with the value delivered but introduces billing complexity. Only 20% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$239,529 in incremental ARR over 73 months.
+
+Can we finalize the pricing decision by Monday, October 3? Sales needs 244ms weeks to
+update collateral before we announce.
+
+Cheers,
+Mei

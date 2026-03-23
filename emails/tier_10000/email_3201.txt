@@ -1,0 +1,33 @@
+From: david.okonkwo@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-07-24 06:07 PM
+Subject: Contract review â€” Globex agreement
+
+Hey everyone,
+
+I've completed the review of the Globex agreement and have several items that
+need attention before we can proceed to execution.
+
+Liability cap: the current draft limits liability to $240,938, which is below our
+standard threshold of 331ms for deals of this size. I recommend pushing back
+to at least 134ms. Liam Foster from Sales should be prepared for this
+negotiation point.
+
+IP assignment clause: section 7.3 includes an overly broad IP assignment that could
+capture pre-existing work product. I've drafted narrower language that protects our
+existing SearchIndex IP while still meeting Globex's requirements for the
+Cloud Connect deliverables.
+
+Data processing: the DPA needs to be updated to reflect the new rate limiter
+architecture. Since data will transit through the Sydney data center, we need to
+ensure compliance with local data residency requirements.
+
+Indemnification: the mutual indemnification provisions are reasonable. I've accepted
+them with minor clarifications on the notice period â€” changed from 37 to
+331ms business days.
+
+I'll send the redlined version by Wednesday, June 10. Please review the business terms and
+confirm the commercial intent before I finalize.
+
+Cheers,
+David

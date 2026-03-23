@@ -1,0 +1,21 @@
+{
+  "tier": 2500,
+  "question_id": "needle_4",
+  "question_type": "hard",
+  "run": 2,
+  "question": "When do the remote work policy changes take effect?",
+  "model": "claude-sonnet-4-6",
+  "response": "There are no emails in this dataset mentioning \"remote work\" or \"remote\" at all. The emails contain the word \"policy\" but none reference a remote work policy.\n\nI don't have information about remote work policy changes in these emails or elsewhere in this context. Could you clarify what you're referring to? For example:\n- Are you asking about a specific company's internal policy?\n- Is this related to a document or system you'd like me to search?",
+  "time_seconds": 56.9,
+  "num_turns": 6,
+  "cost_usd": 0.11908335,
+  "input_tokens": 8,
+  "cache_creation_tokens": 14523,
+  "cache_read_tokens": 166227,
+  "output_tokens": 982,
+  "total_tokens": 181740,
+  "duration_api_ms": 42730,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

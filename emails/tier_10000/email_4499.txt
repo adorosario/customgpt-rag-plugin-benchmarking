@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-10-14 07:58 AM
+Subject: Financial close checklist â€” Q4
+
+Hi team,
+
+The Q4 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Sync Platform invoices must be issued by Tuesday, April 9. Any revenue recognition
+adjustments for the SearchIndex contracts need supporting documentation uploaded
+to logging pipeline. Fatima Al-Rashid from Sales must confirm final deal amounts by September 23.
+
+Expenses: all expense reports for Q4 must be submitted by Tuesday, April 9. The
+SearchIndex vendor invoices totaling $460,192 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, SearchIndex subscription costs,
+and the logging pipeline usage charges by Tuesday, April 9. Any non-standard accruals above
+339ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, SearchIndex account reconciliation, and
+inter-company balances must be completed by Tuesday, April 9. Fatima Al-Rashid is handling the
+bank rec. I'll take the inter-company items since they involve the San Francisco entity.
+
+Target: books closed within 13 business days of quarter end. Final reporting
+package to leadership by Tuesday, April 9.
+
+Talk soon,
+Robert

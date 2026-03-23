@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-14 06:39 AM
+Subject: Financial close checklist â€” Q4
+
+Good morning,
+
+The Q4 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Sync Platform invoices must be issued by Friday, August 16. Any revenue recognition
+adjustments for the MessageBroker contracts need supporting documentation uploaded
+to config manager. Elena Vasquez from Sales must confirm final deal amounts by June 17.
+
+Expenses: all expense reports for Q4 must be submitted by Friday, August 16. The
+MessageBroker vendor invoices totaling $301,837 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, MessageBroker subscription costs,
+and the config manager usage charges by Friday, August 16. Any non-standard accruals above
+310ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, MessageBroker account reconciliation, and
+inter-company balances must be completed by Friday, August 16. Elena Vasquez is handling the
+bank rec. I'll take the inter-company items since they involve the Tokyo entity.
+
+Target: books closed within 84 business days of quarter end. Final reporting
+package to leadership by Friday, August 16.
+
+Cheers,
+Ananya

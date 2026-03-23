@@ -1,0 +1,31 @@
+From: david.okonkwo@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-07-26 08:55 PM
+Subject: IP filing status â€” Analytics Pro patent application
+
+Hi team,
+
+Update on the Analytics Pro patent application. Here's where we stand with the filing
+and the next steps.
+
+Application status: the provisional application was filed on Friday, October 13 covering the
+APIGateway algorithm and the novel event bus approach. Serial number has been
+assigned and the filing fee of $419,982 has been paid.
+
+Prior art review: outside counsel completed the prior art search and identified
+166 related filings. None appear to directly conflict with our claims, but
+158ms of them require careful distinction in the non-provisional filing.
+Amara Diallo is working with the patent drafting team on claim differentiation.
+
+Timeline: we have 166 months from the provisional filing date to file the
+non-provisional application. I recommend targeting Friday, October 13 to allow adequate review
+time. This gives us 158ms weeks of buffer.
+
+International filing: based on our New York expansion plans, we should consider PCT
+filing for European protection. The additional cost is approximately $419,982 and
+the deadline for PCT designation is 166 months from the priority date.
+
+Let me know if you'd like to discuss the international strategy in more detail.
+
+Cheers,
+David

@@ -1,0 +1,21 @@
+{
+  "tier": 10000,
+  "question_id": "pattern_2",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What's the status of the Berlin office opening?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the emails in this dataset, here's what I found about the Berlin office opening:\n\n**Key finding \u00e2\u20ac\u201d `email_1964.txt` (2025-09-02, Ananya Desai \u00e2\u2020\u2019 Robert Kimura):**\n\n> \"The Berlin office opening has been pushed back by six weeks, which delays the European revenue ramp we had built into the forecast.\"\n\nThis delay was one of two factors that caused the Q3 revenue projection to be revised down from **$4.8M to $4.2M**.\n\n**Supporting context from other emails:**\n\n- **VAT registration is in progress** \u00e2\u20ac\u201d multiple tax emails note that with the Berlin office coming online, VAT registration for European customers has been initiated (handled by various people across different emails)\n- **Build-out costs** are accounted for in financial forecasts, appearing across Q1\u00e2\u20ac\u201cQ4 depending on the email\n- **Lease agreement** was being tracked as of 2025-07-24 (`email_1550.txt`) \u00e2\u20ac\u201d described as \"progressing well\"\n- **Timeline email** (`email_1062.txt`, 2025-09-23, Robert Kimura \u00e2\u2020\u2019 Grace Mwangi) gives a general \"making good progress\" update but lacks specifics\n\n**Bottom line:** As of early September 2025, the Berlin office opening was **delayed by six weeks** from its original schedule, pushing back the European revenue ramp. The lease and VAT registration work appear to be ongoing.\n\nNote: Many of these emails appear to be synthetically generated benchmark data with templated content, so some details (like cost figures) may not be fully consistent across emails.",
+  "time_seconds": 82.33,
+  "num_turns": 11,
+  "cost_usd": 0.24571755,
+  "input_tokens": 11,
+  "cache_creation_tokens": 31887,
+  "cache_read_tokens": 279161,
+  "output_tokens": 2824,
+  "total_tokens": 313883,
+  "duration_api_ms": 65941,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

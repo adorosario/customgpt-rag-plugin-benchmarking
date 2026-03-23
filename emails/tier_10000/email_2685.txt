@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-08-26 01:51 PM
+Subject: Financial close checklist â€” Q2
+
+Hey everyone,
+
+The Q2 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Data Vault invoices must be issued by Tuesday, August 28. Any revenue recognition
+adjustments for the PaymentGateway contracts need supporting documentation uploaded
+to queue processor. Derek Morrison from Sales must confirm final deal amounts by August 9.
+
+Expenses: all expense reports for Q2 must be submitted by Tuesday, August 28. The
+PaymentGateway vendor invoices totaling $336,067 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, PaymentGateway subscription costs,
+and the queue processor usage charges by Tuesday, August 28. Any non-standard accruals above
+65ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, PaymentGateway account reconciliation, and
+inter-company balances must be completed by Tuesday, August 28. Derek Morrison is handling the
+bank rec. I'll take the inter-company items since they involve the Berlin entity.
+
+Target: books closed within 159 business days of quarter end. Final reporting
+package to leadership by Tuesday, August 28.
+
+Cheers,
+Robert

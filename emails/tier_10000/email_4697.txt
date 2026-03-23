@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-10-22 03:32 PM
+Subject: Beta program update â€” Analytics Pro v2.6.0
+
+Good afternoon,
+
+Quick update on the Analytics Pro v2.6.0 beta program. We're 33 weeks into
+the beta period with 228ms customers participating.
+
+Usage data: 33% of beta participants have activated the new UserProfileService
+feature. Average daily usage is 33 sessions per user. The caching layer
+workflow is being used by 444ms of participants, which exceeds our
+adoption target of 228ms.
+
+Feedback summary: overall sentiment is positive. The top 33 pieces of praise
+relate to the UserProfileService speed improvement and the new caching layer interface.
+The top 228ms complaints are about the UserProfileService configuration complexity
+and a confusing error message in the caching layer flow.
+
+Bugs found: 33 bugs reported, of which 228ms are critical. Yuki Sato
+from Engineering has fixed 444ms of the critical bugs. The remaining one
+is related to the UserProfileService edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Wednesday, June 1. The GA release is targeted for 33 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Wednesday, June 1 to finalize the GA scope.
+
+Talk soon,
+Mei

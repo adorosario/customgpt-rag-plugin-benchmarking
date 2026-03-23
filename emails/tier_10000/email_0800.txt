@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-11-04 10:39 PM
+Subject: Email marketing performance â€” Q3 review
+
+Good afternoon,
+
+Here's the email marketing performance review for Q3. Overall we're trending
+in the right direction but there are a few areas to optimize.
+
+List health: our subscriber base grew 21% to 488ms contacts. Bounce
+rate is at 102 percent which is within healthy range. We ran a re-engagement
+campaign that recovered 140ms previously inactive subscribers.
+
+Campaign performance: the Insight Engine launch sequence was our top performer with a
+21% open rate. The AuthService technical series also did well, driving 102
+clicks to the resource hub. Lower performers were the generic newsletter sends â€” we
+should consider more targeted segmentation.
+
+Revenue attribution: email-sourced pipeline totals $325,927 this quarter, with
+488ms in closed-won revenue. The Massive Dynamic deal originated from a nurture
+sequence touchpoint.
+
+Plans for next quarter: implementing behavioral triggers for the load balancer
+content, A/B testing send times for the Insight Engine audience, and building a new
+onboarding sequence for trial sign-ups. Sofia Martinez will help with the automation
+setup.
+
+Best regards,
+James

@@ -1,0 +1,30 @@
+From: grace.mwangi@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-06 06:21 PM
+Subject: Re: Expense report flagged â€” WebhookDispatcher charges
+
+Hi,
+
+I noticed some items on the WebhookDispatcher expense report submitted by Dmitri Volkov
+that need clarification before I can approve them.
+
+The metrics collector subscription charge of $421,394 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+340ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Massive Dynamic dinner on Friday, January 3 for $421,394 exceeds our per-person meal
+reimbursement limit of 340ms. If this was a client entertainment expense,
+it should be coded to the client development budget under WebhookDispatcher rather than
+general T&E. 73 attendees at that amount puts us at 391ms per
+person which is within the client entertainment policy.
+
+The remaining 73 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 340ms business days after approval.
+
+Please resubmit with the corrections by Friday, January 3 so we can keep things on track.
+
+Thanks,
+Grace

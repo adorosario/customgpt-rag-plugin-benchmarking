@@ -1,0 +1,28 @@
+From: derek.morrison@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-11-19 08:14 AM
+Subject: Quarterly territory review â€” Q4
+
+Hi team,
+
+Here's my territory review for Q4. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 118 qualified opportunities worth a combined $202,460 in
+ARR. The largest deal is Oscorp at 411ms, which I expect to close by
+Tuesday, September 6. Three other deals in the 353ms range are progressing through
+procurement.
+
+Wins this quarter: closed Oscorp for Data Vault with a 50% upsell from
+their initial scope. The serialization engine add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Wei Zhang to the Oscorp executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Regards,
+Derek

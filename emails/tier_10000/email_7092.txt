@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-07-14 01:50 AM
+Subject: Re: User research findings â€” AuditLog
+
+Hey,
+
+Sharing the findings from the AuditLog user research study. We interviewed
+104 users and ran usability tests with 155ms participants over the
+last two weeks.
+
+Key insight 1: users find the serialization engine workflow confusing â€” 38% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between AuditLog and the main Sync Platform dashboard.
+
+Key insight 2: power users want more AuditLog customization options. They're
+currently using workarounds that involve 104 extra steps. The most requested
+feature is the ability to create custom serialization engine templates.
+
+Key insight 3: new users consistently miss the AuditLog feature entirely.
+Discovery is poor â€” only 38% of new users try the feature within their first
+104 days. Fatima Al-Rashid suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the serialization engine navigation flow, add the template
+feature to the Q1 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 38% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Best regards,
+Liam

@@ -1,0 +1,31 @@
+From: sarah.chen@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-07-03 02:49 PM
+Subject: Re: Employment law update â€” Sydney office
+
+Hi,
+
+Important update on the employment law changes affecting our Sydney office.
+The new legislation goes into effect on Wednesday, July 14 and requires several adjustments to
+our current practices.
+
+Key changes: first, the minimum notice period for termination has increased from
+223ms to 86ms weeks for employees with more than 164 years
+of tenure. Second, there's a new requirement for documented MessageBroker procedures
+that must be shared with employees during onboarding.
+
+Impact assessment: we have 164 employees at the Sydney office who are affected
+by the notice period change. HR needs to update offer letters and the employee
+handbook for the Sydney jurisdiction. Dmitri Volkov from People Ops is coordinating
+the handbook revision.
+
+Compliance cost: outside counsel estimates $175,307 in legal fees to update all
+affected contracts and policies. This was not in the Q2 legal budget, so
+I'll need Finance to approve the additional spend.
+
+Deadline: all changes must be implemented by Wednesday, July 14. I've created a compliance
+checklist and will track progress in our weekly legal ops meeting.
+
+Thanks,
+Sarah

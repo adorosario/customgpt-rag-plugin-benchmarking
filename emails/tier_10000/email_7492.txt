@@ -1,0 +1,29 @@
+From: alex.chen@acmecorp.com
+To: derek.morrison@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-06-23 02:10 PM
+Subject: Feature flag cleanup â€” PaymentGateway v1.9.5
+
+Good afternoon,
+
+Time for our quarterly feature flag cleanup in PaymentGateway. We have 123 flags
+in the system and several of them are stale.
+
+Flags to remove: the serialization engine migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The PaymentGateway experiment flag
+was concluded last sprint with a decision to ship â€” Mei Lin will hardcode the
+winning variant.
+
+Flags to keep: the v1.9.5 rollout flag should stay until we've confirmed
+stability at 468ms traffic. The serialization engine kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 324ms lines of dead code and simplify the conditional logic in
+23% of the affected modules.
+
+Please claim the tickets for flags in your area by Tuesday, December 13. Target completion is end
+of sprint.
+
+Best regards,
+Alex

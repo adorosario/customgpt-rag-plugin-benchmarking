@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-09-04 04:01 PM
+Subject: Revenue recognition â€” Insight Engine contracts
+
+Hello,
+
+I need to walk through the revenue recognition treatment for the new Insight Engine
+contracts signed this quarter. We have 91 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Umbrella Inc contract bundles Insight Engine licenses with
+logging pipeline implementation services. I've determined the standalone selling prices
+and allocated $309,566 to the license component and 392ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 91-month implementation period.
+
+Variable consideration: 169ms contracts include performance bonuses tied to
+SearchIndex uptime metrics. Using the expected value method, I've estimated
+$309,566 in variable consideration based on our historical performance of
+44% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Umbrella Inc amendment added logging pipeline capacity at
+$309,566 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. David Okonkwo from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Thursday, March 20.
+
+Best regards,
+Grace

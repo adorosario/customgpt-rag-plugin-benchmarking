@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-10-21 05:08 PM
+Subject: Budget review â€” Product department Q1
+
+Good morning,
+
+Here's the Q1 budget review for the Product department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $354,707 against a budget of 333ms. The 38% variance is
+primarily driven by the accelerated ReportingEngine hiring that was approved mid-quarter.
+Personnel costs came in at 454ms which includes the 99 new hires.
+
+Overages: the serialization engine infrastructure line item exceeded budget by 38% due
+to the unplanned scaling requirements for Integration Hub. I've worked with Kwame Asante
+from Engineering to project the run rate going forward â€” we should budget an
+additional $354,707 per quarter for this category.
+
+Underspend: the ReportingEngine consulting budget was only 38% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 38%
+of the total annual budget. The main risk is the serialization engine cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best regards,
+Ananya

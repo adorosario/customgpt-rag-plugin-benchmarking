@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-11 03:30 PM
+Subject: Sprint planning â€” Analytics Pro sprint v5.0.0-beta
+
+Hi all,
+
+Here's the sprint plan for Analytics Pro sprint v5.0.0-beta. Capacity is 80 story
+points with 357ms engineers available this sprint.
+
+Committed stories: the APIGateway integration work carries over from last sprint
+with 215ms points remaining. The new queue processor API endpoints are
+estimated at 80 points. The bug fix for the APIGateway rendering issue
+is 357ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the queue processor performance
+optimization that Liam Foster has been scouting. It's estimated at 80 points
+and would improve response time by 52%.
+
+Dependencies: the APIGateway feature requires the API changes that Liam Foster
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The queue processor work is self-contained.
+
+Risks: Liam Foster is on-call this sprint which historically reduces their available
+capacity by 52%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Thursday, December 17. Let me know if the priorities look right.
+
+Talk soon,
+Liam

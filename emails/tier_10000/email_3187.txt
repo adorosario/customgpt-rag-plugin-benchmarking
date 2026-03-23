@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-09-27 06:02 PM
+Subject: Beta program update â€” Analytics Pro v1.9.5
+
+Hey,
+
+Quick update on the Analytics Pro v1.9.5 beta program. We're 93 weeks into
+the beta period with 165ms customers participating.
+
+Usage data: 59% of beta participants have activated the new SchedulerService
+feature. Average daily usage is 93 sessions per user. The authentication module
+workflow is being used by 396ms of participants, which exceeds our
+adoption target of 165ms.
+
+Feedback summary: overall sentiment is positive. The top 93 pieces of praise
+relate to the SchedulerService speed improvement and the new authentication module interface.
+The top 165ms complaints are about the SchedulerService configuration complexity
+and a confusing error message in the authentication module flow.
+
+Bugs found: 93 bugs reported, of which 165ms are critical. Maria Santos
+from Engineering has fixed 396ms of the critical bugs. The remaining one
+is related to the SchedulerService edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Wednesday, July 11. The GA release is targeted for 93 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Wednesday, July 11 to finalize the GA scope.
+
+Thanks,
+Sanjay

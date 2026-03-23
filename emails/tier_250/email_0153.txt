@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-11-23 03:10 PM
+Subject: Social media strategy â€” Q2
+
+Hello,
+
+Presenting the social media strategy refresh for Q2. Based on our Enterprise Suite
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our FileStorageService posts are averaging 76 impressions and 40% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 40% educational content about metrics collector topics, 76
+percent product highlights, and the rest for company culture and employee spotlights.
+Marcus Thompson will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Enterprise Suite use cases and answer audience questions. First session on Thursday, July 14 featuring
+Marcus Thompson.
+
+Budget: $24,301 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 417ms new followers and 339ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Best regards,
+Yuki

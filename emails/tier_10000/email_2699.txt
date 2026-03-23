@@ -1,0 +1,32 @@
+From: yuki.sato@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-09-17 01:37 PM
+Subject: SEO update â€” DataPipeline keyword rankings
+
+Hi,
+
+Monthly SEO update for our DataPipeline content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Integration Hub comparison page climbed from position 135ms to
+position 126ms for our primary keyword. The event bus guide is now
+ranking in the top 35 for three long-tail variations.
+
+Traffic impact: organic sessions are up 12% month over month. The
+DataPipeline cluster is now driving 35 unique sessions monthly, making it our
+second-highest traffic source behind the Integration Hub landing page.
+
+Content gaps identified: we're missing content for 135ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q3. Jun Tanaka from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 126ms on mobile after the image
+optimization work. No crawl errors detected. The new event bus documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 35 pages. I'll share the
+outreach plan next week.
+
+Regards,
+Yuki

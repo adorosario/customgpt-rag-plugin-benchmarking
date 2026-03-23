@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-23 11:18 AM
+Subject: Sprint planning â€” Insight Engine sprint v3.8.1
+
+Hi all,
+
+Here's the sprint plan for Insight Engine sprint v3.8.1. Capacity is 96 story
+points with 268ms engineers available this sprint.
+
+Committed stories: the ReportingEngine integration work carries over from last sprint
+with 155ms points remaining. The new service mesh API endpoints are
+estimated at 96 points. The bug fix for the ReportingEngine rendering issue
+is 268ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the service mesh performance
+optimization that Mei Lin has been scouting. It's estimated at 96 points
+and would improve response time by 25%.
+
+Dependencies: the ReportingEngine feature requires the API changes that Mei Lin
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The service mesh work is self-contained.
+
+Risks: Mei Lin is on-call this sprint which historically reduces their available
+capacity by 25%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, July 11. Let me know if the priorities look right.
+
+Thanks,
+Liam

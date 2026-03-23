@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-09-03 02:29 PM
+Subject: Tax planning â€” Q2 estimated payments
+
+Good morning,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the NotificationEngine investment
+deductions.
+
+Federal estimate: $397,344 based on projected taxable income of 392ms.
+This reflects the NotificationEngine depreciation deductions and the R&D tax credit for
+the Enterprise Suite development costs. Liam Foster from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $397,344 for our primary jurisdiction and 362ms for the
+New York office based on the apportionment factors. The New York rate change that
+takes effect on Tuesday, February 13 will impact our Q2 estimate by approximately 108
+percent.
+
+International: with the New York office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Liam Foster to handle
+the registration. Setup cost is $397,344 with ongoing compliance costs of
+362ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Tuesday, February 13. I'll prepare the
+payment authorization for your signature by September 7. Underpayment penalties
+start at 31% so timely filing is important.
+
+Best,
+Michael

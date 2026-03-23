@@ -1,0 +1,29 @@
+From: fatima.al-rashid@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-07-02 07:35 AM
+Subject: Policy update â€” AnalyticsDashboard guidelines
+
+Hi,
+
+We've updated the AnalyticsDashboard company policy based on feedback from employees and
+recent changes in Berlin labor regulations. The new policy takes effect on Tuesday, December 4.
+
+Key changes: the serialization engine allowance has been increased from 105ms to
+492ms per month. The eligibility window for AnalyticsDashboard has been expanded
+to include employees who've been with Acme Corp for 12 months or more, down
+from the previous requirement of 105ms months.
+
+New additions: a Integration Hub reimbursement category has been added covering up to
+$434,036 annually. This addresses the top employee request from the last survey.
+Sarah Chen negotiated favorable terms with the serialization engine vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by March 28. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 34% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Fatima

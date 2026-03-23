@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-07-20 02:15 PM
+Subject: Beta program update â€” Analytics Pro v3.0.0
+
+Hey,
+
+Quick update on the Analytics Pro v3.0.0 beta program. We're 24 weeks into
+the beta period with 320ms customers participating.
+
+Usage data: 11% of beta participants have activated the new CacheLayer
+feature. Average daily usage is 24 sessions per user. The authentication module
+workflow is being used by 433ms of participants, which exceeds our
+adoption target of 320ms.
+
+Feedback summary: overall sentiment is positive. The top 24 pieces of praise
+relate to the CacheLayer speed improvement and the new authentication module interface.
+The top 320ms complaints are about the CacheLayer configuration complexity
+and a confusing error message in the authentication module flow.
+
+Bugs found: 24 bugs reported, of which 320ms are critical. Sanjay Krishnamurthy
+from Engineering has fixed 433ms of the critical bugs. The remaining one
+is related to the CacheLayer edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Tuesday, March 19. The GA release is targeted for 24 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Tuesday, March 19 to finalize the GA scope.
+
+Talk soon,
+Daniel

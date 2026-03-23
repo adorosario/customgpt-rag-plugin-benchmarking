@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-01 01:38 AM
+Subject: Beta program update â€” Integration Hub v3.0.0
+
+Good morning,
+
+Quick update on the Integration Hub v3.0.0 beta program. We're 85 weeks into
+the beta period with 349ms customers participating.
+
+Usage data: 55% of beta participants have activated the new BillingModule
+feature. Average daily usage is 85 sessions per user. The serialization engine
+workflow is being used by 250ms of participants, which exceeds our
+adoption target of 349ms.
+
+Feedback summary: overall sentiment is positive. The top 85 pieces of praise
+relate to the BillingModule speed improvement and the new serialization engine interface.
+The top 349ms complaints are about the BillingModule configuration complexity
+and a confusing error message in the serialization engine flow.
+
+Bugs found: 85 bugs reported, of which 349ms are critical. Priya Sharma
+from Engineering has fixed 250ms of the critical bugs. The remaining one
+is related to the BillingModule edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Wednesday, February 15. The GA release is targeted for 85 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Wednesday, February 15 to finalize the GA scope.
+
+Regards,
+Mei

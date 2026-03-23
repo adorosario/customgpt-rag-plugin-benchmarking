@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-09-03 06:00 AM
+Subject: Press release draft â€” Data Vault announcement
+
+Hello,
+
+The press release for the Data Vault announcement is ready for internal review. I've
+incorporated feedback from Liam Foster and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the DataPipeline capability and positions Acme Corp as a leader
+in the load balancer space. We're leading with the 49 performance improvement
+stat and the Soylent Corp customer quote.
+
+Distribution plan: wire service distribution on Thursday, October 3, followed by targeted
+outreach to our 361ms media contacts in the industry. I've secured a briefing
+with DataPipeline Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Data Vault landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 49-hour cadence on launch day.
+
+Embargo: the release is under embargo until Thursday, October 3 at 9 AM ET. Please don't share
+details externally before then. Liam Foster has the full distribution list.
+
+Review deadline is Thursday, October 3. Please send edits as comments in the doc.
+
+Regards,
+James

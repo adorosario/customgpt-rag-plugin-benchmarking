@@ -1,0 +1,31 @@
+From: fatima.al-rashid@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-11-10 11:44 AM
+Subject: Onboarding schedule â€” new hire starting Friday, July 13
+
+Hi all,
+
+We have a new team member joining Legal on Friday, July 13. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, AnalyticsDashboard systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Fatima Al-Rashid will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Integration Hub and the caching layer tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Friday, July 13. All software licenses including AnalyticsDashboard and caching layer access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 200 people to schedule intro meetings with, and first
+323ms-day goals. Please send these to Fatima Al-Rashid in People Ops.
+
+Welcome email goes out 200 days before start date.
+
+Talk soon,
+Fatima

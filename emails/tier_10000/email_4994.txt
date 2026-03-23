@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-11-15 10:38 AM
+Subject: Financial close checklist â€” Q3
+
+Hi all,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Insight Engine invoices must be issued by Wednesday, January 26. Any revenue recognition
+adjustments for the AuditLog contracts need supporting documentation uploaded
+to rate limiter. Wei Zhang from Sales must confirm final deal amounts by June 14.
+
+Expenses: all expense reports for Q3 must be submitted by Wednesday, January 26. The
+AuditLog vendor invoices totaling $59,861 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, AuditLog subscription costs,
+and the rate limiter usage charges by Wednesday, January 26. Any non-standard accruals above
+123ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, AuditLog account reconciliation, and
+inter-company balances must be completed by Wednesday, January 26. Wei Zhang is handling the
+bank rec. I'll take the inter-company items since they involve the Singapore entity.
+
+Target: books closed within 144 business days of quarter end. Final reporting
+package to leadership by Wednesday, January 26.
+
+Regards,
+Ananya

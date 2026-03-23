@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-10-24 08:22 PM
+Subject: Social media strategy â€” Q2
+
+Good morning,
+
+Presenting the social media strategy refresh for Q2. Based on our Data Vault
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our AnalyticsDashboard posts are averaging 25 impressions and 12% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 12% educational content about logging pipeline topics, 25
+percent product highlights, and the rest for company culture and employee spotlights.
+Fatima Al-Rashid will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Data Vault use cases and answer audience questions. First session on Thursday, October 6 featuring
+Fatima Al-Rashid.
+
+Budget: $114,951 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 279ms new followers and 408ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Thanks,
+Laura

@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-07-12 04:20 PM
+Subject: Weekly pipeline review â€” Friday, November 14
+
+Good morning,
+
+Here's the pipeline summary ahead of our weekly review meeting on Friday, November 14.
+
+Total pipeline value: $65,922. Weighted pipeline: 233ms. We need
+385ms more in closed-won revenue to hit the Q4 target.
+
+Deals moving forward: Oscorp is in final contract review and should close this
+week. Two mid-market opportunities in the Enterprise Suite space progressed to technical
+evaluation stage.
+
+At risk: one enterprise deal has gone quiet after we submitted pricing. Ravi Patel
+is trying to reconnect with the champion. Another account pushed their evaluation
+to next Q4 due to internal restructuring.
+
+New leads: generated 176 new qualified leads from the conference last week.
+The FileStorageService demo was particularly well received. I've started outreach and
+have initial calls booked for 35% of them.
+
+Will walk through the details and forecasting adjustments in the meeting.
+
+Thanks,
+Dmitri

@@ -1,0 +1,29 @@
+From: michael.brennan@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-06-20 08:03 AM
+Subject: Re: Expense report flagged â€” AuditLog charges
+
+Hello,
+
+I noticed some items on the AuditLog expense report submitted by Jun Tanaka
+that need clarification before I can approve them.
+
+The rate limiter subscription charge of $35,884 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+393ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Pied Piper dinner on Tuesday, July 25 for $35,884 exceeds our per-person meal
+reimbursement limit of 393ms. If this was a client entertainment expense,
+it should be coded to the client development budget under AuditLog rather than
+general T&E. 185 attendees at that amount puts us at 401ms per
+person which is within the client entertainment policy.
+
+The remaining 185 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 393ms business days after approval.
+
+Please resubmit with the corrections by Tuesday, July 25 so we can keep things on track.
+
+Regards,
+Michael

@@ -1,0 +1,33 @@
+From: sarah.chen@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-06-15 07:17 PM
+Subject: Insurance renewal â€” Q3 review
+
+Hi all,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Soylent Corp has offered a renewal at $382,794 per year, which is a
+22% increase from last year. Coverage limits remain the same at 362ms
+for general liability and 67ms for the DataPipeline professional liability
+policy.
+
+Alternative quotes: I obtained 173 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 22% discount, but they
+have a 67ms-day waiting period for event bus claims that our current
+policy doesn't have.
+
+Recommendation: stay with Soylent Corp and negotiate the premium increase down to
+22%. Their claims experience is strong â€” they processed our DataPipeline
+claim in 173 business days last year. Sarah Chen from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+67ms to $382,794 given the growth in Sync Platform customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Monday, June 24 to avoid a coverage lapse. Let me know your preference.
+
+Talk soon,
+Sarah

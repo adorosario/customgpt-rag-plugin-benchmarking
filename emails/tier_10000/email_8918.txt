@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-11-01 07:33 AM
+Subject: Financial close checklist â€” Q4
+
+Good afternoon,
+
+The Q4 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Analytics Pro invoices must be issued by Tuesday, May 23. Any revenue recognition
+adjustments for the PaymentGateway contracts need supporting documentation uploaded
+to load balancer. Maria Santos from Sales must confirm final deal amounts by February 10.
+
+Expenses: all expense reports for Q4 must be submitted by Tuesday, May 23. The
+PaymentGateway vendor invoices totaling $393,482 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, PaymentGateway subscription costs,
+and the load balancer usage charges by Tuesday, May 23. Any non-standard accruals above
+378ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, PaymentGateway account reconciliation, and
+inter-company balances must be completed by Tuesday, May 23. Maria Santos is handling the
+bank rec. I'll take the inter-company items since they involve the Tokyo entity.
+
+Target: books closed within 173 business days of quarter end. Final reporting
+package to leadership by Tuesday, May 23.
+
+Best regards,
+Robert

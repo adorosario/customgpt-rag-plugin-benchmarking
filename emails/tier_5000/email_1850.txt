@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-05 03:03 PM
+Subject: Payroll adjustment â€” Friday, October 28 cycle
+
+Hi,
+
+Several payroll adjustments need to be processed for the Friday, October 28 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 180 employees received approved raises effective Friday, October 28. The
+total monthly payroll impact is $151,772. The largest increase is for Sanjay Krishnamurthy
+whose compensation moves from 211ms to 451ms based on the promotion
+approved in the Q4 review cycle.
+
+New hires: 180 new employees starting on Friday, October 28 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Sanjay Krishnamurthy
+in People Ops has verified the documentation.
+
+Bonus payouts: the UserProfileService project completion bonus of $151,772 each goes to
+180 team members. These are one-time payments coded to the Product department
+budget. Tax withholding will be calculated at the supplemental rate of 15%.
+
+Deduction changes: 180 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from service mesh.
+
+Please approve the batch by July 12 to ensure on-time processing.
+
+Cheers,
+Ananya

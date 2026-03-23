@@ -1,0 +1,21 @@
+{
+  "tier": 10,
+  "question_id": "pattern_2",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What's the status of the Berlin office opening?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the emails in this directory, here's what's available on the Berlin office opening:\n\n**Email 1** (Aug 10, from Robert Kimura to Priya Sharma, CC: finance):\n- Subject: \"Berlin office opening timeline\"\n- Status: Progress reported across Berlin, office, lease, relocation, and European aspects \u00e2\u20ac\u201d all described as \"progressing well.\"\n\n**Email 2** (Aug 23, from Ananya Desai to Sofia Martinez):\n- Subject: \"Berlin office \u00e2\u20ac\u201d lease agreement status\"\n- Status: Same general progress reported, with the addition of compliance being on track.\n\n**Caveat:** Both emails are quite generic and repetitive in their updates \u00e2\u20ac\u201d they don't contain specific milestones, dates, or actionable details. The content reads like templated filler, so the emails don't provide concrete status information (e.g., lease signing dates, headcount, target opening date).\n\nIf you're looking for more specific details, there may be other sources (Notion, Trello, etc.) worth checking.",
+  "time_seconds": 33.5,
+  "num_turns": 5,
+  "cost_usd": 0.08882999999999999,
+  "input_tokens": 6,
+  "cache_creation_tokens": 12474,
+  "cache_read_tokens": 102665,
+  "output_tokens": 749,
+  "total_tokens": 115894,
+  "duration_api_ms": 21871,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

@@ -1,0 +1,32 @@
+From: fatima.al-rashid@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-07-31 10:25 PM
+Subject: D&I initiative update â€” Q3
+
+Good afternoon,
+
+Here's the quarterly update on our Diversity and Inclusion initiatives. We're
+making meaningful progress on the goals set at the beginning of the year.
+
+Hiring diversity: 44% of candidates in our pipeline this quarter came from
+underrepresented backgrounds, up from 190 percent last quarter. The
+partnership with Umbrella Inc job board has been a strong contributor. Derek Morrison has
+been leading the sourcing strategy.
+
+ERG activity: the MessageBroker employee resource group hosted 190 events
+this quarter with an average attendance of 450ms employees. The mentorship
+circles launched in Q3 have paired 253ms mentors with mentees
+across Engineering departments.
+
+Training: 44% of managers have completed the inclusive leadership training
+program. We're on track to reach 190 percent completion by Friday, April 4. The
+feedback ratings average 253ms out of 5.
+
+Compensation equity: the annual pay equity audit is scheduled for Friday, April 4. We'll
+be reviewing compensation data across 190 dimensions to identify and
+address any gaps.
+
+Full report will be shared at the next all-hands meeting.
+
+Regards,
+Fatima

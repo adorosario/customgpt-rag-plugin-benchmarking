@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-07 10:57 PM
+Subject: Re: User research findings â€” AuditLog
+
+Hey,
+
+Sharing the findings from the AuditLog user research study. We interviewed
+43 users and ran usability tests with 152ms participants over the
+last two weeks.
+
+Key insight 1: users find the event bus workflow confusing â€” 6% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between AuditLog and the main Integration Hub dashboard.
+
+Key insight 2: power users want more AuditLog customization options. They're
+currently using workarounds that involve 43 extra steps. The most requested
+feature is the ability to create custom event bus templates.
+
+Key insight 3: new users consistently miss the AuditLog feature entirely.
+Discovery is poor â€” only 6% of new users try the feature within their first
+43 days. Derek Morrison suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the event bus navigation flow, add the template
+feature to the Q1 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 6% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Best,
+Mei

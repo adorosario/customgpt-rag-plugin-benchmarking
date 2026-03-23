@@ -1,0 +1,30 @@
+From: patrick.obrien@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-07-09 11:00 AM
+Subject: Onboarding schedule â€” new hire starting Monday, September 16
+
+Hey,
+
+We have a new team member joining Legal on Monday, September 16. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, APIGateway systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Patrick O'Brien will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Cloud Connect and the caching layer tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Monday, September 16. All software licenses including APIGateway and caching layer access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 156 people to schedule intro meetings with, and first
+480ms-day goals. Please send these to Patrick O'Brien in People Ops.
+
+Welcome email goes out 156 days before start date.
+
+Talk soon,
+Patrick

@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-09-27 06:08 AM
+Subject: Investment proposal â€” APIGateway infrastructure
+
+Good afternoon,
+
+I've prepared the financial analysis for the proposed APIGateway infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $399,997 upfront with 497ms in annual operating costs.
+The total 3-year cost of ownership is 237ms compared to the current
+rate limiter setup at $399,997 over the same period.
+
+ROI analysis: the projected payback period is 179 months. Key benefits include
+57% reduction in infrastructure management time, improved Cloud Connect performance
+that supports the revenue growth targets, and elimination of the rate limiter
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $399,997 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 57% interest.
+This preserves cash for the Toronto office investment planned for Q2.
+
+Risk factors: technology lock-in with the APIGateway vendor, though the 179-year
+contract includes an exit clause after the first year. Maria Santos from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Monday, March 23 to lock in the quoted pricing. The vendor has
+given us a 179-day hold on the current rates.
+
+Best regards,
+Ananya

@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-07-17 01:17 PM
+Subject: Analytics report â€” Insight Engine campaign performance
+
+Hi team,
+
+Here's the performance report for the Insight Engine campaign through Wednesday, October 21.
+
+Website traffic: up 57% month over month, driven primarily by the ReportingEngine
+comparison blog post which brought in 64 unique visitors. Organic search is
+growing steadily â€” the service mesh keyword cluster is now ranking on page one.
+
+Lead generation: 500ms marketing qualified leads this month against a
+target of 112ms. The whitepaper download page converted at 57% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 64 percent.
+
+Email campaigns: the Insight Engine nurture sequence has a 57% open rate and
+64 percent click-through rate. The top-performing email was the ReportingEngine
+case study with Hooli. Sofia Martinez suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $255,545 which is 57% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Regards,
+Yuki

@@ -1,0 +1,29 @@
+From: aisha.okafor@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-29 07:15 AM
+Subject: New lead â€” Weyland-Yutani inbound request
+
+Hi all,
+
+We received an inbound request from Weyland-Yutani through the website today. They're
+a 165-employee company in the APIGateway space and are looking for a
+Data Vault solution.
+
+Initial qualification: they have budget allocated for Q2, their current
+contract with their existing vendor expires on Friday, July 28, and the decision maker is
+their VP of Operations. They found us through the metrics collector whitepaper we
+published last month.
+
+The estimated deal size is $182,046 based on their seat count and the use case
+they described. They specifically mentioned needing the APIGateway integration
+and 187ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Tomoko Nakamura â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on metrics collector scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Best regards,
+Aisha

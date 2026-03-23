@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-06-22 12:19 PM
+Subject: Investment proposal â€” FileStorageService infrastructure
+
+Hi all,
+
+I've prepared the financial analysis for the proposed FileStorageService infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $31,982 upfront with 439ms in annual operating costs.
+The total 3-year cost of ownership is 142ms compared to the current
+metrics collector setup at $31,982 over the same period.
+
+ROI analysis: the projected payback period is 49 months. Key benefits include
+56% reduction in infrastructure management time, improved Insight Engine performance
+that supports the revenue growth targets, and elimination of the metrics collector
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $31,982 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 56% interest.
+This preserves cash for the Sydney office investment planned for Q4.
+
+Risk factors: technology lock-in with the FileStorageService vendor, though the 49-year
+contract includes an exit clause after the first year. Grace Mwangi from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Friday, July 28 to lock in the quoted pricing. The vendor has
+given us a 49-day hold on the current rates.
+
+Cheers,
+Grace

@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-08-19 05:42 PM
+Subject: Email marketing performance â€” Q1 review
+
+Hello,
+
+Here's the email marketing performance review for Q1. Overall we're trending
+in the right direction but there are a few areas to optimize.
+
+List health: our subscriber base grew 49% to 216ms contacts. Bounce
+rate is at 100 percent which is within healthy range. We ran a re-engagement
+campaign that recovered 212ms previously inactive subscribers.
+
+Campaign performance: the Cloud Connect launch sequence was our top performer with a
+49% open rate. The MessageBroker technical series also did well, driving 100
+clicks to the resource hub. Lower performers were the generic newsletter sends â€” we
+should consider more targeted segmentation.
+
+Revenue attribution: email-sourced pipeline totals $303,006 this quarter, with
+216ms in closed-won revenue. The Pied Piper deal originated from a nurture
+sequence touchpoint.
+
+Plans for next quarter: implementing behavioral triggers for the service mesh
+content, A/B testing send times for the Cloud Connect audience, and building a new
+onboarding sequence for trial sign-ups. Kwame Asante will help with the automation
+setup.
+
+Talk soon,
+James

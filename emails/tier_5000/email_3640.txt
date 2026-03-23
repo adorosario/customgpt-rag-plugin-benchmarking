@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-09-22 11:38 AM
+Subject: Quarterly territory review â€” Q4
+
+Good morning,
+
+Here's my territory review for Q4. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 50 qualified opportunities worth a combined $315,369 in
+ARR. The largest deal is Stark Industries at 273ms, which I expect to close by
+Tuesday, May 28. Three other deals in the 209ms range are progressing through
+procurement.
+
+Wins this quarter: closed Stark Industries for Enterprise Suite with a 14% upsell from
+their initial scope. The logging pipeline add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Priya Sharma to the Stark Industries executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Thanks,
+Dmitri

@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-24 03:32 AM
+Subject: Re: Customer story â€” Weyland-Yutani case study
+
+Hey,
+
+Great update on the Weyland-Yutani case study. I've finished the first draft and want
+to share the results we're highlighting.
+
+Headline stat: Weyland-Yutani saw a 43% reduction in queue processor processing time
+after deploying Sync Platform. This translates to $426,962 in annual cost savings
+based on their team size of 94 people.
+
+Story arc: the narrative follows their journey from evaluating WebhookDispatcher
+alternatives to full deployment. The strongest section is the quote from their CTO
+about how Sync Platform simplified their queue processor workflow.
+
+Approval status: Weyland-Yutani's marketing team has reviewed and approved the draft with
+minor edits. They're comfortable with us publishing by Thursday, September 16. Robert Kimura coordinated
+the approval process.
+
+Distribution plan: blog post with pull quotes, one-page PDF for Sales enablement,
+and a 94-minute video summary. The video production is scheduled for next week.
+
+Can you review the draft and send feedback by Thursday, September 16? I want to finalize before
+the Q2 campaign kickoff.
+
+Best,
+Laura

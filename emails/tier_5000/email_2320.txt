@@ -1,0 +1,29 @@
+From: priya.sharma@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-11-02 01:33 AM
+Subject: Architecture RFC â€” UserProfileService redesign proposal
+
+Hi all,
+
+I've drafted an RFC for redesigning the UserProfileService architecture. The current
+implementation has served us well but is hitting scaling limits â€” we're seeing
+136 degrade as data volume grows past 243ms.
+
+The proposal introduces a new load balancer layer that decouples read and write paths.
+Writes go through an event queue and are processed asynchronously, while reads hit a
+materialized view that's optimized for our most common query patterns.
+
+Estimated effort is 4-6 sprints for the core migration, with Rachel Nguyen leading the
+implementation. I've outlined the phased rollout approach in the document â€” we can
+run the old and new systems in parallel during the transition.
+
+Tradeoffs: increased operational complexity and a new dependency on the message
+broker, but we get horizontal scalability and the ability to support the load
+projections for next year.
+
+RFC is in Confluence. Please leave comments by Monday, August 16 so we can discuss at the
+next architecture review.
+
+Thanks,
+Priya

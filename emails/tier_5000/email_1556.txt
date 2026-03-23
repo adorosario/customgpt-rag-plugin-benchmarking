@@ -1,0 +1,35 @@
+From: liam.foster@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-16 04:57 AM
+Subject: Re: Cloud Connect metrics review â€” Q1
+
+Good morning,
+
+Here are the Cloud Connect metrics for Q1. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 85 monthly active users, up 35% quarter over quarter. The
+FileStorageService feature launch drove a spike in activation â€” 154ms new users
+tried it in the first week. Retention for FileStorageService users is 129ms
+at 30 days versus 85 percent for non-users.
+
+Engagement: average session duration is 85 minutes. The rate limiter workflow
+sees the highest engagement with users spending 129ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 154ms features
+per session on average, up from 85 last quarter.
+
+Revenue metrics: Cloud Connect ARR is at $304,945 with 35% growth quarter over
+quarter. Net revenue retention is 129ms driven by FileStorageService upsells.
+85 customers expanded their contracts this quarter, with Dmitri Volkov from Sales
+leading the expansion conversations.
+
+Areas of concern: the rate limiter onboarding funnel has a 35% drop-off at
+step 85. I've scheduled a design sprint for next week to address this.
+Support ticket volume for FileStorageService increased 85 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Cheers,
+Liam

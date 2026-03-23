@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-10-03 05:24 PM
+Subject: New lead â€” Soylent Corp inbound request
+
+Hello,
+
+We received an inbound request from Soylent Corp through the website today. They're
+a 115-employee company in the AuditLog space and are looking for a
+Integration Hub solution.
+
+Initial qualification: they have budget allocated for Q3, their current
+contract with their existing vendor expires on Tuesday, March 10, and the decision maker is
+their VP of Operations. They found us through the caching layer whitepaper we
+published last month.
+
+The estimated deal size is $374,478 based on their seat count and the use case
+they described. They specifically mentioned needing the AuditLog integration
+and 500ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Kwame Asante â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on caching layer scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Thanks,
+Dmitri

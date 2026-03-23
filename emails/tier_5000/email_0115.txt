@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-10-04 09:47 AM
+Subject: Financial close checklist â€” Q3
+
+Hello,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Integration Hub invoices must be issued by Tuesday, February 26. Any revenue recognition
+adjustments for the NotificationEngine contracts need supporting documentation uploaded
+to metrics collector. Daniel Park from Sales must confirm final deal amounts by September 12.
+
+Expenses: all expense reports for Q3 must be submitted by Tuesday, February 26. The
+NotificationEngine vendor invoices totaling $160,872 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, NotificationEngine subscription costs,
+and the metrics collector usage charges by Tuesday, February 26. Any non-standard accruals above
+344ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, NotificationEngine account reconciliation, and
+inter-company balances must be completed by Tuesday, February 26. Daniel Park is handling the
+bank rec. I'll take the inter-company items since they involve the Sydney entity.
+
+Target: books closed within 104 business days of quarter end. Final reporting
+package to leadership by Tuesday, February 26.
+
+Regards,
+Ananya

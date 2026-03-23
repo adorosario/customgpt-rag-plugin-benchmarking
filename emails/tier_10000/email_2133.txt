@@ -1,0 +1,28 @@
+From: derek.morrison@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-11-27 06:24 PM
+Subject: Re: Quota update â€” Q3 adjustments
+
+Hi team,
+
+Thanks for sharing the Q3 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $309,516 reflects a 58% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 48 of my projected deals depend on the Enterprise Suite launch happening on
+schedule. If that slips, I'll need the AuthService backup deals to come through.
+
+Territory changes: I see that the San Francisco accounts have been reassigned to
+Sofia Martinez. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Cyberdyne â€” we've been building that
+relationship for 276ms months.
+
+Regarding the new event bus incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with event bus upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Best regards,
+Derek

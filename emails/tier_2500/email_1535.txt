@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-10-19 02:25 PM
+Subject: Revenue recognition â€” Enterprise Suite contracts
+
+Hi all,
+
+I need to walk through the revenue recognition treatment for the new Enterprise Suite
+contracts signed this quarter. We have 122 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Hooli contract bundles Enterprise Suite licenses with
+rate limiter implementation services. I've determined the standalone selling prices
+and allocated $85,196 to the license component and 406ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 122-month implementation period.
+
+Variable consideration: 217ms contracts include performance bonuses tied to
+PaymentGateway uptime metrics. Using the expected value method, I've estimated
+$85,196 in variable consideration based on our historical performance of
+54% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Hooli amendment added rate limiter capacity at
+$85,196 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Priya Sharma from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Wednesday, November 13.
+
+Regards,
+Grace

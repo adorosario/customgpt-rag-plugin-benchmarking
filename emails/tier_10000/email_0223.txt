@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-19 08:05 AM
+Subject: A/B test results â€” WebhookDispatcher experiment
+
+Good afternoon,
+
+The WebhookDispatcher A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 157 days with 458ms users in each cohort.
+
+Variant A (control): the existing authentication module flow. Conversion rate of
+264ms with an average task completion time of 157 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified WebhookDispatcher step.
+Conversion rate of 458ms with task completion time of 264ms seconds.
+This represents a 5% improvement in conversion and 157 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 157 to 458ms
+in the treatment group. Support ticket volume for WebhookDispatcher related issues
+decreased by 5%. No negative impact on authentication module engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Michael Brennan from Engineering can have this
+deployed by Thursday, April 6.
+
+One caveat: the test population skewed toward Analytics Pro power users. We should
+monitor new user behavior closely for the first 157 weeks after full rollout.
+
+Thanks,
+Liam

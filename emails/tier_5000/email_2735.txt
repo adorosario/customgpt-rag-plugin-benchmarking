@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-09-20 08:30 PM
+Subject: Re: Quota update â€” Q2 adjustments
+
+Hey,
+
+Thanks for sharing the Q2 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $496,320 reflects a 56% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 77 of my projected deals depend on the Enterprise Suite launch happening on
+schedule. If that slips, I'll need the UserProfileService backup deals to come through.
+
+Territory changes: I see that the Berlin accounts have been reassigned to
+Grace Mwangi. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Weyland-Yutani â€” we've been building that
+relationship for 403ms months.
+
+Regarding the new rate limiter incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with rate limiter upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Best regards,
+Hannah

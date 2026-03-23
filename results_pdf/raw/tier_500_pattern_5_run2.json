@@ -1,0 +1,21 @@
+{
+  "tier": 500,
+  "question_id": "pattern_5",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What's happening with the Series B fundraising?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about a Series B fundraising in my context or memory. This question is outside the scope of what I can help with \u00e2\u20ac\u201d I'm focused on software engineering tasks in this environment.\n\nIf you're looking for news about a specific company's fundraising, I can search for it using Perplexity. Which company are you asking about?",
+  "time_seconds": 18.1,
+  "num_turns": 1,
+  "cost_usd": 0.0484338,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10874,
+  "cache_read_tokens": 17541,
+  "output_tokens": 159,
+  "total_tokens": 28577,
+  "duration_api_ms": 6619,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-10-27 05:37 PM
+Subject: Budget review â€” Engineering department Q1
+
+Hello,
+
+Here's the Q1 budget review for the Engineering department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $293,141 against a budget of 100ms. The 59% variance is
+primarily driven by the accelerated AnalyticsDashboard hiring that was approved mid-quarter.
+Personnel costs came in at 154ms which includes the 124 new hires.
+
+Overages: the event bus infrastructure line item exceeded budget by 59% due
+to the unplanned scaling requirements for Sync Platform. I've worked with Sofia Martinez
+from Engineering to project the run rate going forward â€” we should budget an
+additional $293,141 per quarter for this category.
+
+Underspend: the AnalyticsDashboard consulting budget was only 59% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 59%
+of the total annual budget. The main risk is the event bus cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best,
+Ananya

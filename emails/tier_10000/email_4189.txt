@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-07-23 01:39 AM
+Subject: Budget review â€” Product department Q1
+
+Hey everyone,
+
+Here's the Q1 budget review for the Product department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $399,017 against a budget of 395ms. The 26% variance is
+primarily driven by the accelerated MessageBroker hiring that was approved mid-quarter.
+Personnel costs came in at 308ms which includes the 140 new hires.
+
+Overages: the queue processor infrastructure line item exceeded budget by 26% due
+to the unplanned scaling requirements for Enterprise Suite. I've worked with Amara Diallo
+from Engineering to project the run rate going forward â€” we should budget an
+additional $399,017 per quarter for this category.
+
+Underspend: the MessageBroker consulting budget was only 26% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 26%
+of the total annual budget. The main risk is the queue processor cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Thanks,
+Robert

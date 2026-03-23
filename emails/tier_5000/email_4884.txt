@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-01 08:46 PM
+Subject: Payroll adjustment â€” Tuesday, March 11 cycle
+
+Hello,
+
+Several payroll adjustments need to be processed for the Tuesday, March 11 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 112 employees received approved raises effective Tuesday, March 11. The
+total monthly payroll impact is $76,780. The largest increase is for Patrick O'Brien
+whose compensation moves from 142ms to 164ms based on the promotion
+approved in the Q2 review cycle.
+
+New hires: 112 new employees starting on Tuesday, March 11 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Patrick O'Brien
+in People Ops has verified the documentation.
+
+Bonus payouts: the APIGateway project completion bonus of $76,780 each goes to
+112 team members. These are one-time payments coded to the HR department
+budget. Tax withholding will be calculated at the supplemental rate of 17%.
+
+Deduction changes: 112 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from config manager.
+
+Please approve the batch by May 4 to ensure on-time processing.
+
+Thanks,
+Robert

@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-11-17 02:30 PM
+Subject: A/B test results â€” BillingModule experiment
+
+Hello,
+
+The BillingModule A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 53 days with 336ms users in each cohort.
+
+Variant A (control): the existing config manager flow. Conversion rate of
+447ms with an average task completion time of 53 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified BillingModule step.
+Conversion rate of 336ms with task completion time of 447ms seconds.
+This represents a 50% improvement in conversion and 53 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 53 to 336ms
+in the treatment group. Support ticket volume for BillingModule related issues
+decreased by 50%. No negative impact on config manager engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Laura Kim from Engineering can have this
+deployed by Friday, September 20.
+
+One caveat: the test population skewed toward Sync Platform power users. We should
+monitor new user behavior closely for the first 53 weeks after full rollout.
+
+Cheers,
+Amara

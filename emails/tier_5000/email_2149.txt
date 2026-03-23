@@ -1,0 +1,29 @@
+From: jun.tanaka@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-21 12:32 AM
+Subject: Quarterly territory review â€” Q1
+
+Hello,
+
+Here's my territory review for Q1. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 130 qualified opportunities worth a combined $211,192 in
+ARR. The largest deal is Soylent Corp at 463ms, which I expect to close by
+Tuesday, June 18. Three other deals in the 367ms range are progressing through
+procurement.
+
+Wins this quarter: closed Soylent Corp for Integration Hub with a 6% upsell from
+their initial scope. The metrics collector add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Kwame Asante to the Soylent Corp executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Best,
+Jun

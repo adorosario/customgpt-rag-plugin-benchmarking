@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-06-28 11:48 AM
+Subject: Onboarding schedule â€” new hire starting Friday, July 22
+
+Hi team,
+
+We have a new team member joining HR on Friday, July 22. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, CacheLayer systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Grace Mwangi will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Cloud Connect and the serialization engine tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Friday, July 22. All software licenses including CacheLayer and serialization engine access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 138 people to schedule intro meetings with, and first
+351ms-day goals. Please send these to Grace Mwangi in People Ops.
+
+Welcome email goes out 138 days before start date.
+
+Best,
+Fatima

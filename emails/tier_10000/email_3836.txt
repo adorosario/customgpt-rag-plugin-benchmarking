@@ -1,0 +1,30 @@
+From: robert.kimura@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-23 05:34 AM
+Subject: Re: Expense report flagged â€” PaymentGateway charges
+
+Hi all,
+
+I noticed some items on the PaymentGateway expense report submitted by Rachel Nguyen
+that need clarification before I can approve them.
+
+The config manager subscription charge of $416,679 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+126ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Umbrella Inc dinner on Monday, April 1 for $416,679 exceeds our per-person meal
+reimbursement limit of 126ms. If this was a client entertainment expense,
+it should be coded to the client development budget under PaymentGateway rather than
+general T&E. 160 attendees at that amount puts us at 94ms per
+person which is within the client entertainment policy.
+
+The remaining 160 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 126ms business days after approval.
+
+Please resubmit with the corrections by Monday, April 1 so we can keep things on track.
+
+Best,
+Robert

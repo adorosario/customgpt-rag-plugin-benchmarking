@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-06-19 12:07 PM
+Subject: Content calendar â€” Q2 update
+
+Hey,
+
+Sharing the updated content calendar for Q2. We've added several new pieces
+to support the Sync Platform launch and the thought leadership series.
+
+Blog schedule: two posts per week. Topics include SchedulerService best practices,
+customer success stories, and the technical deep-dive series that Fatima Al-Rashid from
+Engineering is co-authoring. The connection pool comparison guide is our top-of-funnel
+anchor piece.
+
+Gated content: the Sync Platform whitepaper goes live on Thursday, May 20. We're expecting
+72 downloads based on performance of similar assets. The ROI calculator tool
+is in development and targeted for mid-Q2.
+
+Social media: ramping up LinkedIn posting to 432ms times per week. We'll
+pull snippets from blog content and add 24% original thought leadership posts.
+The Sync Platform launch will get a dedicated social campaign.
+
+Newsletter: monthly send to our 239ms subscribers. Open rates have been
+holding steady at 72 percent.
+
+Please review the calendar doc and flag any conflicts or gaps by Thursday, May 20.
+
+Regards,
+Yuki

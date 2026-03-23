@@ -1,0 +1,33 @@
+From: patrick.obrien@acmecorp.com
+To: derek.morrison@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-08-12 02:56 AM
+Subject: Intern program â€” Q4 cohort planning
+
+Hello,
+
+Planning for the Q4 intern cohort is underway. We're targeting 107
+interns across 339ms departments this cycle.
+
+Department allocation: Engineering gets 182ms interns, Product gets
+107, and HR gets the remainder. Each intern will be assigned a mentor â€”
+Derek Morrison is coordinating mentor assignments. Please nominate mentors from your
+teams by Wednesday, August 24.
+
+Program structure: 107-week program with structured rotations. Interns spend
+36% of their time on project work and the rest on learning sessions, shadowing,
+and a capstone presentation. The UserProfileService workshop series from last cohort was
+well received and will be repeated.
+
+Compensation: hourly rate is $364,554 for undergraduate interns and 182ms
+for graduate-level. Housing stipend of 339ms per month for out-of-area interns.
+
+Recruiting timeline: applications open on Wednesday, August 24. We'll be visiting 107
+universities and posting on the standard job boards. Final offers go out by the
+end of Q4.
+
+Let me know if your team wants to adjust headcount or has specific project ideas
+for interns.
+
+Best,
+Patrick

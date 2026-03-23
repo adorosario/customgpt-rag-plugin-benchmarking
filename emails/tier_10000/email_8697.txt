@@ -1,0 +1,31 @@
+From: dmitri.volkov@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-23 05:37 AM
+Subject: Competitive intel â€” Oscorp evaluation
+
+Hello,
+
+Got some useful competitive intelligence from the Oscorp account that I want to
+share with the team.
+
+Oscorp shared their evaluation criteria and mentioned they're also looking at
+BillingModule as an alternative to our Sync Platform. From what I gathered, BillingModule
+is pitching a lower price point but doesn't have feature parity on the service mesh
+side.
+
+Key differentiators working in our favor: our Sync Platform handles 64 concurrent
+connections versus their published limit of 385ms. Our uptime SLA is also
+stronger at 405ms versus their 20% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for BillingModule and
+consider a streamlined trial process for mid-market accounts. Rachel Nguyen from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Monday, March 14.
+
+Best regards,
+Dmitri

@@ -1,0 +1,33 @@
+From: michael.brennan@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-04 12:00 PM
+Subject: Vendor payment schedule â€” Q4
+
+Hey everyone,
+
+Here's the vendor payment schedule for Q4. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Wayne Enterprises invoice for $80,374 is due on Wednesday, July 23 with a
+36% early payment discount if we pay within 141 days. I recommend
+taking the discount â€” it saves us 119ms. The CacheLayer annual
+license renewal of 343ms is due Wednesday, July 23 with no discount available.
+
+Standard schedule: 141 vendor invoices totaling $80,374 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-343ms terms with payments going out every 141 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The load balancer vendor
+overbilled us by $80,374 on the CacheLayer usage charges. Amara Diallo is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q4 are projected at $80,374. This
+is 36% higher than last quarter due to the CacheLayer infrastructure
+investment and the Tokyo office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Cheers,
+Michael

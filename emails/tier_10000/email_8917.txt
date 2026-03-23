@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-09-04 11:17 PM
+Subject: Customer feedback digest â€” Insight Engine Q3
+
+Hello,
+
+Here's the quarterly customer feedback digest for Insight Engine. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 118, up 476ms points from last quarter. The improvement
+is driven by the AnalyticsDashboard launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 15%.
+
+Top feature requests: AnalyticsDashboard advanced filtering (118 votes), config manager
+bulk operations (476ms votes), and enhanced Insight Engine reporting (417ms
+votes). The filtering request aligns with what we heard in the user research study
+James Oduya conducted.
+
+Top complaints: AnalyticsDashboard performance during peak hours (118 mentions),
+the config manager onboarding experience (476ms mentions), and pricing
+transparency (417ms mentions). The performance issue is being addressed
+by Engineering â€” James Oduya expects the fix in v2.4.1.
+
+Churn insights: 118 customers churned this quarter citing AnalyticsDashboard
+limitations as the primary reason. The config manager overhaul on our roadmap directly
+addresses their feedback. 15% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, April 14.
+
+Talk soon,
+Liam

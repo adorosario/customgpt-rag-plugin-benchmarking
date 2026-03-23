@@ -1,0 +1,29 @@
+From: carlos.rivera@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-10-02 07:57 AM
+Subject: Re: Enterprise Suite demo feedback from Hooli
+
+Good morning,
+
+Great news from the Hooli demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the logging pipeline dashboard got the biggest reaction. Their
+current tool requires 134 manual steps to accomplish what our Enterprise Suite does
+automatically. The SearchIndex integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 212ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v2.1.0 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Yuki Sato, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Enterprise Suite trial environment set up for their team of
+134 evaluators. I'll submit the trial request today. Target close date
+remains Monday, February 11.
+
+Best,
+Carlos

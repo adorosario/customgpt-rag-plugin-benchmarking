@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-07-08 01:46 PM
+Subject: New lead â€” Oscorp inbound request
+
+Good afternoon,
+
+We received an inbound request from Oscorp through the website today. They're
+a 121-employee company in the NotificationEngine space and are looking for a
+Analytics Pro solution.
+
+Initial qualification: they have budget allocated for Q2, their current
+contract with their existing vendor expires on Wednesday, October 16, and the decision maker is
+their VP of Operations. They found us through the rate limiter whitepaper we
+published last month.
+
+The estimated deal size is $142,700 based on their seat count and the use case
+they described. They specifically mentioned needing the NotificationEngine integration
+and 203ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Alex Chen â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on rate limiter scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Best,
+Hannah

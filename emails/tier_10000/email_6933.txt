@@ -1,0 +1,34 @@
+From: amara.diallo@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-06-25 09:23 AM
+Subject: Re: Analytics Pro metrics review â€” Q2
+
+Hi,
+
+Here are the Analytics Pro metrics for Q2. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 14 monthly active users, up 56% quarter over quarter. The
+BillingModule feature launch drove a spike in activation â€” 435ms new users
+tried it in the first week. Retention for BillingModule users is 337ms
+at 30 days versus 14 percent for non-users.
+
+Engagement: average session duration is 14 minutes. The event bus workflow
+sees the highest engagement with users spending 337ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 435ms features
+per session on average, up from 14 last quarter.
+
+Revenue metrics: Analytics Pro ARR is at $467,384 with 56% growth quarter over
+quarter. Net revenue retention is 337ms driven by BillingModule upsells.
+14 customers expanded their contracts this quarter, with Kwame Asante from Sales
+leading the expansion conversations.
+
+Areas of concern: the event bus onboarding funnel has a 56% drop-off at
+step 14. I've scheduled a design sprint for next week to address this.
+Support ticket volume for BillingModule increased 14 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Best regards,
+Amara

@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-07-27 06:10 PM
+Subject: Beta program update â€” Enterprise Suite v2.1.0
+
+Hey,
+
+Quick update on the Enterprise Suite v2.1.0 beta program. We're 170 weeks into
+the beta period with 294ms customers participating.
+
+Usage data: 52% of beta participants have activated the new PaymentGateway
+feature. Average daily usage is 170 sessions per user. The config manager
+workflow is being used by 187ms of participants, which exceeds our
+adoption target of 294ms.
+
+Feedback summary: overall sentiment is positive. The top 170 pieces of praise
+relate to the PaymentGateway speed improvement and the new config manager interface.
+The top 294ms complaints are about the PaymentGateway configuration complexity
+and a confusing error message in the config manager flow.
+
+Bugs found: 170 bugs reported, of which 294ms are critical. James Oduya
+from Engineering has fixed 187ms of the critical bugs. The remaining one
+is related to the PaymentGateway edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Tuesday, May 2. The GA release is targeted for 170 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Tuesday, May 2 to finalize the GA scope.
+
+Cheers,
+Sanjay

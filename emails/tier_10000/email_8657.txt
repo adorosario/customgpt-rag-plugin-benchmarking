@@ -1,0 +1,26 @@
+From: hannah.goldstein@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-10-20 05:52 PM
+Subject: Pipeline update â€” Wayne Enterprises deal status
+
+Hi all,
+
+Quick update on the Wayne Enterprises opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $256,230 for the Integration Hub deployment. The
+decision timeline is end of Q2. Their main concern remains the integration
+with their existing BillingModule infrastructure, which is why I've looped in Sofia Martinez
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Wayne Enterprises is also evaluating one other vendor but our
+Integration Hub demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our config manager capability.
+
+Next steps: technical architecture session on Thursday, October 11, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 18%.
+
+Talk soon,
+Hannah

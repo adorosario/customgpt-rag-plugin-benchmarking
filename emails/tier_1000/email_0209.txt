@@ -1,0 +1,29 @@
+From: derek.morrison@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-25 09:48 PM
+Subject: Quarterly territory review â€” Q1
+
+Hello,
+
+Here's my territory review for Q1. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 73 qualified opportunities worth a combined $452,984 in
+ARR. The largest deal is Tyrell Corp at 282ms, which I expect to close by
+Monday, July 5. Three other deals in the 292ms range are progressing through
+procurement.
+
+Wins this quarter: closed Tyrell Corp for Cloud Connect with a 32% upsell from
+their initial scope. The authentication module add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Sofia Martinez to the Tyrell Corp executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Cheers,
+Derek

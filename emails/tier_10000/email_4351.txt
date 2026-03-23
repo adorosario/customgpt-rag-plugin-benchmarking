@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-07-17 10:05 AM
+Subject: Tax planning â€” Q2 estimated payments
+
+Hey everyone,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the DataPipeline investment
+deductions.
+
+Federal estimate: $315,433 based on projected taxable income of 268ms.
+This reflects the DataPipeline depreciation deductions and the R&D tax credit for
+the Integration Hub development costs. Maria Santos from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $315,433 for our primary jurisdiction and 317ms for the
+New York office based on the apportionment factors. The New York rate change that
+takes effect on Monday, August 6 will impact our Q2 estimate by approximately 140
+percent.
+
+International: with the New York office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Maria Santos to handle
+the registration. Setup cost is $315,433 with ongoing compliance costs of
+317ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Monday, August 6. I'll prepare the
+payment authorization for your signature by September 1. Underpayment penalties
+start at 13% so timely filing is important.
+
+Thanks,
+Ananya

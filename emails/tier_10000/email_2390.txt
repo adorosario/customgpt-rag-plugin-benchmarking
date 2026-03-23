@@ -1,0 +1,33 @@
+From: fatima.al-rashid@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-11-13 05:04 PM
+Subject: Intern program â€” Q4 cohort planning
+
+Hey everyone,
+
+Planning for the Q4 intern cohort is underway. We're targeting 11
+interns across 130ms departments this cycle.
+
+Department allocation: Engineering gets 438ms interns, Product gets
+11, and Legal gets the remainder. Each intern will be assigned a mentor â€”
+Alex Chen is coordinating mentor assignments. Please nominate mentors from your
+teams by Friday, October 10.
+
+Program structure: 11-week program with structured rotations. Interns spend
+28% of their time on project work and the rest on learning sessions, shadowing,
+and a capstone presentation. The SearchIndex workshop series from last cohort was
+well received and will be repeated.
+
+Compensation: hourly rate is $415,673 for undergraduate interns and 438ms
+for graduate-level. Housing stipend of 130ms per month for out-of-area interns.
+
+Recruiting timeline: applications open on Friday, October 10. We'll be visiting 11
+universities and posting on the standard job boards. Final offers go out by the
+end of Q4.
+
+Let me know if your team wants to adjust headcount or has specific project ideas
+for interns.
+
+Best,
+Fatima

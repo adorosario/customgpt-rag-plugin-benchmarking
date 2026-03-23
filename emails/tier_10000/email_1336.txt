@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-06-27 02:01 PM
+Subject: Content calendar â€” Q2 update
+
+Hey everyone,
+
+Sharing the updated content calendar for Q2. We've added several new pieces
+to support the Analytics Pro launch and the thought leadership series.
+
+Blog schedule: two posts per week. Topics include WebhookDispatcher best practices,
+customer success stories, and the technical deep-dive series that Wei Zhang from
+Engineering is co-authoring. The service mesh comparison guide is our top-of-funnel
+anchor piece.
+
+Gated content: the Analytics Pro whitepaper goes live on Friday, October 18. We're expecting
+73 downloads based on performance of similar assets. The ROI calculator tool
+is in development and targeted for mid-Q2.
+
+Social media: ramping up LinkedIn posting to 482ms times per week. We'll
+pull snippets from blog content and add 29% original thought leadership posts.
+The Analytics Pro launch will get a dedicated social campaign.
+
+Newsletter: monthly send to our 328ms subscribers. Open rates have been
+holding steady at 73 percent.
+
+Please review the calendar doc and flag any conflicts or gaps by Friday, October 18.
+
+Talk soon,
+Laura

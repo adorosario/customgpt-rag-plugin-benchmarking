@@ -1,0 +1,29 @@
+From: patrick.obrien@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-07-31 06:20 AM
+Subject: Policy update â€” NotificationEngine guidelines
+
+Good morning,
+
+We've updated the NotificationEngine company policy based on feedback from employees and
+recent changes in Toronto labor regulations. The new policy takes effect on Friday, July 22.
+
+Key changes: the event bus allowance has been increased from 454ms to
+183ms per month. The eligibility window for NotificationEngine has been expanded
+to include employees who've been with Acme Corp for 13 months or more, down
+from the previous requirement of 454ms months.
+
+New additions: a Integration Hub reimbursement category has been added covering up to
+$461,861 annually. This addresses the top employee request from the last survey.
+Wei Zhang negotiated favorable terms with the event bus vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by October 8. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 7% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Cheers,
+Patrick

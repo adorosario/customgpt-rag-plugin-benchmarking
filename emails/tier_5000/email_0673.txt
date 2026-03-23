@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-07-04 03:02 PM
+Subject: Investment proposal â€” PaymentGateway infrastructure
+
+Good afternoon,
+
+I've prepared the financial analysis for the proposed PaymentGateway infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $411,507 upfront with 101ms in annual operating costs.
+The total 3-year cost of ownership is 281ms compared to the current
+load balancer setup at $411,507 over the same period.
+
+ROI analysis: the projected payback period is 149 months. Key benefits include
+35% reduction in infrastructure management time, improved Enterprise Suite performance
+that supports the revenue growth targets, and elimination of the load balancer
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $411,507 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 35% interest.
+This preserves cash for the San Francisco office investment planned for Q2.
+
+Risk factors: technology lock-in with the PaymentGateway vendor, though the 149-year
+contract includes an exit clause after the first year. Derek Morrison from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Friday, August 6 to lock in the quoted pricing. The vendor has
+given us a 149-day hold on the current rates.
+
+Talk soon,
+Grace

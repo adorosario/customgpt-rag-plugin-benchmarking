@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-06-20 04:20 PM
+Subject: Quarterly territory review â€” Q3
+
+Hey everyone,
+
+Here's my territory review for Q3. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 132 qualified opportunities worth a combined $489,268 in
+ARR. The largest deal is Hooli at 339ms, which I expect to close by
+Friday, April 15. Three other deals in the 350ms range are progressing through
+procurement.
+
+Wins this quarter: closed Hooli for Cloud Connect with a 14% upsell from
+their initial scope. The metrics collector add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring David Okonkwo to the Hooli executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Best regards,
+Aisha

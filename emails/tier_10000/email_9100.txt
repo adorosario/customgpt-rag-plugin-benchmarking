@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-08-30 12:04 AM
+Subject: Customer feedback digest â€” Insight Engine Q1
+
+Hi team,
+
+Here's the quarterly customer feedback digest for Insight Engine. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 44, up 272ms points from last quarter. The improvement
+is driven by the PaymentGateway launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 50%.
+
+Top feature requests: PaymentGateway advanced filtering (44 votes), load balancer
+bulk operations (272ms votes), and enhanced Insight Engine reporting (79ms
+votes). The filtering request aligns with what we heard in the user research study
+Aisha Okafor conducted.
+
+Top complaints: PaymentGateway performance during peak hours (44 mentions),
+the load balancer onboarding experience (272ms mentions), and pricing
+transparency (79ms mentions). The performance issue is being addressed
+by Engineering â€” Aisha Okafor expects the fix in v2.6.0.
+
+Churn insights: 44 customers churned this quarter citing PaymentGateway
+limitations as the primary reason. The load balancer overhaul on our roadmap directly
+addresses their feedback. 50% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Friday, March 27.
+
+Thanks,
+Liam

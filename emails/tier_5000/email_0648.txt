@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-05 09:55 PM
+Subject: FP&A update â€” Integration Hub financial model
+
+Good morning,
+
+I've updated the Integration Hub financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 101 per month based
+on the last 345ms months of data. Average contract value is tracking at
+$139,341, which is 22% above our original assumption. The CacheLayer
+upsell rate of 480ms is a positive trend.
+
+Cost structure: the load balancer hosting costs are running 22% higher than
+modeled due to increased CacheLayer usage. I've adjusted the variable cost
+per customer from 345ms to 480ms. Carlos Rivera from Engineering
+says the optimization project should bring this down by 22% in Q3.
+
+Break-even analysis: with the revised numbers, Integration Hub reaches contribution
+margin break-even at 101 customers, which we're projected to hit by Friday, February 1.
+Full break-even including allocated overhead comes at 345ms customers.
+
+Scenarios: the base case shows $139,341 in cumulative revenue by year end. The
+upside case with the Oscorp deal closing hits 480ms. Downside case
+assuming 22% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Best,
+Robert

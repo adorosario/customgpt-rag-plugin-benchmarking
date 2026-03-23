@@ -1,0 +1,34 @@
+From: sarah.chen@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-10-22 08:02 PM
+Subject: Data privacy assessment â€” Cloud Connect
+
+Hi team,
+
+The data privacy impact assessment for Cloud Connect is complete. I'm flagging the key
+findings and required actions for the team.
+
+Data inventory: Cloud Connect processes 180 categories of personal data including
+names, email addresses, and usage analytics. The data flows through our AuditLog
+infrastructure and is stored in the event bus environment in London.
+
+Risk findings: overall risk level is moderate. The primary concern is the
+cross-border data transfer to the London processing center. We need to implement
+standard contractual clauses with our AuditLog sub-processor. Marcus Thompson from
+Engineering confirmed the technical safeguards are already in place.
+
+Consent mechanism: the current Cloud Connect consent flow meets requirements for
+43% of our user base. For users in regulated jurisdictions, we need to add
+explicit opt-in for the event bus analytics features. This is a 180-sprint
+effort according to the Product team.
+
+Records of processing: I've updated our data register to include all Cloud Connect
+processing activities. The register needs to be reviewed every 169ms months
+per our policy.
+
+Next step: executive sign-off on the DPIA by Thursday, August 21. Please review the full
+report in the shared drive.
+
+Talk soon,
+Sarah

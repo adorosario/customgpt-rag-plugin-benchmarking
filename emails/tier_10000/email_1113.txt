@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-03 07:06 PM
+Subject: Email marketing performance â€” Q2 review
+
+Hey,
+
+Here's the email marketing performance review for Q2. Overall we're trending
+in the right direction but there are a few areas to optimize.
+
+List health: our subscriber base grew 29% to 206ms contacts. Bounce
+rate is at 36 percent which is within healthy range. We ran a re-engagement
+campaign that recovered 58ms previously inactive subscribers.
+
+Campaign performance: the Analytics Pro launch sequence was our top performer with a
+29% open rate. The SchedulerService technical series also did well, driving 36
+clicks to the resource hub. Lower performers were the generic newsletter sends â€” we
+should consider more targeted segmentation.
+
+Revenue attribution: email-sourced pipeline totals $450,410 this quarter, with
+206ms in closed-won revenue. The Cyberdyne deal originated from a nurture
+sequence touchpoint.
+
+Plans for next quarter: implementing behavioral triggers for the rate limiter
+content, A/B testing send times for the Analytics Pro audience, and building a new
+onboarding sequence for trial sign-ups. Sofia Martinez will help with the automation
+setup.
+
+Thanks,
+Laura

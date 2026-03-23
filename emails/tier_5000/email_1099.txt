@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-11-10 02:16 PM
+Subject: Revenue recognition â€” Cloud Connect contracts
+
+Hey,
+
+I need to walk through the revenue recognition treatment for the new Cloud Connect
+contracts signed this quarter. We have 82 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Weyland-Yutani contract bundles Cloud Connect licenses with
+service mesh implementation services. I've determined the standalone selling prices
+and allocated $425,347 to the license component and 118ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 82-month implementation period.
+
+Variable consideration: 419ms contracts include performance bonuses tied to
+UserProfileService uptime metrics. Using the expected value method, I've estimated
+$425,347 in variable consideration based on our historical performance of
+17% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Weyland-Yutani amendment added service mesh capacity at
+$425,347 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Hannah Goldstein from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Friday, February 12.
+
+Talk soon,
+Ananya

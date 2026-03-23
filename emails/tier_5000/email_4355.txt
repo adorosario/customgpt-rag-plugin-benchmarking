@@ -1,0 +1,26 @@
+From: derek.morrison@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-11-30 01:01 AM
+Subject: Pipeline update â€” Oscorp deal status
+
+Hello,
+
+Quick update on the Oscorp opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $360,541 for the Enterprise Suite deployment. The
+decision timeline is end of Q3. Their main concern remains the integration
+with their existing AuthService infrastructure, which is why I've looped in Carlos Rivera
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Oscorp is also evaluating one other vendor but our
+Enterprise Suite demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our metrics collector capability.
+
+Next steps: technical architecture session on Monday, March 2, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 58%.
+
+Talk soon,
+Derek

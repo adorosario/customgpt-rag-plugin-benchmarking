@@ -1,0 +1,33 @@
+From: sarah.chen@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-11-10 09:20 AM
+Subject: Insurance renewal â€” Q3 review
+
+Good afternoon,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Hooli has offered a renewal at $266,358 per year, which is a
+42% increase from last year. Coverage limits remain the same at 83ms
+for general liability and 398ms for the SearchIndex professional liability
+policy.
+
+Alternative quotes: I obtained 186 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 42% discount, but they
+have a 398ms-day waiting period for event bus claims that our current
+policy doesn't have.
+
+Recommendation: stay with Hooli and negotiate the premium increase down to
+42%. Their claims experience is strong â€” they processed our SearchIndex
+claim in 186 business days last year. Derek Morrison from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+398ms to $266,358 given the growth in Data Vault customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Thursday, April 15 to avoid a coverage lapse. Let me know your preference.
+
+Best regards,
+Sarah

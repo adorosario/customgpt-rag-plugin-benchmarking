@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-07-19 04:16 AM
+Subject: Email marketing performance â€” Q1 review
+
+Hi,
+
+Here's the email marketing performance review for Q1. Overall we're trending
+in the right direction but there are a few areas to optimize.
+
+List health: our subscriber base grew 19% to 295ms contacts. Bounce
+rate is at 100 percent which is within healthy range. We ran a re-engagement
+campaign that recovered 310ms previously inactive subscribers.
+
+Campaign performance: the Cloud Connect launch sequence was our top performer with a
+19% open rate. The CacheLayer technical series also did well, driving 100
+clicks to the resource hub. Lower performers were the generic newsletter sends â€” we
+should consider more targeted segmentation.
+
+Revenue attribution: email-sourced pipeline totals $295,372 this quarter, with
+295ms in closed-won revenue. The Wayne Enterprises deal originated from a nurture
+sequence touchpoint.
+
+Plans for next quarter: implementing behavioral triggers for the logging pipeline
+content, A/B testing send times for the Cloud Connect audience, and building a new
+onboarding sequence for trial sign-ups. Oluwaseun Adeyemi will help with the automation
+setup.
+
+Cheers,
+Sofia

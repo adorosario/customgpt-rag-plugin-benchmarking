@@ -1,0 +1,33 @@
+From: david.okonkwo@acmecorp.com
+To: maria.santos@acmecorp.com
+Date: 2025-07-11 03:35 PM
+Subject: Contract review â€” Cyberdyne agreement
+
+Good afternoon,
+
+I've completed the review of the Cyberdyne agreement and have several items that
+need attention before we can proceed to execution.
+
+Liability cap: the current draft limits liability to $137,884, which is below our
+standard threshold of 497ms for deals of this size. I recommend pushing back
+to at least 295ms. Yuki Sato from Sales should be prepared for this
+negotiation point.
+
+IP assignment clause: section 7.3 includes an overly broad IP assignment that could
+capture pre-existing work product. I've drafted narrower language that protects our
+existing SchedulerService IP while still meeting Cyberdyne's requirements for the
+Sync Platform deliverables.
+
+Data processing: the DPA needs to be updated to reflect the new config manager
+architecture. Since data will transit through the Toronto data center, we need to
+ensure compliance with local data residency requirements.
+
+Indemnification: the mutual indemnification provisions are reasonable. I've accepted
+them with minor clarifications on the notice period â€” changed from 145 to
+497ms business days.
+
+I'll send the redlined version by Wednesday, February 1. Please review the business terms and
+confirm the commercial intent before I finalize.
+
+Cheers,
+David

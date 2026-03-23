@@ -1,0 +1,33 @@
+From: amara.diallo@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-07-25 09:57 AM
+Subject: Re: Analytics Pro pricing discussion â€” MessageBroker tier
+
+Hi team,
+
+Following up on the Analytics Pro pricing discussion. I've modeled three options for
+the MessageBroker tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $161,760 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 44% of our existing base.
+Downside: it undercuts our current connection pool pricing and may trigger downgrades.
+
+Option B: 155ms per seat per month with the connection pool add-on bundled.
+Higher price point but stronger value perception. 141 of the 451ms
+customers we surveyed preferred this packaging. Sarah Chen from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $161,760 per MessageBroker transaction. This aligns
+with the value delivered but introduces billing complexity. Only 44% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$161,760 in incremental ARR over 141 months.
+
+Can we finalize the pricing decision by Friday, January 7? Sales needs 451ms weeks to
+update collateral before we announce.
+
+Cheers,
+Amara

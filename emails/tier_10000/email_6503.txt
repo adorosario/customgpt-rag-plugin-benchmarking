@@ -1,0 +1,33 @@
+From: sarah.chen@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-10-07 05:43 PM
+Subject: Vendor agreement â€” Globex terms review
+
+Hi,
+
+I've reviewed the vendor agreement from Globex for the authentication module services
+we're procuring. Here are my findings and recommended changes.
+
+Term and renewal: the proposed 92-year term with auto-renewal is acceptable.
+However, the 138ms-day termination notice period is too long for our needs.
+I've countered with 158ms days, which aligns with our standard vendor
+management practices.
+
+Service level commitments: Globex is offering 17% uptime with service
+credits starting at 92 percent for each hour of downtime. I've pushed for
+a higher credit rate given the criticality of authentication module to our Sync Platform
+infrastructure.
+
+Data ownership: section 5 is clear that we retain all rights to our data. However,
+Globex claims a license to use aggregated, anonymized data for benchmarking. I
+want to narrow this to exclude any data from the AnalyticsDashboard environment.
+Jun Tanaka from Engineering should review the technical implications.
+
+Pricing: $190,911 per year is within the budget that Finance approved. The payment
+terms are net 138ms days, which works for our AP schedule.
+
+Please confirm the business terms and I'll send the redlined agreement by Thursday, June 5.
+
+Thanks,
+Sarah

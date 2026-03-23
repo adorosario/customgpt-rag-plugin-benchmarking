@@ -1,0 +1,35 @@
+From: amara.diallo@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-28 09:18 PM
+Subject: Re: Sync Platform metrics review â€” Q4
+
+Hi all,
+
+Here are the Sync Platform metrics for Q4. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 110 monthly active users, up 41% quarter over quarter. The
+APIGateway feature launch drove a spike in activation â€” 149ms new users
+tried it in the first week. Retention for APIGateway users is 199ms
+at 30 days versus 110 percent for non-users.
+
+Engagement: average session duration is 110 minutes. The event bus workflow
+sees the highest engagement with users spending 199ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 149ms features
+per session on average, up from 110 last quarter.
+
+Revenue metrics: Sync Platform ARR is at $365,230 with 41% growth quarter over
+quarter. Net revenue retention is 199ms driven by APIGateway upsells.
+110 customers expanded their contracts this quarter, with Hannah Goldstein from Sales
+leading the expansion conversations.
+
+Areas of concern: the event bus onboarding funnel has a 41% drop-off at
+step 110. I've scheduled a design sprint for next week to address this.
+Support ticket volume for APIGateway increased 110 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Cheers,
+Amara

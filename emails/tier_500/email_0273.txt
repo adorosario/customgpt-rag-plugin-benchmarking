@@ -1,0 +1,30 @@
+From: kwame.asante@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-07-07 11:22 PM
+Subject: Hiring update â€” Product open positions
+
+Hey,
+
+Here's the weekly hiring update for the Product department. We're making progress
+on several key roles.
+
+Active searches: the ReportingEngine role has 139 candidates in the pipeline with
+385ms scheduled for final round interviews this week. The queue processor
+position has been open for 179ms days and we're seeing fewer qualified
+applicants than expected â€” I'd like to discuss expanding our sourcing channels.
+
+Offers: we extended an offer to a strong candidate for the Ravi Patel backfill
+role. Their expected start date is Wednesday, December 19 pending background check completion.
+Compensation is at $151,959 which is within the approved band.
+
+Upcoming: the Integration Hub team has submitted a headcount request for 139 new
+positions in Q3. I'm drafting the job descriptions and will share them for
+review by Wednesday, December 19.
+
+Interview load: we conducted 179ms interviews last week across all open
+roles. Please remind your team leads that timely interviewer feedback is critical â€”
+we're losing candidates due to slow response times on 59% of our processes.
+
+Regards,
+Kwame

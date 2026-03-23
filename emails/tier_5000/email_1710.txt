@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-10-16 01:31 PM
+Subject: Payroll adjustment â€” Thursday, December 17 cycle
+
+Hi,
+
+Several payroll adjustments need to be processed for the Thursday, December 17 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 19 employees received approved raises effective Thursday, December 17. The
+total monthly payroll impact is $196,913. The largest increase is for Ananya Desai
+whose compensation moves from 396ms to 265ms based on the promotion
+approved in the Q2 review cycle.
+
+New hires: 19 new employees starting on Thursday, December 17 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Ananya Desai
+in People Ops has verified the documentation.
+
+Bonus payouts: the AuthService project completion bonus of $196,913 each goes to
+19 team members. These are one-time payments coded to the Legal department
+budget. Tax withholding will be calculated at the supplemental rate of 53%.
+
+Deduction changes: 19 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from metrics collector.
+
+Please approve the batch by April 13 to ensure on-time processing.
+
+Best regards,
+Ananya

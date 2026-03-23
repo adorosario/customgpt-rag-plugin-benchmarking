@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-08-05 10:00 PM
+Subject: Audit preparation â€” Q3 review
+
+Hey everyone,
+
+The Q3 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Soylent Corp are scheduled to begin fieldwork
+on Tuesday, May 16.
+
+Documentation needed from each department: all purchase orders above 297ms,
+contract modifications executed during Q3, headcount changes with supporting
+approvals, and WebhookDispatcher system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the connection pool audit portal by Tuesday, May 16.
+That gives us 129 business days before the auditors arrive. Sofia Martinez has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Sync Platform contracts, the WebhookDispatcher capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $113,539 in capitalized WebhookDispatcher costs and the methodology used.
+
+This is our 129 year with Soylent Corp as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Sofia Martinez if you have
+questions about what's needed.
+
+Talk soon,
+Grace

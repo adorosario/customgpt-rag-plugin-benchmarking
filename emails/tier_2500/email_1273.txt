@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-08-04 10:19 PM
+Subject: Feature spec â€” BillingModule integration
+
+Hi,
+
+The feature spec for the BillingModule integration is ready for review. This is
+targeting the v5.0.0-beta release in Q2.
+
+Problem statement: 39% of our enterprise prospects cite the lack of
+BillingModule integration as a blocker. The current workaround through the
+metrics collector API is unreliable and requires 15 hours of custom development
+from customers.
+
+Proposed solution: native BillingModule integration with bi-directional sync.
+Users configure the connection through the Sync Platform settings page and data
+flows automatically. The sync runs every 336ms minutes with conflict
+resolution handled by our algorithm.
+
+Scope: phase 1 covers read and write operations for the core BillingModule objects.
+Phase 2 adds real-time webhooks and custom field mapping. Daniel Park from Engineering
+estimates 15 sprints for phase 1 and 336ms for phase 2.
+
+Success metrics: 15 enterprise customers adopt the integration within 90 days
+of launch, BillingModule related support tickets decrease by 39%, and the
+feature contributes to $202,581 in new ARR.
+
+Please review the full spec in Confluence and leave comments by Tuesday, November 23.
+
+Talk soon,
+Sanjay

@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-10-03 05:47 PM
+Subject: Audit preparation â€” Q3 review
+
+Hi,
+
+The Q3 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Pied Piper are scheduled to begin fieldwork
+on Monday, March 13.
+
+Documentation needed from each department: all purchase orders above 438ms,
+contract modifications executed during Q3, headcount changes with supporting
+approvals, and WebhookDispatcher system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the config manager audit portal by Monday, March 13.
+That gives us 10 business days before the auditors arrive. Yuki Sato has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Analytics Pro contracts, the WebhookDispatcher capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $415,955 in capitalized WebhookDispatcher costs and the methodology used.
+
+This is our 10 year with Pied Piper as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Yuki Sato if you have
+questions about what's needed.
+
+Regards,
+Robert

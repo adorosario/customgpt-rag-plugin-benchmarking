@@ -1,0 +1,35 @@
+From: daniel.park@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-11 04:04 PM
+Subject: Competitive analysis â€” APIGateway market update
+
+Hey everyone,
+
+Sharing the latest competitive landscape analysis for the APIGateway market.
+Several developments this quarter that we should factor into our strategy.
+
+Soylent Corp released a major update to their APIGateway product. Key additions
+include service mesh support and a redesigned dashboard. Their pricing remains at
+$305,093 per seat which undercuts us by 41%. However, their enterprise
+features are still behind ours â€” no SSO, limited API access, and 137ms
+user cap on their standard plan.
+
+Market trends: the APIGateway category grew 41% year over year. Analyst
+reports are emphasizing service mesh capabilities as the key differentiator for
+enterprise buyers. Our Sync Platform scores well on this dimension.
+
+Win/loss analysis: we won 95 of the last 137ms competitive deals.
+Primary win reasons: APIGateway depth and customer support quality. Primary loss
+reasons: price sensitivity and service mesh ease of use. Patrick O'Brien from Sales
+provided the deal-level data.
+
+Recommendations: accelerate the service mesh simplification effort on our roadmap,
+consider a mid-market pricing tier at $305,093 to compete on price, and publish
+more APIGateway comparison content for SEO.
+
+Full analysis is in the competitive intelligence folder. Let's discuss at the
+strategy meeting on Tuesday, January 13.
+
+Talk soon,
+Daniel

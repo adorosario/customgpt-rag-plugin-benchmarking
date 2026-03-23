@@ -1,0 +1,34 @@
+From: liam.foster@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-03 03:44 AM
+Subject: Re: Enterprise Suite pricing discussion â€” MessageBroker tier
+
+Hey,
+
+Following up on the Enterprise Suite pricing discussion. I've modeled three options for
+the MessageBroker tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $270,755 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 18% of our existing base.
+Downside: it undercuts our current serialization engine pricing and may trigger downgrades.
+
+Option B: 374ms per seat per month with the serialization engine add-on bundled.
+Higher price point but stronger value perception. 72 of the 99ms
+customers we surveyed preferred this packaging. Elena Vasquez from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $270,755 per MessageBroker transaction. This aligns
+with the value delivered but introduces billing complexity. Only 18% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$270,755 in incremental ARR over 72 months.
+
+Can we finalize the pricing decision by Tuesday, December 20? Sales needs 99ms weeks to
+update collateral before we announce.
+
+Regards,
+Liam

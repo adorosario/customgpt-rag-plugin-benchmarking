@@ -1,0 +1,29 @@
+From: derek.morrison@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-01 11:28 AM
+Subject: Sales engineering request â€” Globex POC
+
+Good morning,
+
+Requesting SE support for a proof-of-concept with Globex. This is a $124,571
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Insight Engine can handle 111
+transactions per second with their APIGateway data format. The test needs to
+run against their staging environment and demonstrate the rate limiter capability
+under realistic load.
+
+Timeline: Globex wants the POC completed within 175ms business days
+starting Friday, September 14. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Liam Foster for the technical configuration and someone from
+the APIGateway team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q1. Let me know if we can make this timeline work.
+
+Thanks,
+Derek

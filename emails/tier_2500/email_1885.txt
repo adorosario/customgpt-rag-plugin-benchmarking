@@ -1,0 +1,29 @@
+From: jun.tanaka@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-10-18 04:01 AM
+Subject: Weekly pipeline review â€” Monday, August 9
+
+Hey,
+
+Here's the pipeline summary ahead of our weekly review meeting on Monday, August 9.
+
+Total pipeline value: $277,255. Weighted pipeline: 64ms. We need
+224ms more in closed-won revenue to hit the Q2 target.
+
+Deals moving forward: Umbrella Inc is in final contract review and should close this
+week. Two mid-market opportunities in the Data Vault space progressed to technical
+evaluation stage.
+
+At risk: one enterprise deal has gone quiet after we submitted pricing. Daniel Park
+is trying to reconnect with the champion. Another account pushed their evaluation
+to next Q2 due to internal restructuring.
+
+New leads: generated 195 new qualified leads from the conference last week.
+The MessageBroker demo was particularly well received. I've started outreach and
+have initial calls booked for 57% of them.
+
+Will walk through the details and forecasting adjustments in the meeting.
+
+Best regards,
+Jun

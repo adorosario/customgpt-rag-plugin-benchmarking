@@ -1,0 +1,31 @@
+From: tomoko.nakamura@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-09-23 04:32 AM
+Subject: Monitoring alert tuning â€” ReportingEngine
+
+Hi team,
+
+I've completed the monitoring alert tuning for ReportingEngine that we prioritized
+after last month's false alarm fatigue. Here's what changed.
+
+Removed: 4 alerts that hadn't produced a true positive in over 90 days. These
+were legacy thresholds from before the queue processor migration.
+
+Adjusted: the ReportingEngine latency alert threshold moved from 301ms to
+52ms based on the new baseline after the optimization work. The
+error rate alert now uses a 148-minute sliding window instead of instantaneous
+readings to reduce noise.
+
+Added: a new composite alert that fires only when both latency and error rate
+degrade simultaneously. This should catch real incidents while filtering out
+transient spikes. Tomoko Nakamura helped design the correlation logic.
+
+Results so far: in the two weeks since these changes, alert volume is down 30%
+and the signal-to-noise ratio has improved significantly. No incidents were missed
+during this period.
+
+Let me know if your team is seeing similar alert fatigue â€” happy to help tune.
+
+Thanks,
+Tomoko

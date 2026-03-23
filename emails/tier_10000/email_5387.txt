@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-08-11 02:58 PM
+Subject: Beta program update â€” Integration Hub v1.9.5
+
+Hello,
+
+Quick update on the Integration Hub v1.9.5 beta program. We're 149 weeks into
+the beta period with 356ms customers participating.
+
+Usage data: 40% of beta participants have activated the new ReportingEngine
+feature. Average daily usage is 149 sessions per user. The authentication module
+workflow is being used by 184ms of participants, which exceeds our
+adoption target of 356ms.
+
+Feedback summary: overall sentiment is positive. The top 149 pieces of praise
+relate to the ReportingEngine speed improvement and the new authentication module interface.
+The top 356ms complaints are about the ReportingEngine configuration complexity
+and a confusing error message in the authentication module flow.
+
+Bugs found: 149 bugs reported, of which 356ms are critical. Jun Tanaka
+from Engineering has fixed 184ms of the critical bugs. The remaining one
+is related to the ReportingEngine edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Monday, April 24. The GA release is targeted for 149 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Monday, April 24 to finalize the GA scope.
+
+Best,
+Sanjay

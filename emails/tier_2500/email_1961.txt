@@ -1,0 +1,28 @@
+From: elena.vasquez@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-10-24 08:57 PM
+Subject: Re: FileStorageService â€” tech debt prioritization
+
+Hey,
+
+Following up on the tech debt discussion from yesterday's sprint planning. I've
+categorized the outstanding items for FileStorageService into three tiers based on risk
+and effort.
+
+High priority: the deprecated authentication module dependency needs to be replaced before
+Friday, January 27 when upstream support ends. This is roughly a 188 effort and Hannah Goldstein
+has volunteered to own it.
+
+Medium priority: the test coverage gap in the FileStorageService integration layer. We're
+at 142ms coverage but our target is 275ms. Filling this gap would
+have caught the regression we saw last sprint.
+
+Low priority: the logging format standardization. It's annoying but not blocking
+anything. I'd suggest we tackle it opportunistically when someone is already
+touching those files.
+
+My proposal is to allocate 14% of next sprint's capacity to the high-priority
+item. Thoughts?
+
+Best regards,
+Elena

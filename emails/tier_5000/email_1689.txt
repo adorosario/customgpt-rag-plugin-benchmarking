@@ -1,0 +1,29 @@
+From: carlos.rivera@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-06-15 10:47 PM
+Subject: Re: Cloud Connect demo feedback from Umbrella Inc
+
+Hello,
+
+Great news from the Umbrella Inc demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the caching layer dashboard got the biggest reaction. Their
+current tool requires 108 manual steps to accomplish what our Cloud Connect does
+automatically. The AnalyticsDashboard integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 465ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v5.0.0-beta release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Hannah Goldstein, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Cloud Connect trial environment set up for their team of
+108 evaluators. I'll submit the trial request today. Target close date
+remains Wednesday, May 26.
+
+Thanks,
+Carlos

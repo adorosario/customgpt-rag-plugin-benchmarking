@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-09-03 01:54 PM
+Subject: Re: Billing dispute â€” Soylent Corp account
+
+Hey,
+
+I've investigated the billing dispute raised by Soylent Corp. Here's what I found and
+my recommended resolution.
+
+Dispute details: Soylent Corp is contesting $181,401 on their Q2 invoice,
+claiming they were double-charged for the APIGateway add-on module. Their account
+manager Sarah Chen has been communicating with them but they want a Finance response.
+
+Investigation: I reviewed the billing records and confirmed there was a system error
+in our service mesh billing platform. The APIGateway charge was applied twice due
+to a timing issue when their subscription was upgraded on Friday, August 2. The correct charge
+should have been 147ms not $181,401.
+
+Resolution: I recommend issuing a credit of 391ms to their account immediately
+and applying it to the next invoice. This maintains the relationship and the credit
+is clearly justified. Total revenue impact is 195 percent of the contract value.
+
+Prevention: I've filed a bug report with the service mesh billing team to fix the
+underlying issue. Sarah Chen from Engineering estimates a fix in the next 195
+sprints. In the meantime, I'll add a manual review step for any mid-cycle
+subscription changes.
+
+Can you approve the credit so I can communicate the resolution to Soylent Corp today?
+
+Cheers,
+Grace

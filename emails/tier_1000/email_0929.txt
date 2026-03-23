@@ -1,0 +1,29 @@
+From: aisha.okafor@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-10 12:08 PM
+Subject: Sales engineering request â€” Cyberdyne POC
+
+Hey everyone,
+
+Requesting SE support for a proof-of-concept with Cyberdyne. This is a $219,931
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Cloud Connect can handle 167
+transactions per second with their MessageBroker data format. The test needs to
+run against their staging environment and demonstrate the connection pool capability
+under realistic load.
+
+Timeline: Cyberdyne wants the POC completed within 391ms business days
+starting Friday, October 10. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Tomoko Nakamura for the technical configuration and someone from
+the MessageBroker team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q1. Let me know if we can make this timeline work.
+
+Cheers,
+Aisha

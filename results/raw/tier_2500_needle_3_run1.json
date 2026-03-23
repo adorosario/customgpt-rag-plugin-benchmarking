@@ -1,0 +1,21 @@
+{
+  "tier": 2500,
+  "question_id": "needle_3",
+  "question_type": "hard",
+  "run": 1,
+  "question": "What database did Engineering approve migrating to, and on what date?",
+  "model": "claude-sonnet-4-6",
+  "response": "Engineering approved migrating to **PostgreSQL 16**, and the approval was communicated on **September 18, 2025** (per the email date). The migration itself was set to begin on **September 3** (during a scheduled maintenance window at 2:00 AM UTC).\n\nThe email is from Marcus Thompson (`marcus.thompson@acmecorp.com`) to the engineering team \u00e2\u20ac\u201d `email_1210.txt`.",
+  "time_seconds": 35.34,
+  "num_turns": 5,
+  "cost_usd": 0.10700235,
+  "input_tokens": 7,
+  "cache_creation_tokens": 14843,
+  "cache_read_tokens": 134617,
+  "output_tokens": 729,
+  "total_tokens": 150196,
+  "duration_api_ms": 21619,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

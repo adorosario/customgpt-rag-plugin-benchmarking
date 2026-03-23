@@ -1,0 +1,31 @@
+From: patrick.obrien@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-08-25 11:08 AM
+Subject: Team event recap â€” AnalyticsDashboard outing
+
+Good afternoon,
+
+Thanks to everyone who joined the AnalyticsDashboard team outing last week. We had great
+turnout with 105 employees attending.
+
+Highlights: the team building exercise was a hit â€” the logging pipeline challenge had
+teams competing in creative problem-solving rounds. The winning team led by
+Fatima Al-Rashid finished in just 120ms minutes. The group dinner afterward was a
+great opportunity for cross-team connections.
+
+Feedback: the post-event survey came back overwhelmingly positive with a 50%
+satisfaction rating. Most popular suggestion for next time: more outdoor activities.
+Several people asked about doing quarterly events instead of 105 per year.
+
+Budget: total cost was $477,992, coming in at 456ms per person including
+venue, catering, and activities. This is within our social budget for Q2.
+
+Photos are uploaded to the shared album in the logging pipeline drive. Please tag
+yourselves and share appropriate photos on social media if you'd like â€” our
+marketing team loves this content for the company page.
+
+Planning for the next event starts in Q2. Ideas welcome.
+
+Best,
+Patrick

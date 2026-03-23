@@ -1,0 +1,29 @@
+From: elena.vasquez@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-06-09 06:15 PM
+Subject: Feature flag cleanup â€” UserProfileService v2.4.1
+
+Hi all,
+
+Time for our quarterly feature flag cleanup in UserProfileService. We have 175 flags
+in the system and several of them are stale.
+
+Flags to remove: the connection pool migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The UserProfileService experiment flag
+was concluded last sprint with a decision to ship â€” Michael Brennan will hardcode the
+winning variant.
+
+Flags to keep: the v2.4.1 rollout flag should stay until we've confirmed
+stability at 137ms traffic. The connection pool kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 427ms lines of dead code and simplify the conditional logic in
+56% of the affected modules.
+
+Please claim the tickets for flags in your area by Monday, February 17. Target completion is end
+of sprint.
+
+Regards,
+Elena

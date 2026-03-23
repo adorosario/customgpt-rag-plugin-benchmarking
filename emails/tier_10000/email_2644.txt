@@ -1,0 +1,26 @@
+From: aisha.okafor@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-06-30 12:45 AM
+Subject: Re: Weyland-Yutani renewal â€” risk assessment
+
+Hey,
+
+Following up on the Weyland-Yutani renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing PaymentGateway latency issues for the past 171 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Weyland-Yutani has mentioned they're evaluating alternatives for their logging pipeline needs.
+
+The renewal is worth $326,245 annually and is up for renewal at the end of
+Q1. I think we need a proactive retention strategy. My proposal:
+
+First, get Robert Kimura from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 19% discount
+on the expanded Integration Hub tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Best,
+Aisha

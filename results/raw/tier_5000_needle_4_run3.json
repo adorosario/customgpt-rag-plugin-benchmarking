@@ -1,0 +1,21 @@
+{
+  "tier": 5000,
+  "question_id": "needle_4",
+  "question_type": "hard",
+  "run": 3,
+  "question": "When do the remote work policy changes take effect?",
+  "model": "claude-sonnet-4-6",
+  "response": "The remote work policy changes take effect **January 1, 2026**.\n\nKey details from the email (sent by Rachel Nguyen on Oct 15, 2025):\n- **Structured hybrid model**: minimum 3 days in-office per week (Tuesday\u00e2\u20ac\u201cThursday)\n- Monday and Friday remain flexible remote days\n- Applies to all locations including the Berlin office when it opens\n- Fully remote role exceptions continue case-by-case through department heads",
+  "time_seconds": 36.98,
+  "num_turns": 4,
+  "cost_usd": 0.10051125,
+  "input_tokens": 6,
+  "cache_creation_tokens": 15831,
+  "cache_read_tokens": 109990,
+  "output_tokens": 542,
+  "total_tokens": 126369,
+  "duration_api_ms": 21890,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

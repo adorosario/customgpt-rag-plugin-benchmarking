@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-11-18 03:06 PM
+Subject: Re: Quota update â€” Q2 adjustments
+
+Good morning,
+
+Thanks for sharing the Q2 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $188,080 reflects a 52% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 140 of my projected deals depend on the Analytics Pro launch happening on
+schedule. If that slips, I'll need the WebhookDispatcher backup deals to come through.
+
+Territory changes: I see that the San Francisco accounts have been reassigned to
+Ananya Desai. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Tyrell Corp â€” we've been building that
+relationship for 453ms months.
+
+Regarding the new caching layer incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with caching layer upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Regards,
+Hannah

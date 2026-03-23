@@ -1,0 +1,30 @@
+From: derek.morrison@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-09-23 10:34 AM
+Subject: Competitive intel â€” Globex evaluation
+
+Hi,
+
+Got some useful competitive intelligence from the Globex account that I want to
+share with the team.
+
+Globex shared their evaluation criteria and mentioned they're also looking at
+UserProfileService as an alternative to our Insight Engine. From what I gathered, UserProfileService
+is pitching a lower price point but doesn't have feature parity on the connection pool
+side.
+
+Key differentiators working in our favor: our Insight Engine handles 181 concurrent
+connections versus their published limit of 95ms. Our uptime SLA is also
+stronger at 401ms versus their 49% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for UserProfileService and
+consider a streamlined trial process for mid-market accounts. Kwame Asante from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Friday, March 22.
+
+Best,
+Derek

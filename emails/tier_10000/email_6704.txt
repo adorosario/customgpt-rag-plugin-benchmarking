@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-10-05 02:59 AM
+Subject: Re: Cloud Connect launch planning â€” CacheLayer release
+
+Hey,
+
+The launch plan for the CacheLayer release is coming together. Here's the
+coordinated timeline across teams.
+
+Engineering: code freeze on Monday, November 23. Final QA validation of 183 test cases
+by Mei Lin. Performance benchmarks must show queue processor throughput above
+311ms requests per second. Rollback plan documented and tested.
+
+Marketing: blog post and landing page updates go live at launch. Mei Lin from
+the content team has the draft ready for review. Email announcement to 183
+customers scheduled for launch day plus one.
+
+Sales: updated pitch deck with the CacheLayer positioning. Mei Lin is running
+a training session on Monday, November 23 so the team can demo the feature. We're expecting
+$394,840 in pipeline acceleration from this release.
+
+Support: knowledge base articles and troubleshooting guide published pre-launch.
+Mei Lin trained the support team on the 183 most common questions. Staffing
+is increased by 7% for launch week.
+
+Go/no-go decision meeting is on Monday, November 23. Each team lead needs to confirm readiness
+by then.
+
+Cheers,
+Liam

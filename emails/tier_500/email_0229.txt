@@ -1,0 +1,34 @@
+From: daniel.park@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-02 07:10 AM
+Subject: Customer feedback digest â€” Insight Engine Q2
+
+Good afternoon,
+
+Here's the quarterly customer feedback digest for Insight Engine. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 158, up 170ms points from last quarter. The improvement
+is driven by the BillingModule launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 26%.
+
+Top feature requests: BillingModule advanced filtering (158 votes), config manager
+bulk operations (170ms votes), and enhanced Insight Engine reporting (168ms
+votes). The filtering request aligns with what we heard in the user research study
+Priya Sharma conducted.
+
+Top complaints: BillingModule performance during peak hours (158 mentions),
+the config manager onboarding experience (170ms mentions), and pricing
+transparency (168ms mentions). The performance issue is being addressed
+by Engineering â€” Priya Sharma expects the fix in v1.9.5.
+
+Churn insights: 158 customers churned this quarter citing BillingModule
+limitations as the primary reason. The config manager overhaul on our roadmap directly
+addresses their feedback. 26% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Thursday, August 22.
+
+Thanks,
+Daniel

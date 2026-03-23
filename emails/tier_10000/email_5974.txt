@@ -1,0 +1,27 @@
+From: oluwaseun.adeyemi@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-11-03 02:58 PM
+Subject: Incident postmortem â€” UserProfileService outage on Friday, February 15
+
+Hey,
+
+Attached is the postmortem for the UserProfileService outage that occurred on Friday, February 15. The
+incident lasted approximately 45 minutes and affected 168 for a subset of users.
+
+Root cause: a configuration change in the caching layer deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+366ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, Grace Mwangi acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the UserProfileService runbook, add a circuit breaker for the
+caching layer connection pool, and implement load shedding when concurrency exceeds
+366ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Talk soon,
+Oluwaseun

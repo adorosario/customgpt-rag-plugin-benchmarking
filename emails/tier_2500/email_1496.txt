@@ -1,0 +1,34 @@
+From: amara.diallo@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-08-18 06:25 AM
+Subject: Competitive analysis â€” SchedulerService market update
+
+Hello,
+
+Sharing the latest competitive landscape analysis for the SchedulerService market.
+Several developments this quarter that we should factor into our strategy.
+
+Massive Dynamic released a major update to their SchedulerService product. Key additions
+include logging pipeline support and a redesigned dashboard. Their pricing remains at
+$378,981 per seat which undercuts us by 16%. However, their enterprise
+features are still behind ours â€” no SSO, limited API access, and 378ms
+user cap on their standard plan.
+
+Market trends: the SchedulerService category grew 16% year over year. Analyst
+reports are emphasizing logging pipeline capabilities as the key differentiator for
+enterprise buyers. Our Integration Hub scores well on this dimension.
+
+Win/loss analysis: we won 152 of the last 378ms competitive deals.
+Primary win reasons: SchedulerService depth and customer support quality. Primary loss
+reasons: price sensitivity and logging pipeline ease of use. Sarah Chen from Sales
+provided the deal-level data.
+
+Recommendations: accelerate the logging pipeline simplification effort on our roadmap,
+consider a mid-market pricing tier at $378,981 to compete on price, and publish
+more SchedulerService comparison content for SEO.
+
+Full analysis is in the competitive intelligence folder. Let's discuss at the
+strategy meeting on Tuesday, September 14.
+
+Regards,
+Amara

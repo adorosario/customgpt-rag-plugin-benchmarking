@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-10-17 03:53 PM
+Subject: Customer feedback digest â€” Enterprise Suite Q2
+
+Hey,
+
+Here's the quarterly customer feedback digest for Enterprise Suite. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 100, up 430ms points from last quarter. The improvement
+is driven by the SchedulerService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 9%.
+
+Top feature requests: SchedulerService advanced filtering (100 votes), config manager
+bulk operations (430ms votes), and enhanced Enterprise Suite reporting (402ms
+votes). The filtering request aligns with what we heard in the user research study
+Wei Zhang conducted.
+
+Top complaints: SchedulerService performance during peak hours (100 mentions),
+the config manager onboarding experience (430ms mentions), and pricing
+transparency (402ms mentions). The performance issue is being addressed
+by Engineering â€” Wei Zhang expects the fix in v5.0.0-beta.
+
+Churn insights: 100 customers churned this quarter citing SchedulerService
+limitations as the primary reason. The config manager overhaul on our roadmap directly
+addresses their feedback. 9% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, August 15.
+
+Talk soon,
+Liam

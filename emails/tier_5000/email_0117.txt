@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-18 11:02 AM
+Subject: Budget review â€” Finance department Q2
+
+Hi all,
+
+Here's the Q2 budget review for the Finance department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $471,244 against a budget of 441ms. The 33% variance is
+primarily driven by the accelerated CacheLayer hiring that was approved mid-quarter.
+Personnel costs came in at 157ms which includes the 21 new hires.
+
+Overages: the rate limiter infrastructure line item exceeded budget by 33% due
+to the unplanned scaling requirements for Data Vault. I've worked with Sofia Martinez
+from Engineering to project the run rate going forward â€” we should budget an
+additional $471,244 per quarter for this category.
+
+Underspend: the CacheLayer consulting budget was only 33% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 33%
+of the total annual budget. The main risk is the rate limiter cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best,
+Ananya

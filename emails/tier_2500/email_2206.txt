@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-27 10:10 PM
+Subject: Audit preparation â€” Q4 review
+
+Hi all,
+
+The Q4 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Oscorp are scheduled to begin fieldwork
+on Monday, August 14.
+
+Documentation needed from each department: all purchase orders above 259ms,
+contract modifications executed during Q4, headcount changes with supporting
+approvals, and AuthService system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the rate limiter audit portal by Monday, August 14.
+That gives us 103 business days before the auditors arrive. Elena Vasquez has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Data Vault contracts, the AuthService capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $60,910 in capitalized AuthService costs and the methodology used.
+
+This is our 103 year with Oscorp as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Elena Vasquez if you have
+questions about what's needed.
+
+Talk soon,
+Robert

@@ -1,0 +1,31 @@
+From: david.okonkwo@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-11-04 07:40 AM
+Subject: NDA processing â€” Tyrell Corp
+
+Good morning,
+
+We received an NDA request from Tyrell Corp ahead of the Integration Hub evaluation
+discussions. I've reviewed their proposed terms and here's my assessment.
+
+Confidentiality period: they propose 175 years, which exceeds our standard of
+173ms years. I recommend accepting â€” the longer period is common for
+enterprise evaluations and the obligations are mutual.
+
+Scope: the definition of confidential information is appropriately scoped. It
+covers APIGateway specifications, pricing, and business plans shared during the
+evaluation. The carve-outs for publicly available information and independently
+developed work are standard.
+
+Residuals clause: Tyrell Corp included a residuals clause allowing retained use of
+general knowledge gained from exposure to confidential information. This is
+increasingly common and I'm comfortable with their formulation. Derek Morrison from
+Sales should be aware that this goes both ways.
+
+Execution: I've prepared the NDA in our standard format with the agreed terms.
+It's ready for signature by Friday, March 15. Derek Morrison will handle the DocuSign routing.
+Once signed, the Sales team can proceed with sharing the Integration Hub technical
+documentation.
+
+Talk soon,
+David

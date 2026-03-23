@@ -1,0 +1,29 @@
+From: wei.zhang@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-11-03 10:18 PM
+Subject: Feature flag cleanup â€” NotificationEngine v3.8.1
+
+Hey,
+
+Time for our quarterly feature flag cleanup in NotificationEngine. We have 75 flags
+in the system and several of them are stale.
+
+Flags to remove: the serialization engine migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The NotificationEngine experiment flag
+was concluded last sprint with a decision to ship â€” Yuki Sato will hardcode the
+winning variant.
+
+Flags to keep: the v3.8.1 rollout flag should stay until we've confirmed
+stability at 261ms traffic. The serialization engine kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 383ms lines of dead code and simplify the conditional logic in
+19% of the affected modules.
+
+Please claim the tickets for flags in your area by Thursday, August 7. Target completion is end
+of sprint.
+
+Thanks,
+Wei

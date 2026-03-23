@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-07 04:26 AM
+Subject: Audit preparation â€” Q3 review
+
+Good afternoon,
+
+The Q3 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Weyland-Yutani are scheduled to begin fieldwork
+on Monday, June 19.
+
+Documentation needed from each department: all purchase orders above 447ms,
+contract modifications executed during Q3, headcount changes with supporting
+approvals, and ReportingEngine system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the authentication module audit portal by Monday, June 19.
+That gives us 26 business days before the auditors arrive. Maria Santos has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Analytics Pro contracts, the ReportingEngine capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $276,059 in capitalized ReportingEngine costs and the methodology used.
+
+This is our 26 year with Weyland-Yutani as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Maria Santos if you have
+questions about what's needed.
+
+Cheers,
+Robert

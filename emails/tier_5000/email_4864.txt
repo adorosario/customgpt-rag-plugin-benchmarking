@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-07-23 04:32 PM
+Subject: FP&A update â€” Insight Engine financial model
+
+Hello,
+
+I've updated the Insight Engine financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 64 per month based
+on the last 280ms months of data. Average contract value is tracking at
+$274,033, which is 51% above our original assumption. The SchedulerService
+upsell rate of 348ms is a positive trend.
+
+Cost structure: the serialization engine hosting costs are running 51% higher than
+modeled due to increased SchedulerService usage. I've adjusted the variable cost
+per customer from 280ms to 348ms. Maria Santos from Engineering
+says the optimization project should bring this down by 51% in Q3.
+
+Break-even analysis: with the revised numbers, Insight Engine reaches contribution
+margin break-even at 64 customers, which we're projected to hit by Wednesday, December 27.
+Full break-even including allocated overhead comes at 280ms customers.
+
+Scenarios: the base case shows $274,033 in cumulative revenue by year end. The
+upside case with the Soylent Corp deal closing hits 348ms. Downside case
+assuming 51% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Best regards,
+Ananya

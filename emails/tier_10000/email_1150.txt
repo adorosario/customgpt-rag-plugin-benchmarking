@@ -1,0 +1,29 @@
+From: laura.kim@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-06-06 06:41 AM
+Subject: Cloud Connect campaign launch â€” Q4 plan
+
+Hey,
+
+Here's the campaign plan for the Cloud Connect launch in Q4. I've aligned the
+messaging with the positioning we finalized last week and mapped out the channel
+strategy.
+
+Campaign theme: highlighting the DataPipeline advantage and how Cloud Connect solves
+the key pain point around queue processor complexity. Target audience is mid-market
+and enterprise IT decision makers.
+
+Channel breakdown: 23% of budget to paid digital, 154 to content
+marketing, and the remainder to events and webinars. We're targeting a $171,981
+total spend with a goal of 93ms marketing qualified leads.
+
+Content deliverables: landing page, solution brief, customer case study featuring
+Umbrella Inc, three blog posts, and a webinar co-hosted with Sarah Chen from Product.
+All assets target completion by Tuesday, July 26.
+
+The paid campaign goes live two weeks before the official launch to build awareness.
+I'll share the creative brief for review tomorrow.
+
+Talk soon,
+Laura

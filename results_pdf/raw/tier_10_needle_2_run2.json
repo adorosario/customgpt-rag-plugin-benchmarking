@@ -1,0 +1,21 @@
+{
+  "tier": 10,
+  "question_id": "needle_2",
+  "question_type": "hard",
+  "run": 2,
+  "question": "What was the revised Q3 revenue projection from Finance?",
+  "model": "claude-sonnet-4-6",
+  "response": "None of the 10 emails in this directory contain a specific revised Q3 revenue projection from Finance. The closest reference is in `email_0005.pdf`, which mentions \"The finance team provided updated projections that look promising for the year\" \u00e2\u20ac\u201d but no specific figures or Q3 details.\n\nCould you clarify which document or system this projection might be in? It may be in a different email set or an external source.",
+  "time_seconds": 98.0,
+  "num_turns": 3,
+  "cost_usd": 0.30341105,
+  "input_tokens": 5,
+  "cache_creation_tokens": 18511,
+  "cache_read_tokens": 67977,
+  "output_tokens": 497,
+  "total_tokens": 86990,
+  "duration_api_ms": 75745,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

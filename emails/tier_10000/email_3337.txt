@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-06-11 03:11 PM
+Subject: Sprint planning â€” Analytics Pro sprint v3.8.1
+
+Good afternoon,
+
+Here's the sprint plan for Analytics Pro sprint v3.8.1. Capacity is 195 story
+points with 248ms engineers available this sprint.
+
+Committed stories: the FileStorageService integration work carries over from last sprint
+with 71ms points remaining. The new connection pool API endpoints are
+estimated at 195 points. The bug fix for the FileStorageService rendering issue
+is 248ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the connection pool performance
+optimization that Rachel Nguyen has been scouting. It's estimated at 195 points
+and would improve response time by 8%.
+
+Dependencies: the FileStorageService feature requires the API changes that Rachel Nguyen
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The connection pool work is self-contained.
+
+Risks: Rachel Nguyen is on-call this sprint which historically reduces their available
+capacity by 8%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, January 26. Let me know if the priorities look right.
+
+Talk soon,
+Sanjay

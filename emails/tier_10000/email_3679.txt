@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-07-25 11:25 PM
+Subject: Social media strategy â€” Q2
+
+Hi team,
+
+Presenting the social media strategy refresh for Q2. Based on our Enterprise Suite
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our AuthService posts are averaging 130 impressions and 41% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 41% educational content about connection pool topics, 130
+percent product highlights, and the rest for company culture and employee spotlights.
+Amara Diallo will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Enterprise Suite use cases and answer audience questions. First session on Monday, October 25 featuring
+Amara Diallo.
+
+Budget: $158,865 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 371ms new followers and 374ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Best,
+James

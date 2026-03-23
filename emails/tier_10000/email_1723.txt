@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-07-09 07:49 PM
+Subject: Payroll adjustment â€” Wednesday, December 6 cycle
+
+Hey,
+
+Several payroll adjustments need to be processed for the Wednesday, December 6 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 20 employees received approved raises effective Wednesday, December 6. The
+total monthly payroll impact is $412,802. The largest increase is for Liam Foster
+whose compensation moves from 412ms to 115ms based on the promotion
+approved in the Q2 review cycle.
+
+New hires: 20 new employees starting on Wednesday, December 6 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Liam Foster
+in People Ops has verified the documentation.
+
+Bonus payouts: the AuthService project completion bonus of $412,802 each goes to
+20 team members. These are one-time payments coded to the Engineering department
+budget. Tax withholding will be calculated at the supplemental rate of 5%.
+
+Deduction changes: 20 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from rate limiter.
+
+Please approve the batch by March 7 to ensure on-time processing.
+
+Best,
+Grace

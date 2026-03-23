@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-06-18 10:15 PM
+Subject: Social media strategy â€” Q3
+
+Good morning,
+
+Presenting the social media strategy refresh for Q3. Based on our Sync Platform
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our MessageBroker posts are averaging 116 impressions and 21% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 21% educational content about authentication module topics, 116
+percent product highlights, and the rest for company culture and employee spotlights.
+Wei Zhang will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Sync Platform use cases and answer audience questions. First session on Thursday, January 24 featuring
+Wei Zhang.
+
+Budget: $157,657 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 488ms new followers and 395ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Best,
+Laura

@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-11-30 11:44 AM
+Subject: Investment proposal â€” DataPipeline infrastructure
+
+Good morning,
+
+I've prepared the financial analysis for the proposed DataPipeline infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $435,868 upfront with 71ms in annual operating costs.
+The total 3-year cost of ownership is 214ms compared to the current
+caching layer setup at $435,868 over the same period.
+
+ROI analysis: the projected payback period is 37 months. Key benefits include
+18% reduction in infrastructure management time, improved Integration Hub performance
+that supports the revenue growth targets, and elimination of the caching layer
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $435,868 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 18% interest.
+This preserves cash for the Singapore office investment planned for Q3.
+
+Risk factors: technology lock-in with the DataPipeline vendor, though the 37-year
+contract includes an exit clause after the first year. Ananya Desai from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Wednesday, April 8 to lock in the quoted pricing. The vendor has
+given us a 37-day hold on the current rates.
+
+Regards,
+Robert

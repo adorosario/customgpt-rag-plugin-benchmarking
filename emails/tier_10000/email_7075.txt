@@ -1,0 +1,30 @@
+From: robert.kimura@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-01 06:55 PM
+Subject: Re: Expense report flagged â€” BillingModule charges
+
+Good afternoon,
+
+I noticed some items on the BillingModule expense report submitted by Maria Santos
+that need clarification before I can approve them.
+
+The event bus subscription charge of $21,381 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+238ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Globex dinner on Thursday, April 28 for $21,381 exceeds our per-person meal
+reimbursement limit of 238ms. If this was a client entertainment expense,
+it should be coded to the client development budget under BillingModule rather than
+general T&E. 106 attendees at that amount puts us at 495ms per
+person which is within the client entertainment policy.
+
+The remaining 106 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 238ms business days after approval.
+
+Please resubmit with the corrections by Thursday, April 28 so we can keep things on track.
+
+Talk soon,
+Robert

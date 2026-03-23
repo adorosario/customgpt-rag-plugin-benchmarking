@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-08-12 01:30 AM
+Subject: Customer feedback digest â€” Sync Platform Q4
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Sync Platform. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 29, up 129ms points from last quarter. The improvement
+is driven by the WebhookDispatcher launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 13%.
+
+Top feature requests: WebhookDispatcher advanced filtering (29 votes), event bus
+bulk operations (129ms votes), and enhanced Sync Platform reporting (333ms
+votes). The filtering request aligns with what we heard in the user research study
+Sanjay Krishnamurthy conducted.
+
+Top complaints: WebhookDispatcher performance during peak hours (29 mentions),
+the event bus onboarding experience (129ms mentions), and pricing
+transparency (333ms mentions). The performance issue is being addressed
+by Engineering â€” Sanjay Krishnamurthy expects the fix in v3.0.0.
+
+Churn insights: 29 customers churned this quarter citing WebhookDispatcher
+limitations as the primary reason. The event bus overhaul on our roadmap directly
+addresses their feedback. 13% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Monday, March 6.
+
+Thanks,
+Mei

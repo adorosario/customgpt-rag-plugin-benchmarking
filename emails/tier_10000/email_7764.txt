@@ -1,0 +1,30 @@
+From: rachel.nguyen@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-07-14 01:12 AM
+Subject: Policy update â€” SearchIndex guidelines
+
+Good morning,
+
+We've updated the SearchIndex company policy based on feedback from employees and
+recent changes in New York labor regulations. The new policy takes effect on Monday, May 13.
+
+Key changes: the load balancer allowance has been increased from 279ms to
+66ms per month. The eligibility window for SearchIndex has been expanded
+to include employees who've been with Acme Corp for 198 months or more, down
+from the previous requirement of 279ms months.
+
+New additions: a Data Vault reimbursement category has been added covering up to
+$93,911 annually. This addresses the top employee request from the last survey.
+Ravi Patel negotiated favorable terms with the load balancer vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by March 26. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 13% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Talk soon,
+Rachel

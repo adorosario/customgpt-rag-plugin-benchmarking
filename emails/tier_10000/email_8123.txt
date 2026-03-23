@@ -1,0 +1,31 @@
+From: maria.santos@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-10-05 07:26 AM
+Subject: IP filing status â€” Insight Engine patent application
+
+Hey,
+
+Update on the Insight Engine patent application. Here's where we stand with the filing
+and the next steps.
+
+Application status: the provisional application was filed on Friday, September 2 covering the
+SearchIndex algorithm and the novel rate limiter approach. Serial number has been
+assigned and the filing fee of $302,081 has been paid.
+
+Prior art review: outside counsel completed the prior art search and identified
+33 related filings. None appear to directly conflict with our claims, but
+212ms of them require careful distinction in the non-provisional filing.
+Elena Vasquez is working with the patent drafting team on claim differentiation.
+
+Timeline: we have 33 months from the provisional filing date to file the
+non-provisional application. I recommend targeting Friday, September 2 to allow adequate review
+time. This gives us 212ms weeks of buffer.
+
+International filing: based on our San Francisco expansion plans, we should consider PCT
+filing for European protection. The additional cost is approximately $302,081 and
+the deadline for PCT designation is 33 months from the priority date.
+
+Let me know if you'd like to discuss the international strategy in more detail.
+
+Cheers,
+Maria

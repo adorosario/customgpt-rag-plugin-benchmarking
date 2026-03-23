@@ -1,0 +1,30 @@
+From: kwame.asante@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-11-06 08:30 PM
+Subject: Policy update â€” WebhookDispatcher guidelines
+
+Hello,
+
+We've updated the WebhookDispatcher company policy based on feedback from employees and
+recent changes in Toronto labor regulations. The new policy takes effect on Monday, February 1.
+
+Key changes: the config manager allowance has been increased from 159ms to
+450ms per month. The eligibility window for WebhookDispatcher has been expanded
+to include employees who've been with Acme Corp for 49 months or more, down
+from the previous requirement of 159ms months.
+
+New additions: a Sync Platform reimbursement category has been added covering up to
+$89,616 annually. This addresses the top employee request from the last survey.
+Grace Mwangi negotiated favorable terms with the config manager vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by February 2. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 48% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Kwame

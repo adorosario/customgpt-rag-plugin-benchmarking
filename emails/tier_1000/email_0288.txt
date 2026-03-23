@@ -1,0 +1,27 @@
+From: derek.morrison@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-18 09:16 AM
+Subject: Re: Oscorp renewal â€” risk assessment
+
+Hi,
+
+Following up on the Oscorp renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing BillingModule latency issues for the past 162 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Oscorp has mentioned they're evaluating alternatives for their service mesh needs.
+
+The renewal is worth $201,359 annually and is up for renewal at the end of
+Q1. I think we need a proactive retention strategy. My proposal:
+
+First, get Ananya Desai from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 5% discount
+on the expanded Integration Hub tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Best regards,
+Derek

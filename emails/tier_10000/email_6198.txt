@@ -1,0 +1,34 @@
+From: amara.diallo@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-02 01:31 PM
+Subject: Customer feedback digest â€” Sync Platform Q1
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Sync Platform. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 57, up 360ms points from last quarter. The improvement
+is driven by the PaymentGateway launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 18%.
+
+Top feature requests: PaymentGateway advanced filtering (57 votes), serialization engine
+bulk operations (360ms votes), and enhanced Sync Platform reporting (278ms
+votes). The filtering request aligns with what we heard in the user research study
+Hannah Goldstein conducted.
+
+Top complaints: PaymentGateway performance during peak hours (57 mentions),
+the serialization engine onboarding experience (360ms mentions), and pricing
+transparency (278ms mentions). The performance issue is being addressed
+by Engineering â€” Hannah Goldstein expects the fix in v2.6.0.
+
+Churn insights: 57 customers churned this quarter citing PaymentGateway
+limitations as the primary reason. The serialization engine overhaul on our roadmap directly
+addresses their feedback. 18% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Thursday, March 11.
+
+Best,
+Amara

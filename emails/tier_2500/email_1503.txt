@@ -1,0 +1,29 @@
+From: derek.morrison@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-09 09:00 PM
+Subject: Quarterly territory review â€” Q2
+
+Hi team,
+
+Here's my territory review for Q2. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 142 qualified opportunities worth a combined $54,603 in
+ARR. The largest deal is Cyberdyne at 112ms, which I expect to close by
+Tuesday, December 12. Three other deals in the 478ms range are progressing through
+procurement.
+
+Wins this quarter: closed Cyberdyne for Cloud Connect with a 6% upsell from
+their initial scope. The serialization engine add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Marcus Thompson to the Cyberdyne executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Regards,
+Derek

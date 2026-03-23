@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-08-02 05:41 PM
+Subject: Payroll adjustment â€” Friday, February 7 cycle
+
+Good morning,
+
+Several payroll adjustments need to be processed for the Friday, February 7 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 87 employees received approved raises effective Friday, February 7. The
+total monthly payroll impact is $194,194. The largest increase is for Amara Diallo
+whose compensation moves from 68ms to 289ms based on the promotion
+approved in the Q3 review cycle.
+
+New hires: 87 new employees starting on Friday, February 7 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Amara Diallo
+in People Ops has verified the documentation.
+
+Bonus payouts: the DataPipeline project completion bonus of $194,194 each goes to
+87 team members. These are one-time payments coded to the Product department
+budget. Tax withholding will be calculated at the supplemental rate of 41%.
+
+Deduction changes: 87 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from connection pool.
+
+Please approve the batch by September 8 to ensure on-time processing.
+
+Regards,
+Grace

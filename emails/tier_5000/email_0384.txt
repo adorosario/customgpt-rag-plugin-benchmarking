@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-08-25 07:58 PM
+Subject: Press release draft â€” Sync Platform announcement
+
+Hi,
+
+The press release for the Sync Platform announcement is ready for internal review. I've
+incorporated feedback from Kwame Asante and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the SchedulerService capability and positions Acme Corp as a leader
+in the serialization engine space. We're leading with the 19 performance improvement
+stat and the Cyberdyne customer quote.
+
+Distribution plan: wire service distribution on Thursday, July 12, followed by targeted
+outreach to our 83ms media contacts in the industry. I've secured a briefing
+with SchedulerService Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Sync Platform landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 19-hour cadence on launch day.
+
+Embargo: the release is under embargo until Thursday, July 12 at 9 AM ET. Please don't share
+details externally before then. Kwame Asante has the full distribution list.
+
+Review deadline is Thursday, July 12. Please send edits as comments in the doc.
+
+Cheers,
+Sofia

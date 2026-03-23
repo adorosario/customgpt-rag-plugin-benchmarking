@@ -1,0 +1,27 @@
+From: wei.zhang@acmecorp.com
+To: maria.santos@acmecorp.com
+Date: 2025-06-26 10:39 PM
+Subject: Sprint v2.6.0 retrospective notes
+
+Hi,
+
+Here are the retrospective notes from sprint v2.6.0. Thanks to everyone who
+participated â€” we had good engagement this time.
+
+What went well: the UserProfileService feature shipped on time, Michael Brennan did an excellent
+job coordinating the cross-team dependency, and our CI pipeline reliability improved
+to 259ms from 252ms last sprint.
+
+What could improve: we underestimated the metrics collector integration work by about
+30%, which pushed two stories into the next sprint. We also had too many
+context switches mid-sprint from unplanned support requests.
+
+Action items: establish a support rotation so on-call duties don't fall on the same
+people, and break down large stories into smaller increments to improve estimation
+accuracy. Michael Brennan volunteered to draft the rotation schedule.
+
+Sprint v2.6.0 velocity was 99 points. Carrying over 8 points of unfinished
+work to the next sprint.
+
+Best,
+Wei

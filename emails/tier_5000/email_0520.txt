@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-10-23 12:39 PM
+Subject: Vendor payment schedule â€” Q1
+
+Good morning,
+
+Here's the vendor payment schedule for Q1. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Stark Industries invoice for $196,071 is due on Friday, April 11 with a
+10% early payment discount if we pay within 148 days. I recommend
+taking the discount â€” it saves us 374ms. The UserProfileService annual
+license renewal of 166ms is due Friday, April 11 with no discount available.
+
+Standard schedule: 148 vendor invoices totaling $196,071 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-166ms terms with payments going out every 148 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The serialization engine vendor
+overbilled us by $196,071 on the UserProfileService usage charges. James Oduya is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q1 are projected at $196,071. This
+is 10% higher than last quarter due to the UserProfileService infrastructure
+investment and the London office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Regards,
+Grace

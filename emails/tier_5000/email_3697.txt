@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-06 12:08 PM
+Subject: FP&A update â€” Integration Hub financial model
+
+Good morning,
+
+I've updated the Integration Hub financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 164 per month based
+on the last 290ms months of data. Average contract value is tracking at
+$277,709, which is 31% above our original assumption. The BillingModule
+upsell rate of 204ms is a positive trend.
+
+Cost structure: the config manager hosting costs are running 31% higher than
+modeled due to increased BillingModule usage. I've adjusted the variable cost
+per customer from 290ms to 204ms. Hannah Goldstein from Engineering
+says the optimization project should bring this down by 31% in Q1.
+
+Break-even analysis: with the revised numbers, Integration Hub reaches contribution
+margin break-even at 164 customers, which we're projected to hit by Monday, June 27.
+Full break-even including allocated overhead comes at 290ms customers.
+
+Scenarios: the base case shows $277,709 in cumulative revenue by year end. The
+upside case with the Globex deal closing hits 204ms. Downside case
+assuming 31% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Regards,
+Ananya

@@ -1,0 +1,34 @@
+From: mei.lin@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-06-18 11:58 AM
+Subject: Competitive analysis â€” UserProfileService market update
+
+Hi all,
+
+Sharing the latest competitive landscape analysis for the UserProfileService market.
+Several developments this quarter that we should factor into our strategy.
+
+Tyrell Corp released a major update to their UserProfileService product. Key additions
+include event bus support and a redesigned dashboard. Their pricing remains at
+$111,621 per seat which undercuts us by 27%. However, their enterprise
+features are still behind ours â€” no SSO, limited API access, and 347ms
+user cap on their standard plan.
+
+Market trends: the UserProfileService category grew 27% year over year. Analyst
+reports are emphasizing event bus capabilities as the key differentiator for
+enterprise buyers. Our Data Vault scores well on this dimension.
+
+Win/loss analysis: we won 113 of the last 347ms competitive deals.
+Primary win reasons: UserProfileService depth and customer support quality. Primary loss
+reasons: price sensitivity and event bus ease of use. Marcus Thompson from Sales
+provided the deal-level data.
+
+Recommendations: accelerate the event bus simplification effort on our roadmap,
+consider a mid-market pricing tier at $111,621 to compete on price, and publish
+more UserProfileService comparison content for SEO.
+
+Full analysis is in the competitive intelligence folder. Let's discuss at the
+strategy meeting on Wednesday, May 5.
+
+Cheers,
+Mei

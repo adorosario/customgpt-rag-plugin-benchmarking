@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-09-20 10:30 AM
+Subject: Roadmap update â€” Cloud Connect Q2
+
+Hi team,
+
+Here's the updated Cloud Connect roadmap for Q2. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the AnalyticsDashboard integration feature launches on Wednesday, December 5. This is our
+top customer request with 112 votes on the feedback board. Grace Mwangi from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the connection pool overhaul is scoped for mid-Q2. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 112 sprints with 324ms engineers allocated.
+
+Exploring: the AnalyticsDashboard AI feature that Sales has been requesting. We need more
+user research before committing â€” Grace Mwangi is running interviews with 112
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the connection pool redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 112-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Regards,
+Liam

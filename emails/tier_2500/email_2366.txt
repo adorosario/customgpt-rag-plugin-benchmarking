@@ -1,0 +1,33 @@
+From: david.okonkwo@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-08-25 12:47 AM
+Subject: Data privacy assessment â€” Enterprise Suite
+
+Good afternoon,
+
+The data privacy impact assessment for Enterprise Suite is complete. I'm flagging the key
+findings and required actions for the team.
+
+Data inventory: Enterprise Suite processes 128 categories of personal data including
+names, email addresses, and usage analytics. The data flows through our SearchIndex
+infrastructure and is stored in the service mesh environment in Berlin.
+
+Risk findings: overall risk level is moderate. The primary concern is the
+cross-border data transfer to the Berlin processing center. We need to implement
+standard contractual clauses with our SearchIndex sub-processor. Kwame Asante from
+Engineering confirmed the technical safeguards are already in place.
+
+Consent mechanism: the current Enterprise Suite consent flow meets requirements for
+53% of our user base. For users in regulated jurisdictions, we need to add
+explicit opt-in for the service mesh analytics features. This is a 128-sprint
+effort according to the Product team.
+
+Records of processing: I've updated our data register to include all Enterprise Suite
+processing activities. The register needs to be reviewed every 472ms months
+per our policy.
+
+Next step: executive sign-off on the DPIA by Thursday, August 17. Please review the full
+report in the shared drive.
+
+Talk soon,
+David

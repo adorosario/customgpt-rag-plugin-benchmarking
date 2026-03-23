@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-07-09 10:08 PM
+Subject: Feature spec â€” SearchIndex integration
+
+Hey everyone,
+
+The feature spec for the SearchIndex integration is ready for review. This is
+targeting the v1.9.5 release in Q3.
+
+Problem statement: 28% of our enterprise prospects cite the lack of
+SearchIndex integration as a blocker. The current workaround through the
+queue processor API is unreliable and requires 117 hours of custom development
+from customers.
+
+Proposed solution: native SearchIndex integration with bi-directional sync.
+Users configure the connection through the Insight Engine settings page and data
+flows automatically. The sync runs every 313ms minutes with conflict
+resolution handled by our algorithm.
+
+Scope: phase 1 covers read and write operations for the core SearchIndex objects.
+Phase 2 adds real-time webhooks and custom field mapping. Wei Zhang from Engineering
+estimates 117 sprints for phase 1 and 313ms for phase 2.
+
+Success metrics: 117 enterprise customers adopt the integration within 90 days
+of launch, SearchIndex related support tickets decrease by 28%, and the
+feature contributes to $267,183 in new ARR.
+
+Please review the full spec in Confluence and leave comments by Monday, February 1.
+
+Thanks,
+Mei

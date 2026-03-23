@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-09-23 08:01 AM
+Subject: Re: Quota update â€” Q2 adjustments
+
+Hey,
+
+Thanks for sharing the Q2 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $172,761 reflects a 12% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 171 of my projected deals depend on the Data Vault launch happening on
+schedule. If that slips, I'll need the WebhookDispatcher backup deals to come through.
+
+Territory changes: I see that the New York accounts have been reassigned to
+Elena Vasquez. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Soylent Corp â€” we've been building that
+relationship for 273ms months.
+
+Regarding the new authentication module incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with authentication module upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Thanks,
+Hannah

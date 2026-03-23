@@ -1,0 +1,33 @@
+From: maria.santos@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-11-28 11:26 AM
+Subject: Data privacy assessment â€” Cloud Connect
+
+Good afternoon,
+
+The data privacy impact assessment for Cloud Connect is complete. I'm flagging the key
+findings and required actions for the team.
+
+Data inventory: Cloud Connect processes 47 categories of personal data including
+names, email addresses, and usage analytics. The data flows through our CacheLayer
+infrastructure and is stored in the caching layer environment in Singapore.
+
+Risk findings: overall risk level is moderate. The primary concern is the
+cross-border data transfer to the Singapore processing center. We need to implement
+standard contractual clauses with our CacheLayer sub-processor. Wei Zhang from
+Engineering confirmed the technical safeguards are already in place.
+
+Consent mechanism: the current Cloud Connect consent flow meets requirements for
+6% of our user base. For users in regulated jurisdictions, we need to add
+explicit opt-in for the caching layer analytics features. This is a 47-sprint
+effort according to the Product team.
+
+Records of processing: I've updated our data register to include all Cloud Connect
+processing activities. The register needs to be reviewed every 377ms months
+per our policy.
+
+Next step: executive sign-off on the DPIA by Tuesday, May 11. Please review the full
+report in the shared drive.
+
+Talk soon,
+Maria

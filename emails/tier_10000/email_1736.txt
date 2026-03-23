@@ -1,0 +1,30 @@
+From: jun.tanaka@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-11-15 02:27 PM
+Subject: Client meeting recap â€” Oscorp Monday, November 2
+
+Hi all,
+
+Recapping today's meeting with Oscorp. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their WebhookDispatcher
+team lead. From ours: myself, Tomoko Nakamura from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their rate limiter vendors
+from three down to one. Our Sync Platform covers 54% of their requirements
+natively. The remaining gap is around WebhookDispatcher integrations, which Tomoko Nakamura
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Monday, November 2 and begin
+implementation in Q3. Budget has been pre-approved at $283,443 for the
+first year.
+
+Action items: send the Sync Platform technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their rate limiter workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Talk soon,
+Jun

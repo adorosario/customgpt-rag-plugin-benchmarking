@@ -1,0 +1,29 @@
+From: patrick.obrien@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-09-14 01:22 PM
+Subject: Policy update â€” MessageBroker guidelines
+
+Hi all,
+
+We've updated the MessageBroker company policy based on feedback from employees and
+recent changes in New York labor regulations. The new policy takes effect on Friday, July 18.
+
+Key changes: the queue processor allowance has been increased from 295ms to
+89ms per month. The eligibility window for MessageBroker has been expanded
+to include employees who've been with Acme Corp for 53 months or more, down
+from the previous requirement of 295ms months.
+
+New additions: a Enterprise Suite reimbursement category has been added covering up to
+$500,186 annually. This addresses the top employee request from the last survey.
+Carlos Rivera negotiated favorable terms with the queue processor vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by March 1. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 60% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Patrick

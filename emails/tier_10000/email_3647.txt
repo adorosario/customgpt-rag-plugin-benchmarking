@@ -1,0 +1,34 @@
+From: amara.diallo@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-04 10:06 AM
+Subject: Customer feedback digest â€” Insight Engine Q1
+
+Hi,
+
+Here's the quarterly customer feedback digest for Insight Engine. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 124, up 228ms points from last quarter. The improvement
+is driven by the UserProfileService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 18%.
+
+Top feature requests: UserProfileService advanced filtering (124 votes), load balancer
+bulk operations (228ms votes), and enhanced Insight Engine reporting (268ms
+votes). The filtering request aligns with what we heard in the user research study
+Kwame Asante conducted.
+
+Top complaints: UserProfileService performance during peak hours (124 mentions),
+the load balancer onboarding experience (228ms mentions), and pricing
+transparency (268ms mentions). The performance issue is being addressed
+by Engineering â€” Kwame Asante expects the fix in v3.8.1.
+
+Churn insights: 124 customers churned this quarter citing UserProfileService
+limitations as the primary reason. The load balancer overhaul on our roadmap directly
+addresses their feedback. 18% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, September 7.
+
+Cheers,
+Amara

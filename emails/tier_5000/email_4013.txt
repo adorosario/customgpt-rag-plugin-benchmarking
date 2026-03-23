@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-10-31 02:16 AM
+Subject: Sprint planning â€” Cloud Connect sprint v4.1.0
+
+Hi team,
+
+Here's the sprint plan for Cloud Connect sprint v4.1.0. Capacity is 43 story
+points with 436ms engineers available this sprint.
+
+Committed stories: the NotificationEngine integration work carries over from last sprint
+with 384ms points remaining. The new rate limiter API endpoints are
+estimated at 43 points. The bug fix for the NotificationEngine rendering issue
+is 436ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the rate limiter performance
+optimization that Yuki Sato has been scouting. It's estimated at 43 points
+and would improve response time by 50%.
+
+Dependencies: the NotificationEngine feature requires the API changes that Yuki Sato
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The rate limiter work is self-contained.
+
+Risks: Yuki Sato is on-call this sprint which historically reduces their available
+capacity by 50%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, February 25. Let me know if the priorities look right.
+
+Talk soon,
+Mei

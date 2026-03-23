@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-11-20 02:40 PM
+Subject: Audit preparation â€” Q3 review
+
+Good morning,
+
+The Q3 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Cyberdyne are scheduled to begin fieldwork
+on Tuesday, March 19.
+
+Documentation needed from each department: all purchase orders above 498ms,
+contract modifications executed during Q3, headcount changes with supporting
+approvals, and UserProfileService system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the event bus audit portal by Tuesday, March 19.
+That gives us 63 business days before the auditors arrive. Dmitri Volkov has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Insight Engine contracts, the UserProfileService capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $199,965 in capitalized UserProfileService costs and the methodology used.
+
+This is our 63 year with Cyberdyne as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Dmitri Volkov if you have
+questions about what's needed.
+
+Thanks,
+Ananya

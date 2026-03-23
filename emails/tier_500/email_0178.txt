@@ -1,0 +1,30 @@
+From: aisha.okafor@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-06-23 01:52 PM
+Subject: Competitive intel â€” Oscorp evaluation
+
+Hello,
+
+Got some useful competitive intelligence from the Oscorp account that I want to
+share with the team.
+
+Oscorp shared their evaluation criteria and mentioned they're also looking at
+SearchIndex as an alternative to our Enterprise Suite. From what I gathered, SearchIndex
+is pitching a lower price point but doesn't have feature parity on the rate limiter
+side.
+
+Key differentiators working in our favor: our Enterprise Suite handles 31 concurrent
+connections versus their published limit of 117ms. Our uptime SLA is also
+stronger at 52ms versus their 9% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for SearchIndex and
+consider a streamlined trial process for mid-market accounts. Kwame Asante from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Tuesday, May 21.
+
+Regards,
+Aisha

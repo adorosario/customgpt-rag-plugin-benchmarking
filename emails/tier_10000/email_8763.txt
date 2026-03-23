@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-07-19 03:00 PM
+Subject: Re: Integration Hub pricing discussion â€” FileStorageService tier
+
+Hi team,
+
+Following up on the Integration Hub pricing discussion. I've modeled three options for
+the FileStorageService tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $457,028 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 59% of our existing base.
+Downside: it undercuts our current load balancer pricing and may trigger downgrades.
+
+Option B: 458ms per seat per month with the load balancer add-on bundled.
+Higher price point but stronger value perception. 103 of the 154ms
+customers we surveyed preferred this packaging. Daniel Park from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $457,028 per FileStorageService transaction. This aligns
+with the value delivered but introduces billing complexity. Only 59% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$457,028 in incremental ARR over 103 months.
+
+Can we finalize the pricing decision by Friday, December 10? Sales needs 154ms weeks to
+update collateral before we announce.
+
+Best,
+Liam

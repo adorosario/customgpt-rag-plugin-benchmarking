@@ -1,0 +1,29 @@
+From: aisha.okafor@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-06 05:31 AM
+Subject: Re: Quota update â€” Q3 adjustments
+
+Hi all,
+
+Thanks for sharing the Q3 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $366,238 reflects a 45% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 93 of my projected deals depend on the Cloud Connect launch happening on
+schedule. If that slips, I'll need the AuthService backup deals to come through.
+
+Territory changes: I see that the Berlin accounts have been reassigned to
+Mei Lin. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Massive Dynamic â€” we've been building that
+relationship for 100ms months.
+
+Regarding the new event bus incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with event bus upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Best,
+Aisha

@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-09-29 02:01 AM
+Subject: Audit preparation â€” Q2 review
+
+Hello,
+
+The Q2 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Umbrella Inc are scheduled to begin fieldwork
+on Thursday, April 8.
+
+Documentation needed from each department: all purchase orders above 175ms,
+contract modifications executed during Q2, headcount changes with supporting
+approvals, and CacheLayer system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the rate limiter audit portal by Thursday, April 8.
+That gives us 48 business days before the auditors arrive. Elena Vasquez has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Insight Engine contracts, the CacheLayer capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $453,441 in capitalized CacheLayer costs and the methodology used.
+
+This is our 48 year with Umbrella Inc as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Elena Vasquez if you have
+questions about what's needed.
+
+Cheers,
+Grace

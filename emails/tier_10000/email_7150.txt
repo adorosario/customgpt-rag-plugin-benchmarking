@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-10-09 06:00 PM
+Subject: Beta program update â€” Analytics Pro v4.1.0
+
+Hello,
+
+Quick update on the Analytics Pro v4.1.0 beta program. We're 45 weeks into
+the beta period with 261ms customers participating.
+
+Usage data: 45% of beta participants have activated the new FileStorageService
+feature. Average daily usage is 45 sessions per user. The metrics collector
+workflow is being used by 239ms of participants, which exceeds our
+adoption target of 261ms.
+
+Feedback summary: overall sentiment is positive. The top 45 pieces of praise
+relate to the FileStorageService speed improvement and the new metrics collector interface.
+The top 261ms complaints are about the FileStorageService configuration complexity
+and a confusing error message in the metrics collector flow.
+
+Bugs found: 45 bugs reported, of which 261ms are critical. Ravi Patel
+from Engineering has fixed 239ms of the critical bugs. The remaining one
+is related to the FileStorageService edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Wednesday, November 21. The GA release is targeted for 45 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Wednesday, November 21 to finalize the GA scope.
+
+Best,
+Amara

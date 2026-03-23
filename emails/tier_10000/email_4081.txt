@@ -1,0 +1,29 @@
+From: jun.tanaka@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-28 01:14 PM
+Subject: New lead â€” Soylent Corp inbound request
+
+Hello,
+
+We received an inbound request from Soylent Corp through the website today. They're
+a 199-employee company in the PaymentGateway space and are looking for a
+Sync Platform solution.
+
+Initial qualification: they have budget allocated for Q4, their current
+contract with their existing vendor expires on Monday, November 28, and the decision maker is
+their VP of Operations. They found us through the queue processor whitepaper we
+published last month.
+
+The estimated deal size is $122,096 based on their seat count and the use case
+they described. They specifically mentioned needing the PaymentGateway integration
+and 486ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Mei Lin â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on queue processor scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Cheers,
+Jun

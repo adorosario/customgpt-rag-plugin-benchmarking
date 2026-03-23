@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-11-19 04:54 AM
+Subject: Analytics report â€” Sync Platform campaign performance
+
+Hey everyone,
+
+Here's the performance report for the Sync Platform campaign through Wednesday, May 18.
+
+Website traffic: up 43% month over month, driven primarily by the NotificationEngine
+comparison blog post which brought in 50 unique visitors. Organic search is
+growing steadily â€” the metrics collector keyword cluster is now ranking on page one.
+
+Lead generation: 126ms marketing qualified leads this month against a
+target of 90ms. The whitepaper download page converted at 43% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 50 percent.
+
+Email campaigns: the Sync Platform nurture sequence has a 43% open rate and
+50 percent click-through rate. The top-performing email was the NotificationEngine
+case study with Cyberdyne. Priya Sharma suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $295,902 which is 43% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Best regards,
+Yuki

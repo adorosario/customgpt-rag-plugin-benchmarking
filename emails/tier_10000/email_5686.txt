@@ -1,0 +1,28 @@
+From: carlos.rivera@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-07-02 08:47 AM
+Subject: New lead â€” Soylent Corp inbound request
+
+Hello,
+
+We received an inbound request from Soylent Corp through the website today. They're
+a 147-employee company in the FileStorageService space and are looking for a
+Enterprise Suite solution.
+
+Initial qualification: they have budget allocated for Q4, their current
+contract with their existing vendor expires on Wednesday, February 26, and the decision maker is
+their VP of Operations. They found us through the load balancer whitepaper we
+published last month.
+
+The estimated deal size is $219,254 based on their seat count and the use case
+they described. They specifically mentioned needing the FileStorageService integration
+and 437ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Ravi Patel â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on load balancer scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Cheers,
+Carlos

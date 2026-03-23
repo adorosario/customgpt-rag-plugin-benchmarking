@@ -1,0 +1,34 @@
+From: liam.foster@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-23 07:22 AM
+Subject: Customer feedback digest â€” Cloud Connect Q2
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Cloud Connect. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 165, up 234ms points from last quarter. The improvement
+is driven by the UserProfileService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 22%.
+
+Top feature requests: UserProfileService advanced filtering (165 votes), config manager
+bulk operations (234ms votes), and enhanced Cloud Connect reporting (303ms
+votes). The filtering request aligns with what we heard in the user research study
+Ravi Patel conducted.
+
+Top complaints: UserProfileService performance during peak hours (165 mentions),
+the config manager onboarding experience (234ms mentions), and pricing
+transparency (303ms mentions). The performance issue is being addressed
+by Engineering â€” Ravi Patel expects the fix in v2.4.1.
+
+Churn insights: 165 customers churned this quarter citing UserProfileService
+limitations as the primary reason. The config manager overhaul on our roadmap directly
+addresses their feedback. 22% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Tuesday, January 23.
+
+Best,
+Liam

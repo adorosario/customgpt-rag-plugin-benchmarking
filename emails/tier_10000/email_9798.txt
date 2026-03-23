@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-10-10 06:22 AM
+Subject: Tax planning â€” Q2 estimated payments
+
+Hi team,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the SearchIndex investment
+deductions.
+
+Federal estimate: $22,916 based on projected taxable income of 206ms.
+This reflects the SearchIndex depreciation deductions and the R&D tax credit for
+the Data Vault development costs. Alex Chen from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $22,916 for our primary jurisdiction and 403ms for the
+Singapore office based on the apportionment factors. The Singapore rate change that
+takes effect on Wednesday, August 13 will impact our Q2 estimate by approximately 100
+percent.
+
+International: with the Singapore office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Alex Chen to handle
+the registration. Setup cost is $22,916 with ongoing compliance costs of
+403ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Wednesday, August 13. I'll prepare the
+payment authorization for your signature by June 19. Underpayment penalties
+start at 47% so timely filing is important.
+
+Best,
+Grace

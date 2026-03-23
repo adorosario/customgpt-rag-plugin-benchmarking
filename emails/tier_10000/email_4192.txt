@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-29 11:57 PM
+Subject: A/B test results â€” ReportingEngine experiment
+
+Hey,
+
+The ReportingEngine A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 41 days with 464ms users in each cohort.
+
+Variant A (control): the existing queue processor flow. Conversion rate of
+209ms with an average task completion time of 41 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified ReportingEngine step.
+Conversion rate of 464ms with task completion time of 209ms seconds.
+This represents a 16% improvement in conversion and 41 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 41 to 464ms
+in the treatment group. Support ticket volume for ReportingEngine related issues
+decreased by 16%. No negative impact on queue processor engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Tomoko Nakamura from Engineering can have this
+deployed by Thursday, November 1.
+
+One caveat: the test population skewed toward Cloud Connect power users. We should
+monitor new user behavior closely for the first 41 weeks after full rollout.
+
+Regards,
+Mei

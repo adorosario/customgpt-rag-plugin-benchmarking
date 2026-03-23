@@ -1,0 +1,31 @@
+From: fatima.al-rashid@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-11-06 06:16 AM
+Subject: Onboarding schedule â€” new hire starting Monday, September 24
+
+Good morning,
+
+We have a new team member joining Engineering on Monday, September 24. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, MessageBroker systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Grace Mwangi will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Data Vault and the queue processor tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Monday, September 24. All software licenses including MessageBroker and queue processor access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 118 people to schedule intro meetings with, and first
+286ms-day goals. Please send these to Grace Mwangi in People Ops.
+
+Welcome email goes out 118 days before start date.
+
+Best,
+Fatima

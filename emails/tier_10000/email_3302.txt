@@ -1,0 +1,29 @@
+From: dmitri.volkov@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-08-29 04:22 PM
+Subject: Re: Enterprise Suite demo feedback from Tyrell Corp
+
+Hey everyone,
+
+Great news from the Tyrell Corp demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the event bus dashboard got the biggest reaction. Their
+current tool requires 128 manual steps to accomplish what our Enterprise Suite does
+automatically. The SearchIndex integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 291ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v3.0.0 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Priya Sharma, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Enterprise Suite trial environment set up for their team of
+128 evaluators. I'll submit the trial request today. Target close date
+remains Thursday, November 11.
+
+Thanks,
+Dmitri

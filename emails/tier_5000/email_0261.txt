@@ -1,0 +1,29 @@
+From: grace.mwangi@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-11-28 03:01 PM
+Subject: Re: Expense report flagged â€” DataPipeline charges
+
+Good morning,
+
+I noticed some items on the DataPipeline expense report submitted by Liam Foster
+that need clarification before I can approve them.
+
+The serialization engine subscription charge of $293,711 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+326ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Globex dinner on Wednesday, November 27 for $293,711 exceeds our per-person meal
+reimbursement limit of 326ms. If this was a client entertainment expense,
+it should be coded to the client development budget under DataPipeline rather than
+general T&E. 39 attendees at that amount puts us at 210ms per
+person which is within the client entertainment policy.
+
+The remaining 39 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 326ms business days after approval.
+
+Please resubmit with the corrections by Wednesday, November 27 so we can keep things on track.
+
+Regards,
+Grace

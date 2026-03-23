@@ -1,0 +1,29 @@
+From: marcus.thompson@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-09-03 09:35 AM
+Subject: Feature flag cleanup â€” FileStorageService v2.1.0
+
+Hey,
+
+Time for our quarterly feature flag cleanup in FileStorageService. We have 27 flags
+in the system and several of them are stale.
+
+Flags to remove: the authentication module migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The FileStorageService experiment flag
+was concluded last sprint with a decision to ship â€” Oluwaseun Adeyemi will hardcode the
+winning variant.
+
+Flags to keep: the v2.1.0 rollout flag should stay until we've confirmed
+stability at 375ms traffic. The authentication module kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 332ms lines of dead code and simplify the conditional logic in
+33% of the affected modules.
+
+Please claim the tickets for flags in your area by Tuesday, October 16. Target completion is end
+of sprint.
+
+Best regards,
+Marcus

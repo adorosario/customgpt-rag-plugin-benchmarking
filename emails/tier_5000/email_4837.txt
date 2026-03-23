@@ -1,0 +1,30 @@
+From: maria.santos@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-10-03 05:14 PM
+Subject: Board resolution â€” Cloud Connect approval
+
+Good afternoon,
+
+The board resolution for the Cloud Connect initiative has been drafted and is ready
+for circulation. Here's a summary of the key provisions.
+
+Authorization: the resolution authorizes management to proceed with the PaymentGateway
+investment of up to $475,877 over 90 fiscal quarters. This covers development
+costs, infrastructure, and the queue processor vendor contract.
+
+Reporting requirements: management will provide quarterly updates on Cloud Connect
+progress to the board, including financial performance against the $475,877 budget
+and key milestones. Aisha Okafor from Finance will prepare the reports.
+
+Risk acknowledgment: the resolution includes a risk disclosure covering technology
+risk, market risk, and the competitive landscape in the PaymentGateway space. The
+board's fiduciary obligations are addressed in section 90.
+
+Signing: we need signatures from 271ms board members for a valid resolution.
+I've prepared the signature pages and will route via DocuSign on Wednesday, August 8. The
+effective date of the resolution will be the date of the last required signature.
+
+Please review the draft and send any comments by Wednesday, August 8.
+
+Thanks,
+Maria

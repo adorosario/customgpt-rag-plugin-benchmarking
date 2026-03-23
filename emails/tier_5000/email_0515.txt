@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-11-17 03:03 PM
+Subject: Quarterly territory review â€” Q4
+
+Hey everyone,
+
+Here's my territory review for Q4. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 172 qualified opportunities worth a combined $97,323 in
+ARR. The largest deal is Pied Piper at 181ms, which I expect to close by
+Wednesday, October 8. Three other deals in the 286ms range are progressing through
+procurement.
+
+Wins this quarter: closed Pied Piper for Integration Hub with a 11% upsell from
+their initial scope. The rate limiter add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Grace Mwangi to the Pied Piper executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Best,
+Dmitri

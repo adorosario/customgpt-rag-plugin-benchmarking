@@ -1,0 +1,32 @@
+From: amara.diallo@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-17 09:17 AM
+Subject: Sprint planning â€” Sync Platform sprint v1.9.5
+
+Good morning,
+
+Here's the sprint plan for Sync Platform sprint v1.9.5. Capacity is 191 story
+points with 117ms engineers available this sprint.
+
+Committed stories: the UserProfileService integration work carries over from last sprint
+with 310ms points remaining. The new queue processor API endpoints are
+estimated at 191 points. The bug fix for the UserProfileService rendering issue
+is 117ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the queue processor performance
+optimization that Daniel Park has been scouting. It's estimated at 191 points
+and would improve response time by 14%.
+
+Dependencies: the UserProfileService feature requires the API changes that Daniel Park
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The queue processor work is self-contained.
+
+Risks: Daniel Park is on-call this sprint which historically reduces their available
+capacity by 14%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, December 8. Let me know if the priorities look right.
+
+Talk soon,
+Amara

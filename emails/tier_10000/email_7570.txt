@@ -1,0 +1,30 @@
+From: patrick.obrien@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-11-23 10:50 PM
+Subject: Policy update â€” PaymentGateway guidelines
+
+Hi,
+
+We've updated the PaymentGateway company policy based on feedback from employees and
+recent changes in Singapore labor regulations. The new policy takes effect on Friday, December 26.
+
+Key changes: the load balancer allowance has been increased from 143ms to
+206ms per month. The eligibility window for PaymentGateway has been expanded
+to include employees who've been with Acme Corp for 155 months or more, down
+from the previous requirement of 143ms months.
+
+New additions: a Integration Hub reimbursement category has been added covering up to
+$215,724 annually. This addresses the top employee request from the last survey.
+Dmitri Volkov negotiated favorable terms with the load balancer vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by August 16. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 7% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Thanks,
+Patrick

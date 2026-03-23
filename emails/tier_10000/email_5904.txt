@@ -1,0 +1,26 @@
+From: dmitri.volkov@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-08-28 10:29 PM
+Subject: Pipeline update â€” Globex deal status
+
+Hi team,
+
+Quick update on the Globex opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $319,005 for the Cloud Connect deployment. The
+decision timeline is end of Q1. Their main concern remains the integration
+with their existing SearchIndex infrastructure, which is why I've looped in Elena Vasquez
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Globex is also evaluating one other vendor but our
+Cloud Connect demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our authentication module capability.
+
+Next steps: technical architecture session on Tuesday, June 9, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 11%.
+
+Cheers,
+Dmitri

@@ -1,0 +1,29 @@
+From: carlos.rivera@acmecorp.com
+To: aisha.okafor@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-10-03 04:05 AM
+Subject: Sales engineering request â€” Tyrell Corp POC
+
+Hey everyone,
+
+Requesting SE support for a proof-of-concept with Tyrell Corp. This is a $278,023
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Enterprise Suite can handle 81
+transactions per second with their SearchIndex data format. The test needs to
+run against their staging environment and demonstrate the queue processor capability
+under realistic load.
+
+Timeline: Tyrell Corp wants the POC completed within 384ms business days
+starting Wednesday, June 5. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Sanjay Krishnamurthy for the technical configuration and someone from
+the SearchIndex team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q1. Let me know if we can make this timeline work.
+
+Talk soon,
+Carlos

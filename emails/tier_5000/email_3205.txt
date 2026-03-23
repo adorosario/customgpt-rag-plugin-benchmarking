@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-07-18 10:38 PM
+Subject: Sprint planning â€” Enterprise Suite sprint v4.1.0
+
+Hi all,
+
+Here's the sprint plan for Enterprise Suite sprint v4.1.0. Capacity is 168 story
+points with 295ms engineers available this sprint.
+
+Committed stories: the APIGateway integration work carries over from last sprint
+with 353ms points remaining. The new authentication module API endpoints are
+estimated at 168 points. The bug fix for the APIGateway rendering issue
+is 295ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the authentication module performance
+optimization that Carlos Rivera has been scouting. It's estimated at 168 points
+and would improve response time by 34%.
+
+Dependencies: the APIGateway feature requires the API changes that Carlos Rivera
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The authentication module work is self-contained.
+
+Risks: Carlos Rivera is on-call this sprint which historically reduces their available
+capacity by 34%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Friday, January 17. Let me know if the priorities look right.
+
+Thanks,
+Daniel

@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-08-10 03:28 PM
+Subject: Customer feedback digest â€” Enterprise Suite Q3
+
+Hi,
+
+Here's the quarterly customer feedback digest for Enterprise Suite. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 94, up 83ms points from last quarter. The improvement
+is driven by the NotificationEngine launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 60%.
+
+Top feature requests: NotificationEngine advanced filtering (94 votes), caching layer
+bulk operations (83ms votes), and enhanced Enterprise Suite reporting (267ms
+votes). The filtering request aligns with what we heard in the user research study
+Oluwaseun Adeyemi conducted.
+
+Top complaints: NotificationEngine performance during peak hours (94 mentions),
+the caching layer onboarding experience (83ms mentions), and pricing
+transparency (267ms mentions). The performance issue is being addressed
+by Engineering â€” Oluwaseun Adeyemi expects the fix in v4.1.0.
+
+Churn insights: 94 customers churned this quarter citing NotificationEngine
+limitations as the primary reason. The caching layer overhaul on our roadmap directly
+addresses their feedback. 60% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Monday, December 22.
+
+Best regards,
+Daniel

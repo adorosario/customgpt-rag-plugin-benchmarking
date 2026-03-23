@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-10-30 11:05 AM
+Subject: Re: Enterprise Suite pricing discussion â€” FileStorageService tier
+
+Hey,
+
+Following up on the Enterprise Suite pricing discussion. I've modeled three options for
+the FileStorageService tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $400,427 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 34% of our existing base.
+Downside: it undercuts our current metrics collector pricing and may trigger downgrades.
+
+Option B: 153ms per seat per month with the metrics collector add-on bundled.
+Higher price point but stronger value perception. 97 of the 183ms
+customers we surveyed preferred this packaging. Yuki Sato from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $400,427 per FileStorageService transaction. This aligns
+with the value delivered but introduces billing complexity. Only 34% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$400,427 in incremental ARR over 97 months.
+
+Can we finalize the pricing decision by Thursday, April 24? Sales needs 183ms weeks to
+update collateral before we announce.
+
+Best,
+Sanjay

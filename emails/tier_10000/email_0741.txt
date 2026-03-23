@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-08-09 01:36 PM
+Subject: Re: Customer story â€” Wayne Enterprises case study
+
+Hey,
+
+Great update on the Wayne Enterprises case study. I've finished the first draft and want
+to share the results we're highlighting.
+
+Headline stat: Wayne Enterprises saw a 19% reduction in caching layer processing time
+after deploying Integration Hub. This translates to $346,131 in annual cost savings
+based on their team size of 53 people.
+
+Story arc: the narrative follows their journey from evaluating CacheLayer
+alternatives to full deployment. The strongest section is the quote from their CTO
+about how Integration Hub simplified their caching layer workflow.
+
+Approval status: Wayne Enterprises's marketing team has reviewed and approved the draft with
+minor edits. They're comfortable with us publishing by Wednesday, May 28. Elena Vasquez coordinated
+the approval process.
+
+Distribution plan: blog post with pull quotes, one-page PDF for Sales enablement,
+and a 53-minute video summary. The video production is scheduled for next week.
+
+Can you review the draft and send feedback by Wednesday, May 28? I want to finalize before
+the Q2 campaign kickoff.
+
+Best,
+Sofia

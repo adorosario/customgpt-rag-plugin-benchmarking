@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-09-27 07:20 AM
+Subject: Budget review â€” Engineering department Q2
+
+Hello,
+
+Here's the Q2 budget review for the Engineering department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $262,370 against a budget of 413ms. The 19% variance is
+primarily driven by the accelerated BillingModule hiring that was approved mid-quarter.
+Personnel costs came in at 471ms which includes the 49 new hires.
+
+Overages: the event bus infrastructure line item exceeded budget by 19% due
+to the unplanned scaling requirements for Data Vault. I've worked with Derek Morrison
+from Engineering to project the run rate going forward â€” we should budget an
+additional $262,370 per quarter for this category.
+
+Underspend: the BillingModule consulting budget was only 19% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 19%
+of the total annual budget. The main risk is the event bus cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Thanks,
+Grace

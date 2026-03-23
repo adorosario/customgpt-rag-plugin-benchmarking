@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-07-25 11:08 AM
+Subject: Audit preparation â€” Q3 review
+
+Hey everyone,
+
+The Q3 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Weyland-Yutani are scheduled to begin fieldwork
+on Wednesday, August 21.
+
+Documentation needed from each department: all purchase orders above 433ms,
+contract modifications executed during Q3, headcount changes with supporting
+approvals, and FileStorageService system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the serialization engine audit portal by Wednesday, August 21.
+That gives us 46 business days before the auditors arrive. Sarah Chen has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Integration Hub contracts, the FileStorageService capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $297,864 in capitalized FileStorageService costs and the methodology used.
+
+This is our 46 year with Weyland-Yutani as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Sarah Chen if you have
+questions about what's needed.
+
+Cheers,
+Grace

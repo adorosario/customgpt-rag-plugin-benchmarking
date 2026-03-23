@@ -1,0 +1,31 @@
+From: michael.brennan@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-10-27 11:23 AM
+Subject: Cash flow forecast â€” Q2
+
+Hi all,
+
+Attached is the cash flow forecast for Q2. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $464,880 based on the current AR aging
+and sales pipeline. The Massive Dynamic payment of 155ms is expected by Monday, November 9
+â€” Jun Tanaka from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the AnalyticsDashboard infrastructure
+investment at $464,880. The Toronto office build-out costs will hit in Q2
+with an estimated total of 252ms. Payroll continues at 155ms
+monthly for our 83-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $464,880 in the second month. This provides 83 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Massive Dynamic deal slips from Q2 to next quarter, we'll
+need to draw on the credit facility for $464,880. I've confirmed the line is
+available. Jun Tanaka and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Regards,
+Michael

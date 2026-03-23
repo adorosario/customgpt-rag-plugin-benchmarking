@@ -1,0 +1,29 @@
+From: jun.tanaka@acmecorp.com
+To: elena.vasquez@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-10-05 04:43 PM
+Subject: New lead â€” Hooli inbound request
+
+Hi team,
+
+We received an inbound request from Hooli through the website today. They're
+a 56-employee company in the WebhookDispatcher space and are looking for a
+Data Vault solution.
+
+Initial qualification: they have budget allocated for Q4, their current
+contract with their existing vendor expires on Wednesday, June 8, and the decision maker is
+their VP of Operations. They found us through the connection pool whitepaper we
+published last month.
+
+The estimated deal size is $51,965 based on their seat count and the use case
+they described. They specifically mentioned needing the WebhookDispatcher integration
+and 138ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Michael Brennan â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on connection pool scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Cheers,
+Jun

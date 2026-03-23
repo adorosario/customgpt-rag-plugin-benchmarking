@@ -1,0 +1,26 @@
+From: jun.tanaka@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-10-19 06:03 AM
+Subject: Re: Pied Piper renewal â€” risk assessment
+
+Hi,
+
+Following up on the Pied Piper renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing NotificationEngine latency issues for the past 188 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Pied Piper has mentioned they're evaluating alternatives for their queue processor needs.
+
+The renewal is worth $441,968 annually and is up for renewal at the end of
+Q4. I think we need a proactive retention strategy. My proposal:
+
+First, get Dmitri Volkov from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 48% discount
+on the expanded Data Vault tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Regards,
+Jun

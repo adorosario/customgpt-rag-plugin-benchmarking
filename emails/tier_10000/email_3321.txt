@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-11-03 01:33 AM
+Subject: Sprint planning â€” Analytics Pro sprint v3.8.1
+
+Hey everyone,
+
+Here's the sprint plan for Analytics Pro sprint v3.8.1. Capacity is 28 story
+points with 167ms engineers available this sprint.
+
+Committed stories: the AnalyticsDashboard integration work carries over from last sprint
+with 432ms points remaining. The new metrics collector API endpoints are
+estimated at 28 points. The bug fix for the AnalyticsDashboard rendering issue
+is 167ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the metrics collector performance
+optimization that David Okonkwo has been scouting. It's estimated at 28 points
+and would improve response time by 9%.
+
+Dependencies: the AnalyticsDashboard feature requires the API changes that David Okonkwo
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The metrics collector work is self-contained.
+
+Risks: David Okonkwo is on-call this sprint which historically reduces their available
+capacity by 9%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, October 12. Let me know if the priorities look right.
+
+Thanks,
+Liam

@@ -1,0 +1,33 @@
+From: maria.santos@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-10-23 11:25 AM
+Subject: Insurance renewal â€” Q3 review
+
+Hi,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Massive Dynamic has offered a renewal at $326,519 per year, which is a
+51% increase from last year. Coverage limits remain the same at 138ms
+for general liability and 227ms for the APIGateway professional liability
+policy.
+
+Alternative quotes: I obtained 16 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 51% discount, but they
+have a 227ms-day waiting period for caching layer claims that our current
+policy doesn't have.
+
+Recommendation: stay with Massive Dynamic and negotiate the premium increase down to
+51%. Their claims experience is strong â€” they processed our APIGateway
+claim in 16 business days last year. Yuki Sato from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+227ms to $326,519 given the growth in Cloud Connect customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Friday, September 24 to avoid a coverage lapse. Let me know your preference.
+
+Cheers,
+Maria

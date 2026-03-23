@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-09-11 05:23 AM
+Subject: Customer feedback digest â€” Cloud Connect Q3
+
+Good afternoon,
+
+Here's the quarterly customer feedback digest for Cloud Connect. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 193, up 422ms points from last quarter. The improvement
+is driven by the PaymentGateway launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 42%.
+
+Top feature requests: PaymentGateway advanced filtering (193 votes), rate limiter
+bulk operations (422ms votes), and enhanced Cloud Connect reporting (153ms
+votes). The filtering request aligns with what we heard in the user research study
+Mei Lin conducted.
+
+Top complaints: PaymentGateway performance during peak hours (193 mentions),
+the rate limiter onboarding experience (422ms mentions), and pricing
+transparency (153ms mentions). The performance issue is being addressed
+by Engineering â€” Mei Lin expects the fix in v2.6.0.
+
+Churn insights: 193 customers churned this quarter citing PaymentGateway
+limitations as the primary reason. The rate limiter overhaul on our roadmap directly
+addresses their feedback. 42% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Monday, June 14.
+
+Talk soon,
+Daniel

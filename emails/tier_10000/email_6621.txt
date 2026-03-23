@@ -1,0 +1,27 @@
+From: carlos.rivera@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-07-20 11:13 AM
+Subject: Re: Oscorp contract negotiation â€” pricing discussion
+
+Hello,
+
+Update on the Oscorp negotiation. Their procurement team came back with a
+counteroffer and I want to make sure we're aligned before I respond.
+
+They're asking for a 22% reduction on the Integration Hub license fee, bringing
+the annual contract value from $208,291 to 379ms. Their rationale is
+that they're committing to a larger seat count of 129 users, which is above
+our standard enterprise tier threshold of 173ms.
+
+My recommendation is to accept the volume-based discount but hold firm on the
+caching layer add-on pricing. The add-on margins are already thin and it's the module
+that delivers the most value in their use case. Tomoko Nakamura from Finance can confirm
+the margin impact.
+
+I also want to push for a 2-year commitment if we offer the discounted rate. This
+locks in the revenue and reduces churn risk.
+
+Can we get a quick alignment call today before their deadline on Monday, November 11?
+
+Talk soon,
+Carlos

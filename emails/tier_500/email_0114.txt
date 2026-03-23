@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-29 06:49 AM
+Subject: Revenue recognition â€” Enterprise Suite contracts
+
+Good morning,
+
+I need to walk through the revenue recognition treatment for the new Enterprise Suite
+contracts signed this quarter. We have 27 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Tyrell Corp contract bundles Enterprise Suite licenses with
+metrics collector implementation services. I've determined the standalone selling prices
+and allocated $47,557 to the license component and 76ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 27-month implementation period.
+
+Variable consideration: 332ms contracts include performance bonuses tied to
+AnalyticsDashboard uptime metrics. Using the expected value method, I've estimated
+$47,557 in variable consideration based on our historical performance of
+42% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Tyrell Corp amendment added metrics collector capacity at
+$47,557 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Fatima Al-Rashid from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Wednesday, May 7.
+
+Cheers,
+Robert

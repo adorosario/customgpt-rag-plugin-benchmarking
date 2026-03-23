@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-31 05:36 AM
+Subject: Sprint planning â€” Sync Platform sprint v2.1.0
+
+Hey,
+
+Here's the sprint plan for Sync Platform sprint v2.1.0. Capacity is 119 story
+points with 133ms engineers available this sprint.
+
+Committed stories: the NotificationEngine integration work carries over from last sprint
+with 122ms points remaining. The new caching layer API endpoints are
+estimated at 119 points. The bug fix for the NotificationEngine rendering issue
+is 133ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the caching layer performance
+optimization that Michael Brennan has been scouting. It's estimated at 119 points
+and would improve response time by 37%.
+
+Dependencies: the NotificationEngine feature requires the API changes that Michael Brennan
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The caching layer work is self-contained.
+
+Risks: Michael Brennan is on-call this sprint which historically reduces their available
+capacity by 37%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, November 14. Let me know if the priorities look right.
+
+Regards,
+Liam

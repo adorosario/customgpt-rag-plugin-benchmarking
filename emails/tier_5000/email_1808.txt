@@ -1,0 +1,33 @@
+From: yuki.sato@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-19 11:03 AM
+Subject: SEO update â€” DataPipeline keyword rankings
+
+Good afternoon,
+
+Monthly SEO update for our DataPipeline content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Cloud Connect comparison page climbed from position 138ms to
+position 414ms for our primary keyword. The authentication module guide is now
+ranking in the top 28 for three long-tail variations.
+
+Traffic impact: organic sessions are up 60% month over month. The
+DataPipeline cluster is now driving 28 unique sessions monthly, making it our
+second-highest traffic source behind the Cloud Connect landing page.
+
+Content gaps identified: we're missing content for 138ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q1. Wei Zhang from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 414ms on mobile after the image
+optimization work. No crawl errors detected. The new authentication module documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 28 pages. I'll share the
+outreach plan next week.
+
+Best regards,
+Yuki

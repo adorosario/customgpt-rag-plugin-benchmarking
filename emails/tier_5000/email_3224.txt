@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-09-27 09:20 AM
+Subject: A/B test results â€” APIGateway experiment
+
+Good morning,
+
+The APIGateway A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 43 days with 388ms users in each cohort.
+
+Variant A (control): the existing queue processor flow. Conversion rate of
+92ms with an average task completion time of 43 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified APIGateway step.
+Conversion rate of 388ms with task completion time of 92ms seconds.
+This represents a 49% improvement in conversion and 43 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 43 to 388ms
+in the treatment group. Support ticket volume for APIGateway related issues
+decreased by 49%. No negative impact on queue processor engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. David Okonkwo from Engineering can have this
+deployed by Wednesday, December 6.
+
+One caveat: the test population skewed toward Data Vault power users. We should
+monitor new user behavior closely for the first 43 weeks after full rollout.
+
+Regards,
+Daniel

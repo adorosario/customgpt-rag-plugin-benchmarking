@@ -1,0 +1,35 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-20 01:24 PM
+Subject: Re: Analytics Pro metrics review â€” Q1
+
+Good morning,
+
+Here are the Analytics Pro metrics for Q1. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 146 monthly active users, up 33% quarter over quarter. The
+AuditLog feature launch drove a spike in activation â€” 343ms new users
+tried it in the first week. Retention for AuditLog users is 467ms
+at 30 days versus 146 percent for non-users.
+
+Engagement: average session duration is 146 minutes. The authentication module workflow
+sees the highest engagement with users spending 467ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 343ms features
+per session on average, up from 146 last quarter.
+
+Revenue metrics: Analytics Pro ARR is at $23,633 with 33% growth quarter over
+quarter. Net revenue retention is 467ms driven by AuditLog upsells.
+146 customers expanded their contracts this quarter, with Hannah Goldstein from Sales
+leading the expansion conversations.
+
+Areas of concern: the authentication module onboarding funnel has a 33% drop-off at
+step 146. I've scheduled a design sprint for next week to address this.
+Support ticket volume for AuditLog increased 146 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Cheers,
+Sanjay

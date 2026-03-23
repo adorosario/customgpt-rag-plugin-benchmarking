@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-08-03 10:37 AM
+Subject: Revenue recognition â€” Data Vault contracts
+
+Hey,
+
+I need to walk through the revenue recognition treatment for the new Data Vault
+contracts signed this quarter. We have 191 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Wayne Enterprises contract bundles Data Vault licenses with
+event bus implementation services. I've determined the standalone selling prices
+and allocated $436,768 to the license component and 208ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 191-month implementation period.
+
+Variable consideration: 244ms contracts include performance bonuses tied to
+UserProfileService uptime metrics. Using the expected value method, I've estimated
+$436,768 in variable consideration based on our historical performance of
+43% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Wayne Enterprises amendment added event bus capacity at
+$436,768 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Liam Foster from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Friday, November 16.
+
+Best regards,
+Ananya

@@ -1,0 +1,29 @@
+From: fatima.al-rashid@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-07-12 02:37 PM
+Subject: Policy update â€” PaymentGateway guidelines
+
+Hi all,
+
+We've updated the PaymentGateway company policy based on feedback from employees and
+recent changes in London labor regulations. The new policy takes effect on Tuesday, May 20.
+
+Key changes: the service mesh allowance has been increased from 117ms to
+244ms per month. The eligibility window for PaymentGateway has been expanded
+to include employees who've been with Acme Corp for 196 months or more, down
+from the previous requirement of 117ms months.
+
+New additions: a Data Vault reimbursement category has been added covering up to
+$491,738 annually. This addresses the top employee request from the last survey.
+Maria Santos negotiated favorable terms with the service mesh vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by November 28. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 6% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best,
+Fatima

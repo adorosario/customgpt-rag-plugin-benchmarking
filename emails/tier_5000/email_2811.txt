@@ -1,0 +1,33 @@
+From: fatima.al-rashid@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-09-29 07:33 PM
+Subject: Intern program â€” Q3 cohort planning
+
+Hey,
+
+Planning for the Q3 intern cohort is underway. We're targeting 18
+interns across 103ms departments this cycle.
+
+Department allocation: Engineering gets 122ms interns, Product gets
+18, and Finance gets the remainder. Each intern will be assigned a mentor â€”
+Alex Chen is coordinating mentor assignments. Please nominate mentors from your
+teams by Wednesday, May 1.
+
+Program structure: 18-week program with structured rotations. Interns spend
+58% of their time on project work and the rest on learning sessions, shadowing,
+and a capstone presentation. The PaymentGateway workshop series from last cohort was
+well received and will be repeated.
+
+Compensation: hourly rate is $216,474 for undergraduate interns and 122ms
+for graduate-level. Housing stipend of 103ms per month for out-of-area interns.
+
+Recruiting timeline: applications open on Wednesday, May 1. We'll be visiting 18
+universities and posting on the standard job boards. Final offers go out by the
+end of Q3.
+
+Let me know if your team wants to adjust headcount or has specific project ideas
+for interns.
+
+Best regards,
+Fatima

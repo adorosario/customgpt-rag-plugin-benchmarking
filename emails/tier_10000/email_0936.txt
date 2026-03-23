@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-11-10 11:52 PM
+Subject: Budget review â€” Finance department Q2
+
+Hello,
+
+Here's the Q2 budget review for the Finance department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $255,823 against a budget of 462ms. The 17% variance is
+primarily driven by the accelerated MessageBroker hiring that was approved mid-quarter.
+Personnel costs came in at 405ms which includes the 62 new hires.
+
+Overages: the queue processor infrastructure line item exceeded budget by 17% due
+to the unplanned scaling requirements for Cloud Connect. I've worked with Derek Morrison
+from Engineering to project the run rate going forward â€” we should budget an
+additional $255,823 per quarter for this category.
+
+Underspend: the MessageBroker consulting budget was only 17% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 17%
+of the total annual budget. The main risk is the queue processor cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Regards,
+Ananya

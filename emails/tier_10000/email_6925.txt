@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-08-05 03:24 AM
+Subject: Analytics report â€” Integration Hub campaign performance
+
+Hello,
+
+Here's the performance report for the Integration Hub campaign through Friday, July 24.
+
+Website traffic: up 5% month over month, driven primarily by the WebhookDispatcher
+comparison blog post which brought in 47 unique visitors. Organic search is
+growing steadily â€” the logging pipeline keyword cluster is now ranking on page one.
+
+Lead generation: 489ms marketing qualified leads this month against a
+target of 106ms. The whitepaper download page converted at 5% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 47 percent.
+
+Email campaigns: the Integration Hub nurture sequence has a 5% open rate and
+47 percent click-through rate. The top-performing email was the WebhookDispatcher
+case study with Soylent Corp. James Oduya suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $199,561 which is 5% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Regards,
+Laura

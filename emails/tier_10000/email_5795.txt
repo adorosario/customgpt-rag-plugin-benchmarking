@@ -1,0 +1,26 @@
+From: aisha.okafor@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-06-05 03:04 PM
+Subject: Pipeline update â€” Hooli deal status
+
+Hi all,
+
+Quick update on the Hooli opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $491,268 for the Insight Engine deployment. The
+decision timeline is end of Q1. Their main concern remains the integration
+with their existing PaymentGateway infrastructure, which is why I've looped in Sarah Chen
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Hooli is also evaluating one other vendor but our
+Insight Engine demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our connection pool capability.
+
+Next steps: technical architecture session on Thursday, June 12, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 44%.
+
+Cheers,
+Aisha

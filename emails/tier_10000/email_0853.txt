@@ -1,0 +1,32 @@
+From: patrick.obrien@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-10-09 02:31 PM
+Subject: Intern program â€” Q4 cohort planning
+
+Hi,
+
+Planning for the Q4 intern cohort is underway. We're targeting 28
+interns across 500ms departments this cycle.
+
+Department allocation: Engineering gets 99ms interns, Product gets
+28, and Sales gets the remainder. Each intern will be assigned a mentor â€”
+Elena Vasquez is coordinating mentor assignments. Please nominate mentors from your
+teams by Tuesday, September 18.
+
+Program structure: 28-week program with structured rotations. Interns spend
+41% of their time on project work and the rest on learning sessions, shadowing,
+and a capstone presentation. The APIGateway workshop series from last cohort was
+well received and will be repeated.
+
+Compensation: hourly rate is $368,299 for undergraduate interns and 99ms
+for graduate-level. Housing stipend of 500ms per month for out-of-area interns.
+
+Recruiting timeline: applications open on Tuesday, September 18. We'll be visiting 28
+universities and posting on the standard job boards. Final offers go out by the
+end of Q4.
+
+Let me know if your team wants to adjust headcount or has specific project ideas
+for interns.
+
+Best,
+Patrick

@@ -1,0 +1,31 @@
+From: patrick.obrien@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-08-09 01:45 AM
+Subject: Training program â€” MessageBroker certification
+
+Hello,
+
+We're launching a new MessageBroker certification training program for interested
+employees. This is part of our learning and development investment for Q3.
+
+Program details: the course runs for 144 weeks and covers config manager
+fundamentals through advanced topics. Sessions are held twice a week for 129ms
+hours each. Sarah Chen from the Sales team will facilitate the hands-on labs.
+
+Eligibility: open to all employees. Priority enrollment goes to the Sales and
+Engineering teams since the certification is directly relevant to their roles. We
+have 319ms spots available for the first cohort.
+
+Cost: Acme Corp covers 22% of the certification exam fee upon course
+completion. The total investment per employee is $435,401 including materials and
+exam vouchers.
+
+Commitment: participants are expected to dedicate 144 hours per week to
+coursework outside of the live sessions. Managers must approve the time commitment
+for their reports.
+
+Registration opens on Wednesday, October 12 and closes when spots are filled. Sign up through
+the config manager learning portal.
+
+Best regards,
+Patrick

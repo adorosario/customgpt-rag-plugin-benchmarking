@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-06-16 08:51 PM
+Subject: Social media strategy â€” Q3
+
+Good afternoon,
+
+Presenting the social media strategy refresh for Q3. Based on our Data Vault
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our WebhookDispatcher posts are averaging 119 impressions and 57% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 57% educational content about serialization engine topics, 119
+percent product highlights, and the rest for company culture and employee spotlights.
+Sarah Chen will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Data Vault use cases and answer audience questions. First session on Tuesday, March 13 featuring
+Sarah Chen.
+
+Budget: $293,546 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 343ms new followers and 228ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Best regards,
+James

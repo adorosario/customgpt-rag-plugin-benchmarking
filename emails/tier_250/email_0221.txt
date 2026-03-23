@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-11-15 09:27 AM
+Subject: Re: Sync Platform pricing discussion â€” UserProfileService tier
+
+Hey,
+
+Following up on the Sync Platform pricing discussion. I've modeled three options for
+the UserProfileService tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $454,182 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 21% of our existing base.
+Downside: it undercuts our current caching layer pricing and may trigger downgrades.
+
+Option B: 279ms per seat per month with the caching layer add-on bundled.
+Higher price point but stronger value perception. 90 of the 139ms
+customers we surveyed preferred this packaging. Tomoko Nakamura from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $454,182 per UserProfileService transaction. This aligns
+with the value delivered but introduces billing complexity. Only 21% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$454,182 in incremental ARR over 90 months.
+
+Can we finalize the pricing decision by Tuesday, September 15? Sales needs 139ms weeks to
+update collateral before we announce.
+
+Cheers,
+Mei

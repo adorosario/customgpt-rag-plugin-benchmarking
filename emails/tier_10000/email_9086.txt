@@ -1,0 +1,34 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-13 02:57 PM
+Subject: Customer feedback digest â€” Sync Platform Q1
+
+Good afternoon,
+
+Here's the quarterly customer feedback digest for Sync Platform. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 109, up 321ms points from last quarter. The improvement
+is driven by the NotificationEngine launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 54%.
+
+Top feature requests: NotificationEngine advanced filtering (109 votes), rate limiter
+bulk operations (321ms votes), and enhanced Sync Platform reporting (178ms
+votes). The filtering request aligns with what we heard in the user research study
+Jun Tanaka conducted.
+
+Top complaints: NotificationEngine performance during peak hours (109 mentions),
+the rate limiter onboarding experience (321ms mentions), and pricing
+transparency (178ms mentions). The performance issue is being addressed
+by Engineering â€” Jun Tanaka expects the fix in v1.9.5.
+
+Churn insights: 109 customers churned this quarter citing NotificationEngine
+limitations as the primary reason. The rate limiter overhaul on our roadmap directly
+addresses their feedback. 54% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, March 25.
+
+Cheers,
+Sanjay

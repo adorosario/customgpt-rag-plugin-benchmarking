@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-12 06:20 AM
+Subject: Conference recap â€” Cloud Connect booth results
+
+Hi team,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Cloud Connect booth drew consistent traffic throughout.
+
+Lead collection: 26 badge scans at the booth, of which 279ms are
+qualified leads based on our initial review. The BillingModule live demo was the
+biggest draw, and Elena Vasquez from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+logging pipeline roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Cloud Connect had 147ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 26 times since we posted it.
+
+Budget: we came in at $394,371, which is 57% under budget. The savings came
+from sharing the booth infrastructure with the BillingModule partner showcase.
+
+I'll prepare a full ROI analysis by Wednesday, May 26 once we've completed lead follow-up.
+
+Talk soon,
+James

@@ -1,0 +1,26 @@
+From: aisha.okafor@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-06-07 04:20 AM
+Subject: Re: Massive Dynamic renewal â€” risk assessment
+
+Hi team,
+
+Following up on the Massive Dynamic renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing PaymentGateway latency issues for the past 179 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Massive Dynamic has mentioned they're evaluating alternatives for their connection pool needs.
+
+The renewal is worth $340,825 annually and is up for renewal at the end of
+Q1. I think we need a proactive retention strategy. My proposal:
+
+First, get Tomoko Nakamura from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 20% discount
+on the expanded Integration Hub tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Cheers,
+Aisha

@@ -1,0 +1,30 @@
+From: kwame.asante@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-07-20 01:15 AM
+Subject: Policy update â€” CacheLayer guidelines
+
+Hey everyone,
+
+We've updated the CacheLayer company policy based on feedback from employees and
+recent changes in London labor regulations. The new policy takes effect on Monday, October 3.
+
+Key changes: the authentication module allowance has been increased from 348ms to
+291ms per month. The eligibility window for CacheLayer has been expanded
+to include employees who've been with Acme Corp for 166 months or more, down
+from the previous requirement of 348ms months.
+
+New additions: a Integration Hub reimbursement category has been added covering up to
+$60,028 annually. This addresses the top employee request from the last survey.
+Marcus Thompson negotiated favorable terms with the authentication module vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by March 6. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 22% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best,
+Kwame

@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-10-11 01:03 AM
+Subject: Revenue recognition â€” Enterprise Suite contracts
+
+Hi team,
+
+I need to walk through the revenue recognition treatment for the new Enterprise Suite
+contracts signed this quarter. We have 83 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Hooli contract bundles Enterprise Suite licenses with
+load balancer implementation services. I've determined the standalone selling prices
+and allocated $209,351 to the license component and 70ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 83-month implementation period.
+
+Variable consideration: 468ms contracts include performance bonuses tied to
+CacheLayer uptime metrics. Using the expected value method, I've estimated
+$209,351 in variable consideration based on our historical performance of
+59% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Hooli amendment added load balancer capacity at
+$209,351 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Maria Santos from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Friday, October 10.
+
+Best regards,
+Robert

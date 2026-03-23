@@ -1,0 +1,27 @@
+From: elena.vasquez@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-09-15 11:07 PM
+Subject: On-call handoff â€” week of Friday, February 6
+
+Hey,
+
+Handing off on-call duties for the week of Friday, February 6. Here's the status summary for
+the incoming rotation.
+
+Active issues: the PaymentGateway service has been showing elevated latency during peak
+hours, averaging 238ms against a target of 411ms. We've identified
+the root cause in the authentication module caching layer and a fix is in code review now.
+Should be deployed by Tuesday.
+
+Monitoring: keep an eye on the PaymentGateway dashboard. Priya Sharma added new alerts
+last week but we haven't validated them under real load yet. If you get paged for
+the authentication module alert, the runbook is updated and the escalation path is documented.
+
+Scheduled maintenance: there's a planned database maintenance window on Thursday at
+02:00 UTC. Expected duration is 37 minutes. The procedure is automated but
+someone needs to verify the health checks afterward.
+
+Reach out if anything comes up that isn't covered in the runbook.
+
+Best,
+Elena

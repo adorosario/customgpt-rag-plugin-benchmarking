@@ -1,0 +1,34 @@
+From: amara.diallo@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-04 05:59 AM
+Subject: Customer feedback digest â€” Data Vault Q1
+
+Hey,
+
+Here's the quarterly customer feedback digest for Data Vault. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 172, up 389ms points from last quarter. The improvement
+is driven by the PaymentGateway launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 12%.
+
+Top feature requests: PaymentGateway advanced filtering (172 votes), config manager
+bulk operations (389ms votes), and enhanced Data Vault reporting (203ms
+votes). The filtering request aligns with what we heard in the user research study
+Oluwaseun Adeyemi conducted.
+
+Top complaints: PaymentGateway performance during peak hours (172 mentions),
+the config manager onboarding experience (389ms mentions), and pricing
+transparency (203ms mentions). The performance issue is being addressed
+by Engineering â€” Oluwaseun Adeyemi expects the fix in v2.7.3.
+
+Churn insights: 172 customers churned this quarter citing PaymentGateway
+limitations as the primary reason. The config manager overhaul on our roadmap directly
+addresses their feedback. 12% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Monday, October 18.
+
+Best regards,
+Amara

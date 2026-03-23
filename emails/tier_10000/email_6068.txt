@@ -1,0 +1,28 @@
+From: wei.zhang@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-07-14 11:42 PM
+Subject: Feature flag cleanup â€” APIGateway v3.2.2
+
+Hi team,
+
+Time for our quarterly feature flag cleanup in APIGateway. We have 109 flags
+in the system and several of them are stale.
+
+Flags to remove: the serialization engine migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The APIGateway experiment flag
+was concluded last sprint with a decision to ship â€” Carlos Rivera will hardcode the
+winning variant.
+
+Flags to keep: the v3.2.2 rollout flag should stay until we've confirmed
+stability at 145ms traffic. The serialization engine kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 248ms lines of dead code and simplify the conditional logic in
+55% of the affected modules.
+
+Please claim the tickets for flags in your area by Monday, May 18. Target completion is end
+of sprint.
+
+Best,
+Wei

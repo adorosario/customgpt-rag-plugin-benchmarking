@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-07 04:46 AM
+Subject: Revenue recognition â€” Integration Hub contracts
+
+Hi,
+
+I need to walk through the revenue recognition treatment for the new Integration Hub
+contracts signed this quarter. We have 131 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Massive Dynamic contract bundles Integration Hub licenses with
+caching layer implementation services. I've determined the standalone selling prices
+and allocated $221,799 to the license component and 465ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 131-month implementation period.
+
+Variable consideration: 346ms contracts include performance bonuses tied to
+MessageBroker uptime metrics. Using the expected value method, I've estimated
+$221,799 in variable consideration based on our historical performance of
+45% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Massive Dynamic amendment added caching layer capacity at
+$221,799 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Fatima Al-Rashid from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Monday, April 25.
+
+Best regards,
+Ananya

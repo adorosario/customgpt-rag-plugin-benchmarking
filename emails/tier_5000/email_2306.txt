@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-11-27 02:55 PM
+Subject: Quarterly territory review â€” Q2
+
+Good afternoon,
+
+Here's my territory review for Q2. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 100 qualified opportunities worth a combined $450,955 in
+ARR. The largest deal is Massive Dynamic at 90ms, which I expect to close by
+Wednesday, April 2. Three other deals in the 154ms range are progressing through
+procurement.
+
+Wins this quarter: closed Massive Dynamic for Insight Engine with a 27% upsell from
+their initial scope. The logging pipeline add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Ravi Patel to the Massive Dynamic executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Best regards,
+Hannah

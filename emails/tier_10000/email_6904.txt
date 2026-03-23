@@ -1,0 +1,32 @@
+From: sarah.chen@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-10-23 11:12 AM
+Subject: Vendor agreement â€” Pied Piper terms review
+
+Hey,
+
+I've reviewed the vendor agreement from Pied Piper for the metrics collector services
+we're procuring. Here are my findings and recommended changes.
+
+Term and renewal: the proposed 70-year term with auto-renewal is acceptable.
+However, the 438ms-day termination notice period is too long for our needs.
+I've countered with 411ms days, which aligns with our standard vendor
+management practices.
+
+Service level commitments: Pied Piper is offering 46% uptime with service
+credits starting at 70 percent for each hour of downtime. I've pushed for
+a higher credit rate given the criticality of metrics collector to our Cloud Connect
+infrastructure.
+
+Data ownership: section 5 is clear that we retain all rights to our data. However,
+Pied Piper claims a license to use aggregated, anonymized data for benchmarking. I
+want to narrow this to exclude any data from the AuditLog environment.
+Tomoko Nakamura from Engineering should review the technical implications.
+
+Pricing: $428,935 per year is within the budget that Finance approved. The payment
+terms are net 438ms days, which works for our AP schedule.
+
+Please confirm the business terms and I'll send the redlined agreement by Wednesday, July 11.
+
+Regards,
+Sarah

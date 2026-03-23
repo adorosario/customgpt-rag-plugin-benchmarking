@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-08-09 08:37 AM
+Subject: Re: Enterprise Suite launch planning â€” APIGateway release
+
+Good morning,
+
+The launch plan for the APIGateway release is coming together. Here's the
+coordinated timeline across teams.
+
+Engineering: code freeze on Wednesday, December 15. Final QA validation of 131 test cases
+by Oluwaseun Adeyemi. Performance benchmarks must show queue processor throughput above
+353ms requests per second. Rollback plan documented and tested.
+
+Marketing: blog post and landing page updates go live at launch. Oluwaseun Adeyemi from
+the content team has the draft ready for review. Email announcement to 131
+customers scheduled for launch day plus one.
+
+Sales: updated pitch deck with the APIGateway positioning. Oluwaseun Adeyemi is running
+a training session on Wednesday, December 15 so the team can demo the feature. We're expecting
+$46,324 in pipeline acceleration from this release.
+
+Support: knowledge base articles and troubleshooting guide published pre-launch.
+Oluwaseun Adeyemi trained the support team on the 131 most common questions. Staffing
+is increased by 16% for launch week.
+
+Go/no-go decision meeting is on Wednesday, December 15. Each team lead needs to confirm readiness
+by then.
+
+Cheers,
+Liam

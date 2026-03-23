@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-11-25 06:03 AM
+Subject: Sales engineering request â€” Stark Industries POC
+
+Hey,
+
+Requesting SE support for a proof-of-concept with Stark Industries. This is a $64,669
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Sync Platform can handle 64
+transactions per second with their WebhookDispatcher data format. The test needs to
+run against their staging environment and demonstrate the authentication module capability
+under realistic load.
+
+Timeline: Stark Industries wants the POC completed within 89ms business days
+starting Thursday, January 13. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Yuki Sato for the technical configuration and someone from
+the WebhookDispatcher team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q1. Let me know if we can make this timeline work.
+
+Thanks,
+Aisha

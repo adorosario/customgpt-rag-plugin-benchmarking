@@ -1,0 +1,21 @@
+{
+  "tier": 5000,
+  "question_id": "pattern_4",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What are the plans for the annual company retreat?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about your company's annual retreat plans. I don't have access to internal company communications, calendars, or planning documents that would contain that information.\n\nA few ways you might find this:\n- Check your company's internal communication channels (Slack, email, intranet)\n- Ask your HR or office management team\n- Look in your calendar for any scheduled events\n\nIs there something else I can help you with?",
+  "time_seconds": 17.59,
+  "num_turns": 1,
+  "cost_usd": 0.0491262,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10872,
+  "cache_read_tokens": 17324,
+  "output_tokens": 210,
+  "total_tokens": 28409,
+  "duration_api_ms": 6152,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

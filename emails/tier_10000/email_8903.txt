@@ -1,0 +1,33 @@
+From: amara.diallo@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-11-29 05:43 PM
+Subject: Customer feedback digest â€” Integration Hub Q4
+
+Hey everyone,
+
+Here's the quarterly customer feedback digest for Integration Hub. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 86, up 445ms points from last quarter. The improvement
+is driven by the WebhookDispatcher launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 24%.
+
+Top feature requests: WebhookDispatcher advanced filtering (86 votes), metrics collector
+bulk operations (445ms votes), and enhanced Integration Hub reporting (395ms
+votes). The filtering request aligns with what we heard in the user research study
+Robert Kimura conducted.
+
+Top complaints: WebhookDispatcher performance during peak hours (86 mentions),
+the metrics collector onboarding experience (445ms mentions), and pricing
+transparency (395ms mentions). The performance issue is being addressed
+by Engineering â€” Robert Kimura expects the fix in v2.4.1.
+
+Churn insights: 86 customers churned this quarter citing WebhookDispatcher
+limitations as the primary reason. The metrics collector overhaul on our roadmap directly
+addresses their feedback. 24% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Tuesday, July 28.
+
+Thanks,
+Amara

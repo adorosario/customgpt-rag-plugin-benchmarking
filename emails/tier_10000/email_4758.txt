@@ -1,0 +1,32 @@
+From: david.okonkwo@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-11-05 11:24 AM
+Subject: Re: Litigation hold â€” Hooli matter
+
+Hey everyone,
+
+Following up on the Hooli dispute. We need to implement a litigation hold
+immediately. Here's what that means for the affected teams.
+
+Scope: all documents, emails, and electronic records related to the Hooli
+engagement from Tuesday, November 21 forward must be preserved. This includes AuthService
+logs, Enterprise Suite deployment records, and all correspondence between our teams
+and Hooli's personnel.
+
+Affected departments: Engineering, Sales, and Product. Liam Foster will distribute
+hold notices to the specific custodians in each department. We've identified
+156 individuals whose records are potentially relevant.
+
+Obligations: do not delete, modify, or archive any records covered by the hold.
+Suspend any auto-deletion policies for the relevant load balancer systems.
+Liam Foster from IT is coordinating the technical preservation measures.
+
+Duration: the hold remains in effect until further notice from Legal. I expect the
+matter to be resolved within 142ms months based on preliminary discussions
+with opposing counsel. The estimated legal cost exposure is $283,901.
+
+If anyone has questions about what's covered, direct them to me. Do not discuss
+the hold or the underlying matter externally.
+
+Talk soon,
+David

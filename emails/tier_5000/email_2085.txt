@@ -1,0 +1,28 @@
+From: carlos.rivera@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-09-03 04:09 PM
+Subject: New lead â€” Umbrella Inc inbound request
+
+Good afternoon,
+
+We received an inbound request from Umbrella Inc through the website today. They're
+a 129-employee company in the MessageBroker space and are looking for a
+Enterprise Suite solution.
+
+Initial qualification: they have budget allocated for Q3, their current
+contract with their existing vendor expires on Thursday, February 19, and the decision maker is
+their VP of Operations. They found us through the metrics collector whitepaper we
+published last month.
+
+The estimated deal size is $291,600 based on their seat count and the use case
+they described. They specifically mentioned needing the MessageBroker integration
+and 344ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Ravi Patel â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on metrics collector scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Cheers,
+Carlos

@@ -1,0 +1,32 @@
+From: sofia.martinez@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-11-26 04:38 PM
+Subject: Event planning â€” Integration Hub webinar on Monday, June 15
+
+Hi team,
+
+Finalizing details for the Integration Hub webinar on Monday, June 15. Here's where we stand on
+the logistics and promotion.
+
+Content: Sarah Chen from Product will present the AnalyticsDashboard roadmap segment.
+I'll handle the intro and customer story. We're targeting a 163-minute
+presentation followed by 164ms minutes of live Q&A. The authentication module demo
+segment should be the highlight.
+
+Registration: we've had 439ms sign-ups so far. Goal is 164ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Integration Hub keywords.
+
+Tech setup: using the standard webinar platform. Sarah Chen will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Monday, June 15 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 163 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Talk soon,
+Sofia

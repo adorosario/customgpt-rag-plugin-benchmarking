@@ -1,0 +1,29 @@
+From: patrick.obrien@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-06-19 05:12 PM
+Subject: Policy update â€” DataPipeline guidelines
+
+Hey,
+
+We've updated the DataPipeline company policy based on feedback from employees and
+recent changes in Toronto labor regulations. The new policy takes effect on Wednesday, January 9.
+
+Key changes: the connection pool allowance has been increased from 222ms to
+242ms per month. The eligibility window for DataPipeline has been expanded
+to include employees who've been with Acme Corp for 86 months or more, down
+from the previous requirement of 222ms months.
+
+New additions: a Integration Hub reimbursement category has been added covering up to
+$500,165 annually. This addresses the top employee request from the last survey.
+Laura Kim negotiated favorable terms with the connection pool vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by June 13. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 25% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Thanks,
+Patrick

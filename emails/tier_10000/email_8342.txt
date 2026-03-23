@@ -1,0 +1,29 @@
+From: hannah.goldstein@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-20 04:30 AM
+Subject: Quarterly territory review â€” Q4
+
+Hi,
+
+Here's my territory review for Q4. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 178 qualified opportunities worth a combined $160,672 in
+ARR. The largest deal is Pied Piper at 324ms, which I expect to close by
+Monday, March 22. Three other deals in the 344ms range are progressing through
+procurement.
+
+Wins this quarter: closed Pied Piper for Cloud Connect with a 15% upsell from
+their initial scope. The caching layer add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Tomoko Nakamura to the Pied Piper executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Regards,
+Hannah

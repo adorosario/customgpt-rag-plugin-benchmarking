@@ -1,0 +1,27 @@
+From: wei.zhang@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-10-23 02:52 AM
+Subject: Incident postmortem â€” NotificationEngine outage on Friday, August 10
+
+Good morning,
+
+Attached is the postmortem for the NotificationEngine outage that occurred on Friday, August 10. The
+incident lasted approximately 45 minutes and affected 27 for a subset of users.
+
+Root cause: a configuration change in the event bus deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+281ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, Wei Zhang acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the NotificationEngine runbook, add a circuit breaker for the
+event bus connection pool, and implement load shedding when concurrency exceeds
+281ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Cheers,
+Wei

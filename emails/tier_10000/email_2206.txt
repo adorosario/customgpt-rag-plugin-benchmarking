@@ -1,0 +1,26 @@
+From: carlos.rivera@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-11-15 11:25 AM
+Subject: Pipeline update â€” Massive Dynamic deal status
+
+Hi,
+
+Quick update on the Massive Dynamic opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $373,117 for the Data Vault deployment. The
+decision timeline is end of Q4. Their main concern remains the integration
+with their existing AuthService infrastructure, which is why I've looped in David Okonkwo
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Massive Dynamic is also evaluating one other vendor but our
+Data Vault demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our metrics collector capability.
+
+Next steps: technical architecture session on Tuesday, September 23, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 38%.
+
+Cheers,
+Carlos

@@ -1,0 +1,29 @@
+From: derek.morrison@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-09-12 08:56 PM
+Subject: Re: Insight Engine demo feedback from Stark Industries
+
+Hello,
+
+Great news from the Stark Industries demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the caching layer dashboard got the biggest reaction. Their
+current tool requires 17 manual steps to accomplish what our Insight Engine does
+automatically. The AuthService integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 78ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v2.7.3 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Wei Zhang, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Insight Engine trial environment set up for their team of
+17 evaluators. I'll submit the trial request today. Target close date
+remains Monday, October 7.
+
+Talk soon,
+Derek

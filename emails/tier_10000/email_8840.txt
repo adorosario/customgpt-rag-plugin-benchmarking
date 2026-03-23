@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-08-05 11:24 PM
+Subject: Re: Quota update â€” Q4 adjustments
+
+Hello,
+
+Thanks for sharing the Q4 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $486,127 reflects a 51% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 126 of my projected deals depend on the Cloud Connect launch happening on
+schedule. If that slips, I'll need the AuthService backup deals to come through.
+
+Territory changes: I see that the Berlin accounts have been reassigned to
+Jun Tanaka. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Hooli â€” we've been building that
+relationship for 298ms months.
+
+Regarding the new service mesh incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with service mesh upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Best regards,
+Dmitri

@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-19 02:28 PM
+Subject: Revenue recognition â€” Analytics Pro contracts
+
+Hey,
+
+I need to walk through the revenue recognition treatment for the new Analytics Pro
+contracts signed this quarter. We have 115 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Massive Dynamic contract bundles Analytics Pro licenses with
+metrics collector implementation services. I've determined the standalone selling prices
+and allocated $425,508 to the license component and 347ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 115-month implementation period.
+
+Variable consideration: 374ms contracts include performance bonuses tied to
+MessageBroker uptime metrics. Using the expected value method, I've estimated
+$425,508 in variable consideration based on our historical performance of
+11% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Massive Dynamic amendment added metrics collector capacity at
+$425,508 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Amara Diallo from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Monday, December 22.
+
+Best,
+Robert

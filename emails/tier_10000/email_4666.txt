@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-11-19 11:47 PM
+Subject: Analytics report â€” Integration Hub campaign performance
+
+Hi all,
+
+Here's the performance report for the Integration Hub campaign through Thursday, September 5.
+
+Website traffic: up 21% month over month, driven primarily by the APIGateway
+comparison blog post which brought in 89 unique visitors. Organic search is
+growing steadily â€” the rate limiter keyword cluster is now ranking on page one.
+
+Lead generation: 444ms marketing qualified leads this month against a
+target of 371ms. The whitepaper download page converted at 21% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 89 percent.
+
+Email campaigns: the Integration Hub nurture sequence has a 21% open rate and
+89 percent click-through rate. The top-performing email was the APIGateway
+case study with Weyland-Yutani. Jun Tanaka suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $471,487 which is 21% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Talk soon,
+Laura

@@ -1,0 +1,31 @@
+From: michael.brennan@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-07-24 10:46 AM
+Subject: Budget review â€” HR department Q3
+
+Hey everyone,
+
+Here's the Q3 budget review for the HR department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $25,753 against a budget of 275ms. The 20% variance is
+primarily driven by the accelerated UserProfileService hiring that was approved mid-quarter.
+Personnel costs came in at 68ms which includes the 29 new hires.
+
+Overages: the metrics collector infrastructure line item exceeded budget by 20% due
+to the unplanned scaling requirements for Enterprise Suite. I've worked with Sanjay Krishnamurthy
+from Engineering to project the run rate going forward â€” we should budget an
+additional $25,753 per quarter for this category.
+
+Underspend: the UserProfileService consulting budget was only 20% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 20%
+of the total annual budget. The main risk is the metrics collector cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Cheers,
+Michael

@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-10-30 09:00 AM
+Subject: Re: User research findings â€” BillingModule
+
+Hi,
+
+Sharing the findings from the BillingModule user research study. We interviewed
+161 users and ran usability tests with 462ms participants over the
+last two weeks.
+
+Key insight 1: users find the load balancer workflow confusing â€” 29% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between BillingModule and the main Data Vault dashboard.
+
+Key insight 2: power users want more BillingModule customization options. They're
+currently using workarounds that involve 161 extra steps. The most requested
+feature is the ability to create custom load balancer templates.
+
+Key insight 3: new users consistently miss the BillingModule feature entirely.
+Discovery is poor â€” only 29% of new users try the feature within their first
+161 days. Hannah Goldstein suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the load balancer navigation flow, add the template
+feature to the Q4 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 29% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Thanks,
+Liam

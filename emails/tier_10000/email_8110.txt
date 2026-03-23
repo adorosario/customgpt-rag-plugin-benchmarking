@@ -1,0 +1,29 @@
+From: ravi.patel@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-11-16 04:08 AM
+Subject: Re: WebhookDispatcher â€” tech debt prioritization
+
+Hi team,
+
+Following up on the tech debt discussion from yesterday's sprint planning. I've
+categorized the outstanding items for WebhookDispatcher into three tiers based on risk
+and effort.
+
+High priority: the deprecated event bus dependency needs to be replaced before
+Thursday, March 10 when upstream support ends. This is roughly a 12 effort and Mei Lin
+has volunteered to own it.
+
+Medium priority: the test coverage gap in the WebhookDispatcher integration layer. We're
+at 107ms coverage but our target is 234ms. Filling this gap would
+have caught the regression we saw last sprint.
+
+Low priority: the logging format standardization. It's annoying but not blocking
+anything. I'd suggest we tackle it opportunistically when someone is already
+touching those files.
+
+My proposal is to allocate 15% of next sprint's capacity to the high-priority
+item. Thoughts?
+
+Cheers,
+Ravi

@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-08-06 12:40 PM
+Subject: Analytics report â€” Data Vault campaign performance
+
+Good morning,
+
+Here's the performance report for the Data Vault campaign through Friday, April 5.
+
+Website traffic: up 5% month over month, driven primarily by the UserProfileService
+comparison blog post which brought in 30 unique visitors. Organic search is
+growing steadily â€” the service mesh keyword cluster is now ranking on page one.
+
+Lead generation: 242ms marketing qualified leads this month against a
+target of 223ms. The whitepaper download page converted at 5% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 30 percent.
+
+Email campaigns: the Data Vault nurture sequence has a 5% open rate and
+30 percent click-through rate. The top-performing email was the UserProfileService
+case study with Weyland-Yutani. Tomoko Nakamura suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $471,279 which is 5% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Cheers,
+Laura

@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-07-23 09:52 PM
+Subject: Customer feedback digest â€” Analytics Pro Q3
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Analytics Pro. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 185, up 120ms points from last quarter. The improvement
+is driven by the MessageBroker launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 47%.
+
+Top feature requests: MessageBroker advanced filtering (185 votes), caching layer
+bulk operations (120ms votes), and enhanced Analytics Pro reporting (175ms
+votes). The filtering request aligns with what we heard in the user research study
+Ananya Desai conducted.
+
+Top complaints: MessageBroker performance during peak hours (185 mentions),
+the caching layer onboarding experience (120ms mentions), and pricing
+transparency (175ms mentions). The performance issue is being addressed
+by Engineering â€” Ananya Desai expects the fix in v3.0.0.
+
+Churn insights: 185 customers churned this quarter citing MessageBroker
+limitations as the primary reason. The caching layer overhaul on our roadmap directly
+addresses their feedback. 47% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Tuesday, December 13.
+
+Best regards,
+Mei

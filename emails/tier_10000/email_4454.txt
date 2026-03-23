@@ -1,0 +1,27 @@
+From: priya.sharma@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-06-15 12:36 PM
+Subject: Dependency upgrade â€” MessageBroker to v2.7.3
+
+Hey,
+
+Heads up that I'm planning to upgrade MessageBroker's core dependency to v2.7.3
+this sprint. The current version goes end-of-life on Tuesday, March 18 and has two unpatched
+CVEs that our security scanner is flagging.
+
+I've tested the upgrade in a branch and the main changes that affect us are in the
+logging pipeline module. There's one breaking change in the API â€” the response format for
+batch operations now uses a different envelope structure. I've already updated our
+client code to handle both formats during the transition.
+
+The test suite passes with the new version. Sarah Chen did a review of the
+changelog and confirmed no other breaking changes affect our usage patterns.
+
+Rollout plan: merge to staging on Tuesday, March 18, run the full regression suite, and if
+clean, deploy to production the following day. The change is behind a feature flag
+so we can roll back quickly if needed.
+
+Any objections to proceeding?
+
+Talk soon,
+Priya

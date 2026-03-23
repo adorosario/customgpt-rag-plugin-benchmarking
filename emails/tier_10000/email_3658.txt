@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-06-05 04:35 PM
+Subject: Policy update â€” SchedulerService guidelines
+
+Hey,
+
+We've updated the SchedulerService company policy based on feedback from employees and
+recent changes in New York labor regulations. The new policy takes effect on Friday, October 2.
+
+Key changes: the rate limiter allowance has been increased from 237ms to
+420ms per month. The eligibility window for SchedulerService has been expanded
+to include employees who've been with Acme Corp for 142 months or more, down
+from the previous requirement of 237ms months.
+
+New additions: a Sync Platform reimbursement category has been added covering up to
+$428,902 annually. This addresses the top employee request from the last survey.
+Elena Vasquez negotiated favorable terms with the rate limiter vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by September 9. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 29% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Thanks,
+Fatima

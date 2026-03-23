@@ -1,0 +1,28 @@
+From: alex.chen@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-11-02 05:19 PM
+Subject: Re: MessageBroker migration to event bus â€” status update
+
+Hi team,
+
+Quick update on the MessageBroker migration to event bus. We're about 10%
+through the planned work and tracking to finish by Tuesday, August 6.
+
+Completed this week: migrated the core data models, updated the connection pooling
+configuration, and ran the first round of performance comparisons. The new setup is
+showing 104 improvement on read-heavy workloads.
+
+Next steps: migrate the background job processing, update the monitoring dashboards,
+and run the full integration test suite against the new backend. Hannah Goldstein is
+handling the monitoring piece.
+
+One blocker: we discovered that the MessageBroker batch processing job uses a feature
+that isn't supported in event bus yet. I'm evaluating two workarounds and will
+have a recommendation by tomorrow. This might add 430ms days to the
+timeline if we go with the rewrite approach.
+
+Will send another update at end of week.
+
+Thanks,
+Alex

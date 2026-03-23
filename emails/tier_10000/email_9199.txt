@@ -1,0 +1,27 @@
+From: sarah.chen@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-08-14
+Subject: Re: Patent Filing Deadline Update
+
+Hi David,
+
+Quick update on the Nexus patent filing timeline. After reviewing the prior art search
+results with outside counsel, we need to adjust our schedule. The filing deadline has
+been moved to April 15, pushing back from the original March 30 target.
+
+The reason for the extension is that the prior art search uncovered three related filings
+from Initech that we need to carefully distinguish in our claims. Their filings cover
+some adjacent territory in the cross-platform synchronization space, but our novel
+contribution around the conflict resolution algorithm remains clearly differentiable.
+
+I've asked the patent drafting team to incorporate specific language addressing the
+Initech prior art to strengthen our position. Please coordinate with Elena from
+Engineering to make sure the technical descriptions in sections 4 through 7 accurately
+reflect the latest implementation.
+
+We should schedule a review meeting for the week of April 7 to do a final read-through
+before submission. Can you check everyone's availability?
+
+Thanks,
+Sarah

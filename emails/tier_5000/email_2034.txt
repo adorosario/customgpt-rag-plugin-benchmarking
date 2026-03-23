@@ -1,0 +1,28 @@
+From: carlos.rivera@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-06-05 01:26 PM
+Subject: Quarterly territory review â€” Q2
+
+Hey everyone,
+
+Here's my territory review for Q2. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 103 qualified opportunities worth a combined $173,123 in
+ARR. The largest deal is Pied Piper at 333ms, which I expect to close by
+Monday, August 22. Three other deals in the 301ms range are progressing through
+procurement.
+
+Wins this quarter: closed Pied Piper for Insight Engine with a 51% upsell from
+their initial scope. The caching layer add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Sarah Chen to the Pied Piper executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Talk soon,
+Carlos

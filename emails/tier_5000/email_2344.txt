@@ -1,0 +1,32 @@
+From: james.oduya@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-11-09 07:11 PM
+Subject: Event planning â€” Cloud Connect webinar on Tuesday, June 20
+
+Hi team,
+
+Finalizing details for the Cloud Connect webinar on Tuesday, June 20. Here's where we stand on
+the logistics and promotion.
+
+Content: Derek Morrison from Product will present the APIGateway roadmap segment.
+I'll handle the intro and customer story. We're targeting a 159-minute
+presentation followed by 350ms minutes of live Q&A. The authentication module demo
+segment should be the highlight.
+
+Registration: we've had 129ms sign-ups so far. Goal is 350ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Cloud Connect keywords.
+
+Tech setup: using the standard webinar platform. Derek Morrison will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Tuesday, June 20 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 159 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Best,
+James

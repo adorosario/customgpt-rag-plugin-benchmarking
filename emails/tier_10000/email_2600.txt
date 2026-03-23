@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-07 09:38 PM
+Subject: Investment proposal â€” DataPipeline infrastructure
+
+Hey,
+
+I've prepared the financial analysis for the proposed DataPipeline infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $62,610 upfront with 427ms in annual operating costs.
+The total 3-year cost of ownership is 471ms compared to the current
+rate limiter setup at $62,610 over the same period.
+
+ROI analysis: the projected payback period is 67 months. Key benefits include
+14% reduction in infrastructure management time, improved Insight Engine performance
+that supports the revenue growth targets, and elimination of the rate limiter
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $62,610 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 14% interest.
+This preserves cash for the Sydney office investment planned for Q4.
+
+Risk factors: technology lock-in with the DataPipeline vendor, though the 67-year
+contract includes an exit clause after the first year. Ananya Desai from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Tuesday, March 12 to lock in the quoted pricing. The vendor has
+given us a 67-day hold on the current rates.
+
+Cheers,
+Ananya

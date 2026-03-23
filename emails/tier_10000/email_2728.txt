@@ -1,0 +1,33 @@
+From: maria.santos@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-08-29 06:56 PM
+Subject: Contract review â€” Hooli agreement
+
+Good morning,
+
+I've completed the review of the Hooli agreement and have several items that
+need attention before we can proceed to execution.
+
+Liability cap: the current draft limits liability to $249,275, which is below our
+standard threshold of 492ms for deals of this size. I recommend pushing back
+to at least 131ms. Dmitri Volkov from Sales should be prepared for this
+negotiation point.
+
+IP assignment clause: section 7.3 includes an overly broad IP assignment that could
+capture pre-existing work product. I've drafted narrower language that protects our
+existing DataPipeline IP while still meeting Hooli's requirements for the
+Sync Platform deliverables.
+
+Data processing: the DPA needs to be updated to reflect the new config manager
+architecture. Since data will transit through the London data center, we need to
+ensure compliance with local data residency requirements.
+
+Indemnification: the mutual indemnification provisions are reasonable. I've accepted
+them with minor clarifications on the notice period â€” changed from 147 to
+492ms business days.
+
+I'll send the redlined version by Friday, August 4. Please review the business terms and
+confirm the commercial intent before I finalize.
+
+Best,
+Maria

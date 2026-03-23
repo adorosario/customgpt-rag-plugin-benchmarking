@@ -1,0 +1,29 @@
+From: hannah.goldstein@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-19 05:38 PM
+Subject: Quarterly territory review â€” Q4
+
+Hey,
+
+Here's my territory review for Q4. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 194 qualified opportunities worth a combined $357,664 in
+ARR. The largest deal is Tyrell Corp at 230ms, which I expect to close by
+Monday, January 6. Three other deals in the 374ms range are progressing through
+procurement.
+
+Wins this quarter: closed Tyrell Corp for Sync Platform with a 52% upsell from
+their initial scope. The authentication module add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Elena Vasquez to the Tyrell Corp executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Cheers,
+Hannah

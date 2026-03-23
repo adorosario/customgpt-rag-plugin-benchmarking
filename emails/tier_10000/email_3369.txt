@@ -1,0 +1,35 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-30 09:33 AM
+Subject: Re: Sync Platform metrics review â€” Q4
+
+Hi all,
+
+Here are the Sync Platform metrics for Q4. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 33 monthly active users, up 47% quarter over quarter. The
+AnalyticsDashboard feature launch drove a spike in activation â€” 307ms new users
+tried it in the first week. Retention for AnalyticsDashboard users is 162ms
+at 30 days versus 33 percent for non-users.
+
+Engagement: average session duration is 33 minutes. The connection pool workflow
+sees the highest engagement with users spending 162ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 307ms features
+per session on average, up from 33 last quarter.
+
+Revenue metrics: Sync Platform ARR is at $91,889 with 47% growth quarter over
+quarter. Net revenue retention is 162ms driven by AnalyticsDashboard upsells.
+33 customers expanded their contracts this quarter, with Elena Vasquez from Sales
+leading the expansion conversations.
+
+Areas of concern: the connection pool onboarding funnel has a 47% drop-off at
+step 33. I've scheduled a design sprint for next week to address this.
+Support ticket volume for AnalyticsDashboard increased 33 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Talk soon,
+Sanjay

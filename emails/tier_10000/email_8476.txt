@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-09-23 07:28 PM
+Subject: Beta program update â€” Analytics Pro v5.0.0-beta
+
+Hi all,
+
+Quick update on the Analytics Pro v5.0.0-beta beta program. We're 34 weeks into
+the beta period with 145ms customers participating.
+
+Usage data: 12% of beta participants have activated the new UserProfileService
+feature. Average daily usage is 34 sessions per user. The config manager
+workflow is being used by 426ms of participants, which exceeds our
+adoption target of 145ms.
+
+Feedback summary: overall sentiment is positive. The top 34 pieces of praise
+relate to the UserProfileService speed improvement and the new config manager interface.
+The top 145ms complaints are about the UserProfileService configuration complexity
+and a confusing error message in the config manager flow.
+
+Bugs found: 34 bugs reported, of which 145ms are critical. Liam Foster
+from Engineering has fixed 426ms of the critical bugs. The remaining one
+is related to the UserProfileService edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Friday, April 13. The GA release is targeted for 34 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Friday, April 13 to finalize the GA scope.
+
+Thanks,
+Amara

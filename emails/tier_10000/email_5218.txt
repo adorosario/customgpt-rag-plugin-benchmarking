@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-06-12 10:58 PM
+Subject: Cash flow forecast â€” Q3
+
+Hi all,
+
+Attached is the cash flow forecast for Q3. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $192,549 based on the current AR aging
+and sales pipeline. The Tyrell Corp payment of 266ms is expected by Monday, June 2
+â€” Ravi Patel from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the WebhookDispatcher infrastructure
+investment at $192,549. The Singapore office build-out costs will hit in Q3
+with an estimated total of 123ms. Payroll continues at 266ms
+monthly for our 90-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $192,549 in the second month. This provides 90 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Tyrell Corp deal slips from Q3 to next quarter, we'll
+need to draw on the credit facility for $192,549. I've confirmed the line is
+available. Ravi Patel and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Regards,
+Ananya

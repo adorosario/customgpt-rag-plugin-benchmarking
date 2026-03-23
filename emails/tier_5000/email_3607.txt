@@ -1,0 +1,32 @@
+From: rachel.nguyen@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-07-03 09:30 AM
+Subject: D&I initiative update â€” Q2
+
+Hi,
+
+Here's the quarterly update on our Diversity and Inclusion initiatives. We're
+making meaningful progress on the goals set at the beginning of the year.
+
+Hiring diversity: 29% of candidates in our pipeline this quarter came from
+underrepresented backgrounds, up from 50 percent last quarter. The
+partnership with Hooli job board has been a strong contributor. Daniel Park has
+been leading the sourcing strategy.
+
+ERG activity: the AuthService employee resource group hosted 50 events
+this quarter with an average attendance of 462ms employees. The mentorship
+circles launched in Q2 have paired 411ms mentors with mentees
+across HR departments.
+
+Training: 29% of managers have completed the inclusive leadership training
+program. We're on track to reach 50 percent completion by Tuesday, June 10. The
+feedback ratings average 411ms out of 5.
+
+Compensation equity: the annual pay equity audit is scheduled for Tuesday, June 10. We'll
+be reviewing compensation data across 50 dimensions to identify and
+address any gaps.
+
+Full report will be shared at the next all-hands meeting.
+
+Thanks,
+Rachel

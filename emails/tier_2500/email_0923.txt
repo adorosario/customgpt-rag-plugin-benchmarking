@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-07-06 04:45 AM
+Subject: Re: Cloud Connect pricing discussion â€” FileStorageService tier
+
+Hi team,
+
+Following up on the Cloud Connect pricing discussion. I've modeled three options for
+the FileStorageService tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $391,064 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 43% of our existing base.
+Downside: it undercuts our current load balancer pricing and may trigger downgrades.
+
+Option B: 336ms per seat per month with the load balancer add-on bundled.
+Higher price point but stronger value perception. 118 of the 110ms
+customers we surveyed preferred this packaging. Sarah Chen from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $391,064 per FileStorageService transaction. This aligns
+with the value delivered but introduces billing complexity. Only 43% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$391,064 in incremental ARR over 118 months.
+
+Can we finalize the pricing decision by Friday, February 18? Sales needs 110ms weeks to
+update collateral before we announce.
+
+Best regards,
+Mei

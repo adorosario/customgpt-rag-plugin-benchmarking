@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-09-10 01:26 AM
+Subject: Tax planning â€” Q1 estimated payments
+
+Hey everyone,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the ReportingEngine investment
+deductions.
+
+Federal estimate: $304,361 based on projected taxable income of 101ms.
+This reflects the ReportingEngine depreciation deductions and the R&D tax credit for
+the Analytics Pro development costs. Rachel Nguyen from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $304,361 for our primary jurisdiction and 398ms for the
+Singapore office based on the apportionment factors. The Singapore rate change that
+takes effect on Monday, July 8 will impact our Q1 estimate by approximately 93
+percent.
+
+International: with the Singapore office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Rachel Nguyen to handle
+the registration. Setup cost is $304,361 with ongoing compliance costs of
+398ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Monday, July 8. I'll prepare the
+payment authorization for your signature by April 20. Underpayment penalties
+start at 18% so timely filing is important.
+
+Thanks,
+Robert

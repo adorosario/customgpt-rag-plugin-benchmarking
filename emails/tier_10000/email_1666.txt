@@ -1,0 +1,29 @@
+From: hannah.goldstein@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-04 05:31 PM
+Subject: Quarterly territory review â€” Q3
+
+Hey,
+
+Here's my territory review for Q3. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 153 qualified opportunities worth a combined $371,862 in
+ARR. The largest deal is Cyberdyne at 128ms, which I expect to close by
+Thursday, October 12. Three other deals in the 300ms range are progressing through
+procurement.
+
+Wins this quarter: closed Cyberdyne for Integration Hub with a 18% upsell from
+their initial scope. The rate limiter add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Marcus Thompson to the Cyberdyne executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Best regards,
+Hannah

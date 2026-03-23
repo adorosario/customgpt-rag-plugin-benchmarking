@@ -1,0 +1,33 @@
+From: fatima.al-rashid@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-09-29 11:55 PM
+Subject: Re: Workplace safety update â€” FileStorageService
+
+Hi team,
+
+Following up on the workplace safety review. The FileStorageService assessment is complete
+and here are the findings and required actions.
+
+Office inspections: all 129 floor areas passed the basic safety checklist.
+The load balancer room needs minor improvements â€” the emergency exit signage has
+faded and one fire extinguisher is due for inspection by Thursday, September 2. Sofia Martinez from
+facilities is handling these items.
+
+Ergonomic assessments: 233ms employees requested desk ergonomic reviews
+this quarter. Common issues include monitor height and chair adjustments. We've
+ordered 129 standing desk converters and 340ms ergonomic chairs based
+on the assessments.
+
+Emergency preparedness: the next fire drill is scheduled for Thursday, September 2. All floor
+wardens need to complete the refresher training before then. 50% of wardens
+are current on their certifications.
+
+Incident report: 129 minor incidents were reported this quarter, all resolved
+without injury. The FileStorageService area has been flagged for improved lighting, with
+work scheduled for Thursday, September 2.
+
+Please remind your teams about the safety hotline and reporting procedures.
+
+Cheers,
+Fatima

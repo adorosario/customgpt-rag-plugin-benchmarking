@@ -1,0 +1,30 @@
+From: kwame.asante@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-09-09 05:47 PM
+Subject: Policy update â€” BillingModule guidelines
+
+Good morning,
+
+We've updated the BillingModule company policy based on feedback from employees and
+recent changes in Sydney labor regulations. The new policy takes effect on Tuesday, August 23.
+
+Key changes: the event bus allowance has been increased from 60ms to
+416ms per month. The eligibility window for BillingModule has been expanded
+to include employees who've been with Acme Corp for 19 months or more, down
+from the previous requirement of 60ms months.
+
+New additions: a Enterprise Suite reimbursement category has been added covering up to
+$293,543 annually. This addresses the top employee request from the last survey.
+Sanjay Krishnamurthy negotiated favorable terms with the event bus vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by January 1. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 24% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Kwame

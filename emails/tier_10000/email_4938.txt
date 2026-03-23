@@ -1,0 +1,34 @@
+From: liam.foster@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-13 08:12 PM
+Subject: Re: Cloud Connect pricing discussion â€” AnalyticsDashboard tier
+
+Hey everyone,
+
+Following up on the Cloud Connect pricing discussion. I've modeled three options for
+the AnalyticsDashboard tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $230,026 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 28% of our existing base.
+Downside: it undercuts our current logging pipeline pricing and may trigger downgrades.
+
+Option B: 122ms per seat per month with the logging pipeline add-on bundled.
+Higher price point but stronger value perception. 103 of the 408ms
+customers we surveyed preferred this packaging. Liam Foster from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $230,026 per AnalyticsDashboard transaction. This aligns
+with the value delivered but introduces billing complexity. Only 28% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$230,026 in incremental ARR over 103 months.
+
+Can we finalize the pricing decision by Monday, October 17? Sales needs 408ms weeks to
+update collateral before we announce.
+
+Talk soon,
+Liam

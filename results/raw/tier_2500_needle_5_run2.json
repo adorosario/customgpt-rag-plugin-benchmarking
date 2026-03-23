@@ -1,0 +1,21 @@
+{
+  "tier": 2500,
+  "question_id": "needle_5",
+  "question_type": "hard",
+  "run": 2,
+  "question": "How much is the CloudScale vendor contract renewal per year?",
+  "model": "claude-sonnet-4-6",
+  "response": "No emails in this directory mention \"CloudScale.\" The term doesn't appear in any of the 2500-tier email files.\n\nCould you clarify where the CloudScale contract information is stored? It may be in a different directory, document, or email tier.",
+  "time_seconds": 31.93,
+  "num_turns": 4,
+  "cost_usd": 0.1337724,
+  "input_tokens": 6,
+  "cache_creation_tokens": 26100,
+  "cache_read_tokens": 98898,
+  "output_tokens": 414,
+  "total_tokens": 125418,
+  "duration_api_ms": 18646,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

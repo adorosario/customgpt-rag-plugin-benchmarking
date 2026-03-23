@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-07-15 07:54 PM
+Subject: Event planning â€” Cloud Connect webinar on Monday, October 8
+
+Hey,
+
+Finalizing details for the Cloud Connect webinar on Monday, October 8. Here's where we stand on
+the logistics and promotion.
+
+Content: Sofia Martinez from Product will present the NotificationEngine roadmap segment.
+I'll handle the intro and customer story. We're targeting a 111-minute
+presentation followed by 284ms minutes of live Q&A. The caching layer demo
+segment should be the highlight.
+
+Registration: we've had 347ms sign-ups so far. Goal is 284ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Cloud Connect keywords.
+
+Tech setup: using the standard webinar platform. Sofia Martinez will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Monday, October 8 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 111 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Talk soon,
+Sofia

@@ -1,0 +1,21 @@
+{
+  "tier": 10,
+  "question_id": "pattern_3",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What issues has Initech reported and how is the team responding?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the emails in this dataset, here's what's documented about Initech:\n\n**Issues Reported:**\n- **API latency complaint** \u00e2\u20ac\u201d Initech raised concerns about API response times and performance\n- **SLA breach** \u00e2\u20ac\u201d A performance SLA breach was reported (email_0006 subject line)\n\n**Team Response:**\nBoth emails describe the team as \"making good progress\" and \"focused on delivering results\" across the Initech, API, latency, SLA, and response time dimensions \u00e2\u20ac\u201d though the language is notably generic and repetitive, suggesting these are placeholder/synthetic benchmark emails rather than real correspondence.\n\n**Notable context:**\n- `email_0005` (Wei Zhang \u00e2\u2020\u2019 Derek Morrison, Nov 19 2025): Escalation update noting customer support tickets decreased 15% since last release\n- `email_0006` (Tomoko Nakamura \u00e2\u2020\u2019 Sofia Martinez, Oct 31 2025): Follow-up on SLA breach, mentioning server performance has been stable since a recent patch\n\nThe emails don't contain specific technical details \u00e2\u20ac\u201d they appear to be synthetic test data for the benchmarking system in this repo. The actual substance of Initech's issues and the team's concrete response steps aren't captured in these files.",
+  "time_seconds": 36.21,
+  "num_turns": 5,
+  "cost_usd": 0.08950275,
+  "input_tokens": 6,
+  "cache_creation_tokens": 12617,
+  "cache_read_tokens": 102470,
+  "output_tokens": 762,
+  "total_tokens": 115855,
+  "duration_api_ms": 24344,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

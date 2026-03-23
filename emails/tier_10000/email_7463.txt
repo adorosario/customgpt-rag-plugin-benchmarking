@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-23 01:54 PM
+Subject: A/B test results â€” WebhookDispatcher experiment
+
+Hi,
+
+The WebhookDispatcher A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 185 days with 116ms users in each cohort.
+
+Variant A (control): the existing connection pool flow. Conversion rate of
+436ms with an average task completion time of 185 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified WebhookDispatcher step.
+Conversion rate of 116ms with task completion time of 436ms seconds.
+This represents a 20% improvement in conversion and 185 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 185 to 116ms
+in the treatment group. Support ticket volume for WebhookDispatcher related issues
+decreased by 20%. No negative impact on connection pool engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Kwame Asante from Engineering can have this
+deployed by Wednesday, May 24.
+
+One caveat: the test population skewed toward Insight Engine power users. We should
+monitor new user behavior closely for the first 185 weeks after full rollout.
+
+Cheers,
+Daniel

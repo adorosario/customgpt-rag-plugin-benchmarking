@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-08 10:42 PM
+Subject: Re: User research findings â€” AuthService
+
+Hi team,
+
+Sharing the findings from the AuthService user research study. We interviewed
+172 users and ran usability tests with 132ms participants over the
+last two weeks.
+
+Key insight 1: users find the serialization engine workflow confusing â€” 15% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between AuthService and the main Enterprise Suite dashboard.
+
+Key insight 2: power users want more AuthService customization options. They're
+currently using workarounds that involve 172 extra steps. The most requested
+feature is the ability to create custom serialization engine templates.
+
+Key insight 3: new users consistently miss the AuthService feature entirely.
+Discovery is poor â€” only 15% of new users try the feature within their first
+172 days. Tomoko Nakamura suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the serialization engine navigation flow, add the template
+feature to the Q2 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 15% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Cheers,
+Liam

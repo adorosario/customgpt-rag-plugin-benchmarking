@@ -1,0 +1,31 @@
+From: fatima.al-rashid@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-08-09 05:58 AM
+Subject: Onboarding schedule â€” new hire starting Thursday, October 15
+
+Hey,
+
+We have a new team member joining Engineering on Thursday, October 15. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, SchedulerService systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Rachel Nguyen will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Data Vault and the serialization engine tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Thursday, October 15. All software licenses including SchedulerService and serialization engine access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 185 people to schedule intro meetings with, and first
+107ms-day goals. Please send these to Rachel Nguyen in People Ops.
+
+Welcome email goes out 185 days before start date.
+
+Regards,
+Fatima

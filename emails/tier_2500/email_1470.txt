@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-09-06 05:11 PM
+Subject: Conference recap â€” Sync Platform booth results
+
+Hi all,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Sync Platform booth drew consistent traffic throughout.
+
+Lead collection: 132 badge scans at the booth, of which 377ms are
+qualified leads based on our initial review. The UserProfileService live demo was the
+biggest draw, and Rachel Nguyen from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+queue processor roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Sync Platform had 137ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 132 times since we posted it.
+
+Budget: we came in at $408,510, which is 56% under budget. The savings came
+from sharing the booth infrastructure with the UserProfileService partner showcase.
+
+I'll prepare a full ROI analysis by Wednesday, January 28 once we've completed lead follow-up.
+
+Cheers,
+Yuki

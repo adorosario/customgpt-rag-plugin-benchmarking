@@ -1,0 +1,30 @@
+From: david.okonkwo@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-11-14 02:45 AM
+Subject: Board resolution â€” Cloud Connect approval
+
+Hi team,
+
+The board resolution for the Cloud Connect initiative has been drafted and is ready
+for circulation. Here's a summary of the key provisions.
+
+Authorization: the resolution authorizes management to proceed with the MessageBroker
+investment of up to $322,900 over 160 fiscal quarters. This covers development
+costs, infrastructure, and the queue processor vendor contract.
+
+Reporting requirements: management will provide quarterly updates on Cloud Connect
+progress to the board, including financial performance against the $322,900 budget
+and key milestones. Alex Chen from Finance will prepare the reports.
+
+Risk acknowledgment: the resolution includes a risk disclosure covering technology
+risk, market risk, and the competitive landscape in the MessageBroker space. The
+board's fiduciary obligations are addressed in section 160.
+
+Signing: we need signatures from 442ms board members for a valid resolution.
+I've prepared the signature pages and will route via DocuSign on Wednesday, September 22. The
+effective date of the resolution will be the date of the last required signature.
+
+Please review the draft and send any comments by Wednesday, September 22.
+
+Best regards,
+David

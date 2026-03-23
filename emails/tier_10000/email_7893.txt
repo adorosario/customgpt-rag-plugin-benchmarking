@@ -1,0 +1,30 @@
+From: kwame.asante@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-10-22 06:19 AM
+Subject: Re: Employee survey results â€” Q2
+
+Good morning,
+
+The Q2 employee engagement survey results are in. Response rate was 19%,
+up 16 points from the last survey. Here are the key findings.
+
+Overall satisfaction: 415ms out of 5, which is consistent with the
+previous quarter. The Legal department scored highest at 317ms while the
+FileStorageService team showed the largest improvement at plus 16 points.
+
+Top strengths: colleagues and team culture scored 415ms, manager
+effectiveness scored 317ms, and work-life balance scored 16. Employees
+particularly appreciated the flexible caching layer policy and the recent team events.
+
+Areas for improvement: career development pathways scored lowest at 16 out of 5.
+Employees want more clarity on promotion criteria and more frequent feedback.
+Cross-department communication was another area flagged â€” 19% of respondents
+said they don't have enough visibility into what other teams are working on.
+
+Action plan: Daniel Park is leading a working group to address the career development
+feedback. We'll publish a response with specific commitments by Wednesday, July 26.
+
+Department-level reports will be shared with managers this week.
+
+Thanks,
+Kwame

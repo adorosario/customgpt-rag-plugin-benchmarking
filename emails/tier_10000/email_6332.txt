@@ -1,0 +1,27 @@
+From: hannah.goldstein@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-20 12:27 PM
+Subject: Re: Tyrell Corp renewal â€” risk assessment
+
+Hi,
+
+Following up on the Tyrell Corp renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing PaymentGateway latency issues for the past 160 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Tyrell Corp has mentioned they're evaluating alternatives for their service mesh needs.
+
+The renewal is worth $58,478 annually and is up for renewal at the end of
+Q3. I think we need a proactive retention strategy. My proposal:
+
+First, get Patrick O'Brien from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 42% discount
+on the expanded Enterprise Suite tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Best,
+Hannah

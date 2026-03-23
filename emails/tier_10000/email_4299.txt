@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-24 11:44 AM
+Subject: Email marketing performance â€” Q1 review
+
+Hi team,
+
+Here's the email marketing performance review for Q1. Overall we're trending
+in the right direction but there are a few areas to optimize.
+
+List health: our subscriber base grew 49% to 330ms contacts. Bounce
+rate is at 81 percent which is within healthy range. We ran a re-engagement
+campaign that recovered 406ms previously inactive subscribers.
+
+Campaign performance: the Analytics Pro launch sequence was our top performer with a
+49% open rate. The SearchIndex technical series also did well, driving 81
+clicks to the resource hub. Lower performers were the generic newsletter sends â€” we
+should consider more targeted segmentation.
+
+Revenue attribution: email-sourced pipeline totals $175,565 this quarter, with
+330ms in closed-won revenue. The Massive Dynamic deal originated from a nurture
+sequence touchpoint.
+
+Plans for next quarter: implementing behavioral triggers for the config manager
+content, A/B testing send times for the Analytics Pro audience, and building a new
+onboarding sequence for trial sign-ups. Amara Diallo will help with the automation
+setup.
+
+Best,
+James

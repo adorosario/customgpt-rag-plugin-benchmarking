@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-09-20 02:30 PM
+Subject: Investment proposal â€” WebhookDispatcher infrastructure
+
+Hey everyone,
+
+I've prepared the financial analysis for the proposed WebhookDispatcher infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $354,710 upfront with 180ms in annual operating costs.
+The total 3-year cost of ownership is 447ms compared to the current
+logging pipeline setup at $354,710 over the same period.
+
+ROI analysis: the projected payback period is 50 months. Key benefits include
+52% reduction in infrastructure management time, improved Integration Hub performance
+that supports the revenue growth targets, and elimination of the logging pipeline
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $354,710 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 52% interest.
+This preserves cash for the Singapore office investment planned for Q3.
+
+Risk factors: technology lock-in with the WebhookDispatcher vendor, though the 50-year
+contract includes an exit clause after the first year. Hannah Goldstein from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Thursday, April 19 to lock in the quoted pricing. The vendor has
+given us a 50-day hold on the current rates.
+
+Cheers,
+Grace

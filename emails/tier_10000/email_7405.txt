@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-09-29 03:51 AM
+Subject: A/B test results â€” ReportingEngine experiment
+
+Hey,
+
+The ReportingEngine A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 50 days with 482ms users in each cohort.
+
+Variant A (control): the existing caching layer flow. Conversion rate of
+303ms with an average task completion time of 50 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified ReportingEngine step.
+Conversion rate of 482ms with task completion time of 303ms seconds.
+This represents a 14% improvement in conversion and 50 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 50 to 482ms
+in the treatment group. Support ticket volume for ReportingEngine related issues
+decreased by 14%. No negative impact on caching layer engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Michael Brennan from Engineering can have this
+deployed by Wednesday, June 27.
+
+One caveat: the test population skewed toward Data Vault power users. We should
+monitor new user behavior closely for the first 50 weeks after full rollout.
+
+Talk soon,
+Amara

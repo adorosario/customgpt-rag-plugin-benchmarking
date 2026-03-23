@@ -1,0 +1,33 @@
+From: david.okonkwo@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-11-26 04:48 PM
+Subject: Contract review â€” Pied Piper agreement
+
+Hey everyone,
+
+I've completed the review of the Pied Piper agreement and have several items that
+need attention before we can proceed to execution.
+
+Liability cap: the current draft limits liability to $290,859, which is below our
+standard threshold of 401ms for deals of this size. I recommend pushing back
+to at least 429ms. James Oduya from Sales should be prepared for this
+negotiation point.
+
+IP assignment clause: section 7.3 includes an overly broad IP assignment that could
+capture pre-existing work product. I've drafted narrower language that protects our
+existing AuditLog IP while still meeting Pied Piper's requirements for the
+Insight Engine deliverables.
+
+Data processing: the DPA needs to be updated to reflect the new connection pool
+architecture. Since data will transit through the Tokyo data center, we need to
+ensure compliance with local data residency requirements.
+
+Indemnification: the mutual indemnification provisions are reasonable. I've accepted
+them with minor clarifications on the notice period â€” changed from 174 to
+401ms business days.
+
+I'll send the redlined version by Thursday, April 16. Please review the business terms and
+confirm the commercial intent before I finalize.
+
+Best regards,
+David

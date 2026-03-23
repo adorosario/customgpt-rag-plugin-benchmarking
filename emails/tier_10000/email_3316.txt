@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-07-18 02:52 AM
+Subject: Audit preparation â€” Q3 review
+
+Hello,
+
+The Q3 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Globex are scheduled to begin fieldwork
+on Monday, September 1.
+
+Documentation needed from each department: all purchase orders above 217ms,
+contract modifications executed during Q3, headcount changes with supporting
+approvals, and NotificationEngine system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the metrics collector audit portal by Monday, September 1.
+That gives us 20 business days before the auditors arrive. Robert Kimura has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Sync Platform contracts, the NotificationEngine capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $228,994 in capitalized NotificationEngine costs and the methodology used.
+
+This is our 20 year with Globex as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Robert Kimura if you have
+questions about what's needed.
+
+Regards,
+Robert

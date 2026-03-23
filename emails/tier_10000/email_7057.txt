@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-11-01 02:22 AM
+Subject: A/B test results â€” DataPipeline experiment
+
+Hello,
+
+The DataPipeline A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 27 days with 409ms users in each cohort.
+
+Variant A (control): the existing service mesh flow. Conversion rate of
+480ms with an average task completion time of 27 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified DataPipeline step.
+Conversion rate of 409ms with task completion time of 480ms seconds.
+This represents a 14% improvement in conversion and 27 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 27 to 409ms
+in the treatment group. Support ticket volume for DataPipeline related issues
+decreased by 14%. No negative impact on service mesh engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Kwame Asante from Engineering can have this
+deployed by Thursday, June 17.
+
+One caveat: the test population skewed toward Integration Hub power users. We should
+monitor new user behavior closely for the first 27 weeks after full rollout.
+
+Best regards,
+Amara

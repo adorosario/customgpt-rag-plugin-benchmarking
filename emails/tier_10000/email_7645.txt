@@ -1,0 +1,30 @@
+From: hannah.goldstein@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-08-11 03:53 PM
+Subject: Competitive intel â€” Soylent Corp evaluation
+
+Hey everyone,
+
+Got some useful competitive intelligence from the Soylent Corp account that I want to
+share with the team.
+
+Soylent Corp shared their evaluation criteria and mentioned they're also looking at
+DataPipeline as an alternative to our Cloud Connect. From what I gathered, DataPipeline
+is pitching a lower price point but doesn't have feature parity on the service mesh
+side.
+
+Key differentiators working in our favor: our Cloud Connect handles 41 concurrent
+connections versus their published limit of 406ms. Our uptime SLA is also
+stronger at 236ms versus their 50% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for DataPipeline and
+consider a streamlined trial process for mid-market accounts. Amara Diallo from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Monday, March 23.
+
+Best,
+Hannah

@@ -1,0 +1,33 @@
+From: amara.diallo@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-08-23 05:45 AM
+Subject: Customer feedback digest â€” Analytics Pro Q1
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Analytics Pro. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 128, up 166ms points from last quarter. The improvement
+is driven by the SchedulerService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 22%.
+
+Top feature requests: SchedulerService advanced filtering (128 votes), serialization engine
+bulk operations (166ms votes), and enhanced Analytics Pro reporting (334ms
+votes). The filtering request aligns with what we heard in the user research study
+Hannah Goldstein conducted.
+
+Top complaints: SchedulerService performance during peak hours (128 mentions),
+the serialization engine onboarding experience (166ms mentions), and pricing
+transparency (334ms mentions). The performance issue is being addressed
+by Engineering â€” Hannah Goldstein expects the fix in v3.0.0.
+
+Churn insights: 128 customers churned this quarter citing SchedulerService
+limitations as the primary reason. The serialization engine overhaul on our roadmap directly
+addresses their feedback. 22% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Monday, April 17.
+
+Regards,
+Amara

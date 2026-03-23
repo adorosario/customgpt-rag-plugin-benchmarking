@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-09-02 04:15 PM
+Subject: Analytics report â€” Data Vault campaign performance
+
+Hi all,
+
+Here's the performance report for the Data Vault campaign through Wednesday, February 11.
+
+Website traffic: up 49% month over month, driven primarily by the AuthService
+comparison blog post which brought in 171 unique visitors. Organic search is
+growing steadily â€” the service mesh keyword cluster is now ranking on page one.
+
+Lead generation: 434ms marketing qualified leads this month against a
+target of 474ms. The whitepaper download page converted at 49% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 171 percent.
+
+Email campaigns: the Data Vault nurture sequence has a 49% open rate and
+171 percent click-through rate. The top-performing email was the AuthService
+case study with Tyrell Corp. Yuki Sato suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $208,393 which is 49% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Cheers,
+Yuki

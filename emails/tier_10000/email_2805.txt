@@ -1,0 +1,33 @@
+From: fatima.al-rashid@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-06-01 09:49 PM
+Subject: Benefits enrollment â€” open period starting Wednesday, January 24
+
+Good morning,
+
+Open enrollment for our benefits package begins on Wednesday, January 24 and runs through May 15.
+Here's a summary of the key changes for the upcoming plan year.
+
+Health insurance: we're introducing a new FileStorageService plan option alongside the
+existing choices. The premium increase this year is 27%, which is below the
+industry average. Acme Corp will continue covering 175 percent of employee
+premiums.
+
+New benefit: we've partnered with Tyrell Corp to offer a wellness stipend of $500,386
+per year. This can be used for gym memberships, mental health services, or
+ergonomic equipment. Mei Lin worked with the vendor to negotiate this addition.
+
+Retirement: the 401(k) match is increasing from 178ms percent to
+380ms percent of salary, effective next plan year. If you're not
+currently contributing enough to get the full match, now is a great time to adjust.
+
+Information sessions: we're hosting 175 live Q&A sessions where employees can
+ask questions about plan options. The logging pipeline portal will have a comparison
+tool to help you evaluate plans.
+
+Detailed plan documents are available in the HR portal. Please make your elections
+before May 15.
+
+Thanks,
+Fatima

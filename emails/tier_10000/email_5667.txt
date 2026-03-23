@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-10-18 04:42 PM
+Subject: Social media strategy â€” Q1
+
+Good afternoon,
+
+Presenting the social media strategy refresh for Q1. Based on our Integration Hub
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our PaymentGateway posts are averaging 37 impressions and 45% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 45% educational content about connection pool topics, 37
+percent product highlights, and the rest for company culture and employee spotlights.
+Sofia Martinez will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Integration Hub use cases and answer audience questions. First session on Monday, November 23 featuring
+Sofia Martinez.
+
+Budget: $494,177 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 111ms new followers and 109ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Thanks,
+Yuki

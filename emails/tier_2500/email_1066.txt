@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-07-31 10:37 PM
+Subject: Beta program update â€” Sync Platform v2.6.0
+
+Hi all,
+
+Quick update on the Sync Platform v2.6.0 beta program. We're 16 weeks into
+the beta period with 102ms customers participating.
+
+Usage data: 55% of beta participants have activated the new PaymentGateway
+feature. Average daily usage is 16 sessions per user. The metrics collector
+workflow is being used by 79ms of participants, which exceeds our
+adoption target of 102ms.
+
+Feedback summary: overall sentiment is positive. The top 16 pieces of praise
+relate to the PaymentGateway speed improvement and the new metrics collector interface.
+The top 102ms complaints are about the PaymentGateway configuration complexity
+and a confusing error message in the metrics collector flow.
+
+Bugs found: 16 bugs reported, of which 102ms are critical. Robert Kimura
+from Engineering has fixed 79ms of the critical bugs. The remaining one
+is related to the PaymentGateway edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Wednesday, June 3. The GA release is targeted for 16 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Wednesday, June 3 to finalize the GA scope.
+
+Regards,
+Liam

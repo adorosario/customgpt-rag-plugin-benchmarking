@@ -1,0 +1,29 @@
+From: ananya.desai@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-11-28 08:49 AM
+Subject: Re: Expense report flagged â€” SchedulerService charges
+
+Hello,
+
+I noticed some items on the SchedulerService expense report submitted by Yuki Sato
+that need clarification before I can approve them.
+
+The queue processor subscription charge of $293,066 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+374ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Hooli dinner on Thursday, May 21 for $293,066 exceeds our per-person meal
+reimbursement limit of 374ms. If this was a client entertainment expense,
+it should be coded to the client development budget under SchedulerService rather than
+general T&E. 159 attendees at that amount puts us at 324ms per
+person which is within the client entertainment policy.
+
+The remaining 159 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 374ms business days after approval.
+
+Please resubmit with the corrections by Thursday, May 21 so we can keep things on track.
+
+Thanks,
+Ananya

@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-08-24 03:40 AM
+Subject: Feature spec â€” CacheLayer integration
+
+Good afternoon,
+
+The feature spec for the CacheLayer integration is ready for review. This is
+targeting the v1.9.5 release in Q2.
+
+Problem statement: 37% of our enterprise prospects cite the lack of
+CacheLayer integration as a blocker. The current workaround through the
+caching layer API is unreliable and requires 16 hours of custom development
+from customers.
+
+Proposed solution: native CacheLayer integration with bi-directional sync.
+Users configure the connection through the Sync Platform settings page and data
+flows automatically. The sync runs every 156ms minutes with conflict
+resolution handled by our algorithm.
+
+Scope: phase 1 covers read and write operations for the core CacheLayer objects.
+Phase 2 adds real-time webhooks and custom field mapping. Priya Sharma from Engineering
+estimates 16 sprints for phase 1 and 156ms for phase 2.
+
+Success metrics: 16 enterprise customers adopt the integration within 90 days
+of launch, CacheLayer related support tickets decrease by 37%, and the
+feature contributes to $398,611 in new ARR.
+
+Please review the full spec in Confluence and leave comments by Wednesday, July 27.
+
+Talk soon,
+Liam

@@ -1,0 +1,31 @@
+From: aisha.okafor@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-31 07:36 PM
+Subject: Client meeting recap â€” Soylent Corp Friday, November 4
+
+Hey,
+
+Recapping today's meeting with Soylent Corp. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their UserProfileService
+team lead. From ours: myself, Robert Kimura from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their rate limiter vendors
+from three down to one. Our Sync Platform covers 16% of their requirements
+natively. The remaining gap is around UserProfileService integrations, which Robert Kimura
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Friday, November 4 and begin
+implementation in Q3. Budget has been pre-approved at $131,083 for the
+first year.
+
+Action items: send the Sync Platform technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their rate limiter workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Best,
+Aisha

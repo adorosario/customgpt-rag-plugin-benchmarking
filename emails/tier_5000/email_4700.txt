@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-07-02 03:43 PM
+Subject: Conference recap â€” Enterprise Suite booth results
+
+Good morning,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Enterprise Suite booth drew consistent traffic throughout.
+
+Lead collection: 13 badge scans at the booth, of which 112ms are
+qualified leads based on our initial review. The UserProfileService live demo was the
+biggest draw, and Ananya Desai from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+config manager roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Enterprise Suite had 362ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 13 times since we posted it.
+
+Budget: we came in at $203,617, which is 19% under budget. The savings came
+from sharing the booth infrastructure with the UserProfileService partner showcase.
+
+I'll prepare a full ROI analysis by Friday, May 8 once we've completed lead follow-up.
+
+Thanks,
+James

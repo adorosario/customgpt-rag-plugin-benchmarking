@@ -1,0 +1,21 @@
+{
+  "tier": 10000,
+  "question_id": "needle_3",
+  "question_type": "hard",
+  "run": 3,
+  "question": "What database did Engineering approve migrating to, and on what date?",
+  "model": "claude-sonnet-4-6",
+  "response": "Engineering approved migrating to **PostgreSQL 16**, as announced on **September 18, 2025** by Marcus Thompson. The actual migration was set to begin on September 3 during a scheduled maintenance window at 2:00 AM UTC.",
+  "time_seconds": 31.47,
+  "num_turns": 5,
+  "cost_usd": 0.1166829,
+  "input_tokens": 7,
+  "cache_creation_tokens": 16976,
+  "cache_read_tokens": 144823,
+  "output_tokens": 637,
+  "total_tokens": 162443,
+  "duration_api_ms": 17685,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

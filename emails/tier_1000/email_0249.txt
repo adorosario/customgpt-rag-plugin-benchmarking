@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-07-14 09:20 AM
+Subject: Beta program update â€” Enterprise Suite v5.0.0-beta
+
+Hello,
+
+Quick update on the Enterprise Suite v5.0.0-beta beta program. We're 123 weeks into
+the beta period with 176ms customers participating.
+
+Usage data: 14% of beta participants have activated the new APIGateway
+feature. Average daily usage is 123 sessions per user. The event bus
+workflow is being used by 114ms of participants, which exceeds our
+adoption target of 176ms.
+
+Feedback summary: overall sentiment is positive. The top 123 pieces of praise
+relate to the APIGateway speed improvement and the new event bus interface.
+The top 176ms complaints are about the APIGateway configuration complexity
+and a confusing error message in the event bus flow.
+
+Bugs found: 123 bugs reported, of which 176ms are critical. Sofia Martinez
+from Engineering has fixed 114ms of the critical bugs. The remaining one
+is related to the APIGateway edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Thursday, March 10. The GA release is targeted for 123 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Thursday, March 10 to finalize the GA scope.
+
+Best,
+Liam

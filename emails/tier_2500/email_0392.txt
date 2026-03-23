@@ -1,0 +1,26 @@
+From: jun.tanaka@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-10-13 01:38 AM
+Subject: Pipeline update â€” Oscorp deal status
+
+Good morning,
+
+Quick update on the Oscorp opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $330,321 for the Sync Platform deployment. The
+decision timeline is end of Q1. Their main concern remains the integration
+with their existing BillingModule infrastructure, which is why I've looped in Carlos Rivera
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Oscorp is also evaluating one other vendor but our
+Sync Platform demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our queue processor capability.
+
+Next steps: technical architecture session on Friday, August 5, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 58%.
+
+Cheers,
+Jun

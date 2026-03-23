@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-10-31 06:15 AM
+Subject: Payroll adjustment â€” Thursday, October 11 cycle
+
+Good morning,
+
+Several payroll adjustments need to be processed for the Thursday, October 11 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 68 employees received approved raises effective Thursday, October 11. The
+total monthly payroll impact is $426,754. The largest increase is for Derek Morrison
+whose compensation moves from 303ms to 147ms based on the promotion
+approved in the Q1 review cycle.
+
+New hires: 68 new employees starting on Thursday, October 11 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Derek Morrison
+in People Ops has verified the documentation.
+
+Bonus payouts: the SearchIndex project completion bonus of $426,754 each goes to
+68 team members. These are one-time payments coded to the Finance department
+budget. Tax withholding will be calculated at the supplemental rate of 14%.
+
+Deduction changes: 68 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from authentication module.
+
+Please approve the batch by February 14 to ensure on-time processing.
+
+Thanks,
+Ananya

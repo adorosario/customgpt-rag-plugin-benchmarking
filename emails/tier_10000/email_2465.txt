@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-09-17 05:36 AM
+Subject: Audit preparation â€” Q4 review
+
+Hi,
+
+The Q4 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Globex are scheduled to begin fieldwork
+on Friday, July 2.
+
+Documentation needed from each department: all purchase orders above 62ms,
+contract modifications executed during Q4, headcount changes with supporting
+approvals, and WebhookDispatcher system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the queue processor audit portal by Friday, July 2.
+That gives us 66 business days before the auditors arrive. Wei Zhang has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Integration Hub contracts, the WebhookDispatcher capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $242,447 in capitalized WebhookDispatcher costs and the methodology used.
+
+This is our 66 year with Globex as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Wei Zhang if you have
+questions about what's needed.
+
+Thanks,
+Robert

@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-31 08:46 PM
+Subject: Financial close checklist â€” Q2
+
+Hi team,
+
+The Q2 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Enterprise Suite invoices must be issued by Thursday, December 2. Any revenue recognition
+adjustments for the DataPipeline contracts need supporting documentation uploaded
+to caching layer. Aisha Okafor from Sales must confirm final deal amounts by September 9.
+
+Expenses: all expense reports for Q2 must be submitted by Thursday, December 2. The
+DataPipeline vendor invoices totaling $445,918 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, DataPipeline subscription costs,
+and the caching layer usage charges by Thursday, December 2. Any non-standard accruals above
+258ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, DataPipeline account reconciliation, and
+inter-company balances must be completed by Thursday, December 2. Aisha Okafor is handling the
+bank rec. I'll take the inter-company items since they involve the Singapore entity.
+
+Target: books closed within 82 business days of quarter end. Final reporting
+package to leadership by Thursday, December 2.
+
+Talk soon,
+Robert

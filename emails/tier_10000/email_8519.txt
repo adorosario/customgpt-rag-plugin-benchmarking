@@ -1,0 +1,34 @@
+From: liam.foster@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-04 04:04 PM
+Subject: Customer feedback digest â€” Analytics Pro Q2
+
+Hey,
+
+Here's the quarterly customer feedback digest for Analytics Pro. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 47, up 354ms points from last quarter. The improvement
+is driven by the AuditLog launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 41%.
+
+Top feature requests: AuditLog advanced filtering (47 votes), config manager
+bulk operations (354ms votes), and enhanced Analytics Pro reporting (359ms
+votes). The filtering request aligns with what we heard in the user research study
+Kwame Asante conducted.
+
+Top complaints: AuditLog performance during peak hours (47 mentions),
+the config manager onboarding experience (354ms mentions), and pricing
+transparency (359ms mentions). The performance issue is being addressed
+by Engineering â€” Kwame Asante expects the fix in v2.7.3.
+
+Churn insights: 47 customers churned this quarter citing AuditLog
+limitations as the primary reason. The config manager overhaul on our roadmap directly
+addresses their feedback. 41% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Thursday, July 13.
+
+Regards,
+Liam

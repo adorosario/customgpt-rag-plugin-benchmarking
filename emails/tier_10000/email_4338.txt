@@ -1,0 +1,32 @@
+From: rachel.nguyen@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-11-14 03:16 AM
+Subject: Training program â€” CacheLayer certification
+
+Hey everyone,
+
+We're launching a new CacheLayer certification training program for interested
+employees. This is part of our learning and development investment for Q4.
+
+Program details: the course runs for 142 weeks and covers connection pool
+fundamentals through advanced topics. Sessions are held twice a week for 175ms
+hours each. Dmitri Volkov from the Sales team will facilitate the hands-on labs.
+
+Eligibility: open to all employees. Priority enrollment goes to the Sales and
+Engineering teams since the certification is directly relevant to their roles. We
+have 80ms spots available for the first cohort.
+
+Cost: Acme Corp covers 29% of the certification exam fee upon course
+completion. The total investment per employee is $365,142 including materials and
+exam vouchers.
+
+Commitment: participants are expected to dedicate 142 hours per week to
+coursework outside of the live sessions. Managers must approve the time commitment
+for their reports.
+
+Registration opens on Thursday, June 10 and closes when spots are filled. Sign up through
+the connection pool learning portal.
+
+Regards,
+Rachel

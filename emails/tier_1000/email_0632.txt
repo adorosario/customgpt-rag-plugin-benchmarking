@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-10-01 08:22 AM
+Subject: Sprint planning â€” Enterprise Suite sprint v2.6.0
+
+Good afternoon,
+
+Here's the sprint plan for Enterprise Suite sprint v2.6.0. Capacity is 190 story
+points with 294ms engineers available this sprint.
+
+Committed stories: the PaymentGateway integration work carries over from last sprint
+with 291ms points remaining. The new config manager API endpoints are
+estimated at 190 points. The bug fix for the PaymentGateway rendering issue
+is 294ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the config manager performance
+optimization that Daniel Park has been scouting. It's estimated at 190 points
+and would improve response time by 41%.
+
+Dependencies: the PaymentGateway feature requires the API changes that Daniel Park
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The config manager work is self-contained.
+
+Risks: Daniel Park is on-call this sprint which historically reduces their available
+capacity by 41%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Thursday, November 12. Let me know if the priorities look right.
+
+Best regards,
+Sanjay

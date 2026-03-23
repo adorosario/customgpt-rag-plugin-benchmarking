@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-08-20 09:30 AM
+Subject: Roadmap update â€” Insight Engine Q2
+
+Good afternoon,
+
+Here's the updated Insight Engine roadmap for Q2. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the SchedulerService integration feature launches on Monday, August 11. This is our
+top customer request with 189 votes on the feedback board. Fatima Al-Rashid from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the metrics collector overhaul is scoped for mid-Q2. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 189 sprints with 71ms engineers allocated.
+
+Exploring: the SchedulerService AI feature that Sales has been requesting. We need more
+user research before committing â€” Fatima Al-Rashid is running interviews with 189
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the metrics collector redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 189-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Regards,
+Mei

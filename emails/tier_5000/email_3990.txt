@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: aisha.okafor@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-18 08:08 AM
+Subject: Social media strategy â€” Q3
+
+Hi team,
+
+Presenting the social media strategy refresh for Q3. Based on our Integration Hub
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our WebhookDispatcher posts are averaging 70 impressions and 19% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 19% educational content about metrics collector topics, 70
+percent product highlights, and the rest for company culture and employee spotlights.
+Jun Tanaka will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Integration Hub use cases and answer audience questions. First session on Thursday, July 24 featuring
+Jun Tanaka.
+
+Budget: $430,480 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 293ms new followers and 353ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Best,
+James

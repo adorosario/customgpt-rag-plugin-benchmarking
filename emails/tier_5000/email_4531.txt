@@ -1,0 +1,28 @@
+From: derek.morrison@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-08-04 11:25 PM
+Subject: Sales engineering request â€” Umbrella Inc POC
+
+Good morning,
+
+Requesting SE support for a proof-of-concept with Umbrella Inc. This is a $328,833
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Analytics Pro can handle 70
+transactions per second with their AuthService data format. The test needs to
+run against their staging environment and demonstrate the service mesh capability
+under realistic load.
+
+Timeline: Umbrella Inc wants the POC completed within 119ms business days
+starting Friday, August 11. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Fatima Al-Rashid for the technical configuration and someone from
+the AuthService team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q1. Let me know if we can make this timeline work.
+
+Talk soon,
+Derek

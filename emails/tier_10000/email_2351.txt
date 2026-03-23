@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-07-10 05:42 PM
+Subject: Tax planning â€” Q1 estimated payments
+
+Hi team,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the WebhookDispatcher investment
+deductions.
+
+Federal estimate: $186,322 based on projected taxable income of 376ms.
+This reflects the WebhookDispatcher depreciation deductions and the R&D tax credit for
+the Sync Platform development costs. Yuki Sato from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $186,322 for our primary jurisdiction and 232ms for the
+New York office based on the apportionment factors. The New York rate change that
+takes effect on Tuesday, August 17 will impact our Q1 estimate by approximately 138
+percent.
+
+International: with the New York office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Yuki Sato to handle
+the registration. Setup cost is $186,322 with ongoing compliance costs of
+232ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Tuesday, August 17. I'll prepare the
+payment authorization for your signature by August 8. Underpayment penalties
+start at 43% so timely filing is important.
+
+Thanks,
+Grace

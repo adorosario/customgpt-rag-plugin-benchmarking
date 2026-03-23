@@ -1,0 +1,34 @@
+From: daniel.park@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-27 10:19 AM
+Subject: Customer feedback digest â€” Insight Engine Q2
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Insight Engine. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 61, up 425ms points from last quarter. The improvement
+is driven by the AuditLog launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 11%.
+
+Top feature requests: AuditLog advanced filtering (61 votes), rate limiter
+bulk operations (425ms votes), and enhanced Insight Engine reporting (71ms
+votes). The filtering request aligns with what we heard in the user research study
+Mei Lin conducted.
+
+Top complaints: AuditLog performance during peak hours (61 mentions),
+the rate limiter onboarding experience (425ms mentions), and pricing
+transparency (71ms mentions). The performance issue is being addressed
+by Engineering â€” Mei Lin expects the fix in v2.1.0.
+
+Churn insights: 61 customers churned this quarter citing AuditLog
+limitations as the primary reason. The rate limiter overhaul on our roadmap directly
+addresses their feedback. 11% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Friday, October 22.
+
+Thanks,
+Daniel

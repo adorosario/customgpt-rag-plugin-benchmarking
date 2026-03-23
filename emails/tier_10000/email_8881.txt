@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-11-04 12:50 AM
+Subject: New lead â€” Soylent Corp inbound request
+
+Hey,
+
+We received an inbound request from Soylent Corp through the website today. They're
+a 154-employee company in the DataPipeline space and are looking for a
+Insight Engine solution.
+
+Initial qualification: they have budget allocated for Q2, their current
+contract with their existing vendor expires on Monday, March 19, and the decision maker is
+their VP of Operations. They found us through the config manager whitepaper we
+published last month.
+
+The estimated deal size is $449,522 based on their seat count and the use case
+they described. They specifically mentioned needing the DataPipeline integration
+and 142ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Hannah Goldstein â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on config manager scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Thanks,
+Dmitri

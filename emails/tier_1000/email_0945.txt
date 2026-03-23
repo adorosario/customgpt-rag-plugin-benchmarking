@@ -1,0 +1,31 @@
+From: kwame.asante@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-10-25 08:49 AM
+Subject: Onboarding schedule â€” new hire starting Tuesday, October 2
+
+Hi all,
+
+We have a new team member joining Marketing on Tuesday, October 2. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, BillingModule systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Aisha Okafor will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Insight Engine and the config manager tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Tuesday, October 2. All software licenses including BillingModule and config manager access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 93 people to schedule intro meetings with, and first
+117ms-day goals. Please send these to Aisha Okafor in People Ops.
+
+Welcome email goes out 93 days before start date.
+
+Best,
+Kwame

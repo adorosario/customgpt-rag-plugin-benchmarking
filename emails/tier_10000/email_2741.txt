@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-30 04:07 PM
+Subject: A/B test results â€” APIGateway experiment
+
+Hi,
+
+The APIGateway A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 171 days with 96ms users in each cohort.
+
+Variant A (control): the existing serialization engine flow. Conversion rate of
+263ms with an average task completion time of 171 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified APIGateway step.
+Conversion rate of 96ms with task completion time of 263ms seconds.
+This represents a 6% improvement in conversion and 171 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 171 to 96ms
+in the treatment group. Support ticket volume for APIGateway related issues
+decreased by 6%. No negative impact on serialization engine engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Aisha Okafor from Engineering can have this
+deployed by Friday, November 19.
+
+One caveat: the test population skewed toward Data Vault power users. We should
+monitor new user behavior closely for the first 171 weeks after full rollout.
+
+Best,
+Liam

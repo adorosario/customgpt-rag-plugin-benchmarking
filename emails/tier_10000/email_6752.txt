@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-08-18 07:18 AM
+Subject: Cash flow forecast â€” Q3
+
+Hey,
+
+Attached is the cash flow forecast for Q3. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $322,509 based on the current AR aging
+and sales pipeline. The Massive Dynamic payment of 117ms is expected by Monday, April 11
+â€” Mei Lin from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the CacheLayer infrastructure
+investment at $322,509. The Tokyo office build-out costs will hit in Q3
+with an estimated total of 272ms. Payroll continues at 117ms
+monthly for our 25-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $322,509 in the second month. This provides 25 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Massive Dynamic deal slips from Q3 to next quarter, we'll
+need to draw on the credit facility for $322,509. I've confirmed the line is
+available. Mei Lin and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Talk soon,
+Ananya

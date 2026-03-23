@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-27 07:55 AM
+Subject: Re: Billing dispute â€” Soylent Corp account
+
+Good afternoon,
+
+I've investigated the billing dispute raised by Soylent Corp. Here's what I found and
+my recommended resolution.
+
+Dispute details: Soylent Corp is contesting $386,249 on their Q4 invoice,
+claiming they were double-charged for the PaymentGateway add-on module. Their account
+manager Patrick O'Brien has been communicating with them but they want a Finance response.
+
+Investigation: I reviewed the billing records and confirmed there was a system error
+in our authentication module billing platform. The PaymentGateway charge was applied twice due
+to a timing issue when their subscription was upgraded on Tuesday, January 6. The correct charge
+should have been 68ms not $386,249.
+
+Resolution: I recommend issuing a credit of 449ms to their account immediately
+and applying it to the next invoice. This maintains the relationship and the credit
+is clearly justified. Total revenue impact is 108 percent of the contract value.
+
+Prevention: I've filed a bug report with the authentication module billing team to fix the
+underlying issue. Patrick O'Brien from Engineering estimates a fix in the next 108
+sprints. In the meantime, I'll add a manual review step for any mid-cycle
+subscription changes.
+
+Can you approve the credit so I can communicate the resolution to Soylent Corp today?
+
+Thanks,
+Robert

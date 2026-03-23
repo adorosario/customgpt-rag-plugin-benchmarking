@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-08-11 05:50 AM
+Subject: Policy update â€” AuthService guidelines
+
+Hey,
+
+We've updated the AuthService company policy based on feedback from employees and
+recent changes in Berlin labor regulations. The new policy takes effect on Friday, August 9.
+
+Key changes: the metrics collector allowance has been increased from 166ms to
+483ms per month. The eligibility window for AuthService has been expanded
+to include employees who've been with Acme Corp for 125 months or more, down
+from the previous requirement of 166ms months.
+
+New additions: a Integration Hub reimbursement category has been added covering up to
+$182,611 annually. This addresses the top employee request from the last survey.
+Sofia Martinez negotiated favorable terms with the metrics collector vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by September 3. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 31% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Rachel

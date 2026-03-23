@@ -1,0 +1,30 @@
+From: hannah.goldstein@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-06-20 07:29 AM
+Subject: Competitive intel â€” Tyrell Corp evaluation
+
+Hello,
+
+Got some useful competitive intelligence from the Tyrell Corp account that I want to
+share with the team.
+
+Tyrell Corp shared their evaluation criteria and mentioned they're also looking at
+AuthService as an alternative to our Insight Engine. From what I gathered, AuthService
+is pitching a lower price point but doesn't have feature parity on the authentication module
+side.
+
+Key differentiators working in our favor: our Insight Engine handles 136 concurrent
+connections versus their published limit of 401ms. Our uptime SLA is also
+stronger at 61ms versus their 55% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for AuthService and
+consider a streamlined trial process for mid-market accounts. Elena Vasquez from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Wednesday, June 22.
+
+Best,
+Hannah

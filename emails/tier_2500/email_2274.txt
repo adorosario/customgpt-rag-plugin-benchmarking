@@ -1,0 +1,29 @@
+From: derek.morrison@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-10-08 08:02 PM
+Subject: Quarterly territory review â€” Q3
+
+Good morning,
+
+Here's my territory review for Q3. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 132 qualified opportunities worth a combined $461,762 in
+ARR. The largest deal is Stark Industries at 90ms, which I expect to close by
+Friday, May 9. Three other deals in the 310ms range are progressing through
+procurement.
+
+Wins this quarter: closed Stark Industries for Cloud Connect with a 27% upsell from
+their initial scope. The serialization engine add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Oluwaseun Adeyemi to the Stark Industries executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Best regards,
+Derek

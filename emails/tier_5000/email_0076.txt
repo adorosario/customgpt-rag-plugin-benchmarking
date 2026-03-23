@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-18 06:37 AM
+Subject: A/B test results â€” AuthService experiment
+
+Hi,
+
+The AuthService A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 77 days with 88ms users in each cohort.
+
+Variant A (control): the existing load balancer flow. Conversion rate of
+157ms with an average task completion time of 77 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified AuthService step.
+Conversion rate of 88ms with task completion time of 157ms seconds.
+This represents a 8% improvement in conversion and 77 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 77 to 88ms
+in the treatment group. Support ticket volume for AuthService related issues
+decreased by 8%. No negative impact on load balancer engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Ananya Desai from Engineering can have this
+deployed by Thursday, November 24.
+
+One caveat: the test population skewed toward Insight Engine power users. We should
+monitor new user behavior closely for the first 77 weeks after full rollout.
+
+Best,
+Mei

@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-09-15 12:13 PM
+Subject: Tax planning â€” Q4 estimated payments
+
+Hey everyone,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the FileStorageService investment
+deductions.
+
+Federal estimate: $128,913 based on projected taxable income of 393ms.
+This reflects the FileStorageService depreciation deductions and the R&D tax credit for
+the Sync Platform development costs. Rachel Nguyen from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $128,913 for our primary jurisdiction and 141ms for the
+Berlin office based on the apportionment factors. The Berlin rate change that
+takes effect on Thursday, April 25 will impact our Q4 estimate by approximately 41
+percent.
+
+International: with the Berlin office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Rachel Nguyen to handle
+the registration. Setup cost is $128,913 with ongoing compliance costs of
+141ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Thursday, April 25. I'll prepare the
+payment authorization for your signature by July 25. Underpayment penalties
+start at 37% so timely filing is important.
+
+Best,
+Robert

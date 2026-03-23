@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-06-14 10:36 PM
+Subject: Investment proposal â€” DataPipeline infrastructure
+
+Hi team,
+
+I've prepared the financial analysis for the proposed DataPipeline infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $272,681 upfront with 323ms in annual operating costs.
+The total 3-year cost of ownership is 136ms compared to the current
+connection pool setup at $272,681 over the same period.
+
+ROI analysis: the projected payback period is 13 months. Key benefits include
+46% reduction in infrastructure management time, improved Data Vault performance
+that supports the revenue growth targets, and elimination of the connection pool
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $272,681 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 46% interest.
+This preserves cash for the New York office investment planned for Q4.
+
+Risk factors: technology lock-in with the DataPipeline vendor, though the 13-year
+contract includes an exit clause after the first year. Patrick O'Brien from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Tuesday, January 11 to lock in the quoted pricing. The vendor has
+given us a 13-day hold on the current rates.
+
+Cheers,
+Grace

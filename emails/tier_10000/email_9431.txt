@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-09-03 06:41 AM
+Subject: Re: Enterprise Suite pricing discussion â€” AuthService tier
+
+Good afternoon,
+
+Following up on the Enterprise Suite pricing discussion. I've modeled three options for
+the AuthService tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $166,586 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 11% of our existing base.
+Downside: it undercuts our current config manager pricing and may trigger downgrades.
+
+Option B: 204ms per seat per month with the config manager add-on bundled.
+Higher price point but stronger value perception. 82 of the 240ms
+customers we surveyed preferred this packaging. Derek Morrison from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $166,586 per AuthService transaction. This aligns
+with the value delivered but introduces billing complexity. Only 11% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$166,586 in incremental ARR over 82 months.
+
+Can we finalize the pricing decision by Thursday, June 18? Sales needs 240ms weeks to
+update collateral before we announce.
+
+Cheers,
+Liam

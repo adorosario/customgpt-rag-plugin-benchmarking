@@ -1,0 +1,28 @@
+From: yuki.sato@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-09-09 02:38 PM
+Subject: Insight Engine campaign launch â€” Q1 plan
+
+Hi,
+
+Here's the campaign plan for the Insight Engine launch in Q1. I've aligned the
+messaging with the positioning we finalized last week and mapped out the channel
+strategy.
+
+Campaign theme: highlighting the ReportingEngine advantage and how Insight Engine solves
+the key pain point around caching layer complexity. Target audience is mid-market
+and enterprise IT decision makers.
+
+Channel breakdown: 50% of budget to paid digital, 56 to content
+marketing, and the remainder to events and webinars. We're targeting a $274,833
+total spend with a goal of 209ms marketing qualified leads.
+
+Content deliverables: landing page, solution brief, customer case study featuring
+Tyrell Corp, three blog posts, and a webinar co-hosted with Hannah Goldstein from Product.
+All assets target completion by Thursday, December 9.
+
+The paid campaign goes live two weeks before the official launch to build awareness.
+I'll share the creative brief for review tomorrow.
+
+Best,
+Yuki

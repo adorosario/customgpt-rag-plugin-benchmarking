@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-17 01:57 PM
+Subject: Tax planning â€” Q3 estimated payments
+
+Hey everyone,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the SearchIndex investment
+deductions.
+
+Federal estimate: $32,847 based on projected taxable income of 390ms.
+This reflects the SearchIndex depreciation deductions and the R&D tax credit for
+the Cloud Connect development costs. Jun Tanaka from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $32,847 for our primary jurisdiction and 312ms for the
+Toronto office based on the apportionment factors. The Toronto rate change that
+takes effect on Tuesday, June 23 will impact our Q3 estimate by approximately 161
+percent.
+
+International: with the Toronto office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Jun Tanaka to handle
+the registration. Setup cost is $32,847 with ongoing compliance costs of
+312ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Tuesday, June 23. I'll prepare the
+payment authorization for your signature by May 5. Underpayment penalties
+start at 31% so timely filing is important.
+
+Cheers,
+Ananya

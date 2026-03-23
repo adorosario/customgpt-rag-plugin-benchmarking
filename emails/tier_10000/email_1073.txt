@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-01 07:59 AM
+Subject: Financial close checklist â€” Q4
+
+Good afternoon,
+
+The Q4 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Integration Hub invoices must be issued by Friday, December 10. Any revenue recognition
+adjustments for the SchedulerService contracts need supporting documentation uploaded
+to config manager. Daniel Park from Sales must confirm final deal amounts by October 20.
+
+Expenses: all expense reports for Q4 must be submitted by Friday, December 10. The
+SchedulerService vendor invoices totaling $475,373 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, SchedulerService subscription costs,
+and the config manager usage charges by Friday, December 10. Any non-standard accruals above
+433ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, SchedulerService account reconciliation, and
+inter-company balances must be completed by Friday, December 10. Daniel Park is handling the
+bank rec. I'll take the inter-company items since they involve the London entity.
+
+Target: books closed within 60 business days of quarter end. Final reporting
+package to leadership by Friday, December 10.
+
+Best,
+Michael

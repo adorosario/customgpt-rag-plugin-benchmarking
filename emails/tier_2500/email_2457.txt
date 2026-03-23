@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-06-16 07:48 AM
+Subject: Analytics report â€” Enterprise Suite campaign performance
+
+Hi team,
+
+Here's the performance report for the Enterprise Suite campaign through Friday, February 1.
+
+Website traffic: up 11% month over month, driven primarily by the SchedulerService
+comparison blog post which brought in 70 unique visitors. Organic search is
+growing steadily â€” the event bus keyword cluster is now ranking on page one.
+
+Lead generation: 211ms marketing qualified leads this month against a
+target of 146ms. The whitepaper download page converted at 11% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 70 percent.
+
+Email campaigns: the Enterprise Suite nurture sequence has a 11% open rate and
+70 percent click-through rate. The top-performing email was the SchedulerService
+case study with Soylent Corp. Michael Brennan suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $183,322 which is 11% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Thanks,
+Laura

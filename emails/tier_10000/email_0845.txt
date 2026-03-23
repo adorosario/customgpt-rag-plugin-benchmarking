@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-25 12:00 PM
+Subject: FP&A update â€” Cloud Connect financial model
+
+Good afternoon,
+
+I've updated the Cloud Connect financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 11 per month based
+on the last 375ms months of data. Average contract value is tracking at
+$207,554, which is 15% above our original assumption. The SearchIndex
+upsell rate of 369ms is a positive trend.
+
+Cost structure: the metrics collector hosting costs are running 15% higher than
+modeled due to increased SearchIndex usage. I've adjusted the variable cost
+per customer from 375ms to 369ms. Hannah Goldstein from Engineering
+says the optimization project should bring this down by 15% in Q3.
+
+Break-even analysis: with the revised numbers, Cloud Connect reaches contribution
+margin break-even at 11 customers, which we're projected to hit by Tuesday, February 16.
+Full break-even including allocated overhead comes at 375ms customers.
+
+Scenarios: the base case shows $207,554 in cumulative revenue by year end. The
+upside case with the Pied Piper deal closing hits 369ms. Downside case
+assuming 15% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Best,
+Ananya

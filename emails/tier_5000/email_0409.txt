@@ -1,0 +1,28 @@
+From: alex.chen@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-09-01 06:50 AM
+Subject: Re: API rate limiting design for FileStorageService
+
+Hey,
+
+Thanks for the feedback on the rate limiting proposal. I've incorporated the
+suggestions and here's the updated design for the FileStorageService API.
+
+We'll implement a token bucket algorithm at the event bus gateway level. Default
+limits are 280ms requests per minute for standard tier and 374ms
+for premium tier. Burst allowance is set to 28% above the sustained rate.
+
+When a client hits the limit, they'll receive a 429 response with Retry-After
+headers. The FileStorageService SDK will handle automatic backoff on the client side.
+Laura Kim is updating the SDK to support this.
+
+For internal services, we'll use a separate rate limit pool with higher thresholds
+to prevent cascading failures. The 19 dashboard will show real-time consumption
+per client so we can proactively reach out before anyone hits their limits.
+
+Implementation timeline is two sprints. I'd like to ship the server-side changes
+first and give clients a 30-day grace period before enforcement begins.
+
+Cheers,
+Alex

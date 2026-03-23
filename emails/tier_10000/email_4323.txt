@@ -1,0 +1,33 @@
+From: michael.brennan@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-01 07:40 AM
+Subject: FP&A update â€” Cloud Connect financial model
+
+Good afternoon,
+
+I've updated the Cloud Connect financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 18 per month based
+on the last 464ms months of data. Average contract value is tracking at
+$415,151, which is 28% above our original assumption. The BillingModule
+upsell rate of 379ms is a positive trend.
+
+Cost structure: the metrics collector hosting costs are running 28% higher than
+modeled due to increased BillingModule usage. I've adjusted the variable cost
+per customer from 464ms to 379ms. Michael Brennan from Engineering
+says the optimization project should bring this down by 28% in Q1.
+
+Break-even analysis: with the revised numbers, Cloud Connect reaches contribution
+margin break-even at 18 customers, which we're projected to hit by Friday, November 19.
+Full break-even including allocated overhead comes at 464ms customers.
+
+Scenarios: the base case shows $415,151 in cumulative revenue by year end. The
+upside case with the Globex deal closing hits 379ms. Downside case
+assuming 28% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Cheers,
+Michael

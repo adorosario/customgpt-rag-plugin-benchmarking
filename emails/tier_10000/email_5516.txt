@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-08-23 05:49 PM
+Subject: Beta program update â€” Insight Engine v2.7.3
+
+Good morning,
+
+Quick update on the Insight Engine v2.7.3 beta program. We're 83 weeks into
+the beta period with 76ms customers participating.
+
+Usage data: 54% of beta participants have activated the new AnalyticsDashboard
+feature. Average daily usage is 83 sessions per user. The logging pipeline
+workflow is being used by 122ms of participants, which exceeds our
+adoption target of 76ms.
+
+Feedback summary: overall sentiment is positive. The top 83 pieces of praise
+relate to the AnalyticsDashboard speed improvement and the new logging pipeline interface.
+The top 76ms complaints are about the AnalyticsDashboard configuration complexity
+and a confusing error message in the logging pipeline flow.
+
+Bugs found: 83 bugs reported, of which 76ms are critical. Robert Kimura
+from Engineering has fixed 122ms of the critical bugs. The remaining one
+is related to the AnalyticsDashboard edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Monday, December 15. The GA release is targeted for 83 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Monday, December 15 to finalize the GA scope.
+
+Talk soon,
+Daniel

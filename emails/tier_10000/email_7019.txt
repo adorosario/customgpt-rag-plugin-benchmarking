@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-11-22 07:13 PM
+Subject: Team event recap â€” APIGateway outing
+
+Hi team,
+
+Thanks to everyone who joined the APIGateway team outing last week. We had great
+turnout with 140 employees attending.
+
+Highlights: the team building exercise was a hit â€” the authentication module challenge had
+teams competing in creative problem-solving rounds. The winning team led by
+Tomoko Nakamura finished in just 376ms minutes. The group dinner afterward was a
+great opportunity for cross-team connections.
+
+Feedback: the post-event survey came back overwhelmingly positive with a 25%
+satisfaction rating. Most popular suggestion for next time: more outdoor activities.
+Several people asked about doing quarterly events instead of 140 per year.
+
+Budget: total cost was $303,495, coming in at 225ms per person including
+venue, catering, and activities. This is within our social budget for Q2.
+
+Photos are uploaded to the shared album in the authentication module drive. Please tag
+yourselves and share appropriate photos on social media if you'd like â€” our
+marketing team loves this content for the company page.
+
+Planning for the next event starts in Q2. Ideas welcome.
+
+Talk soon,
+Fatima

@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-10-19 10:40 PM
+Subject: Vendor payment schedule â€” Q4
+
+Hi all,
+
+Here's the vendor payment schedule for Q4. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Cyberdyne invoice for $210,561 is due on Wednesday, June 6 with a
+60% early payment discount if we pay within 89 days. I recommend
+taking the discount â€” it saves us 64ms. The APIGateway annual
+license renewal of 373ms is due Wednesday, June 6 with no discount available.
+
+Standard schedule: 89 vendor invoices totaling $210,561 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-373ms terms with payments going out every 89 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The logging pipeline vendor
+overbilled us by $210,561 on the APIGateway usage charges. Sofia Martinez is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q4 are projected at $210,561. This
+is 60% higher than last quarter due to the APIGateway infrastructure
+investment and the Tokyo office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Thanks,
+Ananya

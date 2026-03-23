@@ -1,0 +1,33 @@
+From: kwame.asante@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-10-11 06:11 PM
+Subject: Intern program â€” Q1 cohort planning
+
+Good afternoon,
+
+Planning for the Q1 intern cohort is underway. We're targeting 164
+interns across 280ms departments this cycle.
+
+Department allocation: Engineering gets 211ms interns, Product gets
+164, and Marketing gets the remainder. Each intern will be assigned a mentor â€”
+Mei Lin is coordinating mentor assignments. Please nominate mentors from your
+teams by Thursday, January 16.
+
+Program structure: 164-week program with structured rotations. Interns spend
+24% of their time on project work and the rest on learning sessions, shadowing,
+and a capstone presentation. The SchedulerService workshop series from last cohort was
+well received and will be repeated.
+
+Compensation: hourly rate is $206,344 for undergraduate interns and 211ms
+for graduate-level. Housing stipend of 280ms per month for out-of-area interns.
+
+Recruiting timeline: applications open on Thursday, January 16. We'll be visiting 164
+universities and posting on the standard job boards. Final offers go out by the
+end of Q1.
+
+Let me know if your team wants to adjust headcount or has specific project ideas
+for interns.
+
+Cheers,
+Kwame

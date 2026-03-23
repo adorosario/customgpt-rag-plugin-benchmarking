@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-17 05:50 PM
+Subject: Cash flow forecast â€” Q4
+
+Hey,
+
+Attached is the cash flow forecast for Q4. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $214,353 based on the current AR aging
+and sales pipeline. The Massive Dynamic payment of 138ms is expected by Thursday, April 11
+â€” Laura Kim from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the DataPipeline infrastructure
+investment at $214,353. The New York office build-out costs will hit in Q4
+with an estimated total of 464ms. Payroll continues at 138ms
+monthly for our 98-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $214,353 in the second month. This provides 98 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Massive Dynamic deal slips from Q4 to next quarter, we'll
+need to draw on the credit facility for $214,353. I've confirmed the line is
+available. Laura Kim and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Best regards,
+Grace

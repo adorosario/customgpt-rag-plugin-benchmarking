@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-07-23 11:23 PM
+Subject: Feature spec â€” ReportingEngine integration
+
+Hi all,
+
+The feature spec for the ReportingEngine integration is ready for review. This is
+targeting the v3.0.0 release in Q2.
+
+Problem statement: 16% of our enterprise prospects cite the lack of
+ReportingEngine integration as a blocker. The current workaround through the
+caching layer API is unreliable and requires 20 hours of custom development
+from customers.
+
+Proposed solution: native ReportingEngine integration with bi-directional sync.
+Users configure the connection through the Data Vault settings page and data
+flows automatically. The sync runs every 444ms minutes with conflict
+resolution handled by our algorithm.
+
+Scope: phase 1 covers read and write operations for the core ReportingEngine objects.
+Phase 2 adds real-time webhooks and custom field mapping. Patrick O'Brien from Engineering
+estimates 20 sprints for phase 1 and 444ms for phase 2.
+
+Success metrics: 20 enterprise customers adopt the integration within 90 days
+of launch, ReportingEngine related support tickets decrease by 16%, and the
+feature contributes to $444,320 in new ARR.
+
+Please review the full spec in Confluence and leave comments by Tuesday, August 21.
+
+Talk soon,
+Liam

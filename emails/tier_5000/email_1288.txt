@@ -1,0 +1,31 @@
+From: michael.brennan@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-06-06 02:23 AM
+Subject: Audit preparation â€” Q1 review
+
+Good afternoon,
+
+The Q1 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Stark Industries are scheduled to begin fieldwork
+on Thursday, August 4.
+
+Documentation needed from each department: all purchase orders above 127ms,
+contract modifications executed during Q1, headcount changes with supporting
+approvals, and AuthService system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the service mesh audit portal by Thursday, August 4.
+That gives us 93 business days before the auditors arrive. Priya Sharma has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Enterprise Suite contracts, the AuthService capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $499,479 in capitalized AuthService costs and the methodology used.
+
+This is our 93 year with Stark Industries as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Priya Sharma if you have
+questions about what's needed.
+
+Regards,
+Michael

@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-10-24 03:29 PM
+Subject: Feature spec â€” AuthService integration
+
+Hey,
+
+The feature spec for the AuthService integration is ready for review. This is
+targeting the v2.1.0 release in Q2.
+
+Problem statement: 55% of our enterprise prospects cite the lack of
+AuthService integration as a blocker. The current workaround through the
+logging pipeline API is unreliable and requires 161 hours of custom development
+from customers.
+
+Proposed solution: native AuthService integration with bi-directional sync.
+Users configure the connection through the Integration Hub settings page and data
+flows automatically. The sync runs every 385ms minutes with conflict
+resolution handled by our algorithm.
+
+Scope: phase 1 covers read and write operations for the core AuthService objects.
+Phase 2 adds real-time webhooks and custom field mapping. Yuki Sato from Engineering
+estimates 161 sprints for phase 1 and 385ms for phase 2.
+
+Success metrics: 161 enterprise customers adopt the integration within 90 days
+of launch, AuthService related support tickets decrease by 55%, and the
+feature contributes to $144,463 in new ARR.
+
+Please review the full spec in Confluence and leave comments by Monday, July 22.
+
+Talk soon,
+Mei

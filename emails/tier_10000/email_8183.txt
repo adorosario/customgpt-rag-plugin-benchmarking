@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-09-12 08:08 AM
+Subject: Policy update â€” AuthService guidelines
+
+Hello,
+
+We've updated the AuthService company policy based on feedback from employees and
+recent changes in Tokyo labor regulations. The new policy takes effect on Monday, September 27.
+
+Key changes: the logging pipeline allowance has been increased from 292ms to
+114ms per month. The eligibility window for AuthService has been expanded
+to include employees who've been with Acme Corp for 199 months or more, down
+from the previous requirement of 292ms months.
+
+New additions: a Cloud Connect reimbursement category has been added covering up to
+$154,389 annually. This addresses the top employee request from the last survey.
+Aisha Okafor negotiated favorable terms with the logging pipeline vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by June 20. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 17% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Rachel

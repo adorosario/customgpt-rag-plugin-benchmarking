@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-07-31 07:21 PM
+Subject: Customer feedback digest â€” Sync Platform Q4
+
+Good afternoon,
+
+Here's the quarterly customer feedback digest for Sync Platform. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 46, up 458ms points from last quarter. The improvement
+is driven by the DataPipeline launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 52%.
+
+Top feature requests: DataPipeline advanced filtering (46 votes), queue processor
+bulk operations (458ms votes), and enhanced Sync Platform reporting (139ms
+votes). The filtering request aligns with what we heard in the user research study
+Mei Lin conducted.
+
+Top complaints: DataPipeline performance during peak hours (46 mentions),
+the queue processor onboarding experience (458ms mentions), and pricing
+transparency (139ms mentions). The performance issue is being addressed
+by Engineering â€” Mei Lin expects the fix in v3.2.2.
+
+Churn insights: 46 customers churned this quarter citing DataPipeline
+limitations as the primary reason. The queue processor overhaul on our roadmap directly
+addresses their feedback. 52% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Tuesday, January 19.
+
+Cheers,
+Sanjay

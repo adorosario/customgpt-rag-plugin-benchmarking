@@ -1,0 +1,30 @@
+From: aisha.okafor@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-06-30 06:56 AM
+Subject: Competitive intel â€” Weyland-Yutani evaluation
+
+Good morning,
+
+Got some useful competitive intelligence from the Weyland-Yutani account that I want to
+share with the team.
+
+Weyland-Yutani shared their evaluation criteria and mentioned they're also looking at
+SchedulerService as an alternative to our Integration Hub. From what I gathered, SchedulerService
+is pitching a lower price point but doesn't have feature parity on the connection pool
+side.
+
+Key differentiators working in our favor: our Integration Hub handles 22 concurrent
+connections versus their published limit of 151ms. Our uptime SLA is also
+stronger at 290ms versus their 60% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for SchedulerService and
+consider a streamlined trial process for mid-market accounts. Tomoko Nakamura from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Tuesday, February 28.
+
+Best regards,
+Aisha

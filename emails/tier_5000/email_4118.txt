@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-07-06 04:36 AM
+Subject: Re: Enterprise Suite pricing discussion â€” AuditLog tier
+
+Good morning,
+
+Following up on the Enterprise Suite pricing discussion. I've modeled three options for
+the AuditLog tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $271,266 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 21% of our existing base.
+Downside: it undercuts our current logging pipeline pricing and may trigger downgrades.
+
+Option B: 310ms per seat per month with the logging pipeline add-on bundled.
+Higher price point but stronger value perception. 43 of the 474ms
+customers we surveyed preferred this packaging. Mei Lin from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $271,266 per AuditLog transaction. This aligns
+with the value delivered but introduces billing complexity. Only 21% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$271,266 in incremental ARR over 43 months.
+
+Can we finalize the pricing decision by Monday, April 8? Sales needs 474ms weeks to
+update collateral before we announce.
+
+Cheers,
+Daniel

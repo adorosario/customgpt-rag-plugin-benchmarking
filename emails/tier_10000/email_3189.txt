@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-09-15 09:19 PM
+Subject: Social media strategy â€” Q2
+
+Hello,
+
+Presenting the social media strategy refresh for Q2. Based on our Integration Hub
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our DataPipeline posts are averaging 90 impressions and 24% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 24% educational content about event bus topics, 90
+percent product highlights, and the rest for company culture and employee spotlights.
+Dmitri Volkov will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Integration Hub use cases and answer audience questions. First session on Monday, July 16 featuring
+Dmitri Volkov.
+
+Budget: $111,313 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 440ms new followers and 374ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Regards,
+Yuki

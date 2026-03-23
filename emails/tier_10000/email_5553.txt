@@ -1,0 +1,30 @@
+From: kwame.asante@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-10-29 08:26 AM
+Subject: Re: Employee survey results â€” Q4
+
+Good afternoon,
+
+The Q4 employee engagement survey results are in. Response rate was 32%,
+up 85 points from the last survey. Here are the key findings.
+
+Overall satisfaction: 118ms out of 5, which is consistent with the
+previous quarter. The Sales department scored highest at 489ms while the
+CacheLayer team showed the largest improvement at plus 85 points.
+
+Top strengths: colleagues and team culture scored 118ms, manager
+effectiveness scored 489ms, and work-life balance scored 85. Employees
+particularly appreciated the flexible authentication module policy and the recent team events.
+
+Areas for improvement: career development pathways scored lowest at 85 out of 5.
+Employees want more clarity on promotion criteria and more frequent feedback.
+Cross-department communication was another area flagged â€” 32% of respondents
+said they don't have enough visibility into what other teams are working on.
+
+Action plan: Tomoko Nakamura is leading a working group to address the career development
+feedback. We'll publish a response with specific commitments by Monday, September 22.
+
+Department-level reports will be shared with managers this week.
+
+Regards,
+Kwame

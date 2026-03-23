@@ -1,0 +1,34 @@
+From: daniel.park@acmecorp.com
+To: aisha.okafor@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-05 12:37 PM
+Subject: Customer feedback digest â€” Data Vault Q2
+
+Good morning,
+
+Here's the quarterly customer feedback digest for Data Vault. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 113, up 201ms points from last quarter. The improvement
+is driven by the FileStorageService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 36%.
+
+Top feature requests: FileStorageService advanced filtering (113 votes), rate limiter
+bulk operations (201ms votes), and enhanced Data Vault reporting (362ms
+votes). The filtering request aligns with what we heard in the user research study
+Jun Tanaka conducted.
+
+Top complaints: FileStorageService performance during peak hours (113 mentions),
+the rate limiter onboarding experience (201ms mentions), and pricing
+transparency (362ms mentions). The performance issue is being addressed
+by Engineering â€” Jun Tanaka expects the fix in v5.0.0-beta.
+
+Churn insights: 113 customers churned this quarter citing FileStorageService
+limitations as the primary reason. The rate limiter overhaul on our roadmap directly
+addresses their feedback. 36% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Friday, October 21.
+
+Best regards,
+Daniel

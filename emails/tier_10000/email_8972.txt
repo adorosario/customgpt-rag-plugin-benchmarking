@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-21 06:31 AM
+Subject: Tax planning â€” Q1 estimated payments
+
+Hello,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the PaymentGateway investment
+deductions.
+
+Federal estimate: $274,841 based on projected taxable income of 470ms.
+This reflects the PaymentGateway depreciation deductions and the R&D tax credit for
+the Cloud Connect development costs. Sanjay Krishnamurthy from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $274,841 for our primary jurisdiction and 497ms for the
+New York office based on the apportionment factors. The New York rate change that
+takes effect on Monday, March 5 will impact our Q1 estimate by approximately 79
+percent.
+
+International: with the New York office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Sanjay Krishnamurthy to handle
+the registration. Setup cost is $274,841 with ongoing compliance costs of
+497ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Monday, March 5. I'll prepare the
+payment authorization for your signature by December 27. Underpayment penalties
+start at 6% so timely filing is important.
+
+Best,
+Grace

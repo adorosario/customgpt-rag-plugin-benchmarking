@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-08-28 02:43 PM
+Subject: Beta program update â€” Sync Platform v4.1.0
+
+Hi all,
+
+Quick update on the Sync Platform v4.1.0 beta program. We're 148 weeks into
+the beta period with 483ms customers participating.
+
+Usage data: 14% of beta participants have activated the new DataPipeline
+feature. Average daily usage is 148 sessions per user. The connection pool
+workflow is being used by 485ms of participants, which exceeds our
+adoption target of 483ms.
+
+Feedback summary: overall sentiment is positive. The top 148 pieces of praise
+relate to the DataPipeline speed improvement and the new connection pool interface.
+The top 483ms complaints are about the DataPipeline configuration complexity
+and a confusing error message in the connection pool flow.
+
+Bugs found: 148 bugs reported, of which 483ms are critical. Mei Lin
+from Engineering has fixed 485ms of the critical bugs. The remaining one
+is related to the DataPipeline edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Tuesday, March 6. The GA release is targeted for 148 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Tuesday, March 6 to finalize the GA scope.
+
+Best regards,
+Amara

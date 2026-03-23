@@ -1,0 +1,30 @@
+From: derek.morrison@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-09-28 01:01 PM
+Subject: Client meeting recap â€” Cyberdyne Tuesday, February 10
+
+Good morning,
+
+Recapping today's meeting with Cyberdyne. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their BillingModule
+team lead. From ours: myself, Derek Morrison from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their metrics collector vendors
+from three down to one. Our Enterprise Suite covers 49% of their requirements
+natively. The remaining gap is around BillingModule integrations, which Derek Morrison
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Tuesday, February 10 and begin
+implementation in Q1. Budget has been pre-approved at $378,580 for the
+first year.
+
+Action items: send the Enterprise Suite technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their metrics collector workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Cheers,
+Derek

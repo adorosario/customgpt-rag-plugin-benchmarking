@@ -1,0 +1,33 @@
+From: james.oduya@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-11-20 10:51 PM
+Subject: SEO update â€” MessageBroker keyword rankings
+
+Hey everyone,
+
+Monthly SEO update for our MessageBroker content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Analytics Pro comparison page climbed from position 105ms to
+position 117ms for our primary keyword. The queue processor guide is now
+ranking in the top 78 for three long-tail variations.
+
+Traffic impact: organic sessions are up 51% month over month. The
+MessageBroker cluster is now driving 78 unique sessions monthly, making it our
+second-highest traffic source behind the Analytics Pro landing page.
+
+Content gaps identified: we're missing content for 105ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q4. Patrick O'Brien from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 117ms on mobile after the image
+optimization work. No crawl errors detected. The new queue processor documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 78 pages. I'll share the
+outreach plan next week.
+
+Talk soon,
+James

@@ -1,0 +1,31 @@
+From: derek.morrison@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-14 10:16 AM
+Subject: Client meeting recap â€” Weyland-Yutani Wednesday, October 18
+
+Hi team,
+
+Recapping today's meeting with Weyland-Yutani. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their AuditLog
+team lead. From ours: myself, Dmitri Volkov from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their load balancer vendors
+from three down to one. Our Integration Hub covers 41% of their requirements
+natively. The remaining gap is around AuditLog integrations, which Dmitri Volkov
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Wednesday, October 18 and begin
+implementation in Q3. Budget has been pre-approved at $497,331 for the
+first year.
+
+Action items: send the Integration Hub technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their load balancer workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Best,
+Derek

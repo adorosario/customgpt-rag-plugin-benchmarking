@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-08-30 08:28 PM
+Subject: Cash flow forecast â€” Q4
+
+Hello,
+
+Attached is the cash flow forecast for Q4. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $322,450 based on the current AR aging
+and sales pipeline. The Massive Dynamic payment of 377ms is expected by Thursday, November 4
+â€” Kwame Asante from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the APIGateway infrastructure
+investment at $322,450. The Toronto office build-out costs will hit in Q4
+with an estimated total of 439ms. Payroll continues at 377ms
+monthly for our 93-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $322,450 in the second month. This provides 93 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Massive Dynamic deal slips from Q4 to next quarter, we'll
+need to draw on the credit facility for $322,450. I've confirmed the line is
+available. Kwame Asante and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Talk soon,
+Grace

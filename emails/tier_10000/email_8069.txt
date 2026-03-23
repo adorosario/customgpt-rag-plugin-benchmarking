@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-09-03 05:39 PM
+Subject: Customer feedback digest â€” Enterprise Suite Q1
+
+Hi,
+
+Here's the quarterly customer feedback digest for Enterprise Suite. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 21, up 247ms points from last quarter. The improvement
+is driven by the UserProfileService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 46%.
+
+Top feature requests: UserProfileService advanced filtering (21 votes), event bus
+bulk operations (247ms votes), and enhanced Enterprise Suite reporting (136ms
+votes). The filtering request aligns with what we heard in the user research study
+Laura Kim conducted.
+
+Top complaints: UserProfileService performance during peak hours (21 mentions),
+the event bus onboarding experience (247ms mentions), and pricing
+transparency (136ms mentions). The performance issue is being addressed
+by Engineering â€” Laura Kim expects the fix in v3.8.1.
+
+Churn insights: 21 customers churned this quarter citing UserProfileService
+limitations as the primary reason. The event bus overhaul on our roadmap directly
+addresses their feedback. 46% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Tuesday, December 18.
+
+Cheers,
+Daniel

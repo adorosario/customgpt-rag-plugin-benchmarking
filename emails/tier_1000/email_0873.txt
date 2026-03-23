@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-19 07:51 AM
+Subject: Beta program update â€” Enterprise Suite v2.1.0
+
+Hello,
+
+Quick update on the Enterprise Suite v2.1.0 beta program. We're 108 weeks into
+the beta period with 125ms customers participating.
+
+Usage data: 35% of beta participants have activated the new UserProfileService
+feature. Average daily usage is 108 sessions per user. The serialization engine
+workflow is being used by 384ms of participants, which exceeds our
+adoption target of 125ms.
+
+Feedback summary: overall sentiment is positive. The top 108 pieces of praise
+relate to the UserProfileService speed improvement and the new serialization engine interface.
+The top 125ms complaints are about the UserProfileService configuration complexity
+and a confusing error message in the serialization engine flow.
+
+Bugs found: 108 bugs reported, of which 125ms are critical. Daniel Park
+from Engineering has fixed 384ms of the critical bugs. The remaining one
+is related to the UserProfileService edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Wednesday, November 25. The GA release is targeted for 108 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Wednesday, November 25 to finalize the GA scope.
+
+Best regards,
+Liam

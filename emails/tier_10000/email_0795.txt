@@ -1,0 +1,29 @@
+From: ananya.desai@acmecorp.com
+To: maria.santos@acmecorp.com
+Date: 2025-11-10 05:15 PM
+Subject: Re: Expense report flagged â€” AuthService charges
+
+Good afternoon,
+
+I noticed some items on the AuthService expense report submitted by Oluwaseun Adeyemi
+that need clarification before I can approve them.
+
+The serialization engine subscription charge of $361,114 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+154ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Pied Piper dinner on Wednesday, August 21 for $361,114 exceeds our per-person meal
+reimbursement limit of 154ms. If this was a client entertainment expense,
+it should be coded to the client development budget under AuthService rather than
+general T&E. 189 attendees at that amount puts us at 244ms per
+person which is within the client entertainment policy.
+
+The remaining 189 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 154ms business days after approval.
+
+Please resubmit with the corrections by Wednesday, August 21 so we can keep things on track.
+
+Best regards,
+Ananya

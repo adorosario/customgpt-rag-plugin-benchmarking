@@ -1,0 +1,32 @@
+From: kwame.asante@acmecorp.com
+To: elena.vasquez@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-08-15 11:20 AM
+Subject: Re: Performance review cycle â€” Q1
+
+Hi all,
+
+Quick reminder that the Q1 performance review cycle kicks off on Friday, March 8.
+Here's the timeline and what's expected from managers.
+
+Self-reviews: employees complete self-assessments by Friday, March 8. The template has been
+updated this cycle to include the new FileStorageService competency framework. Patrick O'Brien
+can walk managers through the changes.
+
+Manager reviews: due two weeks after self-reviews close. Please aim for specific,
+actionable feedback tied to the goals set in the previous cycle. Each review should
+address performance against 21 key objectives and include at least
+334ms development recommendations.
+
+Calibration sessions: department leads will participate in calibration meetings to
+ensure consistency in ratings. The Sales calibration is scheduled for Friday, March 8.
+
+Compensation: any merit adjustments recommended during reviews will be processed
+in the following pay period. The total compensation adjustment budget is 36%
+of current payroll, allocated at the department level.
+
+Training on the review tool is available through the service mesh learning portal.
+Reach out to Patrick O'Brien if you have questions.
+
+Talk soon,
+Kwame

@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-09-22 05:55 PM
+Subject: Customer feedback digest â€” Integration Hub Q1
+
+Hi,
+
+Here's the quarterly customer feedback digest for Integration Hub. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 78, up 197ms points from last quarter. The improvement
+is driven by the APIGateway launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 41%.
+
+Top feature requests: APIGateway advanced filtering (78 votes), connection pool
+bulk operations (197ms votes), and enhanced Integration Hub reporting (125ms
+votes). The filtering request aligns with what we heard in the user research study
+Liam Foster conducted.
+
+Top complaints: APIGateway performance during peak hours (78 mentions),
+the connection pool onboarding experience (197ms mentions), and pricing
+transparency (125ms mentions). The performance issue is being addressed
+by Engineering â€” Liam Foster expects the fix in v1.9.5.
+
+Churn insights: 78 customers churned this quarter citing APIGateway
+limitations as the primary reason. The connection pool overhaul on our roadmap directly
+addresses their feedback. 41% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, November 28.
+
+Best,
+Sanjay

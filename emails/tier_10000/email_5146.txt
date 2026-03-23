@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-11-15 05:31 AM
+Subject: Press release draft â€” Cloud Connect announcement
+
+Hey everyone,
+
+The press release for the Cloud Connect announcement is ready for internal review. I've
+incorporated feedback from Ravi Patel and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the AnalyticsDashboard capability and positions Acme Corp as a leader
+in the event bus space. We're leading with the 18 performance improvement
+stat and the Hooli customer quote.
+
+Distribution plan: wire service distribution on Wednesday, March 25, followed by targeted
+outreach to our 490ms media contacts in the industry. I've secured a briefing
+with AnalyticsDashboard Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Cloud Connect landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 18-hour cadence on launch day.
+
+Embargo: the release is under embargo until Wednesday, March 25 at 9 AM ET. Please don't share
+details externally before then. Ravi Patel has the full distribution list.
+
+Review deadline is Wednesday, March 25. Please send edits as comments in the doc.
+
+Cheers,
+Laura

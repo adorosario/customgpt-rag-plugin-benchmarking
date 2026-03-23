@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-20 07:25 PM
+Subject: Payroll adjustment â€” Tuesday, January 21 cycle
+
+Hi team,
+
+Several payroll adjustments need to be processed for the Tuesday, January 21 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 95 employees received approved raises effective Tuesday, January 21. The
+total monthly payroll impact is $290,627. The largest increase is for Sanjay Krishnamurthy
+whose compensation moves from 396ms to 123ms based on the promotion
+approved in the Q3 review cycle.
+
+New hires: 95 new employees starting on Tuesday, January 21 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Sanjay Krishnamurthy
+in People Ops has verified the documentation.
+
+Bonus payouts: the SchedulerService project completion bonus of $290,627 each goes to
+95 team members. These are one-time payments coded to the Legal department
+budget. Tax withholding will be calculated at the supplemental rate of 39%.
+
+Deduction changes: 95 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from load balancer.
+
+Please approve the batch by August 20 to ensure on-time processing.
+
+Talk soon,
+Michael

@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-29 11:39 PM
+Subject: FP&A update â€” Sync Platform financial model
+
+Hi all,
+
+I've updated the Sync Platform financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 155 per month based
+on the last 434ms months of data. Average contract value is tracking at
+$107,896, which is 60% above our original assumption. The PaymentGateway
+upsell rate of 84ms is a positive trend.
+
+Cost structure: the metrics collector hosting costs are running 60% higher than
+modeled due to increased PaymentGateway usage. I've adjusted the variable cost
+per customer from 434ms to 84ms. Tomoko Nakamura from Engineering
+says the optimization project should bring this down by 60% in Q1.
+
+Break-even analysis: with the revised numbers, Sync Platform reaches contribution
+margin break-even at 155 customers, which we're projected to hit by Wednesday, June 23.
+Full break-even including allocated overhead comes at 434ms customers.
+
+Scenarios: the base case shows $107,896 in cumulative revenue by year end. The
+upside case with the Soylent Corp deal closing hits 84ms. Downside case
+assuming 60% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Regards,
+Ananya

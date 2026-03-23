@@ -1,0 +1,31 @@
+From: kwame.asante@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-09-19 01:40 AM
+Subject: Training program â€” APIGateway certification
+
+Hey,
+
+We're launching a new APIGateway certification training program for interested
+employees. This is part of our learning and development investment for Q4.
+
+Program details: the course runs for 21 weeks and covers queue processor
+fundamentals through advanced topics. Sessions are held twice a week for 405ms
+hours each. Carlos Rivera from the Engineering team will facilitate the hands-on labs.
+
+Eligibility: open to all employees. Priority enrollment goes to the Engineering and
+Engineering teams since the certification is directly relevant to their roles. We
+have 497ms spots available for the first cohort.
+
+Cost: Acme Corp covers 52% of the certification exam fee upon course
+completion. The total investment per employee is $164,395 including materials and
+exam vouchers.
+
+Commitment: participants are expected to dedicate 21 hours per week to
+coursework outside of the live sessions. Managers must approve the time commitment
+for their reports.
+
+Registration opens on Thursday, May 5 and closes when spots are filled. Sign up through
+the queue processor learning portal.
+
+Best,
+Kwame

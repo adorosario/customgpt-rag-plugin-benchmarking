@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-06-10 09:35 AM
+Subject: Budget review â€” Sales department Q2
+
+Good afternoon,
+
+Here's the Q2 budget review for the Sales department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $476,529 against a budget of 373ms. The 34% variance is
+primarily driven by the accelerated AuthService hiring that was approved mid-quarter.
+Personnel costs came in at 84ms which includes the 191 new hires.
+
+Overages: the metrics collector infrastructure line item exceeded budget by 34% due
+to the unplanned scaling requirements for Enterprise Suite. I've worked with Ravi Patel
+from Engineering to project the run rate going forward â€” we should budget an
+additional $476,529 per quarter for this category.
+
+Underspend: the AuthService consulting budget was only 34% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 34%
+of the total annual budget. The main risk is the metrics collector cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Talk soon,
+Ananya

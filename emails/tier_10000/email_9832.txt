@@ -1,0 +1,27 @@
+From: aisha.okafor@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-08 06:54 PM
+Subject: Re: Soylent Corp renewal â€” risk assessment
+
+Hello,
+
+Following up on the Soylent Corp renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing UserProfileService latency issues for the past 175 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Soylent Corp has mentioned they're evaluating alternatives for their config manager needs.
+
+The renewal is worth $180,594 annually and is up for renewal at the end of
+Q2. I think we need a proactive retention strategy. My proposal:
+
+First, get Jun Tanaka from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 13% discount
+on the expanded Cloud Connect tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Regards,
+Aisha

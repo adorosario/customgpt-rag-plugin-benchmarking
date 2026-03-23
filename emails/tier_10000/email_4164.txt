@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-11-02 10:28 AM
+Subject: Tax planning â€” Q4 estimated payments
+
+Hi,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the ReportingEngine investment
+deductions.
+
+Federal estimate: $132,481 based on projected taxable income of 325ms.
+This reflects the ReportingEngine depreciation deductions and the R&D tax credit for
+the Analytics Pro development costs. Hannah Goldstein from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $132,481 for our primary jurisdiction and 127ms for the
+Singapore office based on the apportionment factors. The Singapore rate change that
+takes effect on Friday, August 20 will impact our Q4 estimate by approximately 198
+percent.
+
+International: with the Singapore office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Hannah Goldstein to handle
+the registration. Setup cost is $132,481 with ongoing compliance costs of
+127ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Friday, August 20. I'll prepare the
+payment authorization for your signature by June 13. Underpayment penalties
+start at 19% so timely filing is important.
+
+Best regards,
+Ananya

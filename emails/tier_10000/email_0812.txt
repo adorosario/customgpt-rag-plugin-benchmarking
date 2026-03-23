@@ -1,0 +1,32 @@
+From: sarah.chen@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-06-17 06:01 AM
+Subject: Vendor agreement â€” Weyland-Yutani terms review
+
+Hello,
+
+I've reviewed the vendor agreement from Weyland-Yutani for the connection pool services
+we're procuring. Here are my findings and recommended changes.
+
+Term and renewal: the proposed 133-year term with auto-renewal is acceptable.
+However, the 325ms-day termination notice period is too long for our needs.
+I've countered with 186ms days, which aligns with our standard vendor
+management practices.
+
+Service level commitments: Weyland-Yutani is offering 40% uptime with service
+credits starting at 133 percent for each hour of downtime. I've pushed for
+a higher credit rate given the criticality of connection pool to our Insight Engine
+infrastructure.
+
+Data ownership: section 5 is clear that we retain all rights to our data. However,
+Weyland-Yutani claims a license to use aggregated, anonymized data for benchmarking. I
+want to narrow this to exclude any data from the ReportingEngine environment.
+Sofia Martinez from Engineering should review the technical implications.
+
+Pricing: $347,652 per year is within the budget that Finance approved. The payment
+terms are net 325ms days, which works for our AP schedule.
+
+Please confirm the business terms and I'll send the redlined agreement by Wednesday, March 14.
+
+Cheers,
+Sarah

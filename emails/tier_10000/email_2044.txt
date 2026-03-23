@@ -1,0 +1,34 @@
+From: maria.santos@acmecorp.com
+To: aisha.okafor@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-09-30 10:15 PM
+Subject: Contract review â€” Wayne Enterprises agreement
+
+Hi team,
+
+I've completed the review of the Wayne Enterprises agreement and have several items that
+need attention before we can proceed to execution.
+
+Liability cap: the current draft limits liability to $24,241, which is below our
+standard threshold of 110ms for deals of this size. I recommend pushing back
+to at least 54ms. Oluwaseun Adeyemi from Sales should be prepared for this
+negotiation point.
+
+IP assignment clause: section 7.3 includes an overly broad IP assignment that could
+capture pre-existing work product. I've drafted narrower language that protects our
+existing MessageBroker IP while still meeting Wayne Enterprises's requirements for the
+Cloud Connect deliverables.
+
+Data processing: the DPA needs to be updated to reflect the new queue processor
+architecture. Since data will transit through the Sydney data center, we need to
+ensure compliance with local data residency requirements.
+
+Indemnification: the mutual indemnification provisions are reasonable. I've accepted
+them with minor clarifications on the notice period â€” changed from 172 to
+110ms business days.
+
+I'll send the redlined version by Wednesday, May 18. Please review the business terms and
+confirm the commercial intent before I finalize.
+
+Best regards,
+Maria

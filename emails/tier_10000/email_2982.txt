@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-07-13 11:57 PM
+Subject: Conference recap â€” Insight Engine booth results
+
+Good morning,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Insight Engine booth drew consistent traffic throughout.
+
+Lead collection: 118 badge scans at the booth, of which 88ms are
+qualified leads based on our initial review. The DataPipeline live demo was the
+biggest draw, and Tomoko Nakamura from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+config manager roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Insight Engine had 459ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 118 times since we posted it.
+
+Budget: we came in at $95,280, which is 49% under budget. The savings came
+from sharing the booth infrastructure with the DataPipeline partner showcase.
+
+I'll prepare a full ROI analysis by Tuesday, July 6 once we've completed lead follow-up.
+
+Talk soon,
+Yuki

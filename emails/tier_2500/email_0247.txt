@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: aisha.okafor@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-06 01:03 PM
+Subject: Revenue recognition â€” Data Vault contracts
+
+Hi team,
+
+I need to walk through the revenue recognition treatment for the new Data Vault
+contracts signed this quarter. We have 163 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Weyland-Yutani contract bundles Data Vault licenses with
+load balancer implementation services. I've determined the standalone selling prices
+and allocated $462,203 to the license component and 178ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 163-month implementation period.
+
+Variable consideration: 494ms contracts include performance bonuses tied to
+APIGateway uptime metrics. Using the expected value method, I've estimated
+$462,203 in variable consideration based on our historical performance of
+24% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Weyland-Yutani amendment added load balancer capacity at
+$462,203 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Aisha Okafor from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Tuesday, May 5.
+
+Best regards,
+Robert

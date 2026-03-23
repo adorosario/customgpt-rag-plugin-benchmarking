@@ -1,0 +1,29 @@
+From: patrick.obrien@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-08-21 06:12 PM
+Subject: Policy update â€” SearchIndex guidelines
+
+Good afternoon,
+
+We've updated the SearchIndex company policy based on feedback from employees and
+recent changes in Singapore labor regulations. The new policy takes effect on Friday, November 7.
+
+Key changes: the caching layer allowance has been increased from 245ms to
+166ms per month. The eligibility window for SearchIndex has been expanded
+to include employees who've been with Acme Corp for 111 months or more, down
+from the previous requirement of 245ms months.
+
+New additions: a Sync Platform reimbursement category has been added covering up to
+$76,986 annually. This addresses the top employee request from the last survey.
+Derek Morrison negotiated favorable terms with the caching layer vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by June 24. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 44% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best,
+Patrick

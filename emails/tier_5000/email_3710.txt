@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-28 08:37 PM
+Subject: Sprint planning â€” Data Vault sprint v2.4.1
+
+Hello,
+
+Here's the sprint plan for Data Vault sprint v2.4.1. Capacity is 111 story
+points with 277ms engineers available this sprint.
+
+Committed stories: the SearchIndex integration work carries over from last sprint
+with 445ms points remaining. The new config manager API endpoints are
+estimated at 111 points. The bug fix for the SearchIndex rendering issue
+is 277ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the config manager performance
+optimization that Liam Foster has been scouting. It's estimated at 111 points
+and would improve response time by 52%.
+
+Dependencies: the SearchIndex feature requires the API changes that Liam Foster
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The config manager work is self-contained.
+
+Risks: Liam Foster is on-call this sprint which historically reduces their available
+capacity by 52%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, March 9. Let me know if the priorities look right.
+
+Talk soon,
+Mei

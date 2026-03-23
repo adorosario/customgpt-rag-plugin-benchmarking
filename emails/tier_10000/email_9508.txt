@@ -1,0 +1,26 @@
+From: hannah.goldstein@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-06-09 01:40 AM
+Subject: Pipeline update â€” Stark Industries deal status
+
+Hello,
+
+Quick update on the Stark Industries opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $448,634 for the Enterprise Suite deployment. The
+decision timeline is end of Q4. Their main concern remains the integration
+with their existing MessageBroker infrastructure, which is why I've looped in Alex Chen
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Stark Industries is also evaluating one other vendor but our
+Enterprise Suite demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our logging pipeline capability.
+
+Next steps: technical architecture session on Thursday, April 1, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 44%.
+
+Best regards,
+Hannah

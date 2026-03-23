@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-19 10:19 AM
+Subject: Financial close checklist â€” Q2
+
+Good morning,
+
+The Q2 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Insight Engine invoices must be issued by Monday, January 11. Any revenue recognition
+adjustments for the PaymentGateway contracts need supporting documentation uploaded
+to config manager. Daniel Park from Sales must confirm final deal amounts by February 10.
+
+Expenses: all expense reports for Q2 must be submitted by Monday, January 11. The
+PaymentGateway vendor invoices totaling $146,351 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, PaymentGateway subscription costs,
+and the config manager usage charges by Monday, January 11. Any non-standard accruals above
+350ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, PaymentGateway account reconciliation, and
+inter-company balances must be completed by Monday, January 11. Daniel Park is handling the
+bank rec. I'll take the inter-company items since they involve the Toronto entity.
+
+Target: books closed within 94 business days of quarter end. Final reporting
+package to leadership by Monday, January 11.
+
+Regards,
+Ananya

@@ -1,0 +1,28 @@
+From: elena.vasquez@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-07-19 10:10 PM
+Subject: Load testing results â€” DataPipeline v5.0.0-beta
+
+Hi,
+
+Sharing the load testing results for DataPipeline v5.0.0-beta ahead of next week's
+release. We tested at 2x and 5x current peak traffic levels.
+
+At 2x load: all endpoints stayed within SLA. P99 latency for the load balancer
+endpoint was 108ms, well under our 449ms target. No errors
+observed across the full test duration.
+
+At 5x load: the DataPipeline service held up but the load balancer started showing
+degradation at around 3.5x. Error rate climbed to 48% and response times
+increased significantly. The bottleneck appears to be the database connection pool
+â€” we max out at the configured limit.
+
+Recommendation: we're safe for the near-term growth projections. For the 42
+milestone we're targeting in Q4, we'll need to increase the connection pool size
+and potentially add a read replica. Priya Sharma is putting together a capacity
+planning proposal.
+
+Full report with graphs is attached.
+
+Regards,
+Elena

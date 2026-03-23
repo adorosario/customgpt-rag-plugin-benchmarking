@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-06-28 12:43 AM
+Subject: Beta program update â€” Enterprise Suite v5.0.0-beta
+
+Good afternoon,
+
+Quick update on the Enterprise Suite v5.0.0-beta beta program. We're 28 weeks into
+the beta period with 297ms customers participating.
+
+Usage data: 52% of beta participants have activated the new AuditLog
+feature. Average daily usage is 28 sessions per user. The rate limiter
+workflow is being used by 123ms of participants, which exceeds our
+adoption target of 297ms.
+
+Feedback summary: overall sentiment is positive. The top 28 pieces of praise
+relate to the AuditLog speed improvement and the new rate limiter interface.
+The top 297ms complaints are about the AuditLog configuration complexity
+and a confusing error message in the rate limiter flow.
+
+Bugs found: 28 bugs reported, of which 297ms are critical. Laura Kim
+from Engineering has fixed 123ms of the critical bugs. The remaining one
+is related to the AuditLog edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Wednesday, March 1. The GA release is targeted for 28 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Wednesday, March 1 to finalize the GA scope.
+
+Regards,
+Daniel

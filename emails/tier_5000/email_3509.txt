@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-07 08:38 PM
+Subject: Budget review â€” Marketing department Q1
+
+Hi,
+
+Here's the Q1 budget review for the Marketing department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $254,846 against a budget of 395ms. The 53% variance is
+primarily driven by the accelerated AuthService hiring that was approved mid-quarter.
+Personnel costs came in at 247ms which includes the 86 new hires.
+
+Overages: the metrics collector infrastructure line item exceeded budget by 53% due
+to the unplanned scaling requirements for Analytics Pro. I've worked with Tomoko Nakamura
+from Engineering to project the run rate going forward â€” we should budget an
+additional $254,846 per quarter for this category.
+
+Underspend: the AuthService consulting budget was only 53% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 53%
+of the total annual budget. The main risk is the metrics collector cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Regards,
+Ananya

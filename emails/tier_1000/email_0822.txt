@@ -1,0 +1,29 @@
+From: carlos.rivera@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-22 03:49 PM
+Subject: Re: Quota update â€” Q2 adjustments
+
+Hello,
+
+Thanks for sharing the Q2 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $208,663 reflects a 55% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 18 of my projected deals depend on the Analytics Pro launch happening on
+schedule. If that slips, I'll need the BillingModule backup deals to come through.
+
+Territory changes: I see that the Singapore accounts have been reassigned to
+Ravi Patel. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Cyberdyne â€” we've been building that
+relationship for 462ms months.
+
+Regarding the new logging pipeline incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with logging pipeline upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Cheers,
+Carlos

@@ -1,0 +1,29 @@
+From: laura.kim@acmecorp.com
+To: elena.vasquez@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-06-24 10:33 PM
+Subject: Data Vault campaign launch â€” Q3 plan
+
+Good morning,
+
+Here's the campaign plan for the Data Vault launch in Q3. I've aligned the
+messaging with the positioning we finalized last week and mapped out the channel
+strategy.
+
+Campaign theme: highlighting the CacheLayer advantage and how Data Vault solves
+the key pain point around metrics collector complexity. Target audience is mid-market
+and enterprise IT decision makers.
+
+Channel breakdown: 44% of budget to paid digital, 95 to content
+marketing, and the remainder to events and webinars. We're targeting a $83,673
+total spend with a goal of 487ms marketing qualified leads.
+
+Content deliverables: landing page, solution brief, customer case study featuring
+Massive Dynamic, three blog posts, and a webinar co-hosted with David Okonkwo from Product.
+All assets target completion by Thursday, September 20.
+
+The paid campaign goes live two weeks before the official launch to build awareness.
+I'll share the creative brief for review tomorrow.
+
+Best regards,
+Laura

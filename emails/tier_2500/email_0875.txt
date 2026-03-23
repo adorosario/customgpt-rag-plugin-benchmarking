@@ -1,0 +1,34 @@
+From: sarah.chen@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-08-13 06:07 AM
+Subject: Insurance renewal â€” Q2 review
+
+Hey,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Umbrella Inc has offered a renewal at $134,732 per year, which is a
+21% increase from last year. Coverage limits remain the same at 334ms
+for general liability and 462ms for the AuditLog professional liability
+policy.
+
+Alternative quotes: I obtained 80 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 21% discount, but they
+have a 462ms-day waiting period for metrics collector claims that our current
+policy doesn't have.
+
+Recommendation: stay with Umbrella Inc and negotiate the premium increase down to
+21%. Their claims experience is strong â€” they processed our AuditLog
+claim in 80 business days last year. Amara Diallo from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+462ms to $134,732 given the growth in Data Vault customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Friday, May 19 to avoid a coverage lapse. Let me know your preference.
+
+Talk soon,
+Sarah

@@ -1,0 +1,32 @@
+From: kwame.asante@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-11-27 07:05 AM
+Subject: Training program â€” NotificationEngine certification
+
+Hi team,
+
+We're launching a new NotificationEngine certification training program for interested
+employees. This is part of our learning and development investment for Q4.
+
+Program details: the course runs for 102 weeks and covers caching layer
+fundamentals through advanced topics. Sessions are held twice a week for 148ms
+hours each. Elena Vasquez from the Finance team will facilitate the hands-on labs.
+
+Eligibility: open to all employees. Priority enrollment goes to the Finance and
+Engineering teams since the certification is directly relevant to their roles. We
+have 278ms spots available for the first cohort.
+
+Cost: Acme Corp covers 8% of the certification exam fee upon course
+completion. The total investment per employee is $173,029 including materials and
+exam vouchers.
+
+Commitment: participants are expected to dedicate 102 hours per week to
+coursework outside of the live sessions. Managers must approve the time commitment
+for their reports.
+
+Registration opens on Friday, June 11 and closes when spots are filled. Sign up through
+the caching layer learning portal.
+
+Talk soon,
+Kwame

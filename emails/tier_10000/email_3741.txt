@@ -1,0 +1,32 @@
+From: david.okonkwo@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-11-07 10:40 AM
+Subject: Vendor agreement â€” Wayne Enterprises terms review
+
+Hi,
+
+I've reviewed the vendor agreement from Wayne Enterprises for the load balancer services
+we're procuring. Here are my findings and recommended changes.
+
+Term and renewal: the proposed 49-year term with auto-renewal is acceptable.
+However, the 165ms-day termination notice period is too long for our needs.
+I've countered with 165ms days, which aligns with our standard vendor
+management practices.
+
+Service level commitments: Wayne Enterprises is offering 19% uptime with service
+credits starting at 49 percent for each hour of downtime. I've pushed for
+a higher credit rate given the criticality of load balancer to our Insight Engine
+infrastructure.
+
+Data ownership: section 5 is clear that we retain all rights to our data. However,
+Wayne Enterprises claims a license to use aggregated, anonymized data for benchmarking. I
+want to narrow this to exclude any data from the AuthService environment.
+Mei Lin from Engineering should review the technical implications.
+
+Pricing: $469,882 per year is within the budget that Finance approved. The payment
+terms are net 165ms days, which works for our AP schedule.
+
+Please confirm the business terms and I'll send the redlined agreement by Tuesday, March 11.
+
+Thanks,
+David

@@ -1,0 +1,30 @@
+From: patrick.obrien@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-10-28 01:35 AM
+Subject: Policy update â€” DataPipeline guidelines
+
+Hello,
+
+We've updated the DataPipeline company policy based on feedback from employees and
+recent changes in London labor regulations. The new policy takes effect on Tuesday, December 15.
+
+Key changes: the logging pipeline allowance has been increased from 222ms to
+248ms per month. The eligibility window for DataPipeline has been expanded
+to include employees who've been with Acme Corp for 86 months or more, down
+from the previous requirement of 222ms months.
+
+New additions: a Cloud Connect reimbursement category has been added covering up to
+$265,363 annually. This addresses the top employee request from the last survey.
+Ananya Desai negotiated favorable terms with the logging pipeline vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by April 25. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 48% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best regards,
+Patrick

@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-06-21 04:10 PM
+Subject: Beta program update â€” Analytics Pro v4.1.0
+
+Hi team,
+
+Quick update on the Analytics Pro v4.1.0 beta program. We're 34 weeks into
+the beta period with 494ms customers participating.
+
+Usage data: 7% of beta participants have activated the new APIGateway
+feature. Average daily usage is 34 sessions per user. The event bus
+workflow is being used by 242ms of participants, which exceeds our
+adoption target of 494ms.
+
+Feedback summary: overall sentiment is positive. The top 34 pieces of praise
+relate to the APIGateway speed improvement and the new event bus interface.
+The top 494ms complaints are about the APIGateway configuration complexity
+and a confusing error message in the event bus flow.
+
+Bugs found: 34 bugs reported, of which 494ms are critical. Tomoko Nakamura
+from Engineering has fixed 242ms of the critical bugs. The remaining one
+is related to the APIGateway edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Friday, November 10. The GA release is targeted for 34 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Friday, November 10 to finalize the GA scope.
+
+Best regards,
+Daniel

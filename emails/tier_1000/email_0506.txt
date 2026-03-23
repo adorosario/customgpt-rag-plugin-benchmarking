@@ -1,0 +1,32 @@
+From: sarah.chen@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-11-16 04:02 AM
+Subject: Re: Litigation hold â€” Stark Industries matter
+
+Hey,
+
+Following up on the Stark Industries dispute. We need to implement a litigation hold
+immediately. Here's what that means for the affected teams.
+
+Scope: all documents, emails, and electronic records related to the Stark Industries
+engagement from Wednesday, October 10 forward must be preserved. This includes AnalyticsDashboard
+logs, Enterprise Suite deployment records, and all correspondence between our teams
+and Stark Industries's personnel.
+
+Affected departments: Engineering, Sales, and Product. Fatima Al-Rashid will distribute
+hold notices to the specific custodians in each department. We've identified
+129 individuals whose records are potentially relevant.
+
+Obligations: do not delete, modify, or archive any records covered by the hold.
+Suspend any auto-deletion policies for the relevant metrics collector systems.
+Fatima Al-Rashid from IT is coordinating the technical preservation measures.
+
+Duration: the hold remains in effect until further notice from Legal. I expect the
+matter to be resolved within 385ms months based on preliminary discussions
+with opposing counsel. The estimated legal cost exposure is $20,056.
+
+If anyone has questions about what's covered, direct them to me. Do not discuss
+the hold or the underlying matter externally.
+
+Thanks,
+Sarah

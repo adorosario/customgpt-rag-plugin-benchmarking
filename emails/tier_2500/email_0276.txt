@@ -1,0 +1,30 @@
+From: dmitri.volkov@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-10-26 06:32 PM
+Subject: Client meeting recap â€” Tyrell Corp Monday, April 17
+
+Hi,
+
+Recapping today's meeting with Tyrell Corp. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their DataPipeline
+team lead. From ours: myself, Marcus Thompson from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their connection pool vendors
+from three down to one. Our Integration Hub covers 45% of their requirements
+natively. The remaining gap is around DataPipeline integrations, which Marcus Thompson
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Monday, April 17 and begin
+implementation in Q4. Budget has been pre-approved at $263,976 for the
+first year.
+
+Action items: send the Integration Hub technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their connection pool workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Best,
+Dmitri

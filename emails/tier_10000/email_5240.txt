@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-11-03 04:32 PM
+Subject: Financial close checklist â€” Q1
+
+Good afternoon,
+
+The Q1 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Analytics Pro invoices must be issued by Tuesday, May 18. Any revenue recognition
+adjustments for the PaymentGateway contracts need supporting documentation uploaded
+to connection pool. Fatima Al-Rashid from Sales must confirm final deal amounts by April 17.
+
+Expenses: all expense reports for Q1 must be submitted by Tuesday, May 18. The
+PaymentGateway vendor invoices totaling $367,759 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, PaymentGateway subscription costs,
+and the connection pool usage charges by Tuesday, May 18. Any non-standard accruals above
+51ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, PaymentGateway account reconciliation, and
+inter-company balances must be completed by Tuesday, May 18. Fatima Al-Rashid is handling the
+bank rec. I'll take the inter-company items since they involve the Tokyo entity.
+
+Target: books closed within 13 business days of quarter end. Final reporting
+package to leadership by Tuesday, May 18.
+
+Best,
+Grace

@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-18 03:00 PM
+Subject: Cash flow forecast â€” Q4
+
+Hey,
+
+Attached is the cash flow forecast for Q4. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $306,508 based on the current AR aging
+and sales pipeline. The Pied Piper payment of 114ms is expected by Monday, June 23
+â€” Robert Kimura from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the FileStorageService infrastructure
+investment at $306,508. The Tokyo office build-out costs will hit in Q4
+with an estimated total of 383ms. Payroll continues at 114ms
+monthly for our 63-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $306,508 in the second month. This provides 63 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Pied Piper deal slips from Q4 to next quarter, we'll
+need to draw on the credit facility for $306,508. I've confirmed the line is
+available. Robert Kimura and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Cheers,
+Robert

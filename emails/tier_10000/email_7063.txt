@@ -1,0 +1,28 @@
+From: wei.zhang@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-09-19 02:40 AM
+Subject: Load testing results â€” SchedulerService v3.0.0
+
+Good afternoon,
+
+Sharing the load testing results for SchedulerService v3.0.0 ahead of next week's
+release. We tested at 2x and 5x current peak traffic levels.
+
+At 2x load: all endpoints stayed within SLA. P99 latency for the config manager
+endpoint was 334ms, well under our 324ms target. No errors
+observed across the full test duration.
+
+At 5x load: the SchedulerService service held up but the config manager started showing
+degradation at around 3.5x. Error rate climbed to 28% and response times
+increased significantly. The bottleneck appears to be the database connection pool
+â€” we max out at the configured limit.
+
+Recommendation: we're safe for the near-term growth projections. For the 45
+milestone we're targeting in Q4, we'll need to increase the connection pool size
+and potentially add a read replica. Patrick O'Brien is putting together a capacity
+planning proposal.
+
+Full report with graphs is attached.
+
+Best,
+Wei

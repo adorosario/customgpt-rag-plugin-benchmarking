@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-11-02 07:42 AM
+Subject: Beta program update â€” Enterprise Suite v5.0.0-beta
+
+Hey everyone,
+
+Quick update on the Enterprise Suite v5.0.0-beta beta program. We're 77 weeks into
+the beta period with 279ms customers participating.
+
+Usage data: 58% of beta participants have activated the new PaymentGateway
+feature. Average daily usage is 77 sessions per user. The metrics collector
+workflow is being used by 356ms of participants, which exceeds our
+adoption target of 279ms.
+
+Feedback summary: overall sentiment is positive. The top 77 pieces of praise
+relate to the PaymentGateway speed improvement and the new metrics collector interface.
+The top 279ms complaints are about the PaymentGateway configuration complexity
+and a confusing error message in the metrics collector flow.
+
+Bugs found: 77 bugs reported, of which 279ms are critical. Daniel Park
+from Engineering has fixed 356ms of the critical bugs. The remaining one
+is related to the PaymentGateway edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Monday, July 3. The GA release is targeted for 77 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Monday, July 3 to finalize the GA scope.
+
+Cheers,
+Amara

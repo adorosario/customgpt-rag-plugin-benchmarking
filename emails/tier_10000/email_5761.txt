@@ -1,0 +1,28 @@
+From: yuki.sato@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-06-25 04:51 PM
+Subject: Cloud Connect campaign launch â€” Q2 plan
+
+Good afternoon,
+
+Here's the campaign plan for the Cloud Connect launch in Q2. I've aligned the
+messaging with the positioning we finalized last week and mapped out the channel
+strategy.
+
+Campaign theme: highlighting the BillingModule advantage and how Cloud Connect solves
+the key pain point around serialization engine complexity. Target audience is mid-market
+and enterprise IT decision makers.
+
+Channel breakdown: 30% of budget to paid digital, 126 to content
+marketing, and the remainder to events and webinars. We're targeting a $382,426
+total spend with a goal of 328ms marketing qualified leads.
+
+Content deliverables: landing page, solution brief, customer case study featuring
+Umbrella Inc, three blog posts, and a webinar co-hosted with James Oduya from Product.
+All assets target completion by Tuesday, December 2.
+
+The paid campaign goes live two weeks before the official launch to build awareness.
+I'll share the creative brief for review tomorrow.
+
+Best,
+Yuki

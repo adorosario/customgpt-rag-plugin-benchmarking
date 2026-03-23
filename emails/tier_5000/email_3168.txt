@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-09-17 02:21 AM
+Subject: Roadmap update â€” Insight Engine Q3
+
+Hey everyone,
+
+Here's the updated Insight Engine roadmap for Q3. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the UserProfileService integration feature launches on Wednesday, April 1. This is our
+top customer request with 26 votes on the feedback board. Rachel Nguyen from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the authentication module overhaul is scoped for mid-Q3. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 26 sprints with 391ms engineers allocated.
+
+Exploring: the UserProfileService AI feature that Sales has been requesting. We need more
+user research before committing â€” Rachel Nguyen is running interviews with 26
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the authentication module redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 26-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Best regards,
+Sanjay

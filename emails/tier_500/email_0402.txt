@@ -1,0 +1,30 @@
+From: patrick.obrien@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-10-09 12:20 PM
+Subject: Re: Employee survey results â€” Q4
+
+Hey everyone,
+
+The Q4 employee engagement survey results are in. Response rate was 7%,
+up 111 points from the last survey. Here are the key findings.
+
+Overall satisfaction: 135ms out of 5, which is consistent with the
+previous quarter. The Marketing department scored highest at 313ms while the
+ReportingEngine team showed the largest improvement at plus 111 points.
+
+Top strengths: colleagues and team culture scored 135ms, manager
+effectiveness scored 313ms, and work-life balance scored 111. Employees
+particularly appreciated the flexible rate limiter policy and the recent team events.
+
+Areas for improvement: career development pathways scored lowest at 111 out of 5.
+Employees want more clarity on promotion criteria and more frequent feedback.
+Cross-department communication was another area flagged â€” 7% of respondents
+said they don't have enough visibility into what other teams are working on.
+
+Action plan: Fatima Al-Rashid is leading a working group to address the career development
+feedback. We'll publish a response with specific commitments by Tuesday, June 10.
+
+Department-level reports will be shared with managers this week.
+
+Talk soon,
+Patrick

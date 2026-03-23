@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-09-08 11:05 PM
+Subject: Conference recap â€” Enterprise Suite booth results
+
+Hello,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Enterprise Suite booth drew consistent traffic throughout.
+
+Lead collection: 69 badge scans at the booth, of which 124ms are
+qualified leads based on our initial review. The PaymentGateway live demo was the
+biggest draw, and Tomoko Nakamura from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+authentication module roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Enterprise Suite had 78ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 69 times since we posted it.
+
+Budget: we came in at $462,552, which is 56% under budget. The savings came
+from sharing the booth infrastructure with the PaymentGateway partner showcase.
+
+I'll prepare a full ROI analysis by Thursday, September 10 once we've completed lead follow-up.
+
+Cheers,
+Yuki

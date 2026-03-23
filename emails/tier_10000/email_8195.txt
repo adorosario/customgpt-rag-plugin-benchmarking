@@ -1,0 +1,35 @@
+From: amara.diallo@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-23 01:51 AM
+Subject: Re: Analytics Pro metrics review â€” Q2
+
+Hi all,
+
+Here are the Analytics Pro metrics for Q2. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 45 monthly active users, up 25% quarter over quarter. The
+AnalyticsDashboard feature launch drove a spike in activation â€” 419ms new users
+tried it in the first week. Retention for AnalyticsDashboard users is 219ms
+at 30 days versus 45 percent for non-users.
+
+Engagement: average session duration is 45 minutes. The authentication module workflow
+sees the highest engagement with users spending 219ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 419ms features
+per session on average, up from 45 last quarter.
+
+Revenue metrics: Analytics Pro ARR is at $67,688 with 25% growth quarter over
+quarter. Net revenue retention is 219ms driven by AnalyticsDashboard upsells.
+45 customers expanded their contracts this quarter, with Rachel Nguyen from Sales
+leading the expansion conversations.
+
+Areas of concern: the authentication module onboarding funnel has a 25% drop-off at
+step 45. I've scheduled a design sprint for next week to address this.
+Support ticket volume for AnalyticsDashboard increased 45 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Talk soon,
+Amara

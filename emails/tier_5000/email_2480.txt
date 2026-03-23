@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-11 11:47 AM
+Subject: Press release draft â€” Enterprise Suite announcement
+
+Hey everyone,
+
+The press release for the Enterprise Suite announcement is ready for internal review. I've
+incorporated feedback from Sarah Chen and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the CacheLayer capability and positions Acme Corp as a leader
+in the caching layer space. We're leading with the 30 performance improvement
+stat and the Pied Piper customer quote.
+
+Distribution plan: wire service distribution on Tuesday, March 8, followed by targeted
+outreach to our 466ms media contacts in the industry. I've secured a briefing
+with CacheLayer Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Enterprise Suite landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 30-hour cadence on launch day.
+
+Embargo: the release is under embargo until Tuesday, March 8 at 9 AM ET. Please don't share
+details externally before then. Sarah Chen has the full distribution list.
+
+Review deadline is Tuesday, March 8. Please send edits as comments in the doc.
+
+Best,
+Laura

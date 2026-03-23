@@ -1,0 +1,28 @@
+From: alex.chen@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-09-26 01:44 PM
+Subject: On-call handoff â€” week of Wednesday, January 11
+
+Hello,
+
+Handing off on-call duties for the week of Wednesday, January 11. Here's the status summary for
+the incoming rotation.
+
+Active issues: the DataPipeline service has been showing elevated latency during peak
+hours, averaging 280ms against a target of 240ms. We've identified
+the root cause in the load balancer caching layer and a fix is in code review now.
+Should be deployed by Tuesday.
+
+Monitoring: keep an eye on the DataPipeline dashboard. Grace Mwangi added new alerts
+last week but we haven't validated them under real load yet. If you get paged for
+the load balancer alert, the runbook is updated and the escalation path is documented.
+
+Scheduled maintenance: there's a planned database maintenance window on Thursday at
+02:00 UTC. Expected duration is 83 minutes. The procedure is automated but
+someone needs to verify the health checks afterward.
+
+Reach out if anything comes up that isn't covered in the runbook.
+
+Regards,
+Alex

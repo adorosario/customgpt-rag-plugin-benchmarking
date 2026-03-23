@@ -1,0 +1,33 @@
+From: david.okonkwo@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-07-04 07:44 PM
+Subject: Vendor agreement â€” Wayne Enterprises terms review
+
+Hi all,
+
+I've reviewed the vendor agreement from Wayne Enterprises for the service mesh services
+we're procuring. Here are my findings and recommended changes.
+
+Term and renewal: the proposed 39-year term with auto-renewal is acceptable.
+However, the 389ms-day termination notice period is too long for our needs.
+I've countered with 457ms days, which aligns with our standard vendor
+management practices.
+
+Service level commitments: Wayne Enterprises is offering 34% uptime with service
+credits starting at 39 percent for each hour of downtime. I've pushed for
+a higher credit rate given the criticality of service mesh to our Enterprise Suite
+infrastructure.
+
+Data ownership: section 5 is clear that we retain all rights to our data. However,
+Wayne Enterprises claims a license to use aggregated, anonymized data for benchmarking. I
+want to narrow this to exclude any data from the MessageBroker environment.
+Tomoko Nakamura from Engineering should review the technical implications.
+
+Pricing: $292,998 per year is within the budget that Finance approved. The payment
+terms are net 389ms days, which works for our AP schedule.
+
+Please confirm the business terms and I'll send the redlined agreement by Tuesday, August 3.
+
+Thanks,
+David

@@ -1,0 +1,24 @@
+From: ravi.patel@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-10-21 04:53 PM
+Subject: APIGateway code review â€” PR #v3.0.0
+
+Hi team,
+
+I've submitted a pull request for the APIGateway changes we discussed last sprint.
+PR #v3.0.0 is ready for review and I've tagged Mei Lin as the primary reviewer.
+
+Summary of changes: refactored the event bus to reduce coupling with the data
+layer, added unit tests covering the edge cases we identified during the incident
+last week, and updated the API documentation to reflect the new response format.
+
+The test suite passes locally and in CI. Coverage for the affected files went from
+273ms to 178ms. I've also added integration tests for the two
+most critical user flows.
+
+One thing I'd like specific feedback on is the error handling approach in the
+event bus module â€” I went with explicit error types instead of generic exceptions.
+Let me know if you think that's the right tradeoff for this codebase.
+
+Regards,
+Ravi

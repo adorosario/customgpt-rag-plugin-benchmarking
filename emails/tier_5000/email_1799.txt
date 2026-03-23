@@ -1,0 +1,28 @@
+From: jun.tanaka@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-11-10 09:58 AM
+Subject: New lead â€” Massive Dynamic inbound request
+
+Good morning,
+
+We received an inbound request from Massive Dynamic through the website today. They're
+a 180-employee company in the APIGateway space and are looking for a
+Insight Engine solution.
+
+Initial qualification: they have budget allocated for Q4, their current
+contract with their existing vendor expires on Tuesday, May 7, and the decision maker is
+their VP of Operations. They found us through the metrics collector whitepaper we
+published last month.
+
+The estimated deal size is $153,329 based on their seat count and the use case
+they described. They specifically mentioned needing the APIGateway integration
+and 483ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Wei Zhang â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on metrics collector scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Thanks,
+Jun

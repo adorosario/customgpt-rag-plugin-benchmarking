@@ -1,0 +1,29 @@
+From: dmitri.volkov@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-26 11:42 PM
+Subject: Re: Quota update â€” Q4 adjustments
+
+Hello,
+
+Thanks for sharing the Q4 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $181,466 reflects a 21% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 42 of my projected deals depend on the Integration Hub launch happening on
+schedule. If that slips, I'll need the APIGateway backup deals to come through.
+
+Territory changes: I see that the New York accounts have been reassigned to
+Michael Brennan. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Tyrell Corp â€” we've been building that
+relationship for 493ms months.
+
+Regarding the new config manager incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with config manager upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Best regards,
+Dmitri

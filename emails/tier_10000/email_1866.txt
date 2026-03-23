@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-21 11:49 PM
+Subject: Sprint planning â€” Enterprise Suite sprint v2.4.1
+
+Good afternoon,
+
+Here's the sprint plan for Enterprise Suite sprint v2.4.1. Capacity is 56 story
+points with 155ms engineers available this sprint.
+
+Committed stories: the SearchIndex integration work carries over from last sprint
+with 182ms points remaining. The new logging pipeline API endpoints are
+estimated at 56 points. The bug fix for the SearchIndex rendering issue
+is 155ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the logging pipeline performance
+optimization that Derek Morrison has been scouting. It's estimated at 56 points
+and would improve response time by 56%.
+
+Dependencies: the SearchIndex feature requires the API changes that Derek Morrison
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The logging pipeline work is self-contained.
+
+Risks: Derek Morrison is on-call this sprint which historically reduces their available
+capacity by 56%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Friday, April 21. Let me know if the priorities look right.
+
+Thanks,
+Sanjay

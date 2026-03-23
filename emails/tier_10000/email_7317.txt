@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-08-01 05:10 AM
+Subject: Tax planning â€” Q2 estimated payments
+
+Hey everyone,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the BillingModule investment
+deductions.
+
+Federal estimate: $281,563 based on projected taxable income of 245ms.
+This reflects the BillingModule depreciation deductions and the R&D tax credit for
+the Sync Platform development costs. Oluwaseun Adeyemi from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $281,563 for our primary jurisdiction and 407ms for the
+New York office based on the apportionment factors. The New York rate change that
+takes effect on Friday, January 10 will impact our Q2 estimate by approximately 56
+percent.
+
+International: with the New York office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Oluwaseun Adeyemi to handle
+the registration. Setup cost is $281,563 with ongoing compliance costs of
+407ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Friday, January 10. I'll prepare the
+payment authorization for your signature by June 26. Underpayment penalties
+start at 12% so timely filing is important.
+
+Cheers,
+Grace

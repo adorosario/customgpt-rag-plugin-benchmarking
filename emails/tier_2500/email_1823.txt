@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-09-16 03:35 PM
+Subject: Press release draft â€” Cloud Connect announcement
+
+Good morning,
+
+The press release for the Cloud Connect announcement is ready for internal review. I've
+incorporated feedback from Daniel Park and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the AnalyticsDashboard capability and positions Acme Corp as a leader
+in the authentication module space. We're leading with the 175 performance improvement
+stat and the Tyrell Corp customer quote.
+
+Distribution plan: wire service distribution on Thursday, December 17, followed by targeted
+outreach to our 97ms media contacts in the industry. I've secured a briefing
+with AnalyticsDashboard Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Cloud Connect landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 175-hour cadence on launch day.
+
+Embargo: the release is under embargo until Thursday, December 17 at 9 AM ET. Please don't share
+details externally before then. Daniel Park has the full distribution list.
+
+Review deadline is Thursday, December 17. Please send edits as comments in the doc.
+
+Best,
+Laura

@@ -1,0 +1,30 @@
+From: kwame.asante@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-08-17 11:41 AM
+Subject: Onboarding schedule â€” new hire starting Tuesday, January 6
+
+Hey,
+
+We have a new team member joining Finance on Tuesday, January 6. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, ReportingEngine systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Patrick O'Brien will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Analytics Pro and the event bus tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Tuesday, January 6. All software licenses including ReportingEngine and event bus access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 149 people to schedule intro meetings with, and first
+140ms-day goals. Please send these to Patrick O'Brien in People Ops.
+
+Welcome email goes out 149 days before start date.
+
+Regards,
+Kwame

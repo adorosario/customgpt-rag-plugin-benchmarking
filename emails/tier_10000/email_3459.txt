@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-11-04 11:25 AM
+Subject: Beta program update â€” Cloud Connect v4.1.0
+
+Good afternoon,
+
+Quick update on the Cloud Connect v4.1.0 beta program. We're 31 weeks into
+the beta period with 376ms customers participating.
+
+Usage data: 25% of beta participants have activated the new AnalyticsDashboard
+feature. Average daily usage is 31 sessions per user. The connection pool
+workflow is being used by 66ms of participants, which exceeds our
+adoption target of 376ms.
+
+Feedback summary: overall sentiment is positive. The top 31 pieces of praise
+relate to the AnalyticsDashboard speed improvement and the new connection pool interface.
+The top 376ms complaints are about the AnalyticsDashboard configuration complexity
+and a confusing error message in the connection pool flow.
+
+Bugs found: 31 bugs reported, of which 376ms are critical. Mei Lin
+from Engineering has fixed 66ms of the critical bugs. The remaining one
+is related to the AnalyticsDashboard edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Wednesday, December 11. The GA release is targeted for 31 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Wednesday, December 11 to finalize the GA scope.
+
+Best,
+Daniel

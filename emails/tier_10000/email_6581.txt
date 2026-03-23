@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-09-07 11:35 AM
+Subject: Audit preparation â€” Q1 review
+
+Good morning,
+
+The Q1 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Oscorp are scheduled to begin fieldwork
+on Tuesday, December 13.
+
+Documentation needed from each department: all purchase orders above 137ms,
+contract modifications executed during Q1, headcount changes with supporting
+approvals, and FileStorageService system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the load balancer audit portal by Tuesday, December 13.
+That gives us 15 business days before the auditors arrive. Derek Morrison has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Analytics Pro contracts, the FileStorageService capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $213,546 in capitalized FileStorageService costs and the methodology used.
+
+This is our 15 year with Oscorp as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Derek Morrison if you have
+questions about what's needed.
+
+Best,
+Grace

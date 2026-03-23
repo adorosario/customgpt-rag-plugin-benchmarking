@@ -1,0 +1,32 @@
+From: kwame.asante@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-10-14 08:12 PM
+Subject: Benefits enrollment â€” open period starting Monday, August 11
+
+Hey everyone,
+
+Open enrollment for our benefits package begins on Monday, August 11 and runs through October 23.
+Here's a summary of the key changes for the upcoming plan year.
+
+Health insurance: we're introducing a new APIGateway plan option alongside the
+existing choices. The premium increase this year is 10%, which is below the
+industry average. Acme Corp will continue covering 97 percent of employee
+premiums.
+
+New benefit: we've partnered with Hooli to offer a wellness stipend of $20,859
+per year. This can be used for gym memberships, mental health services, or
+ergonomic equipment. Daniel Park worked with the vendor to negotiate this addition.
+
+Retirement: the 401(k) match is increasing from 151ms percent to
+118ms percent of salary, effective next plan year. If you're not
+currently contributing enough to get the full match, now is a great time to adjust.
+
+Information sessions: we're hosting 97 live Q&A sessions where employees can
+ask questions about plan options. The logging pipeline portal will have a comparison
+tool to help you evaluate plans.
+
+Detailed plan documents are available in the HR portal. Please make your elections
+before October 23.
+
+Regards,
+Kwame

@@ -1,0 +1,28 @@
+From: jun.tanaka@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-06-27 01:50 AM
+Subject: Re: Quota update â€” Q3 adjustments
+
+Hi all,
+
+Thanks for sharing the Q3 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $339,448 reflects a 49% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 175 of my projected deals depend on the Cloud Connect launch happening on
+schedule. If that slips, I'll need the ReportingEngine backup deals to come through.
+
+Territory changes: I see that the Tokyo accounts have been reassigned to
+David Okonkwo. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Soylent Corp â€” we've been building that
+relationship for 178ms months.
+
+Regarding the new load balancer incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with load balancer upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Thanks,
+Jun

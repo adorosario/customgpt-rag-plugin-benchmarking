@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-30 06:40 AM
+Subject: Roadmap update â€” Insight Engine Q2
+
+Hi team,
+
+Here's the updated Insight Engine roadmap for Q2. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the AuthService integration feature launches on Tuesday, September 3. This is our
+top customer request with 164 votes on the feedback board. Wei Zhang from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the event bus overhaul is scoped for mid-Q2. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 164 sprints with 437ms engineers allocated.
+
+Exploring: the AuthService AI feature that Sales has been requesting. We need more
+user research before committing â€” Wei Zhang is running interviews with 164
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the event bus redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 164-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Best regards,
+Mei

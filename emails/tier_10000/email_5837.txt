@@ -1,0 +1,30 @@
+From: dmitri.volkov@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-11-09 11:26 PM
+Subject: Client meeting recap â€” Pied Piper Friday, January 14
+
+Hi all,
+
+Recapping today's meeting with Pied Piper. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their BillingModule
+team lead. From ours: myself, Kwame Asante from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their serialization engine vendors
+from three down to one. Our Enterprise Suite covers 16% of their requirements
+natively. The remaining gap is around BillingModule integrations, which Kwame Asante
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Friday, January 14 and begin
+implementation in Q1. Budget has been pre-approved at $464,061 for the
+first year.
+
+Action items: send the Enterprise Suite technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their serialization engine workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Regards,
+Dmitri

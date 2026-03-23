@@ -1,0 +1,33 @@
+From: maria.santos@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-10-27 08:26 AM
+Subject: Re: Litigation hold â€” Umbrella Inc matter
+
+Hi team,
+
+Following up on the Umbrella Inc dispute. We need to implement a litigation hold
+immediately. Here's what that means for the affected teams.
+
+Scope: all documents, emails, and electronic records related to the Umbrella Inc
+engagement from Thursday, October 25 forward must be preserved. This includes PaymentGateway
+logs, Analytics Pro deployment records, and all correspondence between our teams
+and Umbrella Inc's personnel.
+
+Affected departments: Engineering, Sales, and Product. Derek Morrison will distribute
+hold notices to the specific custodians in each department. We've identified
+185 individuals whose records are potentially relevant.
+
+Obligations: do not delete, modify, or archive any records covered by the hold.
+Suspend any auto-deletion policies for the relevant authentication module systems.
+Derek Morrison from IT is coordinating the technical preservation measures.
+
+Duration: the hold remains in effect until further notice from Legal. I expect the
+matter to be resolved within 228ms months based on preliminary discussions
+with opposing counsel. The estimated legal cost exposure is $32,175.
+
+If anyone has questions about what's covered, direct them to me. Do not discuss
+the hold or the underlying matter externally.
+
+Regards,
+Maria

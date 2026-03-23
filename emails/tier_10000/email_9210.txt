@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-11-24 02:38 PM
+Subject: Sprint planning â€” Integration Hub sprint v3.8.1
+
+Good afternoon,
+
+Here's the sprint plan for Integration Hub sprint v3.8.1. Capacity is 68 story
+points with 216ms engineers available this sprint.
+
+Committed stories: the APIGateway integration work carries over from last sprint
+with 378ms points remaining. The new event bus API endpoints are
+estimated at 68 points. The bug fix for the APIGateway rendering issue
+is 216ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the event bus performance
+optimization that Marcus Thompson has been scouting. It's estimated at 68 points
+and would improve response time by 46%.
+
+Dependencies: the APIGateway feature requires the API changes that Marcus Thompson
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The event bus work is self-contained.
+
+Risks: Marcus Thompson is on-call this sprint which historically reduces their available
+capacity by 46%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Friday, February 22. Let me know if the priorities look right.
+
+Cheers,
+Daniel

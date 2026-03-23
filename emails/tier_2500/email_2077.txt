@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-02 09:35 PM
+Subject: Cash flow forecast â€” Q2
+
+Hello,
+
+Attached is the cash flow forecast for Q2. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $77,286 based on the current AR aging
+and sales pipeline. The Soylent Corp payment of 355ms is expected by Monday, September 25
+â€” Oluwaseun Adeyemi from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the DataPipeline infrastructure
+investment at $77,286. The London office build-out costs will hit in Q2
+with an estimated total of 239ms. Payroll continues at 355ms
+monthly for our 104-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $77,286 in the second month. This provides 104 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Soylent Corp deal slips from Q2 to next quarter, we'll
+need to draw on the credit facility for $77,286. I've confirmed the line is
+available. Oluwaseun Adeyemi and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Talk soon,
+Michael

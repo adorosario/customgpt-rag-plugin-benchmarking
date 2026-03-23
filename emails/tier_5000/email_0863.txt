@@ -1,0 +1,32 @@
+From: amara.diallo@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-29 01:37 PM
+Subject: Beta program update â€” Data Vault v2.7.3
+
+Hey everyone,
+
+Quick update on the Data Vault v2.7.3 beta program. We're 95 weeks into
+the beta period with 205ms customers participating.
+
+Usage data: 28% of beta participants have activated the new NotificationEngine
+feature. Average daily usage is 95 sessions per user. The event bus
+workflow is being used by 266ms of participants, which exceeds our
+adoption target of 205ms.
+
+Feedback summary: overall sentiment is positive. The top 95 pieces of praise
+relate to the NotificationEngine speed improvement and the new event bus interface.
+The top 205ms complaints are about the NotificationEngine configuration complexity
+and a confusing error message in the event bus flow.
+
+Bugs found: 95 bugs reported, of which 205ms are critical. Mei Lin
+from Engineering has fixed 266ms of the critical bugs. The remaining one
+is related to the NotificationEngine edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Thursday, March 20. The GA release is targeted for 95 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Thursday, March 20 to finalize the GA scope.
+
+Regards,
+Amara

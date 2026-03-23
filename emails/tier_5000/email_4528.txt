@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-07-09 09:57 AM
+Subject: Revenue recognition â€” Cloud Connect contracts
+
+Hi all,
+
+I need to walk through the revenue recognition treatment for the new Cloud Connect
+contracts signed this quarter. We have 28 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Cyberdyne contract bundles Cloud Connect licenses with
+service mesh implementation services. I've determined the standalone selling prices
+and allocated $51,524 to the license component and 359ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 28-month implementation period.
+
+Variable consideration: 257ms contracts include performance bonuses tied to
+AuthService uptime metrics. Using the expected value method, I've estimated
+$51,524 in variable consideration based on our historical performance of
+29% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Cyberdyne amendment added service mesh capacity at
+$51,524 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Michael Brennan from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Thursday, May 6.
+
+Thanks,
+Ananya

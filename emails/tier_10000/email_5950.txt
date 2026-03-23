@@ -1,0 +1,33 @@
+From: sarah.chen@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-08-18 07:02 AM
+Subject: Re: Litigation hold â€” Tyrell Corp matter
+
+Good morning,
+
+Following up on the Tyrell Corp dispute. We need to implement a litigation hold
+immediately. Here's what that means for the affected teams.
+
+Scope: all documents, emails, and electronic records related to the Tyrell Corp
+engagement from Wednesday, March 15 forward must be preserved. This includes DataPipeline
+logs, Integration Hub deployment records, and all correspondence between our teams
+and Tyrell Corp's personnel.
+
+Affected departments: Engineering, Sales, and Product. Sanjay Krishnamurthy will distribute
+hold notices to the specific custodians in each department. We've identified
+172 individuals whose records are potentially relevant.
+
+Obligations: do not delete, modify, or archive any records covered by the hold.
+Suspend any auto-deletion policies for the relevant rate limiter systems.
+Sanjay Krishnamurthy from IT is coordinating the technical preservation measures.
+
+Duration: the hold remains in effect until further notice from Legal. I expect the
+matter to be resolved within 261ms months based on preliminary discussions
+with opposing counsel. The estimated legal cost exposure is $146,157.
+
+If anyone has questions about what's covered, direct them to me. Do not discuss
+the hold or the underlying matter externally.
+
+Talk soon,
+Sarah

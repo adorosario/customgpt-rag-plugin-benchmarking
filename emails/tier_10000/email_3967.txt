@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-06-08 07:28 PM
+Subject: Sprint planning â€” Sync Platform sprint v1.9.5
+
+Hey,
+
+Here's the sprint plan for Sync Platform sprint v1.9.5. Capacity is 194 story
+points with 381ms engineers available this sprint.
+
+Committed stories: the PaymentGateway integration work carries over from last sprint
+with 262ms points remaining. The new event bus API endpoints are
+estimated at 194 points. The bug fix for the PaymentGateway rendering issue
+is 381ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the event bus performance
+optimization that Michael Brennan has been scouting. It's estimated at 194 points
+and would improve response time by 11%.
+
+Dependencies: the PaymentGateway feature requires the API changes that Michael Brennan
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The event bus work is self-contained.
+
+Risks: Michael Brennan is on-call this sprint which historically reduces their available
+capacity by 11%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Friday, March 25. Let me know if the priorities look right.
+
+Best,
+Mei

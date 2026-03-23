@@ -1,0 +1,29 @@
+From: jun.tanaka@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-01 12:16 AM
+Subject: Sales engineering request â€” Oscorp POC
+
+Hi,
+
+Requesting SE support for a proof-of-concept with Oscorp. This is a $52,034
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Integration Hub can handle 148
+transactions per second with their FileStorageService data format. The test needs to
+run against their staging environment and demonstrate the caching layer capability
+under realistic load.
+
+Timeline: Oscorp wants the POC completed within 478ms business days
+starting Wednesday, April 7. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Sanjay Krishnamurthy for the technical configuration and someone from
+the FileStorageService team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q4. Let me know if we can make this timeline work.
+
+Best regards,
+Jun

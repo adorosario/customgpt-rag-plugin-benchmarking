@@ -1,0 +1,30 @@
+From: patrick.obrien@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-09-13 09:48 AM
+Subject: Team event recap â€” SchedulerService outing
+
+Hey everyone,
+
+Thanks to everyone who joined the SchedulerService team outing last week. We had great
+turnout with 43 employees attending.
+
+Highlights: the team building exercise was a hit â€” the service mesh challenge had
+teams competing in creative problem-solving rounds. The winning team led by
+Oluwaseun Adeyemi finished in just 477ms minutes. The group dinner afterward was a
+great opportunity for cross-team connections.
+
+Feedback: the post-event survey came back overwhelmingly positive with a 50%
+satisfaction rating. Most popular suggestion for next time: more outdoor activities.
+Several people asked about doing quarterly events instead of 43 per year.
+
+Budget: total cost was $115,345, coming in at 379ms per person including
+venue, catering, and activities. This is within our social budget for Q3.
+
+Photos are uploaded to the shared album in the service mesh drive. Please tag
+yourselves and share appropriate photos on social media if you'd like â€” our
+marketing team loves this content for the company page.
+
+Planning for the next event starts in Q3. Ideas welcome.
+
+Talk soon,
+Patrick

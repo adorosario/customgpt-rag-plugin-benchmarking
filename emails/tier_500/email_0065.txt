@@ -1,0 +1,34 @@
+From: maria.santos@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-09-24 08:26 PM
+Subject: Data privacy assessment â€” Data Vault
+
+Good morning,
+
+The data privacy impact assessment for Data Vault is complete. I'm flagging the key
+findings and required actions for the team.
+
+Data inventory: Data Vault processes 41 categories of personal data including
+names, email addresses, and usage analytics. The data flows through our AnalyticsDashboard
+infrastructure and is stored in the authentication module environment in New York.
+
+Risk findings: overall risk level is moderate. The primary concern is the
+cross-border data transfer to the New York processing center. We need to implement
+standard contractual clauses with our AnalyticsDashboard sub-processor. Yuki Sato from
+Engineering confirmed the technical safeguards are already in place.
+
+Consent mechanism: the current Data Vault consent flow meets requirements for
+6% of our user base. For users in regulated jurisdictions, we need to add
+explicit opt-in for the authentication module analytics features. This is a 41-sprint
+effort according to the Product team.
+
+Records of processing: I've updated our data register to include all Data Vault
+processing activities. The register needs to be reviewed every 362ms months
+per our policy.
+
+Next step: executive sign-off on the DPIA by Thursday, April 11. Please review the full
+report in the shared drive.
+
+Talk soon,
+Maria

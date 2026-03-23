@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-07-11 05:32 PM
+Subject: A/B test results â€” NotificationEngine experiment
+
+Good afternoon,
+
+The NotificationEngine A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 121 days with 396ms users in each cohort.
+
+Variant A (control): the existing serialization engine flow. Conversion rate of
+303ms with an average task completion time of 121 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified NotificationEngine step.
+Conversion rate of 396ms with task completion time of 303ms seconds.
+This represents a 32% improvement in conversion and 121 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 121 to 396ms
+in the treatment group. Support ticket volume for NotificationEngine related issues
+decreased by 32%. No negative impact on serialization engine engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Alex Chen from Engineering can have this
+deployed by Wednesday, January 26.
+
+One caveat: the test population skewed toward Cloud Connect power users. We should
+monitor new user behavior closely for the first 121 weeks after full rollout.
+
+Thanks,
+Mei

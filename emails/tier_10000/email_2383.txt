@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-01 03:49 AM
+Subject: Tax planning â€” Q2 estimated payments
+
+Good afternoon,
+
+It's time to review our estimated tax payments for Q2. I've updated the
+calculations based on the latest revenue actuals and the MessageBroker investment
+deductions.
+
+Federal estimate: $87,860 based on projected taxable income of 270ms.
+This reflects the MessageBroker depreciation deductions and the R&D tax credit for
+the Integration Hub development costs. Sarah Chen from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $87,860 for our primary jurisdiction and 279ms for the
+Tokyo office based on the apportionment factors. The Tokyo rate change that
+takes effect on Tuesday, March 8 will impact our Q2 estimate by approximately 96
+percent.
+
+International: with the Tokyo office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Sarah Chen to handle
+the registration. Setup cost is $87,860 with ongoing compliance costs of
+279ms per quarter.
+
+Payment deadline: the Q2 estimated payment is due Tuesday, March 8. I'll prepare the
+payment authorization for your signature by September 21. Underpayment penalties
+start at 9% so timely filing is important.
+
+Best regards,
+Ananya

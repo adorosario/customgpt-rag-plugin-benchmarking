@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-08-11 04:28 AM
+Subject: A/B test results â€” UserProfileService experiment
+
+Hey,
+
+The UserProfileService A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 118 days with 236ms users in each cohort.
+
+Variant A (control): the existing load balancer flow. Conversion rate of
+210ms with an average task completion time of 118 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified UserProfileService step.
+Conversion rate of 236ms with task completion time of 210ms seconds.
+This represents a 45% improvement in conversion and 118 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 118 to 236ms
+in the treatment group. Support ticket volume for UserProfileService related issues
+decreased by 45%. No negative impact on load balancer engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Mei Lin from Engineering can have this
+deployed by Thursday, July 17.
+
+One caveat: the test population skewed toward Analytics Pro power users. We should
+monitor new user behavior closely for the first 118 weeks after full rollout.
+
+Best regards,
+Mei

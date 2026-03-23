@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-12 04:14 AM
+Subject: Budget review â€” Marketing department Q3
+
+Good afternoon,
+
+Here's the Q3 budget review for the Marketing department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $37,786 against a budget of 60ms. The 8% variance is
+primarily driven by the accelerated ReportingEngine hiring that was approved mid-quarter.
+Personnel costs came in at 91ms which includes the 173 new hires.
+
+Overages: the logging pipeline infrastructure line item exceeded budget by 8% due
+to the unplanned scaling requirements for Insight Engine. I've worked with Mei Lin
+from Engineering to project the run rate going forward â€” we should budget an
+additional $37,786 per quarter for this category.
+
+Underspend: the ReportingEngine consulting budget was only 8% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 8%
+of the total annual budget. The main risk is the logging pipeline cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best,
+Robert

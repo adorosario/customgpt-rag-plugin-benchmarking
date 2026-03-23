@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-11-07 08:57 AM
+Subject: Beta program update â€” Enterprise Suite v2.1.0
+
+Hello,
+
+Quick update on the Enterprise Suite v2.1.0 beta program. We're 121 weeks into
+the beta period with 298ms customers participating.
+
+Usage data: 59% of beta participants have activated the new AuditLog
+feature. Average daily usage is 121 sessions per user. The authentication module
+workflow is being used by 107ms of participants, which exceeds our
+adoption target of 298ms.
+
+Feedback summary: overall sentiment is positive. The top 121 pieces of praise
+relate to the AuditLog speed improvement and the new authentication module interface.
+The top 298ms complaints are about the AuditLog configuration complexity
+and a confusing error message in the authentication module flow.
+
+Bugs found: 121 bugs reported, of which 298ms are critical. Liam Foster
+from Engineering has fixed 107ms of the critical bugs. The remaining one
+is related to the AuditLog edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Wednesday, May 19. The GA release is targeted for 121 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Wednesday, May 19 to finalize the GA scope.
+
+Talk soon,
+Mei

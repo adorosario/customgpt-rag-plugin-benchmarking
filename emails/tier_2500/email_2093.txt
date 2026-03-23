@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-15 12:38 PM
+Subject: Investment proposal â€” SchedulerService infrastructure
+
+Hi,
+
+I've prepared the financial analysis for the proposed SchedulerService infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $182,349 upfront with 137ms in annual operating costs.
+The total 3-year cost of ownership is 314ms compared to the current
+service mesh setup at $182,349 over the same period.
+
+ROI analysis: the projected payback period is 72 months. Key benefits include
+35% reduction in infrastructure management time, improved Cloud Connect performance
+that supports the revenue growth targets, and elimination of the service mesh
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $182,349 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 35% interest.
+This preserves cash for the Berlin office investment planned for Q1.
+
+Risk factors: technology lock-in with the SchedulerService vendor, though the 72-year
+contract includes an exit clause after the first year. Aisha Okafor from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Friday, March 3 to lock in the quoted pricing. The vendor has
+given us a 72-day hold on the current rates.
+
+Cheers,
+Ananya

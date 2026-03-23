@@ -1,0 +1,29 @@
+From: grace.mwangi@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-11-18 12:50 PM
+Subject: Re: Expense report flagged â€” DataPipeline charges
+
+Hello,
+
+I noticed some items on the DataPipeline expense report submitted by Rachel Nguyen
+that need clarification before I can approve them.
+
+The config manager subscription charge of $363,718 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+112ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Cyberdyne dinner on Friday, October 2 for $363,718 exceeds our per-person meal
+reimbursement limit of 112ms. If this was a client entertainment expense,
+it should be coded to the client development budget under DataPipeline rather than
+general T&E. 185 attendees at that amount puts us at 347ms per
+person which is within the client entertainment policy.
+
+The remaining 185 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 112ms business days after approval.
+
+Please resubmit with the corrections by Friday, October 2 so we can keep things on track.
+
+Cheers,
+Grace

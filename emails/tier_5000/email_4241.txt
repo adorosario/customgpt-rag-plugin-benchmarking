@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-10-05 01:32 PM
+Subject: Sprint planning â€” Cloud Connect sprint v2.4.1
+
+Good afternoon,
+
+Here's the sprint plan for Cloud Connect sprint v2.4.1. Capacity is 17 story
+points with 471ms engineers available this sprint.
+
+Committed stories: the APIGateway integration work carries over from last sprint
+with 389ms points remaining. The new metrics collector API endpoints are
+estimated at 17 points. The bug fix for the APIGateway rendering issue
+is 471ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the metrics collector performance
+optimization that Ananya Desai has been scouting. It's estimated at 17 points
+and would improve response time by 29%.
+
+Dependencies: the APIGateway feature requires the API changes that Ananya Desai
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The metrics collector work is self-contained.
+
+Risks: Ananya Desai is on-call this sprint which historically reduces their available
+capacity by 29%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, July 7. Let me know if the priorities look right.
+
+Regards,
+Amara

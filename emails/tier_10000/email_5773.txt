@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-09-21 04:00 AM
+Subject: FP&A update â€” Integration Hub financial model
+
+Good afternoon,
+
+I've updated the Integration Hub financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 197 per month based
+on the last 95ms months of data. Average contract value is tracking at
+$275,792, which is 51% above our original assumption. The PaymentGateway
+upsell rate of 112ms is a positive trend.
+
+Cost structure: the metrics collector hosting costs are running 51% higher than
+modeled due to increased PaymentGateway usage. I've adjusted the variable cost
+per customer from 95ms to 112ms. Daniel Park from Engineering
+says the optimization project should bring this down by 51% in Q2.
+
+Break-even analysis: with the revised numbers, Integration Hub reaches contribution
+margin break-even at 197 customers, which we're projected to hit by Friday, June 7.
+Full break-even including allocated overhead comes at 95ms customers.
+
+Scenarios: the base case shows $275,792 in cumulative revenue by year end. The
+upside case with the Weyland-Yutani deal closing hits 112ms. Downside case
+assuming 51% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Talk soon,
+Robert

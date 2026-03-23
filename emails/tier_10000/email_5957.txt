@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-11-07 04:04 PM
+Subject: Sprint planning â€” Insight Engine sprint v3.0.0
+
+Good morning,
+
+Here's the sprint plan for Insight Engine sprint v3.0.0. Capacity is 113 story
+points with 419ms engineers available this sprint.
+
+Committed stories: the AnalyticsDashboard integration work carries over from last sprint
+with 380ms points remaining. The new logging pipeline API endpoints are
+estimated at 113 points. The bug fix for the AnalyticsDashboard rendering issue
+is 419ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the logging pipeline performance
+optimization that Hannah Goldstein has been scouting. It's estimated at 113 points
+and would improve response time by 11%.
+
+Dependencies: the AnalyticsDashboard feature requires the API changes that Hannah Goldstein
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The logging pipeline work is self-contained.
+
+Risks: Hannah Goldstein is on-call this sprint which historically reduces their available
+capacity by 11%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, August 3. Let me know if the priorities look right.
+
+Talk soon,
+Mei

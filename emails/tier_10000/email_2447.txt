@@ -1,0 +1,28 @@
+From: alex.chen@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-10-10 11:24 AM
+Subject: Re: API rate limiting design for BillingModule
+
+Hi all,
+
+Thanks for the feedback on the rate limiting proposal. I've incorporated the
+suggestions and here's the updated design for the BillingModule API.
+
+We'll implement a token bucket algorithm at the event bus gateway level. Default
+limits are 346ms requests per minute for standard tier and 147ms
+for premium tier. Burst allowance is set to 42% above the sustained rate.
+
+When a client hits the limit, they'll receive a 429 response with Retry-After
+headers. The BillingModule SDK will handle automatic backoff on the client side.
+Sofia Martinez is updating the SDK to support this.
+
+For internal services, we'll use a separate rate limit pool with higher thresholds
+to prevent cascading failures. The 194 dashboard will show real-time consumption
+per client so we can proactively reach out before anyone hits their limits.
+
+Implementation timeline is two sprints. I'd like to ship the server-side changes
+first and give clients a 30-day grace period before enforcement begins.
+
+Talk soon,
+Alex

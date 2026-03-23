@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-09-01 11:06 AM
+Subject: Budget review â€” Product department Q2
+
+Hey,
+
+Here's the Q2 budget review for the Product department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $388,579 against a budget of 297ms. The 21% variance is
+primarily driven by the accelerated AnalyticsDashboard hiring that was approved mid-quarter.
+Personnel costs came in at 285ms which includes the 45 new hires.
+
+Overages: the authentication module infrastructure line item exceeded budget by 21% due
+to the unplanned scaling requirements for Enterprise Suite. I've worked with Wei Zhang
+from Engineering to project the run rate going forward â€” we should budget an
+additional $388,579 per quarter for this category.
+
+Underspend: the AnalyticsDashboard consulting budget was only 21% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 21%
+of the total annual budget. The main risk is the authentication module cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Regards,
+Ananya

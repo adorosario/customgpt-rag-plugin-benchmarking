@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-09-08 02:46 PM
+Subject: Analytics report â€” Analytics Pro campaign performance
+
+Hey everyone,
+
+Here's the performance report for the Analytics Pro campaign through Friday, May 10.
+
+Website traffic: up 32% month over month, driven primarily by the APIGateway
+comparison blog post which brought in 62 unique visitors. Organic search is
+growing steadily â€” the config manager keyword cluster is now ranking on page one.
+
+Lead generation: 457ms marketing qualified leads this month against a
+target of 266ms. The whitepaper download page converted at 32% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 62 percent.
+
+Email campaigns: the Analytics Pro nurture sequence has a 32% open rate and
+62 percent click-through rate. The top-performing email was the APIGateway
+case study with Hooli. Liam Foster suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $55,045 which is 32% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Best,
+Sofia

@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-11-13 10:53 AM
+Subject: Re: User research findings â€” NotificationEngine
+
+Good morning,
+
+Sharing the findings from the NotificationEngine user research study. We interviewed
+129 users and ran usability tests with 294ms participants over the
+last two weeks.
+
+Key insight 1: users find the caching layer workflow confusing â€” 15% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between NotificationEngine and the main Cloud Connect dashboard.
+
+Key insight 2: power users want more NotificationEngine customization options. They're
+currently using workarounds that involve 129 extra steps. The most requested
+feature is the ability to create custom caching layer templates.
+
+Key insight 3: new users consistently miss the NotificationEngine feature entirely.
+Discovery is poor â€” only 15% of new users try the feature within their first
+129 days. Kwame Asante suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the caching layer navigation flow, add the template
+feature to the Q2 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 15% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Regards,
+Mei

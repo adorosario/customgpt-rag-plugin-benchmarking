@@ -1,0 +1,32 @@
+From: patrick.obrien@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-09-15 11:28 PM
+Subject: D&I initiative update â€” Q4
+
+Hi team,
+
+Here's the quarterly update on our Diversity and Inclusion initiatives. We're
+making meaningful progress on the goals set at the beginning of the year.
+
+Hiring diversity: 54% of candidates in our pipeline this quarter came from
+underrepresented backgrounds, up from 194 percent last quarter. The
+partnership with Massive Dynamic job board has been a strong contributor. Hannah Goldstein has
+been leading the sourcing strategy.
+
+ERG activity: the FileStorageService employee resource group hosted 194 events
+this quarter with an average attendance of 121ms employees. The mentorship
+circles launched in Q4 have paired 137ms mentors with mentees
+across Product departments.
+
+Training: 54% of managers have completed the inclusive leadership training
+program. We're on track to reach 194 percent completion by Friday, June 26. The
+feedback ratings average 137ms out of 5.
+
+Compensation equity: the annual pay equity audit is scheduled for Friday, June 26. We'll
+be reviewing compensation data across 194 dimensions to identify and
+address any gaps.
+
+Full report will be shared at the next all-hands meeting.
+
+Regards,
+Patrick

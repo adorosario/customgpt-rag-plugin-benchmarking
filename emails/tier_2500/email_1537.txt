@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-03 05:41 AM
+Subject: Tax planning â€” Q1 estimated payments
+
+Hi team,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the APIGateway investment
+deductions.
+
+Federal estimate: $46,996 based on projected taxable income of 141ms.
+This reflects the APIGateway depreciation deductions and the R&D tax credit for
+the Data Vault development costs. Liam Foster from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $46,996 for our primary jurisdiction and 366ms for the
+Tokyo office based on the apportionment factors. The Tokyo rate change that
+takes effect on Wednesday, January 13 will impact our Q1 estimate by approximately 68
+percent.
+
+International: with the Tokyo office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Liam Foster to handle
+the registration. Setup cost is $46,996 with ongoing compliance costs of
+366ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Wednesday, January 13. I'll prepare the
+payment authorization for your signature by November 3. Underpayment penalties
+start at 49% so timely filing is important.
+
+Talk soon,
+Grace

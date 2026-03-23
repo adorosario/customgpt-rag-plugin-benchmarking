@@ -1,0 +1,30 @@
+From: aisha.okafor@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-07-07 12:35 AM
+Subject: Competitive intel â€” Wayne Enterprises evaluation
+
+Hi all,
+
+Got some useful competitive intelligence from the Wayne Enterprises account that I want to
+share with the team.
+
+Wayne Enterprises shared their evaluation criteria and mentioned they're also looking at
+CacheLayer as an alternative to our Cloud Connect. From what I gathered, CacheLayer
+is pitching a lower price point but doesn't have feature parity on the queue processor
+side.
+
+Key differentiators working in our favor: our Cloud Connect handles 88 concurrent
+connections versus their published limit of 419ms. Our uptime SLA is also
+stronger at 166ms versus their 34% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for CacheLayer and
+consider a streamlined trial process for mid-market accounts. Maria Santos from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Thursday, May 12.
+
+Best regards,
+Aisha

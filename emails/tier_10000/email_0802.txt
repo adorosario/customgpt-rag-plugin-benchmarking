@@ -1,0 +1,33 @@
+From: sofia.martinez@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-08-31 01:01 AM
+Subject: SEO update â€” ReportingEngine keyword rankings
+
+Good afternoon,
+
+Monthly SEO update for our ReportingEngine content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Cloud Connect comparison page climbed from position 176ms to
+position 281ms for our primary keyword. The service mesh guide is now
+ranking in the top 47 for three long-tail variations.
+
+Traffic impact: organic sessions are up 32% month over month. The
+ReportingEngine cluster is now driving 47 unique sessions monthly, making it our
+second-highest traffic source behind the Cloud Connect landing page.
+
+Content gaps identified: we're missing content for 176ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q4. Ananya Desai from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 281ms on mobile after the image
+optimization work. No crawl errors detected. The new service mesh documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 47 pages. I'll share the
+outreach plan next week.
+
+Cheers,
+Sofia

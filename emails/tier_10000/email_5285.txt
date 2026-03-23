@@ -1,0 +1,28 @@
+From: carlos.rivera@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-10-18 04:46 PM
+Subject: New lead â€” Soylent Corp inbound request
+
+Hi team,
+
+We received an inbound request from Soylent Corp through the website today. They're
+a 30-employee company in the CacheLayer space and are looking for a
+Insight Engine solution.
+
+Initial qualification: they have budget allocated for Q4, their current
+contract with their existing vendor expires on Thursday, September 17, and the decision maker is
+their VP of Operations. They found us through the metrics collector whitepaper we
+published last month.
+
+The estimated deal size is $498,732 based on their seat count and the use case
+they described. They specifically mentioned needing the CacheLayer integration
+and 101ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Sarah Chen â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on metrics collector scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Regards,
+Carlos

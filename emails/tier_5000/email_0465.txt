@@ -1,0 +1,35 @@
+From: mei.lin@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-05 06:04 PM
+Subject: Re: Enterprise Suite metrics review â€” Q4
+
+Hi team,
+
+Here are the Enterprise Suite metrics for Q4. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 51 monthly active users, up 49% quarter over quarter. The
+PaymentGateway feature launch drove a spike in activation â€” 343ms new users
+tried it in the first week. Retention for PaymentGateway users is 372ms
+at 30 days versus 51 percent for non-users.
+
+Engagement: average session duration is 51 minutes. The queue processor workflow
+sees the highest engagement with users spending 372ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 343ms features
+per session on average, up from 51 last quarter.
+
+Revenue metrics: Enterprise Suite ARR is at $280,719 with 49% growth quarter over
+quarter. Net revenue retention is 372ms driven by PaymentGateway upsells.
+51 customers expanded their contracts this quarter, with Elena Vasquez from Sales
+leading the expansion conversations.
+
+Areas of concern: the queue processor onboarding funnel has a 49% drop-off at
+step 51. I've scheduled a design sprint for next week to address this.
+Support ticket volume for PaymentGateway increased 51 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Best regards,
+Mei

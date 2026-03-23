@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: maria.santos@acmecorp.com
+Date: 2025-09-25 05:42 AM
+Subject: Event planning â€” Integration Hub webinar on Thursday, January 28
+
+Hi,
+
+Finalizing details for the Integration Hub webinar on Thursday, January 28. Here's where we stand on
+the logistics and promotion.
+
+Content: David Okonkwo from Product will present the CacheLayer roadmap segment.
+I'll handle the intro and customer story. We're targeting a 47-minute
+presentation followed by 159ms minutes of live Q&A. The serialization engine demo
+segment should be the highlight.
+
+Registration: we've had 448ms sign-ups so far. Goal is 159ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Integration Hub keywords.
+
+Tech setup: using the standard webinar platform. David Okonkwo will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Thursday, January 28 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 47 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Cheers,
+Yuki

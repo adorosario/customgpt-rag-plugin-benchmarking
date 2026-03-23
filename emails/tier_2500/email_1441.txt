@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-25 08:46 PM
+Subject: Sprint planning â€” Cloud Connect sprint v3.8.1
+
+Hey,
+
+Here's the sprint plan for Cloud Connect sprint v3.8.1. Capacity is 133 story
+points with 462ms engineers available this sprint.
+
+Committed stories: the DataPipeline integration work carries over from last sprint
+with 129ms points remaining. The new event bus API endpoints are
+estimated at 133 points. The bug fix for the DataPipeline rendering issue
+is 462ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the event bus performance
+optimization that Maria Santos has been scouting. It's estimated at 133 points
+and would improve response time by 42%.
+
+Dependencies: the DataPipeline feature requires the API changes that Maria Santos
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The event bus work is self-contained.
+
+Risks: Maria Santos is on-call this sprint which historically reduces their available
+capacity by 42%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Friday, February 23. Let me know if the priorities look right.
+
+Best regards,
+Mei

@@ -1,0 +1,29 @@
+From: grace.mwangi@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-10-24 05:33 AM
+Subject: Re: Expense report flagged â€” SchedulerService charges
+
+Hi team,
+
+I noticed some items on the SchedulerService expense report submitted by David Okonkwo
+that need clarification before I can approve them.
+
+The connection pool subscription charge of $190,289 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+212ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Pied Piper dinner on Wednesday, September 15 for $190,289 exceeds our per-person meal
+reimbursement limit of 212ms. If this was a client entertainment expense,
+it should be coded to the client development budget under SchedulerService rather than
+general T&E. 130 attendees at that amount puts us at 119ms per
+person which is within the client entertainment policy.
+
+The remaining 130 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 212ms business days after approval.
+
+Please resubmit with the corrections by Wednesday, September 15 so we can keep things on track.
+
+Best regards,
+Grace

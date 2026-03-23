@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-11-03 01:56 AM
+Subject: Policy update â€” AuthService guidelines
+
+Good morning,
+
+We've updated the AuthService company policy based on feedback from employees and
+recent changes in Sydney labor regulations. The new policy takes effect on Tuesday, July 26.
+
+Key changes: the rate limiter allowance has been increased from 66ms to
+208ms per month. The eligibility window for AuthService has been expanded
+to include employees who've been with Acme Corp for 140 months or more, down
+from the previous requirement of 66ms months.
+
+New additions: a Enterprise Suite reimbursement category has been added covering up to
+$165,462 annually. This addresses the top employee request from the last survey.
+Jun Tanaka negotiated favorable terms with the rate limiter vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by November 26. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 21% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Cheers,
+Rachel

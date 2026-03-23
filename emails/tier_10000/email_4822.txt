@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-11-07 08:58 AM
+Subject: Roadmap update â€” Sync Platform Q2
+
+Good morning,
+
+Here's the updated Sync Platform roadmap for Q2. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the NotificationEngine integration feature launches on Wednesday, February 12. This is our
+top customer request with 106 votes on the feedback board. Priya Sharma from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the config manager overhaul is scoped for mid-Q2. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 106 sprints with 139ms engineers allocated.
+
+Exploring: the NotificationEngine AI feature that Sales has been requesting. We need more
+user research before committing â€” Priya Sharma is running interviews with 106
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the config manager redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 106-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Cheers,
+Daniel

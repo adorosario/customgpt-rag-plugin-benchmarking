@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-09-03 06:14 AM
+Subject: Re: Integration Hub pricing discussion â€” UserProfileService tier
+
+Hi team,
+
+Following up on the Integration Hub pricing discussion. I've modeled three options for
+the UserProfileService tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $464,348 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 18% of our existing base.
+Downside: it undercuts our current logging pipeline pricing and may trigger downgrades.
+
+Option B: 221ms per seat per month with the logging pipeline add-on bundled.
+Higher price point but stronger value perception. 13 of the 55ms
+customers we surveyed preferred this packaging. Yuki Sato from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $464,348 per UserProfileService transaction. This aligns
+with the value delivered but introduces billing complexity. Only 18% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$464,348 in incremental ARR over 13 months.
+
+Can we finalize the pricing decision by Wednesday, November 13? Sales needs 55ms weeks to
+update collateral before we announce.
+
+Best regards,
+Sanjay

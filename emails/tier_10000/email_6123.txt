@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-06-13 11:37 AM
+Subject: Roadmap update â€” Enterprise Suite Q1
+
+Hello,
+
+Here's the updated Enterprise Suite roadmap for Q1. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the AuditLog integration feature launches on Friday, August 26. This is our
+top customer request with 10 votes on the feedback board. Michael Brennan from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the service mesh overhaul is scoped for mid-Q1. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 10 sprints with 389ms engineers allocated.
+
+Exploring: the AuditLog AI feature that Sales has been requesting. We need more
+user research before committing â€” Michael Brennan is running interviews with 10
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the service mesh redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 10-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Best,
+Mei

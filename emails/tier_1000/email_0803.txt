@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-06-28 06:11 PM
+Subject: Budget review â€” Product department Q4
+
+Hello,
+
+Here's the Q4 budget review for the Product department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $368,268 against a budget of 283ms. The 6% variance is
+primarily driven by the accelerated MessageBroker hiring that was approved mid-quarter.
+Personnel costs came in at 187ms which includes the 170 new hires.
+
+Overages: the authentication module infrastructure line item exceeded budget by 6% due
+to the unplanned scaling requirements for Cloud Connect. I've worked with Sofia Martinez
+from Engineering to project the run rate going forward â€” we should budget an
+additional $368,268 per quarter for this category.
+
+Underspend: the MessageBroker consulting budget was only 6% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 6%
+of the total annual budget. The main risk is the authentication module cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best regards,
+Robert

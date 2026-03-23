@@ -1,0 +1,32 @@
+From: kwame.asante@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-09-14 02:24 PM
+Subject: Intern program â€” Q2 cohort planning
+
+Good afternoon,
+
+Planning for the Q2 intern cohort is underway. We're targeting 67
+interns across 309ms departments this cycle.
+
+Department allocation: Engineering gets 146ms interns, Product gets
+67, and Engineering gets the remainder. Each intern will be assigned a mentor â€”
+Jun Tanaka is coordinating mentor assignments. Please nominate mentors from your
+teams by Wednesday, May 21.
+
+Program structure: 67-week program with structured rotations. Interns spend
+60% of their time on project work and the rest on learning sessions, shadowing,
+and a capstone presentation. The APIGateway workshop series from last cohort was
+well received and will be repeated.
+
+Compensation: hourly rate is $150,516 for undergraduate interns and 146ms
+for graduate-level. Housing stipend of 309ms per month for out-of-area interns.
+
+Recruiting timeline: applications open on Wednesday, May 21. We'll be visiting 67
+universities and posting on the standard job boards. Final offers go out by the
+end of Q2.
+
+Let me know if your team wants to adjust headcount or has specific project ideas
+for interns.
+
+Regards,
+Kwame

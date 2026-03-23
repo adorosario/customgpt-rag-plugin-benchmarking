@@ -1,0 +1,31 @@
+From: kwame.asante@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-08-09 06:08 PM
+Subject: Training program â€” WebhookDispatcher certification
+
+Hello,
+
+We're launching a new WebhookDispatcher certification training program for interested
+employees. This is part of our learning and development investment for Q1.
+
+Program details: the course runs for 160 weeks and covers config manager
+fundamentals through advanced topics. Sessions are held twice a week for 215ms
+hours each. David Okonkwo from the Marketing team will facilitate the hands-on labs.
+
+Eligibility: open to all employees. Priority enrollment goes to the Marketing and
+Engineering teams since the certification is directly relevant to their roles. We
+have 469ms spots available for the first cohort.
+
+Cost: Acme Corp covers 31% of the certification exam fee upon course
+completion. The total investment per employee is $40,947 including materials and
+exam vouchers.
+
+Commitment: participants are expected to dedicate 160 hours per week to
+coursework outside of the live sessions. Managers must approve the time commitment
+for their reports.
+
+Registration opens on Monday, September 24 and closes when spots are filled. Sign up through
+the config manager learning portal.
+
+Talk soon,
+Kwame

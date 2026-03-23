@@ -1,0 +1,29 @@
+From: ravi.patel@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-11-27 08:07 PM
+Subject: Feature flag cleanup â€” PaymentGateway v3.0.0
+
+Hi all,
+
+Time for our quarterly feature flag cleanup in PaymentGateway. We have 99 flags
+in the system and several of them are stale.
+
+Flags to remove: the config manager migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The PaymentGateway experiment flag
+was concluded last sprint with a decision to ship â€” Laura Kim will hardcode the
+winning variant.
+
+Flags to keep: the v3.0.0 rollout flag should stay until we've confirmed
+stability at 492ms traffic. The config manager kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 96ms lines of dead code and simplify the conditional logic in
+23% of the affected modules.
+
+Please claim the tickets for flags in your area by Wednesday, September 25. Target completion is end
+of sprint.
+
+Best regards,
+Ravi

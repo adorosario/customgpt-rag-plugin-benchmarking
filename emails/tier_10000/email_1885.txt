@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-09-06 09:36 AM
+Subject: FP&A update â€” Integration Hub financial model
+
+Hi team,
+
+I've updated the Integration Hub financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 11 per month based
+on the last 392ms months of data. Average contract value is tracking at
+$251,391, which is 18% above our original assumption. The MessageBroker
+upsell rate of 73ms is a positive trend.
+
+Cost structure: the service mesh hosting costs are running 18% higher than
+modeled due to increased MessageBroker usage. I've adjusted the variable cost
+per customer from 392ms to 73ms. David Okonkwo from Engineering
+says the optimization project should bring this down by 18% in Q3.
+
+Break-even analysis: with the revised numbers, Integration Hub reaches contribution
+margin break-even at 11 customers, which we're projected to hit by Friday, November 5.
+Full break-even including allocated overhead comes at 392ms customers.
+
+Scenarios: the base case shows $251,391 in cumulative revenue by year end. The
+upside case with the Weyland-Yutani deal closing hits 73ms. Downside case
+assuming 18% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Cheers,
+Ananya

@@ -1,0 +1,26 @@
+From: hannah.goldstein@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-10-29 11:05 AM
+Subject: Re: Umbrella Inc renewal â€” risk assessment
+
+Hey everyone,
+
+Following up on the Umbrella Inc renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing UserProfileService latency issues for the past 112 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Umbrella Inc has mentioned they're evaluating alternatives for their serialization engine needs.
+
+The renewal is worth $216,073 annually and is up for renewal at the end of
+Q4. I think we need a proactive retention strategy. My proposal:
+
+First, get Hannah Goldstein from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 22% discount
+on the expanded Analytics Pro tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Best,
+Hannah

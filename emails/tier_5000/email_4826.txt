@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-08-18 03:02 AM
+Subject: Payroll adjustment â€” Wednesday, December 24 cycle
+
+Good morning,
+
+Several payroll adjustments need to be processed for the Wednesday, December 24 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 115 employees received approved raises effective Wednesday, December 24. The
+total monthly payroll impact is $431,584. The largest increase is for Jun Tanaka
+whose compensation moves from 465ms to 417ms based on the promotion
+approved in the Q1 review cycle.
+
+New hires: 115 new employees starting on Wednesday, December 24 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Jun Tanaka
+in People Ops has verified the documentation.
+
+Bonus payouts: the UserProfileService project completion bonus of $431,584 each goes to
+115 team members. These are one-time payments coded to the Engineering department
+budget. Tax withholding will be calculated at the supplemental rate of 53%.
+
+Deduction changes: 115 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from rate limiter.
+
+Please approve the batch by May 28 to ensure on-time processing.
+
+Talk soon,
+Grace

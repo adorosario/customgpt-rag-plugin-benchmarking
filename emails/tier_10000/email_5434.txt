@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-08-04 04:35 AM
+Subject: Beta program update â€” Enterprise Suite v5.0.0-beta
+
+Hey,
+
+Quick update on the Enterprise Suite v5.0.0-beta beta program. We're 194 weeks into
+the beta period with 211ms customers participating.
+
+Usage data: 13% of beta participants have activated the new DataPipeline
+feature. Average daily usage is 194 sessions per user. The metrics collector
+workflow is being used by 186ms of participants, which exceeds our
+adoption target of 211ms.
+
+Feedback summary: overall sentiment is positive. The top 194 pieces of praise
+relate to the DataPipeline speed improvement and the new metrics collector interface.
+The top 211ms complaints are about the DataPipeline configuration complexity
+and a confusing error message in the metrics collector flow.
+
+Bugs found: 194 bugs reported, of which 211ms are critical. Sofia Martinez
+from Engineering has fixed 186ms of the critical bugs. The remaining one
+is related to the DataPipeline edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Wednesday, January 10. The GA release is targeted for 194 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Wednesday, January 10 to finalize the GA scope.
+
+Talk soon,
+Liam

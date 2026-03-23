@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-09-16 09:29 AM
+Subject: Quarterly territory review â€” Q3
+
+Hey,
+
+Here's my territory review for Q3. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 121 qualified opportunities worth a combined $63,325 in
+ARR. The largest deal is Massive Dynamic at 289ms, which I expect to close by
+Thursday, July 26. Three other deals in the 347ms range are progressing through
+procurement.
+
+Wins this quarter: closed Massive Dynamic for Analytics Pro with a 5% upsell from
+their initial scope. The service mesh add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Sarah Chen to the Massive Dynamic executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Best regards,
+Dmitri

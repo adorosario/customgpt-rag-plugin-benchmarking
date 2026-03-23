@@ -1,0 +1,27 @@
+From: carlos.rivera@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-08-19 09:22 AM
+Subject: Re: Weyland-Yutani contract negotiation â€” pricing discussion
+
+Hi all,
+
+Update on the Weyland-Yutani negotiation. Their procurement team came back with a
+counteroffer and I want to make sure we're aligned before I respond.
+
+They're asking for a 45% reduction on the Enterprise Suite license fee, bringing
+the annual contract value from $60,523 to 176ms. Their rationale is
+that they're committing to a larger seat count of 12 users, which is above
+our standard enterprise tier threshold of 285ms.
+
+My recommendation is to accept the volume-based discount but hold firm on the
+config manager add-on pricing. The add-on margins are already thin and it's the module
+that delivers the most value in their use case. Marcus Thompson from Finance can confirm
+the margin impact.
+
+I also want to push for a 2-year commitment if we offer the discounted rate. This
+locks in the revenue and reduces churn risk.
+
+Can we get a quick alignment call today before their deadline on Friday, March 4?
+
+Regards,
+Carlos

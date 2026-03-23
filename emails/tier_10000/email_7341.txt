@@ -1,0 +1,28 @@
+From: carlos.rivera@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-07-21 01:36 AM
+Subject: Re: Quota update â€” Q2 adjustments
+
+Good morning,
+
+Thanks for sharing the Q2 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $22,804 reflects a 49% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 189 of my projected deals depend on the Cloud Connect launch happening on
+schedule. If that slips, I'll need the PaymentGateway backup deals to come through.
+
+Territory changes: I see that the Singapore accounts have been reassigned to
+Hannah Goldstein. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Weyland-Yutani â€” we've been building that
+relationship for 128ms months.
+
+Regarding the new authentication module incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with authentication module upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Regards,
+Carlos

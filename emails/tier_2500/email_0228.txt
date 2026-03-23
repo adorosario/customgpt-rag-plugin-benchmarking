@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-06-23 08:44 AM
+Subject: Tax planning â€” Q4 estimated payments
+
+Hi all,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the AuthService investment
+deductions.
+
+Federal estimate: $113,209 based on projected taxable income of 237ms.
+This reflects the AuthService depreciation deductions and the R&D tax credit for
+the Integration Hub development costs. Hannah Goldstein from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $113,209 for our primary jurisdiction and 377ms for the
+Tokyo office based on the apportionment factors. The Tokyo rate change that
+takes effect on Monday, October 3 will impact our Q4 estimate by approximately 62
+percent.
+
+International: with the Tokyo office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Hannah Goldstein to handle
+the registration. Setup cost is $113,209 with ongoing compliance costs of
+377ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Monday, October 3. I'll prepare the
+payment authorization for your signature by February 24. Underpayment penalties
+start at 52% so timely filing is important.
+
+Regards,
+Ananya

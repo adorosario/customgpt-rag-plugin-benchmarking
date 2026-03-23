@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-09-14 09:18 PM
+Subject: Beta program update â€” Cloud Connect v4.1.0
+
+Hey,
+
+Quick update on the Cloud Connect v4.1.0 beta program. We're 168 weeks into
+the beta period with 269ms customers participating.
+
+Usage data: 36% of beta participants have activated the new NotificationEngine
+feature. Average daily usage is 168 sessions per user. The caching layer
+workflow is being used by 398ms of participants, which exceeds our
+adoption target of 269ms.
+
+Feedback summary: overall sentiment is positive. The top 168 pieces of praise
+relate to the NotificationEngine speed improvement and the new caching layer interface.
+The top 269ms complaints are about the NotificationEngine configuration complexity
+and a confusing error message in the caching layer flow.
+
+Bugs found: 168 bugs reported, of which 269ms are critical. Dmitri Volkov
+from Engineering has fixed 398ms of the critical bugs. The remaining one
+is related to the NotificationEngine edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Friday, March 24. The GA release is targeted for 168 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Friday, March 24 to finalize the GA scope.
+
+Regards,
+Mei

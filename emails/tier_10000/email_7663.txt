@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-06-09 10:07 AM
+Subject: Press release draft â€” Enterprise Suite announcement
+
+Hey everyone,
+
+The press release for the Enterprise Suite announcement is ready for internal review. I've
+incorporated feedback from James Oduya and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the PaymentGateway capability and positions Acme Corp as a leader
+in the service mesh space. We're leading with the 199 performance improvement
+stat and the Globex customer quote.
+
+Distribution plan: wire service distribution on Wednesday, January 16, followed by targeted
+outreach to our 452ms media contacts in the industry. I've secured a briefing
+with PaymentGateway Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Enterprise Suite landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 199-hour cadence on launch day.
+
+Embargo: the release is under embargo until Wednesday, January 16 at 9 AM ET. Please don't share
+details externally before then. James Oduya has the full distribution list.
+
+Review deadline is Wednesday, January 16. Please send edits as comments in the doc.
+
+Best regards,
+Laura

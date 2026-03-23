@@ -1,0 +1,21 @@
+{
+  "tier": 10000,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "**Project Nexus** is a software development initiative at AcmeCorp focused on building a **cross-platform synchronized system** with conflict resolution and integration capabilities. Key features include a Nexus core component, synchronization mechanisms, a conflict resolution module, and API/mobile client development.\n\n**Teams involved:**\n\n| Team | Role |\n|------|------|\n| Engineering | Core development |\n| Product | Roadmap and planning |\n| Infrastructure/Operations | Cloud deployment |\n| Quality Assurance | Code reviews and testing |\n| Marketing | Campaign planning |\n| Finance | Budget and cost tracking |\n| Customer Support | Client interaction |\n| HR/Training | Team onboarding |\n\nKey personnel coordinating the effort include Wei Zhang, Derek Morrison, Tomoko Nakamura, Jun Tanaka, Marcus Thompson, Kwame Asante, Ravi Patel, Priya Sharma, and Liam Foster.",
+  "time_seconds": 57.73,
+  "num_turns": 4,
+  "cost_usd": 0.2642263,
+  "input_tokens": 6,
+  "cache_creation_tokens": 13543,
+  "cache_read_tokens": 104752,
+  "output_tokens": 1286,
+  "total_tokens": 119587,
+  "duration_api_ms": 44557,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

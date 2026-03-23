@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-07-13 05:02 AM
+Subject: Vendor payment schedule â€” Q3
+
+Hi,
+
+Here's the vendor payment schedule for Q3. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Pied Piper invoice for $353,446 is due on Wednesday, January 27 with a
+43% early payment discount if we pay within 190 days. I recommend
+taking the discount â€” it saves us 375ms. The ReportingEngine annual
+license renewal of 94ms is due Wednesday, January 27 with no discount available.
+
+Standard schedule: 190 vendor invoices totaling $353,446 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-94ms terms with payments going out every 190 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The serialization engine vendor
+overbilled us by $353,446 on the ReportingEngine usage charges. Kwame Asante is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q3 are projected at $353,446. This
+is 43% higher than last quarter due to the ReportingEngine infrastructure
+investment and the Tokyo office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Best,
+Ananya

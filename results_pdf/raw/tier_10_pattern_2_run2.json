@@ -1,0 +1,21 @@
+{
+  "tier": 10,
+  "question_id": "pattern_2",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What's the status of the Berlin office opening?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about a Berlin office opening in my context or memory. This doesn't appear to be related to the codebase or projects I'm working with.\n\nCould you clarify what you're referring to? If it's a company announcement or internal update, you may want to check your company's internal channels or ask a colleague directly.",
+  "time_seconds": 26.56,
+  "num_turns": 1,
+  "cost_usd": 0.07278224999999999,
+  "input_tokens": 3,
+  "cache_creation_tokens": 17575,
+  "cache_read_tokens": 10840,
+  "output_tokens": 241,
+  "total_tokens": 28659,
+  "duration_api_ms": 8192,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

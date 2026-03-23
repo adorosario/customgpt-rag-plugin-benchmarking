@@ -1,0 +1,28 @@
+From: derek.morrison@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-10-19 04:52 AM
+Subject: Quarterly territory review â€” Q1
+
+Hi all,
+
+Here's my territory review for Q1. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 47 qualified opportunities worth a combined $32,124 in
+ARR. The largest deal is Tyrell Corp at 242ms, which I expect to close by
+Monday, May 25. Three other deals in the 471ms range are progressing through
+procurement.
+
+Wins this quarter: closed Tyrell Corp for Analytics Pro with a 22% upsell from
+their initial scope. The event bus add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Mei Lin to the Tyrell Corp executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Regards,
+Derek

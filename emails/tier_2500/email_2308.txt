@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-07-15 10:30 AM
+Subject: Event planning â€” Insight Engine webinar on Tuesday, October 25
+
+Hi all,
+
+Finalizing details for the Insight Engine webinar on Tuesday, October 25. Here's where we stand on
+the logistics and promotion.
+
+Content: Mei Lin from Product will present the PaymentGateway roadmap segment.
+I'll handle the intro and customer story. We're targeting a 38-minute
+presentation followed by 179ms minutes of live Q&A. The rate limiter demo
+segment should be the highlight.
+
+Registration: we've had 153ms sign-ups so far. Goal is 179ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Insight Engine keywords.
+
+Tech setup: using the standard webinar platform. Mei Lin will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Tuesday, October 25 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 38 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Regards,
+Yuki

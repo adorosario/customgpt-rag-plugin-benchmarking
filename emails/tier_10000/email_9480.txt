@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-06-22 10:59 PM
+Subject: Re: Customer story â€” Pied Piper case study
+
+Hi,
+
+Great update on the Pied Piper case study. I've finished the first draft and want
+to share the results we're highlighting.
+
+Headline stat: Pied Piper saw a 50% reduction in load balancer processing time
+after deploying Analytics Pro. This translates to $170,185 in annual cost savings
+based on their team size of 123 people.
+
+Story arc: the narrative follows their journey from evaluating AuthService
+alternatives to full deployment. The strongest section is the quote from their CTO
+about how Analytics Pro simplified their load balancer workflow.
+
+Approval status: Pied Piper's marketing team has reviewed and approved the draft with
+minor edits. They're comfortable with us publishing by Friday, January 28. Daniel Park coordinated
+the approval process.
+
+Distribution plan: blog post with pull quotes, one-page PDF for Sales enablement,
+and a 123-minute video summary. The video production is scheduled for next week.
+
+Can you review the draft and send feedback by Friday, January 28? I want to finalize before
+the Q4 campaign kickoff.
+
+Best,
+Sofia

@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-08-08 01:33 PM
+Subject: Quarterly territory review â€” Q3
+
+Hi,
+
+Here's my territory review for Q3. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 172 qualified opportunities worth a combined $110,511 in
+ARR. The largest deal is Oscorp at 288ms, which I expect to close by
+Friday, June 12. Three other deals in the 314ms range are progressing through
+procurement.
+
+Wins this quarter: closed Oscorp for Integration Hub with a 8% upsell from
+their initial scope. The rate limiter add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Rachel Nguyen to the Oscorp executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Cheers,
+Dmitri

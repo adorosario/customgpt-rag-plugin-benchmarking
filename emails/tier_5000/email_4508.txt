@@ -1,0 +1,27 @@
+From: derek.morrison@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-28 12:33 PM
+Subject: Pipeline update â€” Pied Piper deal status
+
+Hey everyone,
+
+Quick update on the Pied Piper opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $362,339 for the Integration Hub deployment. The
+decision timeline is end of Q4. Their main concern remains the integration
+with their existing WebhookDispatcher infrastructure, which is why I've looped in Jun Tanaka
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Pied Piper is also evaluating one other vendor but our
+Integration Hub demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our metrics collector capability.
+
+Next steps: technical architecture session on Friday, August 10, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 16%.
+
+Best regards,
+Derek

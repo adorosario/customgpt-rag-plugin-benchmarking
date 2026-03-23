@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-11-20 12:45 PM
+Subject: Re: Insight Engine pricing discussion â€” AnalyticsDashboard tier
+
+Hey everyone,
+
+Following up on the Insight Engine pricing discussion. I've modeled three options for
+the AnalyticsDashboard tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $73,747 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 9% of our existing base.
+Downside: it undercuts our current connection pool pricing and may trigger downgrades.
+
+Option B: 177ms per seat per month with the connection pool add-on bundled.
+Higher price point but stronger value perception. 46 of the 439ms
+customers we surveyed preferred this packaging. Fatima Al-Rashid from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $73,747 per AnalyticsDashboard transaction. This aligns
+with the value delivered but introduces billing complexity. Only 9% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$73,747 in incremental ARR over 46 months.
+
+Can we finalize the pricing decision by Tuesday, September 24? Sales needs 439ms weeks to
+update collateral before we announce.
+
+Thanks,
+Sanjay

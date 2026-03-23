@@ -1,0 +1,29 @@
+From: patrick.obrien@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-10-25 02:05 AM
+Subject: Policy update â€” MessageBroker guidelines
+
+Good morning,
+
+We've updated the MessageBroker company policy based on feedback from employees and
+recent changes in San Francisco labor regulations. The new policy takes effect on Wednesday, November 19.
+
+Key changes: the authentication module allowance has been increased from 84ms to
+225ms per month. The eligibility window for MessageBroker has been expanded
+to include employees who've been with Acme Corp for 65 months or more, down
+from the previous requirement of 84ms months.
+
+New additions: a Insight Engine reimbursement category has been added covering up to
+$344,152 annually. This addresses the top employee request from the last survey.
+Marcus Thompson negotiated favorable terms with the authentication module vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by October 12. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 32% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best regards,
+Patrick

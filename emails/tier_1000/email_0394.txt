@@ -1,0 +1,34 @@
+From: mei.lin@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-21 10:28 PM
+Subject: Customer feedback digest â€” Enterprise Suite Q2
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Enterprise Suite. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 36, up 265ms points from last quarter. The improvement
+is driven by the CacheLayer launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 41%.
+
+Top feature requests: CacheLayer advanced filtering (36 votes), load balancer
+bulk operations (265ms votes), and enhanced Enterprise Suite reporting (461ms
+votes). The filtering request aligns with what we heard in the user research study
+Wei Zhang conducted.
+
+Top complaints: CacheLayer performance during peak hours (36 mentions),
+the load balancer onboarding experience (265ms mentions), and pricing
+transparency (461ms mentions). The performance issue is being addressed
+by Engineering â€” Wei Zhang expects the fix in v4.1.0.
+
+Churn insights: 36 customers churned this quarter citing CacheLayer
+limitations as the primary reason. The load balancer overhaul on our roadmap directly
+addresses their feedback. 41% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Thursday, June 6.
+
+Regards,
+Mei

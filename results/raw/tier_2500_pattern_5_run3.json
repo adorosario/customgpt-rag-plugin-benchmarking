@@ -1,0 +1,21 @@
+{
+  "tier": 2500,
+  "question_id": "pattern_5",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What's happening with the Series B fundraising?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have context about which company's Series B you're referring to. Could you clarify \u00e2\u20ac\u201d are you asking about:\n\n- **CustomGPT.ai's** fundraising?\n- **Anthropic's** fundraising?\n- Another company?\n\nIf it's publicly available news you want me to look up, I can search via Perplexity.",
+  "time_seconds": 25.82,
+  "num_turns": 1,
+  "cost_usd": 0.0540012,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10872,
+  "cache_read_tokens": 17324,
+  "output_tokens": 535,
+  "total_tokens": 28734,
+  "duration_api_ms": 11686,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

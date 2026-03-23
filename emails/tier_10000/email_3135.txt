@@ -1,0 +1,29 @@
+From: kwame.asante@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-07-11 11:49 AM
+Subject: Policy update â€” PaymentGateway guidelines
+
+Good morning,
+
+We've updated the PaymentGateway company policy based on feedback from employees and
+recent changes in Tokyo labor regulations. The new policy takes effect on Wednesday, September 11.
+
+Key changes: the load balancer allowance has been increased from 106ms to
+332ms per month. The eligibility window for PaymentGateway has been expanded
+to include employees who've been with Acme Corp for 111 months or more, down
+from the previous requirement of 106ms months.
+
+New additions: a Data Vault reimbursement category has been added covering up to
+$352,452 annually. This addresses the top employee request from the last survey.
+Daniel Park negotiated favorable terms with the load balancer vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by September 1. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 20% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best,
+Kwame

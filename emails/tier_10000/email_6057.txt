@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-23 03:01 AM
+Subject: Budget review â€” Legal department Q4
+
+Hi,
+
+Here's the Q4 budget review for the Legal department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $171,447 against a budget of 247ms. The 28% variance is
+primarily driven by the accelerated ReportingEngine hiring that was approved mid-quarter.
+Personnel costs came in at 117ms which includes the 45 new hires.
+
+Overages: the config manager infrastructure line item exceeded budget by 28% due
+to the unplanned scaling requirements for Analytics Pro. I've worked with Ananya Desai
+from Engineering to project the run rate going forward â€” we should budget an
+additional $171,447 per quarter for this category.
+
+Underspend: the ReportingEngine consulting budget was only 28% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 28%
+of the total annual budget. The main risk is the config manager cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Cheers,
+Grace

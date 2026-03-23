@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-08-16 01:32 AM
+Subject: Quarterly territory review â€” Q2
+
+Good morning,
+
+Here's my territory review for Q2. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 22 qualified opportunities worth a combined $376,145 in
+ARR. The largest deal is Hooli at 310ms, which I expect to close by
+Wednesday, September 24. Three other deals in the 434ms range are progressing through
+procurement.
+
+Wins this quarter: closed Hooli for Sync Platform with a 50% upsell from
+their initial scope. The authentication module add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring James Oduya to the Hooli executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Talk soon,
+Dmitri

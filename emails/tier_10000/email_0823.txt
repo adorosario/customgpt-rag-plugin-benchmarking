@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-11-17 04:54 AM
+Subject: Revenue recognition â€” Sync Platform contracts
+
+Hey everyone,
+
+I need to walk through the revenue recognition treatment for the new Sync Platform
+contracts signed this quarter. We have 117 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Stark Industries contract bundles Sync Platform licenses with
+authentication module implementation services. I've determined the standalone selling prices
+and allocated $61,103 to the license component and 303ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 117-month implementation period.
+
+Variable consideration: 337ms contracts include performance bonuses tied to
+APIGateway uptime metrics. Using the expected value method, I've estimated
+$61,103 in variable consideration based on our historical performance of
+33% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Stark Industries amendment added authentication module capacity at
+$61,103 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Ravi Patel from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Monday, December 17.
+
+Talk soon,
+Ananya

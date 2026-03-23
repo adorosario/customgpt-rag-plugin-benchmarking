@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-12 10:06 PM
+Subject: Budget review â€” Sales department Q1
+
+Hi,
+
+Here's the Q1 budget review for the Sales department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $24,293 against a budget of 179ms. The 19% variance is
+primarily driven by the accelerated MessageBroker hiring that was approved mid-quarter.
+Personnel costs came in at 454ms which includes the 101 new hires.
+
+Overages: the config manager infrastructure line item exceeded budget by 19% due
+to the unplanned scaling requirements for Analytics Pro. I've worked with Fatima Al-Rashid
+from Engineering to project the run rate going forward â€” we should budget an
+additional $24,293 per quarter for this category.
+
+Underspend: the MessageBroker consulting budget was only 19% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 19%
+of the total annual budget. The main risk is the config manager cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Thanks,
+Ananya

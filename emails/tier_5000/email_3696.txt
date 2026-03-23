@@ -1,0 +1,30 @@
+From: carlos.rivera@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-08-08 09:20 PM
+Subject: Client meeting recap â€” Umbrella Inc Friday, March 28
+
+Hey,
+
+Recapping today's meeting with Umbrella Inc. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their MessageBroker
+team lead. From ours: myself, Maria Santos from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their caching layer vendors
+from three down to one. Our Data Vault covers 9% of their requirements
+natively. The remaining gap is around MessageBroker integrations, which Maria Santos
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Friday, March 28 and begin
+implementation in Q2. Budget has been pre-approved at $318,922 for the
+first year.
+
+Action items: send the Data Vault technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their caching layer workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Best regards,
+Carlos

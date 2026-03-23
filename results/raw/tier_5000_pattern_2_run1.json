@@ -1,0 +1,21 @@
+{
+  "tier": 5000,
+  "question_id": "pattern_2",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What's the status of the Berlin office opening?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about a Berlin office opening in my context or memory. This doesn't appear to be related to the current project (a Claude Code benchmark study for the CustomGPT RAG plugin).\n\nCould you clarify what you're referring to? Is this related to a company, project, or something else I should have context on?",
+  "time_seconds": 21.75,
+  "num_turns": 1,
+  "cost_usd": 0.0499062,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10872,
+  "cache_read_tokens": 17324,
+  "output_tokens": 262,
+  "total_tokens": 28461,
+  "duration_api_ms": 8055,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

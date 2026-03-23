@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-10-16 08:33 AM
+Subject: Social media strategy â€” Q4
+
+Hey everyone,
+
+Presenting the social media strategy refresh for Q4. Based on our Insight Engine
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our AnalyticsDashboard posts are averaging 187 impressions and 43% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 43% educational content about authentication module topics, 187
+percent product highlights, and the rest for company culture and employee spotlights.
+Fatima Al-Rashid will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Insight Engine use cases and answer audience questions. First session on Tuesday, October 22 featuring
+Fatima Al-Rashid.
+
+Budget: $444,201 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 168ms new followers and 209ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Best regards,
+Yuki

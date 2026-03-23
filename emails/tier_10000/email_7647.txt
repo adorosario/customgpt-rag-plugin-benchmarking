@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-10-14 12:04 AM
+Subject: Sprint planning â€” Integration Hub sprint v5.0.0-beta
+
+Hi all,
+
+Here's the sprint plan for Integration Hub sprint v5.0.0-beta. Capacity is 114 story
+points with 105ms engineers available this sprint.
+
+Committed stories: the SearchIndex integration work carries over from last sprint
+with 409ms points remaining. The new metrics collector API endpoints are
+estimated at 114 points. The bug fix for the SearchIndex rendering issue
+is 105ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the metrics collector performance
+optimization that Hannah Goldstein has been scouting. It's estimated at 114 points
+and would improve response time by 49%.
+
+Dependencies: the SearchIndex feature requires the API changes that Hannah Goldstein
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The metrics collector work is self-contained.
+
+Risks: Hannah Goldstein is on-call this sprint which historically reduces their available
+capacity by 49%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, September 10. Let me know if the priorities look right.
+
+Regards,
+Daniel

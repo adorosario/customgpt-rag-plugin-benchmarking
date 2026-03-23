@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-11-23 11:49 PM
+Subject: Tax planning â€” Q3 estimated payments
+
+Hey,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the SchedulerService investment
+deductions.
+
+Federal estimate: $295,755 based on projected taxable income of 496ms.
+This reflects the SchedulerService depreciation deductions and the R&D tax credit for
+the Sync Platform development costs. Liam Foster from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $295,755 for our primary jurisdiction and 121ms for the
+Sydney office based on the apportionment factors. The Sydney rate change that
+takes effect on Monday, December 12 will impact our Q3 estimate by approximately 172
+percent.
+
+International: with the Sydney office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Liam Foster to handle
+the registration. Setup cost is $295,755 with ongoing compliance costs of
+121ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Monday, December 12. I'll prepare the
+payment authorization for your signature by May 26. Underpayment penalties
+start at 55% so timely filing is important.
+
+Cheers,
+Robert

@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-18 07:45 PM
+Subject: Sprint planning â€” Insight Engine sprint v1.9.5
+
+Hi,
+
+Here's the sprint plan for Insight Engine sprint v1.9.5. Capacity is 198 story
+points with 462ms engineers available this sprint.
+
+Committed stories: the CacheLayer integration work carries over from last sprint
+with 217ms points remaining. The new queue processor API endpoints are
+estimated at 198 points. The bug fix for the CacheLayer rendering issue
+is 462ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the queue processor performance
+optimization that David Okonkwo has been scouting. It's estimated at 198 points
+and would improve response time by 37%.
+
+Dependencies: the CacheLayer feature requires the API changes that David Okonkwo
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The queue processor work is self-contained.
+
+Risks: David Okonkwo is on-call this sprint which historically reduces their available
+capacity by 37%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, October 18. Let me know if the priorities look right.
+
+Cheers,
+Daniel

@@ -1,0 +1,26 @@
+From: jun.tanaka@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-10-29 04:10 AM
+Subject: Pipeline update â€” Oscorp deal status
+
+Good afternoon,
+
+Quick update on the Oscorp opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $319,168 for the Analytics Pro deployment. The
+decision timeline is end of Q3. Their main concern remains the integration
+with their existing DataPipeline infrastructure, which is why I've looped in Mei Lin
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Oscorp is also evaluating one other vendor but our
+Analytics Pro demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our service mesh capability.
+
+Next steps: technical architecture session on Thursday, August 26, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 9%.
+
+Talk soon,
+Jun

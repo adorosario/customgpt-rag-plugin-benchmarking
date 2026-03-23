@@ -1,0 +1,27 @@
+From: wei.zhang@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-09-08 09:47 AM
+Subject: Incident postmortem â€” SearchIndex outage on Thursday, February 7
+
+Hey everyone,
+
+Attached is the postmortem for the SearchIndex outage that occurred on Thursday, February 7. The
+incident lasted approximately 45 minutes and affected 92 for a subset of users.
+
+Root cause: a configuration change in the queue processor deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+410ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, Marcus Thompson acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the SearchIndex runbook, add a circuit breaker for the
+queue processor connection pool, and implement load shedding when concurrency exceeds
+410ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Best,
+Wei

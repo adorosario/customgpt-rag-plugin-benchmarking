@@ -1,0 +1,28 @@
+From: carlos.rivera@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-11-10 05:47 AM
+Subject: New lead â€” Weyland-Yutani inbound request
+
+Hi team,
+
+We received an inbound request from Weyland-Yutani through the website today. They're
+a 151-employee company in the SchedulerService space and are looking for a
+Data Vault solution.
+
+Initial qualification: they have budget allocated for Q4, their current
+contract with their existing vendor expires on Thursday, July 17, and the decision maker is
+their VP of Operations. They found us through the metrics collector whitepaper we
+published last month.
+
+The estimated deal size is $85,855 based on their seat count and the use case
+they described. They specifically mentioned needing the SchedulerService integration
+and 401ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Priya Sharma â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on metrics collector scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Regards,
+Carlos

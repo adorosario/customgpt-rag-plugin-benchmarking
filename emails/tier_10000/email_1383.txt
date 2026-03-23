@@ -1,0 +1,31 @@
+From: rachel.nguyen@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-06-26 09:11 AM
+Subject: Onboarding schedule â€” new hire starting Monday, November 9
+
+Hey everyone,
+
+We have a new team member joining Marketing on Monday, November 9. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, AuthService systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Tomoko Nakamura will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Enterprise Suite and the caching layer tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Monday, November 9. All software licenses including AuthService and caching layer access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 14 people to schedule intro meetings with, and first
+471ms-day goals. Please send these to Tomoko Nakamura in People Ops.
+
+Welcome email goes out 14 days before start date.
+
+Thanks,
+Rachel

@@ -1,0 +1,27 @@
+From: tomoko.nakamura@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-08-18 12:20 PM
+Subject: Deploy plan for PaymentGateway v3.2.2
+
+Good morning,
+
+Here's the deployment plan for PaymentGateway v3.2.2. I've coordinated with
+Oluwaseun Adeyemi on the rollout sequence and we're targeting Tuesday, December 11 for the production push.
+
+Deployment order: staging first for smoke tests, then canary at 5%, ramp to 25%
+after one hour of clean metrics, then full rollout. The estimated total deployment
+window is two hours.
+
+Key changes in this release include the refactored service mesh module, updated
+dependency versions, and the new health check endpoint. All changes have been through
+code review and the CI pipeline is green.
+
+Rollback plan: if error rates exceed 245ms at any stage, we revert to the
+previous release using the blue-green swap. Oluwaseun Adeyemi will be on-call during the
+window.
+
+Please confirm you've reviewed the changelog and flag any concerns before Tuesday, December 11.
+
+Cheers,
+Tomoko

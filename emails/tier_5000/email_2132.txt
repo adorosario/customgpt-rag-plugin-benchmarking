@@ -1,0 +1,27 @@
+From: derek.morrison@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-24 08:30 AM
+Subject: Re: Weyland-Yutani renewal â€” risk assessment
+
+Hi all,
+
+Following up on the Weyland-Yutani renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing SearchIndex latency issues for the past 120 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Weyland-Yutani has mentioned they're evaluating alternatives for their connection pool needs.
+
+The renewal is worth $262,834 annually and is up for renewal at the end of
+Q4. I think we need a proactive retention strategy. My proposal:
+
+First, get Rachel Nguyen from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 14% discount
+on the expanded Cloud Connect tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Cheers,
+Derek

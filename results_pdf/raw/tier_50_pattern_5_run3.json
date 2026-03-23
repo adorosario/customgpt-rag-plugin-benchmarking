@@ -1,0 +1,21 @@
+{
+  "tier": 50,
+  "question_id": "pattern_5",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What's happening with the Series B fundraising?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about Series B fundraising in my context or memory. This appears to be a business/company question outside the scope of what I have access to.\n\nIf you're looking for information about a specific company's fundraising, I'd suggest checking:\n- Recent news articles or press releases\n- Crunchbase or PitchBook for funding data\n- The company's official communications\n\nIs there something software-related I can help you with?",
+  "time_seconds": 19.79,
+  "num_turns": 1,
+  "cost_usd": 0.049618800000000005,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10874,
+  "cache_read_tokens": 17541,
+  "output_tokens": 238,
+  "total_tokens": 28656,
+  "duration_api_ms": 8381,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

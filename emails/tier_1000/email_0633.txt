@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-07 08:02 PM
+Subject: Beta program update â€” Analytics Pro v2.6.0
+
+Hi team,
+
+Quick update on the Analytics Pro v2.6.0 beta program. We're 97 weeks into
+the beta period with 341ms customers participating.
+
+Usage data: 51% of beta participants have activated the new AnalyticsDashboard
+feature. Average daily usage is 97 sessions per user. The service mesh
+workflow is being used by 265ms of participants, which exceeds our
+adoption target of 341ms.
+
+Feedback summary: overall sentiment is positive. The top 97 pieces of praise
+relate to the AnalyticsDashboard speed improvement and the new service mesh interface.
+The top 341ms complaints are about the AnalyticsDashboard configuration complexity
+and a confusing error message in the service mesh flow.
+
+Bugs found: 97 bugs reported, of which 341ms are critical. Marcus Thompson
+from Engineering has fixed 265ms of the critical bugs. The remaining one
+is related to the AnalyticsDashboard edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Thursday, October 11. The GA release is targeted for 97 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Thursday, October 11 to finalize the GA scope.
+
+Best regards,
+Mei

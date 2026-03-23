@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: elena.vasquez@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-21 01:51 AM
+Subject: Sprint planning â€” Enterprise Suite sprint v3.8.1
+
+Hello,
+
+Here's the sprint plan for Enterprise Suite sprint v3.8.1. Capacity is 125 story
+points with 104ms engineers available this sprint.
+
+Committed stories: the NotificationEngine integration work carries over from last sprint
+with 61ms points remaining. The new caching layer API endpoints are
+estimated at 125 points. The bug fix for the NotificationEngine rendering issue
+is 104ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the caching layer performance
+optimization that Grace Mwangi has been scouting. It's estimated at 125 points
+and would improve response time by 27%.
+
+Dependencies: the NotificationEngine feature requires the API changes that Grace Mwangi
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The caching layer work is self-contained.
+
+Risks: Grace Mwangi is on-call this sprint which historically reduces their available
+capacity by 27%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Friday, June 21. Let me know if the priorities look right.
+
+Best,
+Daniel

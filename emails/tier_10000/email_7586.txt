@@ -1,0 +1,32 @@
+From: amara.diallo@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-09-15 12:10 PM
+Subject: Roadmap update â€” Sync Platform Q3
+
+Good morning,
+
+Here's the updated Sync Platform roadmap for Q3. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the PaymentGateway integration feature launches on Tuesday, September 13. This is our
+top customer request with 186 votes on the feedback board. Michael Brennan from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the queue processor overhaul is scoped for mid-Q3. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 186 sprints with 237ms engineers allocated.
+
+Exploring: the PaymentGateway AI feature that Sales has been requesting. We need more
+user research before committing â€” Michael Brennan is running interviews with 186
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the queue processor redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 186-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Regards,
+Amara

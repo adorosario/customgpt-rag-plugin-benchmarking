@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-09-22 07:00 AM
+Subject: Revenue recognition â€” Analytics Pro contracts
+
+Hi all,
+
+I need to walk through the revenue recognition treatment for the new Analytics Pro
+contracts signed this quarter. We have 178 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Soylent Corp contract bundles Analytics Pro licenses with
+service mesh implementation services. I've determined the standalone selling prices
+and allocated $310,447 to the license component and 222ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 178-month implementation period.
+
+Variable consideration: 500ms contracts include performance bonuses tied to
+SearchIndex uptime metrics. Using the expected value method, I've estimated
+$310,447 in variable consideration based on our historical performance of
+13% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Soylent Corp amendment added service mesh capacity at
+$310,447 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Jun Tanaka from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Monday, December 11.
+
+Thanks,
+Michael

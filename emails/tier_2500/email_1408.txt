@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-09-28 07:30 AM
+Subject: Payroll adjustment â€” Thursday, June 6 cycle
+
+Hi all,
+
+Several payroll adjustments need to be processed for the Thursday, June 6 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 112 employees received approved raises effective Thursday, June 6. The
+total monthly payroll impact is $72,399. The largest increase is for Tomoko Nakamura
+whose compensation moves from 500ms to 289ms based on the promotion
+approved in the Q2 review cycle.
+
+New hires: 112 new employees starting on Thursday, June 6 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Tomoko Nakamura
+in People Ops has verified the documentation.
+
+Bonus payouts: the AuthService project completion bonus of $72,399 each goes to
+112 team members. These are one-time payments coded to the Finance department
+budget. Tax withholding will be calculated at the supplemental rate of 30%.
+
+Deduction changes: 112 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from rate limiter.
+
+Please approve the batch by October 9 to ensure on-time processing.
+
+Regards,
+Ananya

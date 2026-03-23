@@ -1,0 +1,31 @@
+From: rachel.nguyen@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-09-13 07:47 AM
+Subject: Team event recap â€” AuditLog outing
+
+Hey,
+
+Thanks to everyone who joined the AuditLog team outing last week. We had great
+turnout with 107 employees attending.
+
+Highlights: the team building exercise was a hit â€” the load balancer challenge had
+teams competing in creative problem-solving rounds. The winning team led by
+Kwame Asante finished in just 287ms minutes. The group dinner afterward was a
+great opportunity for cross-team connections.
+
+Feedback: the post-event survey came back overwhelmingly positive with a 31%
+satisfaction rating. Most popular suggestion for next time: more outdoor activities.
+Several people asked about doing quarterly events instead of 107 per year.
+
+Budget: total cost was $159,150, coming in at 130ms per person including
+venue, catering, and activities. This is within our social budget for Q1.
+
+Photos are uploaded to the shared album in the load balancer drive. Please tag
+yourselves and share appropriate photos on social media if you'd like â€” our
+marketing team loves this content for the company page.
+
+Planning for the next event starts in Q1. Ideas welcome.
+
+Thanks,
+Rachel

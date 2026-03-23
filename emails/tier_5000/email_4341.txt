@@ -1,0 +1,34 @@
+From: maria.santos@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-08-18 03:46 AM
+Subject: Contract review â€” Globex agreement
+
+Good morning,
+
+I've completed the review of the Globex agreement and have several items that
+need attention before we can proceed to execution.
+
+Liability cap: the current draft limits liability to $139,010, which is below our
+standard threshold of 242ms for deals of this size. I recommend pushing back
+to at least 342ms. Michael Brennan from Sales should be prepared for this
+negotiation point.
+
+IP assignment clause: section 7.3 includes an overly broad IP assignment that could
+capture pre-existing work product. I've drafted narrower language that protects our
+existing SearchIndex IP while still meeting Globex's requirements for the
+Sync Platform deliverables.
+
+Data processing: the DPA needs to be updated to reflect the new queue processor
+architecture. Since data will transit through the New York data center, we need to
+ensure compliance with local data residency requirements.
+
+Indemnification: the mutual indemnification provisions are reasonable. I've accepted
+them with minor clarifications on the notice period â€” changed from 162 to
+242ms business days.
+
+I'll send the redlined version by Monday, March 10. Please review the business terms and
+confirm the commercial intent before I finalize.
+
+Talk soon,
+Maria

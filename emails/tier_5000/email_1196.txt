@@ -1,0 +1,27 @@
+From: dmitri.volkov@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-06-19 05:46 PM
+Subject: Re: Massive Dynamic contract negotiation â€” pricing discussion
+
+Good afternoon,
+
+Update on the Massive Dynamic negotiation. Their procurement team came back with a
+counteroffer and I want to make sure we're aligned before I respond.
+
+They're asking for a 11% reduction on the Analytics Pro license fee, bringing
+the annual contract value from $302,343 to 197ms. Their rationale is
+that they're committing to a larger seat count of 117 users, which is above
+our standard enterprise tier threshold of 257ms.
+
+My recommendation is to accept the volume-based discount but hold firm on the
+serialization engine add-on pricing. The add-on margins are already thin and it's the module
+that delivers the most value in their use case. Maria Santos from Finance can confirm
+the margin impact.
+
+I also want to push for a 2-year commitment if we offer the discounted rate. This
+locks in the revenue and reduces churn risk.
+
+Can we get a quick alignment call today before their deadline on Thursday, December 19?
+
+Best,
+Dmitri

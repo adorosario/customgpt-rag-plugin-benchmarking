@@ -1,0 +1,29 @@
+From: michael.brennan@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-07-13 02:02 AM
+Subject: Re: Expense report flagged â€” MessageBroker charges
+
+Hi all,
+
+I noticed some items on the MessageBroker expense report submitted by Priya Sharma
+that need clarification before I can approve them.
+
+The authentication module subscription charge of $336,648 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+202ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Cyberdyne dinner on Monday, March 11 for $336,648 exceeds our per-person meal
+reimbursement limit of 202ms. If this was a client entertainment expense,
+it should be coded to the client development budget under MessageBroker rather than
+general T&E. 135 attendees at that amount puts us at 439ms per
+person which is within the client entertainment policy.
+
+The remaining 135 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 202ms business days after approval.
+
+Please resubmit with the corrections by Monday, March 11 so we can keep things on track.
+
+Best regards,
+Michael

@@ -1,0 +1,31 @@
+From: maria.santos@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-07-21 12:23 AM
+Subject: Board resolution â€” Sync Platform approval
+
+Hey,
+
+The board resolution for the Sync Platform initiative has been drafted and is ready
+for circulation. Here's a summary of the key provisions.
+
+Authorization: the resolution authorizes management to proceed with the MessageBroker
+investment of up to $145,572 over 120 fiscal quarters. This covers development
+costs, infrastructure, and the metrics collector vendor contract.
+
+Reporting requirements: management will provide quarterly updates on Sync Platform
+progress to the board, including financial performance against the $145,572 budget
+and key milestones. Grace Mwangi from Finance will prepare the reports.
+
+Risk acknowledgment: the resolution includes a risk disclosure covering technology
+risk, market risk, and the competitive landscape in the MessageBroker space. The
+board's fiduciary obligations are addressed in section 120.
+
+Signing: we need signatures from 185ms board members for a valid resolution.
+I've prepared the signature pages and will route via DocuSign on Wednesday, May 22. The
+effective date of the resolution will be the date of the last required signature.
+
+Please review the draft and send any comments by Wednesday, May 22.
+
+Talk soon,
+Maria

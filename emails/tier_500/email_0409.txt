@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-16 06:53 AM
+Subject: Budget review â€” Marketing department Q2
+
+Hi team,
+
+Here's the Q2 budget review for the Marketing department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $380,291 against a budget of 98ms. The 11% variance is
+primarily driven by the accelerated ReportingEngine hiring that was approved mid-quarter.
+Personnel costs came in at 333ms which includes the 175 new hires.
+
+Overages: the load balancer infrastructure line item exceeded budget by 11% due
+to the unplanned scaling requirements for Enterprise Suite. I've worked with Tomoko Nakamura
+from Engineering to project the run rate going forward â€” we should budget an
+additional $380,291 per quarter for this category.
+
+Underspend: the ReportingEngine consulting budget was only 11% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 11%
+of the total annual budget. The main risk is the load balancer cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Talk soon,
+Grace

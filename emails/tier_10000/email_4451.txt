@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-08-23 02:40 AM
+Subject: Tax planning â€” Q4 estimated payments
+
+Hey everyone,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the NotificationEngine investment
+deductions.
+
+Federal estimate: $498,426 based on projected taxable income of 450ms.
+This reflects the NotificationEngine depreciation deductions and the R&D tax credit for
+the Sync Platform development costs. Sanjay Krishnamurthy from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $498,426 for our primary jurisdiction and 479ms for the
+Singapore office based on the apportionment factors. The Singapore rate change that
+takes effect on Wednesday, October 19 will impact our Q4 estimate by approximately 151
+percent.
+
+International: with the Singapore office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Sanjay Krishnamurthy to handle
+the registration. Setup cost is $498,426 with ongoing compliance costs of
+479ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Wednesday, October 19. I'll prepare the
+payment authorization for your signature by September 20. Underpayment penalties
+start at 54% so timely filing is important.
+
+Best,
+Ananya

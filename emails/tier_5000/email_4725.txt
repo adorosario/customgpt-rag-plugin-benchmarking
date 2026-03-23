@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-10-29 06:02 PM
+Subject: FP&A update â€” Data Vault financial model
+
+Good morning,
+
+I've updated the Data Vault financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 50 per month based
+on the last 291ms months of data. Average contract value is tracking at
+$337,160, which is 14% above our original assumption. The WebhookDispatcher
+upsell rate of 125ms is a positive trend.
+
+Cost structure: the config manager hosting costs are running 14% higher than
+modeled due to increased WebhookDispatcher usage. I've adjusted the variable cost
+per customer from 291ms to 125ms. Sanjay Krishnamurthy from Engineering
+says the optimization project should bring this down by 14% in Q4.
+
+Break-even analysis: with the revised numbers, Data Vault reaches contribution
+margin break-even at 50 customers, which we're projected to hit by Wednesday, November 19.
+Full break-even including allocated overhead comes at 291ms customers.
+
+Scenarios: the base case shows $337,160 in cumulative revenue by year end. The
+upside case with the Cyberdyne deal closing hits 125ms. Downside case
+assuming 14% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Thanks,
+Robert

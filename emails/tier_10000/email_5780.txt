@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-10-22 03:00 PM
+Subject: Re: Customer story â€” Soylent Corp case study
+
+Hey,
+
+Great update on the Soylent Corp case study. I've finished the first draft and want
+to share the results we're highlighting.
+
+Headline stat: Soylent Corp saw a 36% reduction in event bus processing time
+after deploying Enterprise Suite. This translates to $450,129 in annual cost savings
+based on their team size of 53 people.
+
+Story arc: the narrative follows their journey from evaluating DataPipeline
+alternatives to full deployment. The strongest section is the quote from their CTO
+about how Enterprise Suite simplified their event bus workflow.
+
+Approval status: Soylent Corp's marketing team has reviewed and approved the draft with
+minor edits. They're comfortable with us publishing by Wednesday, July 25. Hannah Goldstein coordinated
+the approval process.
+
+Distribution plan: blog post with pull quotes, one-page PDF for Sales enablement,
+and a 53-minute video summary. The video production is scheduled for next week.
+
+Can you review the draft and send feedback by Wednesday, July 25? I want to finalize before
+the Q3 campaign kickoff.
+
+Talk soon,
+James

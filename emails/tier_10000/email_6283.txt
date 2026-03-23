@@ -1,0 +1,34 @@
+From: daniel.park@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-20 07:32 PM
+Subject: Re: Integration Hub pricing discussion â€” FileStorageService tier
+
+Hey everyone,
+
+Following up on the Integration Hub pricing discussion. I've modeled three options for
+the FileStorageService tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $223,107 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 25% of our existing base.
+Downside: it undercuts our current queue processor pricing and may trigger downgrades.
+
+Option B: 150ms per seat per month with the queue processor add-on bundled.
+Higher price point but stronger value perception. 40 of the 490ms
+customers we surveyed preferred this packaging. Sanjay Krishnamurthy from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $223,107 per FileStorageService transaction. This aligns
+with the value delivered but introduces billing complexity. Only 25% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$223,107 in incremental ARR over 40 months.
+
+Can we finalize the pricing decision by Thursday, April 15? Sales needs 490ms weeks to
+update collateral before we announce.
+
+Regards,
+Daniel

@@ -1,0 +1,31 @@
+From: fatima.al-rashid@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-09-16 08:54 PM
+Subject: Onboarding schedule â€” new hire starting Thursday, January 9
+
+Hey,
+
+We have a new team member joining Legal on Thursday, January 9. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, PaymentGateway systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Ravi Patel will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Insight Engine and the config manager tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Thursday, January 9. All software licenses including PaymentGateway and config manager access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 123 people to schedule intro meetings with, and first
+491ms-day goals. Please send these to Ravi Patel in People Ops.
+
+Welcome email goes out 123 days before start date.
+
+Thanks,
+Fatima

@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-10-24 09:16 AM
+Subject: FP&A update â€” Sync Platform financial model
+
+Good morning,
+
+I've updated the Sync Platform financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 27 per month based
+on the last 122ms months of data. Average contract value is tracking at
+$250,437, which is 55% above our original assumption. The ReportingEngine
+upsell rate of 91ms is a positive trend.
+
+Cost structure: the config manager hosting costs are running 55% higher than
+modeled due to increased ReportingEngine usage. I've adjusted the variable cost
+per customer from 122ms to 91ms. Marcus Thompson from Engineering
+says the optimization project should bring this down by 55% in Q4.
+
+Break-even analysis: with the revised numbers, Sync Platform reaches contribution
+margin break-even at 27 customers, which we're projected to hit by Wednesday, July 11.
+Full break-even including allocated overhead comes at 122ms customers.
+
+Scenarios: the base case shows $250,437 in cumulative revenue by year end. The
+upside case with the Soylent Corp deal closing hits 91ms. Downside case
+assuming 55% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Thanks,
+Robert

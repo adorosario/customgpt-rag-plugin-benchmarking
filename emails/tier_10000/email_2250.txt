@@ -1,0 +1,32 @@
+From: amara.diallo@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-16 01:59 PM
+Subject: Sprint planning â€” Sync Platform sprint v5.0.0-beta
+
+Hi,
+
+Here's the sprint plan for Sync Platform sprint v5.0.0-beta. Capacity is 121 story
+points with 277ms engineers available this sprint.
+
+Committed stories: the AuditLog integration work carries over from last sprint
+with 391ms points remaining. The new authentication module API endpoints are
+estimated at 121 points. The bug fix for the AuditLog rendering issue
+is 277ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the authentication module performance
+optimization that Laura Kim has been scouting. It's estimated at 121 points
+and would improve response time by 6%.
+
+Dependencies: the AuditLog feature requires the API changes that Laura Kim
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The authentication module work is self-contained.
+
+Risks: Laura Kim is on-call this sprint which historically reduces their available
+capacity by 6%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Friday, July 1. Let me know if the priorities look right.
+
+Best,
+Amara

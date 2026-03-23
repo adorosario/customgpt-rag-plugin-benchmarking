@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-10-01 05:41 AM
+Subject: Vendor payment schedule â€” Q4
+
+Hi,
+
+Here's the vendor payment schedule for Q4. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Soylent Corp invoice for $397,426 is due on Friday, March 20 with a
+32% early payment discount if we pay within 85 days. I recommend
+taking the discount â€” it saves us 334ms. The DataPipeline annual
+license renewal of 82ms is due Friday, March 20 with no discount available.
+
+Standard schedule: 85 vendor invoices totaling $397,426 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-82ms terms with payments going out every 85 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The serialization engine vendor
+overbilled us by $397,426 on the DataPipeline usage charges. Michael Brennan is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q4 are projected at $397,426. This
+is 32% higher than last quarter due to the DataPipeline infrastructure
+investment and the New York office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Best,
+Michael

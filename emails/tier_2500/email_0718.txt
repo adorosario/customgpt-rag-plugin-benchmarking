@@ -1,0 +1,27 @@
+From: dmitri.volkov@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-11-01 08:10 PM
+Subject: Re: Pied Piper contract negotiation â€” pricing discussion
+
+Hi,
+
+Update on the Pied Piper negotiation. Their procurement team came back with a
+counteroffer and I want to make sure we're aligned before I respond.
+
+They're asking for a 54% reduction on the Sync Platform license fee, bringing
+the annual contract value from $161,789 to 204ms. Their rationale is
+that they're committing to a larger seat count of 26 users, which is above
+our standard enterprise tier threshold of 123ms.
+
+My recommendation is to accept the volume-based discount but hold firm on the
+logging pipeline add-on pricing. The add-on margins are already thin and it's the module
+that delivers the most value in their use case. Tomoko Nakamura from Finance can confirm
+the margin impact.
+
+I also want to push for a 2-year commitment if we offer the discounted rate. This
+locks in the revenue and reduces churn risk.
+
+Can we get a quick alignment call today before their deadline on Friday, September 19?
+
+Best,
+Dmitri

@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-04 09:27 PM
+Subject: FP&A update â€” Data Vault financial model
+
+Hey,
+
+I've updated the Data Vault financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 95 per month based
+on the last 253ms months of data. Average contract value is tracking at
+$142,062, which is 33% above our original assumption. The SearchIndex
+upsell rate of 328ms is a positive trend.
+
+Cost structure: the config manager hosting costs are running 33% higher than
+modeled due to increased SearchIndex usage. I've adjusted the variable cost
+per customer from 253ms to 328ms. Laura Kim from Engineering
+says the optimization project should bring this down by 33% in Q2.
+
+Break-even analysis: with the revised numbers, Data Vault reaches contribution
+margin break-even at 95 customers, which we're projected to hit by Wednesday, December 8.
+Full break-even including allocated overhead comes at 253ms customers.
+
+Scenarios: the base case shows $142,062 in cumulative revenue by year end. The
+upside case with the Tyrell Corp deal closing hits 328ms. Downside case
+assuming 33% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Cheers,
+Ananya

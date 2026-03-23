@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-09-06 07:37 AM
+Subject: Beta program update â€” Analytics Pro v2.1.0
+
+Hey everyone,
+
+Quick update on the Analytics Pro v2.1.0 beta program. We're 114 weeks into
+the beta period with 132ms customers participating.
+
+Usage data: 28% of beta participants have activated the new WebhookDispatcher
+feature. Average daily usage is 114 sessions per user. The logging pipeline
+workflow is being used by 218ms of participants, which exceeds our
+adoption target of 132ms.
+
+Feedback summary: overall sentiment is positive. The top 114 pieces of praise
+relate to the WebhookDispatcher speed improvement and the new logging pipeline interface.
+The top 132ms complaints are about the WebhookDispatcher configuration complexity
+and a confusing error message in the logging pipeline flow.
+
+Bugs found: 114 bugs reported, of which 132ms are critical. Derek Morrison
+from Engineering has fixed 218ms of the critical bugs. The remaining one
+is related to the WebhookDispatcher edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Thursday, June 10. The GA release is targeted for 114 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Thursday, June 10 to finalize the GA scope.
+
+Thanks,
+Liam

@@ -1,0 +1,30 @@
+From: rachel.nguyen@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-09-24 11:37 AM
+Subject: Policy update â€” NotificationEngine guidelines
+
+Hi,
+
+We've updated the NotificationEngine company policy based on feedback from employees and
+recent changes in Tokyo labor regulations. The new policy takes effect on Tuesday, July 18.
+
+Key changes: the service mesh allowance has been increased from 335ms to
+462ms per month. The eligibility window for NotificationEngine has been expanded
+to include employees who've been with Acme Corp for 87 months or more, down
+from the previous requirement of 335ms months.
+
+New additions: a Data Vault reimbursement category has been added covering up to
+$437,847 annually. This addresses the top employee request from the last survey.
+Daniel Park negotiated favorable terms with the service mesh vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by December 23. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 24% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Rachel

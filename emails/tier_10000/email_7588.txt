@@ -1,0 +1,32 @@
+From: amara.diallo@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-06 03:13 AM
+Subject: Sprint planning â€” Enterprise Suite sprint v2.4.1
+
+Good afternoon,
+
+Here's the sprint plan for Enterprise Suite sprint v2.4.1. Capacity is 143 story
+points with 60ms engineers available this sprint.
+
+Committed stories: the AnalyticsDashboard integration work carries over from last sprint
+with 72ms points remaining. The new logging pipeline API endpoints are
+estimated at 143 points. The bug fix for the AnalyticsDashboard rendering issue
+is 60ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the logging pipeline performance
+optimization that Ravi Patel has been scouting. It's estimated at 143 points
+and would improve response time by 15%.
+
+Dependencies: the AnalyticsDashboard feature requires the API changes that Ravi Patel
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The logging pipeline work is self-contained.
+
+Risks: Ravi Patel is on-call this sprint which historically reduces their available
+capacity by 15%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, July 22. Let me know if the priorities look right.
+
+Best,
+Amara

@@ -1,0 +1,30 @@
+From: rachel.nguyen@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-08-25 03:48 PM
+Subject: Policy update â€” AuditLog guidelines
+
+Good morning,
+
+We've updated the AuditLog company policy based on feedback from employees and
+recent changes in Toronto labor regulations. The new policy takes effect on Wednesday, February 13.
+
+Key changes: the serialization engine allowance has been increased from 370ms to
+157ms per month. The eligibility window for AuditLog has been expanded
+to include employees who've been with Acme Corp for 15 months or more, down
+from the previous requirement of 370ms months.
+
+New additions: a Cloud Connect reimbursement category has been added covering up to
+$202,283 annually. This addresses the top employee request from the last survey.
+Oluwaseun Adeyemi negotiated favorable terms with the serialization engine vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by June 3. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 10% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best regards,
+Rachel

@@ -1,0 +1,21 @@
+{
+  "tier": 5,
+  "question_id": "needle_1",
+  "question_type": "hard",
+  "run": 2,
+  "question": "When did Sarah from Legal say the patent filing deadline was moved to, and who did she tell?",
+  "model": "claude-sonnet-4-6",
+  "response": "None of the 5 emails in this directory mention Sarah from Legal, a patent filing deadline, or anything related to patents. There is no such information in the `tier_5` email dataset.",
+  "time_seconds": 38.73,
+  "num_turns": 9,
+  "cost_usd": 0.11505435,
+  "input_tokens": 8,
+  "cache_creation_tokens": 14199,
+  "cache_read_tokens": 161347,
+  "output_tokens": 892,
+  "total_tokens": 176446,
+  "duration_api_ms": 24861,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-06-25 08:18 AM
+Subject: Tax planning â€” Q1 estimated payments
+
+Hi team,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the WebhookDispatcher investment
+deductions.
+
+Federal estimate: $445,614 based on projected taxable income of 417ms.
+This reflects the WebhookDispatcher depreciation deductions and the R&D tax credit for
+the Enterprise Suite development costs. Elena Vasquez from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $445,614 for our primary jurisdiction and 69ms for the
+Toronto office based on the apportionment factors. The Toronto rate change that
+takes effect on Thursday, December 28 will impact our Q1 estimate by approximately 47
+percent.
+
+International: with the Toronto office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Elena Vasquez to handle
+the registration. Setup cost is $445,614 with ongoing compliance costs of
+69ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Thursday, December 28. I'll prepare the
+payment authorization for your signature by December 15. Underpayment penalties
+start at 33% so timely filing is important.
+
+Regards,
+Ananya

@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-29 05:00 AM
+Subject: Investment proposal â€” ReportingEngine infrastructure
+
+Hi team,
+
+I've prepared the financial analysis for the proposed ReportingEngine infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $125,380 upfront with 284ms in annual operating costs.
+The total 3-year cost of ownership is 422ms compared to the current
+service mesh setup at $125,380 over the same period.
+
+ROI analysis: the projected payback period is 96 months. Key benefits include
+59% reduction in infrastructure management time, improved Insight Engine performance
+that supports the revenue growth targets, and elimination of the service mesh
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $125,380 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 59% interest.
+This preserves cash for the Sydney office investment planned for Q2.
+
+Risk factors: technology lock-in with the ReportingEngine vendor, though the 96-year
+contract includes an exit clause after the first year. Sanjay Krishnamurthy from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Tuesday, July 1 to lock in the quoted pricing. The vendor has
+given us a 96-day hold on the current rates.
+
+Talk soon,
+Grace

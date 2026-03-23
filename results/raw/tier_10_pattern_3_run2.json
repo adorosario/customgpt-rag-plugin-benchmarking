@@ -1,0 +1,21 @@
+{
+  "tier": 10,
+  "question_id": "pattern_3",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What issues has Initech reported and how is the team responding?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the two emails mentioning Initech:\n\n**Issues Reported:**\n- **API latency complaints** \u00e2\u20ac\u201d Initech raised concerns about API response times and performance (email_0005, email_0006)\n- **SLA breach** \u00e2\u20ac\u201d A performance SLA breach was flagged (email_0006 subject line)\n\n**Team Response:**\nBoth emails (from Wei Zhang and Tomoko Nakamura) describe progress being made, but the content is notably vague \u00e2\u20ac\u201d repeating generic phrases like \"the team has been focused on delivering results\" for each aspect without specific details. The actual remediation steps or resolution timeline are not substantiated in either email.\n\nIn short: Initech reported API latency/SLA issues, and the team claims to be making progress, but neither email provides concrete action items or resolution specifics.",
+  "time_seconds": 32.23,
+  "num_turns": 5,
+  "cost_usd": 0.0888138,
+  "input_tokens": 6,
+  "cache_creation_tokens": 12758,
+  "cache_read_tokens": 103211,
+  "output_tokens": 666,
+  "total_tokens": 116641,
+  "duration_api_ms": 21082,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

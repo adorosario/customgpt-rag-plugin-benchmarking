@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-07-18 02:42 AM
+Subject: Event planning â€” Insight Engine webinar on Friday, January 22
+
+Hey,
+
+Finalizing details for the Insight Engine webinar on Friday, January 22. Here's where we stand on
+the logistics and promotion.
+
+Content: Tomoko Nakamura from Product will present the FileStorageService roadmap segment.
+I'll handle the intro and customer story. We're targeting a 38-minute
+presentation followed by 153ms minutes of live Q&A. The serialization engine demo
+segment should be the highlight.
+
+Registration: we've had 141ms sign-ups so far. Goal is 153ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Insight Engine keywords.
+
+Tech setup: using the standard webinar platform. Tomoko Nakamura will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Friday, January 22 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 38 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Best regards,
+Sofia

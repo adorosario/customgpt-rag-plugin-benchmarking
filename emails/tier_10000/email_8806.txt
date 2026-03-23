@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-07-13 12:51 PM
+Subject: Financial close checklist â€” Q2
+
+Hi,
+
+The Q2 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Cloud Connect invoices must be issued by Wednesday, February 5. Any revenue recognition
+adjustments for the FileStorageService contracts need supporting documentation uploaded
+to queue processor. Maria Santos from Sales must confirm final deal amounts by February 12.
+
+Expenses: all expense reports for Q2 must be submitted by Wednesday, February 5. The
+FileStorageService vendor invoices totaling $209,313 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, FileStorageService subscription costs,
+and the queue processor usage charges by Wednesday, February 5. Any non-standard accruals above
+56ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, FileStorageService account reconciliation, and
+inter-company balances must be completed by Wednesday, February 5. Maria Santos is handling the
+bank rec. I'll take the inter-company items since they involve the New York entity.
+
+Target: books closed within 121 business days of quarter end. Final reporting
+package to leadership by Wednesday, February 5.
+
+Best,
+Grace

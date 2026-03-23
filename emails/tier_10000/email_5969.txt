@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-07-22 02:41 PM
+Subject: Re: Customer story â€” Cyberdyne case study
+
+Hi all,
+
+Great update on the Cyberdyne case study. I've finished the first draft and want
+to share the results we're highlighting.
+
+Headline stat: Cyberdyne saw a 37% reduction in metrics collector processing time
+after deploying Insight Engine. This translates to $481,262 in annual cost savings
+based on their team size of 62 people.
+
+Story arc: the narrative follows their journey from evaluating AuditLog
+alternatives to full deployment. The strongest section is the quote from their CTO
+about how Insight Engine simplified their metrics collector workflow.
+
+Approval status: Cyberdyne's marketing team has reviewed and approved the draft with
+minor edits. They're comfortable with us publishing by Wednesday, December 1. Patrick O'Brien coordinated
+the approval process.
+
+Distribution plan: blog post with pull quotes, one-page PDF for Sales enablement,
+and a 62-minute video summary. The video production is scheduled for next week.
+
+Can you review the draft and send feedback by Wednesday, December 1? I want to finalize before
+the Q4 campaign kickoff.
+
+Regards,
+Laura

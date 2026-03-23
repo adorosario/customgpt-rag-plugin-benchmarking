@@ -1,0 +1,32 @@
+From: amara.diallo@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-09-09 05:00 PM
+Subject: Feature spec â€” PaymentGateway integration
+
+Hey everyone,
+
+The feature spec for the PaymentGateway integration is ready for review. This is
+targeting the v2.7.3 release in Q2.
+
+Problem statement: 56% of our enterprise prospects cite the lack of
+PaymentGateway integration as a blocker. The current workaround through the
+metrics collector API is unreliable and requires 167 hours of custom development
+from customers.
+
+Proposed solution: native PaymentGateway integration with bi-directional sync.
+Users configure the connection through the Cloud Connect settings page and data
+flows automatically. The sync runs every 319ms minutes with conflict
+resolution handled by our algorithm.
+
+Scope: phase 1 covers read and write operations for the core PaymentGateway objects.
+Phase 2 adds real-time webhooks and custom field mapping. Fatima Al-Rashid from Engineering
+estimates 167 sprints for phase 1 and 319ms for phase 2.
+
+Success metrics: 167 enterprise customers adopt the integration within 90 days
+of launch, PaymentGateway related support tickets decrease by 56%, and the
+feature contributes to $438,323 in new ARR.
+
+Please review the full spec in Confluence and leave comments by Monday, June 15.
+
+Best regards,
+Amara

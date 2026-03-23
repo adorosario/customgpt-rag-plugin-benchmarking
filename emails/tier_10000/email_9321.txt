@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-08 07:47 PM
+Subject: Audit preparation â€” Q4 review
+
+Hello,
+
+The Q4 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Globex are scheduled to begin fieldwork
+on Monday, June 24.
+
+Documentation needed from each department: all purchase orders above 96ms,
+contract modifications executed during Q4, headcount changes with supporting
+approvals, and NotificationEngine system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the metrics collector audit portal by Monday, June 24.
+That gives us 116 business days before the auditors arrive. Robert Kimura has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Integration Hub contracts, the NotificationEngine capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $250,957 in capitalized NotificationEngine costs and the methodology used.
+
+This is our 116 year with Globex as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Robert Kimura if you have
+questions about what's needed.
+
+Best,
+Ananya

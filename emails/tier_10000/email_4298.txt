@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-07-12 01:52 PM
+Subject: Revenue recognition â€” Cloud Connect contracts
+
+Hey everyone,
+
+I need to walk through the revenue recognition treatment for the new Cloud Connect
+contracts signed this quarter. We have 145 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Stark Industries contract bundles Cloud Connect licenses with
+caching layer implementation services. I've determined the standalone selling prices
+and allocated $455,704 to the license component and 314ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 145-month implementation period.
+
+Variable consideration: 479ms contracts include performance bonuses tied to
+PaymentGateway uptime metrics. Using the expected value method, I've estimated
+$455,704 in variable consideration based on our historical performance of
+41% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Stark Industries amendment added caching layer capacity at
+$455,704 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Tomoko Nakamura from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Thursday, June 18.
+
+Regards,
+Michael

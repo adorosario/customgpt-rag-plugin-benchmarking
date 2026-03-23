@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: derek.morrison@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-07 03:19 AM
+Subject: Beta program update â€” Cloud Connect v4.1.0
+
+Good afternoon,
+
+Quick update on the Cloud Connect v4.1.0 beta program. We're 102 weeks into
+the beta period with 187ms customers participating.
+
+Usage data: 55% of beta participants have activated the new CacheLayer
+feature. Average daily usage is 102 sessions per user. The queue processor
+workflow is being used by 207ms of participants, which exceeds our
+adoption target of 187ms.
+
+Feedback summary: overall sentiment is positive. The top 102 pieces of praise
+relate to the CacheLayer speed improvement and the new queue processor interface.
+The top 187ms complaints are about the CacheLayer configuration complexity
+and a confusing error message in the queue processor flow.
+
+Bugs found: 102 bugs reported, of which 187ms are critical. Mei Lin
+from Engineering has fixed 207ms of the critical bugs. The remaining one
+is related to the CacheLayer edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Monday, August 20. The GA release is targeted for 102 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Monday, August 20 to finalize the GA scope.
+
+Regards,
+Liam

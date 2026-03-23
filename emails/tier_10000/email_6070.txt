@@ -1,0 +1,33 @@
+From: amara.diallo@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-07-02 08:24 AM
+Subject: Customer feedback digest â€” Data Vault Q3
+
+Hey,
+
+Here's the quarterly customer feedback digest for Data Vault. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 56, up 421ms points from last quarter. The improvement
+is driven by the AuthService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 32%.
+
+Top feature requests: AuthService advanced filtering (56 votes), metrics collector
+bulk operations (421ms votes), and enhanced Data Vault reporting (232ms
+votes). The filtering request aligns with what we heard in the user research study
+Aisha Okafor conducted.
+
+Top complaints: AuthService performance during peak hours (56 mentions),
+the metrics collector onboarding experience (421ms mentions), and pricing
+transparency (232ms mentions). The performance issue is being addressed
+by Engineering â€” Aisha Okafor expects the fix in v2.6.0.
+
+Churn insights: 56 customers churned this quarter citing AuthService
+limitations as the primary reason. The metrics collector overhaul on our roadmap directly
+addresses their feedback. 32% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Tuesday, April 19.
+
+Thanks,
+Amara

@@ -1,0 +1,28 @@
+From: derek.morrison@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-11-20 07:13 PM
+Subject: Quarterly territory review â€” Q3
+
+Hey everyone,
+
+Here's my territory review for Q3. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 63 qualified opportunities worth a combined $135,863 in
+ARR. The largest deal is Soylent Corp at 282ms, which I expect to close by
+Wednesday, November 19. Three other deals in the 245ms range are progressing through
+procurement.
+
+Wins this quarter: closed Soylent Corp for Insight Engine with a 21% upsell from
+their initial scope. The serialization engine add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Alex Chen to the Soylent Corp executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Cheers,
+Derek

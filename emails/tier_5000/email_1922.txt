@@ -1,0 +1,28 @@
+From: ravi.patel@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-10-16 11:49 PM
+Subject: Feature flag cleanup â€” FileStorageService v4.1.0
+
+Good morning,
+
+Time for our quarterly feature flag cleanup in FileStorageService. We have 160 flags
+in the system and several of them are stale.
+
+Flags to remove: the caching layer migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The FileStorageService experiment flag
+was concluded last sprint with a decision to ship â€” Marcus Thompson will hardcode the
+winning variant.
+
+Flags to keep: the v4.1.0 rollout flag should stay until we've confirmed
+stability at 163ms traffic. The caching layer kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 446ms lines of dead code and simplify the conditional logic in
+34% of the affected modules.
+
+Please claim the tickets for flags in your area by Tuesday, May 22. Target completion is end
+of sprint.
+
+Thanks,
+Ravi

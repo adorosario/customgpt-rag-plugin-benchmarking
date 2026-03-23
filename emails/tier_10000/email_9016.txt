@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-08-29 06:27 PM
+Subject: A/B test results â€” AuthService experiment
+
+Good afternoon,
+
+The AuthService A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 23 days with 259ms users in each cohort.
+
+Variant A (control): the existing service mesh flow. Conversion rate of
+68ms with an average task completion time of 23 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified AuthService step.
+Conversion rate of 259ms with task completion time of 68ms seconds.
+This represents a 54% improvement in conversion and 23 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 23 to 259ms
+in the treatment group. Support ticket volume for AuthService related issues
+decreased by 54%. No negative impact on service mesh engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Yuki Sato from Engineering can have this
+deployed by Friday, April 17.
+
+One caveat: the test population skewed toward Insight Engine power users. We should
+monitor new user behavior closely for the first 23 weeks after full rollout.
+
+Talk soon,
+Sanjay

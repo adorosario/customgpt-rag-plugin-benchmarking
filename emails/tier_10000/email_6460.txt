@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-08-29 11:37 AM
+Subject: Analytics report â€” Cloud Connect campaign performance
+
+Good afternoon,
+
+Here's the performance report for the Cloud Connect campaign through Thursday, June 7.
+
+Website traffic: up 54% month over month, driven primarily by the CacheLayer
+comparison blog post which brought in 147 unique visitors. Organic search is
+growing steadily â€” the event bus keyword cluster is now ranking on page one.
+
+Lead generation: 301ms marketing qualified leads this month against a
+target of 178ms. The whitepaper download page converted at 54% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 147 percent.
+
+Email campaigns: the Cloud Connect nurture sequence has a 54% open rate and
+147 percent click-through rate. The top-performing email was the CacheLayer
+case study with Massive Dynamic. Mei Lin suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $25,822 which is 54% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Cheers,
+Sofia

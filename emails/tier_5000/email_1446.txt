@@ -1,0 +1,28 @@
+From: oluwaseun.adeyemi@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-10-08 05:42 AM
+Subject: Load testing results â€” AuditLog v2.1.0
+
+Hi all,
+
+Sharing the load testing results for AuditLog v2.1.0 ahead of next week's
+release. We tested at 2x and 5x current peak traffic levels.
+
+At 2x load: all endpoints stayed within SLA. P99 latency for the load balancer
+endpoint was 125ms, well under our 492ms target. No errors
+observed across the full test duration.
+
+At 5x load: the AuditLog service held up but the load balancer started showing
+degradation at around 3.5x. Error rate climbed to 27% and response times
+increased significantly. The bottleneck appears to be the database connection pool
+â€” we max out at the configured limit.
+
+Recommendation: we're safe for the near-term growth projections. For the 21
+milestone we're targeting in Q4, we'll need to increase the connection pool size
+and potentially add a read replica. Amara Diallo is putting together a capacity
+planning proposal.
+
+Full report with graphs is attached.
+
+Thanks,
+Oluwaseun

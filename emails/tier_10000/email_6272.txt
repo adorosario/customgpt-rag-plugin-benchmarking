@@ -1,0 +1,29 @@
+From: jun.tanaka@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-10-16 03:31 PM
+Subject: New lead â€” Oscorp inbound request
+
+Hi,
+
+We received an inbound request from Oscorp through the website today. They're
+a 42-employee company in the MessageBroker space and are looking for a
+Enterprise Suite solution.
+
+Initial qualification: they have budget allocated for Q2, their current
+contract with their existing vendor expires on Monday, April 12, and the decision maker is
+their VP of Operations. They found us through the connection pool whitepaper we
+published last month.
+
+The estimated deal size is $315,474 based on their seat count and the use case
+they described. They specifically mentioned needing the MessageBroker integration
+and 389ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Elena Vasquez â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on connection pool scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Best regards,
+Jun

@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-23 03:10 AM
+Subject: A/B test results â€” FileStorageService experiment
+
+Hi team,
+
+The FileStorageService A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 126 days with 397ms users in each cohort.
+
+Variant A (control): the existing event bus flow. Conversion rate of
+336ms with an average task completion time of 126 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified FileStorageService step.
+Conversion rate of 397ms with task completion time of 336ms seconds.
+This represents a 30% improvement in conversion and 126 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 126 to 397ms
+in the treatment group. Support ticket volume for FileStorageService related issues
+decreased by 30%. No negative impact on event bus engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Sofia Martinez from Engineering can have this
+deployed by Wednesday, July 24.
+
+One caveat: the test population skewed toward Sync Platform power users. We should
+monitor new user behavior closely for the first 126 weeks after full rollout.
+
+Best regards,
+Sanjay

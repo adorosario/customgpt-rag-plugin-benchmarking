@@ -1,0 +1,21 @@
+{
+  "tier": 500,
+  "question_id": "pattern_4",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What are the plans for the annual company retreat?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about company retreat plans. This isn't something stored in my memory or accessible through the project files I can see.\n\nYou might want to check with your team directly, look in internal communication channels (Slack, email), or check any shared company documents.",
+  "time_seconds": 15.91,
+  "num_turns": 1,
+  "cost_usd": 0.0481038,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10874,
+  "cache_read_tokens": 17541,
+  "output_tokens": 137,
+  "total_tokens": 28555,
+  "duration_api_ms": 4326,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

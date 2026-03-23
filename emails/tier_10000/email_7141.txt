@@ -1,0 +1,27 @@
+From: carlos.rivera@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-21 11:45 AM
+Subject: Re: Massive Dynamic renewal â€” risk assessment
+
+Hello,
+
+Following up on the Massive Dynamic renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing AuthService latency issues for the past 163 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Massive Dynamic has mentioned they're evaluating alternatives for their caching layer needs.
+
+The renewal is worth $125,234 annually and is up for renewal at the end of
+Q2. I think we need a proactive retention strategy. My proposal:
+
+First, get Marcus Thompson from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 44% discount
+on the expanded Analytics Pro tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Best regards,
+Carlos

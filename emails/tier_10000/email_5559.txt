@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-10-31 12:50 AM
+Subject: Re: Employee survey results â€” Q2
+
+Hello,
+
+The Q2 employee engagement survey results are in. Response rate was 18%,
+up 67 points from the last survey. Here are the key findings.
+
+Overall satisfaction: 178ms out of 5, which is consistent with the
+previous quarter. The HR department scored highest at 230ms while the
+FileStorageService team showed the largest improvement at plus 67 points.
+
+Top strengths: colleagues and team culture scored 178ms, manager
+effectiveness scored 230ms, and work-life balance scored 67. Employees
+particularly appreciated the flexible connection pool policy and the recent team events.
+
+Areas for improvement: career development pathways scored lowest at 67 out of 5.
+Employees want more clarity on promotion criteria and more frequent feedback.
+Cross-department communication was another area flagged â€” 18% of respondents
+said they don't have enough visibility into what other teams are working on.
+
+Action plan: Rachel Nguyen is leading a working group to address the career development
+feedback. We'll publish a response with specific commitments by Thursday, July 15.
+
+Department-level reports will be shared with managers this week.
+
+Cheers,
+Fatima

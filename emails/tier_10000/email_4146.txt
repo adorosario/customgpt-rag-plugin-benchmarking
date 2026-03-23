@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-10-11 06:05 AM
+Subject: Customer feedback digest â€” Data Vault Q4
+
+Hey everyone,
+
+Here's the quarterly customer feedback digest for Data Vault. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 34, up 336ms points from last quarter. The improvement
+is driven by the DataPipeline launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 25%.
+
+Top feature requests: DataPipeline advanced filtering (34 votes), queue processor
+bulk operations (336ms votes), and enhanced Data Vault reporting (271ms
+votes). The filtering request aligns with what we heard in the user research study
+Mei Lin conducted.
+
+Top complaints: DataPipeline performance during peak hours (34 mentions),
+the queue processor onboarding experience (336ms mentions), and pricing
+transparency (271ms mentions). The performance issue is being addressed
+by Engineering â€” Mei Lin expects the fix in v3.0.0.
+
+Churn insights: 34 customers churned this quarter citing DataPipeline
+limitations as the primary reason. The queue processor overhaul on our roadmap directly
+addresses their feedback. 25% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Thursday, April 9.
+
+Thanks,
+Mei

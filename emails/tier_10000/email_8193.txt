@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-03 03:58 AM
+Subject: Re: Wayne Enterprises contract negotiation â€” pricing discussion
+
+Hello,
+
+Update on the Wayne Enterprises negotiation. Their procurement team came back with a
+counteroffer and I want to make sure we're aligned before I respond.
+
+They're asking for a 11% reduction on the Integration Hub license fee, bringing
+the annual contract value from $129,820 to 454ms. Their rationale is
+that they're committing to a larger seat count of 96 users, which is above
+our standard enterprise tier threshold of 451ms.
+
+My recommendation is to accept the volume-based discount but hold firm on the
+event bus add-on pricing. The add-on margins are already thin and it's the module
+that delivers the most value in their use case. Yuki Sato from Finance can confirm
+the margin impact.
+
+I also want to push for a 2-year commitment if we offer the discounted rate. This
+locks in the revenue and reduces churn risk.
+
+Can we get a quick alignment call today before their deadline on Tuesday, January 3?
+
+Talk soon,
+Dmitri

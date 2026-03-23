@@ -1,0 +1,29 @@
+From: dmitri.volkov@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-10-23 01:43 AM
+Subject: Re: Analytics Pro demo feedback from Stark Industries
+
+Hello,
+
+Great news from the Stark Industries demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the queue processor dashboard got the biggest reaction. Their
+current tool requires 123 manual steps to accomplish what our Analytics Pro does
+automatically. The APIGateway integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 212ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v1.9.5 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Michael Brennan, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Analytics Pro trial environment set up for their team of
+123 evaluators. I'll submit the trial request today. Target close date
+remains Tuesday, August 17.
+
+Thanks,
+Dmitri

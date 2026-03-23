@@ -1,0 +1,28 @@
+From: tomoko.nakamura@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-08-05 08:14 AM
+Subject: Feature flag cleanup â€” AuthService v3.0.0
+
+Hey everyone,
+
+Time for our quarterly feature flag cleanup in AuthService. We have 78 flags
+in the system and several of them are stale.
+
+Flags to remove: the authentication module migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The AuthService experiment flag
+was concluded last sprint with a decision to ship â€” Patrick O'Brien will hardcode the
+winning variant.
+
+Flags to keep: the v3.0.0 rollout flag should stay until we've confirmed
+stability at 156ms traffic. The authentication module kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 156ms lines of dead code and simplify the conditional logic in
+31% of the affected modules.
+
+Please claim the tickets for flags in your area by Monday, November 24. Target completion is end
+of sprint.
+
+Talk soon,
+Tomoko

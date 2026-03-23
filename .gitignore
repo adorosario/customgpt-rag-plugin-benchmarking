@@ -1,25 +1,9 @@
-# Generated email data (reproducible via generate.py)
-emails/
-emails_pdf/
-
-# Raw benchmark JSON files
-results/raw/
-results_pdf/raw/
-
-# Technical CSVs (article CSVs are kept)
-results/benchmark_results.csv
-results/benchmark_results_full.csv
-results/benchmark_summary.csv
-results_pdf/benchmark_results.csv
-results_pdf/benchmark_summary.csv
-results_pdf/benchmark_summary_report.csv
-
-# SVG duplicates (PNGs are kept)
-results/charts/*.svg
-results_pdf/charts/*.svg
-
 # Python cache
 __pycache__/
 *.pyc
 .pytest_cache/
 .venv/
+
+# SVG duplicates (PNGs are kept)
+results/charts/*.svg
+results_pdf/charts/*.svg

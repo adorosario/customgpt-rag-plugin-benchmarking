@@ -1,0 +1,29 @@
+From: patrick.obrien@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-11-20 10:24 PM
+Subject: Policy update â€” AuditLog guidelines
+
+Good morning,
+
+We've updated the AuditLog company policy based on feedback from employees and
+recent changes in Sydney labor regulations. The new policy takes effect on Thursday, April 16.
+
+Key changes: the caching layer allowance has been increased from 234ms to
+459ms per month. The eligibility window for AuditLog has been expanded
+to include employees who've been with Acme Corp for 110 months or more, down
+from the previous requirement of 234ms months.
+
+New additions: a Enterprise Suite reimbursement category has been added covering up to
+$391,838 annually. This addresses the top employee request from the last survey.
+Ananya Desai negotiated favorable terms with the caching layer vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by April 6. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 52% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best,
+Patrick

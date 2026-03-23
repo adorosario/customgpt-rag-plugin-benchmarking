@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-06-26 07:55 AM
+Subject: Vendor payment schedule â€” Q1
+
+Hi all,
+
+Here's the vendor payment schedule for Q1. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Massive Dynamic invoice for $295,934 is due on Friday, November 11 with a
+27% early payment discount if we pay within 178 days. I recommend
+taking the discount â€” it saves us 240ms. The BillingModule annual
+license renewal of 187ms is due Friday, November 11 with no discount available.
+
+Standard schedule: 178 vendor invoices totaling $295,934 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-187ms terms with payments going out every 178 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The metrics collector vendor
+overbilled us by $295,934 on the BillingModule usage charges. Oluwaseun Adeyemi is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q1 are projected at $295,934. This
+is 27% higher than last quarter due to the BillingModule infrastructure
+investment and the Singapore office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Talk soon,
+Robert

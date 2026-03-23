@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-06-02 06:24 AM
+Subject: Audit preparation â€” Q1 review
+
+Hey,
+
+The Q1 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Stark Industries are scheduled to begin fieldwork
+on Monday, May 12.
+
+Documentation needed from each department: all purchase orders above 68ms,
+contract modifications executed during Q1, headcount changes with supporting
+approvals, and CacheLayer system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the connection pool audit portal by Monday, May 12.
+That gives us 135 business days before the auditors arrive. Sarah Chen has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Sync Platform contracts, the CacheLayer capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $317,147 in capitalized CacheLayer costs and the methodology used.
+
+This is our 135 year with Stark Industries as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Sarah Chen if you have
+questions about what's needed.
+
+Regards,
+Grace

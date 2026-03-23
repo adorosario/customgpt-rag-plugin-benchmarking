@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-09-13 02:53 PM
+Subject: Social media strategy â€” Q3
+
+Hi all,
+
+Presenting the social media strategy refresh for Q3. Based on our Cloud Connect
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our FileStorageService posts are averaging 56 impressions and 39% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 39% educational content about logging pipeline topics, 56
+percent product highlights, and the rest for company culture and employee spotlights.
+Hannah Goldstein will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Cloud Connect use cases and answer audience questions. First session on Tuesday, April 4 featuring
+Hannah Goldstein.
+
+Budget: $162,939 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 232ms new followers and 124ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Thanks,
+James

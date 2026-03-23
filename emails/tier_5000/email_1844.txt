@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-08-29 02:15 PM
+Subject: Customer feedback digest â€” Cloud Connect Q2
+
+Hi,
+
+Here's the quarterly customer feedback digest for Cloud Connect. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 45, up 481ms points from last quarter. The improvement
+is driven by the FileStorageService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 8%.
+
+Top feature requests: FileStorageService advanced filtering (45 votes), rate limiter
+bulk operations (481ms votes), and enhanced Cloud Connect reporting (204ms
+votes). The filtering request aligns with what we heard in the user research study
+Sarah Chen conducted.
+
+Top complaints: FileStorageService performance during peak hours (45 mentions),
+the rate limiter onboarding experience (481ms mentions), and pricing
+transparency (204ms mentions). The performance issue is being addressed
+by Engineering â€” Sarah Chen expects the fix in v5.0.0-beta.
+
+Churn insights: 45 customers churned this quarter citing FileStorageService
+limitations as the primary reason. The rate limiter overhaul on our roadmap directly
+addresses their feedback. 8% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Tuesday, December 4.
+
+Thanks,
+Mei

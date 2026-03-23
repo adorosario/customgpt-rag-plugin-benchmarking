@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-06-29 01:14 AM
+Subject: Cash flow forecast â€” Q4
+
+Hey,
+
+Attached is the cash flow forecast for Q4. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $337,905 based on the current AR aging
+and sales pipeline. The Massive Dynamic payment of 223ms is expected by Tuesday, June 14
+â€” Aisha Okafor from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the MessageBroker infrastructure
+investment at $337,905. The Sydney office build-out costs will hit in Q4
+with an estimated total of 386ms. Payroll continues at 223ms
+monthly for our 44-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $337,905 in the second month. This provides 44 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Massive Dynamic deal slips from Q4 to next quarter, we'll
+need to draw on the credit facility for $337,905. I've confirmed the line is
+available. Aisha Okafor and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Best regards,
+Grace

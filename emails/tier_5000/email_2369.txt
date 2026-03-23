@@ -1,0 +1,32 @@
+From: yuki.sato@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-06-14 08:00 PM
+Subject: SEO update â€” CacheLayer keyword rankings
+
+Good afternoon,
+
+Monthly SEO update for our CacheLayer content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Sync Platform comparison page climbed from position 102ms to
+position 128ms for our primary keyword. The load balancer guide is now
+ranking in the top 84 for three long-tail variations.
+
+Traffic impact: organic sessions are up 26% month over month. The
+CacheLayer cluster is now driving 84 unique sessions monthly, making it our
+second-highest traffic source behind the Sync Platform landing page.
+
+Content gaps identified: we're missing content for 102ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q3. Kwame Asante from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 128ms on mobile after the image
+optimization work. No crawl errors detected. The new load balancer documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 84 pages. I'll share the
+outreach plan next week.
+
+Best,
+Yuki

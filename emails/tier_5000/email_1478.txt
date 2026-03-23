@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-10-29 06:55 PM
+Subject: Tax planning â€” Q4 estimated payments
+
+Hey,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the DataPipeline investment
+deductions.
+
+Federal estimate: $292,072 based on projected taxable income of 242ms.
+This reflects the DataPipeline depreciation deductions and the R&D tax credit for
+the Integration Hub development costs. Tomoko Nakamura from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $292,072 for our primary jurisdiction and 181ms for the
+Toronto office based on the apportionment factors. The Toronto rate change that
+takes effect on Thursday, July 10 will impact our Q4 estimate by approximately 49
+percent.
+
+International: with the Toronto office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Tomoko Nakamura to handle
+the registration. Setup cost is $292,072 with ongoing compliance costs of
+181ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Thursday, July 10. I'll prepare the
+payment authorization for your signature by November 26. Underpayment penalties
+start at 59% so timely filing is important.
+
+Best regards,
+Grace

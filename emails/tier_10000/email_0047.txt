@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-07-06 10:32 PM
+Subject: Analytics report â€” Data Vault campaign performance
+
+Good afternoon,
+
+Here's the performance report for the Data Vault campaign through Thursday, April 11.
+
+Website traffic: up 56% month over month, driven primarily by the NotificationEngine
+comparison blog post which brought in 67 unique visitors. Organic search is
+growing steadily â€” the queue processor keyword cluster is now ranking on page one.
+
+Lead generation: 250ms marketing qualified leads this month against a
+target of 157ms. The whitepaper download page converted at 56% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 67 percent.
+
+Email campaigns: the Data Vault nurture sequence has a 56% open rate and
+67 percent click-through rate. The top-performing email was the NotificationEngine
+case study with Weyland-Yutani. Michael Brennan suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $134,797 which is 56% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Best,
+Laura

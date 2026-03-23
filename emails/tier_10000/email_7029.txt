@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-04 04:44 AM
+Subject: Budget review â€” Engineering department Q1
+
+Good morning,
+
+Here's the Q1 budget review for the Engineering department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $452,819 against a budget of 232ms. The 38% variance is
+primarily driven by the accelerated SchedulerService hiring that was approved mid-quarter.
+Personnel costs came in at 430ms which includes the 52 new hires.
+
+Overages: the connection pool infrastructure line item exceeded budget by 38% due
+to the unplanned scaling requirements for Integration Hub. I've worked with Alex Chen
+from Engineering to project the run rate going forward â€” we should budget an
+additional $452,819 per quarter for this category.
+
+Underspend: the SchedulerService consulting budget was only 38% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 38%
+of the total annual budget. The main risk is the connection pool cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best,
+Ananya

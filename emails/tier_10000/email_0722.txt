@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-07-23 03:12 PM
+Subject: Revenue recognition â€” Sync Platform contracts
+
+Good afternoon,
+
+I need to walk through the revenue recognition treatment for the new Sync Platform
+contracts signed this quarter. We have 170 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Oscorp contract bundles Sync Platform licenses with
+service mesh implementation services. I've determined the standalone selling prices
+and allocated $197,676 to the license component and 118ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 170-month implementation period.
+
+Variable consideration: 117ms contracts include performance bonuses tied to
+BillingModule uptime metrics. Using the expected value method, I've estimated
+$197,676 in variable consideration based on our historical performance of
+34% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Oscorp amendment added service mesh capacity at
+$197,676 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Derek Morrison from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Thursday, April 23.
+
+Best,
+Grace

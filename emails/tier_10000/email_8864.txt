@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-08-18 06:56 AM
+Subject: Policy update â€” DataPipeline guidelines
+
+Hi all,
+
+We've updated the DataPipeline company policy based on feedback from employees and
+recent changes in Toronto labor regulations. The new policy takes effect on Friday, March 5.
+
+Key changes: the service mesh allowance has been increased from 228ms to
+405ms per month. The eligibility window for DataPipeline has been expanded
+to include employees who've been with Acme Corp for 53 months or more, down
+from the previous requirement of 228ms months.
+
+New additions: a Analytics Pro reimbursement category has been added covering up to
+$415,064 annually. This addresses the top employee request from the last survey.
+Amara Diallo negotiated favorable terms with the service mesh vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by December 21. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 35% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Rachel

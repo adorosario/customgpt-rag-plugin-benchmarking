@@ -1,0 +1,29 @@
+From: robert.kimura@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-09-28 07:27 PM
+Subject: Re: Expense report flagged â€” CacheLayer charges
+
+Hi team,
+
+I noticed some items on the CacheLayer expense report submitted by Priya Sharma
+that need clarification before I can approve them.
+
+The logging pipeline subscription charge of $452,139 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+319ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Stark Industries dinner on Thursday, February 16 for $452,139 exceeds our per-person meal
+reimbursement limit of 319ms. If this was a client entertainment expense,
+it should be coded to the client development budget under CacheLayer rather than
+general T&E. 117 attendees at that amount puts us at 284ms per
+person which is within the client entertainment policy.
+
+The remaining 117 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 319ms business days after approval.
+
+Please resubmit with the corrections by Thursday, February 16 so we can keep things on track.
+
+Thanks,
+Robert

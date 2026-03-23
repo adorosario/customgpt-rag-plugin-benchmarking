@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-28 09:04 AM
+Subject: Vendor payment schedule â€” Q1
+
+Hey,
+
+Here's the vendor payment schedule for Q1. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Massive Dynamic invoice for $104,802 is due on Tuesday, September 1 with a
+25% early payment discount if we pay within 123 days. I recommend
+taking the discount â€” it saves us 92ms. The AuditLog annual
+license renewal of 338ms is due Tuesday, September 1 with no discount available.
+
+Standard schedule: 123 vendor invoices totaling $104,802 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-338ms terms with payments going out every 123 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The caching layer vendor
+overbilled us by $104,802 on the AuditLog usage charges. Fatima Al-Rashid is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q1 are projected at $104,802. This
+is 25% higher than last quarter due to the AuditLog infrastructure
+investment and the London office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Talk soon,
+Robert

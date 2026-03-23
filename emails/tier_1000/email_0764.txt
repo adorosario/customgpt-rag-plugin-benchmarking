@@ -1,0 +1,29 @@
+From: dmitri.volkov@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-11-27 02:05 AM
+Subject: Re: Quota update â€” Q4 adjustments
+
+Good morning,
+
+Thanks for sharing the Q4 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $441,579 reflects a 30% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 56 of my projected deals depend on the Cloud Connect launch happening on
+schedule. If that slips, I'll need the FileStorageService backup deals to come through.
+
+Territory changes: I see that the Toronto accounts have been reassigned to
+Grace Mwangi. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Hooli â€” we've been building that
+relationship for 239ms months.
+
+Regarding the new load balancer incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with load balancer upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Talk soon,
+Dmitri

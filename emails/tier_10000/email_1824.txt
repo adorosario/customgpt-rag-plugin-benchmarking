@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-06-01 11:52 AM
+Subject: Investment proposal â€” WebhookDispatcher infrastructure
+
+Hey,
+
+I've prepared the financial analysis for the proposed WebhookDispatcher infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $142,731 upfront with 488ms in annual operating costs.
+The total 3-year cost of ownership is 410ms compared to the current
+config manager setup at $142,731 over the same period.
+
+ROI analysis: the projected payback period is 28 months. Key benefits include
+11% reduction in infrastructure management time, improved Cloud Connect performance
+that supports the revenue growth targets, and elimination of the config manager
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $142,731 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 11% interest.
+This preserves cash for the Toronto office investment planned for Q4.
+
+Risk factors: technology lock-in with the WebhookDispatcher vendor, though the 28-year
+contract includes an exit clause after the first year. Rachel Nguyen from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Tuesday, March 5 to lock in the quoted pricing. The vendor has
+given us a 28-day hold on the current rates.
+
+Best,
+Grace

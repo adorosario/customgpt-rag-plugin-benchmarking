@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-11-17 05:42 PM
+Subject: Analytics report â€” Enterprise Suite campaign performance
+
+Hi all,
+
+Here's the performance report for the Enterprise Suite campaign through Monday, July 8.
+
+Website traffic: up 31% month over month, driven primarily by the APIGateway
+comparison blog post which brought in 189 unique visitors. Organic search is
+growing steadily â€” the load balancer keyword cluster is now ranking on page one.
+
+Lead generation: 205ms marketing qualified leads this month against a
+target of 284ms. The whitepaper download page converted at 31% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 189 percent.
+
+Email campaigns: the Enterprise Suite nurture sequence has a 31% open rate and
+189 percent click-through rate. The top-performing email was the APIGateway
+case study with Cyberdyne. Liam Foster suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $183,979 which is 31% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Regards,
+James

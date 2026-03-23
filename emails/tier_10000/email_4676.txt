@@ -1,0 +1,30 @@
+From: jun.tanaka@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-06-28 09:27 PM
+Subject: Client meeting recap â€” Soylent Corp Friday, January 14
+
+Good morning,
+
+Recapping today's meeting with Soylent Corp. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their AuditLog
+team lead. From ours: myself, Derek Morrison from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their load balancer vendors
+from three down to one. Our Analytics Pro covers 56% of their requirements
+natively. The remaining gap is around AuditLog integrations, which Derek Morrison
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Friday, January 14 and begin
+implementation in Q1. Budget has been pre-approved at $496,335 for the
+first year.
+
+Action items: send the Analytics Pro technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their load balancer workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Best,
+Jun

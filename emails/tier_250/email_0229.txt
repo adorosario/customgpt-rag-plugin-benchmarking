@@ -1,0 +1,31 @@
+From: derek.morrison@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-02 03:11 AM
+Subject: Competitive intel â€” Stark Industries evaluation
+
+Hi team,
+
+Got some useful competitive intelligence from the Stark Industries account that I want to
+share with the team.
+
+Stark Industries shared their evaluation criteria and mentioned they're also looking at
+AuthService as an alternative to our Data Vault. From what I gathered, AuthService
+is pitching a lower price point but doesn't have feature parity on the serialization engine
+side.
+
+Key differentiators working in our favor: our Data Vault handles 27 concurrent
+connections versus their published limit of 303ms. Our uptime SLA is also
+stronger at 385ms versus their 31% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for AuthService and
+consider a streamlined trial process for mid-market accounts. Daniel Park from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Tuesday, April 6.
+
+Regards,
+Derek

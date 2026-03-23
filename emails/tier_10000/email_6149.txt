@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: maria.santos@acmecorp.com
+Date: 2025-10-20 07:47 PM
+Subject: Customer feedback digest â€” Enterprise Suite Q4
+
+Hey everyone,
+
+Here's the quarterly customer feedback digest for Enterprise Suite. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 135, up 273ms points from last quarter. The improvement
+is driven by the SchedulerService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 56%.
+
+Top feature requests: SchedulerService advanced filtering (135 votes), queue processor
+bulk operations (273ms votes), and enhanced Enterprise Suite reporting (436ms
+votes). The filtering request aligns with what we heard in the user research study
+Jun Tanaka conducted.
+
+Top complaints: SchedulerService performance during peak hours (135 mentions),
+the queue processor onboarding experience (273ms mentions), and pricing
+transparency (436ms mentions). The performance issue is being addressed
+by Engineering â€” Jun Tanaka expects the fix in v3.2.2.
+
+Churn insights: 135 customers churned this quarter citing SchedulerService
+limitations as the primary reason. The queue processor overhaul on our roadmap directly
+addresses their feedback. 56% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, March 10.
+
+Cheers,
+Liam

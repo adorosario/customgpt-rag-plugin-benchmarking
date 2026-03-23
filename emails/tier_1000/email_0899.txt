@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-04 02:16 AM
+Subject: Financial close checklist â€” Q2
+
+Hey,
+
+The Q2 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Insight Engine invoices must be issued by Thursday, March 20. Any revenue recognition
+adjustments for the ReportingEngine contracts need supporting documentation uploaded
+to metrics collector. Sofia Martinez from Sales must confirm final deal amounts by March 10.
+
+Expenses: all expense reports for Q2 must be submitted by Thursday, March 20. The
+ReportingEngine vendor invoices totaling $152,806 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, ReportingEngine subscription costs,
+and the metrics collector usage charges by Thursday, March 20. Any non-standard accruals above
+427ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, ReportingEngine account reconciliation, and
+inter-company balances must be completed by Thursday, March 20. Sofia Martinez is handling the
+bank rec. I'll take the inter-company items since they involve the London entity.
+
+Target: books closed within 33 business days of quarter end. Final reporting
+package to leadership by Thursday, March 20.
+
+Best,
+Robert

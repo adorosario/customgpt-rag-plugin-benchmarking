@@ -1,0 +1,30 @@
+From: kwame.asante@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-11-02 08:07 PM
+Subject: Team event recap â€” SearchIndex outing
+
+Good afternoon,
+
+Thanks to everyone who joined the SearchIndex team outing last week. We had great
+turnout with 120 employees attending.
+
+Highlights: the team building exercise was a hit â€” the service mesh challenge had
+teams competing in creative problem-solving rounds. The winning team led by
+Yuki Sato finished in just 108ms minutes. The group dinner afterward was a
+great opportunity for cross-team connections.
+
+Feedback: the post-event survey came back overwhelmingly positive with a 45%
+satisfaction rating. Most popular suggestion for next time: more outdoor activities.
+Several people asked about doing quarterly events instead of 120 per year.
+
+Budget: total cost was $23,717, coming in at 321ms per person including
+venue, catering, and activities. This is within our social budget for Q1.
+
+Photos are uploaded to the shared album in the service mesh drive. Please tag
+yourselves and share appropriate photos on social media if you'd like â€” our
+marketing team loves this content for the company page.
+
+Planning for the next event starts in Q1. Ideas welcome.
+
+Regards,
+Kwame

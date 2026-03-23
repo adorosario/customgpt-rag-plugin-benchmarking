@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-07-30 08:54 PM
+Subject: Policy update â€” CacheLayer guidelines
+
+Hi team,
+
+We've updated the CacheLayer company policy based on feedback from employees and
+recent changes in Sydney labor regulations. The new policy takes effect on Thursday, June 24.
+
+Key changes: the config manager allowance has been increased from 108ms to
+479ms per month. The eligibility window for CacheLayer has been expanded
+to include employees who've been with Acme Corp for 140 months or more, down
+from the previous requirement of 108ms months.
+
+New additions: a Integration Hub reimbursement category has been added covering up to
+$440,525 annually. This addresses the top employee request from the last survey.
+Rachel Nguyen negotiated favorable terms with the config manager vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by August 13. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 22% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Thanks,
+Fatima

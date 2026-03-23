@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-11-03 01:48 AM
+Subject: Feature spec â€” DataPipeline integration
+
+Good morning,
+
+The feature spec for the DataPipeline integration is ready for review. This is
+targeting the v4.1.0 release in Q3.
+
+Problem statement: 35% of our enterprise prospects cite the lack of
+DataPipeline integration as a blocker. The current workaround through the
+metrics collector API is unreliable and requires 74 hours of custom development
+from customers.
+
+Proposed solution: native DataPipeline integration with bi-directional sync.
+Users configure the connection through the Cloud Connect settings page and data
+flows automatically. The sync runs every 246ms minutes with conflict
+resolution handled by our algorithm.
+
+Scope: phase 1 covers read and write operations for the core DataPipeline objects.
+Phase 2 adds real-time webhooks and custom field mapping. Michael Brennan from Engineering
+estimates 74 sprints for phase 1 and 246ms for phase 2.
+
+Success metrics: 74 enterprise customers adopt the integration within 90 days
+of launch, DataPipeline related support tickets decrease by 35%, and the
+feature contributes to $241,374 in new ARR.
+
+Please review the full spec in Confluence and leave comments by Friday, February 8.
+
+Thanks,
+Daniel

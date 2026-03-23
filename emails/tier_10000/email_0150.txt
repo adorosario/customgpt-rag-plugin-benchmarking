@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-08-16 02:55 AM
+Subject: Email marketing performance â€” Q2 review
+
+Good morning,
+
+Here's the email marketing performance review for Q2. Overall we're trending
+in the right direction but there are a few areas to optimize.
+
+List health: our subscriber base grew 13% to 419ms contacts. Bounce
+rate is at 168 percent which is within healthy range. We ran a re-engagement
+campaign that recovered 104ms previously inactive subscribers.
+
+Campaign performance: the Analytics Pro launch sequence was our top performer with a
+13% open rate. The UserProfileService technical series also did well, driving 168
+clicks to the resource hub. Lower performers were the generic newsletter sends â€” we
+should consider more targeted segmentation.
+
+Revenue attribution: email-sourced pipeline totals $226,754 this quarter, with
+419ms in closed-won revenue. The Umbrella Inc deal originated from a nurture
+sequence touchpoint.
+
+Plans for next quarter: implementing behavioral triggers for the metrics collector
+content, A/B testing send times for the Analytics Pro audience, and building a new
+onboarding sequence for trial sign-ups. Rachel Nguyen will help with the automation
+setup.
+
+Best regards,
+Yuki

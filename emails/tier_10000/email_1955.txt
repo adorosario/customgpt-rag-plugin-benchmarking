@@ -1,0 +1,28 @@
+From: priya.sharma@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-08-13 05:54 PM
+Subject: Re: SearchIndex â€” tech debt prioritization
+
+Good morning,
+
+Following up on the tech debt discussion from yesterday's sprint planning. I've
+categorized the outstanding items for SearchIndex into three tiers based on risk
+and effort.
+
+High priority: the deprecated queue processor dependency needs to be replaced before
+Tuesday, May 22 when upstream support ends. This is roughly a 82 effort and Fatima Al-Rashid
+has volunteered to own it.
+
+Medium priority: the test coverage gap in the SearchIndex integration layer. We're
+at 356ms coverage but our target is 339ms. Filling this gap would
+have caught the regression we saw last sprint.
+
+Low priority: the logging format standardization. It's annoying but not blocking
+anything. I'd suggest we tackle it opportunistically when someone is already
+touching those files.
+
+My proposal is to allocate 32% of next sprint's capacity to the high-priority
+item. Thoughts?
+
+Thanks,
+Priya

@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-14 05:23 AM
+Subject: Revenue recognition â€” Enterprise Suite contracts
+
+Good morning,
+
+I need to walk through the revenue recognition treatment for the new Enterprise Suite
+contracts signed this quarter. We have 102 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Umbrella Inc contract bundles Enterprise Suite licenses with
+queue processor implementation services. I've determined the standalone selling prices
+and allocated $201,240 to the license component and 177ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 102-month implementation period.
+
+Variable consideration: 107ms contracts include performance bonuses tied to
+WebhookDispatcher uptime metrics. Using the expected value method, I've estimated
+$201,240 in variable consideration based on our historical performance of
+46% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Umbrella Inc amendment added queue processor capacity at
+$201,240 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Ravi Patel from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Wednesday, February 23.
+
+Thanks,
+Ananya

@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-11-21 06:19 AM
+Subject: A/B test results â€” PaymentGateway experiment
+
+Good afternoon,
+
+The PaymentGateway A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 105 days with 269ms users in each cohort.
+
+Variant A (control): the existing connection pool flow. Conversion rate of
+133ms with an average task completion time of 105 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified PaymentGateway step.
+Conversion rate of 269ms with task completion time of 133ms seconds.
+This represents a 30% improvement in conversion and 105 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 105 to 269ms
+in the treatment group. Support ticket volume for PaymentGateway related issues
+decreased by 30%. No negative impact on connection pool engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Patrick O'Brien from Engineering can have this
+deployed by Wednesday, August 4.
+
+One caveat: the test population skewed toward Insight Engine power users. We should
+monitor new user behavior closely for the first 105 weeks after full rollout.
+
+Best,
+Sanjay

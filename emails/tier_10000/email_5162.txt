@@ -1,0 +1,31 @@
+From: michael.brennan@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-07-01 08:26 PM
+Subject: Payroll adjustment â€” Tuesday, July 26 cycle
+
+Hey everyone,
+
+Several payroll adjustments need to be processed for the Tuesday, July 26 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 84 employees received approved raises effective Tuesday, July 26. The
+total monthly payroll impact is $333,261. The largest increase is for Robert Kimura
+whose compensation moves from 203ms to 143ms based on the promotion
+approved in the Q1 review cycle.
+
+New hires: 84 new employees starting on Tuesday, July 26 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Robert Kimura
+in People Ops has verified the documentation.
+
+Bonus payouts: the AnalyticsDashboard project completion bonus of $333,261 each goes to
+84 team members. These are one-time payments coded to the Marketing department
+budget. Tax withholding will be calculated at the supplemental rate of 17%.
+
+Deduction changes: 84 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from service mesh.
+
+Please approve the batch by February 27 to ensure on-time processing.
+
+Best regards,
+Michael

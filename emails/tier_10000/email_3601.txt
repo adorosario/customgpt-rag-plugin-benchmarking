@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: maria.santos@acmecorp.com
+Date: 2025-07-16 08:33 AM
+Subject: Sales engineering request â€” Tyrell Corp POC
+
+Hello,
+
+Requesting SE support for a proof-of-concept with Tyrell Corp. This is a $271,234
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Data Vault can handle 196
+transactions per second with their PaymentGateway data format. The test needs to
+run against their staging environment and demonstrate the event bus capability
+under realistic load.
+
+Timeline: Tyrell Corp wants the POC completed within 60ms business days
+starting Wednesday, August 24. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Michael Brennan for the technical configuration and someone from
+the PaymentGateway team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q1. Let me know if we can make this timeline work.
+
+Best,
+Hannah

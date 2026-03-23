@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-09-04 11:55 AM
+Subject: Tax planning â€” Q1 estimated payments
+
+Good morning,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the UserProfileService investment
+deductions.
+
+Federal estimate: $438,886 based on projected taxable income of 347ms.
+This reflects the UserProfileService depreciation deductions and the R&D tax credit for
+the Cloud Connect development costs. Yuki Sato from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $438,886 for our primary jurisdiction and 111ms for the
+Berlin office based on the apportionment factors. The Berlin rate change that
+takes effect on Monday, March 25 will impact our Q1 estimate by approximately 173
+percent.
+
+International: with the Berlin office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Yuki Sato to handle
+the registration. Setup cost is $438,886 with ongoing compliance costs of
+111ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Monday, March 25. I'll prepare the
+payment authorization for your signature by January 9. Underpayment penalties
+start at 29% so timely filing is important.
+
+Thanks,
+Michael

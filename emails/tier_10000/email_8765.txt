@@ -1,0 +1,26 @@
+From: carlos.rivera@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-06-10 07:03 AM
+Subject: Pipeline update â€” Stark Industries deal status
+
+Hey everyone,
+
+Quick update on the Stark Industries opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $119,360 for the Cloud Connect deployment. The
+decision timeline is end of Q2. Their main concern remains the integration
+with their existing CacheLayer infrastructure, which is why I've looped in Fatima Al-Rashid
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Stark Industries is also evaluating one other vendor but our
+Cloud Connect demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our caching layer capability.
+
+Next steps: technical architecture session on Tuesday, November 4, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 9%.
+
+Cheers,
+Carlos

@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-29 08:07 AM
+Subject: Beta program update â€” Data Vault v3.0.0
+
+Hey everyone,
+
+Quick update on the Data Vault v3.0.0 beta program. We're 62 weeks into
+the beta period with 123ms customers participating.
+
+Usage data: 15% of beta participants have activated the new SearchIndex
+feature. Average daily usage is 62 sessions per user. The logging pipeline
+workflow is being used by 246ms of participants, which exceeds our
+adoption target of 123ms.
+
+Feedback summary: overall sentiment is positive. The top 62 pieces of praise
+relate to the SearchIndex speed improvement and the new logging pipeline interface.
+The top 123ms complaints are about the SearchIndex configuration complexity
+and a confusing error message in the logging pipeline flow.
+
+Bugs found: 62 bugs reported, of which 123ms are critical. Maria Santos
+from Engineering has fixed 246ms of the critical bugs. The remaining one
+is related to the SearchIndex edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Wednesday, May 5. The GA release is targeted for 62 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Wednesday, May 5 to finalize the GA scope.
+
+Best,
+Mei

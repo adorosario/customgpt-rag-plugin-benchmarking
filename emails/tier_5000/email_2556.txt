@@ -1,0 +1,29 @@
+From: fatima.al-rashid@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-11-27 07:48 AM
+Subject: Policy update â€” PaymentGateway guidelines
+
+Hi,
+
+We've updated the PaymentGateway company policy based on feedback from employees and
+recent changes in San Francisco labor regulations. The new policy takes effect on Wednesday, October 20.
+
+Key changes: the metrics collector allowance has been increased from 235ms to
+323ms per month. The eligibility window for PaymentGateway has been expanded
+to include employees who've been with Acme Corp for 199 months or more, down
+from the previous requirement of 235ms months.
+
+New additions: a Analytics Pro reimbursement category has been added covering up to
+$452,177 annually. This addresses the top employee request from the last survey.
+Mei Lin negotiated favorable terms with the metrics collector vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by February 18. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 33% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Thanks,
+Fatima

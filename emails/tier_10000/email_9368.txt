@@ -1,0 +1,29 @@
+From: patrick.obrien@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-07-25 04:07 PM
+Subject: Hiring update â€” Product open positions
+
+Hi team,
+
+Here's the weekly hiring update for the Product department. We're making progress
+on several key roles.
+
+Active searches: the FileStorageService role has 191 candidates in the pipeline with
+272ms scheduled for final round interviews this week. The serialization engine
+position has been open for 54ms days and we're seeing fewer qualified
+applicants than expected â€” I'd like to discuss expanding our sourcing channels.
+
+Offers: we extended an offer to a strong candidate for the Grace Mwangi backfill
+role. Their expected start date is Wednesday, August 11 pending background check completion.
+Compensation is at $271,830 which is within the approved band.
+
+Upcoming: the Cloud Connect team has submitted a headcount request for 191 new
+positions in Q2. I'm drafting the job descriptions and will share them for
+review by Wednesday, August 11.
+
+Interview load: we conducted 54ms interviews last week across all open
+roles. Please remind your team leads that timely interviewer feedback is critical â€”
+we're losing candidates due to slow response times on 35% of our processes.
+
+Talk soon,
+Patrick

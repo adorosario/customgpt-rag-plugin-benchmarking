@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-11-18 06:56 AM
+Subject: Social media strategy â€” Q1
+
+Good morning,
+
+Presenting the social media strategy refresh for Q1. Based on our Integration Hub
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our SchedulerService posts are averaging 138 impressions and 14% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 14% educational content about serialization engine topics, 138
+percent product highlights, and the rest for company culture and employee spotlights.
+Derek Morrison will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Integration Hub use cases and answer audience questions. First session on Friday, August 12 featuring
+Derek Morrison.
+
+Budget: $409,819 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 192ms new followers and 107ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Thanks,
+Laura

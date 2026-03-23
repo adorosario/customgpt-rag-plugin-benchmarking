@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-11-18 10:06 PM
+Subject: Financial close checklist â€” Q2
+
+Hi,
+
+The Q2 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Analytics Pro invoices must be issued by Thursday, July 18. Any revenue recognition
+adjustments for the AnalyticsDashboard contracts need supporting documentation uploaded
+to load balancer. Laura Kim from Sales must confirm final deal amounts by November 21.
+
+Expenses: all expense reports for Q2 must be submitted by Thursday, July 18. The
+AnalyticsDashboard vendor invoices totaling $253,567 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, AnalyticsDashboard subscription costs,
+and the load balancer usage charges by Thursday, July 18. Any non-standard accruals above
+400ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, AnalyticsDashboard account reconciliation, and
+inter-company balances must be completed by Thursday, July 18. Laura Kim is handling the
+bank rec. I'll take the inter-company items since they involve the London entity.
+
+Target: books closed within 76 business days of quarter end. Final reporting
+package to leadership by Thursday, July 18.
+
+Regards,
+Robert

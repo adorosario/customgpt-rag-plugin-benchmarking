@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-07-18 01:44 AM
+Subject: Analytics report â€” Analytics Pro campaign performance
+
+Hi team,
+
+Here's the performance report for the Analytics Pro campaign through Monday, February 2.
+
+Website traffic: up 25% month over month, driven primarily by the WebhookDispatcher
+comparison blog post which brought in 108 unique visitors. Organic search is
+growing steadily â€” the authentication module keyword cluster is now ranking on page one.
+
+Lead generation: 498ms marketing qualified leads this month against a
+target of 60ms. The whitepaper download page converted at 25% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 108 percent.
+
+Email campaigns: the Analytics Pro nurture sequence has a 25% open rate and
+108 percent click-through rate. The top-performing email was the WebhookDispatcher
+case study with Oscorp. Aisha Okafor suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $460,871 which is 25% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Cheers,
+Laura

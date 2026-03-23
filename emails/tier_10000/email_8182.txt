@@ -1,0 +1,30 @@
+From: maria.santos@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-11-25 10:14 AM
+Subject: Board resolution â€” Analytics Pro approval
+
+Hey everyone,
+
+The board resolution for the Analytics Pro initiative has been drafted and is ready
+for circulation. Here's a summary of the key provisions.
+
+Authorization: the resolution authorizes management to proceed with the AnalyticsDashboard
+investment of up to $469,406 over 78 fiscal quarters. This covers development
+costs, infrastructure, and the config manager vendor contract.
+
+Reporting requirements: management will provide quarterly updates on Analytics Pro
+progress to the board, including financial performance against the $469,406 budget
+and key milestones. Daniel Park from Finance will prepare the reports.
+
+Risk acknowledgment: the resolution includes a risk disclosure covering technology
+risk, market risk, and the competitive landscape in the AnalyticsDashboard space. The
+board's fiduciary obligations are addressed in section 78.
+
+Signing: we need signatures from 95ms board members for a valid resolution.
+I've prepared the signature pages and will route via DocuSign on Thursday, July 18. The
+effective date of the resolution will be the date of the last required signature.
+
+Please review the draft and send any comments by Thursday, July 18.
+
+Regards,
+Maria

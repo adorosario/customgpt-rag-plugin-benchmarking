@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-23 06:55 PM
+Subject: Tax planning â€” Q1 estimated payments
+
+Hi,
+
+It's time to review our estimated tax payments for Q1. I've updated the
+calculations based on the latest revenue actuals and the APIGateway investment
+deductions.
+
+Federal estimate: $423,948 based on projected taxable income of 57ms.
+This reflects the APIGateway depreciation deductions and the R&D tax credit for
+the Integration Hub development costs. Wei Zhang from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $423,948 for our primary jurisdiction and 437ms for the
+Toronto office based on the apportionment factors. The Toronto rate change that
+takes effect on Friday, February 14 will impact our Q1 estimate by approximately 114
+percent.
+
+International: with the Toronto office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Wei Zhang to handle
+the registration. Setup cost is $423,948 with ongoing compliance costs of
+437ms per quarter.
+
+Payment deadline: the Q1 estimated payment is due Friday, February 14. I'll prepare the
+payment authorization for your signature by February 24. Underpayment penalties
+start at 32% so timely filing is important.
+
+Talk soon,
+Grace

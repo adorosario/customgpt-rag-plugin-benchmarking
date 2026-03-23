@@ -1,0 +1,30 @@
+From: robert.kimura@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-15 05:05 AM
+Subject: Re: Expense report flagged â€” SearchIndex charges
+
+Hey everyone,
+
+I noticed some items on the SearchIndex expense report submitted by Patrick O'Brien
+that need clarification before I can approve them.
+
+The rate limiter subscription charge of $424,402 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+318ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Massive Dynamic dinner on Friday, April 16 for $424,402 exceeds our per-person meal
+reimbursement limit of 318ms. If this was a client entertainment expense,
+it should be coded to the client development budget under SearchIndex rather than
+general T&E. 156 attendees at that amount puts us at 263ms per
+person which is within the client entertainment policy.
+
+The remaining 156 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 318ms business days after approval.
+
+Please resubmit with the corrections by Friday, April 16 so we can keep things on track.
+
+Regards,
+Robert

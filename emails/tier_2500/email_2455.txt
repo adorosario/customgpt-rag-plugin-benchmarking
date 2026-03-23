@@ -1,0 +1,30 @@
+From: ananya.desai@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-18 09:58 AM
+Subject: Re: Expense report flagged â€” ReportingEngine charges
+
+Good afternoon,
+
+I noticed some items on the ReportingEngine expense report submitted by Ananya Desai
+that need clarification before I can approve them.
+
+The rate limiter subscription charge of $204,535 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+437ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Weyland-Yutani dinner on Monday, June 11 for $204,535 exceeds our per-person meal
+reimbursement limit of 437ms. If this was a client entertainment expense,
+it should be coded to the client development budget under ReportingEngine rather than
+general T&E. 141 attendees at that amount puts us at 260ms per
+person which is within the client entertainment policy.
+
+The remaining 141 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 437ms business days after approval.
+
+Please resubmit with the corrections by Monday, June 11 so we can keep things on track.
+
+Cheers,
+Ananya

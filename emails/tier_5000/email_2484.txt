@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-07-24 02:32 AM
+Subject: Audit preparation â€” Q3 review
+
+Hi team,
+
+The Q3 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Pied Piper are scheduled to begin fieldwork
+on Friday, March 25.
+
+Documentation needed from each department: all purchase orders above 163ms,
+contract modifications executed during Q3, headcount changes with supporting
+approvals, and AuditLog system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the rate limiter audit portal by Friday, March 25.
+That gives us 48 business days before the auditors arrive. Jun Tanaka has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Insight Engine contracts, the AuditLog capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $282,429 in capitalized AuditLog costs and the methodology used.
+
+This is our 48 year with Pied Piper as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Jun Tanaka if you have
+questions about what's needed.
+
+Thanks,
+Grace

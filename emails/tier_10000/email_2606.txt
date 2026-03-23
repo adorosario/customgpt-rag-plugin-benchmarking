@@ -1,0 +1,31 @@
+From: jun.tanaka@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-10 05:54 PM
+Subject: Competitive intel â€” Stark Industries evaluation
+
+Hi all,
+
+Got some useful competitive intelligence from the Stark Industries account that I want to
+share with the team.
+
+Stark Industries shared their evaluation criteria and mentioned they're also looking at
+ReportingEngine as an alternative to our Data Vault. From what I gathered, ReportingEngine
+is pitching a lower price point but doesn't have feature parity on the event bus
+side.
+
+Key differentiators working in our favor: our Data Vault handles 177 concurrent
+connections versus their published limit of 240ms. Our uptime SLA is also
+stronger at 202ms versus their 34% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for ReportingEngine and
+consider a streamlined trial process for mid-market accounts. Jun Tanaka from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Monday, September 11.
+
+Best,
+Jun

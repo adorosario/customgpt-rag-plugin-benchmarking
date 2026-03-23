@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-09-30 06:07 AM
+Subject: Customer feedback digest â€” Sync Platform Q2
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Sync Platform. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 116, up 199ms points from last quarter. The improvement
+is driven by the FileStorageService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 55%.
+
+Top feature requests: FileStorageService advanced filtering (116 votes), logging pipeline
+bulk operations (199ms votes), and enhanced Sync Platform reporting (490ms
+votes). The filtering request aligns with what we heard in the user research study
+Dmitri Volkov conducted.
+
+Top complaints: FileStorageService performance during peak hours (116 mentions),
+the logging pipeline onboarding experience (199ms mentions), and pricing
+transparency (490ms mentions). The performance issue is being addressed
+by Engineering â€” Dmitri Volkov expects the fix in v3.8.1.
+
+Churn insights: 116 customers churned this quarter citing FileStorageService
+limitations as the primary reason. The logging pipeline overhaul on our roadmap directly
+addresses their feedback. 55% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Thursday, March 16.
+
+Talk soon,
+Sanjay

@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-20 12:41 AM
+Subject: Financial close checklist â€” Q1
+
+Hello,
+
+The Q1 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Cloud Connect invoices must be issued by Monday, June 12. Any revenue recognition
+adjustments for the SearchIndex contracts need supporting documentation uploaded
+to event bus. Liam Foster from Sales must confirm final deal amounts by November 6.
+
+Expenses: all expense reports for Q1 must be submitted by Monday, June 12. The
+SearchIndex vendor invoices totaling $151,130 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, SearchIndex subscription costs,
+and the event bus usage charges by Monday, June 12. Any non-standard accruals above
+474ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, SearchIndex account reconciliation, and
+inter-company balances must be completed by Monday, June 12. Liam Foster is handling the
+bank rec. I'll take the inter-company items since they involve the London entity.
+
+Target: books closed within 172 business days of quarter end. Final reporting
+package to leadership by Monday, June 12.
+
+Regards,
+Michael

@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-06-27 01:15 PM
+Subject: FP&A update â€” Integration Hub financial model
+
+Hi all,
+
+I've updated the Integration Hub financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 108 per month based
+on the last 396ms months of data. Average contract value is tracking at
+$367,977, which is 11% above our original assumption. The DataPipeline
+upsell rate of 382ms is a positive trend.
+
+Cost structure: the caching layer hosting costs are running 11% higher than
+modeled due to increased DataPipeline usage. I've adjusted the variable cost
+per customer from 396ms to 382ms. Jun Tanaka from Engineering
+says the optimization project should bring this down by 11% in Q4.
+
+Break-even analysis: with the revised numbers, Integration Hub reaches contribution
+margin break-even at 108 customers, which we're projected to hit by Friday, June 15.
+Full break-even including allocated overhead comes at 396ms customers.
+
+Scenarios: the base case shows $367,977 in cumulative revenue by year end. The
+upside case with the Pied Piper deal closing hits 382ms. Downside case
+assuming 11% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Best regards,
+Grace

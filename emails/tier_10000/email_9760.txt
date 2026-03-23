@@ -1,0 +1,35 @@
+From: amara.diallo@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-01 08:57 AM
+Subject: Re: Data Vault metrics review â€” Q3
+
+Good afternoon,
+
+Here are the Data Vault metrics for Q3. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 120 monthly active users, up 21% quarter over quarter. The
+AuthService feature launch drove a spike in activation â€” 231ms new users
+tried it in the first week. Retention for AuthService users is 371ms
+at 30 days versus 120 percent for non-users.
+
+Engagement: average session duration is 120 minutes. The authentication module workflow
+sees the highest engagement with users spending 371ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 231ms features
+per session on average, up from 120 last quarter.
+
+Revenue metrics: Data Vault ARR is at $154,660 with 21% growth quarter over
+quarter. Net revenue retention is 371ms driven by AuthService upsells.
+120 customers expanded their contracts this quarter, with Wei Zhang from Sales
+leading the expansion conversations.
+
+Areas of concern: the authentication module onboarding funnel has a 21% drop-off at
+step 120. I've scheduled a design sprint for next week to address this.
+Support ticket volume for AuthService increased 120 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Talk soon,
+Amara

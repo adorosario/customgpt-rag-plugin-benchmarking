@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-14 09:11 AM
+Subject: Financial close checklist â€” Q3
+
+Hi,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Analytics Pro invoices must be issued by Monday, October 13. Any revenue recognition
+adjustments for the WebhookDispatcher contracts need supporting documentation uploaded
+to config manager. Robert Kimura from Sales must confirm final deal amounts by September 18.
+
+Expenses: all expense reports for Q3 must be submitted by Monday, October 13. The
+WebhookDispatcher vendor invoices totaling $339,713 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, WebhookDispatcher subscription costs,
+and the config manager usage charges by Monday, October 13. Any non-standard accruals above
+458ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, WebhookDispatcher account reconciliation, and
+inter-company balances must be completed by Monday, October 13. Robert Kimura is handling the
+bank rec. I'll take the inter-company items since they involve the London entity.
+
+Target: books closed within 149 business days of quarter end. Final reporting
+package to leadership by Monday, October 13.
+
+Cheers,
+Michael

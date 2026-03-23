@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-09-26 08:18 PM
+Subject: Email marketing performance â€” Q4 review
+
+Hi team,
+
+Here's the email marketing performance review for Q4. Overall we're trending
+in the right direction but there are a few areas to optimize.
+
+List health: our subscriber base grew 10% to 291ms contacts. Bounce
+rate is at 114 percent which is within healthy range. We ran a re-engagement
+campaign that recovered 449ms previously inactive subscribers.
+
+Campaign performance: the Integration Hub launch sequence was our top performer with a
+10% open rate. The PaymentGateway technical series also did well, driving 114
+clicks to the resource hub. Lower performers were the generic newsletter sends â€” we
+should consider more targeted segmentation.
+
+Revenue attribution: email-sourced pipeline totals $121,435 this quarter, with
+291ms in closed-won revenue. The Oscorp deal originated from a nurture
+sequence touchpoint.
+
+Plans for next quarter: implementing behavioral triggers for the queue processor
+content, A/B testing send times for the Integration Hub audience, and building a new
+onboarding sequence for trial sign-ups. Laura Kim will help with the automation
+setup.
+
+Best,
+Laura

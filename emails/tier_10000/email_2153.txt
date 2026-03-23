@@ -1,0 +1,32 @@
+From: sofia.martinez@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-08-01 10:46 PM
+Subject: Event planning â€” Analytics Pro webinar on Tuesday, November 1
+
+Hey everyone,
+
+Finalizing details for the Analytics Pro webinar on Tuesday, November 1. Here's where we stand on
+the logistics and promotion.
+
+Content: Maria Santos from Product will present the CacheLayer roadmap segment.
+I'll handle the intro and customer story. We're targeting a 165-minute
+presentation followed by 484ms minutes of live Q&A. The authentication module demo
+segment should be the highlight.
+
+Registration: we've had 138ms sign-ups so far. Goal is 484ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Analytics Pro keywords.
+
+Tech setup: using the standard webinar platform. Maria Santos will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Tuesday, November 1 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 165 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Thanks,
+Sofia

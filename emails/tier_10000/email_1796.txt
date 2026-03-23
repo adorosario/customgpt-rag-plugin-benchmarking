@@ -1,0 +1,26 @@
+From: derek.morrison@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-06-14 04:46 PM
+Subject: Pipeline update â€” Wayne Enterprises deal status
+
+Good morning,
+
+Quick update on the Wayne Enterprises opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $377,777 for the Data Vault deployment. The
+decision timeline is end of Q2. Their main concern remains the integration
+with their existing APIGateway infrastructure, which is why I've looped in Sofia Martinez
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Wayne Enterprises is also evaluating one other vendor but our
+Data Vault demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our service mesh capability.
+
+Next steps: technical architecture session on Monday, September 1, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 11%.
+
+Best,
+Derek

@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-09-19 01:18 PM
+Subject: Financial close checklist â€” Q3
+
+Hello,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Cloud Connect invoices must be issued by Monday, August 28. Any revenue recognition
+adjustments for the WebhookDispatcher contracts need supporting documentation uploaded
+to event bus. Robert Kimura from Sales must confirm final deal amounts by October 21.
+
+Expenses: all expense reports for Q3 must be submitted by Monday, August 28. The
+WebhookDispatcher vendor invoices totaling $447,342 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, WebhookDispatcher subscription costs,
+and the event bus usage charges by Monday, August 28. Any non-standard accruals above
+142ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, WebhookDispatcher account reconciliation, and
+inter-company balances must be completed by Monday, August 28. Robert Kimura is handling the
+bank rec. I'll take the inter-company items since they involve the Berlin entity.
+
+Target: books closed within 155 business days of quarter end. Final reporting
+package to leadership by Monday, August 28.
+
+Best regards,
+Robert

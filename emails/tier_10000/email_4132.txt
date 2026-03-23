@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-11-17 09:51 AM
+Subject: Policy update â€” MessageBroker guidelines
+
+Good morning,
+
+We've updated the MessageBroker company policy based on feedback from employees and
+recent changes in San Francisco labor regulations. The new policy takes effect on Wednesday, September 23.
+
+Key changes: the serialization engine allowance has been increased from 354ms to
+387ms per month. The eligibility window for MessageBroker has been expanded
+to include employees who've been with Acme Corp for 94 months or more, down
+from the previous requirement of 354ms months.
+
+New additions: a Cloud Connect reimbursement category has been added covering up to
+$216,634 annually. This addresses the top employee request from the last survey.
+Maria Santos negotiated favorable terms with the serialization engine vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by June 13. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 28% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Talk soon,
+Fatima

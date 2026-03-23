@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-07-31 12:19 PM
+Subject: Payroll adjustment â€” Friday, November 9 cycle
+
+Hi,
+
+Several payroll adjustments need to be processed for the Friday, November 9 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 48 employees received approved raises effective Friday, November 9. The
+total monthly payroll impact is $196,154. The largest increase is for Jun Tanaka
+whose compensation moves from 179ms to 486ms based on the promotion
+approved in the Q2 review cycle.
+
+New hires: 48 new employees starting on Friday, November 9 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Jun Tanaka
+in People Ops has verified the documentation.
+
+Bonus payouts: the BillingModule project completion bonus of $196,154 each goes to
+48 team members. These are one-time payments coded to the Marketing department
+budget. Tax withholding will be calculated at the supplemental rate of 52%.
+
+Deduction changes: 48 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from rate limiter.
+
+Please approve the batch by January 14 to ensure on-time processing.
+
+Cheers,
+Ananya

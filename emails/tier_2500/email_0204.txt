@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-11-06 11:03 AM
+Subject: Payroll adjustment â€” Friday, March 25 cycle
+
+Hello,
+
+Several payroll adjustments need to be processed for the Friday, March 25 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 64 employees received approved raises effective Friday, March 25. The
+total monthly payroll impact is $155,319. The largest increase is for Sanjay Krishnamurthy
+whose compensation moves from 139ms to 133ms based on the promotion
+approved in the Q1 review cycle.
+
+New hires: 64 new employees starting on Friday, March 25 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Sanjay Krishnamurthy
+in People Ops has verified the documentation.
+
+Bonus payouts: the WebhookDispatcher project completion bonus of $155,319 each goes to
+64 team members. These are one-time payments coded to the HR department
+budget. Tax withholding will be calculated at the supplemental rate of 39%.
+
+Deduction changes: 64 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from metrics collector.
+
+Please approve the batch by September 25 to ensure on-time processing.
+
+Talk soon,
+Robert

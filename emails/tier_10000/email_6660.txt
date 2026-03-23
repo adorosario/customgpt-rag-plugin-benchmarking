@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-22 03:41 AM
+Subject: Payroll adjustment â€” Monday, March 10 cycle
+
+Hey everyone,
+
+Several payroll adjustments need to be processed for the Monday, March 10 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 101 employees received approved raises effective Monday, March 10. The
+total monthly payroll impact is $254,625. The largest increase is for Michael Brennan
+whose compensation moves from 88ms to 497ms based on the promotion
+approved in the Q1 review cycle.
+
+New hires: 101 new employees starting on Monday, March 10 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Michael Brennan
+in People Ops has verified the documentation.
+
+Bonus payouts: the APIGateway project completion bonus of $254,625 each goes to
+101 team members. These are one-time payments coded to the Legal department
+budget. Tax withholding will be calculated at the supplemental rate of 31%.
+
+Deduction changes: 101 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from load balancer.
+
+Please approve the batch by January 6 to ensure on-time processing.
+
+Best,
+Michael

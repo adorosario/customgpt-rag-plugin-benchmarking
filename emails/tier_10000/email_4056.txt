@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-07-01 06:34 AM
+Subject: Revenue recognition â€” Data Vault contracts
+
+Hi,
+
+I need to walk through the revenue recognition treatment for the new Data Vault
+contracts signed this quarter. We have 55 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Stark Industries contract bundles Data Vault licenses with
+queue processor implementation services. I've determined the standalone selling prices
+and allocated $275,427 to the license component and 156ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 55-month implementation period.
+
+Variable consideration: 449ms contracts include performance bonuses tied to
+APIGateway uptime metrics. Using the expected value method, I've estimated
+$275,427 in variable consideration based on our historical performance of
+58% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Stark Industries amendment added queue processor capacity at
+$275,427 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Jun Tanaka from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Tuesday, March 26.
+
+Cheers,
+Michael

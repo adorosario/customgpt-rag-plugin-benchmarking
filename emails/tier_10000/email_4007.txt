@@ -1,0 +1,31 @@
+From: michael.brennan@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-07-11 07:23 PM
+Subject: Payroll adjustment â€” Thursday, July 7 cycle
+
+Hi,
+
+Several payroll adjustments need to be processed for the Thursday, July 7 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 153 employees received approved raises effective Thursday, July 7. The
+total monthly payroll impact is $359,484. The largest increase is for Elena Vasquez
+whose compensation moves from 470ms to 322ms based on the promotion
+approved in the Q1 review cycle.
+
+New hires: 153 new employees starting on Thursday, July 7 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Elena Vasquez
+in People Ops has verified the documentation.
+
+Bonus payouts: the MessageBroker project completion bonus of $359,484 each goes to
+153 team members. These are one-time payments coded to the Product department
+budget. Tax withholding will be calculated at the supplemental rate of 44%.
+
+Deduction changes: 153 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from event bus.
+
+Please approve the batch by August 16 to ensure on-time processing.
+
+Talk soon,
+Michael

@@ -1,0 +1,21 @@
+{
+  "tier": 5,
+  "question_id": "pattern_3",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What issues has Initech reported and how is the team responding?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the one email in this directory that mentions Initech (email_0005.txt), here's what it contains:\n\n**Issue Reported:** Initech filed a complaint about **API latency** \u00e2\u20ac\u201d specifically escalating concerns about response times and SLA performance.\n\n**Team Response:** The email from Wei Zhang to Derek Morrison is largely non-informative. It uses repetitive, generic language (\"The X aspect is progressing well and the team has been focused on delivering results\") without providing concrete details. The rest of the email is filled with unrelated updates (cloud costs, data migration, hiring).\n\nThe only concrete metric mentioned is that **customer support tickets decreased 15%** since the last release, though it's unclear if that's directly related to the Initech issue.\n\nIn short: the email signals an active escalation but provides very little substantive information about what's actually being done to resolve Initech's API latency problem. If you're looking for specifics, there don't appear to be any in the available emails.",
+  "time_seconds": 37.19,
+  "num_turns": 4,
+  "cost_usd": 0.08558295,
+  "input_tokens": 6,
+  "cache_creation_tokens": 11845,
+  "cache_read_tokens": 102554,
+  "output_tokens": 692,
+  "total_tokens": 115097,
+  "duration_api_ms": 25427,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

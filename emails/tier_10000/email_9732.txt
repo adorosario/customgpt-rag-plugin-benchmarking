@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-08-18 02:00 PM
+Subject: Onboarding schedule â€” new hire starting Wednesday, January 19
+
+Hello,
+
+We have a new team member joining Finance on Wednesday, January 19. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, ReportingEngine systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Ravi Patel will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Analytics Pro and the load balancer tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Wednesday, January 19. All software licenses including ReportingEngine and load balancer access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 73 people to schedule intro meetings with, and first
+157ms-day goals. Please send these to Ravi Patel in People Ops.
+
+Welcome email goes out 73 days before start date.
+
+Talk soon,
+Fatima

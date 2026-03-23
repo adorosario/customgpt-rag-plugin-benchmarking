@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: derek.morrison@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-09 02:43 PM
+Subject: Payroll adjustment â€” Wednesday, July 3 cycle
+
+Good afternoon,
+
+Several payroll adjustments need to be processed for the Wednesday, July 3 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 155 employees received approved raises effective Wednesday, July 3. The
+total monthly payroll impact is $99,712. The largest increase is for Rachel Nguyen
+whose compensation moves from 398ms to 157ms based on the promotion
+approved in the Q3 review cycle.
+
+New hires: 155 new employees starting on Wednesday, July 3 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Rachel Nguyen
+in People Ops has verified the documentation.
+
+Bonus payouts: the SchedulerService project completion bonus of $99,712 each goes to
+155 team members. These are one-time payments coded to the Sales department
+budget. Tax withholding will be calculated at the supplemental rate of 60%.
+
+Deduction changes: 155 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from rate limiter.
+
+Please approve the batch by January 12 to ensure on-time processing.
+
+Cheers,
+Michael

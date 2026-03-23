@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-09 05:58 PM
+Subject: Financial close checklist â€” Q2
+
+Hey,
+
+The Q2 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Analytics Pro invoices must be issued by Friday, July 1. Any revenue recognition
+adjustments for the AnalyticsDashboard contracts need supporting documentation uploaded
+to authentication module. Amara Diallo from Sales must confirm final deal amounts by January 12.
+
+Expenses: all expense reports for Q2 must be submitted by Friday, July 1. The
+AnalyticsDashboard vendor invoices totaling $491,321 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, AnalyticsDashboard subscription costs,
+and the authentication module usage charges by Friday, July 1. Any non-standard accruals above
+86ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, AnalyticsDashboard account reconciliation, and
+inter-company balances must be completed by Friday, July 1. Amara Diallo is handling the
+bank rec. I'll take the inter-company items since they involve the Berlin entity.
+
+Target: books closed within 109 business days of quarter end. Final reporting
+package to leadership by Friday, July 1.
+
+Regards,
+Ananya

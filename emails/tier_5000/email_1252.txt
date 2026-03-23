@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-10-18 07:38 PM
+Subject: Customer feedback digest â€” Data Vault Q1
+
+Good afternoon,
+
+Here's the quarterly customer feedback digest for Data Vault. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 50, up 293ms points from last quarter. The improvement
+is driven by the NotificationEngine launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 19%.
+
+Top feature requests: NotificationEngine advanced filtering (50 votes), rate limiter
+bulk operations (293ms votes), and enhanced Data Vault reporting (454ms
+votes). The filtering request aligns with what we heard in the user research study
+Aisha Okafor conducted.
+
+Top complaints: NotificationEngine performance during peak hours (50 mentions),
+the rate limiter onboarding experience (293ms mentions), and pricing
+transparency (454ms mentions). The performance issue is being addressed
+by Engineering â€” Aisha Okafor expects the fix in v1.9.5.
+
+Churn insights: 50 customers churned this quarter citing NotificationEngine
+limitations as the primary reason. The rate limiter overhaul on our roadmap directly
+addresses their feedback. 19% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Tuesday, June 7.
+
+Talk soon,
+Sanjay

@@ -1,0 +1,26 @@
+From: hannah.goldstein@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-10-06 06:38 AM
+Subject: Pipeline update â€” Soylent Corp deal status
+
+Hi all,
+
+Quick update on the Soylent Corp opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $146,081 for the Integration Hub deployment. The
+decision timeline is end of Q2. Their main concern remains the integration
+with their existing SchedulerService infrastructure, which is why I've looped in Grace Mwangi
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Soylent Corp is also evaluating one other vendor but our
+Integration Hub demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our rate limiter capability.
+
+Next steps: technical architecture session on Tuesday, December 14, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 40%.
+
+Regards,
+Hannah

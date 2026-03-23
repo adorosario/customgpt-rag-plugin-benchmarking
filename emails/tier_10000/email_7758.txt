@@ -1,0 +1,27 @@
+From: hannah.goldstein@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-01 08:05 PM
+Subject: Pipeline update â€” Cyberdyne deal status
+
+Hello,
+
+Quick update on the Cyberdyne opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $419,336 for the Analytics Pro deployment. The
+decision timeline is end of Q4. Their main concern remains the integration
+with their existing AuditLog infrastructure, which is why I've looped in Elena Vasquez
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Cyberdyne is also evaluating one other vendor but our
+Analytics Pro demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our config manager capability.
+
+Next steps: technical architecture session on Monday, October 4, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 48%.
+
+Cheers,
+Hannah

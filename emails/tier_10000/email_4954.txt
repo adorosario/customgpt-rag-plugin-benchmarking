@@ -1,0 +1,27 @@
+From: tomoko.nakamura@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-10-22 07:45 AM
+Subject: On-call handoff â€” week of Tuesday, March 2
+
+Good afternoon,
+
+Handing off on-call duties for the week of Tuesday, March 2. Here's the status summary for
+the incoming rotation.
+
+Active issues: the SchedulerService service has been showing elevated latency during peak
+hours, averaging 189ms against a target of 157ms. We've identified
+the root cause in the config manager caching layer and a fix is in code review now.
+Should be deployed by Tuesday.
+
+Monitoring: keep an eye on the SchedulerService dashboard. Dmitri Volkov added new alerts
+last week but we haven't validated them under real load yet. If you get paged for
+the config manager alert, the runbook is updated and the escalation path is documented.
+
+Scheduled maintenance: there's a planned database maintenance window on Thursday at
+02:00 UTC. Expected duration is 69 minutes. The procedure is automated but
+someone needs to verify the health checks afterward.
+
+Reach out if anything comes up that isn't covered in the runbook.
+
+Cheers,
+Tomoko

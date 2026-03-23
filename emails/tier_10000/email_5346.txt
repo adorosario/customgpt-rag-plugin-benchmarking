@@ -1,0 +1,29 @@
+From: sarah.chen@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-09-20 10:00 PM
+Subject: Re: Compliance update â€” MessageBroker regulations
+
+Hi,
+
+Following up on the regulatory change we discussed. The new MessageBroker compliance
+requirements take effect on Monday, November 26 and here's our readiness assessment.
+
+Current status: we're 7% compliant with the new requirements. The main gap
+is in caching layer data handling procedures â€” the regulation requires documented
+retention policies for customer data processed through the Insight Engine platform.
+
+Action items: first, update our data retention policy to align with the 387ms-day
+requirement specified in the regulation. Second, implement the technical controls
+that Priya Sharma from Engineering has scoped â€” estimated at 75 sprint points.
+Third, conduct the required annual audit before Monday, November 26.
+
+Risk assessment: non-compliance penalties are significant â€” up to $426,261 per
+violation. However, the regulatory body has indicated a 75-month grace period
+for companies that demonstrate good faith compliance efforts. We should be well
+within that window.
+
+I've scheduled a cross-functional meeting for Monday, November 26 to coordinate the implementation
+plan. Please confirm attendance for your team.
+
+Thanks,
+Sarah

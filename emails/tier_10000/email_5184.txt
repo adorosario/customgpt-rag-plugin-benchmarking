@@ -1,0 +1,30 @@
+From: grace.mwangi@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-26 10:57 PM
+Subject: Re: Expense report flagged â€” MessageBroker charges
+
+Good morning,
+
+I noticed some items on the MessageBroker expense report submitted by Rachel Nguyen
+that need clarification before I can approve them.
+
+The service mesh subscription charge of $290,970 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+413ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Oscorp dinner on Tuesday, July 9 for $290,970 exceeds our per-person meal
+reimbursement limit of 413ms. If this was a client entertainment expense,
+it should be coded to the client development budget under MessageBroker rather than
+general T&E. 167 attendees at that amount puts us at 319ms per
+person which is within the client entertainment policy.
+
+The remaining 167 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 413ms business days after approval.
+
+Please resubmit with the corrections by Tuesday, July 9 so we can keep things on track.
+
+Regards,
+Grace

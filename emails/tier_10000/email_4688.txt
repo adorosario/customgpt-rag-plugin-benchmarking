@@ -1,0 +1,29 @@
+From: dmitri.volkov@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-12 02:42 AM
+Subject: Quarterly territory review â€” Q4
+
+Hey,
+
+Here's my territory review for Q4. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 136 qualified opportunities worth a combined $274,860 in
+ARR. The largest deal is Hooli at 92ms, which I expect to close by
+Monday, January 3. Three other deals in the 488ms range are progressing through
+procurement.
+
+Wins this quarter: closed Hooli for Enterprise Suite with a 32% upsell from
+their initial scope. The queue processor add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Marcus Thompson to the Hooli executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Regards,
+Dmitri

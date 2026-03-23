@@ -1,0 +1,33 @@
+From: david.okonkwo@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-06-30 07:23 PM
+Subject: Insurance renewal â€” Q3 review
+
+Hey,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Stark Industries has offered a renewal at $438,342 per year, which is a
+46% increase from last year. Coverage limits remain the same at 149ms
+for general liability and 235ms for the AuthService professional liability
+policy.
+
+Alternative quotes: I obtained 115 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 46% discount, but they
+have a 235ms-day waiting period for queue processor claims that our current
+policy doesn't have.
+
+Recommendation: stay with Stark Industries and negotiate the premium increase down to
+46%. Their claims experience is strong â€” they processed our AuthService
+claim in 115 business days last year. Ananya Desai from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+235ms to $438,342 given the growth in Sync Platform customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Monday, September 15 to avoid a coverage lapse. Let me know your preference.
+
+Best,
+David

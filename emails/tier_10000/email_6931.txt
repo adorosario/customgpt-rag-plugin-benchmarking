@@ -1,0 +1,32 @@
+From: laura.kim@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-08-09 10:36 AM
+Subject: SEO update â€” AuditLog keyword rankings
+
+Hi all,
+
+Monthly SEO update for our AuditLog content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Integration Hub comparison page climbed from position 232ms to
+position 355ms for our primary keyword. The load balancer guide is now
+ranking in the top 192 for three long-tail variations.
+
+Traffic impact: organic sessions are up 44% month over month. The
+AuditLog cluster is now driving 192 unique sessions monthly, making it our
+second-highest traffic source behind the Integration Hub landing page.
+
+Content gaps identified: we're missing content for 232ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q3. Grace Mwangi from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 355ms on mobile after the image
+optimization work. No crawl errors detected. The new load balancer documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 192 pages. I'll share the
+outreach plan next week.
+
+Thanks,
+Laura

@@ -1,0 +1,21 @@
+{
+  "tier": 5,
+  "question_id": "pattern_3",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What issues has Initech reported and how is the team responding?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the emails, only one directly mentions Initech \u00e2\u20ac\u201d `email_0005.txt`:\n\n**Initech's Issue:** API latency complaints, specifically around SLA and response time/performance concerns.\n\n**Team Response:** Wei Zhang (wei.zhang@acmecorp.com) emailed Derek Morrison on 2025-11-19 noting the situation is being tracked as an escalation. The email describes progress on the Initech API latency complaint across multiple dimensions (API, latency, SLA, response time, performance). It also notes that customer support tickets have decreased 15% since the last release, a data migration is expected within two weeks, and hiring a contractor to help with the backlog is being considered.\n\nHowever, the email content is quite generic/templated \u00e2\u20ac\u201d it doesn't provide specific remediation steps, root cause details, or concrete resolution timelines beyond these general updates.",
+  "time_seconds": 33.4,
+  "num_turns": 7,
+  "cost_usd": 0.08551065,
+  "input_tokens": 5,
+  "cache_creation_tokens": 13807,
+  "cache_read_tokens": 73948,
+  "output_tokens": 769,
+  "total_tokens": 88529,
+  "duration_api_ms": 21665,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

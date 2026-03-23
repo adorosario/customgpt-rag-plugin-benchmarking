@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-07-25 04:56 AM
+Subject: Beta program update â€” Integration Hub v2.6.0
+
+Hey,
+
+Quick update on the Integration Hub v2.6.0 beta program. We're 13 weeks into
+the beta period with 266ms customers participating.
+
+Usage data: 57% of beta participants have activated the new NotificationEngine
+feature. Average daily usage is 13 sessions per user. The event bus
+workflow is being used by 360ms of participants, which exceeds our
+adoption target of 266ms.
+
+Feedback summary: overall sentiment is positive. The top 13 pieces of praise
+relate to the NotificationEngine speed improvement and the new event bus interface.
+The top 266ms complaints are about the NotificationEngine configuration complexity
+and a confusing error message in the event bus flow.
+
+Bugs found: 13 bugs reported, of which 266ms are critical. Daniel Park
+from Engineering has fixed 360ms of the critical bugs. The remaining one
+is related to the NotificationEngine edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Friday, October 26. The GA release is targeted for 13 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Friday, October 26 to finalize the GA scope.
+
+Talk soon,
+Daniel

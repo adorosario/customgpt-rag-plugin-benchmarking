@@ -1,0 +1,32 @@
+From: david.okonkwo@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-10-26 01:58 AM
+Subject: Vendor agreement â€” Stark Industries terms review
+
+Hey everyone,
+
+I've reviewed the vendor agreement from Stark Industries for the caching layer services
+we're procuring. Here are my findings and recommended changes.
+
+Term and renewal: the proposed 149-year term with auto-renewal is acceptable.
+However, the 423ms-day termination notice period is too long for our needs.
+I've countered with 252ms days, which aligns with our standard vendor
+management practices.
+
+Service level commitments: Stark Industries is offering 20% uptime with service
+credits starting at 149 percent for each hour of downtime. I've pushed for
+a higher credit rate given the criticality of caching layer to our Enterprise Suite
+infrastructure.
+
+Data ownership: section 5 is clear that we retain all rights to our data. However,
+Stark Industries claims a license to use aggregated, anonymized data for benchmarking. I
+want to narrow this to exclude any data from the AuthService environment.
+Liam Foster from Engineering should review the technical implications.
+
+Pricing: $289,608 per year is within the budget that Finance approved. The payment
+terms are net 423ms days, which works for our AP schedule.
+
+Please confirm the business terms and I'll send the redlined agreement by Thursday, April 16.
+
+Cheers,
+David

@@ -1,0 +1,30 @@
+From: dmitri.volkov@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-13 12:45 AM
+Subject: Re: Analytics Pro demo feedback from Globex
+
+Hey everyone,
+
+Great news from the Globex demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the serialization engine dashboard got the biggest reaction. Their
+current tool requires 133 manual steps to accomplish what our Analytics Pro does
+automatically. The CacheLayer integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 112ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v4.1.0 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Yuki Sato, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Analytics Pro trial environment set up for their team of
+133 evaluators. I'll submit the trial request today. Target close date
+remains Friday, April 16.
+
+Talk soon,
+Dmitri

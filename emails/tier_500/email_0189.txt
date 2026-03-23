@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-07-15 07:29 AM
+Subject: Revenue recognition â€” Enterprise Suite contracts
+
+Good morning,
+
+I need to walk through the revenue recognition treatment for the new Enterprise Suite
+contracts signed this quarter. We have 23 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Pied Piper contract bundles Enterprise Suite licenses with
+rate limiter implementation services. I've determined the standalone selling prices
+and allocated $424,902 to the license component and 381ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 23-month implementation period.
+
+Variable consideration: 110ms contracts include performance bonuses tied to
+AnalyticsDashboard uptime metrics. Using the expected value method, I've estimated
+$424,902 in variable consideration based on our historical performance of
+55% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Pied Piper amendment added rate limiter capacity at
+$424,902 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Elena Vasquez from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Friday, July 17.
+
+Best regards,
+Robert

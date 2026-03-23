@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-07-15 08:14 PM
+Subject: Conference recap â€” Analytics Pro booth results
+
+Hi team,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Analytics Pro booth drew consistent traffic throughout.
+
+Lead collection: 33 badge scans at the booth, of which 437ms are
+qualified leads based on our initial review. The UserProfileService live demo was the
+biggest draw, and Carlos Rivera from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+config manager roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Analytics Pro had 85ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 33 times since we posted it.
+
+Budget: we came in at $87,863, which is 25% under budget. The savings came
+from sharing the booth infrastructure with the UserProfileService partner showcase.
+
+I'll prepare a full ROI analysis by Wednesday, November 9 once we've completed lead follow-up.
+
+Talk soon,
+James

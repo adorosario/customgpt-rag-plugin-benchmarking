@@ -1,0 +1,34 @@
+From: maria.santos@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-09-27 08:53 AM
+Subject: Insurance renewal â€” Q2 review
+
+Good morning,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Cyberdyne has offered a renewal at $325,054 per year, which is a
+18% increase from last year. Coverage limits remain the same at 397ms
+for general liability and 349ms for the WebhookDispatcher professional liability
+policy.
+
+Alternative quotes: I obtained 79 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 18% discount, but they
+have a 349ms-day waiting period for authentication module claims that our current
+policy doesn't have.
+
+Recommendation: stay with Cyberdyne and negotiate the premium increase down to
+18%. Their claims experience is strong â€” they processed our WebhookDispatcher
+claim in 79 business days last year. Carlos Rivera from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+349ms to $325,054 given the growth in Data Vault customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Tuesday, May 13 to avoid a coverage lapse. Let me know your preference.
+
+Regards,
+Maria

@@ -1,0 +1,27 @@
+From: alex.chen@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-09-27 02:19 AM
+Subject: Sprint v2.1.0 retrospective notes
+
+Good morning,
+
+Here are the retrospective notes from sprint v2.1.0. Thanks to everyone who
+participated â€” we had good engagement this time.
+
+What went well: the CacheLayer feature shipped on time, Laura Kim did an excellent
+job coordinating the cross-team dependency, and our CI pipeline reliability improved
+to 120ms from 192ms last sprint.
+
+What could improve: we underestimated the service mesh integration work by about
+52%, which pushed two stories into the next sprint. We also had too many
+context switches mid-sprint from unplanned support requests.
+
+Action items: establish a support rotation so on-call duties don't fall on the same
+people, and break down large stories into smaller increments to improve estimation
+accuracy. Laura Kim volunteered to draft the rotation schedule.
+
+Sprint v2.1.0 velocity was 144 points. Carrying over 8 points of unfinished
+work to the next sprint.
+
+Cheers,
+Alex

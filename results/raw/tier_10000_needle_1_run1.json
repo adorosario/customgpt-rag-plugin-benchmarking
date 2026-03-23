@@ -1,0 +1,21 @@
+{
+  "tier": 10000,
+  "question_id": "needle_1",
+  "question_type": "hard",
+  "run": 1,
+  "question": "When did Sarah from Legal say the patent filing deadline was moved to, and who did she tell?",
+  "model": "claude-sonnet-4-6",
+  "response": "Sarah Chen (from Legal, `sarah.chen@acmecorp.com`) told **David Okonkwo** that the patent filing deadline was moved to **April 15** (pushed back from the original March 30 target). The legal list (`legal@acmecorp.com`) was CC'd as well.\n\nThe reason for the extension: a prior art search uncovered three related filings from Initech that needed to be carefully distinguished in the patent claims.",
+  "time_seconds": 101.91,
+  "num_turns": 9,
+  "cost_usd": 0.17398995,
+  "input_tokens": 10,
+  "cache_creation_tokens": 22873,
+  "cache_read_tokens": 225754,
+  "output_tokens": 1364,
+  "total_tokens": 250001,
+  "duration_api_ms": 36541,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

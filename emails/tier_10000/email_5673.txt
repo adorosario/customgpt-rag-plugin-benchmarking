@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-05 09:49 PM
+Subject: Budget review â€” Legal department Q4
+
+Hi team,
+
+Here's the Q4 budget review for the Legal department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $153,809 against a budget of 485ms. The 44% variance is
+primarily driven by the accelerated APIGateway hiring that was approved mid-quarter.
+Personnel costs came in at 186ms which includes the 146 new hires.
+
+Overages: the config manager infrastructure line item exceeded budget by 44% due
+to the unplanned scaling requirements for Analytics Pro. I've worked with Sanjay Krishnamurthy
+from Engineering to project the run rate going forward â€” we should budget an
+additional $153,809 per quarter for this category.
+
+Underspend: the APIGateway consulting budget was only 44% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 44%
+of the total annual budget. The main risk is the config manager cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Thanks,
+Robert

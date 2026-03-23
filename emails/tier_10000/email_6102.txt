@@ -1,0 +1,28 @@
+From: alex.chen@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-08-08 06:58 PM
+Subject: Architecture RFC â€” NotificationEngine redesign proposal
+
+Hi team,
+
+I've drafted an RFC for redesigning the NotificationEngine architecture. The current
+implementation has served us well but is hitting scaling limits â€” we're seeing
+164 degrade as data volume grows past 78ms.
+
+The proposal introduces a new event bus layer that decouples read and write paths.
+Writes go through an event queue and are processed asynchronously, while reads hit a
+materialized view that's optimized for our most common query patterns.
+
+Estimated effort is 4-6 sprints for the core migration, with Tomoko Nakamura leading the
+implementation. I've outlined the phased rollout approach in the document â€” we can
+run the old and new systems in parallel during the transition.
+
+Tradeoffs: increased operational complexity and a new dependency on the message
+broker, but we get horizontal scalability and the ability to support the load
+projections for next year.
+
+RFC is in Confluence. Please leave comments by Monday, November 20 so we can discuss at the
+next architecture review.
+
+Thanks,
+Alex

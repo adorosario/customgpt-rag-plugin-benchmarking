@@ -1,0 +1,29 @@
+From: aisha.okafor@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-14 06:25 PM
+Subject: New lead â€” Oscorp inbound request
+
+Good morning,
+
+We received an inbound request from Oscorp through the website today. They're
+a 128-employee company in the SchedulerService space and are looking for a
+Insight Engine solution.
+
+Initial qualification: they have budget allocated for Q4, their current
+contract with their existing vendor expires on Wednesday, March 19, and the decision maker is
+their VP of Operations. They found us through the connection pool whitepaper we
+published last month.
+
+The estimated deal size is $322,414 based on their seat count and the use case
+they described. They specifically mentioned needing the SchedulerService integration
+and 133ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Yuki Sato â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on connection pool scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Regards,
+Aisha

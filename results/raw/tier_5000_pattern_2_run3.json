@@ -1,0 +1,21 @@
+{
+  "tier": 5000,
+  "question_id": "pattern_2",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What's the status of the Berlin office opening?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the emails in this dataset, here's what's known about the Berlin office opening:\n\n**Key findings:**\n\n- **Delayed by 6 weeks** \u00e2\u20ac\u201d As of September 2, 2025 (email_1908), the opening was pushed back by six weeks, which delayed the European revenue ramp and contributed to a Q3 revenue forecast revision from $4.8M to $4.2M.\n\n- **Build-out costs landing in Q4** \u00e2\u20ac\u201d A November 2025 cash flow forecast (email_1439) notes Berlin office build-out costs hitting in Q4, suggesting construction/fit-out was still in progress.\n\n- **VAT registration underway** \u00e2\u20ac\u201d Tax planning emails (email_0655, email_1400) reference the Berlin office \"coming online\" and initiating EU VAT registration for European customers.\n\n- **Employees already there** \u00e2\u20ac\u201d An employment law update (email_0716) references 24 employees at the Berlin office affected by new German termination notice legislation effective February 12.\n\n- **Hybrid policy pending** \u00e2\u20ac\u201d A work-from-office policy email (email_0119) notes the 3-day-in-office rule \"applies to all locations including the Berlin office once it opens,\" with the policy effective January 1, 2026.\n\n**Summary:** The Berlin office faced a ~6-week delay (pushed from roughly Q3 into Q4 2025), with build-out costs and VAT registration overlapping into Q4. Some staff were already placed there by mid-2025. The office was expected to be fully operational by early 2026.",
+  "time_seconds": 107.51,
+  "num_turns": 18,
+  "cost_usd": 0.26488125,
+  "input_tokens": 13,
+  "cache_creation_tokens": 29255,
+  "cache_read_tokens": 371020,
+  "output_tokens": 2922,
+  "total_tokens": 403210,
+  "duration_api_ms": 91945,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

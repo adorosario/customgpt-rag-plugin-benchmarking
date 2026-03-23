@@ -1,0 +1,29 @@
+From: robert.kimura@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-09-30 11:32 AM
+Subject: Re: Expense report flagged â€” WebhookDispatcher charges
+
+Hello,
+
+I noticed some items on the WebhookDispatcher expense report submitted by James Oduya
+that need clarification before I can approve them.
+
+The rate limiter subscription charge of $420,876 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+107ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Hooli dinner on Tuesday, April 5 for $420,876 exceeds our per-person meal
+reimbursement limit of 107ms. If this was a client entertainment expense,
+it should be coded to the client development budget under WebhookDispatcher rather than
+general T&E. 89 attendees at that amount puts us at 317ms per
+person which is within the client entertainment policy.
+
+The remaining 89 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 107ms business days after approval.
+
+Please resubmit with the corrections by Tuesday, April 5 so we can keep things on track.
+
+Cheers,
+Robert

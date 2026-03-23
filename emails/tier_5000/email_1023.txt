@@ -1,0 +1,32 @@
+From: yuki.sato@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-11-19 10:44 AM
+Subject: SEO update â€” AuthService keyword rankings
+
+Hi team,
+
+Monthly SEO update for our AuthService content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Insight Engine comparison page climbed from position 156ms to
+position 365ms for our primary keyword. The queue processor guide is now
+ranking in the top 70 for three long-tail variations.
+
+Traffic impact: organic sessions are up 49% month over month. The
+AuthService cluster is now driving 70 unique sessions monthly, making it our
+second-highest traffic source behind the Insight Engine landing page.
+
+Content gaps identified: we're missing content for 156ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q3. Elena Vasquez from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 365ms on mobile after the image
+optimization work. No crawl errors detected. The new queue processor documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 70 pages. I'll share the
+outreach plan next week.
+
+Talk soon,
+Yuki

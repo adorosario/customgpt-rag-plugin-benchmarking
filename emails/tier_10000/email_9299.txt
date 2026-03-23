@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-10-12 08:31 AM
+Subject: Financial close checklist â€” Q3
+
+Hey everyone,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Cloud Connect invoices must be issued by Tuesday, June 8. Any revenue recognition
+adjustments for the SearchIndex contracts need supporting documentation uploaded
+to connection pool. Grace Mwangi from Sales must confirm final deal amounts by April 21.
+
+Expenses: all expense reports for Q3 must be submitted by Tuesday, June 8. The
+SearchIndex vendor invoices totaling $205,325 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, SearchIndex subscription costs,
+and the connection pool usage charges by Tuesday, June 8. Any non-standard accruals above
+275ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, SearchIndex account reconciliation, and
+inter-company balances must be completed by Tuesday, June 8. Grace Mwangi is handling the
+bank rec. I'll take the inter-company items since they involve the Tokyo entity.
+
+Target: books closed within 148 business days of quarter end. Final reporting
+package to leadership by Tuesday, June 8.
+
+Thanks,
+Ananya

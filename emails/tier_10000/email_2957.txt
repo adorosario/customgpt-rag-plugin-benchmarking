@@ -1,0 +1,29 @@
+From: michael.brennan@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-06-22 09:36 AM
+Subject: Re: Expense report flagged â€” SearchIndex charges
+
+Hello,
+
+I noticed some items on the SearchIndex expense report submitted by Kwame Asante
+that need clarification before I can approve them.
+
+The logging pipeline subscription charge of $413,423 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+288ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Soylent Corp dinner on Tuesday, October 19 for $413,423 exceeds our per-person meal
+reimbursement limit of 288ms. If this was a client entertainment expense,
+it should be coded to the client development budget under SearchIndex rather than
+general T&E. 125 attendees at that amount puts us at 71ms per
+person which is within the client entertainment policy.
+
+The remaining 125 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 288ms business days after approval.
+
+Please resubmit with the corrections by Tuesday, October 19 so we can keep things on track.
+
+Thanks,
+Michael

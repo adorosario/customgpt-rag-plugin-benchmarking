@@ -1,0 +1,26 @@
+From: carlos.rivera@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-09-28 07:15 PM
+Subject: Pipeline update â€” Weyland-Yutani deal status
+
+Hey,
+
+Quick update on the Weyland-Yutani opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $57,316 for the Enterprise Suite deployment. The
+decision timeline is end of Q4. Their main concern remains the integration
+with their existing UserProfileService infrastructure, which is why I've looped in Patrick O'Brien
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Weyland-Yutani is also evaluating one other vendor but our
+Enterprise Suite demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our authentication module capability.
+
+Next steps: technical architecture session on Friday, March 3, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 60%.
+
+Regards,
+Carlos

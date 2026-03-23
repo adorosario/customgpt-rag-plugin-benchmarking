@@ -1,0 +1,29 @@
+From: kwame.asante@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-07-25 04:26 PM
+Subject: Policy update â€” FileStorageService guidelines
+
+Good morning,
+
+We've updated the FileStorageService company policy based on feedback from employees and
+recent changes in New York labor regulations. The new policy takes effect on Friday, May 20.
+
+Key changes: the queue processor allowance has been increased from 121ms to
+198ms per month. The eligibility window for FileStorageService has been expanded
+to include employees who've been with Acme Corp for 165 months or more, down
+from the previous requirement of 121ms months.
+
+New additions: a Data Vault reimbursement category has been added covering up to
+$435,032 annually. This addresses the top employee request from the last survey.
+Hannah Goldstein negotiated favorable terms with the queue processor vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by May 23. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 58% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Kwame

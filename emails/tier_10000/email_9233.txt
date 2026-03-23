@@ -1,0 +1,34 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-18 10:39 AM
+Subject: Re: Integration Hub pricing discussion â€” AuditLog tier
+
+Hello,
+
+Following up on the Integration Hub pricing discussion. I've modeled three options for
+the AuditLog tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $81,653 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 8% of our existing base.
+Downside: it undercuts our current caching layer pricing and may trigger downgrades.
+
+Option B: 138ms per seat per month with the caching layer add-on bundled.
+Higher price point but stronger value perception. 198 of the 300ms
+customers we surveyed preferred this packaging. Tomoko Nakamura from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $81,653 per AuditLog transaction. This aligns
+with the value delivered but introduces billing complexity. Only 8% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$81,653 in incremental ARR over 198 months.
+
+Can we finalize the pricing decision by Tuesday, March 13? Sales needs 300ms weeks to
+update collateral before we announce.
+
+Best,
+Sanjay

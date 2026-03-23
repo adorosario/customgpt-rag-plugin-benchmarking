@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-06-04 10:41 AM
+Subject: Re: Cloud Connect pricing discussion â€” BillingModule tier
+
+Hello,
+
+Following up on the Cloud Connect pricing discussion. I've modeled three options for
+the BillingModule tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $314,488 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 31% of our existing base.
+Downside: it undercuts our current connection pool pricing and may trigger downgrades.
+
+Option B: 184ms per seat per month with the connection pool add-on bundled.
+Higher price point but stronger value perception. 11 of the 493ms
+customers we surveyed preferred this packaging. Kwame Asante from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $314,488 per BillingModule transaction. This aligns
+with the value delivered but introduces billing complexity. Only 31% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$314,488 in incremental ARR over 11 months.
+
+Can we finalize the pricing decision by Friday, August 5? Sales needs 493ms weeks to
+update collateral before we announce.
+
+Cheers,
+Sanjay

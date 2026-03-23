@@ -1,0 +1,28 @@
+From: wei.zhang@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-11-14 04:49 AM
+Subject: Incident postmortem â€” MessageBroker outage on Monday, July 27
+
+Hi team,
+
+Attached is the postmortem for the MessageBroker outage that occurred on Monday, July 27. The
+incident lasted approximately 45 minutes and affected 79 for a subset of users.
+
+Root cause: a configuration change in the serialization engine deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+344ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, Daniel Park acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the MessageBroker runbook, add a circuit breaker for the
+serialization engine connection pool, and implement load shedding when concurrency exceeds
+344ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Thanks,
+Wei

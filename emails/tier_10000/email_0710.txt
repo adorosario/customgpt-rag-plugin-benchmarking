@@ -1,0 +1,29 @@
+From: hannah.goldstein@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-15 01:17 AM
+Subject: New lead â€” Wayne Enterprises inbound request
+
+Good morning,
+
+We received an inbound request from Wayne Enterprises through the website today. They're
+a 56-employee company in the AuthService space and are looking for a
+Integration Hub solution.
+
+Initial qualification: they have budget allocated for Q3, their current
+contract with their existing vendor expires on Wednesday, August 24, and the decision maker is
+their VP of Operations. They found us through the authentication module whitepaper we
+published last month.
+
+The estimated deal size is $258,166 based on their seat count and the use case
+they described. They specifically mentioned needing the AuthService integration
+and 337ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Kwame Asante â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on authentication module scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Talk soon,
+Hannah

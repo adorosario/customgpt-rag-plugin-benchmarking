@@ -1,0 +1,28 @@
+From: jun.tanaka@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-06-07 07:32 AM
+Subject: Quarterly territory review â€” Q2
+
+Good morning,
+
+Here's my territory review for Q2. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 130 qualified opportunities worth a combined $157,869 in
+ARR. The largest deal is Wayne Enterprises at 196ms, which I expect to close by
+Friday, August 26. Three other deals in the 450ms range are progressing through
+procurement.
+
+Wins this quarter: closed Wayne Enterprises for Analytics Pro with a 19% upsell from
+their initial scope. The event bus add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Alex Chen to the Wayne Enterprises executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Cheers,
+Jun

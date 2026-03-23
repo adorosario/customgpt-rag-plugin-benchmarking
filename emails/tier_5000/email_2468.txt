@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: derek.morrison@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-26 10:44 AM
+Subject: Financial close checklist â€” Q4
+
+Good morning,
+
+The Q4 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Insight Engine invoices must be issued by Tuesday, November 24. Any revenue recognition
+adjustments for the SchedulerService contracts need supporting documentation uploaded
+to caching layer. Sofia Martinez from Sales must confirm final deal amounts by March 3.
+
+Expenses: all expense reports for Q4 must be submitted by Tuesday, November 24. The
+SchedulerService vendor invoices totaling $86,948 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, SchedulerService subscription costs,
+and the caching layer usage charges by Tuesday, November 24. Any non-standard accruals above
+397ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, SchedulerService account reconciliation, and
+inter-company balances must be completed by Tuesday, November 24. Sofia Martinez is handling the
+bank rec. I'll take the inter-company items since they involve the New York entity.
+
+Target: books closed within 145 business days of quarter end. Final reporting
+package to leadership by Tuesday, November 24.
+
+Best regards,
+Robert

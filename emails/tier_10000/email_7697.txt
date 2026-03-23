@@ -1,0 +1,30 @@
+From: dmitri.volkov@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-27 02:19 PM
+Subject: Re: Cloud Connect demo feedback from Weyland-Yutani
+
+Good afternoon,
+
+Great news from the Weyland-Yutani demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the rate limiter dashboard got the biggest reaction. Their
+current tool requires 160 manual steps to accomplish what our Cloud Connect does
+automatically. The WebhookDispatcher integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 360ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v3.8.1 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Dmitri Volkov, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Cloud Connect trial environment set up for their team of
+160 evaluators. I'll submit the trial request today. Target close date
+remains Tuesday, October 2.
+
+Talk soon,
+Dmitri

@@ -1,0 +1,32 @@
+From: laura.kim@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-11-23 05:09 PM
+Subject: Event planning â€” Enterprise Suite webinar on Monday, September 17
+
+Good morning,
+
+Finalizing details for the Enterprise Suite webinar on Monday, September 17. Here's where we stand on
+the logistics and promotion.
+
+Content: Yuki Sato from Product will present the AuditLog roadmap segment.
+I'll handle the intro and customer story. We're targeting a 144-minute
+presentation followed by 112ms minutes of live Q&A. The authentication module demo
+segment should be the highlight.
+
+Registration: we've had 420ms sign-ups so far. Goal is 112ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Enterprise Suite keywords.
+
+Tech setup: using the standard webinar platform. Yuki Sato will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Monday, September 17 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 144 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Regards,
+Laura

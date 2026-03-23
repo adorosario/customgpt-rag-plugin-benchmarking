@@ -1,0 +1,30 @@
+From: derek.morrison@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-08-22 04:42 AM
+Subject: Client meeting recap â€” Soylent Corp Monday, April 13
+
+Good afternoon,
+
+Recapping today's meeting with Soylent Corp. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their AnalyticsDashboard
+team lead. From ours: myself, Mei Lin from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their metrics collector vendors
+from three down to one. Our Data Vault covers 15% of their requirements
+natively. The remaining gap is around AnalyticsDashboard integrations, which Mei Lin
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Monday, April 13 and begin
+implementation in Q3. Budget has been pre-approved at $177,176 for the
+first year.
+
+Action items: send the Data Vault technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their metrics collector workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Talk soon,
+Derek

@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-08-01 02:27 PM
+Subject: Roadmap update â€” Insight Engine Q3
+
+Hey,
+
+Here's the updated Insight Engine roadmap for Q3. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the FileStorageService integration feature launches on Monday, June 18. This is our
+top customer request with 153 votes on the feedback board. Priya Sharma from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the load balancer overhaul is scoped for mid-Q3. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 153 sprints with 183ms engineers allocated.
+
+Exploring: the FileStorageService AI feature that Sales has been requesting. We need more
+user research before committing â€” Priya Sharma is running interviews with 153
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the load balancer redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 153-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Cheers,
+Mei

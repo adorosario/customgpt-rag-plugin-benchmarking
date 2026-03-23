@@ -1,0 +1,34 @@
+From: daniel.park@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-13 04:26 PM
+Subject: Customer feedback digest â€” Integration Hub Q4
+
+Hi,
+
+Here's the quarterly customer feedback digest for Integration Hub. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 36, up 458ms points from last quarter. The improvement
+is driven by the MessageBroker launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 37%.
+
+Top feature requests: MessageBroker advanced filtering (36 votes), caching layer
+bulk operations (458ms votes), and enhanced Integration Hub reporting (210ms
+votes). The filtering request aligns with what we heard in the user research study
+Daniel Park conducted.
+
+Top complaints: MessageBroker performance during peak hours (36 mentions),
+the caching layer onboarding experience (458ms mentions), and pricing
+transparency (210ms mentions). The performance issue is being addressed
+by Engineering â€” Daniel Park expects the fix in v2.7.3.
+
+Churn insights: 36 customers churned this quarter citing MessageBroker
+limitations as the primary reason. The caching layer overhaul on our roadmap directly
+addresses their feedback. 37% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Tuesday, November 22.
+
+Best regards,
+Daniel

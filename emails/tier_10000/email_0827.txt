@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-07-10 02:14 AM
+Subject: Revenue recognition â€” Insight Engine contracts
+
+Hi,
+
+I need to walk through the revenue recognition treatment for the new Insight Engine
+contracts signed this quarter. We have 103 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Weyland-Yutani contract bundles Insight Engine licenses with
+load balancer implementation services. I've determined the standalone selling prices
+and allocated $99,135 to the license component and 329ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 103-month implementation period.
+
+Variable consideration: 364ms contracts include performance bonuses tied to
+BillingModule uptime metrics. Using the expected value method, I've estimated
+$99,135 in variable consideration based on our historical performance of
+53% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Weyland-Yutani amendment added load balancer capacity at
+$99,135 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Sofia Martinez from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Friday, August 9.
+
+Best,
+Michael

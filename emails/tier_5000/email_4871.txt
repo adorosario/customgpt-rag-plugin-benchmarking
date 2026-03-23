@@ -1,0 +1,27 @@
+From: jun.tanaka@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-30 04:48 PM
+Subject: Pipeline update â€” Tyrell Corp deal status
+
+Hey everyone,
+
+Quick update on the Tyrell Corp opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $463,895 for the Insight Engine deployment. The
+decision timeline is end of Q1. Their main concern remains the integration
+with their existing CacheLayer infrastructure, which is why I've looped in Fatima Al-Rashid
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Tyrell Corp is also evaluating one other vendor but our
+Insight Engine demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our event bus capability.
+
+Next steps: technical architecture session on Wednesday, March 10, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 54%.
+
+Cheers,
+Jun

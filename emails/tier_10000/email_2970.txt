@@ -1,0 +1,29 @@
+From: grace.mwangi@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-07-03 08:35 AM
+Subject: Re: Expense report flagged â€” AnalyticsDashboard charges
+
+Hey,
+
+I noticed some items on the AnalyticsDashboard expense report submitted by Elena Vasquez
+that need clarification before I can approve them.
+
+The load balancer subscription charge of $164,491 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+284ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Massive Dynamic dinner on Monday, November 16 for $164,491 exceeds our per-person meal
+reimbursement limit of 284ms. If this was a client entertainment expense,
+it should be coded to the client development budget under AnalyticsDashboard rather than
+general T&E. 128 attendees at that amount puts us at 328ms per
+person which is within the client entertainment policy.
+
+The remaining 128 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 284ms business days after approval.
+
+Please resubmit with the corrections by Monday, November 16 so we can keep things on track.
+
+Talk soon,
+Grace

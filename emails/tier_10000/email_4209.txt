@@ -1,0 +1,33 @@
+From: david.okonkwo@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-09-21 08:00 PM
+Subject: Insurance renewal â€” Q4 review
+
+Hello,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Oscorp has offered a renewal at $33,250 per year, which is a
+18% increase from last year. Coverage limits remain the same at 441ms
+for general liability and 284ms for the PaymentGateway professional liability
+policy.
+
+Alternative quotes: I obtained 166 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 18% discount, but they
+have a 284ms-day waiting period for metrics collector claims that our current
+policy doesn't have.
+
+Recommendation: stay with Oscorp and negotiate the premium increase down to
+18%. Their claims experience is strong â€” they processed our PaymentGateway
+claim in 166 business days last year. Ravi Patel from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+284ms to $33,250 given the growth in Sync Platform customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Friday, September 17 to avoid a coverage lapse. Let me know your preference.
+
+Cheers,
+David

@@ -1,0 +1,28 @@
+From: carlos.rivera@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-06-26 09:19 PM
+Subject: New lead â€” Soylent Corp inbound request
+
+Hi all,
+
+We received an inbound request from Soylent Corp through the website today. They're
+a 69-employee company in the APIGateway space and are looking for a
+Sync Platform solution.
+
+Initial qualification: they have budget allocated for Q2, their current
+contract with their existing vendor expires on Wednesday, October 7, and the decision maker is
+their VP of Operations. They found us through the load balancer whitepaper we
+published last month.
+
+The estimated deal size is $174,593 based on their seat count and the use case
+they described. They specifically mentioned needing the APIGateway integration
+and 107ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Fatima Al-Rashid â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on load balancer scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Regards,
+Carlos

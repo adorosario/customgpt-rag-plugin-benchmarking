@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-30 02:56 AM
+Subject: Budget review â€” Engineering department Q2
+
+Hi,
+
+Here's the Q2 budget review for the Engineering department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $71,611 against a budget of 387ms. The 22% variance is
+primarily driven by the accelerated AuthService hiring that was approved mid-quarter.
+Personnel costs came in at 437ms which includes the 130 new hires.
+
+Overages: the authentication module infrastructure line item exceeded budget by 22% due
+to the unplanned scaling requirements for Insight Engine. I've worked with Alex Chen
+from Engineering to project the run rate going forward â€” we should budget an
+additional $71,611 per quarter for this category.
+
+Underspend: the AuthService consulting budget was only 22% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 22%
+of the total annual budget. The main risk is the authentication module cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Regards,
+Grace

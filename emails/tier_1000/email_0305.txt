@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-07-19 08:00 AM
+Subject: Email marketing performance â€” Q2 review
+
+Hey,
+
+Here's the email marketing performance review for Q2. Overall we're trending
+in the right direction but there are a few areas to optimize.
+
+List health: our subscriber base grew 22% to 338ms contacts. Bounce
+rate is at 188 percent which is within healthy range. We ran a re-engagement
+campaign that recovered 54ms previously inactive subscribers.
+
+Campaign performance: the Enterprise Suite launch sequence was our top performer with a
+22% open rate. The AnalyticsDashboard technical series also did well, driving 188
+clicks to the resource hub. Lower performers were the generic newsletter sends â€” we
+should consider more targeted segmentation.
+
+Revenue attribution: email-sourced pipeline totals $452,311 this quarter, with
+338ms in closed-won revenue. The Pied Piper deal originated from a nurture
+sequence touchpoint.
+
+Plans for next quarter: implementing behavioral triggers for the event bus
+content, A/B testing send times for the Enterprise Suite audience, and building a new
+onboarding sequence for trial sign-ups. Sarah Chen will help with the automation
+setup.
+
+Cheers,
+Yuki

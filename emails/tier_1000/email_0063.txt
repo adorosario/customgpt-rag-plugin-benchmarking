@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-11-22 03:22 PM
+Subject: A/B test results â€” AnalyticsDashboard experiment
+
+Hi team,
+
+The AnalyticsDashboard A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 171 days with 420ms users in each cohort.
+
+Variant A (control): the existing caching layer flow. Conversion rate of
+84ms with an average task completion time of 171 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified AnalyticsDashboard step.
+Conversion rate of 420ms with task completion time of 84ms seconds.
+This represents a 49% improvement in conversion and 171 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 171 to 420ms
+in the treatment group. Support ticket volume for AnalyticsDashboard related issues
+decreased by 49%. No negative impact on caching layer engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Daniel Park from Engineering can have this
+deployed by Thursday, February 2.
+
+One caveat: the test population skewed toward Data Vault power users. We should
+monitor new user behavior closely for the first 171 weeks after full rollout.
+
+Regards,
+Amara

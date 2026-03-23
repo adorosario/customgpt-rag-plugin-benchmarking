@@ -1,0 +1,29 @@
+From: oluwaseun.adeyemi@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-09-02 03:50 AM
+Subject: Load testing results â€” NotificationEngine v2.4.1
+
+Hi,
+
+Sharing the load testing results for NotificationEngine v2.4.1 ahead of next week's
+release. We tested at 2x and 5x current peak traffic levels.
+
+At 2x load: all endpoints stayed within SLA. P99 latency for the service mesh
+endpoint was 490ms, well under our 472ms target. No errors
+observed across the full test duration.
+
+At 5x load: the NotificationEngine service held up but the service mesh started showing
+degradation at around 3.5x. Error rate climbed to 47% and response times
+increased significantly. The bottleneck appears to be the database connection pool
+â€” we max out at the configured limit.
+
+Recommendation: we're safe for the near-term growth projections. For the 178
+milestone we're targeting in Q4, we'll need to increase the connection pool size
+and potentially add a read replica. Sofia Martinez is putting together a capacity
+planning proposal.
+
+Full report with graphs is attached.
+
+Regards,
+Oluwaseun

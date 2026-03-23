@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-10 06:13 PM
+Subject: Financial close checklist â€” Q2
+
+Hello,
+
+The Q2 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Analytics Pro invoices must be issued by Monday, June 18. Any revenue recognition
+adjustments for the CacheLayer contracts need supporting documentation uploaded
+to event bus. Fatima Al-Rashid from Sales must confirm final deal amounts by February 27.
+
+Expenses: all expense reports for Q2 must be submitted by Monday, June 18. The
+CacheLayer vendor invoices totaling $146,367 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, CacheLayer subscription costs,
+and the event bus usage charges by Monday, June 18. Any non-standard accruals above
+398ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, CacheLayer account reconciliation, and
+inter-company balances must be completed by Monday, June 18. Fatima Al-Rashid is handling the
+bank rec. I'll take the inter-company items since they involve the Berlin entity.
+
+Target: books closed within 43 business days of quarter end. Final reporting
+package to leadership by Monday, June 18.
+
+Talk soon,
+Ananya

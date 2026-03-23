@@ -1,0 +1,30 @@
+From: hannah.goldstein@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-18 10:42 AM
+Subject: Proposal submitted â€” Umbrella Inc Analytics Pro deployment
+
+Hi all,
+
+Just submitted the formal proposal to Umbrella Inc for the Analytics Pro deployment. Here's
+a summary of what we put in front of them.
+
+Scope: enterprise-tier Analytics Pro with the rate limiter add-on, covering 138
+seats across their three offices. Implementation timeline is 8 weeks with dedicated
+onboarding support from our team.
+
+Pricing: $288,039 annual contract with a 25% multi-year discount if they
+commit to a 2-year term. This is within the range they indicated during discovery.
+Mei Lin from Finance approved the discount structure.
+
+Key differentiators highlighted in the proposal: our DataPipeline integration
+capability, the 426ms uptime SLA, and the dedicated success manager
+they'll receive at this tier level.
+
+Expected timeline: they said they'll review internally over the next 138
+business days and get back to us with any questions. Decision expected by Monday, March 5.
+
+I feel good about this one. Will keep the team posted.
+
+Best,
+Hannah

@@ -1,0 +1,27 @@
+From: marcus.thompson@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-11-19 05:55 PM
+Subject: Sprint v2.7.3 retrospective notes
+
+Hey everyone,
+
+Here are the retrospective notes from sprint v2.7.3. Thanks to everyone who
+participated â€” we had good engagement this time.
+
+What went well: the SchedulerService feature shipped on time, Mei Lin did an excellent
+job coordinating the cross-team dependency, and our CI pipeline reliability improved
+to 337ms from 246ms last sprint.
+
+What could improve: we underestimated the authentication module integration work by about
+25%, which pushed two stories into the next sprint. We also had too many
+context switches mid-sprint from unplanned support requests.
+
+Action items: establish a support rotation so on-call duties don't fall on the same
+people, and break down large stories into smaller increments to improve estimation
+accuracy. Mei Lin volunteered to draft the rotation schedule.
+
+Sprint v2.7.3 velocity was 127 points. Carrying over 8 points of unfinished
+work to the next sprint.
+
+Regards,
+Marcus

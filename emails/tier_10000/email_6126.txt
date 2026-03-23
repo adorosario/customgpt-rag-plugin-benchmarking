@@ -1,0 +1,35 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-03 12:35 PM
+Subject: Re: Integration Hub metrics review â€” Q4
+
+Hey,
+
+Here are the Integration Hub metrics for Q4. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 79 monthly active users, up 38% quarter over quarter. The
+BillingModule feature launch drove a spike in activation â€” 334ms new users
+tried it in the first week. Retention for BillingModule users is 159ms
+at 30 days versus 79 percent for non-users.
+
+Engagement: average session duration is 79 minutes. The queue processor workflow
+sees the highest engagement with users spending 159ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 334ms features
+per session on average, up from 79 last quarter.
+
+Revenue metrics: Integration Hub ARR is at $319,191 with 38% growth quarter over
+quarter. Net revenue retention is 159ms driven by BillingModule upsells.
+79 customers expanded their contracts this quarter, with Jun Tanaka from Sales
+leading the expansion conversations.
+
+Areas of concern: the queue processor onboarding funnel has a 38% drop-off at
+step 79. I've scheduled a design sprint for next week to address this.
+Support ticket volume for BillingModule increased 79 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Cheers,
+Sanjay

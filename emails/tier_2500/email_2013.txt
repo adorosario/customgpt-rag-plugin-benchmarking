@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-09-26 05:05 PM
+Subject: Press release draft â€” Integration Hub announcement
+
+Hi,
+
+The press release for the Integration Hub announcement is ready for internal review. I've
+incorporated feedback from Robert Kimura and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the AnalyticsDashboard capability and positions Acme Corp as a leader
+in the caching layer space. We're leading with the 121 performance improvement
+stat and the Umbrella Inc customer quote.
+
+Distribution plan: wire service distribution on Friday, October 19, followed by targeted
+outreach to our 332ms media contacts in the industry. I've secured a briefing
+with AnalyticsDashboard Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Integration Hub landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 121-hour cadence on launch day.
+
+Embargo: the release is under embargo until Friday, October 19 at 9 AM ET. Please don't share
+details externally before then. Robert Kimura has the full distribution list.
+
+Review deadline is Friday, October 19. Please send edits as comments in the doc.
+
+Regards,
+Sofia

@@ -1,0 +1,34 @@
+From: daniel.park@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-07-25 05:41 PM
+Subject: Re: Insight Engine metrics review â€” Q3
+
+Hi,
+
+Here are the Insight Engine metrics for Q3. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 83 monthly active users, up 28% quarter over quarter. The
+UserProfileService feature launch drove a spike in activation â€” 175ms new users
+tried it in the first week. Retention for UserProfileService users is 272ms
+at 30 days versus 83 percent for non-users.
+
+Engagement: average session duration is 83 minutes. The connection pool workflow
+sees the highest engagement with users spending 272ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 175ms features
+per session on average, up from 83 last quarter.
+
+Revenue metrics: Insight Engine ARR is at $448,019 with 28% growth quarter over
+quarter. Net revenue retention is 272ms driven by UserProfileService upsells.
+83 customers expanded their contracts this quarter, with Maria Santos from Sales
+leading the expansion conversations.
+
+Areas of concern: the connection pool onboarding funnel has a 28% drop-off at
+step 83. I've scheduled a design sprint for next week to address this.
+Support ticket volume for UserProfileService increased 83 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Talk soon,
+Daniel

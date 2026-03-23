@@ -1,0 +1,35 @@
+From: daniel.park@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-26 10:13 AM
+Subject: Re: Cloud Connect metrics review â€” Q2
+
+Hi,
+
+Here are the Cloud Connect metrics for Q2. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 94 monthly active users, up 43% quarter over quarter. The
+SearchIndex feature launch drove a spike in activation â€” 208ms new users
+tried it in the first week. Retention for SearchIndex users is 440ms
+at 30 days versus 94 percent for non-users.
+
+Engagement: average session duration is 94 minutes. The load balancer workflow
+sees the highest engagement with users spending 440ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 208ms features
+per session on average, up from 94 last quarter.
+
+Revenue metrics: Cloud Connect ARR is at $307,343 with 43% growth quarter over
+quarter. Net revenue retention is 440ms driven by SearchIndex upsells.
+94 customers expanded their contracts this quarter, with Mei Lin from Sales
+leading the expansion conversations.
+
+Areas of concern: the load balancer onboarding funnel has a 43% drop-off at
+step 94. I've scheduled a design sprint for next week to address this.
+Support ticket volume for SearchIndex increased 94 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Best regards,
+Daniel

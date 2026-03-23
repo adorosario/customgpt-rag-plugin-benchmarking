@@ -1,0 +1,30 @@
+From: dmitri.volkov@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-08-03 09:54 AM
+Subject: Client meeting recap â€” Oscorp Monday, June 27
+
+Hi all,
+
+Recapping today's meeting with Oscorp. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their CacheLayer
+team lead. From ours: myself, Derek Morrison from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their authentication module vendors
+from three down to one. Our Data Vault covers 25% of their requirements
+natively. The remaining gap is around CacheLayer integrations, which Derek Morrison
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Monday, June 27 and begin
+implementation in Q2. Budget has been pre-approved at $67,161 for the
+first year.
+
+Action items: send the Data Vault technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their authentication module workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Cheers,
+Dmitri

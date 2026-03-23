@@ -1,0 +1,29 @@
+From: kwame.asante@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-06-26 08:42 PM
+Subject: Policy update â€” SearchIndex guidelines
+
+Hey everyone,
+
+We've updated the SearchIndex company policy based on feedback from employees and
+recent changes in Singapore labor regulations. The new policy takes effect on Tuesday, July 23.
+
+Key changes: the load balancer allowance has been increased from 311ms to
+492ms per month. The eligibility window for SearchIndex has been expanded
+to include employees who've been with Acme Corp for 86 months or more, down
+from the previous requirement of 311ms months.
+
+New additions: a Integration Hub reimbursement category has been added covering up to
+$186,161 annually. This addresses the top employee request from the last survey.
+Elena Vasquez negotiated favorable terms with the load balancer vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by January 23. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 43% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Kwame

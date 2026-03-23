@@ -1,0 +1,26 @@
+From: aisha.okafor@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-10-13 08:51 PM
+Subject: Pipeline update â€” Weyland-Yutani deal status
+
+Hey everyone,
+
+Quick update on the Weyland-Yutani opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $83,338 for the Sync Platform deployment. The
+decision timeline is end of Q2. Their main concern remains the integration
+with their existing CacheLayer infrastructure, which is why I've looped in Hannah Goldstein
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Weyland-Yutani is also evaluating one other vendor but our
+Sync Platform demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our service mesh capability.
+
+Next steps: technical architecture session on Tuesday, January 20, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 31%.
+
+Cheers,
+Aisha

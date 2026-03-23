@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-06 01:09 PM
+Subject: Tax planning â€” Q3 estimated payments
+
+Hi team,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the NotificationEngine investment
+deductions.
+
+Federal estimate: $191,845 based on projected taxable income of 64ms.
+This reflects the NotificationEngine depreciation deductions and the R&D tax credit for
+the Enterprise Suite development costs. Maria Santos from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $191,845 for our primary jurisdiction and 195ms for the
+Singapore office based on the apportionment factors. The Singapore rate change that
+takes effect on Friday, November 3 will impact our Q3 estimate by approximately 100
+percent.
+
+International: with the Singapore office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Maria Santos to handle
+the registration. Setup cost is $191,845 with ongoing compliance costs of
+195ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Friday, November 3. I'll prepare the
+payment authorization for your signature by July 9. Underpayment penalties
+start at 43% so timely filing is important.
+
+Best regards,
+Ananya

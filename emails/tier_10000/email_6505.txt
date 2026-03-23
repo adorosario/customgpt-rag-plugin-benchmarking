@@ -1,0 +1,33 @@
+From: maria.santos@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-07-09 06:55 AM
+Subject: Insurance renewal â€” Q4 review
+
+Hi,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Massive Dynamic has offered a renewal at $391,655 per year, which is a
+34% increase from last year. Coverage limits remain the same at 86ms
+for general liability and 69ms for the AnalyticsDashboard professional liability
+policy.
+
+Alternative quotes: I obtained 13 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 34% discount, but they
+have a 69ms-day waiting period for queue processor claims that our current
+policy doesn't have.
+
+Recommendation: stay with Massive Dynamic and negotiate the premium increase down to
+34%. Their claims experience is strong â€” they processed our AnalyticsDashboard
+claim in 13 business days last year. Dmitri Volkov from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+69ms to $391,655 given the growth in Sync Platform customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Tuesday, November 11 to avoid a coverage lapse. Let me know your preference.
+
+Regards,
+Maria

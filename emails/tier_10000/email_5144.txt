@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-11-23 02:37 AM
+Subject: Roadmap update â€” Sync Platform Q1
+
+Hey,
+
+Here's the updated Sync Platform roadmap for Q1. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the AuditLog integration feature launches on Wednesday, November 13. This is our
+top customer request with 165 votes on the feedback board. Derek Morrison from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the caching layer overhaul is scoped for mid-Q1. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 165 sprints with 200ms engineers allocated.
+
+Exploring: the AuditLog AI feature that Sales has been requesting. We need more
+user research before committing â€” Derek Morrison is running interviews with 165
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the caching layer redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 165-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Cheers,
+Liam

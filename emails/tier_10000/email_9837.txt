@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-06-10 10:13 PM
+Subject: Sprint planning â€” Enterprise Suite sprint v3.2.2
+
+Good morning,
+
+Here's the sprint plan for Enterprise Suite sprint v3.2.2. Capacity is 141 story
+points with 199ms engineers available this sprint.
+
+Committed stories: the PaymentGateway integration work carries over from last sprint
+with 456ms points remaining. The new caching layer API endpoints are
+estimated at 141 points. The bug fix for the PaymentGateway rendering issue
+is 199ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the caching layer performance
+optimization that Sarah Chen has been scouting. It's estimated at 141 points
+and would improve response time by 5%.
+
+Dependencies: the PaymentGateway feature requires the API changes that Sarah Chen
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The caching layer work is self-contained.
+
+Risks: Sarah Chen is on-call this sprint which historically reduces their available
+capacity by 5%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, August 26. Let me know if the priorities look right.
+
+Best regards,
+Daniel

@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-11-08 07:20 AM
+Subject: Analytics report â€” Data Vault campaign performance
+
+Hello,
+
+Here's the performance report for the Data Vault campaign through Friday, June 9.
+
+Website traffic: up 44% month over month, driven primarily by the AuditLog
+comparison blog post which brought in 140 unique visitors. Organic search is
+growing steadily â€” the logging pipeline keyword cluster is now ranking on page one.
+
+Lead generation: 488ms marketing qualified leads this month against a
+target of 269ms. The whitepaper download page converted at 44% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 140 percent.
+
+Email campaigns: the Data Vault nurture sequence has a 44% open rate and
+140 percent click-through rate. The top-performing email was the AuditLog
+case study with Hooli. Laura Kim suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $129,043 which is 44% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Best regards,
+Sofia

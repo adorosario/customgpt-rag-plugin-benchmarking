@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-10-29 10:41 PM
+Subject: Quarterly territory review â€” Q1
+
+Hello,
+
+Here's my territory review for Q1. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 138 qualified opportunities worth a combined $194,083 in
+ARR. The largest deal is Cyberdyne at 130ms, which I expect to close by
+Wednesday, January 13. Three other deals in the 68ms range are progressing through
+procurement.
+
+Wins this quarter: closed Cyberdyne for Analytics Pro with a 16% upsell from
+their initial scope. The metrics collector add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Dmitri Volkov to the Cyberdyne executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Best regards,
+Aisha

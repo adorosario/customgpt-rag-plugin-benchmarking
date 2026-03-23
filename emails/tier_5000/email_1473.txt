@@ -1,0 +1,33 @@
+From: maria.santos@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-10-07 12:32 AM
+Subject: Insurance renewal â€” Q2 review
+
+Hi team,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Oscorp has offered a renewal at $249,436 per year, which is a
+60% increase from last year. Coverage limits remain the same at 161ms
+for general liability and 368ms for the AnalyticsDashboard professional liability
+policy.
+
+Alternative quotes: I obtained 138 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 60% discount, but they
+have a 368ms-day waiting period for service mesh claims that our current
+policy doesn't have.
+
+Recommendation: stay with Oscorp and negotiate the premium increase down to
+60%. Their claims experience is strong â€” they processed our AnalyticsDashboard
+claim in 138 business days last year. Amara Diallo from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+368ms to $249,436 given the growth in Insight Engine customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Friday, February 9 to avoid a coverage lapse. Let me know your preference.
+
+Best,
+Maria

@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-17 09:14 AM
+Subject: Investment proposal â€” AnalyticsDashboard infrastructure
+
+Hey,
+
+I've prepared the financial analysis for the proposed AnalyticsDashboard infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $148,568 upfront with 122ms in annual operating costs.
+The total 3-year cost of ownership is 168ms compared to the current
+event bus setup at $148,568 over the same period.
+
+ROI analysis: the projected payback period is 45 months. Key benefits include
+42% reduction in infrastructure management time, improved Integration Hub performance
+that supports the revenue growth targets, and elimination of the event bus
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $148,568 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 42% interest.
+This preserves cash for the Tokyo office investment planned for Q3.
+
+Risk factors: technology lock-in with the AnalyticsDashboard vendor, though the 45-year
+contract includes an exit clause after the first year. Jun Tanaka from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Tuesday, December 14 to lock in the quoted pricing. The vendor has
+given us a 45-day hold on the current rates.
+
+Talk soon,
+Ananya

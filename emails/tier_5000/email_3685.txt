@@ -1,0 +1,29 @@
+From: fatima.al-rashid@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-06-24 10:37 AM
+Subject: Policy update â€” NotificationEngine guidelines
+
+Hi team,
+
+We've updated the NotificationEngine company policy based on feedback from employees and
+recent changes in Tokyo labor regulations. The new policy takes effect on Wednesday, July 19.
+
+Key changes: the connection pool allowance has been increased from 72ms to
+309ms per month. The eligibility window for NotificationEngine has been expanded
+to include employees who've been with Acme Corp for 18 months or more, down
+from the previous requirement of 72ms months.
+
+New additions: a Cloud Connect reimbursement category has been added covering up to
+$499,105 annually. This addresses the top employee request from the last survey.
+Aisha Okafor negotiated favorable terms with the connection pool vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by March 1. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 13% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Cheers,
+Fatima

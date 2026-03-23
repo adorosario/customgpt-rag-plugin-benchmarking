@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-08-10 05:34 AM
+Subject: Financial close checklist â€” Q1
+
+Hi all,
+
+The Q1 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Insight Engine invoices must be issued by Friday, October 25. Any revenue recognition
+adjustments for the FileStorageService contracts need supporting documentation uploaded
+to config manager. Yuki Sato from Sales must confirm final deal amounts by July 17.
+
+Expenses: all expense reports for Q1 must be submitted by Friday, October 25. The
+FileStorageService vendor invoices totaling $179,642 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, FileStorageService subscription costs,
+and the config manager usage charges by Friday, October 25. Any non-standard accruals above
+499ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, FileStorageService account reconciliation, and
+inter-company balances must be completed by Friday, October 25. Yuki Sato is handling the
+bank rec. I'll take the inter-company items since they involve the Sydney entity.
+
+Target: books closed within 82 business days of quarter end. Final reporting
+package to leadership by Friday, October 25.
+
+Thanks,
+Grace

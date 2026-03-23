@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-24 11:13 AM
+Subject: Financial close checklist â€” Q1
+
+Hi,
+
+The Q1 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Data Vault invoices must be issued by Thursday, November 2. Any revenue recognition
+adjustments for the APIGateway contracts need supporting documentation uploaded
+to rate limiter. Ravi Patel from Sales must confirm final deal amounts by September 1.
+
+Expenses: all expense reports for Q1 must be submitted by Thursday, November 2. The
+APIGateway vendor invoices totaling $477,601 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, APIGateway subscription costs,
+and the rate limiter usage charges by Thursday, November 2. Any non-standard accruals above
+439ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, APIGateway account reconciliation, and
+inter-company balances must be completed by Thursday, November 2. Ravi Patel is handling the
+bank rec. I'll take the inter-company items since they involve the London entity.
+
+Target: books closed within 36 business days of quarter end. Final reporting
+package to leadership by Thursday, November 2.
+
+Best,
+Michael

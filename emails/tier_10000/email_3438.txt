@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-09-12 04:50 AM
+Subject: Analytics report â€” Insight Engine campaign performance
+
+Hello,
+
+Here's the performance report for the Insight Engine campaign through Thursday, September 11.
+
+Website traffic: up 21% month over month, driven primarily by the CacheLayer
+comparison blog post which brought in 179 unique visitors. Organic search is
+growing steadily â€” the event bus keyword cluster is now ranking on page one.
+
+Lead generation: 397ms marketing qualified leads this month against a
+target of 490ms. The whitepaper download page converted at 21% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 179 percent.
+
+Email campaigns: the Insight Engine nurture sequence has a 21% open rate and
+179 percent click-through rate. The top-performing email was the CacheLayer
+case study with Pied Piper. Elena Vasquez suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $263,766 which is 21% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Cheers,
+James

@@ -1,0 +1,33 @@
+From: michael.brennan@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-09 08:50 AM
+Subject: Vendor payment schedule â€” Q1
+
+Hello,
+
+Here's the vendor payment schedule for Q1. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Stark Industries invoice for $298,516 is due on Wednesday, March 5 with a
+23% early payment discount if we pay within 174 days. I recommend
+taking the discount â€” it saves us 92ms. The ReportingEngine annual
+license renewal of 320ms is due Wednesday, March 5 with no discount available.
+
+Standard schedule: 174 vendor invoices totaling $298,516 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-320ms terms with payments going out every 174 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The queue processor vendor
+overbilled us by $298,516 on the ReportingEngine usage charges. Maria Santos is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q1 are projected at $298,516. This
+is 23% higher than last quarter due to the ReportingEngine infrastructure
+investment and the Singapore office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Regards,
+Michael

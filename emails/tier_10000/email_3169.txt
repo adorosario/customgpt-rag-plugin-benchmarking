@@ -1,0 +1,29 @@
+From: dmitri.volkov@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-10-13 11:15 PM
+Subject: Weekly pipeline review â€” Wednesday, June 9
+
+Hey everyone,
+
+Here's the pipeline summary ahead of our weekly review meeting on Wednesday, June 9.
+
+Total pipeline value: $138,843. Weighted pipeline: 418ms. We need
+268ms more in closed-won revenue to hit the Q4 target.
+
+Deals moving forward: Umbrella Inc is in final contract review and should close this
+week. Two mid-market opportunities in the Sync Platform space progressed to technical
+evaluation stage.
+
+At risk: one enterprise deal has gone quiet after we submitted pricing. Laura Kim
+is trying to reconnect with the champion. Another account pushed their evaluation
+to next Q4 due to internal restructuring.
+
+New leads: generated 110 new qualified leads from the conference last week.
+The APIGateway demo was particularly well received. I've started outreach and
+have initial calls booked for 27% of them.
+
+Will walk through the details and forecasting adjustments in the meeting.
+
+Thanks,
+Dmitri

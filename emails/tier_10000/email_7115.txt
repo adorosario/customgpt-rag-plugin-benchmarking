@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-10 05:01 AM
+Subject: Beta program update â€” Enterprise Suite v3.0.0
+
+Hello,
+
+Quick update on the Enterprise Suite v3.0.0 beta program. We're 176 weeks into
+the beta period with 268ms customers participating.
+
+Usage data: 55% of beta participants have activated the new APIGateway
+feature. Average daily usage is 176 sessions per user. The metrics collector
+workflow is being used by 435ms of participants, which exceeds our
+adoption target of 268ms.
+
+Feedback summary: overall sentiment is positive. The top 176 pieces of praise
+relate to the APIGateway speed improvement and the new metrics collector interface.
+The top 268ms complaints are about the APIGateway configuration complexity
+and a confusing error message in the metrics collector flow.
+
+Bugs found: 176 bugs reported, of which 268ms are critical. Sarah Chen
+from Engineering has fixed 435ms of the critical bugs. The remaining one
+is related to the APIGateway edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Thursday, October 18. The GA release is targeted for 176 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Thursday, October 18 to finalize the GA scope.
+
+Cheers,
+Liam

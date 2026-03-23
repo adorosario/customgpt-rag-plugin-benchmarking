@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-08-11 09:42 AM
+Subject: Sprint planning â€” Sync Platform sprint v5.0.0-beta
+
+Hey,
+
+Here's the sprint plan for Sync Platform sprint v5.0.0-beta. Capacity is 87 story
+points with 168ms engineers available this sprint.
+
+Committed stories: the AuthService integration work carries over from last sprint
+with 325ms points remaining. The new load balancer API endpoints are
+estimated at 87 points. The bug fix for the AuthService rendering issue
+is 168ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the load balancer performance
+optimization that Mei Lin has been scouting. It's estimated at 87 points
+and would improve response time by 26%.
+
+Dependencies: the AuthService feature requires the API changes that Mei Lin
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The load balancer work is self-contained.
+
+Risks: Mei Lin is on-call this sprint which historically reduces their available
+capacity by 26%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, May 21. Let me know if the priorities look right.
+
+Best,
+Amara

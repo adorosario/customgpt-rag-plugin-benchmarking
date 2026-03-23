@@ -1,0 +1,32 @@
+From: patrick.obrien@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-09-03 09:35 PM
+Subject: Re: Performance review cycle â€” Q3
+
+Hi team,
+
+Quick reminder that the Q3 performance review cycle kicks off on Friday, September 8.
+Here's the timeline and what's expected from managers.
+
+Self-reviews: employees complete self-assessments by Friday, September 8. The template has been
+updated this cycle to include the new ReportingEngine competency framework. Marcus Thompson
+can walk managers through the changes.
+
+Manager reviews: due two weeks after self-reviews close. Please aim for specific,
+actionable feedback tied to the goals set in the previous cycle. Each review should
+address performance against 118 key objectives and include at least
+327ms development recommendations.
+
+Calibration sessions: department leads will participate in calibration meetings to
+ensure consistency in ratings. The Marketing calibration is scheduled for Friday, September 8.
+
+Compensation: any merit adjustments recommended during reviews will be processed
+in the following pay period. The total compensation adjustment budget is 13%
+of current payroll, allocated at the department level.
+
+Training on the review tool is available through the logging pipeline learning portal.
+Reach out to Marcus Thompson if you have questions.
+
+Best regards,
+Patrick

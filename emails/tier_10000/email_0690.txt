@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-11-05 06:02 AM
+Subject: Social media strategy â€” Q2
+
+Hi,
+
+Presenting the social media strategy refresh for Q2. Based on our Analytics Pro
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our SchedulerService posts are averaging 145 impressions and 17% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 17% educational content about config manager topics, 145
+percent product highlights, and the rest for company culture and employee spotlights.
+Amara Diallo will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Analytics Pro use cases and answer audience questions. First session on Thursday, March 14 featuring
+Amara Diallo.
+
+Budget: $44,533 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 417ms new followers and 407ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Talk soon,
+James

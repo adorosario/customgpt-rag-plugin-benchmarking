@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-10-16 09:36 AM
+Subject: A/B test results â€” UserProfileService experiment
+
+Hi team,
+
+The UserProfileService A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 21 days with 241ms users in each cohort.
+
+Variant A (control): the existing caching layer flow. Conversion rate of
+211ms with an average task completion time of 21 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified UserProfileService step.
+Conversion rate of 241ms with task completion time of 211ms seconds.
+This represents a 59% improvement in conversion and 21 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 21 to 241ms
+in the treatment group. Support ticket volume for UserProfileService related issues
+decreased by 59%. No negative impact on caching layer engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Amara Diallo from Engineering can have this
+deployed by Wednesday, January 22.
+
+One caveat: the test population skewed toward Integration Hub power users. We should
+monitor new user behavior closely for the first 21 weeks after full rollout.
+
+Best,
+Daniel

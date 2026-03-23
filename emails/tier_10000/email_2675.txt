@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-09-25 01:58 PM
+Subject: Customer feedback digest â€” Data Vault Q2
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Data Vault. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 195, up 79ms points from last quarter. The improvement
+is driven by the ReportingEngine launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 46%.
+
+Top feature requests: ReportingEngine advanced filtering (195 votes), logging pipeline
+bulk operations (79ms votes), and enhanced Data Vault reporting (206ms
+votes). The filtering request aligns with what we heard in the user research study
+Sarah Chen conducted.
+
+Top complaints: ReportingEngine performance during peak hours (195 mentions),
+the logging pipeline onboarding experience (79ms mentions), and pricing
+transparency (206ms mentions). The performance issue is being addressed
+by Engineering â€” Sarah Chen expects the fix in v2.6.0.
+
+Churn insights: 195 customers churned this quarter citing ReportingEngine
+limitations as the primary reason. The logging pipeline overhaul on our roadmap directly
+addresses their feedback. 46% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Friday, May 1.
+
+Talk soon,
+Liam

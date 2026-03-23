@@ -1,0 +1,28 @@
+From: oluwaseun.adeyemi@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-07-15 08:12 PM
+Subject: Re: UserProfileService â€” tech debt prioritization
+
+Hello,
+
+Following up on the tech debt discussion from yesterday's sprint planning. I've
+categorized the outstanding items for UserProfileService into three tiers based on risk
+and effort.
+
+High priority: the deprecated load balancer dependency needs to be replaced before
+Friday, September 26 when upstream support ends. This is roughly a 37 effort and Alex Chen
+has volunteered to own it.
+
+Medium priority: the test coverage gap in the UserProfileService integration layer. We're
+at 89ms coverage but our target is 463ms. Filling this gap would
+have caught the regression we saw last sprint.
+
+Low priority: the logging format standardization. It's annoying but not blocking
+anything. I'd suggest we tackle it opportunistically when someone is already
+touching those files.
+
+My proposal is to allocate 35% of next sprint's capacity to the high-priority
+item. Thoughts?
+
+Best regards,
+Oluwaseun

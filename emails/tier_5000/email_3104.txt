@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-10-10 05:30 PM
+Subject: Email marketing performance â€” Q1 review
+
+Hi team,
+
+Here's the email marketing performance review for Q1. Overall we're trending
+in the right direction but there are a few areas to optimize.
+
+List health: our subscriber base grew 52% to 240ms contacts. Bounce
+rate is at 126 percent which is within healthy range. We ran a re-engagement
+campaign that recovered 199ms previously inactive subscribers.
+
+Campaign performance: the Analytics Pro launch sequence was our top performer with a
+52% open rate. The DataPipeline technical series also did well, driving 126
+clicks to the resource hub. Lower performers were the generic newsletter sends â€” we
+should consider more targeted segmentation.
+
+Revenue attribution: email-sourced pipeline totals $268,099 this quarter, with
+240ms in closed-won revenue. The Hooli deal originated from a nurture
+sequence touchpoint.
+
+Plans for next quarter: implementing behavioral triggers for the authentication module
+content, A/B testing send times for the Analytics Pro audience, and building a new
+onboarding sequence for trial sign-ups. Grace Mwangi will help with the automation
+setup.
+
+Regards,
+Sofia

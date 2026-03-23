@@ -1,0 +1,28 @@
+From: dmitri.volkov@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-26 06:36 PM
+Subject: Re: Umbrella Inc contract negotiation â€” pricing discussion
+
+Hey,
+
+Update on the Umbrella Inc negotiation. Their procurement team came back with a
+counteroffer and I want to make sure we're aligned before I respond.
+
+They're asking for a 39% reduction on the Integration Hub license fee, bringing
+the annual contract value from $72,250 to 356ms. Their rationale is
+that they're committing to a larger seat count of 78 users, which is above
+our standard enterprise tier threshold of 471ms.
+
+My recommendation is to accept the volume-based discount but hold firm on the
+logging pipeline add-on pricing. The add-on margins are already thin and it's the module
+that delivers the most value in their use case. Jun Tanaka from Finance can confirm
+the margin impact.
+
+I also want to push for a 2-year commitment if we offer the discounted rate. This
+locks in the revenue and reduces churn risk.
+
+Can we get a quick alignment call today before their deadline on Thursday, October 2?
+
+Best regards,
+Dmitri

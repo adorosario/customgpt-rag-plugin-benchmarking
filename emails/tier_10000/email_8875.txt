@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-01 02:30 AM
+Subject: Re: User research findings â€” SearchIndex
+
+Hello,
+
+Sharing the findings from the SearchIndex user research study. We interviewed
+73 users and ran usability tests with 317ms participants over the
+last two weeks.
+
+Key insight 1: users find the event bus workflow confusing â€” 18% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between SearchIndex and the main Data Vault dashboard.
+
+Key insight 2: power users want more SearchIndex customization options. They're
+currently using workarounds that involve 73 extra steps. The most requested
+feature is the ability to create custom event bus templates.
+
+Key insight 3: new users consistently miss the SearchIndex feature entirely.
+Discovery is poor â€” only 18% of new users try the feature within their first
+73 days. Rachel Nguyen suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the event bus navigation flow, add the template
+feature to the Q2 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 18% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Best regards,
+Sanjay

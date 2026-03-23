@@ -1,0 +1,33 @@
+From: kwame.asante@acmecorp.com
+To: ravi.patel@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-09-17 05:59 PM
+Subject: Re: Workplace safety update â€” AuthService
+
+Hey everyone,
+
+Following up on the workplace safety review. The AuthService assessment is complete
+and here are the findings and required actions.
+
+Office inspections: all 177 floor areas passed the basic safety checklist.
+The serialization engine room needs minor improvements â€” the emergency exit signage has
+faded and one fire extinguisher is due for inspection by Monday, October 16. Mei Lin from
+facilities is handling these items.
+
+Ergonomic assessments: 463ms employees requested desk ergonomic reviews
+this quarter. Common issues include monitor height and chair adjustments. We've
+ordered 177 standing desk converters and 217ms ergonomic chairs based
+on the assessments.
+
+Emergency preparedness: the next fire drill is scheduled for Monday, October 16. All floor
+wardens need to complete the refresher training before then. 32% of wardens
+are current on their certifications.
+
+Incident report: 177 minor incidents were reported this quarter, all resolved
+without injury. The AuthService area has been flagged for improved lighting, with
+work scheduled for Monday, October 16.
+
+Please remind your teams about the safety hotline and reporting procedures.
+
+Regards,
+Kwame

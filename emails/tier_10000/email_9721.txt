@@ -1,0 +1,30 @@
+From: laura.kim@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-08-26 12:53 AM
+Subject: Social media strategy â€” Q3
+
+Good morning,
+
+Presenting the social media strategy refresh for Q3. Based on our Cloud Connect
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our AuthService posts are averaging 32 impressions and 20% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 20% educational content about caching layer topics, 32
+percent product highlights, and the rest for company culture and employee spotlights.
+Mei Lin will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Cloud Connect use cases and answer audience questions. First session on Thursday, February 2 featuring
+Mei Lin.
+
+Budget: $298,828 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 252ms new followers and 327ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Talk soon,
+Laura

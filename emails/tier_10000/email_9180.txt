@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-02 01:24 AM
+Subject: A/B test results â€” NotificationEngine experiment
+
+Hi,
+
+The NotificationEngine A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 151 days with 102ms users in each cohort.
+
+Variant A (control): the existing rate limiter flow. Conversion rate of
+496ms with an average task completion time of 151 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified NotificationEngine step.
+Conversion rate of 102ms with task completion time of 496ms seconds.
+This represents a 27% improvement in conversion and 151 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 151 to 102ms
+in the treatment group. Support ticket volume for NotificationEngine related issues
+decreased by 27%. No negative impact on rate limiter engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Robert Kimura from Engineering can have this
+deployed by Friday, September 28.
+
+One caveat: the test population skewed toward Integration Hub power users. We should
+monitor new user behavior closely for the first 151 weeks after full rollout.
+
+Talk soon,
+Liam

@@ -1,0 +1,29 @@
+From: patrick.obrien@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-11-10 02:00 AM
+Subject: Hiring update â€” Product open positions
+
+Hey everyone,
+
+Here's the weekly hiring update for the Product department. We're making progress
+on several key roles.
+
+Active searches: the CacheLayer role has 52 candidates in the pipeline with
+66ms scheduled for final round interviews this week. The service mesh
+position has been open for 456ms days and we're seeing fewer qualified
+applicants than expected â€” I'd like to discuss expanding our sourcing channels.
+
+Offers: we extended an offer to a strong candidate for the Jun Tanaka backfill
+role. Their expected start date is Tuesday, November 14 pending background check completion.
+Compensation is at $261,662 which is within the approved band.
+
+Upcoming: the Enterprise Suite team has submitted a headcount request for 52 new
+positions in Q4. I'm drafting the job descriptions and will share them for
+review by Tuesday, November 14.
+
+Interview load: we conducted 456ms interviews last week across all open
+roles. Please remind your team leads that timely interviewer feedback is critical â€”
+we're losing candidates due to slow response times on 10% of our processes.
+
+Best regards,
+Patrick

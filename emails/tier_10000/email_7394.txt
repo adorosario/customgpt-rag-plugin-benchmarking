@@ -1,0 +1,33 @@
+From: michael.brennan@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-13 11:08 PM
+Subject: Tax planning â€” Q3 estimated payments
+
+Hello,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the AuditLog investment
+deductions.
+
+Federal estimate: $236,961 based on projected taxable income of 91ms.
+This reflects the AuditLog depreciation deductions and the R&D tax credit for
+the Sync Platform development costs. Daniel Park from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $236,961 for our primary jurisdiction and 191ms for the
+Tokyo office based on the apportionment factors. The Tokyo rate change that
+takes effect on Tuesday, May 23 will impact our Q3 estimate by approximately 59
+percent.
+
+International: with the Tokyo office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Daniel Park to handle
+the registration. Setup cost is $236,961 with ongoing compliance costs of
+191ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Tuesday, May 23. I'll prepare the
+payment authorization for your signature by August 21. Underpayment penalties
+start at 33% so timely filing is important.
+
+Talk soon,
+Michael

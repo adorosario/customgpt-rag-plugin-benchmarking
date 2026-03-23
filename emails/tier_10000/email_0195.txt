@@ -1,0 +1,32 @@
+From: yuki.sato@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-11-02 07:26 PM
+Subject: Event planning â€” Sync Platform webinar on Thursday, February 20
+
+Hello,
+
+Finalizing details for the Sync Platform webinar on Thursday, February 20. Here's where we stand on
+the logistics and promotion.
+
+Content: Dmitri Volkov from Product will present the BillingModule roadmap segment.
+I'll handle the intro and customer story. We're targeting a 99-minute
+presentation followed by 149ms minutes of live Q&A. The service mesh demo
+segment should be the highlight.
+
+Registration: we've had 175ms sign-ups so far. Goal is 149ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Sync Platform keywords.
+
+Tech setup: using the standard webinar platform. Dmitri Volkov will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Thursday, February 20 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 99 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Talk soon,
+Yuki

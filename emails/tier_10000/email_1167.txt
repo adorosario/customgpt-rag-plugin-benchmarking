@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-15 02:43 AM
+Subject: Re: Tyrell Corp contract negotiation â€” pricing discussion
+
+Hi all,
+
+Update on the Tyrell Corp negotiation. Their procurement team came back with a
+counteroffer and I want to make sure we're aligned before I respond.
+
+They're asking for a 22% reduction on the Data Vault license fee, bringing
+the annual contract value from $408,307 to 58ms. Their rationale is
+that they're committing to a larger seat count of 126 users, which is above
+our standard enterprise tier threshold of 62ms.
+
+My recommendation is to accept the volume-based discount but hold firm on the
+metrics collector add-on pricing. The add-on margins are already thin and it's the module
+that delivers the most value in their use case. Ananya Desai from Finance can confirm
+the margin impact.
+
+I also want to push for a 2-year commitment if we offer the discounted rate. This
+locks in the revenue and reduces churn risk.
+
+Can we get a quick alignment call today before their deadline on Thursday, March 8?
+
+Talk soon,
+Aisha

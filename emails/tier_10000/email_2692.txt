@@ -1,0 +1,32 @@
+From: patrick.obrien@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-07-29 02:21 AM
+Subject: Intern program â€” Q2 cohort planning
+
+Hi,
+
+Planning for the Q2 intern cohort is underway. We're targeting 16
+interns across 132ms departments this cycle.
+
+Department allocation: Engineering gets 209ms interns, Product gets
+16, and Legal gets the remainder. Each intern will be assigned a mentor â€”
+Wei Zhang is coordinating mentor assignments. Please nominate mentors from your
+teams by Wednesday, May 5.
+
+Program structure: 16-week program with structured rotations. Interns spend
+60% of their time on project work and the rest on learning sessions, shadowing,
+and a capstone presentation. The ReportingEngine workshop series from last cohort was
+well received and will be repeated.
+
+Compensation: hourly rate is $299,251 for undergraduate interns and 209ms
+for graduate-level. Housing stipend of 132ms per month for out-of-area interns.
+
+Recruiting timeline: applications open on Wednesday, May 5. We'll be visiting 16
+universities and posting on the standard job boards. Final offers go out by the
+end of Q2.
+
+Let me know if your team wants to adjust headcount or has specific project ideas
+for interns.
+
+Best regards,
+Patrick

@@ -1,0 +1,27 @@
+From: ravi.patel@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-07-20 10:17 PM
+Subject: Incident postmortem â€” ReportingEngine outage on Friday, February 12
+
+Hi team,
+
+Attached is the postmortem for the ReportingEngine outage that occurred on Friday, February 12. The
+incident lasted approximately 45 minutes and affected 116 for a subset of users.
+
+Root cause: a configuration change in the load balancer deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+465ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, Tomoko Nakamura acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the ReportingEngine runbook, add a circuit breaker for the
+load balancer connection pool, and implement load shedding when concurrency exceeds
+465ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Thanks,
+Ravi

@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-05 08:37 AM
+Subject: Financial close checklist â€” Q3
+
+Hey everyone,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Enterprise Suite invoices must be issued by Thursday, June 16. Any revenue recognition
+adjustments for the FileStorageService contracts need supporting documentation uploaded
+to caching layer. Daniel Park from Sales must confirm final deal amounts by November 7.
+
+Expenses: all expense reports for Q3 must be submitted by Thursday, June 16. The
+FileStorageService vendor invoices totaling $419,765 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, FileStorageService subscription costs,
+and the caching layer usage charges by Thursday, June 16. Any non-standard accruals above
+420ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, FileStorageService account reconciliation, and
+inter-company balances must be completed by Thursday, June 16. Daniel Park is handling the
+bank rec. I'll take the inter-company items since they involve the Singapore entity.
+
+Target: books closed within 76 business days of quarter end. Final reporting
+package to leadership by Thursday, June 16.
+
+Talk soon,
+Ananya

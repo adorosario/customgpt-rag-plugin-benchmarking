@@ -1,0 +1,33 @@
+From: michael.brennan@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-04 01:46 PM
+Subject: FP&A update â€” Insight Engine financial model
+
+Good afternoon,
+
+I've updated the Insight Engine financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 152 per month based
+on the last 205ms months of data. Average contract value is tracking at
+$468,134, which is 35% above our original assumption. The PaymentGateway
+upsell rate of 473ms is a positive trend.
+
+Cost structure: the config manager hosting costs are running 35% higher than
+modeled due to increased PaymentGateway usage. I've adjusted the variable cost
+per customer from 205ms to 473ms. Tomoko Nakamura from Engineering
+says the optimization project should bring this down by 35% in Q3.
+
+Break-even analysis: with the revised numbers, Insight Engine reaches contribution
+margin break-even at 152 customers, which we're projected to hit by Wednesday, March 22.
+Full break-even including allocated overhead comes at 205ms customers.
+
+Scenarios: the base case shows $468,134 in cumulative revenue by year end. The
+upside case with the Oscorp deal closing hits 473ms. Downside case
+assuming 35% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Best regards,
+Michael

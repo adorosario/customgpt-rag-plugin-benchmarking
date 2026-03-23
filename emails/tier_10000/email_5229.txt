@@ -1,0 +1,31 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-07-19 07:54 PM
+Subject: A/B test results â€” NotificationEngine experiment
+
+Hi team,
+
+The NotificationEngine A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 41 days with 358ms users in each cohort.
+
+Variant A (control): the existing load balancer flow. Conversion rate of
+256ms with an average task completion time of 41 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified NotificationEngine step.
+Conversion rate of 358ms with task completion time of 256ms seconds.
+This represents a 31% improvement in conversion and 41 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 41 to 358ms
+in the treatment group. Support ticket volume for NotificationEngine related issues
+decreased by 31%. No negative impact on load balancer engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. David Okonkwo from Engineering can have this
+deployed by Monday, July 8.
+
+One caveat: the test population skewed toward Enterprise Suite power users. We should
+monitor new user behavior closely for the first 41 weeks after full rollout.
+
+Regards,
+Sanjay

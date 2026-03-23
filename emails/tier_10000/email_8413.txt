@@ -1,0 +1,33 @@
+From: sarah.chen@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-06-01 08:43 AM
+Subject: Data privacy assessment â€” Sync Platform
+
+Hi team,
+
+The data privacy impact assessment for Sync Platform is complete. I'm flagging the key
+findings and required actions for the team.
+
+Data inventory: Sync Platform processes 142 categories of personal data including
+names, email addresses, and usage analytics. The data flows through our PaymentGateway
+infrastructure and is stored in the authentication module environment in London.
+
+Risk findings: overall risk level is moderate. The primary concern is the
+cross-border data transfer to the London processing center. We need to implement
+standard contractual clauses with our PaymentGateway sub-processor. David Okonkwo from
+Engineering confirmed the technical safeguards are already in place.
+
+Consent mechanism: the current Sync Platform consent flow meets requirements for
+6% of our user base. For users in regulated jurisdictions, we need to add
+explicit opt-in for the authentication module analytics features. This is a 142-sprint
+effort according to the Product team.
+
+Records of processing: I've updated our data register to include all Sync Platform
+processing activities. The register needs to be reviewed every 112ms months
+per our policy.
+
+Next step: executive sign-off on the DPIA by Wednesday, September 3. Please review the full
+report in the shared drive.
+
+Best,
+Sarah

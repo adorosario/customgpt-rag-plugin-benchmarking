@@ -1,0 +1,21 @@
+{
+  "tier": 5,
+  "question_id": "needle_4",
+  "question_type": "hard",
+  "run": 2,
+  "question": "When do the remote work policy changes take effect?",
+  "model": "claude-sonnet-4-6",
+  "response": "None of the emails in this directory appear to contain information about remote work policy changes. These are benchmark test emails about unrelated topics (e.g., Project Nexus sprint planning).\n\nI don't have information about remote work policy changes in the files available here. Could you clarify where you saw this \u00e2\u20ac\u201d was it in a specific email, document, or announcement? That would help me locate the right source.",
+  "time_seconds": 34.41,
+  "num_turns": 5,
+  "cost_usd": 0.09643425,
+  "input_tokens": 7,
+  "cache_creation_tokens": 12253,
+  "cache_read_tokens": 132015,
+  "output_tokens": 724,
+  "total_tokens": 144999,
+  "duration_api_ms": 22895,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

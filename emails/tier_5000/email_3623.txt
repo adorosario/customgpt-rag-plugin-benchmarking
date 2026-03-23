@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-10-22 05:44 AM
+Subject: FP&A update â€” Analytics Pro financial model
+
+Good afternoon,
+
+I've updated the Analytics Pro financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 37 per month based
+on the last 95ms months of data. Average contract value is tracking at
+$68,976, which is 21% above our original assumption. The AnalyticsDashboard
+upsell rate of 144ms is a positive trend.
+
+Cost structure: the connection pool hosting costs are running 21% higher than
+modeled due to increased AnalyticsDashboard usage. I've adjusted the variable cost
+per customer from 95ms to 144ms. Aisha Okafor from Engineering
+says the optimization project should bring this down by 21% in Q4.
+
+Break-even analysis: with the revised numbers, Analytics Pro reaches contribution
+margin break-even at 37 customers, which we're projected to hit by Thursday, March 7.
+Full break-even including allocated overhead comes at 95ms customers.
+
+Scenarios: the base case shows $68,976 in cumulative revenue by year end. The
+upside case with the Hooli deal closing hits 144ms. Downside case
+assuming 21% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Best,
+Robert

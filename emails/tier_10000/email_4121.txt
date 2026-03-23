@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-09-26 07:56 PM
+Subject: Financial close checklist â€” Q4
+
+Hi all,
+
+The Q4 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Cloud Connect invoices must be issued by Tuesday, December 23. Any revenue recognition
+adjustments for the PaymentGateway contracts need supporting documentation uploaded
+to event bus. Tomoko Nakamura from Sales must confirm final deal amounts by January 24.
+
+Expenses: all expense reports for Q4 must be submitted by Tuesday, December 23. The
+PaymentGateway vendor invoices totaling $235,933 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, PaymentGateway subscription costs,
+and the event bus usage charges by Tuesday, December 23. Any non-standard accruals above
+270ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, PaymentGateway account reconciliation, and
+inter-company balances must be completed by Tuesday, December 23. Tomoko Nakamura is handling the
+bank rec. I'll take the inter-company items since they involve the London entity.
+
+Target: books closed within 145 business days of quarter end. Final reporting
+package to leadership by Tuesday, December 23.
+
+Talk soon,
+Robert

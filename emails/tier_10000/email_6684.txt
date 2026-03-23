@@ -1,0 +1,32 @@
+From: maria.santos@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-08-25 11:07 PM
+Subject: Re: Litigation hold â€” Pied Piper matter
+
+Hi team,
+
+Following up on the Pied Piper dispute. We need to implement a litigation hold
+immediately. Here's what that means for the affected teams.
+
+Scope: all documents, emails, and electronic records related to the Pied Piper
+engagement from Wednesday, June 7 forward must be preserved. This includes DataPipeline
+logs, Enterprise Suite deployment records, and all correspondence between our teams
+and Pied Piper's personnel.
+
+Affected departments: Engineering, Sales, and Product. Fatima Al-Rashid will distribute
+hold notices to the specific custodians in each department. We've identified
+42 individuals whose records are potentially relevant.
+
+Obligations: do not delete, modify, or archive any records covered by the hold.
+Suspend any auto-deletion policies for the relevant service mesh systems.
+Fatima Al-Rashid from IT is coordinating the technical preservation measures.
+
+Duration: the hold remains in effect until further notice from Legal. I expect the
+matter to be resolved within 478ms months based on preliminary discussions
+with opposing counsel. The estimated legal cost exposure is $447,121.
+
+If anyone has questions about what's covered, direct them to me. Do not discuss
+the hold or the underlying matter externally.
+
+Cheers,
+Maria

@@ -1,0 +1,30 @@
+From: david.okonkwo@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-09-20 03:35 AM
+Subject: Re: Compliance update â€” AuthService regulations
+
+Hi team,
+
+Following up on the regulatory change we discussed. The new AuthService compliance
+requirements take effect on Wednesday, May 12 and here's our readiness assessment.
+
+Current status: we're 39% compliant with the new requirements. The main gap
+is in rate limiter data handling procedures â€” the regulation requires documented
+retention policies for customer data processed through the Enterprise Suite platform.
+
+Action items: first, update our data retention policy to align with the 495ms-day
+requirement specified in the regulation. Second, implement the technical controls
+that Laura Kim from Engineering has scoped â€” estimated at 154 sprint points.
+Third, conduct the required annual audit before Wednesday, May 12.
+
+Risk assessment: non-compliance penalties are significant â€” up to $343,937 per
+violation. However, the regulatory body has indicated a 154-month grace period
+for companies that demonstrate good faith compliance efforts. We should be well
+within that window.
+
+I've scheduled a cross-functional meeting for Wednesday, May 12 to coordinate the implementation
+plan. Please confirm attendance for your team.
+
+Cheers,
+David

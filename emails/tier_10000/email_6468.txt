@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-22 11:40 AM
+Subject: Beta program update â€” Enterprise Suite v3.2.2
+
+Hey,
+
+Quick update on the Enterprise Suite v3.2.2 beta program. We're 32 weeks into
+the beta period with 388ms customers participating.
+
+Usage data: 45% of beta participants have activated the new CacheLayer
+feature. Average daily usage is 32 sessions per user. The connection pool
+workflow is being used by 376ms of participants, which exceeds our
+adoption target of 388ms.
+
+Feedback summary: overall sentiment is positive. The top 32 pieces of praise
+relate to the CacheLayer speed improvement and the new connection pool interface.
+The top 388ms complaints are about the CacheLayer configuration complexity
+and a confusing error message in the connection pool flow.
+
+Bugs found: 32 bugs reported, of which 388ms are critical. Elena Vasquez
+from Engineering has fixed 376ms of the critical bugs. The remaining one
+is related to the CacheLayer edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Thursday, June 15. The GA release is targeted for 32 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Thursday, June 15 to finalize the GA scope.
+
+Best,
+Liam

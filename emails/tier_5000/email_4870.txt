@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-09-22 01:46 AM
+Subject: Quarterly territory review â€” Q2
+
+Good morning,
+
+Here's my territory review for Q2. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 180 qualified opportunities worth a combined $27,258 in
+ARR. The largest deal is Tyrell Corp at 99ms, which I expect to close by
+Wednesday, October 7. Three other deals in the 406ms range are progressing through
+procurement.
+
+Wins this quarter: closed Tyrell Corp for Cloud Connect with a 52% upsell from
+their initial scope. The serialization engine add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Jun Tanaka to the Tyrell Corp executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Cheers,
+Hannah

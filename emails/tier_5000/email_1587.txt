@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-07-09 06:57 PM
+Subject: Budget review â€” Product department Q3
+
+Hello,
+
+Here's the Q3 budget review for the Product department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $179,900 against a budget of 405ms. The 9% variance is
+primarily driven by the accelerated UserProfileService hiring that was approved mid-quarter.
+Personnel costs came in at 350ms which includes the 158 new hires.
+
+Overages: the serialization engine infrastructure line item exceeded budget by 9% due
+to the unplanned scaling requirements for Data Vault. I've worked with Yuki Sato
+from Engineering to project the run rate going forward â€” we should budget an
+additional $179,900 per quarter for this category.
+
+Underspend: the UserProfileService consulting budget was only 9% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 9%
+of the total annual budget. The main risk is the serialization engine cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Best regards,
+Grace

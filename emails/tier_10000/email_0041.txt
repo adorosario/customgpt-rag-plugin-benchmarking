@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-09-11 08:05 AM
+Subject: Customer feedback digest â€” Insight Engine Q2
+
+Good morning,
+
+Here's the quarterly customer feedback digest for Insight Engine. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 131, up 380ms points from last quarter. The improvement
+is driven by the BillingModule launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 33%.
+
+Top feature requests: BillingModule advanced filtering (131 votes), event bus
+bulk operations (380ms votes), and enhanced Insight Engine reporting (220ms
+votes). The filtering request aligns with what we heard in the user research study
+Derek Morrison conducted.
+
+Top complaints: BillingModule performance during peak hours (131 mentions),
+the event bus onboarding experience (380ms mentions), and pricing
+transparency (220ms mentions). The performance issue is being addressed
+by Engineering â€” Derek Morrison expects the fix in v3.8.1.
+
+Churn insights: 131 customers churned this quarter citing BillingModule
+limitations as the primary reason. The event bus overhaul on our roadmap directly
+addresses their feedback. 33% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Monday, December 23.
+
+Cheers,
+Liam

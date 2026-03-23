@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-18 11:37 AM
+Subject: Financial close checklist â€” Q4
+
+Good afternoon,
+
+The Q4 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Integration Hub invoices must be issued by Monday, February 19. Any revenue recognition
+adjustments for the SearchIndex contracts need supporting documentation uploaded
+to connection pool. Maria Santos from Sales must confirm final deal amounts by June 13.
+
+Expenses: all expense reports for Q4 must be submitted by Monday, February 19. The
+SearchIndex vendor invoices totaling $200,955 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, SearchIndex subscription costs,
+and the connection pool usage charges by Monday, February 19. Any non-standard accruals above
+481ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, SearchIndex account reconciliation, and
+inter-company balances must be completed by Monday, February 19. Maria Santos is handling the
+bank rec. I'll take the inter-company items since they involve the Berlin entity.
+
+Target: books closed within 14 business days of quarter end. Final reporting
+package to leadership by Monday, February 19.
+
+Best regards,
+Ananya

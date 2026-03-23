@@ -1,0 +1,28 @@
+From: priya.sharma@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-10-21 05:06 AM
+Subject: Re: CacheLayer â€” tech debt prioritization
+
+Hey,
+
+Following up on the tech debt discussion from yesterday's sprint planning. I've
+categorized the outstanding items for CacheLayer into three tiers based on risk
+and effort.
+
+High priority: the deprecated service mesh dependency needs to be replaced before
+Monday, November 7 when upstream support ends. This is roughly a 91 effort and Tomoko Nakamura
+has volunteered to own it.
+
+Medium priority: the test coverage gap in the CacheLayer integration layer. We're
+at 362ms coverage but our target is 163ms. Filling this gap would
+have caught the regression we saw last sprint.
+
+Low priority: the logging format standardization. It's annoying but not blocking
+anything. I'd suggest we tackle it opportunistically when someone is already
+touching those files.
+
+My proposal is to allocate 55% of next sprint's capacity to the high-priority
+item. Thoughts?
+
+Best regards,
+Priya

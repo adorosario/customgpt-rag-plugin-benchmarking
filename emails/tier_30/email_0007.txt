@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-08-17 09:32 AM
+Subject: New lead â€” Weyland-Yutani inbound request
+
+Good morning,
+
+We received an inbound request from Weyland-Yutani through the website today. They're
+a 148-employee company in the PaymentGateway space and are looking for a
+Sync Platform solution.
+
+Initial qualification: they have budget allocated for Q2, their current
+contract with their existing vendor expires on Monday, February 15, and the decision maker is
+their VP of Operations. They found us through the serialization engine whitepaper we
+published last month.
+
+The estimated deal size is $383,672 based on their seat count and the use case
+they described. They specifically mentioned needing the PaymentGateway integration
+and 342ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Alex Chen â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on serialization engine scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Best,
+Aisha

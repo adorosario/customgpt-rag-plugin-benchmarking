@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-10-01 01:10 PM
+Subject: Content calendar â€” Q1 update
+
+Good morning,
+
+Sharing the updated content calendar for Q1. We've added several new pieces
+to support the Cloud Connect launch and the thought leadership series.
+
+Blog schedule: two posts per week. Topics include AnalyticsDashboard best practices,
+customer success stories, and the technical deep-dive series that Liam Foster from
+Engineering is co-authoring. The queue processor comparison guide is our top-of-funnel
+anchor piece.
+
+Gated content: the Cloud Connect whitepaper goes live on Wednesday, May 18. We're expecting
+194 downloads based on performance of similar assets. The ROI calculator tool
+is in development and targeted for mid-Q1.
+
+Social media: ramping up LinkedIn posting to 227ms times per week. We'll
+pull snippets from blog content and add 59% original thought leadership posts.
+The Cloud Connect launch will get a dedicated social campaign.
+
+Newsletter: monthly send to our 478ms subscribers. Open rates have been
+holding steady at 194 percent.
+
+Please review the calendar doc and flag any conflicts or gaps by Wednesday, May 18.
+
+Cheers,
+Sofia

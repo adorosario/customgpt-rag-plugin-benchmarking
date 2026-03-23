@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-26 01:03 PM
+Subject: Vendor payment schedule â€” Q3
+
+Good afternoon,
+
+Here's the vendor payment schedule for Q3. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Hooli invoice for $397,093 is due on Monday, February 23 with a
+15% early payment discount if we pay within 114 days. I recommend
+taking the discount â€” it saves us 315ms. The AuthService annual
+license renewal of 442ms is due Monday, February 23 with no discount available.
+
+Standard schedule: 114 vendor invoices totaling $397,093 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-442ms terms with payments going out every 114 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The caching layer vendor
+overbilled us by $397,093 on the AuthService usage charges. Sofia Martinez is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q3 are projected at $397,093. This
+is 15% higher than last quarter due to the AuthService infrastructure
+investment and the San Francisco office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Regards,
+Ananya

@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-06-05 06:38 PM
+Subject: Investment proposal â€” DataPipeline infrastructure
+
+Hey everyone,
+
+I've prepared the financial analysis for the proposed DataPipeline infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $146,167 upfront with 169ms in annual operating costs.
+The total 3-year cost of ownership is 368ms compared to the current
+queue processor setup at $146,167 over the same period.
+
+ROI analysis: the projected payback period is 55 months. Key benefits include
+60% reduction in infrastructure management time, improved Analytics Pro performance
+that supports the revenue growth targets, and elimination of the queue processor
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $146,167 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 60% interest.
+This preserves cash for the Singapore office investment planned for Q4.
+
+Risk factors: technology lock-in with the DataPipeline vendor, though the 55-year
+contract includes an exit clause after the first year. Priya Sharma from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Thursday, September 22 to lock in the quoted pricing. The vendor has
+given us a 55-day hold on the current rates.
+
+Best regards,
+Ananya

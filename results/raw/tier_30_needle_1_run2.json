@@ -1,0 +1,21 @@
+{
+  "tier": 30,
+  "question_id": "needle_1",
+  "question_type": "hard",
+  "run": 2,
+  "question": "When did Sarah from Legal say the patent filing deadline was moved to, and who did she tell?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the 30 emails in this dataset, **no email mentions a patent filing deadline being \"moved.\"**\n\nThe closest relevant email is **email_0018.txt** \u00e2\u20ac\u201d from **Sarah Chen** (`sarah.chen@acmecorp.com`), sent **July 28, 2025**, to **Jun Tanaka** (CC: legal@acmecorp.com), about the *Insight Engine patent application*. It discusses the filing timeline but describes a recommended target date, not a deadline that was moved from one date to another.\n\nThe question's premise \u00e2\u20ac\u201d that Sarah said the deadline was *moved* \u00e2\u20ac\u201d doesn't match anything in these 30 emails.",
+  "time_seconds": 59.74,
+  "num_turns": 7,
+  "cost_usd": 0.16114485,
+  "input_tokens": 9,
+  "cache_creation_tokens": 19163,
+  "cache_read_tokens": 205472,
+  "output_tokens": 1841,
+  "total_tokens": 226485,
+  "duration_api_ms": 44056,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

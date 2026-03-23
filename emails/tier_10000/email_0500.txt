@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-08-28 10:10 AM
+Subject: Revenue recognition â€” Sync Platform contracts
+
+Hey,
+
+I need to walk through the revenue recognition treatment for the new Sync Platform
+contracts signed this quarter. We have 121 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Weyland-Yutani contract bundles Sync Platform licenses with
+caching layer implementation services. I've determined the standalone selling prices
+and allocated $442,344 to the license component and 191ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 121-month implementation period.
+
+Variable consideration: 122ms contracts include performance bonuses tied to
+NotificationEngine uptime metrics. Using the expected value method, I've estimated
+$442,344 in variable consideration based on our historical performance of
+19% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Weyland-Yutani amendment added caching layer capacity at
+$442,344 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Liam Foster from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Thursday, February 8.
+
+Regards,
+Ananya

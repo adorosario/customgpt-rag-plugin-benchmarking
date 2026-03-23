@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: aisha.okafor@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-23 07:43 PM
+Subject: Sprint planning â€” Analytics Pro sprint v4.1.0
+
+Good afternoon,
+
+Here's the sprint plan for Analytics Pro sprint v4.1.0. Capacity is 111 story
+points with 361ms engineers available this sprint.
+
+Committed stories: the PaymentGateway integration work carries over from last sprint
+with 441ms points remaining. The new metrics collector API endpoints are
+estimated at 111 points. The bug fix for the PaymentGateway rendering issue
+is 361ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the metrics collector performance
+optimization that Patrick O'Brien has been scouting. It's estimated at 111 points
+and would improve response time by 34%.
+
+Dependencies: the PaymentGateway feature requires the API changes that Patrick O'Brien
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The metrics collector work is self-contained.
+
+Risks: Patrick O'Brien is on-call this sprint which historically reduces their available
+capacity by 34%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, November 7. Let me know if the priorities look right.
+
+Best,
+Mei

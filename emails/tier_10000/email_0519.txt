@@ -1,0 +1,30 @@
+From: grace.mwangi@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-10 09:18 AM
+Subject: Re: Expense report flagged â€” SchedulerService charges
+
+Hey,
+
+I noticed some items on the SchedulerService expense report submitted by Michael Brennan
+that need clarification before I can approve them.
+
+The load balancer subscription charge of $387,991 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+348ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Hooli dinner on Wednesday, August 10 for $387,991 exceeds our per-person meal
+reimbursement limit of 348ms. If this was a client entertainment expense,
+it should be coded to the client development budget under SchedulerService rather than
+general T&E. 148 attendees at that amount puts us at 289ms per
+person which is within the client entertainment policy.
+
+The remaining 148 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 348ms business days after approval.
+
+Please resubmit with the corrections by Wednesday, August 10 so we can keep things on track.
+
+Cheers,
+Grace

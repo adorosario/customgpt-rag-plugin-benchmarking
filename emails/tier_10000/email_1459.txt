@@ -1,0 +1,29 @@
+From: ravi.patel@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-11-27 04:09 PM
+Subject: Re: SearchIndex â€” tech debt prioritization
+
+Hi team,
+
+Following up on the tech debt discussion from yesterday's sprint planning. I've
+categorized the outstanding items for SearchIndex into three tiers based on risk
+and effort.
+
+High priority: the deprecated event bus dependency needs to be replaced before
+Tuesday, March 21 when upstream support ends. This is roughly a 151 effort and Fatima Al-Rashid
+has volunteered to own it.
+
+Medium priority: the test coverage gap in the SearchIndex integration layer. We're
+at 176ms coverage but our target is 428ms. Filling this gap would
+have caught the regression we saw last sprint.
+
+Low priority: the logging format standardization. It's annoying but not blocking
+anything. I'd suggest we tackle it opportunistically when someone is already
+touching those files.
+
+My proposal is to allocate 18% of next sprint's capacity to the high-priority
+item. Thoughts?
+
+Talk soon,
+Ravi

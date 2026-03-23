@@ -1,0 +1,29 @@
+From: patrick.obrien@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-07-20 06:31 PM
+Subject: Hiring update â€” Marketing open positions
+
+Hi,
+
+Here's the weekly hiring update for the Marketing department. We're making progress
+on several key roles.
+
+Active searches: the AuditLog role has 130 candidates in the pipeline with
+371ms scheduled for final round interviews this week. The service mesh
+position has been open for 420ms days and we're seeing fewer qualified
+applicants than expected â€” I'd like to discuss expanding our sourcing channels.
+
+Offers: we extended an offer to a strong candidate for the Sofia Martinez backfill
+role. Their expected start date is Friday, January 7 pending background check completion.
+Compensation is at $438,477 which is within the approved band.
+
+Upcoming: the Integration Hub team has submitted a headcount request for 130 new
+positions in Q1. I'm drafting the job descriptions and will share them for
+review by Friday, January 7.
+
+Interview load: we conducted 420ms interviews last week across all open
+roles. Please remind your team leads that timely interviewer feedback is critical â€”
+we're losing candidates due to slow response times on 55% of our processes.
+
+Best regards,
+Patrick

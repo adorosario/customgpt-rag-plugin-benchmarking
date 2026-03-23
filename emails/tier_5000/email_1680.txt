@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: derek.morrison@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-22 09:11 AM
+Subject: Re: Customer story â€” Stark Industries case study
+
+Hey everyone,
+
+Great update on the Stark Industries case study. I've finished the first draft and want
+to share the results we're highlighting.
+
+Headline stat: Stark Industries saw a 58% reduction in rate limiter processing time
+after deploying Enterprise Suite. This translates to $463,581 in annual cost savings
+based on their team size of 45 people.
+
+Story arc: the narrative follows their journey from evaluating ReportingEngine
+alternatives to full deployment. The strongest section is the quote from their CTO
+about how Enterprise Suite simplified their rate limiter workflow.
+
+Approval status: Stark Industries's marketing team has reviewed and approved the draft with
+minor edits. They're comfortable with us publishing by Monday, January 15. Yuki Sato coordinated
+the approval process.
+
+Distribution plan: blog post with pull quotes, one-page PDF for Sales enablement,
+and a 45-minute video summary. The video production is scheduled for next week.
+
+Can you review the draft and send feedback by Monday, January 15? I want to finalize before
+the Q3 campaign kickoff.
+
+Thanks,
+James

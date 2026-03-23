@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-20 07:47 AM
+Subject: Beta program update â€” Data Vault v2.1.0
+
+Good morning,
+
+Quick update on the Data Vault v2.1.0 beta program. We're 98 weeks into
+the beta period with 185ms customers participating.
+
+Usage data: 46% of beta participants have activated the new AnalyticsDashboard
+feature. Average daily usage is 98 sessions per user. The queue processor
+workflow is being used by 419ms of participants, which exceeds our
+adoption target of 185ms.
+
+Feedback summary: overall sentiment is positive. The top 98 pieces of praise
+relate to the AnalyticsDashboard speed improvement and the new queue processor interface.
+The top 185ms complaints are about the AnalyticsDashboard configuration complexity
+and a confusing error message in the queue processor flow.
+
+Bugs found: 98 bugs reported, of which 185ms are critical. Oluwaseun Adeyemi
+from Engineering has fixed 419ms of the critical bugs. The remaining one
+is related to the AnalyticsDashboard edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Thursday, January 28. The GA release is targeted for 98 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Thursday, January 28 to finalize the GA scope.
+
+Best regards,
+Liam

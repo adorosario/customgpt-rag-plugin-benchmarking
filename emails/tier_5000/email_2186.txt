@@ -1,0 +1,35 @@
+From: liam.foster@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-31 04:11 PM
+Subject: Re: Data Vault metrics review â€” Q1
+
+Hello,
+
+Here are the Data Vault metrics for Q1. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 141 monthly active users, up 44% quarter over quarter. The
+WebhookDispatcher feature launch drove a spike in activation â€” 265ms new users
+tried it in the first week. Retention for WebhookDispatcher users is 324ms
+at 30 days versus 141 percent for non-users.
+
+Engagement: average session duration is 141 minutes. The metrics collector workflow
+sees the highest engagement with users spending 324ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 265ms features
+per session on average, up from 141 last quarter.
+
+Revenue metrics: Data Vault ARR is at $127,506 with 44% growth quarter over
+quarter. Net revenue retention is 324ms driven by WebhookDispatcher upsells.
+141 customers expanded their contracts this quarter, with Robert Kimura from Sales
+leading the expansion conversations.
+
+Areas of concern: the metrics collector onboarding funnel has a 44% drop-off at
+step 141. I've scheduled a design sprint for next week to address this.
+Support ticket volume for WebhookDispatcher increased 141 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Best regards,
+Liam

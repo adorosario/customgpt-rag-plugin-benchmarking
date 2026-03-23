@@ -1,0 +1,30 @@
+From: michael.brennan@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-28 05:21 PM
+Subject: Re: Expense report flagged â€” AuthService charges
+
+Hey,
+
+I noticed some items on the AuthService expense report submitted by Sofia Martinez
+that need clarification before I can approve them.
+
+The rate limiter subscription charge of $47,075 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+156ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Globex dinner on Thursday, August 9 for $47,075 exceeds our per-person meal
+reimbursement limit of 156ms. If this was a client entertainment expense,
+it should be coded to the client development budget under AuthService rather than
+general T&E. 172 attendees at that amount puts us at 472ms per
+person which is within the client entertainment policy.
+
+The remaining 172 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 156ms business days after approval.
+
+Please resubmit with the corrections by Thursday, August 9 so we can keep things on track.
+
+Best regards,
+Michael

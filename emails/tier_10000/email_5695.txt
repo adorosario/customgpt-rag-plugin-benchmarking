@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-10-31 02:11 AM
+Subject: Payroll adjustment â€” Thursday, July 23 cycle
+
+Hi all,
+
+Several payroll adjustments need to be processed for the Thursday, July 23 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 136 employees received approved raises effective Thursday, July 23. The
+total monthly payroll impact is $431,410. The largest increase is for Wei Zhang
+whose compensation moves from 471ms to 313ms based on the promotion
+approved in the Q2 review cycle.
+
+New hires: 136 new employees starting on Thursday, July 23 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Wei Zhang
+in People Ops has verified the documentation.
+
+Bonus payouts: the SchedulerService project completion bonus of $431,410 each goes to
+136 team members. These are one-time payments coded to the Engineering department
+budget. Tax withholding will be calculated at the supplemental rate of 18%.
+
+Deduction changes: 136 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from config manager.
+
+Please approve the batch by May 16 to ensure on-time processing.
+
+Talk soon,
+Robert

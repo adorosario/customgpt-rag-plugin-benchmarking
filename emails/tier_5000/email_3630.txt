@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-09-11 11:30 AM
+Subject: Audit preparation â€” Q1 review
+
+Good afternoon,
+
+The Q1 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Wayne Enterprises are scheduled to begin fieldwork
+on Monday, May 12.
+
+Documentation needed from each department: all purchase orders above 76ms,
+contract modifications executed during Q1, headcount changes with supporting
+approvals, and WebhookDispatcher system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the event bus audit portal by Monday, May 12.
+That gives us 16 business days before the auditors arrive. Patrick O'Brien has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Enterprise Suite contracts, the WebhookDispatcher capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $280,722 in capitalized WebhookDispatcher costs and the methodology used.
+
+This is our 16 year with Wayne Enterprises as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Patrick O'Brien if you have
+questions about what's needed.
+
+Talk soon,
+Robert

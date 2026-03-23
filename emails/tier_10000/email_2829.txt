@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-11-10 07:11 PM
+Subject: Event planning â€” Data Vault webinar on Thursday, February 25
+
+Hey,
+
+Finalizing details for the Data Vault webinar on Thursday, February 25. Here's where we stand on
+the logistics and promotion.
+
+Content: Tomoko Nakamura from Product will present the AuthService roadmap segment.
+I'll handle the intro and customer story. We're targeting a 145-minute
+presentation followed by 433ms minutes of live Q&A. The serialization engine demo
+segment should be the highlight.
+
+Registration: we've had 259ms sign-ups so far. Goal is 433ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Data Vault keywords.
+
+Tech setup: using the standard webinar platform. Tomoko Nakamura will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Thursday, February 25 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 145 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Best regards,
+Laura

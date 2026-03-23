@@ -1,0 +1,33 @@
+From: david.okonkwo@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-10-02 11:36 AM
+Subject: Data privacy assessment â€” Insight Engine
+
+Hi team,
+
+The data privacy impact assessment for Insight Engine is complete. I'm flagging the key
+findings and required actions for the team.
+
+Data inventory: Insight Engine processes 170 categories of personal data including
+names, email addresses, and usage analytics. The data flows through our UserProfileService
+infrastructure and is stored in the rate limiter environment in Toronto.
+
+Risk findings: overall risk level is moderate. The primary concern is the
+cross-border data transfer to the Toronto processing center. We need to implement
+standard contractual clauses with our UserProfileService sub-processor. Carlos Rivera from
+Engineering confirmed the technical safeguards are already in place.
+
+Consent mechanism: the current Insight Engine consent flow meets requirements for
+13% of our user base. For users in regulated jurisdictions, we need to add
+explicit opt-in for the rate limiter analytics features. This is a 170-sprint
+effort according to the Product team.
+
+Records of processing: I've updated our data register to include all Insight Engine
+processing activities. The register needs to be reviewed every 74ms months
+per our policy.
+
+Next step: executive sign-off on the DPIA by Monday, July 3. Please review the full
+report in the shared drive.
+
+Talk soon,
+David

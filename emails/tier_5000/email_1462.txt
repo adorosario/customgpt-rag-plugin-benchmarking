@@ -1,0 +1,27 @@
+From: carlos.rivera@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-10-04 06:22 PM
+Subject: Re: Globex contract negotiation â€” pricing discussion
+
+Hey everyone,
+
+Update on the Globex negotiation. Their procurement team came back with a
+counteroffer and I want to make sure we're aligned before I respond.
+
+They're asking for a 38% reduction on the Data Vault license fee, bringing
+the annual contract value from $446,145 to 314ms. Their rationale is
+that they're committing to a larger seat count of 175 users, which is above
+our standard enterprise tier threshold of 200ms.
+
+My recommendation is to accept the volume-based discount but hold firm on the
+caching layer add-on pricing. The add-on margins are already thin and it's the module
+that delivers the most value in their use case. Priya Sharma from Finance can confirm
+the margin impact.
+
+I also want to push for a 2-year commitment if we offer the discounted rate. This
+locks in the revenue and reduces churn risk.
+
+Can we get a quick alignment call today before their deadline on Thursday, February 25?
+
+Thanks,
+Carlos

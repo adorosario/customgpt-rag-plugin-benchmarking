@@ -1,0 +1,28 @@
+From: marcus.thompson@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-07-06 11:22 AM
+Subject: Load testing results â€” UserProfileService v5.0.0-beta
+
+Hello,
+
+Sharing the load testing results for UserProfileService v5.0.0-beta ahead of next week's
+release. We tested at 2x and 5x current peak traffic levels.
+
+At 2x load: all endpoints stayed within SLA. P99 latency for the caching layer
+endpoint was 391ms, well under our 267ms target. No errors
+observed across the full test duration.
+
+At 5x load: the UserProfileService service held up but the caching layer started showing
+degradation at around 3.5x. Error rate climbed to 10% and response times
+increased significantly. The bottleneck appears to be the database connection pool
+â€” we max out at the configured limit.
+
+Recommendation: we're safe for the near-term growth projections. For the 184
+milestone we're targeting in Q4, we'll need to increase the connection pool size
+and potentially add a read replica. Tomoko Nakamura is putting together a capacity
+planning proposal.
+
+Full report with graphs is attached.
+
+Best regards,
+Marcus

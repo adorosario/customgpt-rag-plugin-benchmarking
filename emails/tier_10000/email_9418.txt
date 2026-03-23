@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-01 12:10 PM
+Subject: Financial close checklist â€” Q3
+
+Hey everyone,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Integration Hub invoices must be issued by Tuesday, March 13. Any revenue recognition
+adjustments for the FileStorageService contracts need supporting documentation uploaded
+to logging pipeline. David Okonkwo from Sales must confirm final deal amounts by July 21.
+
+Expenses: all expense reports for Q3 must be submitted by Tuesday, March 13. The
+FileStorageService vendor invoices totaling $272,696 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, FileStorageService subscription costs,
+and the logging pipeline usage charges by Tuesday, March 13. Any non-standard accruals above
+309ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, FileStorageService account reconciliation, and
+inter-company balances must be completed by Tuesday, March 13. David Okonkwo is handling the
+bank rec. I'll take the inter-company items since they involve the Berlin entity.
+
+Target: books closed within 62 business days of quarter end. Final reporting
+package to leadership by Tuesday, March 13.
+
+Regards,
+Michael

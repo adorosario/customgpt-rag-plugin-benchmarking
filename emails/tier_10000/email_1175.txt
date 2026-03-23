@@ -1,0 +1,29 @@
+From: kwame.asante@acmecorp.com
+To: maria.santos@acmecorp.com
+Date: 2025-10-04 12:37 PM
+Subject: Policy update â€” APIGateway guidelines
+
+Hey everyone,
+
+We've updated the APIGateway company policy based on feedback from employees and
+recent changes in San Francisco labor regulations. The new policy takes effect on Thursday, May 18.
+
+Key changes: the authentication module allowance has been increased from 314ms to
+469ms per month. The eligibility window for APIGateway has been expanded
+to include employees who've been with Acme Corp for 121 months or more, down
+from the previous requirement of 314ms months.
+
+New additions: a Data Vault reimbursement category has been added covering up to
+$65,149 annually. This addresses the top employee request from the last survey.
+Ananya Desai negotiated favorable terms with the authentication module vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by January 2. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 57% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Talk soon,
+Kwame

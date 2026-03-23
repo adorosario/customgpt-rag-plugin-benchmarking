@@ -1,0 +1,30 @@
+From: hannah.goldstein@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-06-14 07:56 AM
+Subject: Client meeting recap â€” Stark Industries Tuesday, September 1
+
+Hello,
+
+Recapping today's meeting with Stark Industries. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their SchedulerService
+team lead. From ours: myself, Ravi Patel from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their queue processor vendors
+from three down to one. Our Cloud Connect covers 21% of their requirements
+natively. The remaining gap is around SchedulerService integrations, which Ravi Patel
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Tuesday, September 1 and begin
+implementation in Q4. Budget has been pre-approved at $289,126 for the
+first year.
+
+Action items: send the Cloud Connect technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their queue processor workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Regards,
+Hannah

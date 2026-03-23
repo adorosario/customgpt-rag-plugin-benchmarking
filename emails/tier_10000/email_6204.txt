@@ -1,0 +1,32 @@
+From: david.okonkwo@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-11-08 09:33 AM
+Subject: Re: Litigation hold â€” Wayne Enterprises matter
+
+Hey,
+
+Following up on the Wayne Enterprises dispute. We need to implement a litigation hold
+immediately. Here's what that means for the affected teams.
+
+Scope: all documents, emails, and electronic records related to the Wayne Enterprises
+engagement from Wednesday, December 5 forward must be preserved. This includes DataPipeline
+logs, Sync Platform deployment records, and all correspondence between our teams
+and Wayne Enterprises's personnel.
+
+Affected departments: Engineering, Sales, and Product. Alex Chen will distribute
+hold notices to the specific custodians in each department. We've identified
+71 individuals whose records are potentially relevant.
+
+Obligations: do not delete, modify, or archive any records covered by the hold.
+Suspend any auto-deletion policies for the relevant authentication module systems.
+Alex Chen from IT is coordinating the technical preservation measures.
+
+Duration: the hold remains in effect until further notice from Legal. I expect the
+matter to be resolved within 339ms months based on preliminary discussions
+with opposing counsel. The estimated legal cost exposure is $204,117.
+
+If anyone has questions about what's covered, direct them to me. Do not discuss
+the hold or the underlying matter externally.
+
+Best,
+David

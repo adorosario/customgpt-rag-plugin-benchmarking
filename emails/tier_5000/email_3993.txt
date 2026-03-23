@@ -1,0 +1,28 @@
+From: tomoko.nakamura@acmecorp.com
+To: maria.santos@acmecorp.com
+Date: 2025-07-31 12:42 PM
+Subject: Feature flag cleanup â€” SchedulerService v3.2.2
+
+Hi,
+
+Time for our quarterly feature flag cleanup in SchedulerService. We have 160 flags
+in the system and several of them are stale.
+
+Flags to remove: the service mesh migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The SchedulerService experiment flag
+was concluded last sprint with a decision to ship â€” David Okonkwo will hardcode the
+winning variant.
+
+Flags to keep: the v3.2.2 rollout flag should stay until we've confirmed
+stability at 422ms traffic. The service mesh kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 460ms lines of dead code and simplify the conditional logic in
+10% of the affected modules.
+
+Please claim the tickets for flags in your area by Friday, December 19. Target completion is end
+of sprint.
+
+Talk soon,
+Tomoko

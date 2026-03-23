@@ -1,0 +1,32 @@
+From: sofia.martinez@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-08-19 05:32 AM
+Subject: Event planning â€” Data Vault webinar on Wednesday, January 13
+
+Hey everyone,
+
+Finalizing details for the Data Vault webinar on Wednesday, January 13. Here's where we stand on
+the logistics and promotion.
+
+Content: Ananya Desai from Product will present the AnalyticsDashboard roadmap segment.
+I'll handle the intro and customer story. We're targeting a 154-minute
+presentation followed by 497ms minutes of live Q&A. The serialization engine demo
+segment should be the highlight.
+
+Registration: we've had 480ms sign-ups so far. Goal is 497ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Data Vault keywords.
+
+Tech setup: using the standard webinar platform. Ananya Desai will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Wednesday, January 13 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 154 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Thanks,
+Sofia

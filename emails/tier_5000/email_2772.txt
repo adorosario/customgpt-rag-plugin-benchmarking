@@ -1,0 +1,30 @@
+From: jun.tanaka@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-09-27 05:18 PM
+Subject: Client meeting recap â€” Weyland-Yutani Monday, September 3
+
+Good morning,
+
+Recapping today's meeting with Weyland-Yutani. Good progress overall â€” here are the
+key takeaways.
+
+Attendees from their side: VP Engineering, Head of IT, and their BillingModule
+team lead. From ours: myself, Jun Tanaka from Engineering, and the SE.
+
+Key discussion points: they're looking to consolidate their config manager vendors
+from three down to one. Our Data Vault covers 26% of their requirements
+natively. The remaining gap is around BillingModule integrations, which Jun Tanaka
+confirmed we can address in the next release.
+
+Their timeline: they want to make a vendor decision by Monday, September 3 and begin
+implementation in Q4. Budget has been pre-approved at $36,160 for the
+first year.
+
+Action items: send the Data Vault technical architecture document by Thursday,
+schedule a reference call with a similar-sized customer, and prepare a custom
+demo focused on their config manager workflow.
+
+Confidence level: high. I'll update the forecast accordingly.
+
+Best,
+Jun

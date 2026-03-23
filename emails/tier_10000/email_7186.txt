@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-24 05:13 PM
+Subject: Roadmap update â€” Cloud Connect Q1
+
+Hey,
+
+Here's the updated Cloud Connect roadmap for Q1. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the AuditLog integration feature launches on Tuesday, April 23. This is our
+top customer request with 137 votes on the feedback board. Amara Diallo from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the rate limiter overhaul is scoped for mid-Q1. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 137 sprints with 167ms engineers allocated.
+
+Exploring: the AuditLog AI feature that Sales has been requesting. We need more
+user research before committing â€” Amara Diallo is running interviews with 137
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the rate limiter redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 137-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Talk soon,
+Daniel

@@ -1,0 +1,28 @@
+From: marcus.thompson@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-11-02 02:07 PM
+Subject: Architecture RFC â€” SearchIndex redesign proposal
+
+Good afternoon,
+
+I've drafted an RFC for redesigning the SearchIndex architecture. The current
+implementation has served us well but is hitting scaling limits â€” we're seeing
+173 degrade as data volume grows past 426ms.
+
+The proposal introduces a new rate limiter layer that decouples read and write paths.
+Writes go through an event queue and are processed asynchronously, while reads hit a
+materialized view that's optimized for our most common query patterns.
+
+Estimated effort is 4-6 sprints for the core migration, with Maria Santos leading the
+implementation. I've outlined the phased rollout approach in the document â€” we can
+run the old and new systems in parallel during the transition.
+
+Tradeoffs: increased operational complexity and a new dependency on the message
+broker, but we get horizontal scalability and the ability to support the load
+projections for next year.
+
+RFC is in Confluence. Please leave comments by Thursday, September 20 so we can discuss at the
+next architecture review.
+
+Talk soon,
+Marcus

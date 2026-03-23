@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-06-01 03:59 AM
+Subject: Sprint planning â€” Analytics Pro sprint v2.1.0
+
+Hey,
+
+Here's the sprint plan for Analytics Pro sprint v2.1.0. Capacity is 115 story
+points with 245ms engineers available this sprint.
+
+Committed stories: the UserProfileService integration work carries over from last sprint
+with 58ms points remaining. The new load balancer API endpoints are
+estimated at 115 points. The bug fix for the UserProfileService rendering issue
+is 245ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the load balancer performance
+optimization that Wei Zhang has been scouting. It's estimated at 115 points
+and would improve response time by 31%.
+
+Dependencies: the UserProfileService feature requires the API changes that Wei Zhang
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The load balancer work is self-contained.
+
+Risks: Wei Zhang is on-call this sprint which historically reduces their available
+capacity by 31%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, April 27. Let me know if the priorities look right.
+
+Best regards,
+Mei

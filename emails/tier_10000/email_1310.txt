@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-28 03:50 AM
+Subject: Cash flow forecast â€” Q1
+
+Hi team,
+
+Attached is the cash flow forecast for Q1. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $223,060 based on the current AR aging
+and sales pipeline. The Cyberdyne payment of 408ms is expected by Monday, December 17
+â€” Ananya Desai from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the FileStorageService infrastructure
+investment at $223,060. The London office build-out costs will hit in Q1
+with an estimated total of 187ms. Payroll continues at 408ms
+monthly for our 160-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $223,060 in the second month. This provides 160 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Cyberdyne deal slips from Q1 to next quarter, we'll
+need to draw on the credit facility for $223,060. I've confirmed the line is
+available. Ananya Desai and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Thanks,
+Michael

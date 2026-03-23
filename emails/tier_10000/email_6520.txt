@@ -1,0 +1,29 @@
+From: michael.brennan@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-07-27 05:33 PM
+Subject: Re: Expense report flagged â€” DataPipeline charges
+
+Good morning,
+
+I noticed some items on the DataPipeline expense report submitted by David Okonkwo
+that need clarification before I can approve them.
+
+The rate limiter subscription charge of $153,354 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+160ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Tyrell Corp dinner on Friday, December 15 for $153,354 exceeds our per-person meal
+reimbursement limit of 160ms. If this was a client entertainment expense,
+it should be coded to the client development budget under DataPipeline rather than
+general T&E. 54 attendees at that amount puts us at 93ms per
+person which is within the client entertainment policy.
+
+The remaining 54 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 160ms business days after approval.
+
+Please resubmit with the corrections by Friday, December 15 so we can keep things on track.
+
+Talk soon,
+Michael

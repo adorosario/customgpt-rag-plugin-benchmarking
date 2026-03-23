@@ -1,0 +1,29 @@
+From: aisha.okafor@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-08-06 02:19 AM
+Subject: Re: Integration Hub demo feedback from Globex
+
+Hi team,
+
+Great news from the Globex demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the config manager dashboard got the biggest reaction. Their
+current tool requires 17 manual steps to accomplish what our Integration Hub does
+automatically. The AuditLog integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 496ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v1.9.5 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Wei Zhang, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Integration Hub trial environment set up for their team of
+17 evaluators. I'll submit the trial request today. Target close date
+remains Tuesday, October 11.
+
+Best regards,
+Aisha

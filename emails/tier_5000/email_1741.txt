@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-19 09:49 PM
+Subject: Sprint planning â€” Enterprise Suite sprint v3.8.1
+
+Hey,
+
+Here's the sprint plan for Enterprise Suite sprint v3.8.1. Capacity is 142 story
+points with 433ms engineers available this sprint.
+
+Committed stories: the NotificationEngine integration work carries over from last sprint
+with 183ms points remaining. The new config manager API endpoints are
+estimated at 142 points. The bug fix for the NotificationEngine rendering issue
+is 433ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the config manager performance
+optimization that Ravi Patel has been scouting. It's estimated at 142 points
+and would improve response time by 18%.
+
+Dependencies: the NotificationEngine feature requires the API changes that Ravi Patel
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The config manager work is self-contained.
+
+Risks: Ravi Patel is on-call this sprint which historically reduces their available
+capacity by 18%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Thursday, March 8. Let me know if the priorities look right.
+
+Cheers,
+Daniel

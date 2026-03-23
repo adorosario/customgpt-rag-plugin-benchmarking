@@ -1,0 +1,30 @@
+From: kwame.asante@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-11-10 05:18 PM
+Subject: Onboarding schedule â€” new hire starting Friday, May 17
+
+Hey,
+
+We have a new team member joining Finance on Friday, May 17. Here's the onboarding schedule
+for their first two weeks.
+
+Week 1: orientation sessions covering company culture, DataPipeline systems access
+setup, benefits enrollment, and introductory meetings with their team and key
+stakeholders. Carlos Rivera will serve as their onboarding buddy.
+
+Week 2: deeper technical onboarding on Enterprise Suite and the config manager tooling,
+shadowing sessions with team members, and a check-in with their manager to set
+initial goals and expectations.
+
+Equipment: laptop and peripherals have been ordered and will be shipped to arrive
+by Friday, May 17. All software licenses including DataPipeline and config manager access are
+being provisioned by IT.
+
+I need the following from the hiring manager by end of week: completed onboarding
+checklist, list of 30 people to schedule intro meetings with, and first
+321ms-day goals. Please send these to Carlos Rivera in People Ops.
+
+Welcome email goes out 30 days before start date.
+
+Thanks,
+Kwame

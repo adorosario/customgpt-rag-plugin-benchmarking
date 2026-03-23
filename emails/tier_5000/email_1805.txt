@@ -1,0 +1,30 @@
+From: jun.tanaka@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-06-08 02:37 AM
+Subject: Competitive intel â€” Wayne Enterprises evaluation
+
+Good afternoon,
+
+Got some useful competitive intelligence from the Wayne Enterprises account that I want to
+share with the team.
+
+Wayne Enterprises shared their evaluation criteria and mentioned they're also looking at
+AnalyticsDashboard as an alternative to our Cloud Connect. From what I gathered, AnalyticsDashboard
+is pitching a lower price point but doesn't have feature parity on the connection pool
+side.
+
+Key differentiators working in our favor: our Cloud Connect handles 76 concurrent
+connections versus their published limit of 149ms. Our uptime SLA is also
+stronger at 258ms versus their 57% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for AnalyticsDashboard and
+consider a streamlined trial process for mid-market accounts. Oluwaseun Adeyemi from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Thursday, March 21.
+
+Best,
+Jun

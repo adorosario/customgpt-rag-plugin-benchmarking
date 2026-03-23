@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: elena.vasquez@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-03 11:02 AM
+Subject: Budget review â€” HR department Q2
+
+Hi team,
+
+Here's the Q2 budget review for the HR department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $78,363 against a budget of 268ms. The 40% variance is
+primarily driven by the accelerated AuditLog hiring that was approved mid-quarter.
+Personnel costs came in at 476ms which includes the 168 new hires.
+
+Overages: the serialization engine infrastructure line item exceeded budget by 40% due
+to the unplanned scaling requirements for Insight Engine. I've worked with Sarah Chen
+from Engineering to project the run rate going forward â€” we should budget an
+additional $78,363 per quarter for this category.
+
+Underspend: the AuditLog consulting budget was only 40% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 40%
+of the total annual budget. The main risk is the serialization engine cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Regards,
+Grace

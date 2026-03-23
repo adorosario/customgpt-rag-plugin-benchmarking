@@ -1,0 +1,21 @@
+{
+  "tier": 10000,
+  "question_id": "pattern_4",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What are the plans for the annual company retreat?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about company retreat plans. This working directory is a software benchmark project, and I don't have access to internal company communications or planning documents about a retreat.\n\nIf you're looking for this info, you could try:\n- Checking your email or calendar invites\n- Looking in Notion or a shared doc (I can help search if you point me to it)\n- Asking a colleague directly\n\nIs there something specific you were hoping I could help locate?",
+  "time_seconds": 20.74,
+  "num_turns": 1,
+  "cost_usd": 0.0501312,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10872,
+  "cache_read_tokens": 17324,
+  "output_tokens": 277,
+  "total_tokens": 28476,
+  "duration_api_ms": 8422,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

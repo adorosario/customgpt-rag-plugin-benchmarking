@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-08-09 07:06 AM
+Subject: Event planning â€” Enterprise Suite webinar on Friday, August 21
+
+Hey,
+
+Finalizing details for the Enterprise Suite webinar on Friday, August 21. Here's where we stand on
+the logistics and promotion.
+
+Content: Liam Foster from Product will present the ReportingEngine roadmap segment.
+I'll handle the intro and customer story. We're targeting a 133-minute
+presentation followed by 409ms minutes of live Q&A. The service mesh demo
+segment should be the highlight.
+
+Registration: we've had 442ms sign-ups so far. Goal is 409ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Enterprise Suite keywords.
+
+Tech setup: using the standard webinar platform. Liam Foster will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Friday, August 21 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 133 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Thanks,
+Sofia

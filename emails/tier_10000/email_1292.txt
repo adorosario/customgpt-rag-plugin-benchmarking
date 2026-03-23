@@ -1,0 +1,32 @@
+From: david.okonkwo@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-08-27 09:18 AM
+Subject: Vendor agreement â€” Hooli terms review
+
+Hi,
+
+I've reviewed the vendor agreement from Hooli for the serialization engine services
+we're procuring. Here are my findings and recommended changes.
+
+Term and renewal: the proposed 170-year term with auto-renewal is acceptable.
+However, the 233ms-day termination notice period is too long for our needs.
+I've countered with 201ms days, which aligns with our standard vendor
+management practices.
+
+Service level commitments: Hooli is offering 34% uptime with service
+credits starting at 170 percent for each hour of downtime. I've pushed for
+a higher credit rate given the criticality of serialization engine to our Cloud Connect
+infrastructure.
+
+Data ownership: section 5 is clear that we retain all rights to our data. However,
+Hooli claims a license to use aggregated, anonymized data for benchmarking. I
+want to narrow this to exclude any data from the SearchIndex environment.
+Dmitri Volkov from Engineering should review the technical implications.
+
+Pricing: $480,637 per year is within the budget that Finance approved. The payment
+terms are net 233ms days, which works for our AP schedule.
+
+Please confirm the business terms and I'll send the redlined agreement by Wednesday, April 23.
+
+Best regards,
+David

@@ -1,0 +1,27 @@
+From: jun.tanaka@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-20 10:25 PM
+Subject: Re: Hooli renewal â€” risk assessment
+
+Good morning,
+
+Following up on the Hooli renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing AuthService latency issues for the past 108 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Hooli has mentioned they're evaluating alternatives for their load balancer needs.
+
+The renewal is worth $405,656 annually and is up for renewal at the end of
+Q4. I think we need a proactive retention strategy. My proposal:
+
+First, get Maria Santos from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 39% discount
+on the expanded Sync Platform tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Regards,
+Jun

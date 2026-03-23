@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-06-04 09:01 AM
+Subject: Sprint planning â€” Analytics Pro sprint v3.2.2
+
+Good morning,
+
+Here's the sprint plan for Analytics Pro sprint v3.2.2. Capacity is 154 story
+points with 460ms engineers available this sprint.
+
+Committed stories: the PaymentGateway integration work carries over from last sprint
+with 69ms points remaining. The new queue processor API endpoints are
+estimated at 154 points. The bug fix for the PaymentGateway rendering issue
+is 460ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the queue processor performance
+optimization that James Oduya has been scouting. It's estimated at 154 points
+and would improve response time by 39%.
+
+Dependencies: the PaymentGateway feature requires the API changes that James Oduya
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The queue processor work is self-contained.
+
+Risks: James Oduya is on-call this sprint which historically reduces their available
+capacity by 39%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, March 23. Let me know if the priorities look right.
+
+Best regards,
+Daniel

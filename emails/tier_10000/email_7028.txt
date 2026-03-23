@@ -1,0 +1,27 @@
+From: elena.vasquez@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-09-12 01:32 PM
+Subject: Incident postmortem â€” NotificationEngine outage on Wednesday, March 28
+
+Hi,
+
+Attached is the postmortem for the NotificationEngine outage that occurred on Wednesday, March 28. The
+incident lasted approximately 45 minutes and affected 157 for a subset of users.
+
+Root cause: a configuration change in the logging pipeline deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+244ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, James Oduya acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the NotificationEngine runbook, add a circuit breaker for the
+logging pipeline connection pool, and implement load shedding when concurrency exceeds
+244ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Thanks,
+Elena

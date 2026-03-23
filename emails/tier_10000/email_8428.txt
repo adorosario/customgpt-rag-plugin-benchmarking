@@ -1,0 +1,29 @@
+From: sofia.martinez@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-02 12:29 AM
+Subject: Analytics Pro campaign launch â€” Q2 plan
+
+Good afternoon,
+
+Here's the campaign plan for the Analytics Pro launch in Q2. I've aligned the
+messaging with the positioning we finalized last week and mapped out the channel
+strategy.
+
+Campaign theme: highlighting the APIGateway advantage and how Analytics Pro solves
+the key pain point around queue processor complexity. Target audience is mid-market
+and enterprise IT decision makers.
+
+Channel breakdown: 34% of budget to paid digital, 59 to content
+marketing, and the remainder to events and webinars. We're targeting a $442,175
+total spend with a goal of 353ms marketing qualified leads.
+
+Content deliverables: landing page, solution brief, customer case study featuring
+Globex, three blog posts, and a webinar co-hosted with Mei Lin from Product.
+All assets target completion by Tuesday, January 2.
+
+The paid campaign goes live two weeks before the official launch to build awareness.
+I'll share the creative brief for review tomorrow.
+
+Best regards,
+Sofia

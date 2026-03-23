@@ -1,0 +1,29 @@
+From: carlos.rivera@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-21 10:02 AM
+Subject: Quarterly territory review â€” Q3
+
+Hi,
+
+Here's my territory review for Q3. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 72 qualified opportunities worth a combined $305,152 in
+ARR. The largest deal is Oscorp at 394ms, which I expect to close by
+Thursday, April 18. Three other deals in the 123ms range are progressing through
+procurement.
+
+Wins this quarter: closed Oscorp for Data Vault with a 7% upsell from
+their initial scope. The rate limiter add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Amara Diallo to the Oscorp executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Cheers,
+Carlos

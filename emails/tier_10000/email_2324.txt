@@ -1,0 +1,27 @@
+From: derek.morrison@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-03 03:03 PM
+Subject: Re: Stark Industries renewal â€” risk assessment
+
+Good afternoon,
+
+Following up on the Stark Industries renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing SearchIndex latency issues for the past 105 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Stark Industries has mentioned they're evaluating alternatives for their rate limiter needs.
+
+The renewal is worth $86,234 annually and is up for renewal at the end of
+Q2. I think we need a proactive retention strategy. My proposal:
+
+First, get Derek Morrison from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 58% discount
+on the expanded Sync Platform tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Best,
+Derek

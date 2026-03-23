@@ -1,0 +1,29 @@
+From: aisha.okafor@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-10-24 08:32 PM
+Subject: Re: Integration Hub demo feedback from Stark Industries
+
+Hi all,
+
+Great news from the Stark Industries demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the serialization engine dashboard got the biggest reaction. Their
+current tool requires 101 manual steps to accomplish what our Integration Hub does
+automatically. The SearchIndex integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 400ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v5.0.0-beta release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Tomoko Nakamura, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Integration Hub trial environment set up for their team of
+101 evaluators. I'll submit the trial request today. Target close date
+remains Friday, September 8.
+
+Best,
+Aisha

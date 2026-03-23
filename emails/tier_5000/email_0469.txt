@@ -1,0 +1,33 @@
+From: james.oduya@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-05 06:00 PM
+Subject: SEO update â€” UserProfileService keyword rankings
+
+Hi all,
+
+Monthly SEO update for our UserProfileService content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Integration Hub comparison page climbed from position 93ms to
+position 236ms for our primary keyword. The authentication module guide is now
+ranking in the top 65 for three long-tail variations.
+
+Traffic impact: organic sessions are up 47% month over month. The
+UserProfileService cluster is now driving 65 unique sessions monthly, making it our
+second-highest traffic source behind the Integration Hub landing page.
+
+Content gaps identified: we're missing content for 93ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q4. Carlos Rivera from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 236ms on mobile after the image
+optimization work. No crawl errors detected. The new authentication module documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 65 pages. I'll share the
+outreach plan next week.
+
+Thanks,
+James

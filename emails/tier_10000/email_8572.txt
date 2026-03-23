@@ -1,0 +1,34 @@
+From: sarah.chen@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-10-12 05:58 PM
+Subject: Contract review â€” Weyland-Yutani agreement
+
+Good morning,
+
+I've completed the review of the Weyland-Yutani agreement and have several items that
+need attention before we can proceed to execution.
+
+Liability cap: the current draft limits liability to $435,840, which is below our
+standard threshold of 386ms for deals of this size. I recommend pushing back
+to at least 211ms. Daniel Park from Sales should be prepared for this
+negotiation point.
+
+IP assignment clause: section 7.3 includes an overly broad IP assignment that could
+capture pre-existing work product. I've drafted narrower language that protects our
+existing AnalyticsDashboard IP while still meeting Weyland-Yutani's requirements for the
+Insight Engine deliverables.
+
+Data processing: the DPA needs to be updated to reflect the new authentication module
+architecture. Since data will transit through the San Francisco data center, we need to
+ensure compliance with local data residency requirements.
+
+Indemnification: the mutual indemnification provisions are reasonable. I've accepted
+them with minor clarifications on the notice period â€” changed from 18 to
+386ms business days.
+
+I'll send the redlined version by Friday, April 12. Please review the business terms and
+confirm the commercial intent before I finalize.
+
+Best regards,
+Sarah

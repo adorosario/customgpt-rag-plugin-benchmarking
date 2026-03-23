@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-11-18 07:04 PM
+Subject: Financial close checklist â€” Q1
+
+Hey everyone,
+
+The Q1 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Data Vault invoices must be issued by Wednesday, February 6. Any revenue recognition
+adjustments for the UserProfileService contracts need supporting documentation uploaded
+to connection pool. Marcus Thompson from Sales must confirm final deal amounts by May 17.
+
+Expenses: all expense reports for Q1 must be submitted by Wednesday, February 6. The
+UserProfileService vendor invoices totaling $149,668 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, UserProfileService subscription costs,
+and the connection pool usage charges by Wednesday, February 6. Any non-standard accruals above
+200ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, UserProfileService account reconciliation, and
+inter-company balances must be completed by Wednesday, February 6. Marcus Thompson is handling the
+bank rec. I'll take the inter-company items since they involve the Sydney entity.
+
+Target: books closed within 190 business days of quarter end. Final reporting
+package to leadership by Wednesday, February 6.
+
+Best,
+Robert

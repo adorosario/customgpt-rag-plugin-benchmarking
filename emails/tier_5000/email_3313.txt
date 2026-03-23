@@ -1,0 +1,28 @@
+From: carlos.rivera@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-07-15 05:25 PM
+Subject: New lead â€” Stark Industries inbound request
+
+Hello,
+
+We received an inbound request from Stark Industries through the website today. They're
+a 150-employee company in the ReportingEngine space and are looking for a
+Enterprise Suite solution.
+
+Initial qualification: they have budget allocated for Q1, their current
+contract with their existing vendor expires on Thursday, May 22, and the decision maker is
+their VP of Operations. They found us through the load balancer whitepaper we
+published last month.
+
+The estimated deal size is $379,983 based on their seat count and the use case
+they described. They specifically mentioned needing the ReportingEngine integration
+and 352ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. James Oduya â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on load balancer scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Regards,
+Carlos

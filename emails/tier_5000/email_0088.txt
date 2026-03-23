@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-07-29 12:43 AM
+Subject: Press release draft â€” Integration Hub announcement
+
+Hi all,
+
+The press release for the Integration Hub announcement is ready for internal review. I've
+incorporated feedback from Ananya Desai and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the AnalyticsDashboard capability and positions Acme Corp as a leader
+in the event bus space. We're leading with the 74 performance improvement
+stat and the Oscorp customer quote.
+
+Distribution plan: wire service distribution on Thursday, March 26, followed by targeted
+outreach to our 365ms media contacts in the industry. I've secured a briefing
+with AnalyticsDashboard Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Integration Hub landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 74-hour cadence on launch day.
+
+Embargo: the release is under embargo until Thursday, March 26 at 9 AM ET. Please don't share
+details externally before then. Ananya Desai has the full distribution list.
+
+Review deadline is Thursday, March 26. Please send edits as comments in the doc.
+
+Regards,
+Sofia

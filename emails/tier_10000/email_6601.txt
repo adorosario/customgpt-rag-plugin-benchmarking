@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-08-04 10:42 AM
+Subject: Hiring update â€” HR open positions
+
+Hi team,
+
+Here's the weekly hiring update for the HR department. We're making progress
+on several key roles.
+
+Active searches: the SearchIndex role has 95 candidates in the pipeline with
+425ms scheduled for final round interviews this week. The rate limiter
+position has been open for 91ms days and we're seeing fewer qualified
+applicants than expected â€” I'd like to discuss expanding our sourcing channels.
+
+Offers: we extended an offer to a strong candidate for the Oluwaseun Adeyemi backfill
+role. Their expected start date is Friday, June 26 pending background check completion.
+Compensation is at $323,870 which is within the approved band.
+
+Upcoming: the Sync Platform team has submitted a headcount request for 95 new
+positions in Q3. I'm drafting the job descriptions and will share them for
+review by Friday, June 26.
+
+Interview load: we conducted 91ms interviews last week across all open
+roles. Please remind your team leads that timely interviewer feedback is critical â€”
+we're losing candidates due to slow response times on 36% of our processes.
+
+Talk soon,
+Rachel

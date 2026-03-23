@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-10-09 05:06 AM
+Subject: Conference recap â€” Cloud Connect booth results
+
+Hello,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Cloud Connect booth drew consistent traffic throughout.
+
+Lead collection: 177 badge scans at the booth, of which 395ms are
+qualified leads based on our initial review. The AnalyticsDashboard live demo was the
+biggest draw, and Amara Diallo from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+metrics collector roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Cloud Connect had 121ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 177 times since we posted it.
+
+Budget: we came in at $446,332, which is 53% under budget. The savings came
+from sharing the booth infrastructure with the AnalyticsDashboard partner showcase.
+
+I'll prepare a full ROI analysis by Friday, November 20 once we've completed lead follow-up.
+
+Best regards,
+Sofia

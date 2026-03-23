@@ -1,0 +1,29 @@
+From: grace.mwangi@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-09-10 10:09 PM
+Subject: Re: Expense report flagged â€” UserProfileService charges
+
+Hey,
+
+I noticed some items on the UserProfileService expense report submitted by Yuki Sato
+that need clarification before I can approve them.
+
+The caching layer subscription charge of $173,204 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+96ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Soylent Corp dinner on Friday, June 10 for $173,204 exceeds our per-person meal
+reimbursement limit of 96ms. If this was a client entertainment expense,
+it should be coded to the client development budget under UserProfileService rather than
+general T&E. 71 attendees at that amount puts us at 473ms per
+person which is within the client entertainment policy.
+
+The remaining 71 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 96ms business days after approval.
+
+Please resubmit with the corrections by Friday, June 10 so we can keep things on track.
+
+Best,
+Grace

@@ -1,0 +1,30 @@
+From: dmitri.volkov@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-09-15 05:45 AM
+Subject: Competitive intel â€” Wayne Enterprises evaluation
+
+Hi all,
+
+Got some useful competitive intelligence from the Wayne Enterprises account that I want to
+share with the team.
+
+Wayne Enterprises shared their evaluation criteria and mentioned they're also looking at
+FileStorageService as an alternative to our Enterprise Suite. From what I gathered, FileStorageService
+is pitching a lower price point but doesn't have feature parity on the serialization engine
+side.
+
+Key differentiators working in our favor: our Enterprise Suite handles 173 concurrent
+connections versus their published limit of 160ms. Our uptime SLA is also
+stronger at 495ms versus their 52% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for FileStorageService and
+consider a streamlined trial process for mid-market accounts. Jun Tanaka from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Thursday, June 13.
+
+Cheers,
+Dmitri

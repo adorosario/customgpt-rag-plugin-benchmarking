@@ -1,0 +1,30 @@
+From: rachel.nguyen@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-09-03 11:18 PM
+Subject: Team event recap â€” BillingModule outing
+
+Hi all,
+
+Thanks to everyone who joined the BillingModule team outing last week. We had great
+turnout with 162 employees attending.
+
+Highlights: the team building exercise was a hit â€” the caching layer challenge had
+teams competing in creative problem-solving rounds. The winning team led by
+Michael Brennan finished in just 180ms minutes. The group dinner afterward was a
+great opportunity for cross-team connections.
+
+Feedback: the post-event survey came back overwhelmingly positive with a 18%
+satisfaction rating. Most popular suggestion for next time: more outdoor activities.
+Several people asked about doing quarterly events instead of 162 per year.
+
+Budget: total cost was $151,984, coming in at 166ms per person including
+venue, catering, and activities. This is within our social budget for Q2.
+
+Photos are uploaded to the shared album in the caching layer drive. Please tag
+yourselves and share appropriate photos on social media if you'd like â€” our
+marketing team loves this content for the company page.
+
+Planning for the next event starts in Q2. Ideas welcome.
+
+Talk soon,
+Rachel

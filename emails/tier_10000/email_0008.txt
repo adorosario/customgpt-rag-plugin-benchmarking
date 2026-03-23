@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-06-25 01:27 AM
+Subject: Conference recap â€” Integration Hub booth results
+
+Hi,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Integration Hub booth drew consistent traffic throughout.
+
+Lead collection: 165 badge scans at the booth, of which 324ms are
+qualified leads based on our initial review. The NotificationEngine live demo was the
+biggest draw, and David Okonkwo from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+connection pool roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Integration Hub had 123ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 165 times since we posted it.
+
+Budget: we came in at $487,763, which is 32% under budget. The savings came
+from sharing the booth infrastructure with the NotificationEngine partner showcase.
+
+I'll prepare a full ROI analysis by Tuesday, February 23 once we've completed lead follow-up.
+
+Cheers,
+Yuki

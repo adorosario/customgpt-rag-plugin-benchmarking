@@ -1,0 +1,33 @@
+From: michael.brennan@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-02 03:19 PM
+Subject: Investment proposal â€” NotificationEngine infrastructure
+
+Hi team,
+
+I've prepared the financial analysis for the proposed NotificationEngine infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $435,303 upfront with 247ms in annual operating costs.
+The total 3-year cost of ownership is 433ms compared to the current
+authentication module setup at $435,303 over the same period.
+
+ROI analysis: the projected payback period is 132 months. Key benefits include
+13% reduction in infrastructure management time, improved Insight Engine performance
+that supports the revenue growth targets, and elimination of the authentication module
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $435,303 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 13% interest.
+This preserves cash for the Berlin office investment planned for Q4.
+
+Risk factors: technology lock-in with the NotificationEngine vendor, though the 132-year
+contract includes an exit clause after the first year. Laura Kim from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Thursday, April 16 to lock in the quoted pricing. The vendor has
+given us a 132-day hold on the current rates.
+
+Regards,
+Michael

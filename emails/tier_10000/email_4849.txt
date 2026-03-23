@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-09-30 07:03 PM
+Subject: Customer feedback digest â€” Cloud Connect Q1
+
+Hi all,
+
+Here's the quarterly customer feedback digest for Cloud Connect. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 30, up 83ms points from last quarter. The improvement
+is driven by the FileStorageService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 57%.
+
+Top feature requests: FileStorageService advanced filtering (30 votes), logging pipeline
+bulk operations (83ms votes), and enhanced Cloud Connect reporting (275ms
+votes). The filtering request aligns with what we heard in the user research study
+Derek Morrison conducted.
+
+Top complaints: FileStorageService performance during peak hours (30 mentions),
+the logging pipeline onboarding experience (83ms mentions), and pricing
+transparency (275ms mentions). The performance issue is being addressed
+by Engineering â€” Derek Morrison expects the fix in v2.7.3.
+
+Churn insights: 30 customers churned this quarter citing FileStorageService
+limitations as the primary reason. The logging pipeline overhaul on our roadmap directly
+addresses their feedback. 57% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Tuesday, January 23.
+
+Regards,
+Liam

@@ -1,0 +1,26 @@
+From: hannah.goldstein@acmecorp.com
+To: kwame.asante@acmecorp.com
+Date: 2025-06-15 04:57 AM
+Subject: Re: Stark Industries renewal â€” risk assessment
+
+Hello,
+
+Following up on the Stark Industries renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing AuditLog latency issues for the past 135 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Stark Industries has mentioned they're evaluating alternatives for their authentication module needs.
+
+The renewal is worth $305,437 annually and is up for renewal at the end of
+Q4. I think we need a proactive retention strategy. My proposal:
+
+First, get Oluwaseun Adeyemi from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 7% discount
+on the expanded Enterprise Suite tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Best regards,
+Hannah

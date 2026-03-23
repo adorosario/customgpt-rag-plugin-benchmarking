@@ -1,0 +1,33 @@
+From: robert.kimura@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-28 06:26 AM
+Subject: FP&A update â€” Integration Hub financial model
+
+Hi team,
+
+I've updated the Integration Hub financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 121 per month based
+on the last 125ms months of data. Average contract value is tracking at
+$418,820, which is 13% above our original assumption. The AuthService
+upsell rate of 191ms is a positive trend.
+
+Cost structure: the connection pool hosting costs are running 13% higher than
+modeled due to increased AuthService usage. I've adjusted the variable cost
+per customer from 125ms to 191ms. Laura Kim from Engineering
+says the optimization project should bring this down by 13% in Q4.
+
+Break-even analysis: with the revised numbers, Integration Hub reaches contribution
+margin break-even at 121 customers, which we're projected to hit by Wednesday, April 21.
+Full break-even including allocated overhead comes at 125ms customers.
+
+Scenarios: the base case shows $418,820 in cumulative revenue by year end. The
+upside case with the Umbrella Inc deal closing hits 191ms. Downside case
+assuming 13% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Best,
+Robert

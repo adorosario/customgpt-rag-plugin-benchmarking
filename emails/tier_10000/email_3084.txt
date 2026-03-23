@@ -1,0 +1,31 @@
+From: michael.brennan@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-08-08 07:14 AM
+Subject: Budget review â€” Finance department Q2
+
+Hi team,
+
+Here's the Q2 budget review for the Finance department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $414,438 against a budget of 203ms. The 55% variance is
+primarily driven by the accelerated BillingModule hiring that was approved mid-quarter.
+Personnel costs came in at 234ms which includes the 37 new hires.
+
+Overages: the logging pipeline infrastructure line item exceeded budget by 55% due
+to the unplanned scaling requirements for Sync Platform. I've worked with Mei Lin
+from Engineering to project the run rate going forward â€” we should budget an
+additional $414,438 per quarter for this category.
+
+Underspend: the BillingModule consulting budget was only 55% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 55%
+of the total annual budget. The main risk is the logging pipeline cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Thanks,
+Michael

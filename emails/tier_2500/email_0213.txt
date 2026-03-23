@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-09-06 04:38 PM
+Subject: Analytics report â€” Analytics Pro campaign performance
+
+Hey everyone,
+
+Here's the performance report for the Analytics Pro campaign through Monday, October 14.
+
+Website traffic: up 34% month over month, driven primarily by the PaymentGateway
+comparison blog post which brought in 77 unique visitors. Organic search is
+growing steadily â€” the rate limiter keyword cluster is now ranking on page one.
+
+Lead generation: 418ms marketing qualified leads this month against a
+target of 71ms. The whitepaper download page converted at 34% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 77 percent.
+
+Email campaigns: the Analytics Pro nurture sequence has a 34% open rate and
+77 percent click-through rate. The top-performing email was the PaymentGateway
+case study with Massive Dynamic. Wei Zhang suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $422,752 which is 34% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Best,
+James

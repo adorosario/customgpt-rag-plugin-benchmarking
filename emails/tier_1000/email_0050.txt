@@ -1,0 +1,34 @@
+From: liam.foster@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-22 09:12 PM
+Subject: Customer feedback digest â€” Insight Engine Q3
+
+Good afternoon,
+
+Here's the quarterly customer feedback digest for Insight Engine. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 193, up 457ms points from last quarter. The improvement
+is driven by the ReportingEngine launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 34%.
+
+Top feature requests: ReportingEngine advanced filtering (193 votes), caching layer
+bulk operations (457ms votes), and enhanced Insight Engine reporting (421ms
+votes). The filtering request aligns with what we heard in the user research study
+Hannah Goldstein conducted.
+
+Top complaints: ReportingEngine performance during peak hours (193 mentions),
+the caching layer onboarding experience (457ms mentions), and pricing
+transparency (421ms mentions). The performance issue is being addressed
+by Engineering â€” Hannah Goldstein expects the fix in v5.0.0-beta.
+
+Churn insights: 193 customers churned this quarter citing ReportingEngine
+limitations as the primary reason. The caching layer overhaul on our roadmap directly
+addresses their feedback. 34% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Monday, January 11.
+
+Talk soon,
+Liam

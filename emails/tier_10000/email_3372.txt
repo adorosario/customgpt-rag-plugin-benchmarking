@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-08-10 01:29 PM
+Subject: Conference recap â€” Enterprise Suite booth results
+
+Hey,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Enterprise Suite booth drew consistent traffic throughout.
+
+Lead collection: 150 badge scans at the booth, of which 209ms are
+qualified leads based on our initial review. The ReportingEngine live demo was the
+biggest draw, and Ananya Desai from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+load balancer roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Enterprise Suite had 462ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 150 times since we posted it.
+
+Budget: we came in at $498,403, which is 40% under budget. The savings came
+from sharing the booth infrastructure with the ReportingEngine partner showcase.
+
+I'll prepare a full ROI analysis by Tuesday, October 1 once we've completed lead follow-up.
+
+Talk soon,
+Laura

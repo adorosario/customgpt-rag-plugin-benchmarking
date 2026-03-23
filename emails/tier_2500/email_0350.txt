@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-11-11 05:43 PM
+Subject: Analytics report â€” Sync Platform campaign performance
+
+Good afternoon,
+
+Here's the performance report for the Sync Platform campaign through Tuesday, August 11.
+
+Website traffic: up 56% month over month, driven primarily by the AnalyticsDashboard
+comparison blog post which brought in 192 unique visitors. Organic search is
+growing steadily â€” the service mesh keyword cluster is now ranking on page one.
+
+Lead generation: 150ms marketing qualified leads this month against a
+target of 203ms. The whitepaper download page converted at 56% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 192 percent.
+
+Email campaigns: the Sync Platform nurture sequence has a 56% open rate and
+192 percent click-through rate. The top-performing email was the AnalyticsDashboard
+case study with Pied Piper. Jun Tanaka suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $246,795 which is 56% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Thanks,
+Sofia

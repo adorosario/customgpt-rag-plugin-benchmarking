@@ -1,0 +1,31 @@
+From: liam.foster@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-08-26 11:12 PM
+Subject: Sprint planning â€” Cloud Connect sprint v2.4.1
+
+Hey,
+
+Here's the sprint plan for Cloud Connect sprint v2.4.1. Capacity is 36 story
+points with 56ms engineers available this sprint.
+
+Committed stories: the PaymentGateway integration work carries over from last sprint
+with 383ms points remaining. The new metrics collector API endpoints are
+estimated at 36 points. The bug fix for the PaymentGateway rendering issue
+is 56ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the metrics collector performance
+optimization that Dmitri Volkov has been scouting. It's estimated at 36 points
+and would improve response time by 7%.
+
+Dependencies: the PaymentGateway feature requires the API changes that Dmitri Volkov
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The metrics collector work is self-contained.
+
+Risks: Dmitri Volkov is on-call this sprint which historically reduces their available
+capacity by 7%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, December 22. Let me know if the priorities look right.
+
+Best,
+Liam

@@ -1,0 +1,33 @@
+From: mei.lin@acmecorp.com
+To: ananya.desai@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-13 02:57 PM
+Subject: Re: User research findings â€” PaymentGateway
+
+Hi all,
+
+Sharing the findings from the PaymentGateway user research study. We interviewed
+122 users and ran usability tests with 143ms participants over the
+last two weeks.
+
+Key insight 1: users find the authentication module workflow confusing â€” 56% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between PaymentGateway and the main Analytics Pro dashboard.
+
+Key insight 2: power users want more PaymentGateway customization options. They're
+currently using workarounds that involve 122 extra steps. The most requested
+feature is the ability to create custom authentication module templates.
+
+Key insight 3: new users consistently miss the PaymentGateway feature entirely.
+Discovery is poor â€” only 56% of new users try the feature within their first
+122 days. Yuki Sato suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the authentication module navigation flow, add the template
+feature to the Q4 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 56% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Best regards,
+Mei

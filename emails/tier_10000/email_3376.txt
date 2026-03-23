@@ -1,0 +1,33 @@
+From: fatima.al-rashid@acmecorp.com
+To: elena.vasquez@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-07-02 07:12 PM
+Subject: Intern program â€” Q2 cohort planning
+
+Hi all,
+
+Planning for the Q2 intern cohort is underway. We're targeting 109
+interns across 139ms departments this cycle.
+
+Department allocation: Engineering gets 289ms interns, Product gets
+109, and Marketing gets the remainder. Each intern will be assigned a mentor â€”
+Michael Brennan is coordinating mentor assignments. Please nominate mentors from your
+teams by Monday, November 10.
+
+Program structure: 109-week program with structured rotations. Interns spend
+22% of their time on project work and the rest on learning sessions, shadowing,
+and a capstone presentation. The SearchIndex workshop series from last cohort was
+well received and will be repeated.
+
+Compensation: hourly rate is $225,080 for undergraduate interns and 289ms
+for graduate-level. Housing stipend of 139ms per month for out-of-area interns.
+
+Recruiting timeline: applications open on Monday, November 10. We'll be visiting 109
+universities and posting on the standard job boards. Final offers go out by the
+end of Q2.
+
+Let me know if your team wants to adjust headcount or has specific project ideas
+for interns.
+
+Cheers,
+Fatima

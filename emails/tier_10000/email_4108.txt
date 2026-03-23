@@ -1,0 +1,27 @@
+From: marcus.thompson@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-07-13 06:02 AM
+Subject: Incident postmortem â€” AuditLog outage on Monday, May 22
+
+Hi all,
+
+Attached is the postmortem for the AuditLog outage that occurred on Monday, May 22. The
+incident lasted approximately 45 minutes and affected 12 for a subset of users.
+
+Root cause: a configuration change in the queue processor deployment introduced a race
+condition under high load. The issue manifested when concurrent requests exceeded
+157ms, causing connection pool exhaustion.
+
+Timeline: the alert fired at 14:23 UTC, Carlos Rivera acknowledged within 3 minutes,
+and the fix was deployed by 15:08 UTC. Detection was fast thanks to the new alerting
+rules, but resolution took longer than ideal because the runbook for this service
+was outdated.
+
+Action items: update the AuditLog runbook, add a circuit breaker for the
+queue processor connection pool, and implement load shedding when concurrency exceeds
+157ms. I've created tickets for all three.
+
+Please review and add any corrections by end of week.
+
+Best regards,
+Marcus

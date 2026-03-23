@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-14 07:09 PM
+Subject: Payroll adjustment â€” Friday, January 9 cycle
+
+Good morning,
+
+Several payroll adjustments need to be processed for the Friday, January 9 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 36 employees received approved raises effective Friday, January 9. The
+total monthly payroll impact is $464,890. The largest increase is for Yuki Sato
+whose compensation moves from 213ms to 338ms based on the promotion
+approved in the Q3 review cycle.
+
+New hires: 36 new employees starting on Friday, January 9 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Yuki Sato
+in People Ops has verified the documentation.
+
+Bonus payouts: the AuditLog project completion bonus of $464,890 each goes to
+36 team members. These are one-time payments coded to the Legal department
+budget. Tax withholding will be calculated at the supplemental rate of 45%.
+
+Deduction changes: 36 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from caching layer.
+
+Please approve the batch by February 20 to ensure on-time processing.
+
+Best regards,
+Ananya

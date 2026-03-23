@@ -1,0 +1,28 @@
+From: oluwaseun.adeyemi@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-06-27 12:18 AM
+Subject: Feature flag cleanup â€” AuthService v3.8.1
+
+Hi team,
+
+Time for our quarterly feature flag cleanup in AuthService. We have 138 flags
+in the system and several of them are stale.
+
+Flags to remove: the rate limiter migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The AuthService experiment flag
+was concluded last sprint with a decision to ship â€” Hannah Goldstein will hardcode the
+winning variant.
+
+Flags to keep: the v3.8.1 rollout flag should stay until we've confirmed
+stability at 234ms traffic. The rate limiter kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 440ms lines of dead code and simplify the conditional logic in
+55% of the affected modules.
+
+Please claim the tickets for flags in your area by Wednesday, August 28. Target completion is end
+of sprint.
+
+Best regards,
+Oluwaseun

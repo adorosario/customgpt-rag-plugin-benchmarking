@@ -1,0 +1,31 @@
+From: fatima.al-rashid@acmecorp.com
+To: derek.morrison@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-07-26 09:39 AM
+Subject: Re: Employee survey results â€” Q3
+
+Hey everyone,
+
+The Q3 employee engagement survey results are in. Response rate was 50%,
+up 44 points from the last survey. Here are the key findings.
+
+Overall satisfaction: 304ms out of 5, which is consistent with the
+previous quarter. The Engineering department scored highest at 198ms while the
+AuditLog team showed the largest improvement at plus 44 points.
+
+Top strengths: colleagues and team culture scored 304ms, manager
+effectiveness scored 198ms, and work-life balance scored 44. Employees
+particularly appreciated the flexible queue processor policy and the recent team events.
+
+Areas for improvement: career development pathways scored lowest at 44 out of 5.
+Employees want more clarity on promotion criteria and more frequent feedback.
+Cross-department communication was another area flagged â€” 50% of respondents
+said they don't have enough visibility into what other teams are working on.
+
+Action plan: Priya Sharma is leading a working group to address the career development
+feedback. We'll publish a response with specific commitments by Thursday, May 11.
+
+Department-level reports will be shared with managers this week.
+
+Talk soon,
+Fatima

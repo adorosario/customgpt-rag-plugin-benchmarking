@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-07-30 11:24 AM
+Subject: Press release draft â€” Insight Engine announcement
+
+Hi,
+
+The press release for the Insight Engine announcement is ready for internal review. I've
+incorporated feedback from Amara Diallo and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the DataPipeline capability and positions Acme Corp as a leader
+in the serialization engine space. We're leading with the 100 performance improvement
+stat and the Umbrella Inc customer quote.
+
+Distribution plan: wire service distribution on Thursday, October 13, followed by targeted
+outreach to our 123ms media contacts in the industry. I've secured a briefing
+with DataPipeline Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Insight Engine landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 100-hour cadence on launch day.
+
+Embargo: the release is under embargo until Thursday, October 13 at 9 AM ET. Please don't share
+details externally before then. Amara Diallo has the full distribution list.
+
+Review deadline is Thursday, October 13. Please send edits as comments in the doc.
+
+Best regards,
+James

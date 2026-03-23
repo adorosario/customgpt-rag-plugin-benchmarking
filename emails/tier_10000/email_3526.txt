@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: carlos.rivera@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-07-18 02:21 PM
+Subject: Analytics report â€” Analytics Pro campaign performance
+
+Good afternoon,
+
+Here's the performance report for the Analytics Pro campaign through Wednesday, July 11.
+
+Website traffic: up 16% month over month, driven primarily by the UserProfileService
+comparison blog post which brought in 72 unique visitors. Organic search is
+growing steadily â€” the authentication module keyword cluster is now ranking on page one.
+
+Lead generation: 453ms marketing qualified leads this month against a
+target of 137ms. The whitepaper download page converted at 16% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 72 percent.
+
+Email campaigns: the Analytics Pro nurture sequence has a 16% open rate and
+72 percent click-through rate. The top-performing email was the UserProfileService
+case study with Stark Industries. Kwame Asante suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $118,040 which is 16% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Talk soon,
+Laura

@@ -1,0 +1,28 @@
+From: ravi.patel@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-06-12 10:49 PM
+Subject: Re: MessageBroker â€” tech debt prioritization
+
+Good afternoon,
+
+Following up on the tech debt discussion from yesterday's sprint planning. I've
+categorized the outstanding items for MessageBroker into three tiers based on risk
+and effort.
+
+High priority: the deprecated load balancer dependency needs to be replaced before
+Friday, October 6 when upstream support ends. This is roughly a 184 effort and Priya Sharma
+has volunteered to own it.
+
+Medium priority: the test coverage gap in the MessageBroker integration layer. We're
+at 279ms coverage but our target is 389ms. Filling this gap would
+have caught the regression we saw last sprint.
+
+Low priority: the logging format standardization. It's annoying but not blocking
+anything. I'd suggest we tackle it opportunistically when someone is already
+touching those files.
+
+My proposal is to allocate 51% of next sprint's capacity to the high-priority
+item. Thoughts?
+
+Talk soon,
+Ravi

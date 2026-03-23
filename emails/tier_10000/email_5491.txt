@@ -1,0 +1,30 @@
+From: dmitri.volkov@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-06-27 08:48 AM
+Subject: Competitive intel â€” Hooli evaluation
+
+Hey,
+
+Got some useful competitive intelligence from the Hooli account that I want to
+share with the team.
+
+Hooli shared their evaluation criteria and mentioned they're also looking at
+DataPipeline as an alternative to our Enterprise Suite. From what I gathered, DataPipeline
+is pitching a lower price point but doesn't have feature parity on the connection pool
+side.
+
+Key differentiators working in our favor: our Enterprise Suite handles 89 concurrent
+connections versus their published limit of 147ms. Our uptime SLA is also
+stronger at 303ms versus their 31% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for DataPipeline and
+consider a streamlined trial process for mid-market accounts. Rachel Nguyen from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Monday, September 16.
+
+Best regards,
+Dmitri

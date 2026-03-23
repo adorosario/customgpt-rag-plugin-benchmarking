@@ -1,0 +1,32 @@
+From: laura.kim@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-07-25 11:35 PM
+Subject: Event planning â€” Integration Hub webinar on Tuesday, September 19
+
+Hi all,
+
+Finalizing details for the Integration Hub webinar on Tuesday, September 19. Here's where we stand on
+the logistics and promotion.
+
+Content: James Oduya from Product will present the UserProfileService roadmap segment.
+I'll handle the intro and customer story. We're targeting a 194-minute
+presentation followed by 104ms minutes of live Q&A. The rate limiter demo
+segment should be the highlight.
+
+Registration: we've had 131ms sign-ups so far. Goal is 104ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Integration Hub keywords.
+
+Tech setup: using the standard webinar platform. James Oduya will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Tuesday, September 19 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 194 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Talk soon,
+Laura

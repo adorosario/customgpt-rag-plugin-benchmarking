@@ -1,0 +1,31 @@
+From: david.okonkwo@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-09-06 05:43 AM
+Subject: IP filing status â€” Data Vault patent application
+
+Hi all,
+
+Update on the Data Vault patent application. Here's where we stand with the filing
+and the next steps.
+
+Application status: the provisional application was filed on Thursday, April 12 covering the
+SchedulerService algorithm and the novel service mesh approach. Serial number has been
+assigned and the filing fee of $34,726 has been paid.
+
+Prior art review: outside counsel completed the prior art search and identified
+34 related filings. None appear to directly conflict with our claims, but
+469ms of them require careful distinction in the non-provisional filing.
+Daniel Park is working with the patent drafting team on claim differentiation.
+
+Timeline: we have 34 months from the provisional filing date to file the
+non-provisional application. I recommend targeting Thursday, April 12 to allow adequate review
+time. This gives us 469ms weeks of buffer.
+
+International filing: based on our Berlin expansion plans, we should consider PCT
+filing for European protection. The additional cost is approximately $34,726 and
+the deadline for PCT designation is 34 months from the priority date.
+
+Let me know if you'd like to discuss the international strategy in more detail.
+
+Thanks,
+David

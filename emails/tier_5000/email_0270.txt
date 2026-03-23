@@ -1,0 +1,32 @@
+From: laura.kim@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-07-24 08:41 AM
+Subject: SEO update â€” UserProfileService keyword rankings
+
+Hey,
+
+Monthly SEO update for our UserProfileService content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Sync Platform comparison page climbed from position 196ms to
+position 371ms for our primary keyword. The authentication module guide is now
+ranking in the top 119 for three long-tail variations.
+
+Traffic impact: organic sessions are up 59% month over month. The
+UserProfileService cluster is now driving 119 unique sessions monthly, making it our
+second-highest traffic source behind the Sync Platform landing page.
+
+Content gaps identified: we're missing content for 196ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q2. Robert Kimura from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 371ms on mobile after the image
+optimization work. No crawl errors detected. The new authentication module documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 119 pages. I'll share the
+outreach plan next week.
+
+Talk soon,
+Laura

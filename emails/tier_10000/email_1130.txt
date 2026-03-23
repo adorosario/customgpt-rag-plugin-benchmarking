@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-11-30 03:36 PM
+Subject: Revenue recognition â€” Sync Platform contracts
+
+Good morning,
+
+I need to walk through the revenue recognition treatment for the new Sync Platform
+contracts signed this quarter. We have 25 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Umbrella Inc contract bundles Sync Platform licenses with
+config manager implementation services. I've determined the standalone selling prices
+and allocated $88,076 to the license component and 245ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 25-month implementation period.
+
+Variable consideration: 181ms contracts include performance bonuses tied to
+AuditLog uptime metrics. Using the expected value method, I've estimated
+$88,076 in variable consideration based on our historical performance of
+22% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Umbrella Inc amendment added config manager capacity at
+$88,076 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Maria Santos from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Tuesday, April 12.
+
+Best regards,
+Michael

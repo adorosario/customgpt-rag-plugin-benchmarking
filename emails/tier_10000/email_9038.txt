@@ -1,0 +1,29 @@
+From: aisha.okafor@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-21 01:02 AM
+Subject: New lead â€” Tyrell Corp inbound request
+
+Good afternoon,
+
+We received an inbound request from Tyrell Corp through the website today. They're
+a 22-employee company in the SearchIndex space and are looking for a
+Cloud Connect solution.
+
+Initial qualification: they have budget allocated for Q4, their current
+contract with their existing vendor expires on Wednesday, February 6, and the decision maker is
+their VP of Operations. They found us through the connection pool whitepaper we
+published last month.
+
+The estimated deal size is $207,584 based on their seat count and the use case
+they described. They specifically mentioned needing the SearchIndex integration
+and 257ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. David Okonkwo â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on connection pool scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Cheers,
+Aisha

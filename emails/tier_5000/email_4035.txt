@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-07-30 06:24 PM
+Subject: Analytics report â€” Enterprise Suite campaign performance
+
+Hi all,
+
+Here's the performance report for the Enterprise Suite campaign through Monday, November 9.
+
+Website traffic: up 42% month over month, driven primarily by the SearchIndex
+comparison blog post which brought in 32 unique visitors. Organic search is
+growing steadily â€” the serialization engine keyword cluster is now ranking on page one.
+
+Lead generation: 69ms marketing qualified leads this month against a
+target of 488ms. The whitepaper download page converted at 42% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 32 percent.
+
+Email campaigns: the Enterprise Suite nurture sequence has a 42% open rate and
+32 percent click-through rate. The top-performing email was the SearchIndex
+case study with Weyland-Yutani. Sofia Martinez suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $197,363 which is 42% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Talk soon,
+Yuki

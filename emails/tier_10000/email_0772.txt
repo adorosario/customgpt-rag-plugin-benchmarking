@@ -1,0 +1,28 @@
+From: derek.morrison@acmecorp.com
+To: maria.santos@acmecorp.com
+Date: 2025-06-27 07:12 PM
+Subject: Quarterly territory review â€” Q4
+
+Good afternoon,
+
+Here's my territory review for Q4. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 131 qualified opportunities worth a combined $45,635 in
+ARR. The largest deal is Umbrella Inc at 196ms, which I expect to close by
+Tuesday, November 2. Three other deals in the 455ms range are progressing through
+procurement.
+
+Wins this quarter: closed Umbrella Inc for Insight Engine with a 28% upsell from
+their initial scope. The caching layer add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Michael Brennan to the Umbrella Inc executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Talk soon,
+Derek

@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-07-19 09:17 AM
+Subject: Re: Insight Engine pricing discussion â€” AuthService tier
+
+Good morning,
+
+Following up on the Insight Engine pricing discussion. I've modeled three options for
+the AuthService tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $262,999 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 25% of our existing base.
+Downside: it undercuts our current queue processor pricing and may trigger downgrades.
+
+Option B: 478ms per seat per month with the queue processor add-on bundled.
+Higher price point but stronger value perception. 197 of the 352ms
+customers we surveyed preferred this packaging. David Okonkwo from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $262,999 per AuthService transaction. This aligns
+with the value delivered but introduces billing complexity. Only 25% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$262,999 in incremental ARR over 197 months.
+
+Can we finalize the pricing decision by Tuesday, December 13? Sales needs 352ms weeks to
+update collateral before we announce.
+
+Talk soon,
+Daniel

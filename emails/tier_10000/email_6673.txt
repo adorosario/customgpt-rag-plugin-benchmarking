@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-09-22 11:48 AM
+Subject: Policy update â€” UserProfileService guidelines
+
+Hello,
+
+We've updated the UserProfileService company policy based on feedback from employees and
+recent changes in Singapore labor regulations. The new policy takes effect on Thursday, October 2.
+
+Key changes: the serialization engine allowance has been increased from 490ms to
+159ms per month. The eligibility window for UserProfileService has been expanded
+to include employees who've been with Acme Corp for 51 months or more, down
+from the previous requirement of 490ms months.
+
+New additions: a Enterprise Suite reimbursement category has been added covering up to
+$329,880 annually. This addresses the top employee request from the last survey.
+Tomoko Nakamura negotiated favorable terms with the serialization engine vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by May 2. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 10% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Cheers,
+Rachel

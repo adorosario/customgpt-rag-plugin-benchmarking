@@ -1,0 +1,31 @@
+From: michael.brennan@acmecorp.com
+To: carlos.rivera@acmecorp.com
+Date: 2025-11-15 12:30 AM
+Subject: Audit preparation â€” Q2 review
+
+Hey,
+
+The Q2 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Umbrella Inc are scheduled to begin fieldwork
+on Friday, December 9.
+
+Documentation needed from each department: all purchase orders above 297ms,
+contract modifications executed during Q2, headcount changes with supporting
+approvals, and AuditLog system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the authentication module audit portal by Friday, December 9.
+That gives us 31 business days before the auditors arrive. David Okonkwo has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Enterprise Suite contracts, the AuditLog capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $324,121 in capitalized AuditLog costs and the methodology used.
+
+This is our 31 year with Umbrella Inc as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to David Okonkwo if you have
+questions about what's needed.
+
+Best,
+Michael

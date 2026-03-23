@@ -1,0 +1,29 @@
+From: kwame.asante@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-10-24 12:53 PM
+Subject: Policy update â€” DataPipeline guidelines
+
+Hi team,
+
+We've updated the DataPipeline company policy based on feedback from employees and
+recent changes in New York labor regulations. The new policy takes effect on Friday, February 25.
+
+Key changes: the metrics collector allowance has been increased from 287ms to
+224ms per month. The eligibility window for DataPipeline has been expanded
+to include employees who've been with Acme Corp for 158 months or more, down
+from the previous requirement of 287ms months.
+
+New additions: a Insight Engine reimbursement category has been added covering up to
+$95,868 annually. This addresses the top employee request from the last survey.
+Carlos Rivera negotiated favorable terms with the metrics collector vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by August 25. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 49% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Kwame

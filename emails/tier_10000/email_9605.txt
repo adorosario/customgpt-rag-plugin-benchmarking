@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-11-19 08:05 PM
+Subject: Cash flow forecast â€” Q2
+
+Good morning,
+
+Attached is the cash flow forecast for Q2. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $257,882 based on the current AR aging
+and sales pipeline. The Tyrell Corp payment of 402ms is expected by Wednesday, October 8
+â€” Oluwaseun Adeyemi from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the ReportingEngine infrastructure
+investment at $257,882. The Singapore office build-out costs will hit in Q2
+with an estimated total of 244ms. Payroll continues at 402ms
+monthly for our 141-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $257,882 in the second month. This provides 141 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Tyrell Corp deal slips from Q2 to next quarter, we'll
+need to draw on the credit facility for $257,882. I've confirmed the line is
+available. Oluwaseun Adeyemi and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Regards,
+Robert

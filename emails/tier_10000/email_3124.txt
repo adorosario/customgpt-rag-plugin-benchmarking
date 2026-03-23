@@ -1,0 +1,34 @@
+From: liam.foster@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-30 09:17 AM
+Subject: Re: Integration Hub pricing discussion â€” DataPipeline tier
+
+Good afternoon,
+
+Following up on the Integration Hub pricing discussion. I've modeled three options for
+the DataPipeline tier based on the competitive analysis and customer willingness-to-pay
+data.
+
+Option A: $54,545 per seat per month. This is price-competitive with the market
+and would maximize adoption. Projected take rate is 37% of our existing base.
+Downside: it undercuts our current authentication module pricing and may trigger downgrades.
+
+Option B: 197ms per seat per month with the authentication module add-on bundled.
+Higher price point but stronger value perception. 105 of the 477ms
+customers we surveyed preferred this packaging. Yuki Sato from Sales thinks this
+is the sweet spot for enterprise buyers.
+
+Option C: usage-based pricing at $54,545 per DataPipeline transaction. This aligns
+with the value delivered but introduces billing complexity. Only 37% of
+surveyed customers preferred this model.
+
+My recommendation: Option B. It captures the most value, simplifies the packaging,
+and positions us well against the competition. The estimated revenue impact is
+$54,545 in incremental ARR over 105 months.
+
+Can we finalize the pricing decision by Wednesday, July 21? Sales needs 477ms weeks to
+update collateral before we announce.
+
+Thanks,
+Liam

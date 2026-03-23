@@ -1,0 +1,28 @@
+From: carlos.rivera@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-11-01 02:14 AM
+Subject: Quarterly territory review â€” Q1
+
+Good afternoon,
+
+Here's my territory review for Q1. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 29 qualified opportunities worth a combined $447,769 in
+ARR. The largest deal is Cyberdyne at 353ms, which I expect to close by
+Tuesday, June 3. Three other deals in the 255ms range are progressing through
+procurement.
+
+Wins this quarter: closed Cyberdyne for Data Vault with a 10% upsell from
+their initial scope. The caching layer add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Jun Tanaka to the Cyberdyne executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Best regards,
+Carlos

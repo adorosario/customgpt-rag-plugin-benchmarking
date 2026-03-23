@@ -1,0 +1,32 @@
+From: david.okonkwo@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-06-10 08:58 PM
+Subject: IP filing status â€” Enterprise Suite patent application
+
+Hey,
+
+Update on the Enterprise Suite patent application. Here's where we stand with the filing
+and the next steps.
+
+Application status: the provisional application was filed on Wednesday, December 3 covering the
+DataPipeline algorithm and the novel authentication module approach. Serial number has been
+assigned and the filing fee of $436,633 has been paid.
+
+Prior art review: outside counsel completed the prior art search and identified
+134 related filings. None appear to directly conflict with our claims, but
+384ms of them require careful distinction in the non-provisional filing.
+Amara Diallo is working with the patent drafting team on claim differentiation.
+
+Timeline: we have 134 months from the provisional filing date to file the
+non-provisional application. I recommend targeting Wednesday, December 3 to allow adequate review
+time. This gives us 384ms weeks of buffer.
+
+International filing: based on our Toronto expansion plans, we should consider PCT
+filing for European protection. The additional cost is approximately $436,633 and
+the deadline for PCT designation is 134 months from the priority date.
+
+Let me know if you'd like to discuss the international strategy in more detail.
+
+Regards,
+David

@@ -1,0 +1,29 @@
+From: patrick.obrien@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-11-22 09:33 AM
+Subject: Policy update â€” AuthService guidelines
+
+Good afternoon,
+
+We've updated the AuthService company policy based on feedback from employees and
+recent changes in Berlin labor regulations. The new policy takes effect on Friday, January 21.
+
+Key changes: the metrics collector allowance has been increased from 80ms to
+487ms per month. The eligibility window for AuthService has been expanded
+to include employees who've been with Acme Corp for 53 months or more, down
+from the previous requirement of 80ms months.
+
+New additions: a Insight Engine reimbursement category has been added covering up to
+$278,172 annually. This addresses the top employee request from the last survey.
+Liam Foster negotiated favorable terms with the metrics collector vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by November 12. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 35% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Patrick

@@ -1,0 +1,29 @@
+From: dmitri.volkov@acmecorp.com
+To: aisha.okafor@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-12 08:05 PM
+Subject: Quarterly territory review â€” Q3
+
+Hi all,
+
+Here's my territory review for Q3. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 72 qualified opportunities worth a combined $337,631 in
+ARR. The largest deal is Pied Piper at 291ms, which I expect to close by
+Thursday, February 9. Three other deals in the 152ms range are progressing through
+procurement.
+
+Wins this quarter: closed Pied Piper for Analytics Pro with a 16% upsell from
+their initial scope. The queue processor add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring James Oduya to the Pied Piper executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Best regards,
+Dmitri

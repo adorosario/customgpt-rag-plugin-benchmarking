@@ -1,0 +1,29 @@
+From: hannah.goldstein@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-10-22 10:14 AM
+Subject: Re: Integration Hub demo feedback from Hooli
+
+Hello,
+
+Great news from the Hooli demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the authentication module dashboard got the biggest reaction. Their
+current tool requires 63 manual steps to accomplish what our Integration Hub does
+automatically. The SearchIndex integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 330ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v2.4.1 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Elena Vasquez, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Integration Hub trial environment set up for their team of
+63 evaluators. I'll submit the trial request today. Target close date
+remains Wednesday, January 10.
+
+Cheers,
+Hannah

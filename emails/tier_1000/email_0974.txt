@@ -1,0 +1,29 @@
+From: jun.tanaka@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-08-13 06:54 PM
+Subject: Re: Analytics Pro demo feedback from Umbrella Inc
+
+Hey everyone,
+
+Great news from the Umbrella Inc demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the authentication module dashboard got the biggest reaction. Their
+current tool requires 25 manual steps to accomplish what our Analytics Pro does
+automatically. The ReportingEngine integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 451ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v4.1.0 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Wei Zhang, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Analytics Pro trial environment set up for their team of
+25 evaluators. I'll submit the trial request today. Target close date
+remains Tuesday, September 24.
+
+Best,
+Jun

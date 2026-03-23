@@ -1,0 +1,31 @@
+From: ananya.desai@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-08-21 08:16 PM
+Subject: Budget review â€” Legal department Q2
+
+Hey,
+
+Here's the Q2 budget review for the Legal department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $395,602 against a budget of 284ms. The 38% variance is
+primarily driven by the accelerated MessageBroker hiring that was approved mid-quarter.
+Personnel costs came in at 99ms which includes the 62 new hires.
+
+Overages: the serialization engine infrastructure line item exceeded budget by 38% due
+to the unplanned scaling requirements for Enterprise Suite. I've worked with Amara Diallo
+from Engineering to project the run rate going forward â€” we should budget an
+additional $395,602 per quarter for this category.
+
+Underspend: the MessageBroker consulting budget was only 38% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 38%
+of the total annual budget. The main risk is the serialization engine cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Regards,
+Ananya

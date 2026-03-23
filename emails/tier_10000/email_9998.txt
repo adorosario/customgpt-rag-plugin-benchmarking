@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-07-06 03:58 PM
+Subject: Sprint planning â€” Data Vault sprint v2.6.0
+
+Good afternoon,
+
+Here's the sprint plan for Data Vault sprint v2.6.0. Capacity is 53 story
+points with 355ms engineers available this sprint.
+
+Committed stories: the WebhookDispatcher integration work carries over from last sprint
+with 393ms points remaining. The new event bus API endpoints are
+estimated at 53 points. The bug fix for the WebhookDispatcher rendering issue
+is 355ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the event bus performance
+optimization that Sofia Martinez has been scouting. It's estimated at 53 points
+and would improve response time by 46%.
+
+Dependencies: the WebhookDispatcher feature requires the API changes that Sofia Martinez
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The event bus work is self-contained.
+
+Risks: Sofia Martinez is on-call this sprint which historically reduces their available
+capacity by 46%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, September 17. Let me know if the priorities look right.
+
+Talk soon,
+Amara

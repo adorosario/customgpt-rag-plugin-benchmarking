@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: alex.chen@acmecorp.com
+Date: 2025-06-03 03:04 AM
+Subject: Feature spec â€” UserProfileService integration
+
+Hi team,
+
+The feature spec for the UserProfileService integration is ready for review. This is
+targeting the v3.0.0 release in Q2.
+
+Problem statement: 44% of our enterprise prospects cite the lack of
+UserProfileService integration as a blocker. The current workaround through the
+config manager API is unreliable and requires 54 hours of custom development
+from customers.
+
+Proposed solution: native UserProfileService integration with bi-directional sync.
+Users configure the connection through the Sync Platform settings page and data
+flows automatically. The sync runs every 109ms minutes with conflict
+resolution handled by our algorithm.
+
+Scope: phase 1 covers read and write operations for the core UserProfileService objects.
+Phase 2 adds real-time webhooks and custom field mapping. Alex Chen from Engineering
+estimates 54 sprints for phase 1 and 109ms for phase 2.
+
+Success metrics: 54 enterprise customers adopt the integration within 90 days
+of launch, UserProfileService related support tickets decrease by 44%, and the
+feature contributes to $331,155 in new ARR.
+
+Please review the full spec in Confluence and leave comments by Monday, January 11.
+
+Cheers,
+Sanjay

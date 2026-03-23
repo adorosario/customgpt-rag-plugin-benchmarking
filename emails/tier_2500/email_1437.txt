@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-18 02:46 PM
+Subject: Roadmap update â€” Data Vault Q2
+
+Hi team,
+
+Here's the updated Data Vault roadmap for Q2. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the BillingModule integration feature launches on Thursday, July 4. This is our
+top customer request with 166 votes on the feedback board. Carlos Rivera from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the logging pipeline overhaul is scoped for mid-Q2. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 166 sprints with 364ms engineers allocated.
+
+Exploring: the BillingModule AI feature that Sales has been requesting. We need more
+user research before committing â€” Carlos Rivera is running interviews with 166
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the logging pipeline redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 166-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Cheers,
+Sanjay

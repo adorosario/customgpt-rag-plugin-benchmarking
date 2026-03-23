@@ -1,0 +1,28 @@
+From: jun.tanaka@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-10-23 07:28 PM
+Subject: Re: Quota update â€” Q2 adjustments
+
+Hey,
+
+Thanks for sharing the Q2 quota adjustments. I've reviewed the numbers and
+have a few questions before I sign off.
+
+My revised target of $151,727 reflects a 23% increase over the previous
+quarter. I'm comfortable with this given the pipeline I have, but I want to flag
+that 62 of my projected deals depend on the Enterprise Suite launch happening on
+schedule. If that slips, I'll need the CacheLayer backup deals to come through.
+
+Territory changes: I see that the London accounts have been reassigned to
+David Okonkwo. Can we discuss the transition plan for the two active opportunities
+there? I don't want to lose momentum with Globex â€” we've been building that
+relationship for 52ms months.
+
+Regarding the new connection pool incentive structure, I think it will help drive
+adoption. Can you clarify whether renewals with connection pool upsells count toward
+the accelerator?
+
+Let's discuss at the next 1:1.
+
+Regards,
+Jun

@@ -1,0 +1,29 @@
+From: yuki.sato@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-09-28 11:14 PM
+Subject: Sync Platform campaign launch â€” Q3 plan
+
+Hello,
+
+Here's the campaign plan for the Sync Platform launch in Q3. I've aligned the
+messaging with the positioning we finalized last week and mapped out the channel
+strategy.
+
+Campaign theme: highlighting the CacheLayer advantage and how Sync Platform solves
+the key pain point around service mesh complexity. Target audience is mid-market
+and enterprise IT decision makers.
+
+Channel breakdown: 25% of budget to paid digital, 50 to content
+marketing, and the remainder to events and webinars. We're targeting a $169,471
+total spend with a goal of 206ms marketing qualified leads.
+
+Content deliverables: landing page, solution brief, customer case study featuring
+Massive Dynamic, three blog posts, and a webinar co-hosted with Michael Brennan from Product.
+All assets target completion by Monday, September 12.
+
+The paid campaign goes live two weeks before the official launch to build awareness.
+I'll share the creative brief for review tomorrow.
+
+Best,
+Yuki

@@ -1,0 +1,33 @@
+From: ananya.desai@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-21 01:38 PM
+Subject: Vendor payment schedule â€” Q3
+
+Hello,
+
+Here's the vendor payment schedule for Q3. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Massive Dynamic invoice for $97,486 is due on Wednesday, December 7 with a
+60% early payment discount if we pay within 189 days. I recommend
+taking the discount â€” it saves us 196ms. The ReportingEngine annual
+license renewal of 324ms is due Wednesday, December 7 with no discount available.
+
+Standard schedule: 189 vendor invoices totaling $97,486 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-324ms terms with payments going out every 189 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The event bus vendor
+overbilled us by $97,486 on the ReportingEngine usage charges. Kwame Asante is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q3 are projected at $97,486. This
+is 60% higher than last quarter due to the ReportingEngine infrastructure
+investment and the New York office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Talk soon,
+Ananya

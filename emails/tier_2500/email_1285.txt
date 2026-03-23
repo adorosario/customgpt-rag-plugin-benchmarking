@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-11-07 04:40 AM
+Subject: Customer feedback digest â€” Sync Platform Q3
+
+Good morning,
+
+Here's the quarterly customer feedback digest for Sync Platform. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 142, up 294ms points from last quarter. The improvement
+is driven by the APIGateway launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 42%.
+
+Top feature requests: APIGateway advanced filtering (142 votes), caching layer
+bulk operations (294ms votes), and enhanced Sync Platform reporting (267ms
+votes). The filtering request aligns with what we heard in the user research study
+Tomoko Nakamura conducted.
+
+Top complaints: APIGateway performance during peak hours (142 mentions),
+the caching layer onboarding experience (294ms mentions), and pricing
+transparency (267ms mentions). The performance issue is being addressed
+by Engineering â€” Tomoko Nakamura expects the fix in v1.9.5.
+
+Churn insights: 142 customers churned this quarter citing APIGateway
+limitations as the primary reason. The caching layer overhaul on our roadmap directly
+addresses their feedback. 42% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Tuesday, January 26.
+
+Thanks,
+Daniel

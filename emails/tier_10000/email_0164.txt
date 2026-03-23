@@ -1,0 +1,32 @@
+From: laura.kim@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-09-16 04:29 AM
+Subject: Event planning â€” Data Vault webinar on Thursday, September 20
+
+Hi,
+
+Finalizing details for the Data Vault webinar on Thursday, September 20. Here's where we stand on
+the logistics and promotion.
+
+Content: Kwame Asante from Product will present the AnalyticsDashboard roadmap segment.
+I'll handle the intro and customer story. We're targeting a 194-minute
+presentation followed by 459ms minutes of live Q&A. The event bus demo
+segment should be the highlight.
+
+Registration: we've had 464ms sign-ups so far. Goal is 459ms by
+launch day. The promotional push starts this week â€” email to our list, LinkedIn
+posts, and a paid boost targeting Data Vault keywords.
+
+Tech setup: using the standard webinar platform. Kwame Asante will be the backup
+presenter in case of connectivity issues. We'll do a dry run on Thursday, September 20 at 2 PM.
+
+Post-event plan: recording goes up on the resource hub within 48 hours. The
+follow-up email with the deck and recording goes to all registrants. Attendees
+who asked questions get personal follow-ups from Sales within 194 business
+days.
+
+Let me know if anything is missing from the plan.
+
+Best,
+Laura

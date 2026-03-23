@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-06-18 08:36 AM
+Subject: FP&A update â€” Analytics Pro financial model
+
+Good morning,
+
+I've updated the Analytics Pro financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 80 per month based
+on the last 486ms months of data. Average contract value is tracking at
+$431,974, which is 41% above our original assumption. The SchedulerService
+upsell rate of 225ms is a positive trend.
+
+Cost structure: the rate limiter hosting costs are running 41% higher than
+modeled due to increased SchedulerService usage. I've adjusted the variable cost
+per customer from 486ms to 225ms. Dmitri Volkov from Engineering
+says the optimization project should bring this down by 41% in Q3.
+
+Break-even analysis: with the revised numbers, Analytics Pro reaches contribution
+margin break-even at 80 customers, which we're projected to hit by Friday, December 4.
+Full break-even including allocated overhead comes at 486ms customers.
+
+Scenarios: the base case shows $431,974 in cumulative revenue by year end. The
+upside case with the Massive Dynamic deal closing hits 225ms. Downside case
+assuming 41% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Best regards,
+Michael

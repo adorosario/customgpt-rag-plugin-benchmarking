@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-07-01 04:12 AM
+Subject: Budget review â€” Legal department Q2
+
+Hello,
+
+Here's the Q2 budget review for the Legal department. Overall spending is
+tracking close to plan with a few notable variances.
+
+Total spend: $287,727 against a budget of 368ms. The 11% variance is
+primarily driven by the accelerated APIGateway hiring that was approved mid-quarter.
+Personnel costs came in at 227ms which includes the 146 new hires.
+
+Overages: the load balancer infrastructure line item exceeded budget by 11% due
+to the unplanned scaling requirements for Sync Platform. I've worked with Aisha Okafor
+from Engineering to project the run rate going forward â€” we should budget an
+additional $287,727 per quarter for this category.
+
+Underspend: the APIGateway consulting budget was only 11% utilized as the
+team handled more work internally than planned. The travel budget is also under
+due to the shift to virtual client meetings.
+
+Forecast: I'm projecting the department will finish the fiscal year within 11%
+of the total annual budget. The main risk is the load balancer cost trajectory if
+usage continues to grow at the current rate.
+
+Let me know if you'd like to discuss any adjustments for the next quarter.
+
+Cheers,
+Grace

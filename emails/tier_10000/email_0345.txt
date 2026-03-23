@@ -1,0 +1,32 @@
+From: yuki.sato@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-08-03 02:07 PM
+Subject: SEO update â€” UserProfileService keyword rankings
+
+Hi,
+
+Monthly SEO update for our UserProfileService content cluster. We're seeing strong
+improvements in several target keywords.
+
+Top movers: the Data Vault comparison page climbed from position 393ms to
+position 93ms for our primary keyword. The authentication module guide is now
+ranking in the top 103 for three long-tail variations.
+
+Traffic impact: organic sessions are up 39% month over month. The
+UserProfileService cluster is now driving 103 unique sessions monthly, making it our
+second-highest traffic source behind the Data Vault landing page.
+
+Content gaps identified: we're missing content for 393ms high-volume keywords
+that competitors are ranking for. I've added these to the content calendar for
+Q3. Wei Zhang from Product can help with the technical accuracy of the
+deeper content.
+
+Technical SEO: site speed improved to 93ms on mobile after the image
+optimization work. No crawl errors detected. The new authentication module documentation
+section is being indexed properly.
+
+Next priority is building backlinks to our top 103 pages. I'll share the
+outreach plan next week.
+
+Thanks,
+Yuki

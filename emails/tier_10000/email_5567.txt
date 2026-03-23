@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-07-18 07:27 AM
+Subject: Re: Employee survey results â€” Q1
+
+Good afternoon,
+
+The Q1 employee engagement survey results are in. Response rate was 29%,
+up 69 points from the last survey. Here are the key findings.
+
+Overall satisfaction: 99ms out of 5, which is consistent with the
+previous quarter. The Engineering department scored highest at 455ms while the
+SearchIndex team showed the largest improvement at plus 69 points.
+
+Top strengths: colleagues and team culture scored 99ms, manager
+effectiveness scored 455ms, and work-life balance scored 69. Employees
+particularly appreciated the flexible load balancer policy and the recent team events.
+
+Areas for improvement: career development pathways scored lowest at 69 out of 5.
+Employees want more clarity on promotion criteria and more frequent feedback.
+Cross-department communication was another area flagged â€” 29% of respondents
+said they don't have enough visibility into what other teams are working on.
+
+Action plan: Daniel Park is leading a working group to address the career development
+feedback. We'll publish a response with specific commitments by Tuesday, August 26.
+
+Department-level reports will be shared with managers this week.
+
+Talk soon,
+Fatima

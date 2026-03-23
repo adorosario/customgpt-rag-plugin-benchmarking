@@ -1,0 +1,33 @@
+From: sarah.chen@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-08-11 01:32 PM
+Subject: Insurance renewal â€” Q4 review
+
+Good afternoon,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Stark Industries has offered a renewal at $479,777 per year, which is a
+6% increase from last year. Coverage limits remain the same at 500ms
+for general liability and 369ms for the WebhookDispatcher professional liability
+policy.
+
+Alternative quotes: I obtained 68 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 6% discount, but they
+have a 369ms-day waiting period for rate limiter claims that our current
+policy doesn't have.
+
+Recommendation: stay with Stark Industries and negotiate the premium increase down to
+6%. Their claims experience is strong â€” they processed our WebhookDispatcher
+claim in 68 business days last year. Mei Lin from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+369ms to $479,777 given the growth in Data Vault customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Wednesday, July 26 to avoid a coverage lapse. Let me know your preference.
+
+Cheers,
+Sarah

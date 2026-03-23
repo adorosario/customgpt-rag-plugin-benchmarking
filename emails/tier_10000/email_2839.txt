@@ -1,0 +1,30 @@
+From: ananya.desai@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-28 09:45 AM
+Subject: Re: Expense report flagged â€” AnalyticsDashboard charges
+
+Hey everyone,
+
+I noticed some items on the AnalyticsDashboard expense report submitted by Liam Foster
+that need clarification before I can approve them.
+
+The authentication module subscription charge of $422,100 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+232ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Umbrella Inc dinner on Thursday, September 19 for $422,100 exceeds our per-person meal
+reimbursement limit of 232ms. If this was a client entertainment expense,
+it should be coded to the client development budget under AnalyticsDashboard rather than
+general T&E. 140 attendees at that amount puts us at 101ms per
+person which is within the client entertainment policy.
+
+The remaining 140 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 232ms business days after approval.
+
+Please resubmit with the corrections by Thursday, September 19 so we can keep things on track.
+
+Talk soon,
+Ananya

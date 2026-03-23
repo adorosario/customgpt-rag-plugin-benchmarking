@@ -1,0 +1,29 @@
+From: grace.mwangi@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-08-18 07:12 AM
+Subject: Re: Expense report flagged â€” CacheLayer charges
+
+Good afternoon,
+
+I noticed some items on the CacheLayer expense report submitted by Derek Morrison
+that need clarification before I can approve them.
+
+The event bus subscription charge of $315,612 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+466ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Globex dinner on Wednesday, May 28 for $315,612 exceeds our per-person meal
+reimbursement limit of 466ms. If this was a client entertainment expense,
+it should be coded to the client development budget under CacheLayer rather than
+general T&E. 104 attendees at that amount puts us at 67ms per
+person which is within the client entertainment policy.
+
+The remaining 104 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 466ms business days after approval.
+
+Please resubmit with the corrections by Wednesday, May 28 so we can keep things on track.
+
+Best,
+Grace

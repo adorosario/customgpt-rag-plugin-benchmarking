@@ -1,0 +1,30 @@
+From: rachel.nguyen@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-08-16 02:14 PM
+Subject: Policy update â€” PaymentGateway guidelines
+
+Hey,
+
+We've updated the PaymentGateway company policy based on feedback from employees and
+recent changes in London labor regulations. The new policy takes effect on Wednesday, January 25.
+
+Key changes: the serialization engine allowance has been increased from 485ms to
+161ms per month. The eligibility window for PaymentGateway has been expanded
+to include employees who've been with Acme Corp for 30 months or more, down
+from the previous requirement of 485ms months.
+
+New additions: a Analytics Pro reimbursement category has been added covering up to
+$207,160 annually. This addresses the top employee request from the last survey.
+Wei Zhang negotiated favorable terms with the serialization engine vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by July 7. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 19% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Thanks,
+Rachel

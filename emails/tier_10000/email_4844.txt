@@ -1,0 +1,29 @@
+From: dmitri.volkov@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-17 02:08 AM
+Subject: New lead â€” Weyland-Yutani inbound request
+
+Hey everyone,
+
+We received an inbound request from Weyland-Yutani through the website today. They're
+a 170-employee company in the ReportingEngine space and are looking for a
+Integration Hub solution.
+
+Initial qualification: they have budget allocated for Q2, their current
+contract with their existing vendor expires on Thursday, March 13, and the decision maker is
+their VP of Operations. They found us through the caching layer whitepaper we
+published last month.
+
+The estimated deal size is $111,073 based on their seat count and the use case
+they described. They specifically mentioned needing the ReportingEngine integration
+and 111ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Maria Santos â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on caching layer scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Regards,
+Dmitri

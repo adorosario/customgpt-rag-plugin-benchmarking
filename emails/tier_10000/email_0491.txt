@@ -1,0 +1,31 @@
+From: daniel.park@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-06-01 06:13 PM
+Subject: Beta program update â€” Integration Hub v1.9.5
+
+Hi,
+
+Quick update on the Integration Hub v1.9.5 beta program. We're 73 weeks into
+the beta period with 307ms customers participating.
+
+Usage data: 21% of beta participants have activated the new AuthService
+feature. Average daily usage is 73 sessions per user. The rate limiter
+workflow is being used by 486ms of participants, which exceeds our
+adoption target of 307ms.
+
+Feedback summary: overall sentiment is positive. The top 73 pieces of praise
+relate to the AuthService speed improvement and the new rate limiter interface.
+The top 307ms complaints are about the AuthService configuration complexity
+and a confusing error message in the rate limiter flow.
+
+Bugs found: 73 bugs reported, of which 307ms are critical. Derek Morrison
+from Engineering has fixed 486ms of the critical bugs. The remaining one
+is related to the AuthService edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Friday, January 6. The GA release is targeted for 73 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Friday, January 6 to finalize the GA scope.
+
+Regards,
+Daniel

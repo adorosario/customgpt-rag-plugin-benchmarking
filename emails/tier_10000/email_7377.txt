@@ -1,0 +1,33 @@
+From: michael.brennan@acmecorp.com
+To: alex.chen@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-02 08:39 PM
+Subject: Revenue recognition â€” Sync Platform contracts
+
+Hey everyone,
+
+I need to walk through the revenue recognition treatment for the new Sync Platform
+contracts signed this quarter. We have 64 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Oscorp contract bundles Sync Platform licenses with
+queue processor implementation services. I've determined the standalone selling prices
+and allocated $275,671 to the license component and 405ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 64-month implementation period.
+
+Variable consideration: 92ms contracts include performance bonuses tied to
+CacheLayer uptime metrics. Using the expected value method, I've estimated
+$275,671 in variable consideration based on our historical performance of
+37% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Oscorp amendment added queue processor capacity at
+$275,671 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Tomoko Nakamura from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Monday, May 1.
+
+Talk soon,
+Michael

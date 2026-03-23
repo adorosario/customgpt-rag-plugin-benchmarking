@@ -1,0 +1,34 @@
+From: amara.diallo@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-12 05:31 AM
+Subject: Customer feedback digest â€” Integration Hub Q1
+
+Hi team,
+
+Here's the quarterly customer feedback digest for Integration Hub. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 12, up 165ms points from last quarter. The improvement
+is driven by the UserProfileService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 12%.
+
+Top feature requests: UserProfileService advanced filtering (12 votes), event bus
+bulk operations (165ms votes), and enhanced Integration Hub reporting (66ms
+votes). The filtering request aligns with what we heard in the user research study
+Fatima Al-Rashid conducted.
+
+Top complaints: UserProfileService performance during peak hours (12 mentions),
+the event bus onboarding experience (165ms mentions), and pricing
+transparency (66ms mentions). The performance issue is being addressed
+by Engineering â€” Fatima Al-Rashid expects the fix in v3.8.1.
+
+Churn insights: 12 customers churned this quarter citing UserProfileService
+limitations as the primary reason. The event bus overhaul on our roadmap directly
+addresses their feedback. 12% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, November 10.
+
+Cheers,
+Amara

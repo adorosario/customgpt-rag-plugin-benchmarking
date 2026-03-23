@@ -1,0 +1,21 @@
+{
+  "tier": 5000,
+  "question_id": "pattern_3",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What issues has Initech reported and how is the team responding?",
+  "model": "claude-sonnet-4-6",
+  "response": "Here's a summary of Initech-related issues and team responses found across 7 emails:\n\n## Issues Reported by/about Initech\n\n**1. API Latency / Performance SLA Breach (primary issue)**\n- Initech filed a complaint about API response times and an SLA breach.\n- Mentioned across 5 emails spanning June\u00e2\u20ac\u201cSeptember 2025, escalating over time (subjects: \"latency fix\", \"escalation\", \"SLA breach\", \"investigation findings\", \"customer success check-in\").\n\n**2. Deal Slipping to Q4 (email_1908)**\n- The Initech deal expected to close in August is now slipping to Q4 due to Initech's internal budget approval process.\n- This contributed to a revised Q3 revenue projection dropping from $4.8M to $4.2M (Ananya Desai \u00e2\u2020\u2019 Robert Kimura).\n\n**3. Patent Prior Art (email_2289)**\n- Initech has prior art filings in the cross-platform synchronization space that complicate AcmeCorp's \"Nexus\" patent filing, pushing the deadline from March 30 to April 15 (Sarah Chen \u00e2\u2020\u2019 David Okonkwo).\n\n## Team Response\n\n| Date | Action | Who |\n|------|--------|-----|\n| Jun 1 | Hotfix deployment plan created | Dmitri Volkov \u00e2\u2020\u2019 Mei Lin |\n| Jul 12 | Escalation communicated to Fatima Al-Rashid + engineering | Ravi Patel |\n| Jul 23 | Customer success check-in with Kwame Asante | Ravi Patel |\n| Jul 24 | SLA breach status update | Wei Zhang \u00e2\u2020\u2019 Dmitri Volkov |\n| Sep 23 | Investigation findings shared with Grace Mwangi + engineering | Ravi Patel |\n\n**Ravi Patel** appears to be the primary owner coordinating the response. The email bodies are largely boilerplate, so specific technical remediation details aren't captured in these emails beyond the subject-level tracking.",
+  "time_seconds": 69.32,
+  "num_turns": 11,
+  "cost_usd": 0.19736295,
+  "input_tokens": 7,
+  "cache_creation_tokens": 34029,
+  "cache_read_tokens": 117294,
+  "output_tokens": 2303,
+  "total_tokens": 153633,
+  "duration_api_ms": 54621,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

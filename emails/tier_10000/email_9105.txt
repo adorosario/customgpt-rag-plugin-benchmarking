@@ -1,0 +1,29 @@
+From: ananya.desai@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-11-03 05:56 PM
+Subject: Re: Expense report flagged â€” ReportingEngine charges
+
+Hello,
+
+I noticed some items on the ReportingEngine expense report submitted by Fatima Al-Rashid
+that need clarification before I can approve them.
+
+The service mesh subscription charge of $228,729 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+312ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Stark Industries dinner on Tuesday, May 12 for $228,729 exceeds our per-person meal
+reimbursement limit of 312ms. If this was a client entertainment expense,
+it should be coded to the client development budget under ReportingEngine rather than
+general T&E. 105 attendees at that amount puts us at 74ms per
+person which is within the client entertainment policy.
+
+The remaining 105 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 312ms business days after approval.
+
+Please resubmit with the corrections by Tuesday, May 12 so we can keep things on track.
+
+Talk soon,
+Ananya

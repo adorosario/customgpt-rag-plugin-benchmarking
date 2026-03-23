@@ -1,0 +1,21 @@
+{
+  "tier": 30,
+  "question_id": "needle_1",
+  "question_type": "hard",
+  "run": 3,
+  "question": "When did Sarah from Legal say the patent filing deadline was moved to, and who did she tell?",
+  "model": "claude-sonnet-4-6",
+  "response": "From **email_0018.pdf**, Sarah from Legal told **Jun Tanaka** (jun.tanaka@acmecorp.com) that the patent filing deadline was moved to **Tuesday, September 15**. Legal (legal@acmecorp.com) was also CC'd on the message.",
+  "time_seconds": 90.61,
+  "num_turns": 3,
+  "cost_usd": 0.43036569999999996,
+  "input_tokens": 7,
+  "cache_creation_tokens": 32434,
+  "cache_read_tokens": 57319,
+  "output_tokens": 603,
+  "total_tokens": 90363,
+  "duration_api_ms": 61575,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

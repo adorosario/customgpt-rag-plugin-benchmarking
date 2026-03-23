@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-09-23 04:21 AM
+Subject: Tax planning â€” Q4 estimated payments
+
+Hi team,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the SchedulerService investment
+deductions.
+
+Federal estimate: $184,789 based on projected taxable income of 57ms.
+This reflects the SchedulerService depreciation deductions and the R&D tax credit for
+the Insight Engine development costs. Carlos Rivera from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $184,789 for our primary jurisdiction and 421ms for the
+Berlin office based on the apportionment factors. The Berlin rate change that
+takes effect on Tuesday, July 14 will impact our Q4 estimate by approximately 141
+percent.
+
+International: with the Berlin office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Carlos Rivera to handle
+the registration. Setup cost is $184,789 with ongoing compliance costs of
+421ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Tuesday, July 14. I'll prepare the
+payment authorization for your signature by September 15. Underpayment penalties
+start at 35% so timely filing is important.
+
+Best regards,
+Grace

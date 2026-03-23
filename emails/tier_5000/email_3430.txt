@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-07-29 10:51 AM
+Subject: Policy update â€” APIGateway guidelines
+
+Hey,
+
+We've updated the APIGateway company policy based on feedback from employees and
+recent changes in Tokyo labor regulations. The new policy takes effect on Friday, July 22.
+
+Key changes: the connection pool allowance has been increased from 206ms to
+245ms per month. The eligibility window for APIGateway has been expanded
+to include employees who've been with Acme Corp for 179 months or more, down
+from the previous requirement of 206ms months.
+
+New additions: a Integration Hub reimbursement category has been added covering up to
+$55,455 annually. This addresses the top employee request from the last survey.
+Sarah Chen negotiated favorable terms with the connection pool vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by May 25. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 59% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Talk soon,
+Fatima

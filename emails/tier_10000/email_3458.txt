@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-04 06:18 PM
+Subject: Beta program update â€” Analytics Pro v3.0.0
+
+Hi all,
+
+Quick update on the Analytics Pro v3.0.0 beta program. We're 86 weeks into
+the beta period with 388ms customers participating.
+
+Usage data: 19% of beta participants have activated the new SchedulerService
+feature. Average daily usage is 86 sessions per user. The caching layer
+workflow is being used by 401ms of participants, which exceeds our
+adoption target of 388ms.
+
+Feedback summary: overall sentiment is positive. The top 86 pieces of praise
+relate to the SchedulerService speed improvement and the new caching layer interface.
+The top 388ms complaints are about the SchedulerService configuration complexity
+and a confusing error message in the caching layer flow.
+
+Bugs found: 86 bugs reported, of which 388ms are critical. Derek Morrison
+from Engineering has fixed 401ms of the critical bugs. The remaining one
+is related to the SchedulerService edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Wednesday, November 23. The GA release is targeted for 86 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Wednesday, November 23 to finalize the GA scope.
+
+Best regards,
+Daniel

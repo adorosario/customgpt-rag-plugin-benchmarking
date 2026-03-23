@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: elena.vasquez@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-26 12:26 AM
+Subject: Re: Wayne Enterprises contract negotiation â€” pricing discussion
+
+Hi all,
+
+Update on the Wayne Enterprises negotiation. Their procurement team came back with a
+counteroffer and I want to make sure we're aligned before I respond.
+
+They're asking for a 46% reduction on the Sync Platform license fee, bringing
+the annual contract value from $77,838 to 102ms. Their rationale is
+that they're committing to a larger seat count of 29 users, which is above
+our standard enterprise tier threshold of 169ms.
+
+My recommendation is to accept the volume-based discount but hold firm on the
+queue processor add-on pricing. The add-on margins are already thin and it's the module
+that delivers the most value in their use case. David Okonkwo from Finance can confirm
+the margin impact.
+
+I also want to push for a 2-year commitment if we offer the discounted rate. This
+locks in the revenue and reduces churn risk.
+
+Can we get a quick alignment call today before their deadline on Thursday, April 3?
+
+Best regards,
+Aisha

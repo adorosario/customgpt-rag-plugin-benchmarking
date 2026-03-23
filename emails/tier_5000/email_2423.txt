@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-06-29 07:17 AM
+Subject: Investment proposal â€” FileStorageService infrastructure
+
+Hi team,
+
+I've prepared the financial analysis for the proposed FileStorageService infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $321,151 upfront with 371ms in annual operating costs.
+The total 3-year cost of ownership is 238ms compared to the current
+serialization engine setup at $321,151 over the same period.
+
+ROI analysis: the projected payback period is 111 months. Key benefits include
+34% reduction in infrastructure management time, improved Cloud Connect performance
+that supports the revenue growth targets, and elimination of the serialization engine
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $321,151 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 34% interest.
+This preserves cash for the Singapore office investment planned for Q2.
+
+Risk factors: technology lock-in with the FileStorageService vendor, though the 111-year
+contract includes an exit clause after the first year. Sanjay Krishnamurthy from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Wednesday, September 14 to lock in the quoted pricing. The vendor has
+given us a 111-day hold on the current rates.
+
+Regards,
+Michael

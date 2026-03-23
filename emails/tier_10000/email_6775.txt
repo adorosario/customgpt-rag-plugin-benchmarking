@@ -1,0 +1,29 @@
+From: tomoko.nakamura@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-08-01 03:18 PM
+Subject: Feature flag cleanup â€” BillingModule v1.9.5
+
+Hi all,
+
+Time for our quarterly feature flag cleanup in BillingModule. We have 14 flags
+in the system and several of them are stale.
+
+Flags to remove: the service mesh migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The BillingModule experiment flag
+was concluded last sprint with a decision to ship â€” Daniel Park will hardcode the
+winning variant.
+
+Flags to keep: the v1.9.5 rollout flag should stay until we've confirmed
+stability at 260ms traffic. The service mesh kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 429ms lines of dead code and simplify the conditional logic in
+23% of the affected modules.
+
+Please claim the tickets for flags in your area by Monday, October 14. Target completion is end
+of sprint.
+
+Best regards,
+Tomoko

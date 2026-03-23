@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-29 04:13 AM
+Subject: Sprint planning â€” Data Vault sprint v4.1.0
+
+Hi,
+
+Here's the sprint plan for Data Vault sprint v4.1.0. Capacity is 114 story
+points with 175ms engineers available this sprint.
+
+Committed stories: the PaymentGateway integration work carries over from last sprint
+with 349ms points remaining. The new authentication module API endpoints are
+estimated at 114 points. The bug fix for the PaymentGateway rendering issue
+is 175ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the authentication module performance
+optimization that Ravi Patel has been scouting. It's estimated at 114 points
+and would improve response time by 18%.
+
+Dependencies: the PaymentGateway feature requires the API changes that Ravi Patel
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The authentication module work is self-contained.
+
+Risks: Ravi Patel is on-call this sprint which historically reduces their available
+capacity by 18%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Friday, January 1. Let me know if the priorities look right.
+
+Thanks,
+Liam

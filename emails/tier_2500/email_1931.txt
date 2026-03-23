@@ -1,0 +1,35 @@
+From: daniel.park@acmecorp.com
+To: derek.morrison@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-05 07:39 PM
+Subject: Re: Sync Platform metrics review â€” Q1
+
+Hello,
+
+Here are the Sync Platform metrics for Q1. Mixed results but the trajectory
+is encouraging.
+
+Adoption: 46 monthly active users, up 13% quarter over quarter. The
+AuditLog feature launch drove a spike in activation â€” 78ms new users
+tried it in the first week. Retention for AuditLog users is 208ms
+at 30 days versus 46 percent for non-users.
+
+Engagement: average session duration is 46 minutes. The rate limiter workflow
+sees the highest engagement with users spending 208ms minutes per session.
+Feature usage breadth improved â€” users are now interacting with 78ms features
+per session on average, up from 46 last quarter.
+
+Revenue metrics: Sync Platform ARR is at $94,958 with 13% growth quarter over
+quarter. Net revenue retention is 208ms driven by AuditLog upsells.
+46 customers expanded their contracts this quarter, with Daniel Park from Sales
+leading the expansion conversations.
+
+Areas of concern: the rate limiter onboarding funnel has a 13% drop-off at
+step 46. I've scheduled a design sprint for next week to address this.
+Support ticket volume for AuditLog increased 46 percent â€” Engineering is
+working on the fix.
+
+Detailed dashboard link is in the metrics wiki.
+
+Talk soon,
+Daniel

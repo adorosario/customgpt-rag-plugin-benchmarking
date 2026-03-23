@@ -1,0 +1,28 @@
+From: hannah.goldstein@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-09-04 08:42 AM
+Subject: Quarterly territory review â€” Q2
+
+Hi all,
+
+Here's my territory review for Q2. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 188 qualified opportunities worth a combined $121,156 in
+ARR. The largest deal is Hooli at 238ms, which I expect to close by
+Wednesday, October 27. Three other deals in the 186ms range are progressing through
+procurement.
+
+Wins this quarter: closed Hooli for Analytics Pro with a 45% upsell from
+their initial scope. The authentication module add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Marcus Thompson to the Hooli executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Best,
+Hannah

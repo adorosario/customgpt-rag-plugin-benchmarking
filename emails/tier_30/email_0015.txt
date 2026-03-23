@@ -1,0 +1,30 @@
+From: grace.mwangi@acmecorp.com
+To: derek.morrison@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-18 04:15 AM
+Subject: Re: Expense report flagged â€” NotificationEngine charges
+
+Hey,
+
+I noticed some items on the NotificationEngine expense report submitted by Michael Brennan
+that need clarification before I can approve them.
+
+The serialization engine subscription charge of $115,512 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+160ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Hooli dinner on Friday, August 23 for $115,512 exceeds our per-person meal
+reimbursement limit of 160ms. If this was a client entertainment expense,
+it should be coded to the client development budget under NotificationEngine rather than
+general T&E. 18 attendees at that amount puts us at 136ms per
+person which is within the client entertainment policy.
+
+The remaining 18 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 160ms business days after approval.
+
+Please resubmit with the corrections by Friday, August 23 so we can keep things on track.
+
+Thanks,
+Grace

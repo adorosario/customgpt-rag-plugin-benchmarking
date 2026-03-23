@@ -1,0 +1,30 @@
+From: rachel.nguyen@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-07-01 07:42 PM
+Subject: Policy update â€” NotificationEngine guidelines
+
+Hi,
+
+We've updated the NotificationEngine company policy based on feedback from employees and
+recent changes in Sydney labor regulations. The new policy takes effect on Wednesday, July 14.
+
+Key changes: the queue processor allowance has been increased from 366ms to
+203ms per month. The eligibility window for NotificationEngine has been expanded
+to include employees who've been with Acme Corp for 150 months or more, down
+from the previous requirement of 366ms months.
+
+New additions: a Cloud Connect reimbursement category has been added covering up to
+$459,858 annually. This addresses the top employee request from the last survey.
+Rachel Nguyen negotiated favorable terms with the queue processor vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by June 28. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 36% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Talk soon,
+Rachel

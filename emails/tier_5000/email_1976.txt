@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-07-21 12:09 AM
+Subject: Audit preparation â€” Q1 review
+
+Hi,
+
+The Q1 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Stark Industries are scheduled to begin fieldwork
+on Friday, September 24.
+
+Documentation needed from each department: all purchase orders above 54ms,
+contract modifications executed during Q1, headcount changes with supporting
+approvals, and DataPipeline system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the connection pool audit portal by Friday, September 24.
+That gives us 108 business days before the auditors arrive. Wei Zhang has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Cloud Connect contracts, the DataPipeline capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $472,332 in capitalized DataPipeline costs and the methodology used.
+
+This is our 108 year with Stark Industries as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Wei Zhang if you have
+questions about what's needed.
+
+Best,
+Grace

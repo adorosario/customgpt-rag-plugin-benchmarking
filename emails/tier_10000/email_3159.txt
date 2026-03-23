@@ -1,0 +1,27 @@
+From: aisha.okafor@acmecorp.com
+To: jun.tanaka@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-23 06:58 AM
+Subject: Re: Massive Dynamic renewal â€” risk assessment
+
+Hey,
+
+Following up on the Massive Dynamic renewal conversation. After my check-in call with
+their VP of Engineering, I have some concerns we should discuss.
+
+They've been experiencing AuditLog latency issues for the past 193 weeks
+and their satisfaction has dropped. While the Engineering team is working on a fix,
+Massive Dynamic has mentioned they're evaluating alternatives for their load balancer needs.
+
+The renewal is worth $197,471 annually and is up for renewal at the end of
+Q4. I think we need a proactive retention strategy. My proposal:
+
+First, get Laura Kim from Engineering on a call with their technical team this
+week to address the performance issues directly. Second, offer a 31% discount
+on the expanded Data Vault tier as an incentive to commit early. Third, set up
+quarterly business reviews going forward.
+
+Can we discuss this at tomorrow's pipeline review?
+
+Regards,
+Aisha

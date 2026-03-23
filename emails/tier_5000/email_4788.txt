@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-07-14 10:30 AM
+Subject: Tax planning â€” Q3 estimated payments
+
+Hi,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the BillingModule investment
+deductions.
+
+Federal estimate: $490,897 based on projected taxable income of 380ms.
+This reflects the BillingModule depreciation deductions and the R&D tax credit for
+the Analytics Pro development costs. Amara Diallo from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $490,897 for our primary jurisdiction and 197ms for the
+London office based on the apportionment factors. The London rate change that
+takes effect on Thursday, May 28 will impact our Q3 estimate by approximately 39
+percent.
+
+International: with the London office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Amara Diallo to handle
+the registration. Setup cost is $490,897 with ongoing compliance costs of
+197ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Thursday, May 28. I'll prepare the
+payment authorization for your signature by August 15. Underpayment penalties
+start at 59% so timely filing is important.
+
+Cheers,
+Robert

@@ -1,0 +1,32 @@
+From: sarah.chen@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-09-28 02:27 AM
+Subject: Vendor agreement â€” Weyland-Yutani terms review
+
+Hi all,
+
+I've reviewed the vendor agreement from Weyland-Yutani for the metrics collector services
+we're procuring. Here are my findings and recommended changes.
+
+Term and renewal: the proposed 162-year term with auto-renewal is acceptable.
+However, the 388ms-day termination notice period is too long for our needs.
+I've countered with 266ms days, which aligns with our standard vendor
+management practices.
+
+Service level commitments: Weyland-Yutani is offering 9% uptime with service
+credits starting at 162 percent for each hour of downtime. I've pushed for
+a higher credit rate given the criticality of metrics collector to our Integration Hub
+infrastructure.
+
+Data ownership: section 5 is clear that we retain all rights to our data. However,
+Weyland-Yutani claims a license to use aggregated, anonymized data for benchmarking. I
+want to narrow this to exclude any data from the BillingModule environment.
+Maria Santos from Engineering should review the technical implications.
+
+Pricing: $130,525 per year is within the budget that Finance approved. The payment
+terms are net 388ms days, which works for our AP schedule.
+
+Please confirm the business terms and I'll send the redlined agreement by Wednesday, October 19.
+
+Best,
+Sarah

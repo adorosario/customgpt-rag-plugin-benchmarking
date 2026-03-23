@@ -1,0 +1,34 @@
+From: david.okonkwo@acmecorp.com
+To: derek.morrison@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-06-08 05:30 AM
+Subject: Insurance renewal â€” Q4 review
+
+Hi team,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Weyland-Yutani has offered a renewal at $170,714 per year, which is a
+57% increase from last year. Coverage limits remain the same at 261ms
+for general liability and 310ms for the SchedulerService professional liability
+policy.
+
+Alternative quotes: I obtained 177 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 57% discount, but they
+have a 310ms-day waiting period for queue processor claims that our current
+policy doesn't have.
+
+Recommendation: stay with Weyland-Yutani and negotiate the premium increase down to
+57%. Their claims experience is strong â€” they processed our SchedulerService
+claim in 177 business days last year. Alex Chen from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+310ms to $170,714 given the growth in Sync Platform customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Tuesday, September 10 to avoid a coverage lapse. Let me know your preference.
+
+Best regards,
+David

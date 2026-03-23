@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-10-14 11:21 AM
+Subject: Vendor payment schedule â€” Q3
+
+Hello,
+
+Here's the vendor payment schedule for Q3. I've prioritized the payments
+based on contract terms and relationship importance.
+
+Priority payments: the Umbrella Inc invoice for $347,947 is due on Friday, July 5 with a
+7% early payment discount if we pay within 198 days. I recommend
+taking the discount â€” it saves us 201ms. The DataPipeline annual
+license renewal of 79ms is due Friday, July 5 with no discount available.
+
+Standard schedule: 198 vendor invoices totaling $347,947 are in the payment
+queue. All have been three-way matched and approved. I'm processing them on our
+standard net-79ms terms with payments going out every 198 business
+days.
+
+Holds: two invoices are on hold pending dispute resolution. The event bus vendor
+overbilled us by $347,947 on the DataPipeline usage charges. Alex Chen is working
+with their billing team to get a corrected invoice.
+
+Cash impact: total vendor payments for Q3 are projected at $347,947. This
+is 7% higher than last quarter due to the DataPipeline infrastructure
+investment and the London office setup costs.
+
+Let me know if any payment priorities need to be adjusted.
+
+Best,
+Ananya

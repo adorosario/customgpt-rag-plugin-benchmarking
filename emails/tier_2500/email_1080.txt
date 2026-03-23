@@ -1,0 +1,31 @@
+From: kwame.asante@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-08-11 02:26 AM
+Subject: Re: Performance review cycle â€” Q2
+
+Good morning,
+
+Quick reminder that the Q2 performance review cycle kicks off on Friday, December 2.
+Here's the timeline and what's expected from managers.
+
+Self-reviews: employees complete self-assessments by Friday, December 2. The template has been
+updated this cycle to include the new DataPipeline competency framework. Derek Morrison
+can walk managers through the changes.
+
+Manager reviews: due two weeks after self-reviews close. Please aim for specific,
+actionable feedback tied to the goals set in the previous cycle. Each review should
+address performance against 121 key objectives and include at least
+489ms development recommendations.
+
+Calibration sessions: department leads will participate in calibration meetings to
+ensure consistency in ratings. The Sales calibration is scheduled for Friday, December 2.
+
+Compensation: any merit adjustments recommended during reviews will be processed
+in the following pay period. The total compensation adjustment budget is 14%
+of current payroll, allocated at the department level.
+
+Training on the review tool is available through the connection pool learning portal.
+Reach out to Derek Morrison if you have questions.
+
+Talk soon,
+Kwame

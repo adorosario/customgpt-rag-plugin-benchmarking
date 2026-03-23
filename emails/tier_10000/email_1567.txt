@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-12 07:07 PM
+Subject: Beta program update â€” Enterprise Suite v2.6.0
+
+Hey,
+
+Quick update on the Enterprise Suite v2.6.0 beta program. We're 37 weeks into
+the beta period with 142ms customers participating.
+
+Usage data: 38% of beta participants have activated the new SearchIndex
+feature. Average daily usage is 37 sessions per user. The authentication module
+workflow is being used by 150ms of participants, which exceeds our
+adoption target of 142ms.
+
+Feedback summary: overall sentiment is positive. The top 37 pieces of praise
+relate to the SearchIndex speed improvement and the new authentication module interface.
+The top 142ms complaints are about the SearchIndex configuration complexity
+and a confusing error message in the authentication module flow.
+
+Bugs found: 37 bugs reported, of which 142ms are critical. Aisha Okafor
+from Engineering has fixed 150ms of the critical bugs. The remaining one
+is related to the SearchIndex edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Friday, September 25. The GA release is targeted for 37 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Friday, September 25 to finalize the GA scope.
+
+Talk soon,
+Daniel

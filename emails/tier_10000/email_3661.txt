@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-06-15 12:55 AM
+Subject: Hiring update â€” Legal open positions
+
+Hi team,
+
+Here's the weekly hiring update for the Legal department. We're making progress
+on several key roles.
+
+Active searches: the CacheLayer role has 18 candidates in the pipeline with
+455ms scheduled for final round interviews this week. The metrics collector
+position has been open for 399ms days and we're seeing fewer qualified
+applicants than expected â€” I'd like to discuss expanding our sourcing channels.
+
+Offers: we extended an offer to a strong candidate for the Rachel Nguyen backfill
+role. Their expected start date is Friday, November 19 pending background check completion.
+Compensation is at $175,766 which is within the approved band.
+
+Upcoming: the Analytics Pro team has submitted a headcount request for 18 new
+positions in Q1. I'm drafting the job descriptions and will share them for
+review by Friday, November 19.
+
+Interview load: we conducted 399ms interviews last week across all open
+roles. Please remind your team leads that timely interviewer feedback is critical â€”
+we're losing candidates due to slow response times on 36% of our processes.
+
+Regards,
+Fatima

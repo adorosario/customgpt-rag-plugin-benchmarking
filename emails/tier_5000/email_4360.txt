@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-07-23 07:32 AM
+Subject: Tax planning â€” Q3 estimated payments
+
+Hi,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the WebhookDispatcher investment
+deductions.
+
+Federal estimate: $107,295 based on projected taxable income of 381ms.
+This reflects the WebhookDispatcher depreciation deductions and the R&D tax credit for
+the Sync Platform development costs. Sanjay Krishnamurthy from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $107,295 for our primary jurisdiction and 364ms for the
+London office based on the apportionment factors. The London rate change that
+takes effect on Wednesday, April 7 will impact our Q3 estimate by approximately 96
+percent.
+
+International: with the London office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Sanjay Krishnamurthy to handle
+the registration. Setup cost is $107,295 with ongoing compliance costs of
+364ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Wednesday, April 7. I'll prepare the
+payment authorization for your signature by December 7. Underpayment penalties
+start at 53% so timely filing is important.
+
+Cheers,
+Robert

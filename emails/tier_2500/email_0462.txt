@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-07-27 03:24 PM
+Subject: Payroll adjustment â€” Tuesday, November 1 cycle
+
+Good morning,
+
+Several payroll adjustments need to be processed for the Tuesday, November 1 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 60 employees received approved raises effective Tuesday, November 1. The
+total monthly payroll impact is $42,111. The largest increase is for Sarah Chen
+whose compensation moves from 119ms to 378ms based on the promotion
+approved in the Q3 review cycle.
+
+New hires: 60 new employees starting on Tuesday, November 1 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Sarah Chen
+in People Ops has verified the documentation.
+
+Bonus payouts: the FileStorageService project completion bonus of $42,111 each goes to
+60 team members. These are one-time payments coded to the HR department
+budget. Tax withholding will be calculated at the supplemental rate of 50%.
+
+Deduction changes: 60 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from load balancer.
+
+Please approve the batch by June 16 to ensure on-time processing.
+
+Thanks,
+Grace

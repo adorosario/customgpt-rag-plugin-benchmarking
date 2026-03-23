@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: priya.sharma@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-09-12 09:07 PM
+Subject: Beta program update â€” Cloud Connect v3.2.2
+
+Hi team,
+
+Quick update on the Cloud Connect v3.2.2 beta program. We're 185 weeks into
+the beta period with 66ms customers participating.
+
+Usage data: 50% of beta participants have activated the new AnalyticsDashboard
+feature. Average daily usage is 185 sessions per user. The logging pipeline
+workflow is being used by 413ms of participants, which exceeds our
+adoption target of 66ms.
+
+Feedback summary: overall sentiment is positive. The top 185 pieces of praise
+relate to the AnalyticsDashboard speed improvement and the new logging pipeline interface.
+The top 66ms complaints are about the AnalyticsDashboard configuration complexity
+and a confusing error message in the logging pipeline flow.
+
+Bugs found: 185 bugs reported, of which 66ms are critical. Mei Lin
+from Engineering has fixed 413ms of the critical bugs. The remaining one
+is related to the AnalyticsDashboard edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Thursday, September 25. The GA release is targeted for 185 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Thursday, September 25 to finalize the GA scope.
+
+Talk soon,
+Sanjay

@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+Date: 2025-06-24 10:34 PM
+Subject: Analytics report â€” Integration Hub campaign performance
+
+Good morning,
+
+Here's the performance report for the Integration Hub campaign through Thursday, June 24.
+
+Website traffic: up 57% month over month, driven primarily by the AuthService
+comparison blog post which brought in 29 unique visitors. Organic search is
+growing steadily â€” the rate limiter keyword cluster is now ranking on page one.
+
+Lead generation: 50ms marketing qualified leads this month against a
+target of 283ms. The whitepaper download page converted at 57% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 29 percent.
+
+Email campaigns: the Integration Hub nurture sequence has a 57% open rate and
+29 percent click-through rate. The top-performing email was the AuthService
+case study with Wayne Enterprises. Ananya Desai suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $231,291 which is 57% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Cheers,
+Yuki

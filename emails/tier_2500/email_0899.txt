@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-07-24 05:13 PM
+Subject: Customer feedback digest â€” Cloud Connect Q4
+
+Hi team,
+
+Here's the quarterly customer feedback digest for Cloud Connect. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 140, up 158ms points from last quarter. The improvement
+is driven by the AuthService launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 41%.
+
+Top feature requests: AuthService advanced filtering (140 votes), rate limiter
+bulk operations (158ms votes), and enhanced Cloud Connect reporting (302ms
+votes). The filtering request aligns with what we heard in the user research study
+Dmitri Volkov conducted.
+
+Top complaints: AuthService performance during peak hours (140 mentions),
+the rate limiter onboarding experience (158ms mentions), and pricing
+transparency (302ms mentions). The performance issue is being addressed
+by Engineering â€” Dmitri Volkov expects the fix in v5.0.0-beta.
+
+Churn insights: 140 customers churned this quarter citing AuthService
+limitations as the primary reason. The rate limiter overhaul on our roadmap directly
+addresses their feedback. 41% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, November 15.
+
+Regards,
+Daniel

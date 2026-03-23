@@ -1,0 +1,33 @@
+From: liam.foster@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+Date: 2025-11-20 07:56 PM
+Subject: Customer feedback digest â€” Integration Hub Q3
+
+Good morning,
+
+Here's the quarterly customer feedback digest for Integration Hub. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 125, up 356ms points from last quarter. The improvement
+is driven by the CacheLayer launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 14%.
+
+Top feature requests: CacheLayer advanced filtering (125 votes), caching layer
+bulk operations (356ms votes), and enhanced Integration Hub reporting (65ms
+votes). The filtering request aligns with what we heard in the user research study
+Tomoko Nakamura conducted.
+
+Top complaints: CacheLayer performance during peak hours (125 mentions),
+the caching layer onboarding experience (356ms mentions), and pricing
+transparency (65ms mentions). The performance issue is being addressed
+by Engineering â€” Tomoko Nakamura expects the fix in v5.0.0-beta.
+
+Churn insights: 125 customers churned this quarter citing CacheLayer
+limitations as the primary reason. The caching layer overhaul on our roadmap directly
+addresses their feedback. 14% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Wednesday, August 8.
+
+Best,
+Liam

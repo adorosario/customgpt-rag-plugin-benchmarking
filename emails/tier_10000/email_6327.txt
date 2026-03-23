@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-10-21 10:28 AM
+Subject: Investment proposal â€” UserProfileService infrastructure
+
+Good morning,
+
+I've prepared the financial analysis for the proposed UserProfileService infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $296,908 upfront with 79ms in annual operating costs.
+The total 3-year cost of ownership is 135ms compared to the current
+connection pool setup at $296,908 over the same period.
+
+ROI analysis: the projected payback period is 134 months. Key benefits include
+60% reduction in infrastructure management time, improved Insight Engine performance
+that supports the revenue growth targets, and elimination of the connection pool
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $296,908 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 60% interest.
+This preserves cash for the Tokyo office investment planned for Q2.
+
+Risk factors: technology lock-in with the UserProfileService vendor, though the 134-year
+contract includes an exit clause after the first year. Sanjay Krishnamurthy from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Wednesday, June 14 to lock in the quoted pricing. The vendor has
+given us a 134-day hold on the current rates.
+
+Cheers,
+Robert

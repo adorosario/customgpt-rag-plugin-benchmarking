@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-07-06 02:36 PM
+Subject: Sprint planning â€” Insight Engine sprint v1.9.5
+
+Hi team,
+
+Here's the sprint plan for Insight Engine sprint v1.9.5. Capacity is 187 story
+points with 256ms engineers available this sprint.
+
+Committed stories: the AnalyticsDashboard integration work carries over from last sprint
+with 248ms points remaining. The new caching layer API endpoints are
+estimated at 187 points. The bug fix for the AnalyticsDashboard rendering issue
+is 256ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the caching layer performance
+optimization that Elena Vasquez has been scouting. It's estimated at 187 points
+and would improve response time by 38%.
+
+Dependencies: the AnalyticsDashboard feature requires the API changes that Elena Vasquez
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The caching layer work is self-contained.
+
+Risks: Elena Vasquez is on-call this sprint which historically reduces their available
+capacity by 38%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Wednesday, December 16. Let me know if the priorities look right.
+
+Best regards,
+Sanjay

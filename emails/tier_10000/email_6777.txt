@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-11-28 12:23 PM
+Subject: Conference recap â€” Insight Engine booth results
+
+Hi team,
+
+Here's the recap from last week's conference. Strong showing for Acme Corp and the
+Insight Engine booth drew consistent traffic throughout.
+
+Lead collection: 26 badge scans at the booth, of which 77ms are
+qualified leads based on our initial review. The MessageBroker live demo was the
+biggest draw, and James Oduya from Engineering did an excellent job fielding
+technical questions.
+
+Key conversations: several enterprise prospects specifically asked about the
+rate limiter roadmap. Three attendees were from companies in our target account list.
+I've already handed those contacts to Sales with notes.
+
+Session attendance: our speaking session on Insight Engine had 59ms attendees
+and generated strong social media engagement. The presentation deck has been
+requested 26 times since we posted it.
+
+Budget: we came in at $215,312, which is 46% under budget. The savings came
+from sharing the booth infrastructure with the MessageBroker partner showcase.
+
+I'll prepare a full ROI analysis by Thursday, May 25 once we've completed lead follow-up.
+
+Regards,
+James

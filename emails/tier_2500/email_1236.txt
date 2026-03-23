@@ -1,0 +1,26 @@
+From: hannah.goldstein@acmecorp.com
+To: aisha.okafor@acmecorp.com
+Date: 2025-07-24 02:59 AM
+Subject: Pipeline update â€” Tyrell Corp deal status
+
+Hi team,
+
+Quick update on the Tyrell Corp opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $150,621 for the Enterprise Suite deployment. The
+decision timeline is end of Q4. Their main concern remains the integration
+with their existing BillingModule infrastructure, which is why I've looped in Amara Diallo
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Tyrell Corp is also evaluating one other vendor but our
+Enterprise Suite demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our caching layer capability.
+
+Next steps: technical architecture session on Thursday, July 9, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 14%.
+
+Regards,
+Hannah

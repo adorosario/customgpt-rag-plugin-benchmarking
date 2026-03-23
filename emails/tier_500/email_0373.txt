@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-08-02 04:19 AM
+Subject: Cash flow forecast â€” Q2
+
+Hey everyone,
+
+Attached is the cash flow forecast for Q2. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $67,172 based on the current AR aging
+and sales pipeline. The Cyberdyne payment of 214ms is expected by Wednesday, January 12
+â€” Laura Kim from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the UserProfileService infrastructure
+investment at $67,172. The Berlin office build-out costs will hit in Q2
+with an estimated total of 142ms. Payroll continues at 214ms
+monthly for our 159-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $67,172 in the second month. This provides 159 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Cyberdyne deal slips from Q2 to next quarter, we'll
+need to draw on the credit facility for $67,172. I've confirmed the line is
+available. Laura Kim and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Cheers,
+Robert

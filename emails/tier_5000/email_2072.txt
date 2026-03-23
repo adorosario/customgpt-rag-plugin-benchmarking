@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-21 06:17 AM
+Subject: Cash flow forecast â€” Q3
+
+Hi all,
+
+Attached is the cash flow forecast for Q3. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $140,916 based on the current AR aging
+and sales pipeline. The Weyland-Yutani payment of 246ms is expected by Thursday, November 8
+â€” Mei Lin from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the MessageBroker infrastructure
+investment at $140,916. The Sydney office build-out costs will hit in Q3
+with an estimated total of 228ms. Payroll continues at 246ms
+monthly for our 29-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $140,916 in the second month. This provides 29 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Weyland-Yutani deal slips from Q3 to next quarter, we'll
+need to draw on the credit facility for $140,916. I've confirmed the line is
+available. Mei Lin and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Talk soon,
+Michael

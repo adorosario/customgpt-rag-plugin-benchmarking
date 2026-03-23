@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-09-13 09:14 PM
+Subject: Social media strategy â€” Q2
+
+Hey everyone,
+
+Presenting the social media strategy refresh for Q2. Based on our Analytics Pro
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our BillingModule posts are averaging 177 impressions and 28% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 28% educational content about connection pool topics, 177
+percent product highlights, and the rest for company culture and employee spotlights.
+Kwame Asante will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Analytics Pro use cases and answer audience questions. First session on Wednesday, January 17 featuring
+Kwame Asante.
+
+Budget: $434,356 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 341ms new followers and 185ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Best regards,
+Yuki

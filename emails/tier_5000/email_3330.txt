@@ -1,0 +1,30 @@
+From: hannah.goldstein@acmecorp.com
+To: laura.kim@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-10-28 04:05 PM
+Subject: Re: Insight Engine demo feedback from Umbrella Inc
+
+Hello,
+
+Great news from the Umbrella Inc demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the queue processor dashboard got the biggest reaction. Their
+current tool requires 59 manual steps to accomplish what our Insight Engine does
+automatically. The UserProfileService integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 494ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v2.1.0 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. Liam Foster, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Insight Engine trial environment set up for their team of
+59 evaluators. I'll submit the trial request today. Target close date
+remains Friday, September 4.
+
+Best regards,
+Hannah

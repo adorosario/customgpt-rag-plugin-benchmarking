@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-09-23 07:01 AM
+Subject: Sales engineering request â€” Stark Industries POC
+
+Hi all,
+
+Requesting SE support for a proof-of-concept with Stark Industries. This is a $243,766
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Integration Hub can handle 52
+transactions per second with their FileStorageService data format. The test needs to
+run against their staging environment and demonstrate the connection pool capability
+under realistic load.
+
+Timeline: Stark Industries wants the POC completed within 473ms business days
+starting Friday, February 15. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Ananya Desai for the technical configuration and someone from
+the FileStorageService team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q1. Let me know if we can make this timeline work.
+
+Best,
+Aisha

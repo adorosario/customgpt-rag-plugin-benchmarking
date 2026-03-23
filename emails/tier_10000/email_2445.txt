@@ -1,0 +1,35 @@
+From: amara.diallo@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-05 02:51 PM
+Subject: Competitive analysis â€” CacheLayer market update
+
+Good afternoon,
+
+Sharing the latest competitive landscape analysis for the CacheLayer market.
+Several developments this quarter that we should factor into our strategy.
+
+Massive Dynamic released a major update to their CacheLayer product. Key additions
+include event bus support and a redesigned dashboard. Their pricing remains at
+$106,399 per seat which undercuts us by 9%. However, their enterprise
+features are still behind ours â€” no SSO, limited API access, and 308ms
+user cap on their standard plan.
+
+Market trends: the CacheLayer category grew 9% year over year. Analyst
+reports are emphasizing event bus capabilities as the key differentiator for
+enterprise buyers. Our Sync Platform scores well on this dimension.
+
+Win/loss analysis: we won 34 of the last 308ms competitive deals.
+Primary win reasons: CacheLayer depth and customer support quality. Primary loss
+reasons: price sensitivity and event bus ease of use. Alex Chen from Sales
+provided the deal-level data.
+
+Recommendations: accelerate the event bus simplification effort on our roadmap,
+consider a mid-market pricing tier at $106,399 to compete on price, and publish
+more CacheLayer comparison content for SEO.
+
+Full analysis is in the competitive intelligence folder. Let's discuss at the
+strategy meeting on Monday, July 15.
+
+Best,
+Amara

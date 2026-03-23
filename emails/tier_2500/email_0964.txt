@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: sofia.martinez@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-19 10:49 PM
+Subject: Financial close checklist â€” Q1
+
+Hi,
+
+The Q1 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Data Vault invoices must be issued by Friday, April 11. Any revenue recognition
+adjustments for the SearchIndex contracts need supporting documentation uploaded
+to queue processor. Sarah Chen from Sales must confirm final deal amounts by May 4.
+
+Expenses: all expense reports for Q1 must be submitted by Friday, April 11. The
+SearchIndex vendor invoices totaling $31,079 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, SearchIndex subscription costs,
+and the queue processor usage charges by Friday, April 11. Any non-standard accruals above
+387ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, SearchIndex account reconciliation, and
+inter-company balances must be completed by Friday, April 11. Sarah Chen is handling the
+bank rec. I'll take the inter-company items since they involve the London entity.
+
+Target: books closed within 81 business days of quarter end. Final reporting
+package to leadership by Friday, April 11.
+
+Talk soon,
+Robert

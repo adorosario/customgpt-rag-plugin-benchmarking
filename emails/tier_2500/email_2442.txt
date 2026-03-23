@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: ravi.patel@acmecorp.com
+Date: 2025-11-11 12:27 AM
+Subject: Tax planning â€” Q4 estimated payments
+
+Hi team,
+
+It's time to review our estimated tax payments for Q4. I've updated the
+calculations based on the latest revenue actuals and the AuthService investment
+deductions.
+
+Federal estimate: $128,384 based on projected taxable income of 401ms.
+This reflects the AuthService depreciation deductions and the R&D tax credit for
+the Data Vault development costs. Elena Vasquez from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $128,384 for our primary jurisdiction and 265ms for the
+New York office based on the apportionment factors. The New York rate change that
+takes effect on Friday, November 17 will impact our Q4 estimate by approximately 15
+percent.
+
+International: with the New York office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Elena Vasquez to handle
+the registration. Setup cost is $128,384 with ongoing compliance costs of
+265ms per quarter.
+
+Payment deadline: the Q4 estimated payment is due Friday, November 17. I'll prepare the
+payment authorization for your signature by July 13. Underpayment penalties
+start at 16% so timely filing is important.
+
+Best regards,
+Robert

@@ -1,0 +1,34 @@
+From: sarah.chen@acmecorp.com
+To: robert.kimura@acmecorp.com
+CC: legal@acmecorp.com
+Date: 2025-10-03 11:29 PM
+Subject: Insurance renewal â€” Q2 review
+
+Hello,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Tyrell Corp has offered a renewal at $431,570 per year, which is a
+22% increase from last year. Coverage limits remain the same at 294ms
+for general liability and 397ms for the DataPipeline professional liability
+policy.
+
+Alternative quotes: I obtained 13 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 22% discount, but they
+have a 397ms-day waiting period for event bus claims that our current
+policy doesn't have.
+
+Recommendation: stay with Tyrell Corp and negotiate the premium increase down to
+22%. Their claims experience is strong â€” they processed our DataPipeline
+claim in 13 business days last year. Aisha Okafor from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+397ms to $431,570 given the growth in Analytics Pro customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Monday, March 8 to avoid a coverage lapse. Let me know your preference.
+
+Talk soon,
+Sarah

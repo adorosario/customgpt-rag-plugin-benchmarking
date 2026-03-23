@@ -1,0 +1,30 @@
+From: patrick.obrien@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-09-01 05:20 PM
+Subject: Re: Employee survey results â€” Q3
+
+Hi all,
+
+The Q3 employee engagement survey results are in. Response rate was 22%,
+up 16 points from the last survey. Here are the key findings.
+
+Overall satisfaction: 230ms out of 5, which is consistent with the
+previous quarter. The Product department scored highest at 293ms while the
+MessageBroker team showed the largest improvement at plus 16 points.
+
+Top strengths: colleagues and team culture scored 230ms, manager
+effectiveness scored 293ms, and work-life balance scored 16. Employees
+particularly appreciated the flexible metrics collector policy and the recent team events.
+
+Areas for improvement: career development pathways scored lowest at 16 out of 5.
+Employees want more clarity on promotion criteria and more frequent feedback.
+Cross-department communication was another area flagged â€” 22% of respondents
+said they don't have enough visibility into what other teams are working on.
+
+Action plan: David Okonkwo is leading a working group to address the career development
+feedback. We'll publish a response with specific commitments by Wednesday, January 7.
+
+Department-level reports will be shared with managers this week.
+
+Best regards,
+Patrick

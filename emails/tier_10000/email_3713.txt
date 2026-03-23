@@ -1,0 +1,29 @@
+From: carlos.rivera@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-06-13 08:12 PM
+Subject: New lead â€” Cyberdyne inbound request
+
+Hi,
+
+We received an inbound request from Cyberdyne through the website today. They're
+a 193-employee company in the UserProfileService space and are looking for a
+Analytics Pro solution.
+
+Initial qualification: they have budget allocated for Q4, their current
+contract with their existing vendor expires on Tuesday, August 24, and the decision maker is
+their VP of Operations. They found us through the load balancer whitepaper we
+published last month.
+
+The estimated deal size is $478,959 based on their seat count and the use case
+they described. They specifically mentioned needing the UserProfileService integration
+and 202ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Hannah Goldstein â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on load balancer scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Cheers,
+Carlos

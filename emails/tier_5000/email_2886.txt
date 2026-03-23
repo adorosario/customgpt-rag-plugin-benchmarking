@@ -1,0 +1,33 @@
+From: sarah.chen@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-07-21 12:04 AM
+Subject: Insurance renewal â€” Q4 review
+
+Hello,
+
+Our commercial insurance package is up for renewal and I've completed the
+market review. Here's a comparison of the options.
+
+Current carrier: Wayne Enterprises has offered a renewal at $181,640 per year, which is a
+10% increase from last year. Coverage limits remain the same at 258ms
+for general liability and 492ms for the CacheLayer professional liability
+policy.
+
+Alternative quotes: I obtained 119 competitive bids. The most attractive is
+from a new carrier offering comparable coverage at a 10% discount, but they
+have a 492ms-day waiting period for caching layer claims that our current
+policy doesn't have.
+
+Recommendation: stay with Wayne Enterprises and negotiate the premium increase down to
+10%. Their claims experience is strong â€” they processed our CacheLayer
+claim in 119 business days last year. Sarah Chen from Finance agrees the
+premium is justified given the coverage quality.
+
+Cyber insurance: I also recommend increasing our cyber liability coverage from
+492ms to $181,640 given the growth in Cloud Connect customer data we're
+handling. The incremental premium is manageable.
+
+Decision needed by Wednesday, October 16 to avoid a coverage lapse. Let me know your preference.
+
+Best,
+Sarah

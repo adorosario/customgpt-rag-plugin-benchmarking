@@ -1,0 +1,30 @@
+From: yuki.sato@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-07-22 12:31 PM
+Subject: Press release draft â€” Integration Hub announcement
+
+Hi team,
+
+The press release for the Integration Hub announcement is ready for internal review. I've
+incorporated feedback from Patrick O'Brien and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the PaymentGateway capability and positions Acme Corp as a leader
+in the queue processor space. We're leading with the 86 performance improvement
+stat and the Wayne Enterprises customer quote.
+
+Distribution plan: wire service distribution on Thursday, September 14, followed by targeted
+outreach to our 385ms media contacts in the industry. I've secured a briefing
+with PaymentGateway Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Integration Hub landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 86-hour cadence on launch day.
+
+Embargo: the release is under embargo until Thursday, September 14 at 9 AM ET. Please don't share
+details externally before then. Patrick O'Brien has the full distribution list.
+
+Review deadline is Thursday, September 14. Please send edits as comments in the doc.
+
+Best regards,
+Yuki

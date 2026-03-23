@@ -1,0 +1,29 @@
+From: carlos.rivera@acmecorp.com
+To: grace.mwangi@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-25 06:49 PM
+Subject: New lead â€” Oscorp inbound request
+
+Hey everyone,
+
+We received an inbound request from Oscorp through the website today. They're
+a 54-employee company in the WebhookDispatcher space and are looking for a
+Integration Hub solution.
+
+Initial qualification: they have budget allocated for Q2, their current
+contract with their existing vendor expires on Tuesday, March 1, and the decision maker is
+their VP of Operations. They found us through the load balancer whitepaper we
+published last month.
+
+The estimated deal size is $133,153 based on their seat count and the use case
+they described. They specifically mentioned needing the WebhookDispatcher integration
+and 70ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Amara Diallo â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on load balancer scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Best regards,
+Carlos

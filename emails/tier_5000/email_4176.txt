@@ -1,0 +1,32 @@
+From: fatima.al-rashid@acmecorp.com
+To: james.oduya@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-08-10 05:42 AM
+Subject: Training program â€” ReportingEngine certification
+
+Good afternoon,
+
+We're launching a new ReportingEngine certification training program for interested
+employees. This is part of our learning and development investment for Q1.
+
+Program details: the course runs for 69 weeks and covers service mesh
+fundamentals through advanced topics. Sessions are held twice a week for 435ms
+hours each. Kwame Asante from the HR team will facilitate the hands-on labs.
+
+Eligibility: open to all employees. Priority enrollment goes to the HR and
+Engineering teams since the certification is directly relevant to their roles. We
+have 480ms spots available for the first cohort.
+
+Cost: Acme Corp covers 6% of the certification exam fee upon course
+completion. The total investment per employee is $36,727 including materials and
+exam vouchers.
+
+Commitment: participants are expected to dedicate 69 hours per week to
+coursework outside of the live sessions. Managers must approve the time commitment
+for their reports.
+
+Registration opens on Monday, February 26 and closes when spots are filled. Sign up through
+the service mesh learning portal.
+
+Best,
+Fatima

@@ -1,0 +1,31 @@
+From: carlos.rivera@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-07-16 07:33 AM
+Subject: Competitive intel â€” Massive Dynamic evaluation
+
+Hi,
+
+Got some useful competitive intelligence from the Massive Dynamic account that I want to
+share with the team.
+
+Massive Dynamic shared their evaluation criteria and mentioned they're also looking at
+SchedulerService as an alternative to our Data Vault. From what I gathered, SchedulerService
+is pitching a lower price point but doesn't have feature parity on the connection pool
+side.
+
+Key differentiators working in our favor: our Data Vault handles 145 concurrent
+connections versus their published limit of 287ms. Our uptime SLA is also
+stronger at 70ms versus their 32% guarantee.
+
+Where they're competitive: their onboarding process is reportedly faster and they
+offer a free tier that lets prospects evaluate without procurement involvement.
+
+Recommendation: I think we should update our battle card for SchedulerService and
+consider a streamlined trial process for mid-market accounts. Tomoko Nakamura from
+Product might have insights on their latest feature releases.
+
+I'll present the full analysis at the next sales team meeting on Tuesday, February 1.
+
+Thanks,
+Carlos

@@ -1,0 +1,30 @@
+From: michael.brennan@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-23 12:56 AM
+Subject: Re: Expense report flagged â€” WebhookDispatcher charges
+
+Good afternoon,
+
+I noticed some items on the WebhookDispatcher expense report submitted by David Okonkwo
+that need clarification before I can approve them.
+
+The logging pipeline subscription charge of $443,841 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+439ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Globex dinner on Thursday, January 6 for $443,841 exceeds our per-person meal
+reimbursement limit of 439ms. If this was a client entertainment expense,
+it should be coded to the client development budget under WebhookDispatcher rather than
+general T&E. 81 attendees at that amount puts us at 401ms per
+person which is within the client entertainment policy.
+
+The remaining 81 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 439ms business days after approval.
+
+Please resubmit with the corrections by Thursday, January 6 so we can keep things on track.
+
+Best regards,
+Michael

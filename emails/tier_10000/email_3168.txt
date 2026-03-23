@@ -1,0 +1,29 @@
+From: fatima.al-rashid@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-11-01 08:02 AM
+Subject: Policy update â€” ReportingEngine guidelines
+
+Hello,
+
+We've updated the ReportingEngine company policy based on feedback from employees and
+recent changes in Tokyo labor regulations. The new policy takes effect on Friday, January 25.
+
+Key changes: the metrics collector allowance has been increased from 321ms to
+246ms per month. The eligibility window for ReportingEngine has been expanded
+to include employees who've been with Acme Corp for 73 months or more, down
+from the previous requirement of 321ms months.
+
+New additions: a Sync Platform reimbursement category has been added covering up to
+$328,149 annually. This addresses the top employee request from the last survey.
+Carlos Rivera negotiated favorable terms with the metrics collector vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by March 26. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 18% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best regards,
+Fatima

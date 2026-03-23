@@ -1,0 +1,32 @@
+From: mei.lin@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-02 07:51 PM
+Subject: A/B test results â€” APIGateway experiment
+
+Good afternoon,
+
+The APIGateway A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 20 days with 365ms users in each cohort.
+
+Variant A (control): the existing caching layer flow. Conversion rate of
+431ms with an average task completion time of 20 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified APIGateway step.
+Conversion rate of 365ms with task completion time of 431ms seconds.
+This represents a 46% improvement in conversion and 20 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 20 to 365ms
+in the treatment group. Support ticket volume for APIGateway related issues
+decreased by 46%. No negative impact on caching layer engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Oluwaseun Adeyemi from Engineering can have this
+deployed by Friday, May 6.
+
+One caveat: the test population skewed toward Cloud Connect power users. We should
+monitor new user behavior closely for the first 20 weeks after full rollout.
+
+Thanks,
+Mei

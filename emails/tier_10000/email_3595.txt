@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: laura.kim@acmecorp.com
+Date: 2025-10-16 04:01 AM
+Subject: Re: Sync Platform launch planning â€” SchedulerService release
+
+Hi team,
+
+The launch plan for the SchedulerService release is coming together. Here's the
+coordinated timeline across teams.
+
+Engineering: code freeze on Thursday, August 1. Final QA validation of 126 test cases
+by Yuki Sato. Performance benchmarks must show connection pool throughput above
+454ms requests per second. Rollback plan documented and tested.
+
+Marketing: blog post and landing page updates go live at launch. Yuki Sato from
+the content team has the draft ready for review. Email announcement to 126
+customers scheduled for launch day plus one.
+
+Sales: updated pitch deck with the SchedulerService positioning. Yuki Sato is running
+a training session on Thursday, August 1 so the team can demo the feature. We're expecting
+$395,739 in pipeline acceleration from this release.
+
+Support: knowledge base articles and troubleshooting guide published pre-launch.
+Yuki Sato trained the support team on the 126 most common questions. Staffing
+is increased by 51% for launch week.
+
+Go/no-go decision meeting is on Thursday, August 1. Each team lead needs to confirm readiness
+by then.
+
+Cheers,
+Amara

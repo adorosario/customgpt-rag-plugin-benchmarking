@@ -1,0 +1,28 @@
+From: elena.vasquez@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-06-27 11:17 PM
+Subject: Architecture RFC â€” AuditLog redesign proposal
+
+Hi team,
+
+I've drafted an RFC for redesigning the AuditLog architecture. The current
+implementation has served us well but is hitting scaling limits â€” we're seeing
+54 degrade as data volume grows past 284ms.
+
+The proposal introduces a new service mesh layer that decouples read and write paths.
+Writes go through an event queue and are processed asynchronously, while reads hit a
+materialized view that's optimized for our most common query patterns.
+
+Estimated effort is 4-6 sprints for the core migration, with Aisha Okafor leading the
+implementation. I've outlined the phased rollout approach in the document â€” we can
+run the old and new systems in parallel during the transition.
+
+Tradeoffs: increased operational complexity and a new dependency on the message
+broker, but we get horizontal scalability and the ability to support the load
+projections for next year.
+
+RFC is in Confluence. Please leave comments by Monday, November 11 so we can discuss at the
+next architecture review.
+
+Best regards,
+Elena

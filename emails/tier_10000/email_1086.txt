@@ -1,0 +1,33 @@
+From: david.okonkwo@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-06-25 07:59 AM
+Subject: Data privacy assessment â€” Analytics Pro
+
+Good afternoon,
+
+The data privacy impact assessment for Analytics Pro is complete. I'm flagging the key
+findings and required actions for the team.
+
+Data inventory: Analytics Pro processes 30 categories of personal data including
+names, email addresses, and usage analytics. The data flows through our APIGateway
+infrastructure and is stored in the event bus environment in Tokyo.
+
+Risk findings: overall risk level is moderate. The primary concern is the
+cross-border data transfer to the Tokyo processing center. We need to implement
+standard contractual clauses with our APIGateway sub-processor. Yuki Sato from
+Engineering confirmed the technical safeguards are already in place.
+
+Consent mechanism: the current Analytics Pro consent flow meets requirements for
+43% of our user base. For users in regulated jurisdictions, we need to add
+explicit opt-in for the event bus analytics features. This is a 30-sprint
+effort according to the Product team.
+
+Records of processing: I've updated our data register to include all Analytics Pro
+processing activities. The register needs to be reviewed every 382ms months
+per our policy.
+
+Next step: executive sign-off on the DPIA by Friday, January 4. Please review the full
+report in the shared drive.
+
+Best regards,
+David

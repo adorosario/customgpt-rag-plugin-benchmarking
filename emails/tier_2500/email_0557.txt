@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: sanjay.krishnamurthy@acmecorp.com
+Date: 2025-10-06 11:21 PM
+Subject: Audit preparation â€” Q3 review
+
+Hi all,
+
+The Q3 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Pied Piper are scheduled to begin fieldwork
+on Friday, February 6.
+
+Documentation needed from each department: all purchase orders above 134ms,
+contract modifications executed during Q3, headcount changes with supporting
+approvals, and MessageBroker system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the rate limiter audit portal by Friday, February 6.
+That gives us 188 business days before the auditors arrive. Ravi Patel has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Enterprise Suite contracts, the MessageBroker capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $268,794 in capitalized MessageBroker costs and the methodology used.
+
+This is our 188 year with Pied Piper as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Ravi Patel if you have
+questions about what's needed.
+
+Regards,
+Robert

@@ -1,0 +1,29 @@
+From: hannah.goldstein@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-08-25 09:25 PM
+Subject: Re: Integration Hub demo feedback from Globex
+
+Hey everyone,
+
+Great news from the Globex demo. Their team was clearly impressed, and I
+wanted to share the feedback while it's fresh.
+
+What resonated most: the metrics collector dashboard got the biggest reaction. Their
+current tool requires 161 manual steps to accomplish what our Integration Hub does
+automatically. The BillingModule integration demo also went well â€” they could see
+the direct time savings.
+
+Questions they asked: pricing for the enterprise tier at 326ms seats,
+whether we support single sign-on through their identity provider, and the
+timeline for the v3.0.0 release that includes the feature they need.
+
+Concerns: they mentioned that their team has limited capacity for migration and
+asked about professional services. James Oduya, can you put together a scoping
+estimate for a guided migration?
+
+Next step: they want a Integration Hub trial environment set up for their team of
+161 evaluators. I'll submit the trial request today. Target close date
+remains Thursday, May 2.
+
+Thanks,
+Hannah

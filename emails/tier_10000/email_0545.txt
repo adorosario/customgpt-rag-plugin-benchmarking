@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-09-27 12:15 PM
+Subject: Tax planning â€” Q3 estimated payments
+
+Hey,
+
+It's time to review our estimated tax payments for Q3. I've updated the
+calculations based on the latest revenue actuals and the UserProfileService investment
+deductions.
+
+Federal estimate: $194,904 based on projected taxable income of 128ms.
+This reflects the UserProfileService depreciation deductions and the R&D tax credit for
+the Analytics Pro development costs. Priya Sharma from our tax advisors has reviewed the
+credit calculation.
+
+State estimates: $194,904 for our primary jurisdiction and 149ms for the
+Berlin office based on the apportionment factors. The Berlin rate change that
+takes effect on Wednesday, April 16 will impact our Q3 estimate by approximately 113
+percent.
+
+International: with the Berlin office coming online, we need to register for VAT
+and begin collecting from European customers. I've engaged Priya Sharma to handle
+the registration. Setup cost is $194,904 with ongoing compliance costs of
+149ms per quarter.
+
+Payment deadline: the Q3 estimated payment is due Wednesday, April 16. I'll prepare the
+payment authorization for your signature by February 4. Underpayment penalties
+start at 59% so timely filing is important.
+
+Best regards,
+Grace

@@ -1,0 +1,31 @@
+From: rachel.nguyen@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-11-16 01:13 PM
+Subject: Re: Employee survey results â€” Q2
+
+Hi,
+
+The Q2 employee engagement survey results are in. Response rate was 35%,
+up 86 points from the last survey. Here are the key findings.
+
+Overall satisfaction: 340ms out of 5, which is consistent with the
+previous quarter. The Sales department scored highest at 236ms while the
+UserProfileService team showed the largest improvement at plus 86 points.
+
+Top strengths: colleagues and team culture scored 340ms, manager
+effectiveness scored 236ms, and work-life balance scored 86. Employees
+particularly appreciated the flexible logging pipeline policy and the recent team events.
+
+Areas for improvement: career development pathways scored lowest at 86 out of 5.
+Employees want more clarity on promotion criteria and more frequent feedback.
+Cross-department communication was another area flagged â€” 35% of respondents
+said they don't have enough visibility into what other teams are working on.
+
+Action plan: Wei Zhang is leading a working group to address the career development
+feedback. We'll publish a response with specific commitments by Thursday, March 19.
+
+Department-level reports will be shared with managers this week.
+
+Regards,
+Rachel

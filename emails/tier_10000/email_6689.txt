@@ -1,0 +1,34 @@
+From: liam.foster@acmecorp.com
+To: marcus.thompson@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-21 09:02 AM
+Subject: Customer feedback digest â€” Cloud Connect Q4
+
+Hey,
+
+Here's the quarterly customer feedback digest for Cloud Connect. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 190, up 84ms points from last quarter. The improvement
+is driven by the AnalyticsDashboard launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 52%.
+
+Top feature requests: AnalyticsDashboard advanced filtering (190 votes), queue processor
+bulk operations (84ms votes), and enhanced Cloud Connect reporting (454ms
+votes). The filtering request aligns with what we heard in the user research study
+Sofia Martinez conducted.
+
+Top complaints: AnalyticsDashboard performance during peak hours (190 mentions),
+the queue processor onboarding experience (84ms mentions), and pricing
+transparency (454ms mentions). The performance issue is being addressed
+by Engineering â€” Sofia Martinez expects the fix in v2.4.1.
+
+Churn insights: 190 customers churned this quarter citing AnalyticsDashboard
+limitations as the primary reason. The queue processor overhaul on our roadmap directly
+addresses their feedback. 52% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Thursday, April 22.
+
+Best,
+Liam

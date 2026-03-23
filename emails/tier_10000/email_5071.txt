@@ -1,0 +1,27 @@
+From: derek.morrison@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-06-20 07:52 PM
+Subject: Re: Pied Piper contract negotiation â€” pricing discussion
+
+Hey everyone,
+
+Update on the Pied Piper negotiation. Their procurement team came back with a
+counteroffer and I want to make sure we're aligned before I respond.
+
+They're asking for a 44% reduction on the Insight Engine license fee, bringing
+the annual contract value from $305,333 to 245ms. Their rationale is
+that they're committing to a larger seat count of 74 users, which is above
+our standard enterprise tier threshold of 64ms.
+
+My recommendation is to accept the volume-based discount but hold firm on the
+load balancer add-on pricing. The add-on margins are already thin and it's the module
+that delivers the most value in their use case. Liam Foster from Finance can confirm
+the margin impact.
+
+I also want to push for a 2-year commitment if we offer the discounted rate. This
+locks in the revenue and reduces churn risk.
+
+Can we get a quick alignment call today before their deadline on Wednesday, October 2?
+
+Regards,
+Derek

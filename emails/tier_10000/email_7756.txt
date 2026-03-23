@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-08-15 07:06 AM
+Subject: Investment proposal â€” FileStorageService infrastructure
+
+Good afternoon,
+
+I've prepared the financial analysis for the proposed FileStorageService infrastructure
+investment. Here's the business case summary.
+
+Investment amount: $332,074 upfront with 57ms in annual operating costs.
+The total 3-year cost of ownership is 412ms compared to the current
+authentication module setup at $332,074 over the same period.
+
+ROI analysis: the projected payback period is 146 months. Key benefits include
+45% reduction in infrastructure management time, improved Cloud Connect performance
+that supports the revenue growth targets, and elimination of the authentication module
+scaling bottleneck that Engineering has flagged.
+
+Funding: I recommend using $332,074 from the capital expenditure budget and
+financing the remainder through the existing credit facility at 45% interest.
+This preserves cash for the San Francisco office investment planned for Q3.
+
+Risk factors: technology lock-in with the FileStorageService vendor, though the 146-year
+contract includes an exit clause after the first year. Kwame Asante from Engineering
+has validated the technical assumptions in the model.
+
+I need executive approval by Tuesday, March 17 to lock in the quoted pricing. The vendor has
+given us a 146-day hold on the current rates.
+
+Best regards,
+Robert

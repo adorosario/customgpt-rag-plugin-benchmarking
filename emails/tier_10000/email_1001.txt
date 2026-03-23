@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-11-02 08:55 PM
+Subject: Re: Insight Engine launch planning â€” UserProfileService release
+
+Hi all,
+
+The launch plan for the UserProfileService release is coming together. Here's the
+coordinated timeline across teams.
+
+Engineering: code freeze on Friday, September 12. Final QA validation of 118 test cases
+by Robert Kimura. Performance benchmarks must show caching layer throughput above
+266ms requests per second. Rollback plan documented and tested.
+
+Marketing: blog post and landing page updates go live at launch. Robert Kimura from
+the content team has the draft ready for review. Email announcement to 118
+customers scheduled for launch day plus one.
+
+Sales: updated pitch deck with the UserProfileService positioning. Robert Kimura is running
+a training session on Friday, September 12 so the team can demo the feature. We're expecting
+$490,010 in pipeline acceleration from this release.
+
+Support: knowledge base articles and troubleshooting guide published pre-launch.
+Robert Kimura trained the support team on the 118 most common questions. Staffing
+is increased by 21% for launch week.
+
+Go/no-go decision meeting is on Friday, September 12. Each team lead needs to confirm readiness
+by then.
+
+Thanks,
+Liam

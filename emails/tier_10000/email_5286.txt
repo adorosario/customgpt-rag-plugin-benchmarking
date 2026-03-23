@@ -1,0 +1,29 @@
+From: fatima.al-rashid@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-11-29 01:40 AM
+Subject: Policy update â€” AuditLog guidelines
+
+Good afternoon,
+
+We've updated the AuditLog company policy based on feedback from employees and
+recent changes in Sydney labor regulations. The new policy takes effect on Tuesday, April 10.
+
+Key changes: the event bus allowance has been increased from 411ms to
+236ms per month. The eligibility window for AuditLog has been expanded
+to include employees who've been with Acme Corp for 35 months or more, down
+from the previous requirement of 411ms months.
+
+New additions: a Data Vault reimbursement category has been added covering up to
+$394,677 annually. This addresses the top employee request from the last survey.
+Sanjay Krishnamurthy negotiated favorable terms with the event bus vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by September 15. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 60% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best regards,
+Fatima

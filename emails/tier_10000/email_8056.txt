@@ -1,0 +1,31 @@
+From: robert.kimura@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-06-23 04:42 PM
+Subject: Payroll adjustment â€” Thursday, August 6 cycle
+
+Hey,
+
+Several payroll adjustments need to be processed for the Thursday, August 6 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 10 employees received approved raises effective Thursday, August 6. The
+total monthly payroll impact is $75,412. The largest increase is for Amara Diallo
+whose compensation moves from 197ms to 61ms based on the promotion
+approved in the Q3 review cycle.
+
+New hires: 10 new employees starting on Thursday, August 6 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Amara Diallo
+in People Ops has verified the documentation.
+
+Bonus payouts: the APIGateway project completion bonus of $75,412 each goes to
+10 team members. These are one-time payments coded to the HR department
+budget. Tax withholding will be calculated at the supplemental rate of 38%.
+
+Deduction changes: 10 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from event bus.
+
+Please approve the batch by April 1 to ensure on-time processing.
+
+Best regards,
+Robert

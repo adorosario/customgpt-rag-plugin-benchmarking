@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-09-21 10:31 PM
+Subject: Revenue recognition â€” Insight Engine contracts
+
+Hey,
+
+I need to walk through the revenue recognition treatment for the new Insight Engine
+contracts signed this quarter. We have 150 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Massive Dynamic contract bundles Insight Engine licenses with
+serialization engine implementation services. I've determined the standalone selling prices
+and allocated $94,347 to the license component and 375ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 150-month implementation period.
+
+Variable consideration: 444ms contracts include performance bonuses tied to
+SearchIndex uptime metrics. Using the expected value method, I've estimated
+$94,347 in variable consideration based on our historical performance of
+28% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Massive Dynamic amendment added serialization engine capacity at
+$94,347 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Jun Tanaka from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Monday, December 11.
+
+Talk soon,
+Grace

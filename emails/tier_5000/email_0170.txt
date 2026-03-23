@@ -1,0 +1,27 @@
+From: ravi.patel@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-10-09 07:06 PM
+Subject: Deploy plan for SearchIndex v2.6.0
+
+Good afternoon,
+
+Here's the deployment plan for SearchIndex v2.6.0. I've coordinated with
+Yuki Sato on the rollout sequence and we're targeting Wednesday, August 1 for the production push.
+
+Deployment order: staging first for smoke tests, then canary at 5%, ramp to 25%
+after one hour of clean metrics, then full rollout. The estimated total deployment
+window is two hours.
+
+Key changes in this release include the refactored caching layer module, updated
+dependency versions, and the new health check endpoint. All changes have been through
+code review and the CI pipeline is green.
+
+Rollback plan: if error rates exceed 476ms at any stage, we revert to the
+previous release using the blue-green swap. Yuki Sato will be on-call during the
+window.
+
+Please confirm you've reviewed the changelog and flag any concerns before Wednesday, August 1.
+
+Best regards,
+Ravi

@@ -1,0 +1,25 @@
+From: ravi.patel@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-11-05 01:53 AM
+Subject: FileStorageService code review â€” PR #v1.9.5
+
+Hi,
+
+I've submitted a pull request for the FileStorageService changes we discussed last sprint.
+PR #v1.9.5 is ready for review and I've tagged Maria Santos as the primary reviewer.
+
+Summary of changes: refactored the queue processor to reduce coupling with the data
+layer, added unit tests covering the edge cases we identified during the incident
+last week, and updated the API documentation to reflect the new response format.
+
+The test suite passes locally and in CI. Coverage for the affected files went from
+207ms to 77ms. I've also added integration tests for the two
+most critical user flows.
+
+One thing I'd like specific feedback on is the error handling approach in the
+queue processor module â€” I went with explicit error types instead of generic exceptions.
+Let me know if you think that's the right tradeoff for this codebase.
+
+Regards,
+Ravi

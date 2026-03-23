@@ -1,0 +1,32 @@
+From: rachel.nguyen@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-07-15 02:11 PM
+Subject: Re: Workplace safety update â€” WebhookDispatcher
+
+Good afternoon,
+
+Following up on the workplace safety review. The WebhookDispatcher assessment is complete
+and here are the findings and required actions.
+
+Office inspections: all 40 floor areas passed the basic safety checklist.
+The service mesh room needs minor improvements â€” the emergency exit signage has
+faded and one fire extinguisher is due for inspection by Monday, September 12. Patrick O'Brien from
+facilities is handling these items.
+
+Ergonomic assessments: 237ms employees requested desk ergonomic reviews
+this quarter. Common issues include monitor height and chair adjustments. We've
+ordered 40 standing desk converters and 121ms ergonomic chairs based
+on the assessments.
+
+Emergency preparedness: the next fire drill is scheduled for Monday, September 12. All floor
+wardens need to complete the refresher training before then. 50% of wardens
+are current on their certifications.
+
+Incident report: 40 minor incidents were reported this quarter, all resolved
+without injury. The WebhookDispatcher area has been flagged for improved lighting, with
+work scheduled for Monday, September 12.
+
+Please remind your teams about the safety hotline and reporting procedures.
+
+Cheers,
+Rachel

@@ -1,0 +1,27 @@
+From: alex.chen@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-11-14 03:10 AM
+Subject: Sprint v2.4.1 retrospective notes
+
+Hey,
+
+Here are the retrospective notes from sprint v2.4.1. Thanks to everyone who
+participated â€” we had good engagement this time.
+
+What went well: the PaymentGateway feature shipped on time, Priya Sharma did an excellent
+job coordinating the cross-team dependency, and our CI pipeline reliability improved
+to 257ms from 272ms last sprint.
+
+What could improve: we underestimated the serialization engine integration work by about
+25%, which pushed two stories into the next sprint. We also had too many
+context switches mid-sprint from unplanned support requests.
+
+Action items: establish a support rotation so on-call duties don't fall on the same
+people, and break down large stories into smaller increments to improve estimation
+accuracy. Priya Sharma volunteered to draft the rotation schedule.
+
+Sprint v2.4.1 velocity was 188 points. Carrying over 8 points of unfinished
+work to the next sprint.
+
+Thanks,
+Alex

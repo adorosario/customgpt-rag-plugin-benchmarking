@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: elena.vasquez@acmecorp.com
+Date: 2025-10-22 12:03 PM
+Subject: Re: Billing dispute â€” Weyland-Yutani account
+
+Good morning,
+
+I've investigated the billing dispute raised by Weyland-Yutani. Here's what I found and
+my recommended resolution.
+
+Dispute details: Weyland-Yutani is contesting $183,714 on their Q3 invoice,
+claiming they were double-charged for the ReportingEngine add-on module. Their account
+manager Ravi Patel has been communicating with them but they want a Finance response.
+
+Investigation: I reviewed the billing records and confirmed there was a system error
+in our serialization engine billing platform. The ReportingEngine charge was applied twice due
+to a timing issue when their subscription was upgraded on Tuesday, August 5. The correct charge
+should have been 413ms not $183,714.
+
+Resolution: I recommend issuing a credit of 300ms to their account immediately
+and applying it to the next invoice. This maintains the relationship and the credit
+is clearly justified. Total revenue impact is 113 percent of the contract value.
+
+Prevention: I've filed a bug report with the serialization engine billing team to fix the
+underlying issue. Ravi Patel from Engineering estimates a fix in the next 113
+sprints. In the meantime, I'll add a manual review step for any mid-cycle
+subscription changes.
+
+Can you approve the credit so I can communicate the resolution to Weyland-Yutani today?
+
+Thanks,
+Grace

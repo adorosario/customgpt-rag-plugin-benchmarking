@@ -1,0 +1,31 @@
+From: james.oduya@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-08-03 12:03 AM
+Subject: Analytics report â€” Analytics Pro campaign performance
+
+Hi team,
+
+Here's the performance report for the Analytics Pro campaign through Tuesday, November 21.
+
+Website traffic: up 38% month over month, driven primarily by the NotificationEngine
+comparison blog post which brought in 171 unique visitors. Organic search is
+growing steadily â€” the metrics collector keyword cluster is now ranking on page one.
+
+Lead generation: 442ms marketing qualified leads this month against a
+target of 131ms. The whitepaper download page converted at 38% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 171 percent.
+
+Email campaigns: the Analytics Pro nurture sequence has a 38% open rate and
+171 percent click-through rate. The top-performing email was the NotificationEngine
+case study with Cyberdyne. Marcus Thompson suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $418,828 which is 38% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Cheers,
+James

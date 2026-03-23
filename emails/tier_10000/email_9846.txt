@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: wei.zhang@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-15 02:12 AM
+Subject: Beta program update â€” Enterprise Suite v5.0.0-beta
+
+Hi,
+
+Quick update on the Enterprise Suite v5.0.0-beta beta program. We're 43 weeks into
+the beta period with 488ms customers participating.
+
+Usage data: 11% of beta participants have activated the new FileStorageService
+feature. Average daily usage is 43 sessions per user. The load balancer
+workflow is being used by 244ms of participants, which exceeds our
+adoption target of 488ms.
+
+Feedback summary: overall sentiment is positive. The top 43 pieces of praise
+relate to the FileStorageService speed improvement and the new load balancer interface.
+The top 488ms complaints are about the FileStorageService configuration complexity
+and a confusing error message in the load balancer flow.
+
+Bugs found: 43 bugs reported, of which 488ms are critical. Oluwaseun Adeyemi
+from Engineering has fixed 244ms of the critical bugs. The remaining one
+is related to the FileStorageService edge case that we're addressing in the next patch.
+
+Timeline: beta ends on Friday, October 24. The GA release is targeted for 43 weeks after
+beta close, allowing time to incorporate feedback and fix remaining issues.
+
+Recommend we schedule a beta retrospective for Friday, October 24 to finalize the GA scope.
+
+Best regards,
+Daniel

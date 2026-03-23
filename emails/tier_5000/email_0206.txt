@@ -1,0 +1,32 @@
+From: daniel.park@acmecorp.com
+To: wei.zhang@acmecorp.com
+Date: 2025-10-08 12:27 PM
+Subject: Roadmap update â€” Insight Engine Q2
+
+Hi team,
+
+Here's the updated Insight Engine roadmap for Q2. I've incorporated the
+prioritization decisions from last week's planning session and aligned with
+Engineering on capacity.
+
+Committed: the APIGateway integration feature launches on Thursday, February 26. This is our
+top customer request with 81 votes on the feedback board. James Oduya from
+Engineering confirmed the technical design is finalized and development starts
+this sprint.
+
+Planned: the connection pool overhaul is scoped for mid-Q2. This addresses the
+scalability concerns that have been limiting our enterprise deals. Estimated effort
+is 81 sprints with 146ms engineers allocated.
+
+Exploring: the APIGateway AI feature that Sales has been requesting. We need more
+user research before committing â€” James Oduya is running interviews with 81
+customers this month. If the signal is strong, we'll slot it for next quarter.
+
+Deprioritized: the connection pool redesign has been pushed to next year. While the
+UX improvements would be nice, the revenue impact doesn't justify the 81-sprint
+investment at this stage.
+
+Full roadmap is in the product wiki. Let me know if you have questions.
+
+Cheers,
+Daniel

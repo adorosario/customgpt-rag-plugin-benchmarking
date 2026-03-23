@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: hannah.goldstein@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-20 09:17 AM
+Subject: Financial close checklist â€” Q3
+
+Good morning,
+
+The Q3 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Integration Hub invoices must be issued by Friday, September 9. Any revenue recognition
+adjustments for the MessageBroker contracts need supporting documentation uploaded
+to rate limiter. Sarah Chen from Sales must confirm final deal amounts by October 18.
+
+Expenses: all expense reports for Q3 must be submitted by Friday, September 9. The
+MessageBroker vendor invoices totaling $111,683 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, MessageBroker subscription costs,
+and the rate limiter usage charges by Friday, September 9. Any non-standard accruals above
+134ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, MessageBroker account reconciliation, and
+inter-company balances must be completed by Friday, September 9. Sarah Chen is handling the
+bank rec. I'll take the inter-company items since they involve the London entity.
+
+Target: books closed within 67 business days of quarter end. Final reporting
+package to leadership by Friday, September 9.
+
+Best,
+Michael

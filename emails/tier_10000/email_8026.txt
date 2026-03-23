@@ -1,0 +1,32 @@
+From: david.okonkwo@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-08-23 12:56 PM
+Subject: Vendor agreement â€” Hooli terms review
+
+Good morning,
+
+I've reviewed the vendor agreement from Hooli for the authentication module services
+we're procuring. Here are my findings and recommended changes.
+
+Term and renewal: the proposed 126-year term with auto-renewal is acceptable.
+However, the 268ms-day termination notice period is too long for our needs.
+I've countered with 204ms days, which aligns with our standard vendor
+management practices.
+
+Service level commitments: Hooli is offering 59% uptime with service
+credits starting at 126 percent for each hour of downtime. I've pushed for
+a higher credit rate given the criticality of authentication module to our Data Vault
+infrastructure.
+
+Data ownership: section 5 is clear that we retain all rights to our data. However,
+Hooli claims a license to use aggregated, anonymized data for benchmarking. I
+want to narrow this to exclude any data from the APIGateway environment.
+Priya Sharma from Engineering should review the technical implications.
+
+Pricing: $368,760 per year is within the budget that Finance approved. The payment
+terms are net 268ms days, which works for our AP schedule.
+
+Please confirm the business terms and I'll send the redlined agreement by Monday, June 13.
+
+Best,
+David

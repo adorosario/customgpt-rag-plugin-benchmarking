@@ -1,0 +1,35 @@
+From: mei.lin@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-10-08 09:37 AM
+Subject: Competitive analysis â€” SearchIndex market update
+
+Hi all,
+
+Sharing the latest competitive landscape analysis for the SearchIndex market.
+Several developments this quarter that we should factor into our strategy.
+
+Massive Dynamic released a major update to their SearchIndex product. Key additions
+include event bus support and a redesigned dashboard. Their pricing remains at
+$422,414 per seat which undercuts us by 30%. However, their enterprise
+features are still behind ours â€” no SSO, limited API access, and 348ms
+user cap on their standard plan.
+
+Market trends: the SearchIndex category grew 30% year over year. Analyst
+reports are emphasizing event bus capabilities as the key differentiator for
+enterprise buyers. Our Integration Hub scores well on this dimension.
+
+Win/loss analysis: we won 28 of the last 348ms competitive deals.
+Primary win reasons: SearchIndex depth and customer support quality. Primary loss
+reasons: price sensitivity and event bus ease of use. Elena Vasquez from Sales
+provided the deal-level data.
+
+Recommendations: accelerate the event bus simplification effort on our roadmap,
+consider a mid-market pricing tier at $422,414 to compete on price, and publish
+more SearchIndex comparison content for SEO.
+
+Full analysis is in the competitive intelligence folder. Let's discuss at the
+strategy meeting on Friday, June 18.
+
+Thanks,
+Mei

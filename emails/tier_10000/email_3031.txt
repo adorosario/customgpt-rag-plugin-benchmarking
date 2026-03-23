@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: amara.diallo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-07-06 10:49 PM
+Subject: Cash flow forecast â€” Q4
+
+Hi,
+
+Attached is the cash flow forecast for Q4. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $281,707 based on the current AR aging
+and sales pipeline. The Pied Piper payment of 216ms is expected by Thursday, March 19
+â€” Ananya Desai from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the PaymentGateway infrastructure
+investment at $281,707. The New York office build-out costs will hit in Q4
+with an estimated total of 346ms. Payroll continues at 216ms
+monthly for our 48-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $281,707 in the second month. This provides 48 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Pied Piper deal slips from Q4 to next quarter, we'll
+need to draw on the credit facility for $281,707. I've confirmed the line is
+available. Ananya Desai and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Best,
+Michael

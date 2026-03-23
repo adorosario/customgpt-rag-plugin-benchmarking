@@ -1,0 +1,32 @@
+From: liam.foster@acmecorp.com
+To: kwame.asante@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-06-05 03:50 AM
+Subject: Sprint planning â€” Sync Platform sprint v2.4.1
+
+Hey everyone,
+
+Here's the sprint plan for Sync Platform sprint v2.4.1. Capacity is 72 story
+points with 105ms engineers available this sprint.
+
+Committed stories: the WebhookDispatcher integration work carries over from last sprint
+with 105ms points remaining. The new queue processor API endpoints are
+estimated at 72 points. The bug fix for the WebhookDispatcher rendering issue
+is 105ms points â€” this is customer-impacting so it's top priority.
+
+Stretch goals: if we finish early, we'll pull in the queue processor performance
+optimization that Alex Chen has been scouting. It's estimated at 72 points
+and would improve response time by 14%.
+
+Dependencies: the WebhookDispatcher feature requires the API changes that Alex Chen
+from the platform team is delivering in their sprint. They've committed to having
+the endpoint ready by Wednesday. The queue processor work is self-contained.
+
+Risks: Alex Chen is on-call this sprint which historically reduces their available
+capacity by 14%. I've accounted for this in the planning but if a major
+incident occurs, we may need to drop the stretch goal.
+
+Sprint review is scheduled for Monday, July 18. Let me know if the priorities look right.
+
+Talk soon,
+Liam

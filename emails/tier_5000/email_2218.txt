@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-11-19 01:50 PM
+Subject: Financial close checklist â€” Q4
+
+Good morning,
+
+The Q4 financial close is approaching and here's the checklist with deadlines
+for each team.
+
+Revenue: all Integration Hub invoices must be issued by Friday, July 14. Any revenue recognition
+adjustments for the UserProfileService contracts need supporting documentation uploaded
+to rate limiter. Amara Diallo from Sales must confirm final deal amounts by August 4.
+
+Expenses: all expense reports for Q4 must be submitted by Friday, July 14. The
+UserProfileService vendor invoices totaling $358,191 are pending approval â€” please
+expedite. Department leads must review their cost center reports for coding accuracy.
+
+Accruals: I'll post standard accruals for payroll, UserProfileService subscription costs,
+and the rate limiter usage charges by Friday, July 14. Any non-standard accruals above
+264ms need documentation and my approval.
+
+Reconciliations: bank reconciliation, UserProfileService account reconciliation, and
+inter-company balances must be completed by Friday, July 14. Amara Diallo is handling the
+bank rec. I'll take the inter-company items since they involve the Tokyo entity.
+
+Target: books closed within 63 business days of quarter end. Final reporting
+package to leadership by Friday, July 14.
+
+Thanks,
+Grace

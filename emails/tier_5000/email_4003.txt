@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-11-13 11:18 AM
+Subject: Press release draft â€” Insight Engine announcement
+
+Hi,
+
+The press release for the Insight Engine announcement is ready for internal review. I've
+incorporated feedback from Marcus Thompson and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the PaymentGateway capability and positions Acme Corp as a leader
+in the metrics collector space. We're leading with the 128 performance improvement
+stat and the Oscorp customer quote.
+
+Distribution plan: wire service distribution on Friday, November 15, followed by targeted
+outreach to our 278ms media contacts in the industry. I've secured a briefing
+with PaymentGateway Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Insight Engine landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 128-hour cadence on launch day.
+
+Embargo: the release is under embargo until Friday, November 15 at 9 AM ET. Please don't share
+details externally before then. Marcus Thompson has the full distribution list.
+
+Review deadline is Friday, November 15. Please send edits as comments in the doc.
+
+Best regards,
+Sofia

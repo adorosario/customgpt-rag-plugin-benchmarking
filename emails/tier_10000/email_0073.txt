@@ -1,0 +1,31 @@
+From: grace.mwangi@acmecorp.com
+To: yuki.sato@acmecorp.com
+Date: 2025-07-28 05:05 PM
+Subject: Payroll adjustment â€” Tuesday, May 19 cycle
+
+Hey everyone,
+
+Several payroll adjustments need to be processed for the Tuesday, May 19 pay cycle. Here's
+the summary for your review and approval.
+
+Merit increases: 27 employees received approved raises effective Tuesday, May 19. The
+total monthly payroll impact is $197,183. The largest increase is for Alex Chen
+whose compensation moves from 325ms to 368ms based on the promotion
+approved in the Q4 review cycle.
+
+New hires: 27 new employees starting on Tuesday, May 19 need to be added to the
+payroll system. All have completed their I-9 and tax withholding forms. Alex Chen
+in People Ops has verified the documentation.
+
+Bonus payouts: the PaymentGateway project completion bonus of $197,183 each goes to
+27 team members. These are one-time payments coded to the Engineering department
+budget. Tax withholding will be calculated at the supplemental rate of 21%.
+
+Deduction changes: 27 employees updated their benefits elections during
+open enrollment. The new deduction amounts take effect this cycle. I've reconciled
+the changes against the benefits enrollment records from service mesh.
+
+Please approve the batch by June 23 to ensure on-time processing.
+
+Best regards,
+Grace

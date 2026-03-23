@@ -1,0 +1,33 @@
+From: amara.diallo@acmecorp.com
+To: yuki.sato@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-30 03:02 AM
+Subject: Re: User research findings â€” UserProfileService
+
+Hey everyone,
+
+Sharing the findings from the UserProfileService user research study. We interviewed
+74 users and ran usability tests with 275ms participants over the
+last two weeks.
+
+Key insight 1: users find the rate limiter workflow confusing â€” 33% of
+participants couldn't complete the primary task without help. The main friction
+point is the navigation between UserProfileService and the main Analytics Pro dashboard.
+
+Key insight 2: power users want more UserProfileService customization options. They're
+currently using workarounds that involve 74 extra steps. The most requested
+feature is the ability to create custom rate limiter templates.
+
+Key insight 3: new users consistently miss the UserProfileService feature entirely.
+Discovery is poor â€” only 33% of new users try the feature within their first
+74 days. Hannah Goldstein suggested adding an onboarding tooltip, which tested
+well in the mock-up.
+
+Recommendations: redesign the rate limiter navigation flow, add the template
+feature to the Q1 roadmap, and implement the onboarding changes as a quick
+win. Estimated impact is a 33% improvement in feature adoption.
+
+Full research report with recordings is in the research repository.
+
+Cheers,
+Amara

@@ -1,0 +1,27 @@
+From: derek.morrison@acmecorp.com
+To: patrick.obrien@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-10 09:28 AM
+Subject: Pipeline update â€” Oscorp deal status
+
+Hey everyone,
+
+Quick update on the Oscorp opportunity. Had a productive call with their
+procurement team today and things are moving in the right direction.
+
+They've confirmed budget allocation of $130,263 for the Analytics Pro deployment. The
+decision timeline is end of Q2. Their main concern remains the integration
+with their existing SchedulerService infrastructure, which is why I've looped in Daniel Park
+from Engineering for a technical deep-dive next week.
+
+Competitive landscape: Oscorp is also evaluating one other vendor but our
+Analytics Pro demo scored highest in their evaluation matrix. The differentiator they
+keep coming back to is our queue processor capability.
+
+Next steps: technical architecture session on Monday, December 1, followed by a commercial
+proposal revision incorporating the volume discount they requested.
+
+I'll update the CRM after the technical session. Confidence level is at 44%.
+
+Thanks,
+Derek

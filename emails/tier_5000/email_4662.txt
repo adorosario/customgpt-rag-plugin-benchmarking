@@ -1,0 +1,29 @@
+From: robert.kimura@acmecorp.com
+To: marcus.thompson@acmecorp.com
+Date: 2025-11-22 05:18 AM
+Subject: Re: Expense report flagged â€” MessageBroker charges
+
+Hey,
+
+I noticed some items on the MessageBroker expense report submitted by Dmitri Volkov
+that need clarification before I can approve them.
+
+The connection pool subscription charge of $60,535 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+359ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Hooli dinner on Thursday, March 18 for $60,535 exceeds our per-person meal
+reimbursement limit of 359ms. If this was a client entertainment expense,
+it should be coded to the client development budget under MessageBroker rather than
+general T&E. 12 attendees at that amount puts us at 192ms per
+person which is within the client entertainment policy.
+
+The remaining 12 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 359ms business days after approval.
+
+Please resubmit with the corrections by Thursday, March 18 so we can keep things on track.
+
+Best,
+Robert

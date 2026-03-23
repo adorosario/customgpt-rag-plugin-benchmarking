@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: oluwaseun.adeyemi@acmecorp.com
+Date: 2025-08-31 04:55 AM
+Subject: Policy update â€” ReportingEngine guidelines
+
+Hey everyone,
+
+We've updated the ReportingEngine company policy based on feedback from employees and
+recent changes in Singapore labor regulations. The new policy takes effect on Friday, April 25.
+
+Key changes: the serialization engine allowance has been increased from 94ms to
+372ms per month. The eligibility window for ReportingEngine has been expanded
+to include employees who've been with Acme Corp for 23 months or more, down
+from the previous requirement of 94ms months.
+
+New additions: a Enterprise Suite reimbursement category has been added covering up to
+$466,459 annually. This addresses the top employee request from the last survey.
+David Okonkwo negotiated favorable terms with the serialization engine vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by June 5. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 55% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Best,
+Rachel

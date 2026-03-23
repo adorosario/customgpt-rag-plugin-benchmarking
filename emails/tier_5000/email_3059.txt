@@ -1,0 +1,31 @@
+From: patrick.obrien@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-07-08 05:16 AM
+Subject: Team event recap â€” PaymentGateway outing
+
+Hi,
+
+Thanks to everyone who joined the PaymentGateway team outing last week. We had great
+turnout with 130 employees attending.
+
+Highlights: the team building exercise was a hit â€” the service mesh challenge had
+teams competing in creative problem-solving rounds. The winning team led by
+Mei Lin finished in just 125ms minutes. The group dinner afterward was a
+great opportunity for cross-team connections.
+
+Feedback: the post-event survey came back overwhelmingly positive with a 31%
+satisfaction rating. Most popular suggestion for next time: more outdoor activities.
+Several people asked about doing quarterly events instead of 130 per year.
+
+Budget: total cost was $59,613, coming in at 333ms per person including
+venue, catering, and activities. This is within our social budget for Q2.
+
+Photos are uploaded to the shared album in the service mesh drive. Please tag
+yourselves and share appropriate photos on social media if you'd like â€” our
+marketing team loves this content for the company page.
+
+Planning for the next event starts in Q2. Ideas welcome.
+
+Regards,
+Patrick

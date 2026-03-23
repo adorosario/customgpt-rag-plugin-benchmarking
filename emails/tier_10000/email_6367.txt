@@ -1,0 +1,32 @@
+From: robert.kimura@acmecorp.com
+To: david.okonkwo@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-13 02:55 PM
+Subject: Cash flow forecast â€” Q1
+
+Hey everyone,
+
+Attached is the cash flow forecast for Q1. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $228,494 based on the current AR aging
+and sales pipeline. The Massive Dynamic payment of 471ms is expected by Tuesday, August 26
+â€” Sofia Martinez from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the SearchIndex infrastructure
+investment at $228,494. The Toronto office build-out costs will hit in Q1
+with an estimated total of 231ms. Payroll continues at 471ms
+monthly for our 171-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $228,494 in the second month. This provides 171 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Massive Dynamic deal slips from Q1 to next quarter, we'll
+need to draw on the credit facility for $228,494. I've confirmed the line is
+available. Sofia Martinez and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Thanks,
+Robert

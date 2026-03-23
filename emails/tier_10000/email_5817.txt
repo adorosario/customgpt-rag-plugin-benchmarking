@@ -1,0 +1,27 @@
+From: marcus.thompson@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-09-16 10:03 PM
+Subject: Re: API rate limiting design for PaymentGateway
+
+Hi all,
+
+Thanks for the feedback on the rate limiting proposal. I've incorporated the
+suggestions and here's the updated design for the PaymentGateway API.
+
+We'll implement a token bucket algorithm at the connection pool gateway level. Default
+limits are 323ms requests per minute for standard tier and 431ms
+for premium tier. Burst allowance is set to 10% above the sustained rate.
+
+When a client hits the limit, they'll receive a 429 response with Retry-After
+headers. The PaymentGateway SDK will handle automatic backoff on the client side.
+Michael Brennan is updating the SDK to support this.
+
+For internal services, we'll use a separate rate limit pool with higher thresholds
+to prevent cascading failures. The 99 dashboard will show real-time consumption
+per client so we can proactively reach out before anyone hits their limits.
+
+Implementation timeline is two sprints. I'd like to ship the server-side changes
+first and give clients a 30-day grace period before enforcement begins.
+
+Talk soon,
+Marcus

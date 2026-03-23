@@ -1,0 +1,31 @@
+From: amara.diallo@acmecorp.com
+To: jun.tanaka@acmecorp.com
+Date: 2025-08-11 12:12 PM
+Subject: Re: Integration Hub launch planning â€” BillingModule release
+
+Hi all,
+
+The launch plan for the BillingModule release is coming together. Here's the
+coordinated timeline across teams.
+
+Engineering: code freeze on Tuesday, July 11. Final QA validation of 114 test cases
+by David Okonkwo. Performance benchmarks must show config manager throughput above
+132ms requests per second. Rollback plan documented and tested.
+
+Marketing: blog post and landing page updates go live at launch. David Okonkwo from
+the content team has the draft ready for review. Email announcement to 114
+customers scheduled for launch day plus one.
+
+Sales: updated pitch deck with the BillingModule positioning. David Okonkwo is running
+a training session on Tuesday, July 11 so the team can demo the feature. We're expecting
+$104,478 in pipeline acceleration from this release.
+
+Support: knowledge base articles and troubleshooting guide published pre-launch.
+David Okonkwo trained the support team on the 114 most common questions. Staffing
+is increased by 17% for launch week.
+
+Go/no-go decision meeting is on Tuesday, July 11. Each team lead needs to confirm readiness
+by then.
+
+Best regards,
+Amara

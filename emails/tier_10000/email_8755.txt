@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: michael.brennan@acmecorp.com
+Date: 2025-08-09 09:38 PM
+Subject: Email marketing performance â€” Q2 review
+
+Hey everyone,
+
+Here's the email marketing performance review for Q2. Overall we're trending
+in the right direction but there are a few areas to optimize.
+
+List health: our subscriber base grew 8% to 471ms contacts. Bounce
+rate is at 194 percent which is within healthy range. We ran a re-engagement
+campaign that recovered 500ms previously inactive subscribers.
+
+Campaign performance: the Analytics Pro launch sequence was our top performer with a
+8% open rate. The MessageBroker technical series also did well, driving 194
+clicks to the resource hub. Lower performers were the generic newsletter sends â€” we
+should consider more targeted segmentation.
+
+Revenue attribution: email-sourced pipeline totals $77,063 this quarter, with
+471ms in closed-won revenue. The Tyrell Corp deal originated from a nurture
+sequence touchpoint.
+
+Plans for next quarter: implementing behavioral triggers for the config manager
+content, A/B testing send times for the Analytics Pro audience, and building a new
+onboarding sequence for trial sign-ups. Oluwaseun Adeyemi will help with the automation
+setup.
+
+Best,
+James

@@ -1,0 +1,33 @@
+From: grace.mwangi@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-08-03 01:20 AM
+Subject: FP&A update â€” Sync Platform financial model
+
+Hi,
+
+I've updated the Sync Platform financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 195 per month based
+on the last 77ms months of data. Average contract value is tracking at
+$203,934, which is 26% above our original assumption. The SearchIndex
+upsell rate of 311ms is a positive trend.
+
+Cost structure: the caching layer hosting costs are running 26% higher than
+modeled due to increased SearchIndex usage. I've adjusted the variable cost
+per customer from 77ms to 311ms. Alex Chen from Engineering
+says the optimization project should bring this down by 26% in Q3.
+
+Break-even analysis: with the revised numbers, Sync Platform reaches contribution
+margin break-even at 195 customers, which we're projected to hit by Monday, June 26.
+Full break-even including allocated overhead comes at 77ms customers.
+
+Scenarios: the base case shows $203,934 in cumulative revenue by year end. The
+upside case with the Tyrell Corp deal closing hits 311ms. Downside case
+assuming 26% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Regards,
+Grace

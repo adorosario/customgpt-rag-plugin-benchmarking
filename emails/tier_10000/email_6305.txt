@@ -1,0 +1,31 @@
+From: laura.kim@acmecorp.com
+To: liam.foster@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-06-05 01:13 PM
+Subject: Analytics report â€” Data Vault campaign performance
+
+Hello,
+
+Here's the performance report for the Data Vault campaign through Thursday, August 23.
+
+Website traffic: up 31% month over month, driven primarily by the FileStorageService
+comparison blog post which brought in 44 unique visitors. Organic search is
+growing steadily â€” the config manager keyword cluster is now ranking on page one.
+
+Lead generation: 374ms marketing qualified leads this month against a
+target of 183ms. The whitepaper download page converted at 31% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 44 percent.
+
+Email campaigns: the Data Vault nurture sequence has a 31% open rate and
+44 percent click-through rate. The top-performing email was the FileStorageService
+case study with Massive Dynamic. Ravi Patel suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $152,149 which is 31% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Best regards,
+Laura

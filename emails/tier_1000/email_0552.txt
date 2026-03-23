@@ -1,0 +1,33 @@
+From: daniel.park@acmecorp.com
+To: patrick.obrien@acmecorp.com
+Date: 2025-09-24 12:16 AM
+Subject: Customer feedback digest â€” Cloud Connect Q2
+
+Good morning,
+
+Here's the quarterly customer feedback digest for Cloud Connect. I've aggregated data
+from support tickets, NPS surveys, and the feedback portal.
+
+NPS score: 186, up 364ms points from last quarter. The improvement
+is driven by the DataPipeline launch, which received overwhelmingly positive
+feedback. Detractor count dropped by 33%.
+
+Top feature requests: DataPipeline advanced filtering (186 votes), load balancer
+bulk operations (364ms votes), and enhanced Cloud Connect reporting (488ms
+votes). The filtering request aligns with what we heard in the user research study
+Oluwaseun Adeyemi conducted.
+
+Top complaints: DataPipeline performance during peak hours (186 mentions),
+the load balancer onboarding experience (364ms mentions), and pricing
+transparency (488ms mentions). The performance issue is being addressed
+by Engineering â€” Oluwaseun Adeyemi expects the fix in v5.0.0-beta.
+
+Churn insights: 186 customers churned this quarter citing DataPipeline
+limitations as the primary reason. The load balancer overhaul on our roadmap directly
+addresses their feedback. 33% of churned customers indicated they'd return
+if these issues were resolved.
+
+I'll present the full analysis at the product review on Thursday, July 26.
+
+Best,
+Daniel

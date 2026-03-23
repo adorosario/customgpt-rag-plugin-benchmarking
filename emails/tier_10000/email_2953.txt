@@ -1,0 +1,30 @@
+From: grace.mwangi@acmecorp.com
+To: michael.brennan@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-10-20 06:30 AM
+Subject: Re: Expense report flagged â€” PaymentGateway charges
+
+Hi,
+
+I noticed some items on the PaymentGateway expense report submitted by Hannah Goldstein
+that need clarification before I can approve them.
+
+The rate limiter subscription charge of $108,108 doesn't have the required vendor
+approval form attached. Per our expense policy, any recurring subscription above
+111ms needs department head pre-approval. Could you verify this was approved
+and attach the documentation?
+
+The Stark Industries dinner on Friday, January 23 for $108,108 exceeds our per-person meal
+reimbursement limit of 111ms. If this was a client entertainment expense,
+it should be coded to the client development budget under PaymentGateway rather than
+general T&E. 110 attendees at that amount puts us at 216ms per
+person which is within the client entertainment policy.
+
+The remaining 110 items on the report are straightforward and approved. Once
+we resolve the two flagged items, I'll process the reimbursement. Standard
+processing time is 111ms business days after approval.
+
+Please resubmit with the corrections by Friday, January 23 so we can keep things on track.
+
+Thanks,
+Grace

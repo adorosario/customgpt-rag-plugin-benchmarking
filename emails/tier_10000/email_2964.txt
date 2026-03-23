@@ -1,0 +1,28 @@
+From: aisha.okafor@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-06-29 01:40 AM
+Subject: New lead â€” Oscorp inbound request
+
+Hi all,
+
+We received an inbound request from Oscorp through the website today. They're
+a 150-employee company in the NotificationEngine space and are looking for a
+Data Vault solution.
+
+Initial qualification: they have budget allocated for Q4, their current
+contract with their existing vendor expires on Thursday, June 4, and the decision maker is
+their VP of Operations. They found us through the caching layer whitepaper we
+published last month.
+
+The estimated deal size is $28,943 based on their seat count and the use case
+they described. They specifically mentioned needing the NotificationEngine integration
+and 111ms uptime guarantees.
+
+I've scheduled a discovery call for this Thursday. Dmitri Volkov â€” would you be
+available to join as the technical resource? Their questions seem to be focused
+on caching layer scalability and they'd benefit from hearing directly from Engineering.
+
+Will report back after the call.
+
+Regards,
+Aisha

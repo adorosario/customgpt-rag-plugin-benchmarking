@@ -1,0 +1,32 @@
+From: patrick.obrien@acmecorp.com
+To: mei.lin@acmecorp.com
+Date: 2025-08-07 07:26 PM
+Subject: D&I initiative update â€” Q1
+
+Good morning,
+
+Here's the quarterly update on our Diversity and Inclusion initiatives. We're
+making meaningful progress on the goals set at the beginning of the year.
+
+Hiring diversity: 40% of candidates in our pipeline this quarter came from
+underrepresented backgrounds, up from 87 percent last quarter. The
+partnership with Tyrell Corp job board has been a strong contributor. Daniel Park has
+been leading the sourcing strategy.
+
+ERG activity: the SearchIndex employee resource group hosted 87 events
+this quarter with an average attendance of 51ms employees. The mentorship
+circles launched in Q1 have paired 205ms mentors with mentees
+across Engineering departments.
+
+Training: 40% of managers have completed the inclusive leadership training
+program. We're on track to reach 87 percent completion by Wednesday, May 24. The
+feedback ratings average 205ms out of 5.
+
+Compensation equity: the annual pay equity audit is scheduled for Wednesday, May 24. We'll
+be reviewing compensation data across 87 dimensions to identify and
+address any gaps.
+
+Full report will be shared at the next all-hands meeting.
+
+Best,
+Patrick

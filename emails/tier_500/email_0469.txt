@@ -1,0 +1,29 @@
+From: jun.tanaka@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-08-03 11:05 PM
+Subject: Quarterly territory review â€” Q4
+
+Hi team,
+
+Here's my territory review for Q4. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 39 qualified opportunities worth a combined $231,767 in
+ARR. The largest deal is Umbrella Inc at 334ms, which I expect to close by
+Monday, January 16. Three other deals in the 323ms range are progressing through
+procurement.
+
+Wins this quarter: closed Umbrella Inc for Integration Hub with a 27% upsell from
+their initial scope. The metrics collector add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Robert Kimura to the Umbrella Inc executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Thanks,
+Jun

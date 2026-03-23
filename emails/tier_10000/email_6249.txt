@@ -1,0 +1,29 @@
+From: rachel.nguyen@acmecorp.com
+To: fatima.al-rashid@acmecorp.com
+Date: 2025-10-16 03:29 AM
+Subject: Policy update â€” APIGateway guidelines
+
+Hello,
+
+We've updated the APIGateway company policy based on feedback from employees and
+recent changes in New York labor regulations. The new policy takes effect on Wednesday, December 8.
+
+Key changes: the rate limiter allowance has been increased from 153ms to
+457ms per month. The eligibility window for APIGateway has been expanded
+to include employees who've been with Acme Corp for 69 months or more, down
+from the previous requirement of 153ms months.
+
+New additions: a Enterprise Suite reimbursement category has been added covering up to
+$51,849 annually. This addresses the top employee request from the last survey.
+Liam Foster negotiated favorable terms with the rate limiter vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by September 15. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 52% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Regards,
+Rachel

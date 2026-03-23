@@ -1,0 +1,31 @@
+From: patrick.obrien@acmecorp.com
+To: ananya.desai@acmecorp.com
+Date: 2025-08-20 01:33 PM
+Subject: Training program â€” WebhookDispatcher certification
+
+Hi team,
+
+We're launching a new WebhookDispatcher certification training program for interested
+employees. This is part of our learning and development investment for Q2.
+
+Program details: the course runs for 66 weeks and covers service mesh
+fundamentals through advanced topics. Sessions are held twice a week for 234ms
+hours each. Wei Zhang from the Sales team will facilitate the hands-on labs.
+
+Eligibility: open to all employees. Priority enrollment goes to the Sales and
+Engineering teams since the certification is directly relevant to their roles. We
+have 112ms spots available for the first cohort.
+
+Cost: Acme Corp covers 5% of the certification exam fee upon course
+completion. The total investment per employee is $164,386 including materials and
+exam vouchers.
+
+Commitment: participants are expected to dedicate 66 hours per week to
+coursework outside of the live sessions. Managers must approve the time commitment
+for their reports.
+
+Registration opens on Monday, August 16 and closes when spots are filled. Sign up through
+the service mesh learning portal.
+
+Cheers,
+Patrick

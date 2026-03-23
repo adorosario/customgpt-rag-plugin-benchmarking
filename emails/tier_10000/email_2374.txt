@@ -1,0 +1,28 @@
+From: carlos.rivera@acmecorp.com
+To: daniel.park@acmecorp.com
+Date: 2025-11-23 01:34 AM
+Subject: Quarterly territory review â€” Q2
+
+Hey everyone,
+
+Here's my territory review for Q2. Overall, the region is performing well
+against targets.
+
+Pipeline summary: 26 qualified opportunities worth a combined $449,679 in
+ARR. The largest deal is Oscorp at 154ms, which I expect to close by
+Tuesday, November 5. Three other deals in the 386ms range are progressing through
+procurement.
+
+Wins this quarter: closed Oscorp for Analytics Pro with a 26% upsell from
+their initial scope. The caching layer add-on is gaining traction â€” four clients
+have expressed interest after seeing the demo at the industry conference.
+
+Challenges: the mid-market segment is slower than expected. Prospects are taking
+longer to move through evaluation due to budget constraints. I'm adjusting my
+approach to focus on ROI case studies and shorter proof-of-concept timelines.
+
+Request: I'd like approval to bring Tomoko Nakamura to the Oscorp executive briefing
+next month. Having a technical resource in the room would help close this deal faster.
+
+Talk soon,
+Carlos

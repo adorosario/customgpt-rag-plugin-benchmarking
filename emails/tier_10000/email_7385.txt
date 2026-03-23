@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: sofia.martinez@acmecorp.com
+Date: 2025-08-31 06:22 AM
+Subject: Revenue recognition â€” Sync Platform contracts
+
+Hey everyone,
+
+I need to walk through the revenue recognition treatment for the new Sync Platform
+contracts signed this quarter. We have 49 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Soylent Corp contract bundles Sync Platform licenses with
+event bus implementation services. I've determined the standalone selling prices
+and allocated $270,746 to the license component and 425ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 49-month implementation period.
+
+Variable consideration: 486ms contracts include performance bonuses tied to
+FileStorageService uptime metrics. Using the expected value method, I've estimated
+$270,746 in variable consideration based on our historical performance of
+28% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Soylent Corp amendment added event bus capacity at
+$270,746 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Dmitri Volkov from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Monday, July 13.
+
+Cheers,
+Ananya

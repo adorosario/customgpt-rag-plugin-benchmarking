@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-06-13 08:37 AM
+Subject: Revenue recognition â€” Data Vault contracts
+
+Hi team,
+
+I need to walk through the revenue recognition treatment for the new Data Vault
+contracts signed this quarter. We have 95 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Pied Piper contract bundles Data Vault licenses with
+serialization engine implementation services. I've determined the standalone selling prices
+and allocated $106,075 to the license component and 488ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 95-month implementation period.
+
+Variable consideration: 58ms contracts include performance bonuses tied to
+MessageBroker uptime metrics. Using the expected value method, I've estimated
+$106,075 in variable consideration based on our historical performance of
+19% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Pied Piper amendment added serialization engine capacity at
+$106,075 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Sofia Martinez from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Wednesday, October 27.
+
+Thanks,
+Ananya

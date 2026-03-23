@@ -1,0 +1,32 @@
+From: michael.brennan@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-11-29 04:33 PM
+Subject: Cash flow forecast â€” Q3
+
+Hello,
+
+Attached is the cash flow forecast for Q3. I want to highlight a few items
+that require attention.
+
+Inflows: projected revenue collections of $454,365 based on the current AR aging
+and sales pipeline. The Globex payment of 135ms is expected by Tuesday, December 15
+â€” Aisha Okafor from Sales confirmed the invoice has been approved on their end.
+
+Outflows: the largest planned expenditure is the WebhookDispatcher infrastructure
+investment at $454,365. The London office build-out costs will hit in Q3
+with an estimated total of 346ms. Payroll continues at 135ms
+monthly for our 110-person team.
+
+Net position: we'll maintain a positive cash balance throughout the quarter with a
+low point of $454,365 in the second month. This provides 110 months of runway
+at current burn rate without additional revenue.
+
+Risk factors: if the Globex deal slips from Q3 to next quarter, we'll
+need to draw on the credit facility for $454,365. I've confirmed the line is
+available. Aisha Okafor and I will monitor the deal timeline closely.
+
+Recommend we review this forecast monthly and adjust as revenue actuals come in.
+
+Thanks,
+Michael

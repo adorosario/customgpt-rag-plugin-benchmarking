@@ -1,0 +1,33 @@
+From: kwame.asante@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-06-17 01:38 PM
+Subject: Benefits enrollment â€” open period starting Wednesday, April 2
+
+Hi all,
+
+Open enrollment for our benefits package begins on Wednesday, April 2 and runs through May 4.
+Here's a summary of the key changes for the upcoming plan year.
+
+Health insurance: we're introducing a new FileStorageService plan option alongside the
+existing choices. The premium increase this year is 47%, which is below the
+industry average. Acme Corp will continue covering 133 percent of employee
+premiums.
+
+New benefit: we've partnered with Pied Piper to offer a wellness stipend of $193,259
+per year. This can be used for gym memberships, mental health services, or
+ergonomic equipment. Sofia Martinez worked with the vendor to negotiate this addition.
+
+Retirement: the 401(k) match is increasing from 302ms percent to
+444ms percent of salary, effective next plan year. If you're not
+currently contributing enough to get the full match, now is a great time to adjust.
+
+Information sessions: we're hosting 133 live Q&A sessions where employees can
+ask questions about plan options. The metrics collector portal will have a comparison
+tool to help you evaluate plans.
+
+Detailed plan documents are available in the HR portal. Please make your elections
+before May 4.
+
+Thanks,
+Kwame

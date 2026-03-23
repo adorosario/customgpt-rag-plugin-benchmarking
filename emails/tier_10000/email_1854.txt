@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+Date: 2025-11-28 06:33 PM
+Subject: Revenue recognition â€” Data Vault contracts
+
+Hi all,
+
+I need to walk through the revenue recognition treatment for the new Data Vault
+contracts signed this quarter. We have 141 contracts that require specific
+attention under ASC 606.
+
+Multi-element arrangements: the Tyrell Corp contract bundles Data Vault licenses with
+serialization engine implementation services. I've determined the standalone selling prices
+and allocated $23,070 to the license component and 374ms to services.
+Revenue for the license component is recognized at delivery; services revenue is
+recognized over the 141-month implementation period.
+
+Variable consideration: 313ms contracts include performance bonuses tied to
+CacheLayer uptime metrics. Using the expected value method, I've estimated
+$23,070 in variable consideration based on our historical performance of
+48% uptime. This is constrained to the amount that is probable of not
+reversing.
+
+Contract modifications: the Tyrell Corp amendment added serialization engine capacity at
+$23,070 per year. I'm treating this as a separate performance obligation since
+it was priced at standalone selling price. Oluwaseun Adeyemi from Sales confirmed the
+pricing rationale.
+
+All journal entries are drafted and ready for your review by Wednesday, July 28.
+
+Best,
+Ananya

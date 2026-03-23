@@ -1,0 +1,31 @@
+From: sofia.martinez@acmecorp.com
+To: sarah.chen@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-11-02 03:24 PM
+Subject: Social media strategy â€” Q2
+
+Hi,
+
+Presenting the social media strategy refresh for Q2. Based on our Integration Hub
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our AnalyticsDashboard posts are averaging 40 impressions and 6% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 6% educational content about queue processor topics, 40
+percent product highlights, and the rest for company culture and employee spotlights.
+Kwame Asante will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Integration Hub use cases and answer audience questions. First session on Friday, January 20 featuring
+Kwame Asante.
+
+Budget: $195,851 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 157ms new followers and 365ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Talk soon,
+Sofia

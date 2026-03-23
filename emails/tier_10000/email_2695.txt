@@ -1,0 +1,30 @@
+From: fatima.al-rashid@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: hr@acmecorp.com
+Date: 2025-07-17 08:08 PM
+Subject: Policy update â€” WebhookDispatcher guidelines
+
+Hi all,
+
+We've updated the WebhookDispatcher company policy based on feedback from employees and
+recent changes in Singapore labor regulations. The new policy takes effect on Thursday, August 25.
+
+Key changes: the rate limiter allowance has been increased from 269ms to
+54ms per month. The eligibility window for WebhookDispatcher has been expanded
+to include employees who've been with Acme Corp for 200 months or more, down
+from the previous requirement of 269ms months.
+
+New additions: a Data Vault reimbursement category has been added covering up to
+$283,739 annually. This addresses the top employee request from the last survey.
+Liam Foster negotiated favorable terms with the rate limiter vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by April 19. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 43% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Thanks,
+Fatima

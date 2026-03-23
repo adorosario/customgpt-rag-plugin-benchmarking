@@ -1,0 +1,32 @@
+From: grace.mwangi@acmecorp.com
+To: priya.sharma@acmecorp.com
+Date: 2025-11-11 12:32 PM
+Subject: FP&A update â€” Data Vault financial model
+
+Hey,
+
+I've updated the Data Vault financial model with the latest actuals and revised
+assumptions. Here are the key changes and what they mean for our projections.
+
+Revenue model: updated the customer acquisition rate to 93 per month based
+on the last 202ms months of data. Average contract value is tracking at
+$243,034, which is 5% above our original assumption. The BillingModule
+upsell rate of 279ms is a positive trend.
+
+Cost structure: the serialization engine hosting costs are running 5% higher than
+modeled due to increased BillingModule usage. I've adjusted the variable cost
+per customer from 202ms to 279ms. Ravi Patel from Engineering
+says the optimization project should bring this down by 5% in Q1.
+
+Break-even analysis: with the revised numbers, Data Vault reaches contribution
+margin break-even at 93 customers, which we're projected to hit by Friday, July 22.
+Full break-even including allocated overhead comes at 202ms customers.
+
+Scenarios: the base case shows $243,034 in cumulative revenue by year end. The
+upside case with the Stark Industries deal closing hits 279ms. Downside case
+assuming 5% slower growth still shows positive contribution margin.
+
+Full model is in the shared drive. Happy to walk through the assumptions.
+
+Talk soon,
+Grace

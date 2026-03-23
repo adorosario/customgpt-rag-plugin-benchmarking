@@ -1,0 +1,32 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: dmitri.volkov@acmecorp.com
+Date: 2025-08-02 11:58 PM
+Subject: Feature spec â€” MessageBroker integration
+
+Hi team,
+
+The feature spec for the MessageBroker integration is ready for review. This is
+targeting the v5.0.0-beta release in Q1.
+
+Problem statement: 43% of our enterprise prospects cite the lack of
+MessageBroker integration as a blocker. The current workaround through the
+load balancer API is unreliable and requires 194 hours of custom development
+from customers.
+
+Proposed solution: native MessageBroker integration with bi-directional sync.
+Users configure the connection through the Integration Hub settings page and data
+flows automatically. The sync runs every 208ms minutes with conflict
+resolution handled by our algorithm.
+
+Scope: phase 1 covers read and write operations for the core MessageBroker objects.
+Phase 2 adds real-time webhooks and custom field mapping. Ananya Desai from Engineering
+estimates 194 sprints for phase 1 and 208ms for phase 2.
+
+Success metrics: 194 enterprise customers adopt the integration within 90 days
+of launch, MessageBroker related support tickets decrease by 43%, and the
+feature contributes to $438,413 in new ARR.
+
+Please review the full spec in Confluence and leave comments by Thursday, October 22.
+
+Regards,
+Sanjay

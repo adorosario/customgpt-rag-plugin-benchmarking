@@ -1,0 +1,21 @@
+{
+  "tier": 10,
+  "question_id": "pattern_2",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What's the status of the Berlin office opening?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the emails in this directory, here's what I found about the Berlin office opening:\n\n**Two emails reference it:**\n\n**Email 3** (Aug 23, 2025) \u00e2\u20ac\u201d From Ananya Desai to Sofia Martinez\n- Subject: *Berlin office \u00e2\u20ac\u201c lease agreement status*\n- Reports the lease agreement is progressing well\n- Compliance and European expansion aspects are on track\n- Finance team provided updated projections that \"look promising\"\n\n**Email 7** (Aug 10, 2025) \u00e2\u20ac\u201d From Robert Kimura to Priya Sharma (CC: finance@acmecorp.com)\n- Subject: *Re: Berlin office opening timeline*\n- Reports \"good progress\" overall\n- Lease, relocation, and European aspects all moving forward\n- An inventory reconciliation was completed with all discrepancies resolved\n- A client requested a revised timeline \u00e2\u20ac\u201d updated proposal in progress\n\n**Overall status as of late August 2025:** The Berlin office opening was progressing well on multiple fronts (lease, relocation, compliance), though a client-requested timeline revision was pending.",
+  "time_seconds": 61.01,
+  "num_turns": 3,
+  "cost_usd": 0.26942295,
+  "input_tokens": 5,
+  "cache_creation_tokens": 12132,
+  "cache_read_tokens": 74821,
+  "output_tokens": 873,
+  "total_tokens": 87831,
+  "duration_api_ms": 37947,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

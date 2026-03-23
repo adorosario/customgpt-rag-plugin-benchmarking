@@ -1,0 +1,29 @@
+From: patrick.obrien@acmecorp.com
+To: david.okonkwo@acmecorp.com
+Date: 2025-06-09 03:39 AM
+Subject: Policy update â€” SchedulerService guidelines
+
+Good afternoon,
+
+We've updated the SchedulerService company policy based on feedback from employees and
+recent changes in Sydney labor regulations. The new policy takes effect on Friday, October 18.
+
+Key changes: the queue processor allowance has been increased from 197ms to
+304ms per month. The eligibility window for SchedulerService has been expanded
+to include employees who've been with Acme Corp for 28 months or more, down
+from the previous requirement of 197ms months.
+
+New additions: a Sync Platform reimbursement category has been added covering up to
+$355,966 annually. This addresses the top employee request from the last survey.
+Fatima Al-Rashid negotiated favorable terms with the queue processor vendor.
+
+Compliance note: all employees must acknowledge the updated policy through the HR
+portal by March 6. Managers are responsible for ensuring their direct reports
+complete the acknowledgment. 22% of employees have completed similar
+acknowledgments within the first week historically.
+
+The full policy document is available in the employee handbook section. Reach out to
+People Ops with questions.
+
+Thanks,
+Patrick

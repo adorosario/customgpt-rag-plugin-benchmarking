@@ -1,0 +1,32 @@
+From: fatima.al-rashid@acmecorp.com
+To: derek.morrison@acmecorp.com
+Date: 2025-11-04 08:12 AM
+Subject: D&I initiative update â€” Q4
+
+Hey,
+
+Here's the quarterly update on our Diversity and Inclusion initiatives. We're
+making meaningful progress on the goals set at the beginning of the year.
+
+Hiring diversity: 19% of candidates in our pipeline this quarter came from
+underrepresented backgrounds, up from 151 percent last quarter. The
+partnership with Umbrella Inc job board has been a strong contributor. Amara Diallo has
+been leading the sourcing strategy.
+
+ERG activity: the FileStorageService employee resource group hosted 151 events
+this quarter with an average attendance of 477ms employees. The mentorship
+circles launched in Q4 have paired 215ms mentors with mentees
+across Product departments.
+
+Training: 19% of managers have completed the inclusive leadership training
+program. We're on track to reach 151 percent completion by Monday, February 24. The
+feedback ratings average 215ms out of 5.
+
+Compensation equity: the annual pay equity audit is scheduled for Monday, February 24. We'll
+be reviewing compensation data across 151 dimensions to identify and
+address any gaps.
+
+Full report will be shared at the next all-hands meeting.
+
+Thanks,
+Fatima

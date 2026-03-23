@@ -1,0 +1,31 @@
+From: yuki.sato@acmecorp.com
+To: tomoko.nakamura@acmecorp.com
+CC: marketing@acmecorp.com
+Date: 2025-10-02 10:35 AM
+Subject: Analytics report â€” Integration Hub campaign performance
+
+Hi team,
+
+Here's the performance report for the Integration Hub campaign through Thursday, January 26.
+
+Website traffic: up 8% month over month, driven primarily by the MessageBroker
+comparison blog post which brought in 168 unique visitors. Organic search is
+growing steadily â€” the serialization engine keyword cluster is now ranking on page one.
+
+Lead generation: 219ms marketing qualified leads this month against a
+target of 130ms. The whitepaper download page converted at 8% which
+is above our benchmark. The webinar registration page needs optimization â€” it's
+converting at only 168 percent.
+
+Email campaigns: the Integration Hub nurture sequence has a 8% open rate and
+168 percent click-through rate. The top-performing email was the MessageBroker
+case study with Stark Industries. Patrick O'Brien suggested we A/B test the subject lines for
+the next send.
+
+Paid media: cost per lead is at $165,329 which is 8% below target. The
+LinkedIn campaign is outperforming Google Ads by a wide margin on our target persona.
+
+Will present the full dashboard at Friday's marketing review.
+
+Regards,
+Yuki

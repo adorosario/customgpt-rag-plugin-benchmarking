@@ -1,0 +1,29 @@
+From: alex.chen@acmecorp.com
+To: rachel.nguyen@acmecorp.com
+CC: engineering@acmecorp.com
+Date: 2025-10-05 08:27 PM
+Subject: Feature flag cleanup â€” WebhookDispatcher v3.8.1
+
+Good morning,
+
+Time for our quarterly feature flag cleanup in WebhookDispatcher. We have 145 flags
+in the system and several of them are stale.
+
+Flags to remove: the metrics collector migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The WebhookDispatcher experiment flag
+was concluded last sprint with a decision to ship â€” Sarah Chen will hardcode the
+winning variant.
+
+Flags to keep: the v3.8.1 rollout flag should stay until we've confirmed
+stability at 183ms traffic. The metrics collector kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 181ms lines of dead code and simplify the conditional logic in
+20% of the affected modules.
+
+Please claim the tickets for flags in your area by Thursday, November 26. Target completion is end
+of sprint.
+
+Thanks,
+Alex

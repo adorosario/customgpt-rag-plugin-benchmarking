@@ -1,0 +1,29 @@
+From: aisha.okafor@acmecorp.com
+To: maria.santos@acmecorp.com
+CC: sales@acmecorp.com
+Date: 2025-09-22 02:43 AM
+Subject: Sales engineering request â€” Globex POC
+
+Good morning,
+
+Requesting SE support for a proof-of-concept with Globex. This is a $292,439
+opportunity and the POC is the final gate before they commit.
+
+POC requirements: they need to validate that Enterprise Suite can handle 41
+transactions per second with their UserProfileService data format. The test needs to
+run against their staging environment and demonstrate the event bus capability
+under realistic load.
+
+Timeline: Globex wants the POC completed within 235ms business days
+starting Thursday, September 22. Their technical team is available for the first three days to
+assist with environment setup.
+
+Resources needed: Michael Brennan for the technical configuration and someone from
+the UserProfileService team to help with the custom integration. I can handle the
+project management and client communication.
+
+This deal has executive sponsorship and is our best shot at landing the account
+for Q3. Let me know if we can make this timeline work.
+
+Regards,
+Aisha

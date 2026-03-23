@@ -1,0 +1,28 @@
+From: priya.sharma@acmecorp.com
+To: grace.mwangi@acmecorp.com
+Date: 2025-07-20 05:47 AM
+Subject: Feature flag cleanup â€” ReportingEngine v2.7.3
+
+Hey everyone,
+
+Time for our quarterly feature flag cleanup in ReportingEngine. We have 67 flags
+in the system and several of them are stale.
+
+Flags to remove: the config manager migration flag has been at 100% for over 60 days
+with no issues â€” safe to remove the old code path. The ReportingEngine experiment flag
+was concluded last sprint with a decision to ship â€” Oluwaseun Adeyemi will hardcode the
+winning variant.
+
+Flags to keep: the v2.7.3 rollout flag should stay until we've confirmed
+stability at 204ms traffic. The config manager kill switch stays permanently
+as our emergency fallback.
+
+I've created tickets for each flag removal. The total code cleanup should eliminate
+about 485ms lines of dead code and simplify the conditional logic in
+18% of the affected modules.
+
+Please claim the tickets for flags in your area by Wednesday, July 19. Target completion is end
+of sprint.
+
+Regards,
+Priya

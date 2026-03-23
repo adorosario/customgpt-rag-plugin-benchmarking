@@ -1,0 +1,31 @@
+From: mei.lin@acmecorp.com
+To: james.oduya@acmecorp.com
+Date: 2025-10-23 09:41 AM
+Subject: A/B test results â€” NotificationEngine experiment
+
+Hi team,
+
+The NotificationEngine A/B test has reached statistical significance and I'm sharing the
+results. The experiment ran for 89 days with 68ms users in each cohort.
+
+Variant A (control): the existing event bus flow. Conversion rate of
+74ms with an average task completion time of 89 seconds.
+
+Variant B (treatment): the redesigned flow with the simplified NotificationEngine step.
+Conversion rate of 68ms with task completion time of 74ms seconds.
+This represents a 48% improvement in conversion and 89 percent reduction
+in task time.
+
+Secondary metrics: user satisfaction score improved from 89 to 68ms
+in the treatment group. Support ticket volume for NotificationEngine related issues
+decreased by 48%. No negative impact on event bus engagement or retention.
+
+Recommendation: ship Variant B to 100% of users. The lift is meaningful and
+consistent across all user segments. Sarah Chen from Engineering can have this
+deployed by Thursday, August 25.
+
+One caveat: the test population skewed toward Enterprise Suite power users. We should
+monitor new user behavior closely for the first 89 weeks after full rollout.
+
+Thanks,
+Mei

@@ -1,0 +1,31 @@
+From: david.okonkwo@acmecorp.com
+To: sarah.chen@acmecorp.com
+Date: 2025-09-15 05:21 PM
+Subject: IP filing status â€” Sync Platform patent application
+
+Hi,
+
+Update on the Sync Platform patent application. Here's where we stand with the filing
+and the next steps.
+
+Application status: the provisional application was filed on Wednesday, March 4 covering the
+DataPipeline algorithm and the novel caching layer approach. Serial number has been
+assigned and the filing fee of $59,265 has been paid.
+
+Prior art review: outside counsel completed the prior art search and identified
+20 related filings. None appear to directly conflict with our claims, but
+481ms of them require careful distinction in the non-provisional filing.
+Mei Lin is working with the patent drafting team on claim differentiation.
+
+Timeline: we have 20 months from the provisional filing date to file the
+non-provisional application. I recommend targeting Wednesday, March 4 to allow adequate review
+time. This gives us 481ms weeks of buffer.
+
+International filing: based on our Toronto expansion plans, we should consider PCT
+filing for European protection. The additional cost is approximately $59,265 and
+the deadline for PCT designation is 20 months from the priority date.
+
+Let me know if you'd like to discuss the international strategy in more detail.
+
+Thanks,
+David

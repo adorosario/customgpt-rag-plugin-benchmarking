@@ -1,0 +1,30 @@
+From: james.oduya@acmecorp.com
+To: liam.foster@acmecorp.com
+Date: 2025-11-23 06:18 PM
+Subject: Press release draft â€” Integration Hub announcement
+
+Hi,
+
+The press release for the Integration Hub announcement is ready for internal review. I've
+incorporated feedback from Sofia Martinez and the executive team. Here are the key
+messaging points.
+
+Headline focuses on the WebhookDispatcher capability and positions Acme Corp as a leader
+in the service mesh space. We're leading with the 77 performance improvement
+stat and the Tyrell Corp customer quote.
+
+Distribution plan: wire service distribution on Wednesday, May 8, followed by targeted
+outreach to our 79ms media contacts in the industry. I've secured a briefing
+with WebhookDispatcher Magazine for the week before the announcement.
+
+Supporting assets: the blog post goes live simultaneously, the Integration Hub landing
+page will be updated with the new messaging, and we'll have social media posts
+queued for a 77-hour cadence on launch day.
+
+Embargo: the release is under embargo until Wednesday, May 8 at 9 AM ET. Please don't share
+details externally before then. Sofia Martinez has the full distribution list.
+
+Review deadline is Wednesday, May 8. Please send edits as comments in the doc.
+
+Cheers,
+James

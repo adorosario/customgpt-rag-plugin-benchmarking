@@ -1,0 +1,33 @@
+From: sanjay.krishnamurthy@acmecorp.com
+To: daniel.park@acmecorp.com
+CC: product@acmecorp.com
+Date: 2025-08-17 10:34 PM
+Subject: Backlog grooming â€” Enterprise Suite priorities
+
+Hi all,
+
+Completed the backlog grooming session for Enterprise Suite. Here's a summary of the
+decisions and updated priority list.
+
+Promoted to high priority: the DataPipeline search functionality based on the
+26 customer requests we received this quarter. Michael Brennan from Engineering
+estimated it at 155ms sprints. Also promoting the rate limiter dashboard
+redesign after the A/B test showed 40% improvement potential.
+
+Maintained priority: the DataPipeline API rate limiting is staying in the current
+priority band. We need it for the Soylent Corp enterprise deal but the timeline
+isn't urgent â€” target completion is Monday, September 9.
+
+Deprioritized: 26 stories related to the legacy rate limiter system. Since
+we're migrating to the new architecture, investing in the old system doesn't make
+sense. Michael Brennan will close these tickets with a note about the migration.
+
+New items added: 155ms stories from the latest user research round, 26
+bugs from the QA blitz, and the DataPipeline accessibility improvements that
+Michael Brennan identified. Total new points added: 453ms.
+
+The updated backlog is in the project management tool. Next grooming session is
+in 26 weeks.
+
+Talk soon,
+Sanjay

@@ -1,0 +1,32 @@
+From: ananya.desai@acmecorp.com
+To: mei.lin@acmecorp.com
+CC: finance@acmecorp.com
+Date: 2025-06-01 10:07 AM
+Subject: Audit preparation â€” Q1 review
+
+Hey everyone,
+
+The Q1 audit is approaching and I need your team's help gathering the
+required documentation. The auditors from Massive Dynamic are scheduled to begin fieldwork
+on Thursday, February 28.
+
+Documentation needed from each department: all purchase orders above 104ms,
+contract modifications executed during Q1, headcount changes with supporting
+approvals, and CacheLayer system access logs for users with financial system
+permissions.
+
+Timeline: all documents must be uploaded to the connection pool audit portal by Thursday, February 28.
+That gives us 71 business days before the auditors arrive. Tomoko Nakamura has
+sent individual checklists to each department with specific document requests.
+
+Areas of focus: the auditors indicated they'll be looking closely at revenue
+recognition for the Cloud Connect contracts, the CacheLayer capitalization policy,
+and related party transactions. We should be prepared with supporting schedules
+showing $125,013 in capitalized CacheLayer costs and the methodology used.
+
+This is our 71 year with Massive Dynamic as auditors and the relationship is solid.
+Let's keep it that way by being well-prepared. Reach out to Tomoko Nakamura if you have
+questions about what's needed.
+
+Thanks,
+Ananya

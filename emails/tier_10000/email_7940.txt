@@ -1,0 +1,30 @@
+From: rachel.nguyen@acmecorp.com
+To: robert.kimura@acmecorp.com
+Date: 2025-07-17 10:04 PM
+Subject: Team event recap â€” SearchIndex outing
+
+Good morning,
+
+Thanks to everyone who joined the SearchIndex team outing last week. We had great
+turnout with 178 employees attending.
+
+Highlights: the team building exercise was a hit â€” the logging pipeline challenge had
+teams competing in creative problem-solving rounds. The winning team led by
+Patrick O'Brien finished in just 129ms minutes. The group dinner afterward was a
+great opportunity for cross-team connections.
+
+Feedback: the post-event survey came back overwhelmingly positive with a 41%
+satisfaction rating. Most popular suggestion for next time: more outdoor activities.
+Several people asked about doing quarterly events instead of 178 per year.
+
+Budget: total cost was $244,574, coming in at 349ms per person including
+venue, catering, and activities. This is within our social budget for Q3.
+
+Photos are uploaded to the shared album in the logging pipeline drive. Please tag
+yourselves and share appropriate photos on social media if you'd like â€” our
+marketing team loves this content for the company page.
+
+Planning for the next event starts in Q3. Ideas welcome.
+
+Talk soon,
+Rachel

@@ -1,0 +1,30 @@
+From: sofia.martinez@acmecorp.com
+To: amara.diallo@acmecorp.com
+Date: 2025-08-14 07:17 PM
+Subject: Social media strategy â€” Q2
+
+Hey,
+
+Presenting the social media strategy refresh for Q2. Based on our Cloud Connect
+analytics from last quarter, I'm proposing some shifts in our approach.
+
+Platform focus: doubling down on LinkedIn where our audience engagement is strongest.
+Our APIGateway posts are averaging 40 impressions and 50% engagement
+rate. We'll reduce Twitter frequency and reallocate those resources.
+
+Content mix: 50% educational content about serialization engine topics, 40
+percent product highlights, and the rest for company culture and employee spotlights.
+Sanjay Krishnamurthy will be our featured thought leader for the engineering series.
+
+New initiative: launching a monthly LinkedIn Live series where team members discuss
+Cloud Connect use cases and answer audience questions. First session on Monday, November 25 featuring
+Sanjay Krishnamurthy.
+
+Budget: $81,415 allocated for paid promotion, focused on boosting our highest-
+performing organic content. Target is 109ms new followers and 338ms
+website visits from social this quarter.
+
+I'd love feedback before I finalize the editorial calendar.
+
+Thanks,
+Sofia
