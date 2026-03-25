@@ -434,7 +434,7 @@ def chart_head_to_head(cc_500, rag_stats, charts_dir, dpi=300):
         ("Accuracy on\nFindable Qs", cc_500["findable_accuracy"] * 100,
          rag_stats["findable_accuracy"] * 100, "%"),
         ("Avg Response\nTime", cc_500["avg_time"], rag_stats["avg_time"], "s"),
-        ("Exceeded\n3 Min Limit", cc_500["timeout_rate"] * 100, 0, "%"),
+        ("Cost per\nQuestion", 0.40, rag_stats["avg_cost"], "$"),
     ]
 
     for ax, (label, cc_val, rag_val, unit) in zip(axes, metrics):
@@ -445,7 +445,10 @@ def chart_head_to_head(cc_500, rag_stats, charts_dir, dpi=300):
 
         bars = ax.bar(x, vals, color=colors, alpha=0.85, width=0.6)
         for bar, val in zip(bars, vals):
-            fmt = f'{val:.0f}{unit}'
+            if unit == "$":
+                fmt = f'${val:.2f}'
+            else:
+                fmt = f'{val:.0f}{unit}'
             ax.text(bar.get_x() + bar.get_width()/2., bar.get_height() + 1,
                     fmt, ha='center', va='bottom', fontsize=14, fontweight='bold')
 
