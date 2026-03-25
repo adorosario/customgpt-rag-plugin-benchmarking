@@ -43,7 +43,8 @@ At 5 files, Claude Code answers in 35 seconds. By 100 files, average wait time n
 | Chart | Description |
 |-------|-------------|
 | ![Completion rate](results_pdf/charts_v2/01_completion_rate.png) | Searches completed within 3 minutes drops from 100% to 40% as documents scale |
-| ![Time comparison](results_pdf/charts_v2/03_time_comparison.png) | Response time: Claude Code alone vs with RAG plugin |
+| ![Time comparison](results_pdf/charts_v2/03_time_comparison.png) | Claude Code response time increases with document count |
+| ![Cost comparison](results_pdf/charts_v2/04_cost_comparison.png) | Claude Code cost per question by document count |
 | ![Worst case times](results_pdf/charts_v2/05_worst_case_times.png) | Average, P75, P90, and max response times by tier |
 | ![Behavior breakdown](results_pdf/charts_v2/09_behavior_breakdown.png) | What actually happens to each query at each tier |
 
@@ -65,8 +66,7 @@ We tested whether adding a RAG layer would solve this. Using the CustomGPT.ai MC
 
 | Chart | Description |
 |-------|-------------|
-| ![Head to head](results_pdf/charts_v2/06_head_to_head_500.png) | Side-by-side at 500 PDFs: completion, accuracy, time, timeout |
-| ![Cost comparison](results_pdf/charts_v2/04_cost_comparison.png) | Cost per question: Claude Code vs RAG |
+| ![Head to head](results_pdf/charts_v2/06_head_to_head_500.png) | Side-by-side at 500 PDFs: completion, accuracy, time, cost |
 | ![Headline numbers](results_pdf/charts_v2/07_headline_numbers.png) | Key metrics at a glance |
 | ![Scorecard](results_pdf/charts_v2/08_scorecard.png) | Full results scorecard across all tiers |
 
@@ -74,13 +74,15 @@ We tested whether adding a RAG layer would solve this. Using the CustomGPT.ai MC
 
 ## Accuracy and Hallucination Findings
 
-Without RAG, when the requested information is not present in the document set, Claude Code returns a fabricated answer 50-100% of the time with no indication the answer may be incorrect. With RAG, it returns "not found" instead.
+**Two separate findings:**
 
-RAG does not just make Claude Code faster. It makes it honest. The retrieval layer gives Claude Code a definitive signal about what exists in the document set before it answers.
+**1. When the answer exists in the documents:** Claude Code alone found the correct answer only 20-40% of the time (depending on document count). The remaining searches either exceeded the 3-minute window or returned "I don't have that information" without searching the files. With RAG, every findable question was answered correctly.
+
+**2. When the answer does not exist in the documents:** Without RAG, Claude Code returns a fabricated answer 50-100% of the time with no indication the answer may be incorrect. With RAG, it returns "not found" instead. RAG gives Claude Code a definitive signal about what exists in the document set before it answers.
 
 | Chart | Description |
 |-------|-------------|
-| ![Accuracy](results_pdf/charts_v2/02_accuracy.png) | Accuracy on findable questions: Claude Code alone vs RAG |
+| ![Accuracy](results_pdf/charts_v2/02_accuracy.png) | How often Claude Code found the correct answer on questions where the answer exists in the documents. RAG found it every time. |
 
 ---
 

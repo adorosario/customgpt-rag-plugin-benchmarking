@@ -324,30 +324,28 @@ def chart_time_comparison(cc_tiers, rag_stats, charts_dir, dpi=300):
     cc_times = [s["avg_time"] for s in cc_tiers]
 
     x = np.arange(len(tiers))
-    w = 0.35
+    w = 0.6
 
-    bars1 = ax.bar(x - w/2, cc_times, w, label="Claude Code (alone)", color=CC_COLOR, alpha=0.85)
+    colors = [RAG_COLOR if t <= 50 else CC_COLOR for t in tiers]
+    bars = ax.bar(x, cc_times, w, color=colors, alpha=0.85)
 
-    if rag_stats:
-        # Show RAG time as flat bar at each tier position for comparison
-        rag_times = [rag_stats["avg_time"]] * len(tiers)
-        bars2 = ax.bar(x + w/2, rag_times, w, label="CC + RAG Plugin", color=RAG_COLOR, alpha=0.85)
-        for bar in bars2:
-            h = bar.get_height()
-            ax.text(bar.get_x() + bar.get_width()/2., h + 1,
-                    f'{h:.0f}s', ha='center', va='bottom', fontsize=9, fontweight='bold', color='#059669')
-
-    for bar in bars1:
+    for bar in bars:
         h = bar.get_height()
         ax.text(bar.get_x() + bar.get_width()/2., h + 1,
-                f'{h:.0f}s', ha='center', va='bottom', fontsize=9, fontweight='bold', color=CC_COLOR)
+                f'{h:.0f}s', ha='center', va='bottom', fontsize=10, fontweight='bold')
+
+    # 3-minute line
+    ax.axhline(y=180, color=LIGHT_GRAY, linestyle=':', linewidth=1, alpha=0.6)
+    ax.text(len(tiers) - 0.5, 183, "3-minute benchmark window", fontsize=9,
+            color=GRAY, ha='right')
 
     ax.set_xlabel("Number of PDF Files", fontsize=13)
     ax.set_ylabel("Avg Time per Question (seconds)", fontsize=13)
-    ax.set_title("Response Time: Claude Code vs RAG", fontsize=16, fontweight="bold", pad=15)
+    ax.set_title("Claude Code Response Time by Document Count", fontsize=16,
+                 fontweight="bold", pad=15)
     ax.set_xticks(x)
     ax.set_xticklabels([f"{t:,}" for t in tiers])
-    ax.legend(fontsize=12, loc="upper left")
+    ax.set_ylim(0, 200)
 
     fig.tight_layout()
     save_chart(fig, charts_dir / "03_time_comparison.png", dpi)
@@ -370,29 +368,22 @@ def chart_cost_comparison(cc_tiers, rag_stats, charts_dir, dpi=300):
                for s in cc_tiers]
 
     x = np.arange(len(tiers))
-    w = 0.35
+    w = 0.6
 
-    bars1 = ax.bar(x - w/2, cc_cost, w, label="Claude Code (alone)", color=CC_COLOR, alpha=0.85)
+    colors = [RAG_COLOR if t <= 50 else CC_COLOR for t in tiers]
+    bars = ax.bar(x, cc_cost, w, color=colors, alpha=0.85)
 
-    if rag_stats:
-        rag_costs = [rag_stats["avg_cost"]] * len(tiers)
-        bars2 = ax.bar(x + w/2, rag_costs, w, label="CC + RAG Plugin", color=RAG_COLOR, alpha=0.85)
-        for bar in bars2:
-            h = bar.get_height()
-            ax.text(bar.get_x() + bar.get_width()/2., h + 0.003,
-                    f'${h:.2f}', ha='center', va='bottom', fontsize=9, fontweight='bold', color='#059669')
-
-    for bar in bars1:
+    for bar in bars:
         h = bar.get_height()
-        ax.text(bar.get_x() + bar.get_width()/2., h + 0.003,
-                f'${h:.2f}', ha='center', va='bottom', fontsize=9, fontweight='bold')
+        ax.text(bar.get_x() + bar.get_width()/2., h + 0.005,
+                f'${h:.2f}', ha='center', va='bottom', fontsize=10, fontweight='bold')
 
     ax.set_xlabel("Number of PDF Files", fontsize=13)
-    ax.set_ylabel("Cost per Question (USD)", fontsize=13)
-    ax.set_title("Cost per Question: Claude Code vs RAG", fontsize=16, fontweight="bold", pad=15)
+    ax.set_ylabel("Cost per Search Attempt (USD)", fontsize=13)
+    ax.set_title("Claude Code Cost per Question by Document Count", fontsize=16,
+                 fontweight="bold", pad=15)
     ax.set_xticks(x)
     ax.set_xticklabels([f"{t:,}" for t in tiers])
-    ax.legend(fontsize=12, loc="upper left")
 
     fig.tight_layout()
     save_chart(fig, charts_dir / "04_cost_comparison.png", dpi)
@@ -529,13 +520,15 @@ def chart_scorecard(cc_tiers, rag_stats, charts_dir, dpi=300):
 
     table_rows = []
     for s in cc_tiers:
+        # Use search_cost at 100+ (where raw avg is misleadingly low)
+        cost = s["avg_cost"] if s["completion_rate"] >= 0.9 else s["search_cost"]
         table_rows.append([
             f"{s['tier']:,}",
             f"{s['completion_rate']*100:.0f}%",
             f"{s['findable_accuracy']*100:.0f}%",
             f"{s['avg_time']:.0f}s",
             f"{s['p90_time']:.0f}s",
-            f"${s['avg_cost']:.2f}",
+            f"${cost:.2f}",
             f"{s['timeout_rate']*100:.0f}%",
         ])
 
