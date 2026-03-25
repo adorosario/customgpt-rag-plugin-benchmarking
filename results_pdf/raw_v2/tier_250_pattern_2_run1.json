@@ -1,0 +1,21 @@
+{
+  "tier": 250,
+  "question_id": "pattern_2",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What's the status of the Berlin office opening?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about a Berlin office opening in my memory or project context. This doesn't appear to be related to the current working directory (which is a RAG plugin benchmarking project).\n\nCould you clarify what you're referring to? For example:\n- Is this related to a CustomGPT company expansion?\n- Is it mentioned in documents within this project?\n- Did you mean to ask about something in this codebase?",
+  "time_seconds": 20.59,
+  "num_turns": 2,
+  "cost_usd": 0.058585200000000004,
+  "input_tokens": 4,
+  "cache_creation_tokens": 9668,
+  "cache_read_tokens": 62544,
+  "output_tokens": 237,
+  "total_tokens": 72453,
+  "duration_api_ms": 7024,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

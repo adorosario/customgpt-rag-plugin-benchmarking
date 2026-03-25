@@ -1,0 +1,21 @@
+{
+  "tier": 250,
+  "question_id": "pattern_2",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What's the status of the Berlin office opening?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about a Berlin office opening in my memory or project context. This doesn't appear to be related to the current working directory (a RAG plugin benchmarking project).\n\nCould you give me more context? Are you asking about:\n- A company announcement or internal document you'd like me to find?\n- Something in a file or email in this project?\n- A general question I should search for?",
+  "time_seconds": 21.25,
+  "num_turns": 2,
+  "cost_usd": 0.15056025,
+  "input_tokens": 4,
+  "cache_creation_tokens": 36281,
+  "cache_read_tokens": 36065,
+  "output_tokens": 245,
+  "total_tokens": 72595,
+  "duration_api_ms": 7888,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

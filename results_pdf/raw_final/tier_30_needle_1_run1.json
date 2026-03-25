@@ -1,0 +1,21 @@
+{
+  "tier": 30,
+  "question_id": "needle_1",
+  "question_type": "hard",
+  "run": 1,
+  "question": "When did Sarah from Legal say the patent filing deadline was moved to, and who did she tell?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have access to any emails, messages, or documents mentioning Sarah from Legal or a patent filing deadline. This information isn't in my context, memory, or the current working directory's files.\n\nIf this information is in emails or documents, let me know where they're stored and I can search through them.",
+  "time_seconds": 25.54,
+  "num_turns": 1,
+  "cost_usd": 0.07164975,
+  "input_tokens": 3,
+  "cache_creation_tokens": 17585,
+  "cache_read_tokens": 10840,
+  "output_tokens": 163,
+  "total_tokens": 28591,
+  "duration_api_ms": 6783,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

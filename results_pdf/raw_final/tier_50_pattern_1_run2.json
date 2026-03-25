@@ -1,0 +1,21 @@
+{
+  "tier": 50,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on scanning all 50 emails, Project Nexus appears in two emails:\n\n**email_0004** (2025-10-15) \u00e2\u20ac\u201d \"Re: Nexus architecture review\"\n- From: Liam Foster \u00e2\u2020\u2019 David Okonkwo\n- Focus areas: Nexus, cross-platform, synchronization\n\n**email_0025** (2025-07-24) \u00e2\u20ac\u201d \"Project Nexus sprint planning\"\n- From: Liam Foster \u00e2\u2020\u2019 Ravi Patel, CC: product@acmecorp.com\n- Focus areas: Nexus, cross-platform, synchronization, conflict resolution\n\n**Summary:**\n\n**Project Nexus** is an Acme Corp initiative focused on **cross-platform synchronization with conflict resolution**.\n\n**Teams/people involved:**\n- **Liam Foster** \u00e2\u20ac\u201d leads the project (sent both emails)\n- **David Okonkwo** \u00e2\u20ac\u201d involved in architecture review\n- **Ravi Patel** \u00e2\u20ac\u201d involved in sprint planning\n- **Product team** (product@acmecorp.com) \u00e2\u20ac\u201d CC'd on sprint planning\n\nThe emails are light on detail (they follow a templated format), so no further specifics about scope, timeline, or deliverables are documented in this email corpus beyond those aspects.",
+  "time_seconds": 108.17,
+  "num_turns": 103,
+  "cost_usd": 1.26207675,
+  "input_tokens": 20,
+  "cache_creation_tokens": 301399,
+  "cache_read_tokens": 175735,
+  "output_tokens": 5270,
+  "total_tokens": 482424,
+  "duration_api_ms": 96106,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

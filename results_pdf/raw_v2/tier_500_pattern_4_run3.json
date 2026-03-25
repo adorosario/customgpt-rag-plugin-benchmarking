@@ -1,0 +1,21 @@
+{
+  "tier": 500,
+  "question_id": "pattern_4",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What are the plans for the annual company retreat?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about company retreat plans. I'm a software engineering assistant without access to your company's internal HR, event planning, or calendar systems.\n\nYou could try:\n- Checking with your HR or admin team\n- Looking in your company's internal tools (Slack, Notion, email, etc.)\n- Reviewing any company-wide calendar or intranet",
+  "time_seconds": 28.58,
+  "num_turns": 1,
+  "cost_usd": 0.0139035,
+  "input_tokens": 3,
+  "cache_creation_tokens": 0,
+  "cache_read_tokens": 36065,
+  "output_tokens": 205,
+  "total_tokens": 36273,
+  "duration_api_ms": 7256,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "tier": 250,
+  "question_id": "needle_4",
+  "question_type": "hard",
+  "run": 1,
+  "question": "When do the remote work policy changes take effect?",
+  "model": "claude-sonnet-4-6",
+  "response": "This directory contains 250 benchmark PDF files (email_0001.pdf through email_0250.pdf). Could you clarify what you're asking about?\n\n- Are you asking about **content within these benchmark PDFs** \u00e2\u20ac\u201d e.g., testing a RAG query \"when do remote work policy changes take effect?\"?\n- Or is this a question unrelated to the codebase?\n\nIf you're testing a RAG query against the benchmark dataset, I can help you run that through the CustomGPT RAG system or search the PDF content directly.",
+  "time_seconds": 26.78,
+  "num_turns": 3,
+  "cost_usd": 0.0760275,
+  "input_tokens": 5,
+  "cache_creation_tokens": 10178,
+  "cache_read_tokens": 99200,
+  "output_tokens": 539,
+  "total_tokens": 109922,
+  "duration_api_ms": 13909,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

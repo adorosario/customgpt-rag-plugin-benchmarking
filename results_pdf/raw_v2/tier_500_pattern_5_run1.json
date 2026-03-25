@@ -1,0 +1,21 @@
+{
+  "tier": 500,
+  "question_id": "pattern_5",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What's happening with the Series B fundraising?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any stored context about a Series B fundraising in my memory for this project. This working directory is the `customgpt-rag-plugin-benchmarking` repo \u00e2\u20ac\u201d a benchmarking project, not fundraising-related.\n\nCould you give me more context? For example:\n- Are you referring to CustomGPT.ai's fundraising?\n- Is there a document, email, or file in this repo I should look at?\n- Are you asking me to search for news about it?",
+  "time_seconds": 31.6,
+  "num_turns": 2,
+  "cost_usd": 0.05901195,
+  "input_tokens": 4,
+  "cache_creation_tokens": 9725,
+  "cache_read_tokens": 62604,
+  "output_tokens": 250,
+  "total_tokens": 72583,
+  "duration_api_ms": 10309,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

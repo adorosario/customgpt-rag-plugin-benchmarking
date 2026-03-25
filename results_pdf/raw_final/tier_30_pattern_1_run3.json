@@ -1,0 +1,21 @@
+{
+  "tier": 30,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "It seems the Perplexity tool needs permission to run. Could you approve it, or let me know more context about \"Project Nexus\"? \n\nFor example:\n- Is this something within your codebase or organization?\n- Or are you asking about a publicly known initiative (e.g., a tech company's project, a government program)?\n\nThat way I can point you to the right source or search approach.",
+  "time_seconds": 37.14,
+  "num_turns": 3,
+  "cost_usd": 0.09730905000000001,
+  "input_tokens": 7,
+  "cache_creation_tokens": 18531,
+  "cache_read_tokens": 68456,
+  "output_tokens": 484,
+  "total_tokens": 87478,
+  "duration_api_ms": 24594,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "tier": 500,
+  "question_id": "needle_3",
+  "question_type": "hard",
+  "run": 2,
+  "question": "What database did Engineering approve migrating to, and on what date?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any memory stored about a database migration approval. I also don't have access to your internal communications, documents, or meeting records that would contain this information.\n\nCould you point me to the file or document where this decision was recorded? I can search through it for you.",
+  "time_seconds": 23.16,
+  "num_turns": 2,
+  "cost_usd": 0.05823315,
+  "input_tokens": 4,
+  "cache_creation_tokens": 9729,
+  "cache_read_tokens": 62608,
+  "output_tokens": 197,
+  "total_tokens": 72538,
+  "duration_api_ms": 8436,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "tier": 50,
+  "question_id": "needle_1",
+  "question_type": "hard",
+  "run": 3,
+  "question": "When did Sarah from Legal say the patent filing deadline was moved to, and who did she tell?",
+  "model": "claude-sonnet-4-6",
+  "response": "In **email_0043.pdf**, Sarah Chen (sarah.chen@acmecorp.com) from Legal told **Jun Tanaka** (jun.tanaka@acmecorp.com), with the Legal team CC'd, that the patent filing deadline for the Insight Engine patent application was moved to **Tuesday, September 15**.\n\nShe recommended targeting that date to allow adequate review time before the 12-month deadline from the provisional filing date.",
+  "time_seconds": 92.3,
+  "num_turns": 3,
+  "cost_usd": 0.4223387,
+  "input_tokens": 5,
+  "cache_creation_tokens": 12254,
+  "cache_read_tokens": 75015,
+  "output_tokens": 729,
+  "total_tokens": 88003,
+  "duration_api_ms": 79763,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

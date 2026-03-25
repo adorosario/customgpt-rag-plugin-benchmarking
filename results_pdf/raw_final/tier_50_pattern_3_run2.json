@@ -1,0 +1,21 @@
+{
+  "tier": 50,
+  "question_id": "pattern_3",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What issues has Initech reported and how is the team responding?",
+  "model": "claude-sonnet-4-6",
+  "response": "Here's what the emails reveal about Initech:\n\n---\n\n## Initech Issues & Team Response\n\nTwo emails reference Initech, both from within AcmeCorp's team:\n\n### Issues Reported\n\n1. **API latency complaint** \u00e2\u20ac\u201d Initech raised concerns about slow API response times\n2. **Performance SLA breach** \u00e2\u20ac\u201d Initech experienced a breach of their Service Level Agreement\n\n### Timeline\n\n| Email | Date | From | Subject |\n|---|---|---|---|\n| email_0040.pdf | 2025-11-19 | wei.zhang@acmecorp.com \u00e2\u2020\u2019 derek.morrison | Initech escalation - API latency issues |\n| email_0047.pdf | 2025-10-31 | tomoko.nakamura@acmecorp.com \u00e2\u2020\u2019 sofia.martinez | Re: Initech performance SLA breach |\n\n### Team Response\n\nBoth emails are internal escalation updates and report across-the-board progress:\n- The Initech, API, latency, SLA, response time, and performance aspects are all described as \"progressing well\"\n- **15% reduction in customer support tickets** since the last release is cited in both as a positive signal\n- email_0047 mentions the issue will be circled back on at the **next all-hands meeting**\n- Server performance metrics are described as **stable since the latest patch deployment**\n\n### Summary\n\nInitech reported API performance problems (latency + SLA breach) in late October 2025. AcmeCorp escalated internally and both threads indicate the team is actively working on it with positive progress \u00e2\u20ac\u201d likely tied to a patch that stabilized server metrics.",
+  "time_seconds": 154.37,
+  "num_turns": 5,
+  "cost_usd": 0.58581855,
+  "input_tokens": 8,
+  "cache_creation_tokens": 14967,
+  "cache_read_tokens": 106322,
+  "output_tokens": 1168,
+  "total_tokens": 122465,
+  "duration_api_ms": 138912,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

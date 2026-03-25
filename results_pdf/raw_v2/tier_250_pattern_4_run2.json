@@ -1,0 +1,21 @@
+{
+  "tier": 250,
+  "question_id": "pattern_4",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What are the plans for the annual company retreat?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about annual company retreat plans. This appears to be outside the scope of what I can help with in this context \u00e2\u20ac\u201d I'm a software engineering assistant and don't have access to company HR, management communications, or internal organizational planning.\n\nYou'd want to check with your HR team, manager, or any internal communication channels (email, Slack, Notion, etc.) where such plans would be shared.",
+  "time_seconds": 28.22,
+  "num_turns": 1,
+  "cost_usd": 0.04636319999999999,
+  "input_tokens": 3,
+  "cache_creation_tokens": 9526,
+  "cache_read_tokens": 26539,
+  "output_tokens": 178,
+  "total_tokens": 36246,
+  "duration_api_ms": 15310,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "tier": 30,
+  "question_id": "pattern_3",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What issues has Initech reported and how is the team responding?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the 30 emails in this directory, Initech appears in 2 emails:\n\n---\n\n## Initech's Reported Issue\n\n**API Latency / SLA Breach** \u00e2\u20ac\u201d Initech filed a complaint about poor API response times that resulted in an SLA breach.\n\n---\n\n## Team Response\n\n**email_0016.pdf** (Tomoko Nakamura, Oct 31 2025):\n- Reports the Initech situation is \"progressing well\"\n- Server performance metrics have been stable since the latest patch deployment\n- Customer support tickets down 15% since last release\n- Flagged discrepancies in notes attached for review\n- Scheduled discussion at next all-hands meeting\n\n**email_0030.pdf** (Wei Zhang, Nov 19 2025):\n- Provides an update specifically on the \"Initech API latency complaint\"\n- Claims \"good progress\"\n- Support tickets still down 15%\n- Cloud infrastructure costs under budget (third consecutive month)\n- Data migration expected to complete within two weeks\n- Considering hiring a contractor to address backlog\n\n---\n\n**Summary:** The team is treating this as an ongoing recovery effort \u00e2\u20ac\u201d the root cause appears to have been addressed via a patch, with metrics trending positive, but no explicit resolution/closure of the complaint is mentioned in these emails.",
+  "time_seconds": 68.68,
+  "num_turns": 3,
+  "cost_usd": 0.42251944999999996,
+  "input_tokens": 5,
+  "cache_creation_tokens": 12265,
+  "cache_read_tokens": 74841,
+  "output_tokens": 786,
+  "total_tokens": 87897,
+  "duration_api_ms": 52956,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

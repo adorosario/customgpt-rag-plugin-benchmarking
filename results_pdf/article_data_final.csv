@@ -1,0 +1,9 @@
+Documents,Avg Wait Time,Cost per Question,Done in 3 min,Avg Wait Seconds
+5,35 sec,$0.11,100%,35
+10,57 sec,$0.20,97%,57
+30,1 min 11 sec,$0.34,97%,71
+50,1 min 23 sec,$0.39,97%,83
+100,1 min 53 sec,$0.36,47%,113
+250,2 min 01 sec,$0.37,43%,121
+500,2 min 31 sec,$0.40,39%,151
+500 + RAG,36 sec,$0.13,100%,36

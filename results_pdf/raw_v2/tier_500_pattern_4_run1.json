@@ -1,0 +1,21 @@
+{
+  "tier": 500,
+  "question_id": "pattern_4",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What are the plans for the annual company retreat?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about company retreat plans. This isn't something I have access to in the current project context or memory.\n\nYou might want to check with your team directly, or if retreat details are documented somewhere (e.g., a Notion page, Google Doc, or email), I can help you search for them if you point me in the right direction.",
+  "time_seconds": 24.67,
+  "num_turns": 1,
+  "cost_usd": 0.0466332,
+  "input_tokens": 3,
+  "cache_creation_tokens": 9526,
+  "cache_read_tokens": 26539,
+  "output_tokens": 196,
+  "total_tokens": 36264,
+  "duration_api_ms": 6567,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

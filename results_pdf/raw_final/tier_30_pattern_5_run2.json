@@ -1,0 +1,21 @@
+{
+  "tier": 30,
+  "question_id": "pattern_5",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What's happening with the Series B fundraising?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about a Series B fundraising round. My memory and context here are focused on the Claude Code benchmark study project \u00e2\u20ac\u201d there's nothing about fundraising.\n\nIf you're referring to CustomGPT.ai's fundraising, I'd suggest checking directly with the relevant stakeholders (Marko/Rashmi/Alden based on the project context) or internal comms channels. I only have visibility into what's shared with me in conversation.",
+  "time_seconds": 21.35,
+  "num_turns": 1,
+  "cost_usd": 0.0500538,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10874,
+  "cache_read_tokens": 17541,
+  "output_tokens": 267,
+  "total_tokens": 28685,
+  "duration_api_ms": 6334,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

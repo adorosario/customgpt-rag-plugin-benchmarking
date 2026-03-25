@@ -1,0 +1,21 @@
+{
+  "tier": 100,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "Found it in **email_0033.pdf**.\n\n**Project Nexus** is an internal Acme Corp initiative focused on **cross-platform synchronization with conflict resolution** capabilities. Based on the email (Subject: \"Project Nexus sprint planning\", dated 2025-07-24):\n\n- **What it is:** A project covering cross-platform integration, data synchronization, and conflict resolution aspects\n- **Teams/People involved:**\n  - **Liam Foster** (sender, from Sales/product side)\n  - **Ravi Patel** (recipient)\n  - **Product team** (CC'd)\n\nThe email is a sprint planning update from Liam Foster to Ravi Patel. It notes that all four key aspects (Nexus, cross-platform, synchronization, conflict resolution) are \"progressing well,\" with additional side notes about a hiring pipeline, a security audit (no critical vulnerabilities found), and a data migration expected to complete within two weeks.\n\nThat said, the email is fairly high-level and doesn't go into deeper architectural or scope details beyond those aspects.",
+  "time_seconds": 92.52,
+  "num_turns": 73,
+  "cost_usd": 0.9691272,
+  "input_tokens": 17,
+  "cache_creation_tokens": 228628,
+  "cache_read_tokens": 160404,
+  "output_tokens": 4240,
+  "total_tokens": 393289,
+  "duration_api_ms": 80029,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

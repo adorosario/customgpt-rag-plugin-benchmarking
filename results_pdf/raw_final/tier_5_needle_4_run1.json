@@ -1,0 +1,21 @@
+{
+  "tier": 5,
+  "question_id": "needle_4",
+  "question_type": "hard",
+  "run": 1,
+  "question": "When do the remote work policy changes take effect?",
+  "model": "claude-sonnet-4-6",
+  "response": "None of the 5 emails in this directory mention remote work policy changes. The emails cover:\n\n1. Project Nexus sprint planning\n2. Annual retreat venue options\n3. Berlin office lease agreement\n4. Series B investor pitch deck\n5. Initech API latency issues\n\nThere is no information about remote work policy changes in these documents.",
+  "time_seconds": 28.27,
+  "num_turns": 12,
+  "cost_usd": 0.1139463,
+  "input_tokens": 7,
+  "cache_creation_tokens": 21566,
+  "cache_read_tokens": 74826,
+  "output_tokens": 707,
+  "total_tokens": 97106,
+  "duration_api_ms": 16946,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

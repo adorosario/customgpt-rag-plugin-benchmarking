@@ -1,0 +1,21 @@
+{
+  "tier": 250,
+  "question_id": "pattern_2",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What's the status of the Berlin office opening?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about a Berlin office opening in my memory or in the current project context. Could you give me more context? For example:\n\n- Is this related to CustomGPT.ai?\n- Is there a document, email, or data source in this project that I should check?",
+  "time_seconds": 20.4,
+  "num_turns": 2,
+  "cost_usd": 0.1496565,
+  "input_tokens": 4,
+  "cache_creation_tokens": 36216,
+  "cache_read_tokens": 36065,
+  "output_tokens": 201,
+  "total_tokens": 72486,
+  "duration_api_ms": 7770,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

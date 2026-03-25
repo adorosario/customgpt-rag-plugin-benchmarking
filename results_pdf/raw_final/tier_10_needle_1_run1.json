@@ -1,0 +1,21 @@
+{
+  "tier": 10,
+  "question_id": "needle_1",
+  "question_type": "hard",
+  "run": 1,
+  "question": "When did Sarah from Legal say the patent filing deadline was moved to, and who did she tell?",
+  "model": "claude-sonnet-4-6",
+  "response": "None of the 10 emails in this dataset mention Sarah from Legal, a patent filing deadline, or any patent-related topic. The emails cover topics like Project Nexus, Berlin office opening, Series B fundraising, annual retreat planning, and API latency issues \u00e2\u20ac\u201d none involving a patent deadline or anyone named Sarah from Legal.",
+  "time_seconds": 47.87,
+  "num_turns": 22,
+  "cost_usd": 0.1939272,
+  "input_tokens": 10,
+  "cache_creation_tokens": 38574,
+  "cache_read_tokens": 106999,
+  "output_tokens": 1143,
+  "total_tokens": 146726,
+  "duration_api_ms": 28264,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

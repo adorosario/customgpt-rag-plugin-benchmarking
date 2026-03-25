@@ -1,0 +1,21 @@
+{
+  "tier": 5,
+  "question_id": "needle_2",
+  "question_type": "hard",
+  "run": 3,
+  "question": "What was the revised Q3 revenue projection from Finance?",
+  "model": "claude-sonnet-4-6",
+  "response": "None of the 5 emails in this directory contain a revised Q3 revenue projection. Two emails (email_0003 and email_0005) briefly mention \"the finance team provided updated projections that look promising for the year,\" but no specific figures or Q3 details are provided.",
+  "time_seconds": 32.37,
+  "num_turns": 12,
+  "cost_usd": 0.11462985,
+  "input_tokens": 7,
+  "cache_creation_tokens": 21405,
+  "cache_read_tokens": 74667,
+  "output_tokens": 796,
+  "total_tokens": 96875,
+  "duration_api_ms": 20173,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

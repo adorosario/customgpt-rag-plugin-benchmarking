@@ -1,0 +1,21 @@
+{
+  "tier": 250,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on the two emails found in the dataset (`email_0070.pdf` and `email_0193.pdf`), here's what the documents reveal:\n\n**Project Nexus** is an internal initiative at Acmecorp focused on three main aspects:\n- **Nexus** \u00e2\u20ac\u201d core functionality\n- **Cross-platform** \u00e2\u20ac\u201d platform compatibility work\n- **Synchronization** \u00e2\u20ac\u201d data/state sync\n- **Conflict resolution** \u00e2\u20ac\u201d handling data conflicts (mentioned in the sprint planning email)\n\n**People/Teams involved:**\n\n| Person | Role/Email | Context |\n|---|---|---|\n| Liam Foster | liam.foster@acmecorp.com | Author of both emails \u00e2\u20ac\u201d appears to be the project lead |\n| David Okonkwo | david.okonkwo@acmecorp.com | Architecture review recipient |\n| Ravi Patel | ravi.patel@acmecorp.com | Sprint planning recipient |\n| Product team | product@acmecorp.com | CC'd on sprint planning |\n\nThe emails are fairly high-level status updates and don't go into deeper team structure detail. The documents don't explicitly state what Nexus is building (the content reads like templated benchmark data), so specific team names beyond \"the product team\" aren't mentioned.\n\n**Sources:** `email_0070.pdf` (Nexus architecture review, 2025-10-15) and `email_0193.pdf` (Nexus sprint planning, 2025-07-24).",
+  "time_seconds": 115.47,
+  "num_turns": 18,
+  "cost_usd": 0.26819625,
+  "input_tokens": 18,
+  "cache_creation_tokens": 18411,
+  "cache_read_tokens": 489020,
+  "output_tokens": 3493,
+  "total_tokens": 510942,
+  "duration_api_ms": 98464,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

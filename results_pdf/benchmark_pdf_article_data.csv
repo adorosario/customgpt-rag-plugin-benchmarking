@@ -1,8 +1,0 @@
-PDF Files,Avg Time,P90 Time,Worst Case,Cost/Question,Cost/10 Questions,Timeout Rate,Hallucination,Accuracy,vs RAG Speed,vs RAG Cost
-5,35s,48s,59s,$0.11,$1.10,0%,60%,80%,17x slower,55x costlier
-10,57s,98s,180s,$0.20,$2.00,3%,60%,80%,28x slower,100x costlier
-30,71s,158s,180s,$0.34,$3.40,3%,60%,80%,35x slower,170x costlier
-50,83s,147s,180s,$0.39,$3.90,3%,60%,80%,42x slower,195x costlier
-100,113s,180s,180s,$0.36,$3.60,53%,60%,80%,56x slower,180x costlier
-250,121s,180s,180s,$0.37,$3.70,57%,60%,80%,40x slower,185x costlier
-500,151s,300s,300s,$0.57,$5.70,30%,60%,80%,50x slower,285x costlier

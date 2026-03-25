@@ -1,0 +1,21 @@
+{
+  "tier": 50,
+  "question_id": "needle_4",
+  "question_type": "hard",
+  "run": 3,
+  "question": "When do the remote work policy changes take effect?",
+  "model": "claude-sonnet-4-6",
+  "response": "None of the 50 emails in this directory mention remote work policy changes. I don't have enough context to answer your question \u00e2\u20ac\u201d could you clarify where you saw a reference to remote work policy changes? For example, is it in a specific document, email, or another source?",
+  "time_seconds": 140.09,
+  "num_turns": 3,
+  "cost_usd": 0.5972227999999999,
+  "input_tokens": 5,
+  "cache_creation_tokens": 12189,
+  "cache_read_tokens": 75035,
+  "output_tokens": 706,
+  "total_tokens": 87935,
+  "duration_api_ms": 126696,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "tier": 5,
+  "question_id": "pattern_2",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What's the status of the Berlin office opening?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about a Berlin office opening. This isn't something stored in my memory or project context.\n\nCould you clarify what you're referring to? For example, are you asking about a specific company, and would you like me to search for recent news about it?",
+  "time_seconds": 20.68,
+  "num_turns": 1,
+  "cost_usd": 0.0486588,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10874,
+  "cache_read_tokens": 17541,
+  "output_tokens": 174,
+  "total_tokens": 28592,
+  "duration_api_ms": 4553,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

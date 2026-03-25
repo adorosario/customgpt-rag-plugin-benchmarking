@@ -1,0 +1,21 @@
+{
+  "tier": 50,
+  "question_id": "needle_3",
+  "question_type": "hard",
+  "run": 1,
+  "question": "What database did Engineering approve migrating to, and on what date?",
+  "model": "claude-sonnet-4-6",
+  "response": "The information about an Engineering-approved database migration is not present in the 50 PDF email files in this directory. None of the emails contain a specific database name and approval date matching that description.\n\nCould you clarify where this information should be from? For example, is it from a different set of files, a specific document, or a different data source?",
+  "time_seconds": 107.47,
+  "num_turns": 3,
+  "cost_usd": 0.4091612499999999,
+  "input_tokens": 5,
+  "cache_creation_tokens": 12116,
+  "cache_read_tokens": 74965,
+  "output_tokens": 622,
+  "total_tokens": 87708,
+  "duration_api_ms": 94646,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

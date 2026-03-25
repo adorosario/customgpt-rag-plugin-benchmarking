@@ -1,0 +1,21 @@
+{
+  "tier": 500,
+  "question_id": "pattern_3",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What issues has Initech reported and how is the team responding?",
+  "model": "claude-sonnet-4-6",
+  "response": "Here's what I found across the 500 email PDFs:\n\n---\n\n## Initech Issues\n\n### 1. Patent Prior Art (email_0103.pdf)\nInitech filed patents in the cross-platform synchronization space overlapping with AcmeCorp's Nexus patent. Three related Initech filings cover adjacent territory.\n\n**Team response:** Sarah Chen is working with outside counsel to review prior art search results. The patent drafting team is updating technical descriptions (sections 4-7) to differentiate from Initech's work and strengthen AcmeCorp's position. The patent filing deadline was extended to April 15, 2025. A final review meeting is scheduled for the week of April 7.\n\n### 2. API Latency / SLA Breaches (email_0108.pdf, email_0165.pdf)\nInitech filed complaints about API latency issues and performance SLA breaches.\n\n**Team response:** Wei Zhang and Tomoko Nakamura are leading the response. Indicators of progress:\n- Customer support tickets down 15% since last release\n- Server performance reported stable since latest patch\n- Data migration expected to complete within two weeks\n- Cloud infrastructure costs under budget for three consecutive months\n\nThe API latency situation is being discussed at the next all-hands meeting.",
+  "time_seconds": 107.47,
+  "num_turns": 10,
+  "cost_usd": 0.33234189999999997,
+  "input_tokens": 11,
+  "cache_creation_tokens": 13152,
+  "cache_read_tokens": 290194,
+  "output_tokens": 2548,
+  "total_tokens": 305905,
+  "duration_api_ms": 82133,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

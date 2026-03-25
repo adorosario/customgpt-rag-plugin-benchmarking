@@ -1,0 +1,21 @@
+{
+  "tier": 10,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on **email_0001.pdf**, Project Nexus is an internal initiative at AcmeCorp focused on cross-platform synchronization and conflict resolution.\n\n**Key details from the email (Liam Foster \u00e2\u2020\u2019 Ravi Patel, 2025-07-24):**\n\n- **What it is:** A project covering four aspects \u00e2\u20ac\u201d Nexus core, cross-platform, synchronization, and conflict resolution\n- **Teams involved:** The email is CC'd to **product@acmecorp.com**, indicating the Product team is involved\n- **People mentioned:** Liam Foster (sender/owner) and Ravi Patel (recipient)\n\nThe email doesn't go into deeper detail about specific teams beyond the product group CC. The remaining emails (0002\u00e2\u20ac\u201c0010) are about unrelated topics (annual retreat, Berlin office opening).",
+  "time_seconds": 44.37,
+  "num_turns": 8,
+  "cost_usd": 0.10084455,
+  "input_tokens": 7,
+  "cache_creation_tokens": 17715,
+  "cache_read_tokens": 75091,
+  "output_tokens": 791,
+  "total_tokens": 93604,
+  "duration_api_ms": 26297,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

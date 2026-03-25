@@ -1,0 +1,21 @@
+{
+  "tier": 500,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about \"Project Nexus\" in this codebase or your memory files. Could you provide more context? For example:\n\n- Is this a project within the **customgpt-rag-plugin-benchmarking** repo you're currently in?\n- Is it tracked in Notion, Trello, or another system?\n- Or are you asking about something external?",
+  "time_seconds": 53.93,
+  "num_turns": 5,
+  "cost_usd": 0.06531075,
+  "input_tokens": 5,
+  "cache_creation_tokens": 8199,
+  "cache_read_tokens": 95315,
+  "output_tokens": 397,
+  "total_tokens": 103916,
+  "duration_api_ms": 11952,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

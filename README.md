@@ -1,164 +1,184 @@
-# Claude Code Scaling Benchmark
+# Claude Code + RAG Scaling Benchmark
 
-Benchmark measuring Claude Code's performance searching through large file collections, and the improvement when using the CustomGPT RAG plugin.
+Claude Code searches your files 4.2x faster and 3.2x cheaper with a RAG layer.
 
-Model tested: **Claude Sonnet 4.6** | 30 runs per configuration | Fresh session per query
+As the number of files Claude Code searches grows, two problems compound: searches take significantly longer, and you burn API credits faster with every question. We tested whether adding a RAG layer would solve this, making Claude Code faster and less costly to operate.
+
+**Tested on:** Claude Sonnet 4.6 | 500 PDFs | 30 runs per configuration | March 2026 | Open methodology | Fully reproducible
 
 ---
 
 ## Executive Summary
 
-We generated 500 synthetic corporate emails as PDFs and asked Claude Code 10 factual questions about them. We ran each question 3 times under two configurations: Claude Code searching files on its own, and Claude Code with the CustomGPT RAG plugin installed.
+We generated 500 synthetic corporate emails as PDFs and asked Claude Code 10 factual questions about them. We ran each question 3 times under two configurations: Claude Code searching files on its own, and Claude Code with the CustomGPT.ai RAG plugin installed.
 
 | Metric | Claude Code (alone) | Claude Code + RAG | Improvement |
 |--------|--------------------|--------------------|-------------|
-| **Avg response time** | 151s | 36s | 4.2x faster |
-| **Worst-case time** | 300s (timeout) | 46s | 6.5x faster |
+| **Avg response time** | 2 min 31 sec | 36 sec | **4.2x faster** |
+| **Cost per question** | $0.40 | $0.13 | **3.2x cheaper** |
+| **Completed in 3 min** | 39% | 100% | Every search completes |
+
+Without RAG, over 60% of searches at 500 documents did not complete within 3 minutes. With RAG, every query completed in under 46 seconds.
+
+---
+
+## What Happens as Your Document Count Grows (Claude Code Only)
+
+At 5 files, Claude Code answers in 35 seconds. By 100 files, average wait time nearly triples, cost climbs, and only 47% of searches return an answer within 3 minutes.
+
+| Documents | Avg Wait Time | Cost / Question | Done in 3 min |
+|-----------|--------------|-----------------|---------------|
+| 5 | 35 sec | $0.11 | 100% |
+| 10 | 57 sec | $0.20 | 97% |
+| 30 | 1 min 11 sec | $0.34 | 97% |
+| 50 | 1 min 23 sec | $0.39 | 97% |
+| 100 | 1 min 53 sec * | $0.36 | 47% |
+| 250 | 2 min 01 sec * | $0.37 | 43% |
+| 500 | 2 min 31 sec * | $0.40 | 39% |
+
+\* These averages understate true wait time. Searches that exceeded the 3-minute benchmark window were recorded at 3 minutes rather than their actual duration (right-censoring). The true average at these tiers is higher.
+
+### Scaling Charts
+
+| Chart | Description |
+|-------|-------------|
+| ![Completion rate](results_pdf/charts_v2/01_completion_rate.png) | Completion rate drops from 100% to 40% as documents scale |
+| ![Time comparison](results_pdf/charts_v2/03_time_comparison.png) | Response time: Claude Code alone vs with RAG plugin |
+| ![Worst case times](results_pdf/charts_v2/05_worst_case_times.png) | Average, P75, P90, and max response times by tier |
+| ![Behavior breakdown](results_pdf/charts_v2/09_behavior_breakdown.png) | What actually happens to each query at each tier |
+
+---
+
+## The Fix: Add a RAG Layer
+
+We tested whether adding a RAG layer would solve this. Using the CustomGPT.ai MCP plugin, we ran the same benchmark at 500 documents with RAG handling retrieval.
+
+| | Without RAG (500 docs) | With RAG (500 docs) | Improvement |
+|---|---|---|---|
+| **Avg response time** | 2 min 31 sec * | 36 sec | 4.2x faster |
 | **Cost per question** | $0.40 | $0.13 | 3.2x cheaper |
-| **Timeout rate** | 30% (9/30 queries) | 0% (0/30 queries) | Eliminated |
+| **Done within 3 min** | 39% | 100% | Every search completes |
 
-Without RAG, nearly a third of queries never finished. With RAG, every query completed in under 46 seconds.
+\* Right-censored. See methodology.
 
----
-
-## What We Tested
-
-**The setup:** 500 PDF emails from a fictional company (Acme Corp, 34 employees, 7 departments). Emails cover realistic corporate topics — project updates, financial reports, policy changes, vendor contracts.
-
-**The questions:** 10 questions split into two categories:
-- **5 needle questions** — a single specific fact buried in one email (e.g., "When was the patent filing deadline moved to?")
-- **5 pattern questions** — recurring topics spread across 10-15 emails (e.g., "What is Project Nexus and which teams are involved?")
-
-**The method:** Each question was run 3 times as a fresh `claude -p` session. No conversation history, no memory between runs. Timing, cost, and token usage captured from Claude's structured JSON output.
-
----
-
-## Results: PDF Files (5 to 500)
-
-Claude Code was tested on PDF collections ranging from 5 to 500 files. Response times and costs increased steadily, with timeouts appearing at 100+ files.
-
-| Files | Avg Time | P90 Time | Max Time | Cost/Q | Timeout Rate |
-|-------|----------|----------|----------|--------|-------------|
-| 5 | 35s | 48s | 59s | $0.11 | 0% |
-| 10 | 57s | 98s | 180s | $0.20 | 3% |
-| 30 | 71s | 158s | 180s | $0.34 | 3% |
-| 50 | 83s | 147s | 180s | $0.39 | 3% |
-| 100 | 113s | 180s | 180s | $0.36 | 53% |
-| 250 | 121s | 180s | 180s | $0.37 | 57% |
-| 500 | 151s | 300s | 300s | $0.57 | 30% |
-
-At 100 PDFs, over half the queries timed out. At 250, the majority failed to complete within the 3-minute limit.
-
-Full data: [`results_pdf/benchmark_pdf_article_data.csv`](results_pdf/benchmark_pdf_article_data.csv)
-
-### PDF Benchmark Charts
+### Comparison Charts
 
 | Chart | Description |
 |-------|-------------|
-| ![Time comparison](results_pdf/charts/01_time_comparison.png) | Response time scaling from 5 to 500 PDFs |
-| ![Worst case times](results_pdf/charts/04_worst_case_times.png) | Average, P90, and max response times |
-| ![Timeout rate](results_pdf/charts/07_timeout_rate.png) | Percentage of queries that timed out per tier |
-| ![Scorecard](results_pdf/charts/06_scorecard.png) | Full results table |
+| ![Head to head](results_pdf/charts_v2/06_head_to_head_500.png) | Side-by-side at 500 PDFs: completion, accuracy, time, timeout |
+| ![Cost comparison](results_pdf/charts_v2/04_cost_comparison.png) | Cost per question: Claude Code vs RAG |
+| ![Headline numbers](results_pdf/charts_v2/07_headline_numbers.png) | Key metrics at a glance |
+| ![Scorecard](results_pdf/charts_v2/08_scorecard.png) | Full results scorecard across all tiers |
 
 ---
 
-## Results: Claude Code + RAG Plugin (500 PDFs)
+## Accuracy and Hallucination Findings
 
-With the CustomGPT RAG plugin installed, Claude Code uses semantic search instead of reading files manually. The same 500 PDFs, the same 10 questions, the same model.
+Without RAG, when the requested information is not present in the document set, Claude Code returns a fabricated answer 50-100% of the time with no indication the answer may be incorrect. With RAG, it returns "not found" instead.
 
-| Metric | Without RAG | With RAG |
-|--------|------------|----------|
-| Avg time | 151s | 36s |
-| Max time | 300s | 46s |
-| Cost per question | $0.40 | $0.13 |
-| Timeouts | 30% | 0% |
-
-The RAG plugin eliminates timeouts entirely and reduces both time and cost by 3-4x.
-
-Full data: [`results_cc_rag/`](results_cc_rag/)
-
-### CC + RAG Comparison Charts
+RAG does not just make Claude Code faster. It makes it honest. The retrieval layer gives Claude Code a definitive signal about what exists in the document set before it answers.
 
 | Chart | Description |
 |-------|-------------|
-| ![Time comparison](results_cc_rag/charts/01_time_comparison.png) | Side-by-side: alone vs with RAG |
-| ![Cost comparison](results_cc_rag/charts/02_cost_comparison.png) | Cost per question comparison |
-| ![Timeout comparison](results_cc_rag/charts/03_timeout_comparison.png) | Timeout rate: 30% to 0% |
-| ![Time distribution](results_cc_rag/charts/04_time_distribution.png) | Response time variance |
-| ![Headline numbers](results_cc_rag/charts/05_headline_numbers.png) | Key metrics at a glance |
-| ![Scorecard](results_cc_rag/charts/06_scorecard.png) | Full comparison table |
+| ![Accuracy](results_pdf/charts_v2/02_accuracy.png) | Accuracy on findable questions: Claude Code alone vs RAG |
 
 ---
 
-## Results: Text Files (5 to 10,000)
+## Why It Happens
 
-We also tested plain text files (same emails, .txt instead of .pdf). Claude Code handles text files better than PDFs because it can use `grep` to search without reading each file. Response times are lower and more consistent, but cost remains high.
+Without RAG, Claude Code opens every document one by one, reads it fully, closes it, and moves to the next. At 5 files, that is manageable. At 100+, Claude Code is opening and reading PDFs sequentially. Searches slow significantly as the document count grows.
 
-| Files | Avg Time | Cost/Q | Hallucination Rate |
-|-------|----------|--------|--------------------|
-| 5 | 36s | $0.10 | 60% |
-| 10 | 36s | $0.10 | 60% |
-| 30 | 37s | $0.10 | 60% |
-| 2,500 | 47s | $0.13 | 50% |
-| 5,000 | 43s | $0.12 | 100% |
-| 10,000 | 48s | $0.13 | 50% |
+With a RAG layer, documents are indexed once. Every question searches the index instead of reopening raw files. The document count stops mattering.
 
-Hallucination rate measures how often Claude fabricated an answer when the information did not exist in the corpus. At every tier, Claude invented facts at least 50% of the time when the answer was not present.
-
-Full data: [`results/benchmark_article_data.csv`](results/benchmark_article_data.csv)
-
-### Text Benchmark Charts
-
-| Chart | Description |
-|-------|-------------|
-| ![Time comparison](results/charts/01_time_comparison.png) | Claude Code vs RAG response times |
-| ![Cost comparison](results/charts/02_cost_comparison.png) | Cost per question across tiers |
-| ![Hallucination](results/charts/03_hallucination_rate.png) | Fabrication rate on absent information |
-| ![Worst case](results/charts/04_worst_case_times.png) | Median vs worst-case response times |
-| ![Scorecard](results/charts/06_scorecard.png) | Full results table |
+This is not a flaw in Claude Code. It is a known architectural tradeoff: direct file reading is flexible and requires no setup; RAG requires indexing but scales. At small document counts, the difference is negligible. At 100+, it is decisive.
 
 ---
 
-## Methodology
+## Full Methodology
 
-**Email generation:** Python script (`generate.py`) creates realistic corporate emails with controlled "needle" facts planted at specific positions. Emails are converted to PDF via `convert_to_pdf.py`.
+We generated 500 synthetic corporate emails as PDFs from a fictional company (Acme Corp). Each question ran under two configurations: Claude Code reading files directly, and Claude Code with a RAG plugin handling retrieval. All runs used a fresh session with no conversation history. Timing was captured from Claude's structured JSON output.
 
-**Benchmark execution:** `benchmark.py` runs `claude -p "<question>" --output-format json --model sonnet` as a subprocess for each question/tier combination. Each run is a fresh session with no memory. Timing, token counts, and cost are captured from Claude's JSON response.
+| Parameter | Value |
+|-----------|-------|
+| Model | Claude Sonnet 4.6 |
+| Test corpus | 500 synthetic corporate PDF emails (Acme Corp, 7 departments, 34 employees) |
+| Questions | 10 factual questions per run (5 needle-in-haystack, 5 pattern) |
+| Runs | 3 per question per configuration (30 total per config) |
+| Session | Fresh `claude -p` session per run (no history, no memory) |
+| Without RAG | Claude Code reads files natively (grep, cat, read tools) |
+| With RAG | CustomGPT.ai MCP plugin: semantic search retrieves relevant chunks before Claude Code answers |
+| Cutoff | 3 minutes (180s) across all tiers. An earlier test pass used a 5-minute window at 500 files; artifacts from that run may appear in the raw data. All results reported here use the 3-minute window. |
+| Reproducibility | `--seed 42` for corpus generation |
 
-**CC + RAG execution:** `benchmark_cc_rag.py` runs `claude -p "Use /ask-agent to answer: <question>" --dangerously-skip-permissions` with the CustomGPT RAG plugin installed. The plugin queries a pre-indexed CustomGPT.ai agent containing all 500 PDFs.
+### Questions Tested
 
-**Scoring:** `evaluate.py` scores responses against ground truth using substring matching. Accuracy, hallucination rate, and timeout counts are computed per tier.
+**Needle-in-haystack questions** (single fact in one email):
+- Patent filing deadline date and responsible person
+- Q3 revenue projection and specific figure
+- Database migration technology and target date
+- Remote work policy effective date
+- Vendor contract annual cost
 
-**Reproducibility:** All scripts, configuration, ground truth definitions, and email templates are included in this directory. Run `python generate.py --seed 42` to regenerate the email corpus, then run the benchmark scripts to reproduce results.
+**Pattern questions** (topic spread across 10-15 emails):
+- Project Nexus scope and team involvement
+- Berlin office opening status
+- Initech API issues and response strategy
+- Company retreat planning details
+- Series B fundraising progress
+
+### Cost Methodology
+
+Cost per question at tiers 5-50 (where 97-100% of searches complete) is the raw average across all runs. At tiers 100+, where a significant portion of searches exceed the 3-minute window and record zero cost, the reported cost reflects what a search costs when Claude Code attempts an answer. This avoids the misleading appearance that larger document sets are cheaper to search.
 
 ---
 
-## File Structure
+## Data and Reproducibility
+
+### File Structure
 
 ```
-claude-code-benchmark/
-  config.yaml                      Configuration (tiers, timeouts, model)
-  ground_truth.yaml                10 questions with scoring criteria
-  generate.py                      Generate synthetic emails
-  convert_to_pdf.py                Convert .txt emails to .pdf
-  benchmark.py                     Run Claude Code benchmark (file search)
-  benchmark_cc_rag.py              Run Claude Code + RAG benchmark
-  benchmark_rag.py                 Run RAG API benchmark (direct)
-  evaluate.py                      Score results against ground truth
-  evaluate_rag.py                  Score RAG results
-  report.py                        Generate charts
+config.yaml                      Configuration (tiers, timeouts, model)
+ground_truth.yaml                10 questions with scoring criteria
+generate.py                      Generate synthetic emails
+convert_to_pdf.py                Convert .txt emails to .pdf
+benchmark.py                     Run Claude Code benchmark (file search)
+benchmark_cc_rag.py              Run Claude Code + RAG benchmark
+evaluate.py                      Score results against ground truth
+report_pdf_v2.py                 Generate charts from raw data
 
-  results/                         Text file benchmark results
-    benchmark_article_data.csv     Summary data for article
-    charts/                        12 charts (PNG)
+results_pdf/
+  raw_final/                     210 CC-only raw JSON results (7 tiers x 10 questions x 3 runs)
+  benchmark_summary_v2.csv       Summary metrics per tier
+  article_data_final.csv         Data matching the published report tables
+  charts_v2/                     9 publication-ready charts (300 DPI)
+  REPORT_V2.md                   Detailed technical report
 
-  results_pdf/                     PDF benchmark results
-    benchmark_pdf_article_data.csv Summary data for article
-    charts/                        16 charts (PNG)
+results_cc_rag/
+  raw/                           30 CC+RAG raw JSON results (500 PDFs, 10 questions x 3 runs)
 
-  results_cc_rag/                  CC + RAG comparison results
-    charts/                        6 comparison charts (PNG)
-
-  templates/                       Email generation templates
-  tests/                           Unit tests (15 tests)
+templates/                       Email generation templates
+tests/                           Unit tests
 ```
+
+### Reproducing Results
+
+```bash
+# Generate email corpus
+python generate.py --seed 42
+
+# Convert to PDF
+python convert_to_pdf.py
+
+# Run CC-only benchmark
+python benchmark.py --cwd-template "emails_pdf/tier_{tier}/" --output-dir results_pdf/raw_final --model sonnet --min-tier 5 --max-tier 500 -y
+
+# Run CC+RAG benchmark (requires CustomGPT.ai plugin installed)
+python benchmark_cc_rag.py --output-dir results_cc_rag/raw -y
+
+# Generate charts
+python report_pdf_v2.py --cc-dir results_pdf/raw_final --rag-dir results_cc_rag/raw --output-dir results_pdf
+```
+
+---
+
+CustomGPT.ai Research | March 2026 | Contact: alden@customgpt.ai

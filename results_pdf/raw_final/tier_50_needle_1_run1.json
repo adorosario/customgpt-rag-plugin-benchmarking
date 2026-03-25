@@ -1,0 +1,21 @@
+{
+  "tier": 50,
+  "question_id": "needle_1",
+  "question_type": "hard",
+  "run": 1,
+  "question": "When did Sarah from Legal say the patent filing deadline was moved to, and who did she tell?",
+  "model": "claude-sonnet-4-6",
+  "response": "The email (email_0043.pdf) from **Sarah Chen** (`sarah.chen@acmecorp.com`) dated **2025-07-28** is an IP filing status update \u00e2\u20ac\u201d but it does **not** describe a deadline being \"moved.\" Here's what it actually says:\n\n- **Target date recommended:** Tuesday, September 15 \u00e2\u20ac\u201d for filing the **non-provisional** application (the provisional was already filed on that same date)\n- **Sent to:** Jun Tanaka (`jun.tanaka@acmecorp.com`), with Legal (`legal@acmecorp.com`) CC'd\n\nNote: This email appears to contain garbled benchmark placeholder data (\"192 months,\" \"213ms weeks,\" \"$65,445\" repeating), so some values may not be meaningful.\n\nThere is no mention of a deadline being **moved** in any of the 50 emails in this dataset. The premise of your question may not match what's actually in these files.",
+  "time_seconds": 147.1,
+  "num_turns": 5,
+  "cost_usd": 0.69313435,
+  "input_tokens": 8,
+  "cache_creation_tokens": 31843,
+  "cache_read_tokens": 87069,
+  "output_tokens": 1348,
+  "total_tokens": 120268,
+  "duration_api_ms": 132348,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

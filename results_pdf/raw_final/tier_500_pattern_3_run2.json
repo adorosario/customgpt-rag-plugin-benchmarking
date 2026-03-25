@@ -1,0 +1,21 @@
+{
+  "tier": 500,
+  "question_id": "pattern_3",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What issues has Initech reported and how is the team responding?",
+  "model": "claude-sonnet-4-6",
+  "response": "Here's what the emails reveal about Initech across 3 emails:\n\n---\n\n## Initech Issues & Team Response\n\n### 1. API Latency & SLA Breach (emails 0108 & 0165)\n- **Issues reported:** API latency complaints and an SLA performance breach\n- **Team response:** Engineering is actively working on it; customer support tickets have dropped 15% since the last release, and the team reports progress across latency, response time, and SLA metrics\n\n### 2. Patent Prior Art (email 0103)\n- **Issue:** Initech filed three related patents in the cross-platform synchronization space that overlapped with AcmeCorp's pending filing\n- **Team response:** Patent drafting team is updating claims language to distinguish AcmeCorp's conflict resolution algorithm from Initech's prior art; the filing deadline was pushed from March 30 to April 15 to allow time for a proper review\n\n---\n\n**Sources:** `email_0103.pdf`, `email_0108.pdf`, `email_0165.pdf`",
+  "time_seconds": 135.92,
+  "num_turns": 16,
+  "cost_usd": 0.36389915,
+  "input_tokens": 19,
+  "cache_creation_tokens": 16771,
+  "cache_read_tokens": 524303,
+  "output_tokens": 2918,
+  "total_tokens": 544011,
+  "duration_api_ms": 102844,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

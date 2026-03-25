@@ -1,0 +1,21 @@
+{
+  "tier": 500,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "Based on 3 emails found across the 500 PDFs, here's what the documents reveal:\n\n## Project Nexus (AcmeCorp)\n\n**What it is:** A cross-platform synchronization initiative. Its key technical differentiator is a **conflict resolution algorithm**, which is novel enough to be the subject of a patent filing.\n\n**Key work areas mentioned:**\n- Cross-platform synchronization\n- Conflict resolution algorithm\n- Architecture review\n- Sprint planning & data migration\n\n---\n\n## Teams Involved\n\n| Person | Role/Team | Source |\n|---|---|---|\n| **Liam Foster** | Engineering lead \u00e2\u20ac\u201d sends sprint planning & architecture updates | email_0078, email_0309 |\n| **Elena** (surname not given) | Engineering \u00e2\u20ac\u201d owns technical implementation (patent sections 4\u00e2\u20ac\u201c7) | email_0103 |\n| **Ravi Patel** | Product team | email_0309 |\n| **product@acmecorp.com** | Product team (group) | email_0309 |\n| **David Okonkwo** | Stakeholder/manager \u00e2\u20ac\u201d receives updates from both Engineering and Legal | email_0078, email_0103, email_0309 |\n| **Sarah Chen** | Legal / Patents | email_0103 |\n| **legal@acmecorp.com** | Legal team (group) | email_0103 |\n\n**Notable context:** The patent filing deadline was pushed from March 30 to **April 15** after a prior art search found three related filings from **Initech** in the cross-platform synchronization space.",
+  "time_seconds": 137.17,
+  "num_turns": 24,
+  "cost_usd": 0.4825301000000001,
+  "input_tokens": 20,
+  "cache_creation_tokens": 27575,
+  "cache_read_tokens": 545749,
+  "output_tokens": 3750,
+  "total_tokens": 577094,
+  "duration_api_ms": 97103,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

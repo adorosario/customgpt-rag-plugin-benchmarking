@@ -1,0 +1,21 @@
+{
+  "tier": 500,
+  "question_id": "pattern_1",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What is Project Nexus and which teams are involved?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about \"Project Nexus\" in the current working directory (`D:\\software\\customgpt-ai\\customgpt-rag-plugin-benchmarking\\emails_pdf\\tier_500`) or in my memory for this project.\n\nCould you clarify what you're referring to? For example:\n- Is it something in your codebase or docs I should search for?\n- Is it an internal company project you'd like me to look up?\n- Would you like me to search the web for it?",
+  "time_seconds": 32.37,
+  "num_turns": 4,
+  "cost_usd": 0.07304535,
+  "input_tokens": 5,
+  "cache_creation_tokens": 9905,
+  "cache_read_tokens": 98922,
+  "output_tokens": 414,
+  "total_tokens": 109246,
+  "duration_api_ms": 12833,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

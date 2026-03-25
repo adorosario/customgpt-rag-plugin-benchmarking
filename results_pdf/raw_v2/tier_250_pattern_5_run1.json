@@ -1,0 +1,21 @@
+{
+  "tier": 250,
+  "question_id": "pattern_5",
+  "question_type": "easy",
+  "run": 1,
+  "question": "What's happening with the Series B fundraising?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any saved context about a Series B fundraising in my memory for this project. This working directory is focused on RAG plugin benchmarking.\n\nCould you give me more context? Are you asking about:\n- Something mentioned in documents/emails within this project?\n- CustomGPT.ai's fundraising status?\n- Something else entirely?",
+  "time_seconds": 19.59,
+  "num_turns": 2,
+  "cost_usd": 0.0585057,
+  "input_tokens": 4,
+  "cache_creation_tokens": 9726,
+  "cache_read_tokens": 62604,
+  "output_tokens": 216,
+  "total_tokens": 72550,
+  "duration_api_ms": 6997,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

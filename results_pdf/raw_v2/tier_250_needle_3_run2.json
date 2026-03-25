@@ -1,0 +1,21 @@
+{
+  "tier": 250,
+  "question_id": "needle_3",
+  "question_type": "hard",
+  "run": 2,
+  "question": "What database did Engineering approve migrating to, and on what date?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any memory stored about a database migration approval. This isn't something I have record of from our previous conversations.\n\nCould you point me to where this information lives \u00e2\u20ac\u201d a file, email, doc, or Notion page? I can look it up from there.",
+  "time_seconds": 27.06,
+  "num_turns": 2,
+  "cost_usd": 0.05816565,
+  "input_tokens": 4,
+  "cache_creation_tokens": 9727,
+  "cache_read_tokens": 62608,
+  "output_tokens": 193,
+  "total_tokens": 72532,
+  "duration_api_ms": 10894,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

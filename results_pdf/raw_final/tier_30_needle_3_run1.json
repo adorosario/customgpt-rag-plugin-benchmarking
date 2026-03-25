@@ -1,0 +1,21 @@
+{
+  "tier": 30,
+  "question_id": "needle_3",
+  "question_type": "hard",
+  "run": 1,
+  "question": "What database did Engineering approve migrating to, and on what date?",
+  "model": "claude-sonnet-4-6",
+  "response": "None of the 30 emails in this dataset contain information about Engineering approving a database migration to a specific database on a specific date. That information is not present in these documents.",
+  "time_seconds": 68.48,
+  "num_turns": 62,
+  "cost_usd": 0.50403135,
+  "input_tokens": 10,
+  "cache_creation_tokens": 116773,
+  "cache_read_tokens": 81042,
+  "output_tokens": 2786,
+  "total_tokens": 200611,
+  "duration_api_ms": 55996,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

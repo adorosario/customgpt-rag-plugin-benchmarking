@@ -1,0 +1,21 @@
+{
+  "tier": 100,
+  "question_id": "needle_3",
+  "question_type": "hard",
+  "run": 2,
+  "question": "What database did Engineering approve migrating to, and on what date?",
+  "model": "sonnet",
+  "response": "",
+  "time_seconds": 180.11,
+  "num_turns": 0,
+  "cost_usd": 0,
+  "input_tokens": 0,
+  "cache_creation_tokens": 0,
+  "cache_read_tokens": 0,
+  "output_tokens": 0,
+  "total_tokens": 0,
+  "duration_api_ms": 0,
+  "stop_reason": "",
+  "timed_out": true,
+  "error": "timeout"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": 250,
+  "question_id": "needle_4",
+  "question_type": "hard",
+  "run": 3,
+  "question": "When do the remote work policy changes take effect?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any information about remote work policy changes in my context. Could you clarify:\n\n- Are you asking about a policy at your company (CustomGPT)?\n- Is this related to a document or file in the current project?\n- Are you looking for general information about remote work policies?\n\nIf you have a specific document or source in mind, point me to it and I can help.",
+  "time_seconds": 20.14,
+  "num_turns": 2,
+  "cost_usd": 0.0597957,
+  "input_tokens": 4,
+  "cache_creation_tokens": 9794,
+  "cache_read_tokens": 62604,
+  "output_tokens": 285,
+  "total_tokens": 72687,
+  "duration_api_ms": 8731,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

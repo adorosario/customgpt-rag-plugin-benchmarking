@@ -1,0 +1,21 @@
+{
+  "tier": 50,
+  "question_id": "needle_4",
+  "question_type": "hard",
+  "run": 1,
+  "question": "When do the remote work policy changes take effect?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have access to your company's remote work policy documents or HR systems, so I can't answer that question.\n\nYou'd need to check with your HR team, company intranet, or any policy documents you've received directly.",
+  "time_seconds": 17.93,
+  "num_turns": 1,
+  "cost_usd": 0.049243800000000004,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10874,
+  "cache_read_tokens": 17541,
+  "output_tokens": 213,
+  "total_tokens": 28631,
+  "duration_api_ms": 6474,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

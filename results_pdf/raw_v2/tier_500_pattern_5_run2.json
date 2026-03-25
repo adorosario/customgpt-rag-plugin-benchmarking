@@ -1,0 +1,21 @@
+{
+  "tier": 500,
+  "question_id": "pattern_5",
+  "question_type": "easy",
+  "run": 2,
+  "question": "What's happening with the Series B fundraising?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have any stored context about a Series B fundraising. Could you give me more details? For example:\n\n- Is this related to CustomGPT.ai?\n- Are you looking to search for news/updates about it?\n- Do you have documents or emails in this project directory that reference it?",
+  "time_seconds": 41.47,
+  "num_turns": 3,
+  "cost_usd": 0.07066574999999999,
+  "input_tokens": 5,
+  "cache_creation_tokens": 9777,
+  "cache_read_tokens": 98840,
+  "output_tokens": 289,
+  "total_tokens": 108911,
+  "duration_api_ms": 11901,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

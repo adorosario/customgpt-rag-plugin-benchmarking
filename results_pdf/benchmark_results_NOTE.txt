@@ -1,0 +1,2 @@
+# NOTE: This file contains results from an earlier test pass that used a 5-minute (300s) timeout at tier 500.
+# The final published results use a uniform 3-minute (180s) cutoff. See raw_final/ and benchmark_summary_v2.csv for the current data.

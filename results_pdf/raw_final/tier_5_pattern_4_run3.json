@@ -1,0 +1,21 @@
+{
+  "tier": 5,
+  "question_id": "pattern_4",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What are the plans for the annual company retreat?",
+  "model": "claude-sonnet-4-6",
+  "response": "I don't have information about your company's annual retreat plans. I only have access to what's in your local project files and the systems connected to this workspace.\n\nYou could try:\n\n- Checking your Google Calendar or Gmail for retreat-related events/emails\n- Searching Notion if plans are documented there\n- Asking a colleague or your HR/admin team directly\n\nWould you like me to search your Gmail or Google Calendar for retreat-related information?",
+  "time_seconds": 47.91,
+  "num_turns": 1,
+  "cost_usd": 0.0501588,
+  "input_tokens": 3,
+  "cache_creation_tokens": 10874,
+  "cache_read_tokens": 17541,
+  "output_tokens": 274,
+  "total_tokens": 28692,
+  "duration_api_ms": 7922,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}

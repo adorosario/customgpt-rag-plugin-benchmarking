@@ -1,0 +1,21 @@
+{
+  "tier": 50,
+  "question_id": "pattern_3",
+  "question_type": "easy",
+  "run": 3,
+  "question": "What issues has Initech reported and how is the team responding?",
+  "model": "claude-sonnet-4-6",
+  "response": "Here's what the emails reveal about Initech:\n\n## Initech Issues (2 emails found)\n\n### Issue: API Latency / SLA Breach\nBoth emails relate to the same underlying problem \u00e2\u20ac\u201d Initech is experiencing **API latency issues** that led to an **SLA breach**.\n\n**email_0040.pdf** \u00e2\u20ac\u201d *\"Initech escalation \u00e2\u20ac\u201d API latency issues\"*\n- From: wei.zhang@acmecorp.com \u00e2\u2020\u2019 derek.morrison@acmecorp.com (2025-11-19)\n- Escalation raised internally about API latency complaints from Initech\n\n**email_0047.pdf** \u00e2\u20ac\u201d *\"Re: Initech performance SLA breach\"*\n- From: tomoko.nakamura@acmecorp.com \u00e2\u2020\u2019 sofia.martinez@acmecorp.com (2025-10-31)\n- Follow-up on the SLA breach tied to the same latency problem\n\n### Team Response\n- Progress reported as going well across Initech, API latency, SLA, and performance fronts\n- Plan to circle back at the next all-hands meeting\n- Server performance metrics described as stable since the latest patch deployment\n- Support tickets company-wide down 15% since the last release (positive signal)\n- No specific resolution timeline mentioned for Initech specifically\n\n**Bottom line:** Initech raised an API latency complaint that escalated into a formal SLA breach. The team is engaged and reporting progress, but the emails don't confirm a full resolution yet.",
+  "time_seconds": 90.53,
+  "num_turns": 4,
+  "cost_usd": 0.25998984999999997,
+  "input_tokens": 6,
+  "cache_creation_tokens": 12547,
+  "cache_read_tokens": 103887,
+  "output_tokens": 1072,
+  "total_tokens": 117512,
+  "duration_api_ms": 73132,
+  "stop_reason": "end_turn",
+  "timed_out": false,
+  "error": null
+}
