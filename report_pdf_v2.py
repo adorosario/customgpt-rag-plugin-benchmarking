@@ -254,8 +254,8 @@ def chart_completion_rate(cc_tiers, rag_stats, charts_dir, dpi=300):
     ax.set_xticks(range(len(tiers)))
     ax.set_xticklabels([f"{t:,}" for t in tiers])
     ax.set_xlabel("Number of PDF Files", fontsize=13)
-    ax.set_ylabel("Completion Rate (%)", fontsize=13)
-    ax.set_title("Claude Code Completion Rate by Document Count", fontsize=16, fontweight="bold", pad=15)
+    ax.set_ylabel("Completed Within 3 Minutes (%)", fontsize=13)
+    ax.set_title("Searches Completed Within 3 Minutes by Document Count", fontsize=16, fontweight="bold", pad=15)
     ax.set_ylim(0, 115)
 
     fig.tight_layout()
@@ -409,7 +409,7 @@ def chart_worst_case(cc_tiers, rag_stats, charts_dir, dpi=300):
                 ha='right', fontsize=12, color='#059669', fontweight='bold')
 
     ax.axhline(y=180, color=LIGHT_GRAY, linestyle=':', linewidth=1, alpha=0.6)
-    ax.text(tiers[0], 183, "180s timeout", fontsize=9, color=GRAY)
+    ax.text(tiers[0], 183, "3-minute benchmark window", fontsize=9, color=GRAY)
 
     ax.set_xlabel("Number of PDF Files", fontsize=13)
     ax.set_ylabel("Response Time (seconds)", fontsize=13)
@@ -430,11 +430,11 @@ def chart_head_to_head(cc_500, rag_stats, charts_dir, dpi=300):
     fig, axes = plt.subplots(1, 4, figsize=(18, 5))
 
     metrics = [
-        ("Completion\nRate", cc_500["completion_rate"] * 100, 100, "%"),
+        ("Done in\n3 Minutes", cc_500["completion_rate"] * 100, 100, "%"),
         ("Accuracy on\nFindable Qs", cc_500["findable_accuracy"] * 100,
          rag_stats["findable_accuracy"] * 100, "%"),
         ("Avg Response\nTime", cc_500["avg_time"], rag_stats["avg_time"], "s"),
-        ("Timeout\nRate", cc_500["timeout_rate"] * 100, 0, "%"),
+        ("Exceeded\n3 Min Limit", cc_500["timeout_rate"] * 100, 0, "%"),
     ]
 
     for ax, (label, cc_val, rag_val, unit) in zip(axes, metrics):
@@ -478,8 +478,8 @@ def chart_headline(cc_500, rag_stats, charts_dir, dpi=300):
          f"{cc_500['avg_time']:.0f}s vs {rag_stats['avg_time']:.0f}s\nper question", RAG_COLOR),
         (f"{acc_rag:.0f}%", "RAG Accuracy",
          f"vs {acc_cc:.0f}% CC-only\non findable questions", BRAND),
-        (f"{cc_500['timeout_rate']*100:.0f}%", "CC Timeout Rate",
-         f"at 500 PDFs\nRAG: 0% timeouts", CC_COLOR),
+        (f"{cc_500['timeout_rate']*100:.0f}%", "Exceeded 3 Min Limit",
+         f"at 500 PDFs (benchmark cutoff)\nRAG: 0%", CC_COLOR),
         ("100%", "RAG Completion",
          f"every query answered\nwithin {rag_stats['avg_time']:.0f}s avg", PURPLE),
     ]
@@ -530,7 +530,7 @@ def chart_scorecard(cc_tiers, rag_stats, charts_dir, dpi=300):
             f"0%",
         ])
 
-    col_labels = ["PDFs", "Completion", "Accuracy", "Avg Time", "P90", "Cost/Q", "Timeout"]
+    col_labels = ["PDFs", "Done in 3 min", "Accuracy", "Avg Time", "P90", "Cost/Q", "Exceeded 3 min"]
 
     n_rows = len(table_rows)
     n_cols = len(col_labels)
@@ -557,7 +557,7 @@ def chart_scorecard(cc_tiers, rag_stats, charts_dir, dpi=300):
             elif row_idx % 2 == 0:
                 tbl[row_idx, col_idx].set_facecolor("#FEF2F2")  # Light red
 
-    ax.set_title("Full Benchmark Scorecard (Claude Sonnet 4.6, 180s timeout)",
+    ax.set_title("Full Benchmark Scorecard (Claude Sonnet 4.6, 3-minute benchmark window)",
                  fontweight="bold", fontsize=14, pad=12)
     fig.tight_layout()
     save_chart(fig, charts_dir / "08_scorecard.png", dpi)
@@ -597,7 +597,7 @@ def chart_behavior_breakdown(cc_tiers, charts_dir, dpi=300):
     p3 = ax.bar(x, gave_up, w, bottom=bottom2, label="Gave up / Wrong", color="#F97316", alpha=0.85)
 
     bottom3 = [b + g for b, g in zip(bottom2, gave_up)]
-    p4 = ax.bar(x, timeout, w, bottom=bottom3, label="Timeout", color=CC_COLOR, alpha=0.85)
+    p4 = ax.bar(x, timeout, w, bottom=bottom3, label="Exceeded 3 min limit", color=CC_COLOR, alpha=0.85)
 
     ax.set_xticks(x)
     ax.set_xticklabels([f"{t:,}" for t in tiers])

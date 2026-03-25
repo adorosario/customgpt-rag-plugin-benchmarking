@@ -42,7 +42,7 @@ At 5 files, Claude Code answers in 35 seconds. By 100 files, average wait time n
 
 | Chart | Description |
 |-------|-------------|
-| ![Completion rate](results_pdf/charts_v2/01_completion_rate.png) | Completion rate drops from 100% to 40% as documents scale |
+| ![Completion rate](results_pdf/charts_v2/01_completion_rate.png) | Searches completed within 3 minutes drops from 100% to 40% as documents scale |
 | ![Time comparison](results_pdf/charts_v2/03_time_comparison.png) | Response time: Claude Code alone vs with RAG plugin |
 | ![Worst case times](results_pdf/charts_v2/05_worst_case_times.png) | Average, P75, P90, and max response times by tier |
 | ![Behavior breakdown](results_pdf/charts_v2/09_behavior_breakdown.png) | What actually happens to each query at each tier |
