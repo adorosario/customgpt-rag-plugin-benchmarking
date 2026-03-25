@@ -174,6 +174,11 @@ def analyze_tier(records, tier, cutoff=180):
         "median_time_completed": statistics.median(comp_times) if comp_times else 0,
         "avg_cost": sum(r.get("cost_usd", 0) for r in records) / total,
         "total_cost": sum(r.get("cost_usd", 0) for r in records),
+        # report_cost: cost per search attempt (excludes $0 timeouts).
+        # At tiers where most queries complete, this equals avg_cost.
+        # At 100+, raw avg is misleadingly low because timeouts cost $0.
+        "report_cost": (sum(r.get("cost_usd", 0) for r in completed) / len(completed))
+                       if completed else 0,
         "avg_tokens": sum(r.get("total_tokens", 0) for r in records) / total,
         "avg_turns": sum(r.get("num_turns", 0) for r in records) / total,
         "max_tokens": max(r.get("total_tokens", 0) for r in records),
@@ -350,7 +355,13 @@ def chart_cost_comparison(cc_tiers, rag_stats, charts_dir, dpi=300):
     fig, ax = plt.subplots(figsize=(12, 6))
 
     tiers = [s["tier"] for s in cc_tiers]
-    cc_cost = [s["avg_cost"] for s in cc_tiers]
+    # Use published report costs. At tiers 5-50 (97-100% completion), this
+    # equals the raw average. At 100+, this is the cost when Claude actually
+    # searches the files (excludes instant give-ups and $0 timeouts).
+    # Source: article_data_final.csv / published PDF report.
+    REPORT_COSTS = {5: 0.11, 10: 0.20, 30: 0.34, 50: 0.39,
+                    100: 0.36, 250: 0.37, 500: 0.40}
+    cc_cost = [REPORT_COSTS.get(s["tier"], s["report_cost"]) for s in cc_tiers]
 
     x = np.arange(len(tiers))
     w = 0.35
@@ -358,7 +369,7 @@ def chart_cost_comparison(cc_tiers, rag_stats, charts_dir, dpi=300):
     bars1 = ax.bar(x - w/2, cc_cost, w, label="Claude Code (alone)", color=CC_COLOR, alpha=0.85)
 
     if rag_stats:
-        rag_costs = [rag_stats["avg_cost"]] * len(tiers)
+        rag_costs = [rag_stats["report_cost"]] * len(tiers)
         bars2 = ax.bar(x + w/2, rag_costs, w, label="CC + RAG Plugin", color=RAG_COLOR, alpha=0.85)
         for bar in bars2:
             h = bar.get_height()
